@@ -26,12 +26,7 @@ const moves = require('./00-jsons/00-moves.json')
 
 /* ------------------ THIS IS OUR TEMPLATE FROM BEFORE ------------------------ */
 
-// const hey = moves.find( ({ name }) => {
-//     return name.english.toLowerCase() === 'razor wind';
-// });
-// console.log(hey._id);
-
-const temp = [ pokedex[0], pokedex[1], pokedex[2] ]
+// const temp = [ pokedex[0], pokedex[1], pokedex[2] ] // use this as your test
 const final = [];
 const _template = {
     "_id": 1,
@@ -92,7 +87,7 @@ const _template = {
       "spd": 45
     },
     "evs": {},
-    "moves": {
+    "moves": { // this got expanded upon in the 00-pokdex upgrade to have all games by gen and then game matchup
       "bdsp": {
         "levelUp": [],
         "eggMoves": [],
@@ -101,7 +96,7 @@ const _template = {
         }
       }
     },
-    "pokedexEntries": {
+    "pokedexEntries": { // owkring on finding an api for dex entries
       "rb": null,
       "y": null,
       "g": null,
@@ -156,12 +151,11 @@ const fetcher = async () => {
     const POKE_API_URL = 'https://pokeapi.co/api/v2/';
     try {
         if (index > 897) {
-            // console.log(temp);
             // convert JSON object to string
             const data_array = JSON.stringify(final, null, 2); // this makes it pretty
 
             // write JSON string to a file
-            fs.writeFile('./01-jsons/01.1-pokedex.json', data_array, (error) => {
+            fs.writeFile('./01-jsons/01-pokedex.json', data_array, (error) => {
                 if (error) {
                     console.log(error);
                 }
@@ -171,7 +165,6 @@ const fetcher = async () => {
         }
         const response = await fetch(`${POKE_API_URL}pokemon/${index+1}`);
         const data = await response.json();
-        // console.log(data.moves[1])
         _main_rewrite(pokedex[index], data, final);
         index++
         console.log(`-----Done ${index}-----`)
@@ -207,8 +200,6 @@ const _main_rewrite = (old_data, new_data, new_array) => {
     old_data.baseExp = new_data.base_experience; // get base exp
     // this is for evs
     new_data.stats.forEach((stat) => {
-        
-
         if (stat.effort > 0) {
             if (stat.stat.name === "attack") {old_data.evs["atk"] = stat.effort}
             if (stat.stat.name === "defense") {old_data.evs["def"] = stat.effort}
@@ -217,7 +208,8 @@ const _main_rewrite = (old_data, new_data, new_array) => {
             if (stat.stat.name === "speed") {old_data.evs["spd"] = stat.effort}
         }
     })
-    if (old_data._id >= 810) {
+
+    if (old_data._id >= 810) { // this is because I was missing base Stats after 810
         old_data.baseStats.hp = new_data.stats[0].base_stat;
         old_data.baseStats.atk = new_data.stats[1].base_stat;
         old_data.baseStats.def = new_data.stats[2].base_stat;
@@ -226,7 +218,7 @@ const _main_rewrite = (old_data, new_data, new_array) => {
         old_data.baseStats.spd = new_data.stats[5].base_stat;
     }
 
-    const _helpMe = (game, method, level, id, move) => {
+    const _moveConverter = (game, method, level, id) => {
         let gen = ''
         let goTo = '';
         let group = '';
@@ -270,50 +262,43 @@ const _main_rewrite = (old_data, new_data, new_array) => {
         if (method === 'egg') { group = 'egg' };
         if (method === 'tutor') { group = 'tutor' };
         if (method === 'level-up') { group = 'levelUp' };
-
+        // Log Errors
         if (gen === '' || group === '') {
             console.log('Method of move: ', method);
             console.log('Game it was meant to be sent too: ', game);
             return;
         };
-        // console.log(`----------${move}----------`);
-        // console.log('game:', game, 'gen:', gen);
+
         if (group === 'levelUp') {
-            // console.log('here');
             old_data.moves[gen][goTo][group].push({
                 level: level,
                 id: id
             })
         } else {
-            // console.log('or here');
-            // console.log(old_data.moves[gen][goTo][group]);
-            old_data.moves[gen][goTo][group].push({
-                id
-            })
+            old_data.moves[gen][goTo][group].push(id) // I wanted a simple array I can sort through later
         }
-        
     }
 
     new_data.moves.forEach((move) => {
         move.version_group_details.forEach((version) => {
             const game_name = version.version_group.name;
-            if (game_name === 'xd' || game_name === 'colosseum') return;
-
-            const move_name = move.move.name.replace('-', ' ');
-            const move_method = version.move_learn_method.name;
-            const level = version.level_learned_at;
-            const found = moves.find(({ name }) => {
-                return name.english.toLowerCase().replace('-', ' ') === move_name
+            if (game_name === 'xd' || game_name === 'colosseum') return; // leave because I do not care about this games
+            const move_name = move.move.name.replace('-', ' ').replace('-', ' '); // some moves have two '-'
+            const move_method = version.move_learn_method.name; // move method coming from the api
+            const level = version.level_learned_at; // the level learnt at for level up moves
+            // find the move in the data base and return the _id
+            const found = moves.find(({ name }) => { 
+                const move = name.english.toLowerCase().replace('-', ' ').replace('-', ' ');
+                return move === move_name;
             });
             if (found) {
-                _helpMe(game_name, move_method, level, found._id, found.name.english)
-            } else {
+                _moveConverter(game_name, move_method, level, found._id)
+            } else { // if the move is not found due to a string mismatch or not uploaded in the moves.json, show here
                 console.log('Not found move name:', move_name);
                 return;
             }
-            
         })
     });
 
-    new_array.push(old_data)
+    new_array.push(old_data) // send your new data into the final product
 }

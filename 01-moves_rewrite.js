@@ -1,5 +1,6 @@
 const fs = require('fs');
-const moves = require('./moves.json');
+const fetch = require('node-fetch');
+const moves = require('./00-jsons/00-moves.json');
 
 /**
  * PURPOSE
@@ -36,44 +37,159 @@ const moves = require('./moves.json');
  *      It will show you if everything is working as planned and you can make edits to the main_rewrite
  */
 
-const _data_template_obj = {
-        "accuracy": 100,
-        "category": "物理",
-        "cname": "拍击",
-        "ename": "Pound",
-        "id": 1,
-        "jname": "はたく",
-        "power": 40,
-        "pp": 35,
-        "type": "Normal"
+const _data_template_obj =     {
+    "_id": null,
+    "name": {
+      "english": null,
+      "japanese": null,
+      "chinese": null,
+      "korean": null,
+      "german": null,
+      "french": null,
+      "italian": null,
+      "spanish": null
+    },
+    "type": null,
+    "category": null,
+    "contest": null,
+    "pp": null,
+    "power": null,
+    "accuracy": null,
+    "contact": null,
+    "generation": null,
+    "target": null,
+    "effects": [],
+    "changes": [],
+    "zMoveEffects": [],
+    "descriptions": {
+      "la": null,
+      "bdsp": null,
+      "smusumlgplge": null,
+      "xyoras": null,
+      "bwb2w2": null,
+      "dpphgss": null,
+      "frlg": null,
+      "rse": null,
+      "gsc": null,
+      "rbyg": null
+    }
 }
+
+const final = [];
+let index = 0;
+const fetcher = async () => {
+    const POKE_API_URL = 'https://pokeapi.co/api/v2/';
+    try {
+        if (index > 825) { // current highest move available is 826, so 825
+            // convert JSON object to string
+            const data_array = JSON.stringify(final, null, 2); // this makes it pretty
+
+            // write JSON string to a file
+            fs.writeFile('./01-jsons/01-moves.json', data_array, (error) => {
+                if (error) {
+                    console.log(error);
+                }
+                console.log("JSON data is saved.");
+            });
+            return;
+        }
+        const response = await fetch(`${POKE_API_URL}move/${index+1}`);
+        const data = await response.json();
+        if (index + 1 > 590) { // for some reason 7 ar missing after 590
+            _new_rewrite(data, final)
+        } else {
+            _main_rewrite(moves[index], data, final);
+        }
+        index++
+        console.log(`-----Done ${index}-----`)
+        fetcher();
+    } catch (error) {
+        console.log(error);
+    }
+}
+fetcher();
+
 
 /**
  * MAIN FUNCTION
  */
-const main_rewrite = (data, new_array) => {
+const _main_rewrite = (old_data, new_data, new_array) => {  
+    if (new_data.contest_type) {
+        old_data.contest = new_data.contest_type.name.charAt(0).toUpperCase() + new_data.contest_type.name.slice(1);
+    }
+    if (new_data.damage_class) {
+        old_data.category = new_data.damage_class.name.charAt(0).toUpperCase() + new_data.damage_class.name.slice(1);
+    }
+    if (new_data.generation) {
+        let generation = null;
+        let gen = new_data.generation.name;
+        if (gen === 'generation-viii') {generation = '8'}
+        if (gen === 'generation-vii') {generation = '7'}
+        if (gen === 'generation-vi') {generation = '6'}
+        if (gen === 'generation-v') {generation = '5'}
+        if (gen === 'generation-iv') {generation = '4'}
+        if (gen === 'generation-iii') {generation = '3'}
+        if (gen === 'generation-ii') {generation = '2'}
+        if (gen === 'generation-i') {generation = '1'}
+        old_data.generation = generation;
+    }
+    // update languages
+    old_data.name.korean = new_data.names[1].name;
+    old_data.name.german = new_data.names[5].name;
+    old_data.name.french = new_data.names[4].name; 
+    old_data.name.italian = new_data.names[7].name;
+    old_data.name.spanish = new_data.names[6].name;
+    old_data.target = new_data.target.name.charAt(0).toUpperCase() + new_data.target.name.slice(1);
+    old_data.contact = new_data.damage_class.name === 'Status' ? 'No' : null;
+
+    new_array.push(old_data)
+}
+
+const _new_rewrite = (data, new_array) => {
     // this is your new object with info you need
+    const contact = data.damage_class.name === 'status' ? 'No' : null;
+    let contest = null;
+    let category = null;
+    let generation = null;
+    if (data.contest_type) {
+        contest = data.contest_type.name;
+    }
+    if (data.damage_class) {
+        category = data.damage_class.name;
+    }
+    if (data.generation) {
+        let gen = data.generation.name;
+        if (gen === 'generation-viii') {generation = '8'};
+        if (gen === 'generation-vii') {generation = '7'};
+        if (gen === 'generation-vi') {generation = '6'};
+        if (gen === 'generation-v') {generation = '5'};
+        if (gen === 'generation-iv') {generation = '4'};
+        if (gen === 'generation-iii') {generation = '3'};
+        if (gen === 'generation-ii') {generation = '2'};
+        if (gen === 'generation-i') {generation = '1'};
+    };
+
     const _templateObj = {
         _id: data.id, 
         name: {
-            english: data.ename,
-            japanese: data.jname,
-            chinese: data.cname,
-            korean: null,
-            german: null,
-            french: null, 
-            italian: null, 
-            spanish: null
+            english: data.name.charAt(0).toUpperCase() + data.name.slice(1),
+            japanese: data.names[0].name,
+            chinese: data.names[2].name,
+            korean: data.names[1].name,
+            german: data.names[5].name,
+            french: data.names[4].name, 
+            italian: data.names[7].name, 
+            spanish: data.names[6].name
         },
-        type: data.type,
-        category: null,
-        contest: null,
+        type: data.type.name.charAt(0).toUpperCase() + data.type.name.slice(1),
+        category: category.charAt(0).toUpperCase() + category.slice(1),
+        contest: contest,
         pp: data.pp,
         power: data.power,
         accuracy: data.accuracy,
-        contact: null,
-        generation: null,
-        target: null,
+        contact: contact,
+        generation: generation,
+        target: data.target.name.charAt(0).toUpperCase() + data.target.name.slice(1),
         effects: [],
         changes: [],
         zMoveEffects: [],
@@ -93,21 +209,3 @@ const main_rewrite = (data, new_array) => {
 
     new_array.push(_templateObj)
 }
-
-const array_rewritten = [];
-
-moves.forEach((move) => {
-    main_rewrite(move, array_rewritten)
-})
-
-// convert JSON object to string
-const data = JSON.stringify(array_rewritten, null, 2);
-
-// write JSON string to a file
-fs.writeFile('00-moves.json', data, (error) => {
-    if (error) {
-        throw err;
-    }
-    console.log("JSON data is saved.");
-});
-
