@@ -339,7 +339,7 @@ const main_rewrite = (data, new_array, new_obj) => {
         _templateObj.baseStats.atk = data.base.Attack; // Hp base stat
         _templateObj.baseStats.def = data.base.Defense; // Hp base stat
         _templateObj.baseStats.spatk = data.base["Sp. Attack"]; // Hp base stat
-        _templateObj.baseStats.spdef = data.base["Sp Defense"]; // Hp base stat
+        _templateObj.baseStats.spdef = data.base["Sp. Defense"]; // Hp base stat
         _templateObj.baseStats.spd = data.base.Speed; // Hp base stat
     }       
 
@@ -347,7 +347,6 @@ const main_rewrite = (data, new_array, new_obj) => {
     new_array.push(_templateObj)
     // If you want and object use this line below
     // new_obj[data.id] = new_obj;
-
 }
 
 /**

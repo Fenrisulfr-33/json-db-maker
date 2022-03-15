@@ -38,7 +38,15 @@ Calm down, I know you're excitied like I was
       - It is a slim but very possible chance they updated their API while I was doing this because for a couple hour my code works then shit just got wild.
       - Basically I am missing a bunch of MOVES! so I wanted to see what different ways pokemon could learn moves so I could figure out how to update my data model.
       - Now that I see my errors I am going to create the 01-moves_rewrite.js and scrap there API for everything I can find and fill in moves after 619.
-  
+
+---
+
+#### Updates
+
+  Date: March 15th, 2022
+
+  Added the 99-pokedex and moves, this is reserved for hard coding information until I can figure out how I want to store the data. I will be frequently updating these two files specifically. And will soon add abilities.
+
 ---  
 
 #### If you made it this far, yes I am still here

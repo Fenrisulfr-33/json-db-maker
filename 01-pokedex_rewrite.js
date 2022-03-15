@@ -2,7 +2,9 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 // data objects
 const pokedex = require('./00-jsons/00-pokedex.json');
-const moves = require('./00-jsons/00-moves.json')
+/* const moves = require('./00-jsons/00-moves.json') 
+Once the moves JSON file was updated from the og moves to 00 moves to 01 moves, use this to re write the pokedex so you can get all moves*/
+const moves = require('./01-jsons/01-moves.json')
 
 /**
  * ------------------- READ THIS PART ----------------------------
@@ -283,12 +285,12 @@ const _main_rewrite = (old_data, new_data, new_array) => {
         move.version_group_details.forEach((version) => {
             const game_name = version.version_group.name;
             if (game_name === 'xd' || game_name === 'colosseum') return; // leave because I do not care about this games
-            const move_name = move.move.name.replace('-', ' ').replace('-', ' '); // some moves have two '-'
+            const move_name = move.move.name.replace('-', ' ').replace('-', ' ').replace("'", ''); // some moves have two '-'
             const move_method = version.move_learn_method.name; // move method coming from the api
             const level = version.level_learned_at; // the level learnt at for level up moves
             // find the move in the data base and return the _id
             const found = moves.find(({ name }) => { 
-                const move = name.english.toLowerCase().replace('-', ' ').replace('-', ' ');
+                const move = name.english.toLowerCase().replace('-', ' ').replace('-', ' ').replace("'", '');
                 return move === move_name;
             });
             if (found) {
