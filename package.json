@@ -1,0 +1,28 @@
+{
+  "name": "js-json-file-converter-creator",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "00-moves_rewrite.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon 02-web_scrapper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fenrisulfr-33/js-json-file-converter-creator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fenrisulfr-33/js-json-file-converter-creator/issues"
+  },
+  "homepage": "https://github.com/Fenrisulfr-33/js-json-file-converter-creator#readme"
+}
