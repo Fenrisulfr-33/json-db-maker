@@ -19,31 +19,9 @@ let index = 0; // 0 bulbasaur
 const newPokemonArray = []; // this will be the final array that gets converted to the new json object
 
 const scrapePokemonData = async () => {
-    let pokemon = pokedex[index].name.english.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, '');
 
-    if (index === 28) { pokemon += '-f' } // nidoran-f
-    if (index === 31) { pokemon += '-m' } // nidoran-m
-    if (index === 121) { pokemon = 'mr-mime'} // mr mime needs to be formatted mr-mime
-    if (index === 249 ) { pokemon = 'ho-oh' } // ho oh to ho-oh
-    if (index === 438 ) { pokemon = 'mime-jr' } // mime jr
-    if (index === 473 ) { pokemon = 'porygon-z' } // porygon-z
-    if (index === 668 ) { pokemon = 'flabebe' } // flabebe has accents in it
-    if (index === 771 ) { pokemon = 'type-null' } // type: null
-    if (index === 781 ) { pokemon = 'jangmo-o' } // type: null
-    if (index === 782 ) { pokemon = 'hakamo-o' } // type: null
-    if (index === 783 ) { pokemon = 'kommo-o' } // type: null
-    if (index === 784 ) { pokemon = 'tapu-koko' } // type: null
-    if (index === 785 ) { pokemon = 'tapu-lele' } // type: null
-    if (index === 786 ) { pokemon = 'tapu-bulu' } // type: null
-    if (index === 787 ) { pokemon = 'tapu-fini' } // type: null
-    if (index === 865 ) { pokemon = 'mr-rime' } // type: null
 
-    let URL = `https://pokemondb.net/pokedex/${pokemon}`;
-
-    const currentPokemonObj = pokedex[index];
-    const newPokedexObj = {};
-
-    if (index > 896) { // 896 this means we are at calyrex even tho there are more now
+    if (index > 897) { // 896 this means we are at calyrex even tho there are more now
         // convert JSON object to string
         const data_array = JSON.stringify(newPokemonArray, null, 2); // this makes it pretty
 
@@ -56,6 +34,30 @@ const scrapePokemonData = async () => {
         });
         return;
     } else {
+        let pokemon = pokedex[index].name.english.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, '');
+
+        if (index === 28) { pokemon += '-f' } // nidoran-f
+        if (index === 31) { pokemon += '-m' } // nidoran-m
+        if (index === 121) { pokemon = 'mr-mime'} // mr mime needs to be formatted mr-mime
+        if (index === 249 ) { pokemon = 'ho-oh' } // ho oh to ho-oh
+        if (index === 438 ) { pokemon = 'mime-jr' } // mime jr
+        if (index === 473 ) { pokemon = 'porygon-z' } // porygon-z
+        if (index === 668 ) { pokemon = 'flabebe' } // flabebe has accents in it
+        if (index === 771 ) { pokemon = 'type-null' } // type: null
+        if (index === 781 ) { pokemon = 'jangmo-o' } // type: null
+        if (index === 782 ) { pokemon = 'hakamo-o' } // type: null
+        if (index === 783 ) { pokemon = 'kommo-o' } // type: null
+        if (index === 784 ) { pokemon = 'tapu-koko' } // type: null
+        if (index === 785 ) { pokemon = 'tapu-lele' } // type: null
+        if (index === 786 ) { pokemon = 'tapu-bulu' } // type: null
+        if (index === 787 ) { pokemon = 'tapu-fini' } // type: null
+        if (index === 865 ) { pokemon = 'mr-rime' } // type: null
+    
+        let URL = `https://pokemondb.net/pokedex/${pokemon}`;
+    
+        const currentPokemonObj = pokedex[index];
+        const newPokedexObj = {};
+
         try {
             axios(URL)
                 .then(response =>  {
@@ -256,12 +258,243 @@ const scrapePokemonData = async () => {
                 const headings = $('h2');      
                 headings.each((index, element) => {
                     const heading = $(element).text();
+                    /**
+                     * Pokedex entries
+                     * 
+                     *  Potientally all games
+                     * 
+                     */
                     if (heading === "Pok\u00E9dex entries") {
                         getPokedexEntries(element);
                     }
+
+                    /**
+                     * Pokedex data
+                     * 
+                     *  National number - Not needed
+                     *  Type - not needed
+                     *  Species - Could be used in the future, but not needed
+                     *  Height
+                     *  Weight
+                     *  Abilities
+                     *  Local No.
+                     * 
+                     */
+                    if (heading === `Pok\u00E9dex data`) {
+                        const listEntries = $(element).next('table').children('tbody').children('tr');
+                        listEntries.each((index, element) => {
+                            const title = $(element).children('th').text();
+                            const data = $(element).children('td').text();
+                            if (title === 'Height') {
+                                currentPokemonObj.height = data;
+                            }
+                            if (title === 'Weight') {
+                                currentPokemonObj.weight = data;
+                            }
+                        })
+
+                    }
+                    
+                    /**
+                     * Training section
+                     * 
+                     *  EV yield
+                     *  Catch rate
+                     *  Base friendhip
+                     *  Base exp.
+                     *  Growth rate
+                     */
+                    if (heading === `Training`) {
+
+                        /* Creates a uppercase hex number with at least length digits from a given number */
+                        function fixedHex(number, length) {
+                            var str = number.toString(16).toUpperCase();
+                            while (str.length < length)
+                                str = "0" + str;
+                            return str;
+                        }
+
+                        /* Creates a unicode literal based on the string */
+                        function unicodeLiteral(str) {
+                            var i;
+                            var result = "";
+                            for (i = 0; i < str.length; ++i) {
+                                /* You should probably replace this by an isASCII test */
+                                if (str.charCodeAt(i) > 126 || str.charCodeAt(i) < 32)
+                                    result += "\\u" + fixedHex(str.charCodeAt(i), 4);
+                                else
+                                    result += str[i];
+                            }
+
+                            return result;
+                        }
+
+
+                        const listEntries = $(element).next('table').children('tbody').children('tr');
+                        listEntries.each((index, element) => {
+                            const title = $(element).children('th').text();
+                            const data = $(element).children('td').text();
+                            // console.log(`...${unicodeLiteral(data)}...`) // check for unicode literals
+                            if (data === '\u2014' || data === '\u000A\u2014\u000A' || data === '\u000A\u2014 ') { 
+                                // console.log('gotcha');
+                            } else if (title === 'Growth Rate') {
+                                currentPokemonObj.growthRate = data;
+                            } else if (title === 'Base Friendship') {
+                                let newData = data.replace(/[^0-9]/g, '');
+                                currentPokemonObj.baseFriendship = Number(newData);
+                            } else if (title === 'Catch rate') {
+                                let newData = data.slice(0, 4);
+                                newData = newData.replace(/[^0-9]/g, '');
+                                currentPokemonObj.catchRate = Number(newData);
+                            }
+                        });
+                    }
+
+                    /**
+                     * Breeding section
+                     * 
+                     *  Egg groups
+                     *  Gender
+                     *  Egg cycles
+                     */
+                    if (heading === `Breeding`) {
+                        const listEntries = $(element).next('table').children('tbody').children('tr');
+                        listEntries.each((index, element) => {
+                            const title = $(element).children('th').text();
+                            const data = $(element).children('td').text();
+                            /*  */
+                            if ((title === 'Egg groups') && (index >= 809)) { // start at 809 grookey
+                                if (data === 'Undiscovered') {
+                                    currentPokemonObj.genderRatio = 'Genderless';
+                                } else {
+                                    if (data.includes(',')) {
+                                        let newData = data.split(',');
+                                        if (newData[0]) {
+                                            newData[0] = newData[0].replace(/[^a-zA-z]/g, '');
+                                            currentPokemonObj.eggGroups.push(newData[0]);
+                                        }
+                                        if (newData[1]) {
+                                            newData[1] = newData[1].replace(/[^a-zA-z]/g, '');
+                                            currentPokemonObj.eggGroups.push(newData[1]);
+                                        }
+                                    } else {
+                                        currentPokemonObj.eggGroups.push(data);
+                                    }
+                                }
+                            }
+                            if (title === 'Gender') {
+                                if (data === 'Genderless') {
+                                    currentPokemonObj.genderRatio = 'Genderless';
+                                } else if (data !== '—') {
+                                    let newData = data.split(',');
+                                    newData[0] = newData[0].replace(/[^0-9.]/g, '');
+                                    newData[1] = newData[1].replace(/[^0-9.]/g, '');
+                                    newData = newData.join(':');
+                                    currentPokemonObj.genderRatio = newData;
+                                }
+                            }
+                            if ((title === 'Egg cycles') && (data !== '—')) {
+                                let newData = data.slice(0, 3);
+                                newData = newData.replace(/[^0-9]/g, '');
+                                currentPokemonObj.eggCycles = Number(newData);
+                            }
+                        });
+                    }
+                    
+                    if (heading.toLowerCase() === `where to find ${pokemon}`) {
+                        
+                    }
+
+                    /**
+                     * Other languages
+                     */
+                    if (heading === `Other languages`) {
+                        const listEntries = $(element).next('div').children('table').children('tbody').children('tr');
+                        listEntries.each((index, element) => {
+                            const title = $(element).children('th').text();
+                            const data = $(element).children('td').text();
+                            if (title === 'German') {
+                                currentPokemonObj.name.german = data;
+                            }
+                        });
+                    }
+
+                    /**
+                     * Other languages
+                     */
+                    if (heading === `Name origin`) {
+                        const nameOrigin = $(element).next('dl');
+                        // if name orgin doesnt exist dont do antyhing
+                        if (nameOrigin) {
+                            const desc = $(nameOrigin).children('dt');
+                            const meanings = $(nameOrigin).children('dd');
+                            const descOne = $(desc[0]).text();
+                            const descTwo = $(desc[1]).text();
+                            const descThree = $(desc[2]).text(); // might not exsist
+                            const meaningOne = $(meanings[0]).text();
+                            const meaningTwo = $(meanings[1]).text();
+                            const meaningThree = $(meanings[2]).text();
+                            if (descOne) {
+                                currentPokemonObj.nameOrigin[descOne] = meaningOne;
+                            }
+                            if (descTwo) {
+                                currentPokemonObj.nameOrigin[descTwo] = meaningTwo;
+                            }
+                            if (descThree) {
+                                currentPokemonObj.nameOrigin[descThree] = meaningThree;
+                            }
+                        }
+                    }
+                    // End code here
                 });
-                /* End of code here */
-                // console.log(JSON.stringify(newPokedexObj, undefined, 2));
+
+                /**
+                 * Code cleanup
+                 * 
+                 *  This is meant to better structure the exsisting JSON file
+                 *  After this run make a new 03 file for future updates
+                 */
+                delete currentPokemonObj.pokedexNumber.bdsp;
+                delete currentPokemonObj.pokedexNumber.la;
+                delete currentPokemonObj.evolution;
+                delete currentPokemonObj.sosCalling;
+                if (index >= 809) {
+                    delete currentPokemonObj.moves.gen_one;
+                    delete currentPokemonObj.moves.gen_two;
+                    delete currentPokemonObj.moves.gen_three;
+                    delete currentPokemonObj.moves.gen_four;
+                    delete currentPokemonObj.moves.gen_five;
+                    delete currentPokemonObj.moves.gen_six;
+                    delete currentPokemonObj.moves.gen_seven;
+                } else if (index >= 721) {
+                    delete currentPokemonObj.moves.gen_one;
+                    delete currentPokemonObj.moves.gen_two;
+                    delete currentPokemonObj.moves.gen_three;
+                    delete currentPokemonObj.moves.gen_four;
+                    delete currentPokemonObj.moves.gen_five;
+                    delete currentPokemonObj.moves.gen_six;
+                } else if (index >= 649) {
+                    delete currentPokemonObj.moves.gen_one;
+                    delete currentPokemonObj.moves.gen_two;
+                    delete currentPokemonObj.moves.gen_three;
+                    delete currentPokemonObj.moves.gen_four;
+                    delete currentPokemonObj.moves.gen_five;
+                } else if (index >= 493) {
+                    delete currentPokemonObj.moves.gen_one;
+                    delete currentPokemonObj.moves.gen_two;
+                    delete currentPokemonObj.moves.gen_three;
+                    delete currentPokemonObj.moves.gen_four;
+                } else if (index >= 386) {
+                    delete currentPokemonObj.moves.gen_one;
+                    delete currentPokemonObj.moves.gen_two;
+                    delete currentPokemonObj.moves.gen_three;
+                } else if (index >= 251) {
+                    delete currentPokemonObj.moves.gen_one;
+                    delete currentPokemonObj.moves.gen_two;
+                } else if (index >= 151) {
+                    delete currentPokemonObj.moves.gen_one;
+                }
+
                 currentPokemonObj.pokedexEntries = newPokedexObj;
                 newPokemonArray.push(currentPokemonObj);
                 index++
