@@ -47,6 +47,9 @@ Calm down, I know you're excitied like I was
 
   Added the 99-pokedex and moves, this is reserved for hard coding information until I can figure out how I want to store the data. I will be frequently updating these two files specifically. And will soon add abilities.
 
+  Date: June 8th, 2022
+  Updated the Pokemon moves for each Pokemon to use bare amount of lines to store every move and which games and generation. In cooperation with the Moves.json these two DBs can get you all the info you want if you backend server has the correct functionality. Will soon make the abilities json. Added a Sword and Shield TRs json which is just an object that lets sword and shield move key value pair have the record instead of the machine.
+
 ---  
 
 #### If you made it this far, yes I am still here
