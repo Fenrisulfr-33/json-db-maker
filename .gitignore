@@ -4,5 +4,5 @@
 .01-moves.json
 .01-pokedex.json
 .02-pokedex.json
-.poke_api
-.images
+poke_api/
+images/
