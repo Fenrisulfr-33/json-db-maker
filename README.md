@@ -47,10 +47,23 @@ Calm down, I know you're excitied like I was
 
   Added the 99-pokedex and moves, this is reserved for hard coding information until I can figure out how I want to store the data. I will be frequently updating these two files specifically. And will soon add abilities.
 
-  Date: June 8th, 2022
+  Date: June 6th, 2022
+
   Updated the Pokemon moves for each Pokemon to use bare amount of lines to store every move and which games and generation. In cooperation with the Moves.json these two DBs can get you all the info you want if you backend server has the correct functionality. Will soon make the abilities json. Added a Sword and Shield TRs json which is just an object that lets sword and shield move key value pair have the record instead of the machine.
 
+  Date: June 8th, 2022
+
+  Deleted the hard_rewrites as it will no longer be neccessary everything will always be coded instead of manual. Removed freeCodeCampCheerio example as it was there for the 02-web_scrapper which is just another rewrite. In next update I will remove all jsons that are not the most current build as you can run the specific code file if you wish to see old json builds. 
+
 ---  
+
+#### Future Goals
+
+  - [ ] Install yarn for package management since fs and node fetch require specific versions in order to run properly on any device.
+  - [ ] Create a TemTem json converter from the free api and just mirror it for now then make a moves just like the pokemon one and have two dbs working in relation.
+  - [ ] Put the fetcher inside a different file and make it so it cant be used with any api not just this one. Get rid of repetitive code.
+
+---
 
 #### If you made it this far, yes I am still here
 
