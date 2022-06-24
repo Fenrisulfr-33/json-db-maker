@@ -1,5 +1,5 @@
 .node_modules
-./00-jsons/00-moves.json
+.00-moves.json
 .00-pokedex.json
 .01-moves.json
 .01-pokedex.json
