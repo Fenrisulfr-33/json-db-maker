@@ -1,8 +1,12 @@
 .node_modules
-.00-moves.json
-.00-pokedex.json
-.01-moves.json
-.01-pokedex.json
-.02-pokedex.json
+
+00-jsons/00-moves.json
+00-jsons/00-pokedex.json
+
+01-jsons/01-moves.json
+01-jsons/01-pokedex.json
+
+02-jsons/02-pokedex.json
+
 poke_api/
 images/
