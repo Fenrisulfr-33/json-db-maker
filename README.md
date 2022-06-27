@@ -28,9 +28,9 @@ Calm down, I know you're excitied like I was
 
   So in order how you should do this is simple 
 
-  1. git clone <this repo>, and run 'npm install' inside the new folder created
+  1. git clone `<this_repo>`, and run `npm install` inside the new folder created
   2. Read the 00-moves_rewrite.js or 00-pokedex_rewrite.js, these simply convert and array of objects in JSON and creates a new arrays of custom objects and automatically create a JSON file upon completion. ***IF, you do not have any errors***
-  3.  To run simple run the command 'node <insert your rewrite script here>
+  3.  To run simply run the command `node <insert_your_rewrite_script_path>`
       - The 01 .js files are a bit more complex however the basics on what I am doing here are the same.
   4. Learn the 01-<whatever>.js files, Im taking the objects we created from the OG files to the 00 files and now I am adding upon my already new modeled object data but, now I bring in an API call to really scrap for data.
   5. If you get this far you will notice when you run the 00-pokedex_rewrite.js there are alot of console.log statements. No this is not on accident.
@@ -54,6 +54,14 @@ Calm down, I know you're excitied like I was
   Date: June 8th, 2022
 
   Deleted the hard_rewrites as it will no longer be neccessary everything will always be coded instead of manual. Removed freeCodeCampCheerio example as it was there for the 02-web_scrapper which is just another rewrite. In next update I will remove all jsons that are not the most current build as you can run the specific code file if you wish to see old json builds. 
+
+  Date: June 24th, 2022
+
+  Removed some json files that were previously kept so you could see the flow of changes between them. However in order to download this project you would be downloading very massive json files that arennt still used. If you want get this to run properly you would have to run each of the re_writes on your local. I will add a script for this in the future and maybe delete all json from this project and just require the script to be run on initial download.
+
+  Date: June 27th, 2022
+
+  Abilities initial rewrite added. Datafetcher function added for abilities. Needs rewrite for all other functions.
 
 ---  
 

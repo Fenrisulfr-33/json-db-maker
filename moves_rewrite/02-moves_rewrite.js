@@ -1,19 +1,20 @@
-const { data } = require('cheerio/lib/api/attributes');
-const fs = require('fs');
-const fetch = require('node-fetch');
-const moves = require('../01-jsons/01-moves.json');
+const { data } = require("cheerio/lib/api/attributes");
+const fs = require("fs");
+const fetch = require("node-fetch");
+const moves = require("../01-jsons/01-moves.json");
 
 const final = [];
 let index = 0;
 const fetcher = async () => {
-    const POKE_API_URL = 'https://pokeapi.co/api/v2/';
+    const POKE_API_URL = "https://pokeapi.co/api/v2/";
     try {
-        if (index > 825) { // current highest move available is 826, so 825
+        if (index > 825) {
+            // current highest move available is 826, so 825
             // convert JSON object to string
             const data_array = JSON.stringify(final, null, 2); // this makes it pretty
 
             // write JSON string to a file
-            fs.writeFile('../02-jsons/02-moves.json', data_array, (error) => {
+            fs.writeFile("../02-jsons/02-moves.json", data_array, (error) => {
                 if (error) {
                     console.log(error);
                 }
@@ -21,23 +22,22 @@ const fetcher = async () => {
             });
             return;
         }
-        const response = await fetch(`${POKE_API_URL}move/${index+1}`);
+        const response = await fetch(`${POKE_API_URL}move/${index + 1}`);
         const data = await response.json();
         _main_rewrite(moves[index], data, final);
-        console.log(`-----Done ${index}-----`)
-        index++
+        console.log(`-----Done ${index}-----`);
+        index++;
         fetcher();
     } catch (error) {
         console.log(error);
     }
-}
+};
 fetcher();
-
 
 /**
  * MAIN FUNCTION
  */
-const _main_rewrite = (old_data, new_data, new_array) => {  
+const _main_rewrite = (old_data, new_data, new_array) => {
     delete old_data.descriptions;
     delete old_data.effects;
     delete old_data.zMoveEffects;
@@ -58,17 +58,21 @@ const _main_rewrite = (old_data, new_data, new_array) => {
         //       "url": "https://pokeapi.co/api/v2/version-group/20/"
         //     }
         //   },
-        if (text.language.name === 'en') {
+        if (text.language.name === "en") {
             const game = text.version_group.name;
             old_data.description[game] = text.flavor_text;
         }
     });
 
     // add priority
-    if (new_data.priority) { old_data.priority = new_data.priority}
+    if (new_data.priority) {
+        old_data.priority = new_data.priority;
+    }
 
     // replace target
-    if (new_data.target) { old_data.target = new_data.target.name }
+    if (new_data.target) {
+        old_data.target = new_data.target.name;
+    }
 
     const effectEntries = new_data.effect_entries; // []
     effectEntries.forEach((effect) => {
@@ -80,13 +84,13 @@ const _main_rewrite = (old_data, new_data, new_array) => {
         //     },
         //     "short_effect": "Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense."
         //   }
-        if (effect.language.name === 'en') {
-            old_data.effect= {
+        if (effect.language.name === "en") {
+            old_data.effect = {
                 full: effect.effect,
                 shortEffect: effect.short_effect,
-            }
+            };
         }
     });
 
-    new_array.push(old_data)
-}
+    new_array.push(old_data);
+};
