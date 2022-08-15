@@ -32,8 +32,6 @@ const dataFetcher = require('../dataFetcher');
     newJson.push(abilityObjTemp);
 };
 
-
-
 dataFetcher(
     "https://pokeapi.co/api/v2/ability/",
     266,
@@ -41,5 +39,3 @@ dataFetcher(
     "../00-jsons/00-abilities.json",
     abilityRewrite00
 );
-
-

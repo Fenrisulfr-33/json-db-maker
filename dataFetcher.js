@@ -1,6 +1,14 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
 
+/**
+ * 
+ * @param {*} dataURL 
+ * @param {*} lastNum 
+ * @param {*} oldData 
+ * @param {*} fileSaveURL 
+ * @param {*} converterFunc 
+ */
 function dataFetcher(
     dataURL = '',
     lastNum = 0,
@@ -25,14 +33,18 @@ function dataFetcher(
                 });
                 return;
             }
-            const response = await fetch(`${dataURL}/${index + 1}`);
-            const data = await response.json();
-            if (oldData.length === 0) {
-                converterFunc(data, newData);
+            // if changes are being made locally without api request 
+            if (dataURL === ''){
+                converterFunc(oldData[index], {}, newData);
             } else {
-                converterFunc(oldData[index], data, newData);
+                const response = await fetch(`${dataURL}/${index + 1}`);
+                const data = await response.json();
+                if (oldData.length === 0) {
+                    converterFunc(data, newData);
+                } else {
+                    converterFunc(oldData[index], data, newData);
+                }
             }
-
             index++;
             console.log(`-----Done ${index}-----`);
             fetcher();
