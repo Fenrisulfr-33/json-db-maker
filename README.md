@@ -63,13 +63,18 @@ Calm down, I know you're excitied like I was
 
   Abilities initial rewrite added. Datafetcher function added for abilities. Needs rewrite for all other functions.
 
+  Date: August 17th 2022
+
+  Added a 04 rewrite which just changed type array and eggGroup arrays to objects so on the front end its easier to look for a key then loop through an array. Started the 05 jsons with raw data containing the pokemon after 898, need to play around with the object to see whats the best fit for the front end without changing everything up to this point.
+
 ---  
 
 #### Future Goals
 
   - [ ] Install yarn for package management since fs and node fetch require specific versions in order to run properly on any device.
-  - [ ] Create a TemTem json converter from the free api and just mirror it for now then make a moves just like the pokemon one and have two dbs working in relation.
-  - [ ] Put the fetcher inside a different file and make it so it cant be used with any api not just this one. Get rid of repetitive code.
+  - [x] Create a TemTem json converter from the free api and just mirror it for now then make a moves just like the pokemon one and have two dbs working in relation.
+  - [x] Put the fetcher inside a different file and make it so it cant be used with any api not just this one. Get rid of repetitive code.
+  - [ ] Go back and check everything down to lowercase so its easier to do matches and then just capatilize on front end. (potientally check what is better practice, lowercase no spaces, lowercase with '-', or camelcase)
 
 ---
 
