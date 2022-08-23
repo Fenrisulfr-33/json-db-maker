@@ -1,66 +1,28 @@
-const fs = require('fs');
-const fetch = require('node-fetch');
-// data objects
+const dataFetcher = require('../dataFetcher')
 const pokedex = require('../02-jsons/02-pokedex.json');
-/* const moves = require('./00-jsons/00-moves.json') 
-Once the moves JSON file was updated from the og moves to 00 moves to 01 moves, use this to re write the pokedex so you can get all moves*/
 const dexMoves = require('../01-jsons/01-moves.json');
-const swshTrs = require('./swordShieldTRs');
-
-/**
- * ------------------- READ THIS PART ----------------------------
- * 
- *  This rewrite will only change the moves section as I have discovered a better method
- * 
- *  Instead of storing each generation and a list of by tms, hms, lvlUp, etc...
- *  We will have an object that contains each moves and inside that move object it will contain every generatrion and game they can learn that
- *  move in and how they learn it
- * 
- *  moves: {
- *      "move": {
- *          gen_one: {
- *              rb: 20,
- *              y: [ m, t ]
- *          }
- *      }
- *  }
- */
-
-/* ------------------ THIS IS OUR TEMPLATE FROM BEFORE ------------------------ */
-
-const temp = pokedex[93] // Gengar Test
-const final = [];
-
-
-let index = 0;
-const fetcher = async () => {
-    const POKE_API_URL = 'https://pokeapi.co/api/v2/';
-    try {
-        if (index > 897) {
-            // convert JSON object to string
-            const data_array = JSON.stringify(final, null, 2); // this makes it pretty
-
-            // write JSON string to a file
-            fs.writeFile('./03-jsons/03-pokedex.json', data_array, (error) => {
-                if (error) {
-                    console.log(error);
-                }
-                console.log("JSON data is saved.");
-            });
-            return;
-        }
-        const response = await fetch(`${POKE_API_URL}pokemon/${index+1}`);
-        const data = await response.json();
-        _main_rewrite(pokedex[index], data, final);
-        index++
-        console.log(`-----Done ${index}-----`)
-        fetcher();
-    } catch (error) {
-        console.log(error);
-    }
-}
-fetcher();
-
+const swshTrs = require('../tms-trs-hm-jsons/sword_shield_trs.json');
+const lgplgeTms = require('../tms-trs-hm-jsons/lgplge_tms.json');
+const usumTms = require('../tms-trs-hm-jsons/usun_umoon_tms.json');
+const smTms = require('../tms-trs-hm-jsons/sun_moon_tms.json');
+const orasTms = require('../tms-trs-hm-jsons/oras_tms.json');
+const orasHms = require('../tms-trs-hm-jsons/oras_hms.json');
+const xyTms = require('../tms-trs-hm-jsons/xy_tms.json');
+const xyHms = require('../tms-trs-hm-jsons/xy_hms.json');
+const b2w2Tms = require('../tms-trs-hm-jsons/b2w2_tms.json');
+const b2w2Hms = require('../tms-trs-hm-jsons/b2w2_hms.json');
+const dppTms = require('../tms-trs-hm-jsons/dpp_tms.json');
+const dppHms = require('../tms-trs-hm-jsons/dpp_hms.json');
+const hgssTms = require('../tms-trs-hm-jsons/dpp_tms.json');
+const hgssHms = require('../tms-trs-hm-jsons/dpp_hms.json');
+const rseTms = require('../tms-trs-hm-jsons/rse_tms.json');
+const rseHms = require('../tms-trs-hm-jsons/rse_hms.json');
+const frlgTms = require('../tms-trs-hm-jsons/frlg_tms.json');
+const frlgHms = require('../tms-trs-hm-jsons/frlg_hms.json');
+const gscTms = require('../tms-trs-hm-jsons/gsc_tms.json');
+const gscHms = require('../tms-trs-hm-jsons/gsc_hms.json');
+const rbyTms = require('../tms-trs-hm-jsons/rby_tms.json');
+const rbyHms = require('../tms-trs-hm-jsons/rby_hms.json');
 /**
  * MAIN FUNCTION
  * 
@@ -69,7 +31,7 @@ fetcher();
  * @param {object} new_data - is the array you wish to store your new data in
  * @param {array} new_aray - is the object you wish to store your new data in
  */
-const _main_rewrite = (old_data, new_data, new_array) => {   
+const pokedexRewrite03 = (old_data, new_data, new_array, errors) => {   
 
     delete old_data.moves; // remove previous implementation
     delete old_data.locations; // remove previous implementation
@@ -100,6 +62,104 @@ const _main_rewrite = (old_data, new_data, new_array) => {
                         } else {
                             old_data.moves[found.name.english][`${game}-machine`] = 'machine';
                         }
+                    } else if(game === 'lets-go-pikachu-lets-go-eevee') {
+                        if (lgplgeTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'machine';
+                        }
+                    } else if(game === 'ultra-sun-ultra-moon') {
+                        if (usumTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'machine';
+                        }
+                    } else if(game === 'sun-moon') {
+                        if (smTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'machine';
+                        }
+                    } else if(game === 'omega-ruby-alpha-sapphire') {
+                        if (orasTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (orasHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'x-y') {
+                        if (xyTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-technical-machine`] = 'technical';
+                        } else if (xyHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'black-2-white-2') {
+                        if (b2w2Tms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (b2w2Hms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    }  else if(game === 'black-white') {
+                        if (b2w2Tms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (b2w2Hms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'diamond-pearl') {
+                        if (dppTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (dppHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'platinum') {
+                        if (dppTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (dppHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'heartgold-soulsilver') {
+                        if (hgssTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (hgssHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'firered-leafgreen') {
+                        if (frlgTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (frlgHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'emerald') {
+                        if (rseTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (rseHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'ruby-sapphire') {
+                        if (rseTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (rseHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'crystal') {
+                        if (gscTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (gscHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'gold-silver') {
+                        if (gscTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (gscHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'yellow') {
+                        if (rbyTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (rbyHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else if(game === 'red-blue') {
+                        if (rbyTms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'technical';
+                        } else if (rbyHms[move_name]) {
+                            old_data.moves[found.name.english][`${game}-machine`] = 'hidden';
+                        }
+                    } else {
+                        errors[`${game}`] = 'Game not found';
                     }
                 } else if (version.move_learn_method.name === 'tutor') {
                     old_data.moves[found.name.english][`${game}-tutor`] = 'tutor';
@@ -116,14 +176,28 @@ const _main_rewrite = (old_data, new_data, new_array) => {
                 } else if (version.move_learn_method.name === 'zygarde-cube') {
                     old_data.moves[found.name.english][`${game}-zc`] = 'zygarde-cube';
                 } else {
-                    console.log(`${version.move_learn_method.name} not tracked`);
+                    errors[`${version.move_learn_method.name}`] = 'Not tracked';
                 }
             })
         }
 
     })
 
-
-
     new_array.push(old_data) // send your new data into the final product
 }
+
+/**
+ * 
+ * @param {*} dataURL = incoming api request
+ * @param {*} lastNum = the last number of the api request
+ * @param {*} oldData = previous version of json file
+ * @param {*} fileSaveURL = new save write
+ * @param {*} converterFunc = passed in function with changes
+ */
+ dataFetcher(
+    'https://pokeapi.co/api/v2/pokemon',
+    897,
+    pokedex, // old data
+    "../03-jsons/03-pokedex.json", // new file write
+    pokedexRewrite03, // function passed in
+);

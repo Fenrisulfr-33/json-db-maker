@@ -1,0 +1,36 @@
+{
+    "1": {
+        "start": {
+            "pokemon": {
+                "id": 1,
+                "name": "Bulbasaur",
+                "type": {
+                    "one": "Grass",
+                    "two": "Poison" 
+                }
+            },
+            "how": "Level 16",
+            "next": {
+                "pokemon": {
+                    "id": 2,
+                    "name": "Ivysaur",
+                    "type": {
+                        "one": "Grass",
+                        "two": "Poison" 
+                    }
+                },
+                "how": "Level 32",
+                "next": {
+                    "pokemon": {
+                        "id": 3,
+                        "name": "Venusaur",
+                        "type": {
+                            "one": "Grass",
+                            "two": "Poison" 
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
