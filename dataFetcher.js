@@ -15,6 +15,7 @@ function dataFetcher(
     oldData = [],
     fileSaveURL = '',
     converterFunc,
+    errors = {},
 ) {
     let index = 0;
     const newData = [];
@@ -30,6 +31,7 @@ function dataFetcher(
                         console.log(error);
                     }
                     console.log("JSON data is saved.");
+                    console.log('Errors:', errors);
                 });
                 return;
             }
@@ -40,9 +42,9 @@ function dataFetcher(
                 const response = await fetch(`${dataURL}/${index + 1}`);
                 const data = await response.json();
                 if (oldData.length === 0) {
-                    converterFunc(data, newData);
+                    converterFunc(data, newData, null, errors);
                 } else {
-                    converterFunc(oldData[index], data, newData);
+                    converterFunc(oldData[index], data, newData, errors);
                 }
             }
             index++;
