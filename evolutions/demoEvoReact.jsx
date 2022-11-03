@@ -10,26 +10,38 @@ export default function EvolutionChart({ evo: { start } }){
                 {/* START >*/}
             <div>
                 {/* Pokemon Image*/}
-                <h2>'insert pokemon name here'</h2>
                 <div>{start.id}</div>
-                {/* Pokemon typing */}
+                <div>{start.name}</div>
+                <div>{start.type.one}</div>
+                <div>{start.type?.two}</div>
             </div>
-                {/* HOW */}
             <div>
+                {/* HOW */}
                 <h3>{start.how}</h3>
             </div>
-                {/* NEXT */}
-            <div>
-                {/* Pokemon Image*/}
-                <h2>'insert pokemon name here'</h2>
-                <div>{start.next.id}</div>
-                {/* Pokemon typing */}
-            </div>
+            {start.next ? (
+                <div>
+                    {/* NEXT */}
+                    {/* Pokemon Image*/}
+                    <div>{start.next.id}</div>
+                    <div>{start.next.name}</div>
+                    <div>{start.next.type.one}</div>
+                    <div>{start.next.type?.two}</div>
+                </div>
+            ) : (
+                <></>
+            )}
             {/* IF ANOTHER NEXT EXSISTS ELSE CHECK FOR MULTIPLE eg:pikachu*/}
             {start.next.next ? (
-                <>
-                </>
-            ): start.next.multiple ? (
+                <div>
+                    {/* NEXT */}
+                    {/* Pokemon Image*/}
+                    <div>{start.next.next.id}</div>
+                    <div>{start.next.next.name}</div>
+                    <div>{start.next.next.type.one}</div>
+                    <div>{start.next.next.type?.two}</div>
+                </div>
+            ) : start.next.multiple ? (
                 <>
                 </>
             ) : null}
