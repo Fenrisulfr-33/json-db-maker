@@ -1,0 +1,1152 @@
+[
+    {
+        "_id": 906,
+        "pokedexNumber": {
+            "sc": 1
+        },
+        "name": {
+          "english": "Sprigatito"
+        },
+        "type": {
+          "0": "Grass",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Overgrow",
+          "2": "",
+          "h": "Protean"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 40,
+          "atk": 61,
+          "def": 54,
+          "spatk": 45,
+          "spdef": 45,
+          "spd": 65
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "sprigatito": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 907,
+        "pokedexNumber": {
+            "sc": 2
+        },
+        "name": {
+          "english": "Floragato"
+        },
+        "type": {
+          "0": "Grass",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Overgrow",
+          "2": "",
+          "h": "Protean"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 61,
+          "atk": 80,
+          "def": 63,
+          "spatk": 60,
+          "spdef": 63,
+          "spd": 83
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "floragato": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 908,
+        "pokedexNumber": {
+            "sc": 3
+        },
+        "name": {
+          "english": "Meowscarada"
+        },
+        "type": {
+          "0": "Grass",
+          "1": "Dark"
+        },
+        "abilities": {
+          "1": "Overgrow",
+          "2": "",
+          "h": "Protean"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 76,
+          "atk": 110,
+          "def": 70,
+          "spatk": 81,
+          "spdef": 70,
+          "spd": 123
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "meowscarada": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 909,
+        "pokedexNumber": {
+            "sc": 4
+        },
+        "name": {
+          "english": "Fuecoco"
+        },
+        "type": {
+          "0": "Fire",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Blaze",
+          "2": "",
+          "h": "Unaware"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 67,
+          "atk": 45,
+          "def": 59,
+          "spatk": 63,
+          "spdef": 40,
+          "spd": 36
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "fuecoco": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 910,
+        "pokedexNumber": {
+            "sc": 5
+        },
+        "name": {
+          "english": "Crocalor"
+        },
+        "type": {
+          "0": "Fire",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Blaze",
+          "2": "",
+          "h": "Unaware"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 81,
+          "atk": 55,
+          "def": 78,
+          "spatk": 90,
+          "spdef": 58,
+          "spd": 49
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "crocalor": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 911,
+        "pokedexNumber": {
+            "sc": 6
+        },
+        "name": {
+          "english": "Skeledirge"
+        },
+        "type": {
+          "0": "Fire",
+          "1": "Ghost"
+        },
+        "abilities": {
+          "1": "Blaze",
+          "2": "",
+          "h": "Unaware"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 104,
+          "atk": 75,
+          "def": 100,
+          "spatk": 110,
+          "spdef": 75,
+          "spd": 66
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "skeledirge": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 912,
+        "pokedexNumber": {
+            "sc": 7
+        },
+        "name": {
+          "english": "Quaxly"
+        },
+        "type": {
+          "0": "Water",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Torrent",
+          "2": "",
+          "h": "Moxie"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 55,
+          "atk": 65,
+          "def": 45,
+          "spatk": 50,
+          "spdef": 45,
+          "spd": 50
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "quaxly": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 913,
+        "pokedexNumber": {
+            "sc": 8
+        },
+        "name": {
+          "english": "Quaxwell"
+        },
+        "type": {
+          "0": "Water",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Torrent",
+          "2": "",
+          "h": "Moxie"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 70,
+          "atk": 85,
+          "def": 65,
+          "spatk": 65,
+          "spdef": 60,
+          "spd": 65
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "quaxwell": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 914,
+        "pokedexNumber": {
+            "sc": 9
+        },
+        "name": {
+          "english": "Quaquaval"
+        },
+        "type": {
+          "0": "Water",
+          "1": "Fighting"
+        },
+        "abilities": {
+          "1": "Torrent",
+          "2": "",
+          "h": "Moxie"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 45,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 85,
+          "atk": 120,
+          "def": 80,
+          "spatk": 85,
+          "spdef": 75,
+          "spd": 85
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "quaquaval": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 978,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Great Tusk"
+        },
+        "type": {
+          "0": "Ground",
+          "1": "Fighting"
+        },
+        "abilities": {
+          "1": "Protosynthesis",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 115,
+          "atk": 131,
+          "def": 131,
+          "spatk": 53,
+          "spdef": 53,
+          "spd": 87
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 979,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Brute Bonnet"
+        },
+        "type": {
+          "0": "Grass",
+          "1": "Dark"
+        },
+        "abilities": {
+          "1": "Protosynthesis",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 50,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 111,
+          "atk": 127,
+          "def": 99,
+          "spatk": 79,
+          "spdef": 99,
+          "spd": 55
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 980,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Pikachu 1"
+        },
+        "type": {
+          "0": "Electric",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Static",
+          "2": "",
+          "h": "Lightning Rod"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 190,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 35,
+          "atk": 55,
+          "def": 40,
+          "spatk": 50,
+          "spdef": 50,
+          "spd": 90
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 981,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Sandy Shocks"
+        },
+        "type": {
+          "0": "Electric",
+          "1": "Ground"
+        },
+        "abilities": {
+          "1": "Protosynthesis",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 85,
+          "atk": 81,
+          "def": 97,
+          "spatk": 121,
+          "spdef": 85,
+          "spd": 101
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 982,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Scream Tail"
+        },
+        "type": {
+          "0": "Fairy",
+          "1": "Psychic"
+        },
+        "abilities": {
+          "1": "Protosynthesis",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 50,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 115,
+          "atk": 65,
+          "def": 99,
+          "spatk": 65,
+          "spdef": 115,
+          "spd": 111
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 983,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Flutter Mane"
+        },
+        "type": {
+          "0": "Ghost",
+          "1": "Fairy"
+        },
+        "abilities": {
+          "1": "Protosynthesis",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 55,
+          "atk": 55,
+          "def": 55,
+          "spatk": 135,
+          "spdef": 135,
+          "spd": 135
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 984,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Silther Wing"
+        },
+        "type": {
+          "0": "Bug",
+          "1": "Fighting"
+        },
+        "abilities": {
+          "1": "Protosynthesis",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 85,
+          "atk": 135,
+          "def": 79,
+          "spatk": 85,
+          "spdef": 105,
+          "spd": 81
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 985,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Roaring Moon"
+        },
+        "type": {
+          "0": "Dragon",
+          "1": "Dark"
+        },
+        "abilities": {
+          "1": "Protosynthesis",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 10,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 105,
+          "atk": 135,
+          "def": 71,
+          "spatk": 55,
+          "spdef": 101,
+          "spd": 119
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 986,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Iron Treads"
+        },
+        "type": {
+          "0": "Ground",
+          "1": "Steel"
+        },
+        "abilities": {
+          "1": "Quark Drive",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 90,
+          "atk": 112,
+          "def": 120,
+          "spatk": 72,
+          "spdef": 70,
+          "spd": 106
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 987,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Pikachu 2"
+        },
+        "type": {
+          "0": "Electric",
+          "1": ""
+        },
+        "abilities": {
+          "1": "Static",
+          "2": "",
+          "h": "Lightning Rod"
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 190,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 35,
+          "atk": 55,
+          "def": 40,
+          "spatk": 50,
+          "spdef": 50,
+          "spd": 90
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 988,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Iron Moth"
+        },
+        "type": {
+          "0": "Fire",
+          "1": "Poison"
+        },
+        "abilities": {
+          "1": "Quark Drive",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 80,
+          "atk": 70,
+          "def": 60,
+          "spatk": 140,
+          "spdef": 110,
+          "spd": 110
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 989,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Iron Hands"
+        },
+        "type": {
+          "0": "Fighting",
+          "1": "Electric"
+        },
+        "abilities": {
+          "1": "Quark Drive",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 50,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 154,
+          "atk": 140,
+          "def": 108,
+          "spatk": 50,
+          "spdef": 68,
+          "spd": 150
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 986,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Iron Jugulis"
+        },
+        "type": {
+          "0": "Dark",
+          "1": "Flying"
+        },
+        "abilities": {
+          "1": "Quark Drive",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 94,
+          "atk": 80,
+          "def": 86,
+          "spatk": 122,
+          "spdef": 80,
+          "spd": 108
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    },
+    {
+        "_id": 986,
+        "pokedexNumber": {
+            "sc": null
+        },
+        "name": {
+          "english": "Iron Treads"
+        },
+        "type": {
+          "0": "Ground",
+          "1": "Steel"
+        },
+        "abilities": {
+          "1": "Quark Drive",
+          "2": "",
+          "h": ""
+        },
+        "species": "",
+        "height": "",
+        "weight": "",
+        "catchRate": 30,
+        "eggGroups": {},
+        "genderRatio": "",
+        "eggCycles": null,
+        "baseFriendship": null,
+        "baseExp": null,
+        "growthRate": "",
+        "baseStats": {
+          "hp": 90,
+          "atk": 112,
+          "def": 120,
+          "spatk": 72,
+          "spdef": 70,
+          "spd": 106
+        },
+        "evs": {},
+        "pokedexEntries": {
+          "": {
+            "sc": ""
+            }
+        },
+        "nameOrigin": {},
+        "heldItem": null,
+        "moves": {},
+        "evolution": {
+          "id": null,
+          "start": null
+        },
+        "generation": 9
+    }
+]

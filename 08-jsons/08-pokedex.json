@@ -1,0 +1,37 @@
+[
+  {
+    "name": {
+      "english": "Sprigatito"
+    },
+    "eggGroups": [],
+    "nameOrigin": {
+      "sprig": "small stem of a plant",
+      "gatito": "Spanish for ‘kitten’"
+    },
+    "height": "0.4 m (1′04″)",
+    "weight": "4.1 kg (9.0 lbs)",
+    "catchRate": 45,
+    "baseFriendship": 50,
+    "genderRatio": "87.5:12.5",
+    "sprigatito": {
+      "sc": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+      "vi": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+    }
+  },
+  {
+    "name": {
+      "english": "Floragato"
+    },
+    "eggGroups": [],
+    "nameOrigin": {},
+    "height": "0.9 m (2′11″)",
+    "weight": "12.2 kg (26.9 lbs)",
+    "catchRate": 45,
+    "baseFriendship": 50,
+    "genderRatio": "87.5:12.5",
+    "floragato": {
+      "sc": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+      "vi": "The hardness of Floragato’s fur depends on the Pokémon’s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+    }
+  }
+]

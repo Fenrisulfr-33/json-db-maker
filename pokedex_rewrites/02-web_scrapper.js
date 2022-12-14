@@ -1,11 +1,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const express = require("express");
 const pokedex = require("../01-jsons/01-pokedex.json");
 const fs = require('fs')
-
-const PORT = 8000;
-const app = express(); 
 
 /**
  * Go to the Pokedex entries if there is no h3 tag then grab all the game entries and log them into the pokemon object
