@@ -5,6 +5,14 @@ const fs = require('fs')
 const dex = require('../data/scarlet_violet');
 const newPokemonArray = []; // this will be the final array that gets converted to the new json object
 
+
+
+/**
+ * Create a function that has every paramter of something you can get on a pokedex page from DB
+ * then when you want to gather info and can put in true or false for what you want.
+ */
+
+
 let index = 0;
 const scrapePokemonData = async () => {
     // if (index > dex.scviDex.length - 1) { 
@@ -27,18 +35,16 @@ const scrapePokemonData = async () => {
             name: {
                 english: dex.scviDex[index] 
             },
+            pokedexNumber: {},
             eggGroups: [],
-            nameOrigin: {
-
-            }
+            nameOrigin: {},
         },
         currentPokemonObj = false;
         axios(URL)
             .then(response =>  {
                 const html = response.data;
-                // $(selector), [context], [root])
                 const $ = cheerio.load(html);
-                console.log($.html());
+                // console.log($.html());
     
             const createNewPokedexObject = (obj, section, title, data) => {
                 switch(title) {
@@ -243,7 +249,7 @@ const scrapePokemonData = async () => {
                  * Pokedex entries
                  * 
                  *  Potientally all games
-                 * 
+                 *
                  */
                 if (heading === "Pok\u00E9dex entries") {
                     getPokedexEntries(element);
@@ -266,18 +272,38 @@ const scrapePokemonData = async () => {
                     listEntries.each((index, element) => {
                         const title = $(element).children('th').text();
                         const data = $(element).children('td').text();
+                        // console.log(title, '-', data);
                         if (title === 'Height') {
                             if (currentPokemonObj){
                                 currentPokemonObj.height = data;
                             } else {
                                 newPokedexObj.height = data;
                             }
-                        }
-                        if (title === 'Weight') {
+                        } else if (title === 'Weight') {
                             if (currentPokemonObj){
                                 currentPokemonObj.weight = data;
                             } else {
                                 newPokedexObj.weight = data;
+                            }
+                        } else if (title === 'Species') {
+                            if (currentPokemonObj){
+                                currentPokemonObj.species = data;
+                            } else {
+                                newPokedexObj.species = data;
+                            }
+                        } else if (title === 'National №') {
+                            if (currentPokemonObj){
+                                currentPokemonObj._id = Number(data);
+                            } else {
+                                newPokedexObj._id = Number(data);
+                            }
+                        } else if (title === 'Local №') {
+                            // need to put edge cases for all games and figure out type
+                            const format = data.slice(0, 3);
+                            if (currentPokemonObj){
+                                currentPokemonObj.pokedexNumber.scvi = Number(format);
+                            } else {
+                                newPokedexObj.pokedexNumber.scvi = Number(format);
                             }
                         }
                     })
@@ -431,9 +457,6 @@ const scrapePokemonData = async () => {
                     
                 }
 
-                /**
-                 * Other languages
-                 */
                 if (heading === `Other languages`) {
                     const listEntries = $(element).next('div').children('table').children('tbody').children('tr');
                     listEntries.each((index, element) => {
@@ -449,9 +472,6 @@ const scrapePokemonData = async () => {
                     });
                 }
 
-                /**
-                 * Other languages
-                 */
                 if (heading === `Name origin`) {
                     const nameOrigin = $(element).next('dl');
                     // if name orgin doesnt exist dont do antyhing
@@ -487,56 +507,18 @@ const scrapePokemonData = async () => {
                         }
                     }
                 }
+                
+                if (heading === `Base Stats`) {
+                    console.log('here');
+                    const listEntries = $(element).next('table').children('tbody').children('tr');
+                    listEntries.each((index, element) => {
+                        const title = $(element).children('th').text();
+                        const data = $(element).children('td').text();
+                        console.log(`Title: ${title}. Data: ${data}`)
+                    });
+                }
                 // End code here
             });
-
-            /**
-             * Code cleanup
-             * 
-             *  This is meant to better structure the exsisting JSON file
-             *  After this run make a new 03 file for future updates
-             */
-            // delete currentPokemonObj.pokedexNumber.bdsp;
-            // delete currentPokemonObj.pokedexNumber.la;
-            // delete currentPokemonObj.evolution;
-            // delete currentPokemonObj.sosCalling;
-            // if (index >= 809) {
-            //     delete currentPokemonObj.moves.gen_one;
-            //     delete currentPokemonObj.moves.gen_two;
-            //     delete currentPokemonObj.moves.gen_three;
-            //     delete currentPokemonObj.moves.gen_four;
-            //     delete currentPokemonObj.moves.gen_five;
-            //     delete currentPokemonObj.moves.gen_six;
-            //     delete currentPokemonObj.moves.gen_seven;
-            // } else if (index >= 721) {
-            //     delete currentPokemonObj.moves.gen_one;
-            //     delete currentPokemonObj.moves.gen_two;
-            //     delete currentPokemonObj.moves.gen_three;
-            //     delete currentPokemonObj.moves.gen_four;
-            //     delete currentPokemonObj.moves.gen_five;
-            //     delete currentPokemonObj.moves.gen_six;
-            // } else if (index >= 649) {
-            //     delete currentPokemonObj.moves.gen_one;
-            //     delete currentPokemonObj.moves.gen_two;
-            //     delete currentPokemonObj.moves.gen_three;
-            //     delete currentPokemonObj.moves.gen_four;
-            //     delete currentPokemonObj.moves.gen_five;
-            // } else if (index >= 493) {
-            //     delete currentPokemonObj.moves.gen_one;
-            //     delete currentPokemonObj.moves.gen_two;
-            //     delete currentPokemonObj.moves.gen_three;
-            //     delete currentPokemonObj.moves.gen_four;
-            // } else if (index >= 386) {
-            //     delete currentPokemonObj.moves.gen_one;
-            //     delete currentPokemonObj.moves.gen_two;
-            //     delete currentPokemonObj.moves.gen_three;
-            // } else if (index >= 251) {
-            //     delete currentPokemonObj.moves.gen_one;
-            //     delete currentPokemonObj.moves.gen_two;
-            // } else if (index >= 151) {
-            //     delete currentPokemonObj.moves.gen_one;
-            // }
-
             // currentPokemonObj.pokedexEntries = newPokedexObj;
             newPokemonArray.push(newPokedexObj);
             index++
@@ -549,5 +531,3 @@ const scrapePokemonData = async () => {
 }
 
 scrapePokemonData();
-
-// app.listen(PORT, () => console.log(`Server running on PORT: ${PORT}`));
