@@ -1,4 +1,4 @@
-const dataFetcher = require('../dataFetcher');
+const dataFetcher = require('../../dataFetcher');
 
 /**
  * For this first ability rewrite, since there is no exsisting data the oldData variable will

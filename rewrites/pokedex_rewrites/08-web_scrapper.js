@@ -2,7 +2,7 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 // const pokedex = require("../07-jsons/07-pokedex.json");
 const fs = require('fs')
-const dex = require('../data/scarlet_violet');
+const dex = require('../../data/scarlet_violet');
 const newPokemonArray = []; // this will be the final array that gets converted to the new json object
 
 
