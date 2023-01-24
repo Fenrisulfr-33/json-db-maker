@@ -5,21 +5,16 @@ const fs = require('fs')
 const dex = require('../../data/scarlet_violet');
 const newPokemonArray = []; // this will be the final array that gets converted to the new json object
 
-
-
 /**
  * Create a function that has every paramter of something you can get on a pokedex page from DB
  * then when you want to gather info and can put in true or false for what you want.
  */
-
-
 let index = 0;
 const scrapePokemonData = async () => {
-    // if (index > dex.scviDex.length - 1) { 
-    if (index > 1) { 
+    if (index > dex.scviDex.length - 1) { 
         const data_array = JSON.stringify(newPokemonArray, null, 2); // this makes it pretty
         // write JSON string to a file
-        fs.writeFile('../08-jsons/08-pokedex.json', data_array, (error) => {
+        fs.writeFile('../../jsons/08-jsons/08-pokedex.json', data_array, (error) => {
             if (error) {
                 console.log(error);
             }
@@ -30,7 +25,7 @@ const scrapePokemonData = async () => {
         const pokemon = dex.scviDex[index].toLowerCase();
 
         let URL = `https://pokemondb.net/pokedex/${pokemon}`;
-        // const currentPokemonObj = pokedex[index];
+
         const newPokedexObj = {
             name: {
                 english: dex.scviDex[index] 
@@ -44,7 +39,6 @@ const scrapePokemonData = async () => {
             .then(response =>  {
                 const html = response.data;
                 const $ = cheerio.load(html);
-                // console.log($.html());
     
             const createNewPokedexObject = (obj, section, title, data) => {
                 switch(title) {
@@ -196,10 +190,10 @@ const scrapePokemonData = async () => {
                         obj[section]['la'] = data;
                         break;
                     case 'Scarlet': 
-                        obj[section]['sc'] = data;
+                        obj[section]['scarlet'] = data;
                         break;
                     case 'Violet': 
-                        obj[section]['vi'] = data;
+                        obj[section]['violet'] = data;
                         break;
                     default:
                         console.log(`You missed a case >>>>>>>>>>>>>> ${title}`)
@@ -272,7 +266,6 @@ const scrapePokemonData = async () => {
                     listEntries.each((index, element) => {
                         const title = $(element).children('th').text();
                         const data = $(element).children('td').text();
-                        // console.log(title, '-', data);
                         if (title === 'Height') {
                             if (currentPokemonObj){
                                 currentPokemonObj.height = data;
@@ -318,37 +311,11 @@ const scrapePokemonData = async () => {
                  *  Growth rate
                  */
                 if (heading === `Training`) {
-                    /* Creates a uppercase hex number with at least length digits from a given number */
-                    function fixedHex(number, length) {
-                        var str = number.toString(16).toUpperCase();
-                        while (str.length < length)
-                            str = "0" + str;
-                        return str;
-                    }
-
-                    /* Creates a unicode literal based on the string */
-                    function unicodeLiteral(str) {
-                        var i;
-                        var result = "";
-                        for (i = 0; i < str.length; ++i) {
-                            /* You should probably replace this by an isASCII test */
-                            if (str.charCodeAt(i) > 126 || str.charCodeAt(i) < 32)
-                                result += "\\u" + fixedHex(str.charCodeAt(i), 4);
-                            else
-                                result += str[i];
-                        }
-
-                        return result;
-                    }
-
-
                     const listEntries = $(element).next('table').children('tbody').children('tr');
                     listEntries.each((index, element) => {
                         const title = $(element).children('th').text();
                         const data = $(element).children('td').text();
-                        // console.log(`...${unicodeLiteral(data)}...`) // check for unicode literals
                         if (data === '\u2014' || data === '\u000A\u2014\u000A' || data === '\u000A\u2014 ') { 
-                            // console.log('gotcha');
                         } else if (title === 'Growth Rate') {
                             if (currentPokemonObj){
                                 currentPokemonObj.growthRate = data;
@@ -386,7 +353,6 @@ const scrapePokemonData = async () => {
                     listEntries.each((index, element) => {
                         const title = $(element).children('th').text();
                         const data = $(element).children('td').text();
-                        /*  */
                         if ((title === 'Egg groups') && (index >= 809)) { // start at 809 grookey
                             if (data === 'Undiscovered') {
                                 if (currentPokemonObj){
@@ -454,7 +420,26 @@ const scrapePokemonData = async () => {
                 }
                 
                 if (heading.toLowerCase() === `where to find ${pokemon}`) {
-                    
+                    const listEntries = $(element).next('div').children('table').children('tbody').children('tr');
+                    listEntries.each((index, element) => {
+                        const title = $(element).children('th').text();
+                        const data = $(element).children('td').text();
+                        if (title === 'ScarletViolet'){
+                            if (currentPokemonObj){
+                                currentPokemonObj.whereToFind = {
+                                    ...currentPokemonObj.whereToFind,
+                                    scarlet: data,
+                                    violet: data,
+                                };
+                                currentPokemonObj.whereToFind
+                            } else {
+                                newPokedexObj.whereToFind = {
+                                    scarlet: data,
+                                    violet: data,
+                                }
+                            }
+                        }
+                    });
                 }
 
                 if (heading === `Other languages`) {
@@ -474,7 +459,6 @@ const scrapePokemonData = async () => {
 
                 if (heading === `Name origin`) {
                     const nameOrigin = $(element).next('dl');
-                    // if name orgin doesnt exist dont do antyhing
                     if (nameOrigin) {
                         const desc = $(nameOrigin).children('dt');
                         const meanings = $(nameOrigin).children('dd');
@@ -509,17 +493,13 @@ const scrapePokemonData = async () => {
                 }
                 
                 if (heading === `Base Stats`) {
-                    console.log('here');
                     const listEntries = $(element).next('table').children('tbody').children('tr');
                     listEntries.each((index, element) => {
                         const title = $(element).children('th').text();
                         const data = $(element).children('td').text();
-                        console.log(`Title: ${title}. Data: ${data}`)
                     });
                 }
-                // End code here
             });
-            // currentPokemonObj.pokedexEntries = newPokedexObj;
             newPokemonArray.push(newPokedexObj);
             index++
             console.log(`Done ${pokemon}`)
