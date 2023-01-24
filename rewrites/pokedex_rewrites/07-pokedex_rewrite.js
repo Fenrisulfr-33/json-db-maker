@@ -1,4 +1,3 @@
-const e = require('express');
 const dataFetcher = require('../dataFetcher'),
 pokedex = require('../06-jsons/06-pokedex.json'),
 swshDex = require('../pokedexes/swsh/SwShDex.json'),

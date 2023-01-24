@@ -1,0 +1,1186 @@
+[
+  {
+    "_id": 827,
+    "name": {
+      "english": "Dire-claw"
+    },
+    "type": "Poison",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 828,
+    "name": {
+      "english": "Psyshield-bash"
+    },
+    "type": "Psychic",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 70,
+    "accuracy": 90,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 829,
+    "name": {
+      "english": "Power-shift"
+    },
+    "type": "Normal",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "8",
+    "target": "User",
+    "changes": []
+  },
+  {
+    "_id": 830,
+    "name": {
+      "english": "Stone-axe"
+    },
+    "type": "Rock",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 65,
+    "accuracy": 90,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 831,
+    "name": {
+      "english": "Springtide-storm"
+    },
+    "type": "Fairy",
+    "category": "Special",
+    "contest": null,
+    "pp": 5,
+    "power": 100,
+    "accuracy": 80,
+    "contact": null,
+    "generation": "8",
+    "target": "All-opponents",
+    "changes": []
+  },
+  {
+    "_id": 832,
+    "name": {
+      "english": "Mystical-power"
+    },
+    "type": "Psychic",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 70,
+    "accuracy": 90,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 833,
+    "name": {
+      "english": "Raging-fury"
+    },
+    "type": "Fire",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 120,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Random-opponent",
+    "changes": []
+  },
+  {
+    "_id": 834,
+    "name": {
+      "english": "Wave-crash"
+    },
+    "type": "Water",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 120,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 835,
+    "name": {
+      "english": "Chloroblast"
+    },
+    "type": "Grass",
+    "category": "Special",
+    "contest": null,
+    "pp": 5,
+    "power": 150,
+    "accuracy": 95,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 836,
+    "name": {
+      "english": "Mountain-gale"
+    },
+    "type": "Ice",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 100,
+    "accuracy": 85,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 837,
+    "name": {
+      "english": "Victory-dance"
+    },
+    "type": "Fighting",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "8",
+    "target": "User",
+    "changes": []
+  },
+  {
+    "_id": 838,
+    "name": {
+      "english": "Headlong-rush"
+    },
+    "type": "Ground",
+    "category": "Physical",
+    "contest": null,
+    "pp": 5,
+    "power": 120,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 839,
+    "name": {
+      "english": "Barb-barrage"
+    },
+    "type": "Poison",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 60,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 840,
+    "name": {
+      "english": "Esper-wing"
+    },
+    "type": "Psychic",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 841,
+    "name": {
+      "english": "Bitter-malice"
+    },
+    "type": "Ghost",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 75,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 842,
+    "name": {
+      "english": "Shelter"
+    },
+    "type": "Steel",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "8",
+    "target": "User",
+    "changes": []
+  },
+  {
+    "_id": 843,
+    "name": {
+      "english": "Triple-arrows"
+    },
+    "type": "Fighting",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 90,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 844,
+    "name": {
+      "english": "Infernal-parade"
+    },
+    "type": "Ghost",
+    "category": "Special",
+    "contest": null,
+    "pp": 15,
+    "power": 60,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 845,
+    "name": {
+      "english": "Ceaseless-edge"
+    },
+    "type": "Dark",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 65,
+    "accuracy": 90,
+    "contact": null,
+    "generation": "8",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 846,
+    "name": {
+      "english": "Bleakwind-storm"
+    },
+    "type": "Flying",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 100,
+    "accuracy": 80,
+    "contact": null,
+    "generation": "8",
+    "target": "All-opponents",
+    "changes": []
+  },
+  {
+    "_id": 847,
+    "name": {
+      "english": "Wildbolt-storm"
+    },
+    "type": "Electric",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 100,
+    "accuracy": 80,
+    "contact": null,
+    "generation": "8",
+    "target": "All-opponents",
+    "changes": []
+  },
+  {
+    "_id": 848,
+    "name": {
+      "english": "Sandsear-storm"
+    },
+    "type": "Ground",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 100,
+    "accuracy": 80,
+    "contact": null,
+    "generation": "8",
+    "target": "All-opponents",
+    "changes": []
+  },
+  {
+    "_id": 849,
+    "name": {
+      "english": "Lunar-blessing"
+    },
+    "type": "Psychic",
+    "category": "Status",
+    "contest": null,
+    "pp": 5,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "8",
+    "target": "All-allies",
+    "changes": []
+  },
+  {
+    "_id": 850,
+    "name": {
+      "english": "Take-heart"
+    },
+    "type": "Psychic",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "8",
+    "target": "All-allies",
+    "changes": []
+  },
+  {
+    "_id": 851,
+    "name": {
+      "english": "Tera-blast"
+    },
+    "type": "Normal",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 852,
+    "name": {
+      "english": "Silk-trap"
+    },
+    "type": "Bug",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "User",
+    "changes": []
+  },
+  {
+    "_id": 853,
+    "name": {
+      "english": "Axe-kick"
+    },
+    "type": "Fighting",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 120,
+    "accuracy": 90,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 854,
+    "name": {
+      "english": "Last-respects"
+    },
+    "type": "Ghost",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 50,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 855,
+    "name": {
+      "english": "Lumina-crash"
+    },
+    "type": "Psychic",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 856,
+    "name": {
+      "english": "Order-up"
+    },
+    "type": "Dragon",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 857,
+    "name": {
+      "english": "Jet-punch"
+    },
+    "type": "Water",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 60,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 858,
+    "name": {
+      "english": "Spicy-extract"
+    },
+    "type": "Grass",
+    "category": "Status",
+    "contest": null,
+    "pp": 15,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 859,
+    "name": {
+      "english": "Spin-out"
+    },
+    "type": "Steel",
+    "category": "Physical",
+    "contest": null,
+    "pp": 5,
+    "power": 100,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 860,
+    "name": {
+      "english": "Population-bomb"
+    },
+    "type": "Normal",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 20,
+    "accuracy": 90,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 861,
+    "name": {
+      "english": "Ice-spinner"
+    },
+    "type": "Ice",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 862,
+    "name": {
+      "english": "Glaive-rush"
+    },
+    "type": "Dragon",
+    "category": "Physical",
+    "contest": null,
+    "pp": 5,
+    "power": 120,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 863,
+    "name": {
+      "english": "Revival-blessing"
+    },
+    "type": "Normal",
+    "category": "Status",
+    "contest": null,
+    "pp": 1,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "Fainting-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 864,
+    "name": {
+      "english": "Salt-cure"
+    },
+    "type": "Rock",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 40,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 865,
+    "name": {
+      "english": "Triple-dive"
+    },
+    "type": "Water",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 30,
+    "accuracy": 95,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 866,
+    "name": {
+      "english": "Mortal-spin"
+    },
+    "type": "Poison",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 30,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "All-opponents",
+    "changes": []
+  },
+  {
+    "_id": 867,
+    "name": {
+      "english": "Doodle"
+    },
+    "type": "Normal",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": 100,
+    "contact": "No",
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 868,
+    "name": {
+      "english": "Fillet-away"
+    },
+    "type": "Normal",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "User",
+    "changes": []
+  },
+  {
+    "_id": 869,
+    "name": {
+      "english": "Kowtow-cleave"
+    },
+    "type": "Dark",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 85,
+    "accuracy": null,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 870,
+    "name": {
+      "english": "Flower-trick"
+    },
+    "type": "Grass",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 70,
+    "accuracy": null,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 871,
+    "name": {
+      "english": "Torch-song"
+    },
+    "type": "Fire",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 872,
+    "name": {
+      "english": "Aqua-step"
+    },
+    "type": "Water",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 873,
+    "name": {
+      "english": "Raging-bull"
+    },
+    "type": "Normal",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 90,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 874,
+    "name": {
+      "english": "Make-it-rain"
+    },
+    "type": "Steel",
+    "category": "Special",
+    "contest": null,
+    "pp": 5,
+    "power": 120,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "All-opponents",
+    "changes": []
+  },
+  {
+    "_id": 875,
+    "name": {
+      "english": "Pound"
+    },
+    "type": "Normal",
+    "category": "Physical",
+    "contest": null,
+    "pp": 35,
+    "power": 40,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 876,
+    "name": {
+      "english": "Pound"
+    },
+    "type": "Normal",
+    "category": "Physical",
+    "contest": null,
+    "pp": 35,
+    "power": 40,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 877,
+    "name": {
+      "english": "Ruination"
+    },
+    "type": "Dark",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 1,
+    "accuracy": 90,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 878,
+    "name": {
+      "english": "Collision-course"
+    },
+    "type": "Fighting",
+    "category": "Physical",
+    "contest": null,
+    "pp": 5,
+    "power": 100,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 879,
+    "name": {
+      "english": "Electro-drift"
+    },
+    "type": "Electric",
+    "category": "Special",
+    "contest": null,
+    "pp": 5,
+    "power": 100,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 880,
+    "name": {
+      "english": "Shed-tail"
+    },
+    "type": "Normal",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "User",
+    "changes": []
+  },
+  {
+    "_id": 881,
+    "name": {
+      "english": "Chilly-reception"
+    },
+    "type": "Ice",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "Entire-field",
+    "changes": []
+  },
+  {
+    "_id": 882,
+    "name": {
+      "english": "Tidy-up"
+    },
+    "type": "Normal",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "User",
+    "changes": []
+  },
+  {
+    "_id": 883,
+    "name": {
+      "english": "Snowscape"
+    },
+    "type": "Ice",
+    "category": "Status",
+    "contest": null,
+    "pp": 10,
+    "power": 0,
+    "accuracy": null,
+    "contact": "No",
+    "generation": "9",
+    "target": "Entire-field",
+    "changes": []
+  },
+  {
+    "_id": 884,
+    "name": {
+      "english": "Pounce"
+    },
+    "type": "Bug",
+    "category": "Physical",
+    "contest": null,
+    "pp": 20,
+    "power": 50,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 885,
+    "name": {
+      "english": "Trailblaze"
+    },
+    "type": "Grass",
+    "category": "Physical",
+    "contest": null,
+    "pp": 20,
+    "power": 50,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 886,
+    "name": {
+      "english": "Chilling-water"
+    },
+    "type": "Water",
+    "category": "Special",
+    "contest": null,
+    "pp": 20,
+    "power": 50,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 887,
+    "name": {
+      "english": "Hyper-drill"
+    },
+    "type": "Normal",
+    "category": "Physical",
+    "contest": null,
+    "pp": 5,
+    "power": 100,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 888,
+    "name": {
+      "english": "Twin-beam"
+    },
+    "type": "Psychic",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 40,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 889,
+    "name": {
+      "english": "Rage-fist"
+    },
+    "type": "Ghost",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 50,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 890,
+    "name": {
+      "english": "Armor-cannon"
+    },
+    "type": "Fire",
+    "category": "Special",
+    "contest": null,
+    "pp": 5,
+    "power": 120,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 891,
+    "name": {
+      "english": "Bitter-blade"
+    },
+    "type": "Fire",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 90,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 892,
+    "name": {
+      "english": "Double-shock"
+    },
+    "type": "Electric",
+    "category": "Physical",
+    "contest": null,
+    "pp": 5,
+    "power": 120,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 893,
+    "name": {
+      "english": "Gigaton-hammer"
+    },
+    "type": "Steel",
+    "category": "Physical",
+    "contest": null,
+    "pp": 5,
+    "power": 160,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 894,
+    "name": {
+      "english": "Comeuppance"
+    },
+    "type": "Dark",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 1,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Specific-move",
+    "changes": []
+  },
+  {
+    "_id": 895,
+    "name": {
+      "english": "Aqua-cutter"
+    },
+    "type": "Water",
+    "category": "Physical",
+    "contest": null,
+    "pp": 20,
+    "power": 70,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 896,
+    "name": {
+      "english": "Blazing-torque"
+    },
+    "type": "Fire",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 897,
+    "name": {
+      "english": "Wicked-torque"
+    },
+    "type": "Dark",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 898,
+    "name": {
+      "english": "Noxious-torque"
+    },
+    "type": "Poison",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 100,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 899,
+    "name": {
+      "english": "Combat-torque"
+    },
+    "type": "Fighting",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 100,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  },
+  {
+    "_id": 900,
+    "name": {
+      "english": "Magical-torque"
+    },
+    "type": "Fairy",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 100,
+    "accuracy": 100,
+    "contact": null,
+    "generation": "9",
+    "target": "Selected-pokemon",
+    "changes": []
+  }
+]

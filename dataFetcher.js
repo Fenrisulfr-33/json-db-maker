@@ -25,8 +25,7 @@ function dataFetcher(
         try {
             if (index > lastNum) {
                 // convert JSON object to string
-                const sortedArray = newData.sort((a, b) => a._id - b._id);
-                const data_array = JSON.stringify(sortedArray, null, 2); // this makes it pretty
+                const data_array = JSON.stringify(newData, null, 2); // this makes it pretty
     
                 // write JSON string to a file
                 fs.writeFile(fileSaveURL, data_array, (error) => {

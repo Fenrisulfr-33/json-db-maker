@@ -11,8 +11,20 @@ const newPokemonArray = []; // this will be the final array that gets converted 
  */
 let index = 0;
 const scrapePokemonData = async () => {
-    if (index > dex.scviDex.length - 1) { 
-        const data_array = JSON.stringify(newPokemonArray, null, 2); // this makes it pretty
+    if (index > dex.scviDex.length - 1) {
+    // if (index > 2) {
+
+        // sort the array by _id first
+        // sort(a , b) a < b  sort a before b
+        // sort(a, b) a > b sort a after a
+        console.log('Sorting...')
+        const sortedNewPokemonArray = newPokemonArray.sort((a, b) => {
+            if(a._id < b._id){
+                return -1;
+            }
+        });
+        console.log('Sorted');
+        const data_array = JSON.stringify(sortedNewPokemonArray, null, 2); // this makes it pretty
         // write JSON string to a file
         fs.writeFile('../../jsons/08-jsons/08-pokedex.json', data_array, (error) => {
             if (error) {
@@ -42,158 +54,11 @@ const scrapePokemonData = async () => {
     
             const createNewPokedexObject = (obj, section, title, data) => {
                 switch(title) {
-                    case 'RedBlue': 
-                        obj[section]['rb'] = data;
-                        break;
-                    case 'Yellow': 
-                        obj[section]['ye'] = data;
-                        break;
-                    case 'Silver': 
-                        obj[section]['s'] = data;
-                        break;
-                    case 'Gold': 
-                        obj[section]['g'] = data;
-                        break;
-                    case 'Crystal': 
-                        obj[section]['c'] = data;
-                        break;
-                    case 'Ruby': 
-                        obj[section]['ru'] = data;
-                        break;
-                    case 'Sapphire': 
-                        obj[section]['sa'] = data;
-                        break;
-                    case 'RubySapphire': 
-                        obj[section]['rs'] = data;
-                        break;
-                    case 'Emerald': 
-                        obj[section]['e'] = data;
-                        break;
-                    case 'RubySapphireEmerald': 
-                        obj[section]['rse'] = data;
-                        break;
-                    case 'FireRed': 
-                        obj[section]['fr'] = data;
-                        break;
-                    case 'LeafGreen': 
-                        obj[section]['lg'] = data;
-                        break;
-                    case 'FireRedLeafGreen': 
-                        obj[section]['frlg'] = data;
-                        break;
-                    case 'Diamond': 
-                        obj[section]['d'] = data;
-                        break;
-                    case 'Pearl': 
-                        obj[section]['pe'] = data;
-                        break;
-                    case 'Platinum': 
-                        obj[section]['pl'] = data;
-                        break;
-                    case 'DiamondPearl': 
-                        obj[section]['dpe'] = data;
-                        break;
-                    case 'DiamondPlatinum': 
-                        obj[section]['dpl'] = data;
-                        break;
-                    case 'DiamondPearlPlatinum': 
-                        obj[section]['dpp'] = data;
-                        break;
-                    case 'HeartGold': 
-                        obj[section]['hg'] = data;
-                        break;
-                    case 'SoulSilver': 
-                        obj[section]['ss'] = data;
-                        break;
-                    case 'HeartGoldSoulSilver': 
-                        obj[section]['hgss'] = data;
-                        break;
-                    case 'Black': 
-                        obj[section]['b'] = data;
-                        break;
-                    case 'White': 
-                        obj[section]['w'] = data;
-                        break;
-                    case 'BlackWhite': 
-                        obj[section]['bw'] = data;
-                        break;
-                    case 'Black 2White 2': 
-                        obj[section]['b2w2'] = data;
-                        break;    
-                    case 'BlackWhiteBlack 2White 2': 
-                        obj[section]['bwb2w2'] = data;
-                        break;                                
-                    case 'X': 
-                        obj[section]['x'] = data;
-                        break;
-                    case 'Y': 
-                        obj[section]['y'] = data;
-                        break;
-                    case 'XY': 
-                        obj[section]['xy'] = data;
-                        break;
-                    case 'XOmega Ruby': 
-                        obj[section]['xor'] = data;
-                        break;
-                    case 'YAlpha Sapphire': 
-                        obj[section]['yas'] = data;
-                        break;
-                    case 'Omega Ruby': 
-                        obj[section]['or'] = data;
-                        break;
-                    case 'Alpha Sapphire': 
-                        obj[section]['as'] = data;
-                        break;
-                    case 'Omega RubyAlpha Sapphire': 
-                        obj[section]['oras'] = data;
-                        break;
-                    case 'Sun': 
-                        obj[section]['sun'] = data;
-                        break;
-                    case 'Moon': 
-                        obj[section]['mo'] = data;
-                        break;
-                    case 'Ultra Sun': 
-                        obj[section]['us'] = data;
-                        break;
-                    case 'Ultra Moon': 
-                        obj[section]['um'] = data;
-                        break;
-                    case 'SunUltra Sun': 
-                        obj[section]['sus'] = data;
-                        break;
-                    case 'MoonUltra Moon': 
-                        obj[section]['sus'] = data;
-                        break;
-                    case `Let's Go PikachuLet's Go Eevee`: 
-                        obj[section]['lgplge'] = data;
-                        break;
-                    case 'Sword': 
-                        obj[section]['sw'] = data;
-                        break;
-                    case 'Shield': 
-                        obj[section]['sh'] = data;
-                        break;
-                    case 'ShieldBrilliant DiamondShining Pearl': 
-                        obj[section]['shbdsp'] = data;
-                        break;
-                    case 'Brilliant Diamond': 
-                        obj[section]['bd'] = data;
-                        break;
-                    case 'Shining Pearl': 
-                        obj[section]['sp'] = data;
-                        break;
-                    case 'Brilliant DiamondShining Pearl': 
-                        obj[section]['bdsp'] = data;
-                        break;
-                    case 'Legends: Arceus': 
-                        obj[section]['la'] = data;
-                        break;
                     case 'Scarlet': 
-                        obj[section]['scarlet'] = data;
+                        obj.pokedexEntries[section]['scarlet'] = data;
                         break;
                     case 'Violet': 
-                        obj[section]['violet'] = data;
+                        obj.pokedexEntries[section]['violet'] = data;
                         break;
                     default:
                         console.log(`You missed a case >>>>>>>>>>>>>> ${title}`)
@@ -221,14 +86,16 @@ const scrapePokemonData = async () => {
             const getPokedexEntries = (element) => {
                 const siblings = $(element).siblings('h3'); // if this comes back with nothing there is no h3 on the whole page
                 if ($(siblings).text() === '') {
-                    newPokedexObj[pokemon] = {};
+                    newPokedexObj["pokedexEntries"] = {};
+                    newPokedexObj.pokedexEntries[pokemon] = {};
                     const listEntries = $(element).next().children('table').children('tbody').children('tr');
                     addDataToPokemonObject(listEntries, pokemon);
     
                 } else {
+                    newPokedexObj["pokedexEntries"] = {};
                     for (let index = 0; index < siblings.length; index++) {
                         const section = $(siblings[index]).text().toLowerCase();
-                        newPokedexObj[section] = {};
+                        newPokedexObj.pokedexEntries[section] = {};
                         const listEntries = $(siblings[index]).next().children('table').children('tbody').children('tr');
                         addDataToPokemonObject(listEntries, section);
                     }

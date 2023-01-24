@@ -1,4 +1,3 @@
-const { data } = require("cheerio/lib/api/attributes");
 const fs = require("fs");
 const fetch = require("node-fetch");
 const moves = require("../01-jsons/01-moves.json");
