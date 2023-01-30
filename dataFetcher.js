@@ -65,7 +65,7 @@ function dataFetcher(
                 }
             }
             index++;
-            console.log(`-----Done ${index}-----`);
+            // console.log(`-----Done ${index}-----`);
             fetcher();
         } catch (error) {
             console.log(error);

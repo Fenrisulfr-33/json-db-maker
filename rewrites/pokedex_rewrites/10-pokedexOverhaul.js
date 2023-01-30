@@ -1,3 +1,4 @@
+const { add } = require('cheerio/lib/api/traversing');
 const dataFetcher = require('../../dataFetcher'),
 pokedex = require('../../jsons/09-jsons/09-pokedex.json');
 
@@ -213,7 +214,34 @@ const pokedexOverhaul = (oldData, newData, newArray, errors, checkObj) => {
         addToCheckObj(name, 'gameDropDown');
         oldData.gameDropDown = [];
     }
-    // TODO: sort the GameDropDown
+
+    if(oldData.gameDropDown.length > 0){
+        const newSortedArray = [],
+        { gameDropDown } = oldData;
+        gameDropDown.includes('Pokemon XD') ? newSortedArray.unshift({game:'Pokemon XD',query:'xd'}) : null;
+        gameDropDown.includes('Pokemon Colosseum') ? newSortedArray.unshift({game:'Pokemon Colosseum',query:'colosseum'}) : null;
+        gameDropDown.includes('Red & Blue') ? newSortedArray.unshift({game: 'Red & Blue',query:'red-blue'}) : null;
+        gameDropDown.includes('Yellow') ? newSortedArray.unshift({game:'Yellow',query:'yellow'}) : null;
+        gameDropDown.includes('Gold & Silver') ? newSortedArray.unshift({game:'Gold & Silver',query:'gold-silver'}) : null;
+        gameDropDown.includes('Crystal') ? newSortedArray.unshift({game:'Crystal',query:'crystal'}) : null;
+        gameDropDown.includes('Ruby & Sapphire') ? newSortedArray.unshift({game:'Ruby & Sapphire',query:'ruby-sapphire'}) : null;
+        gameDropDown.includes('Emerald') ? newSortedArray.unshift({game:'Emerald',query:'emerald'}) : null;
+        gameDropDown.includes('Fire Red & Leaf Green') ? newSortedArray.unshift({game:'Fire Red & Leaf Green',query:'firered-leafgreen'}) : null;
+        gameDropDown.includes('Diamond & Pearl') ? newSortedArray.unshift({game:'Diamond & Pearl',query:'diamond-pearl'}) : null;
+        gameDropDown.includes('Platinum') ? newSortedArray.unshift({game:'Platinum',query:'platinum'}) : null;
+        gameDropDown.includes('Heart Gold & Soul Silver') ? newSortedArray.unshift({game:'HeartGold & SoulSilver',query:'heartgold-soulsilver'}) : null; 
+        gameDropDown.includes('Black & White') ? newSortedArray.unshift({game:'Black & White',query:'black-white'}) : null;
+        gameDropDown.includes('Black 2 & White 2') ? newSortedArray.unshift({game:'Black 2 & White 2',query:'black-2-white-2'}) : null;
+        gameDropDown.includes('X & Y') ? newSortedArray.unshift({game:'X & Y',query:'x-y'}) : null;
+        gameDropDown.includes('Omega Ruby & Alpha Shappire') ? newSortedArray.unshift({game:'Omega Ruby & Alpha Shappire',query:'omega-ruby-alpha-sapphire'}) : null;
+        gameDropDown.includes('Sun & Moon') ? newSortedArray.unshift({game:'Sun & Moon',query:'sun-moon'}) : null;
+        gameDropDown.includes('Ultra Sn & Ultra Moon') ? newSortedArray.unshift({game:'Ultra Sun & Ultra Moon',query:'ultra-sun-ultra-moon'}) : null;
+        gameDropDown.includes(`Let's Go Pikachu & Eevee`) ? newSortedArray.unshift({game:`Let's Go Pikachu & Eevee`,query:'lets-go-pikachu-lets-go-eevee'}) : null;
+        gameDropDown.includes('Sword & Shield') ? newSortedArray.unshift({game:'Sword & Shield',query:'sword-shield'}) : null;
+        gameDropDown.includes('Scarlet & Violet') ? newSortedArray.unshift({game:'Scarlet & Violet',query:'scarlet-violet'}) : null;
+
+        oldData.gameDropDown = newSortedArray;
+    }
 
     const finalPokemonObject = {
         _id: oldData._id,

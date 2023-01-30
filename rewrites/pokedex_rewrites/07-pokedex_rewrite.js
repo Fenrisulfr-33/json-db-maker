@@ -120,7 +120,6 @@ const pokedexRewrite07 = (oldData, newData, newArray, errors, checkObj) => {
                         oldData.gameDropDown.push('Scarlet & Violet');
                     }
             } else {
-                console.log(keyTwo)
             }
         }
     }
