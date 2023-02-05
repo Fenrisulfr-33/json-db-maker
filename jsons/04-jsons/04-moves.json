@@ -25469,7 +25469,7 @@
     {
       "_id": 595,
       "name": {
-        "english": "Mystical-fire",
+        "english": "Mystical Fire",
         "japanese": "マジカルフレイム",
         "chinese": "魔法火焰",
         "korean": "매지컬플레임",
@@ -25505,7 +25505,7 @@
     {
       "_id": 596,
       "name": {
-        "english": "Spiky-shield",
+        "english": "Spiky Shield",
         "japanese": "ニードルガード",
         "chinese": "尖刺防守",
         "korean": "니들가드",
@@ -25541,7 +25541,7 @@
     {
       "_id": 597,
       "name": {
-        "english": "Aromatic-mist",
+        "english": "Aromatic Mist",
         "japanese": "アロマミスト",
         "chinese": "芳香薄霧",
         "korean": "아로마미스트",
@@ -25721,7 +25721,7 @@
     {
       "_id": 602,
       "name": {
-        "english": "Magnetic-flux",
+        "english": "Magnetic Flux",
         "japanese": "じばそうさ",
         "chinese": "磁場操控",
         "korean": "자기장조작",
@@ -25793,7 +25793,7 @@
     {
       "_id": 604,
       "name": {
-        "english": "Electric-terrain",
+        "english": "Electric Terrain",
         "japanese": "エレキフィールド",
         "chinese": "電氣場地",
         "korean": "일렉트릭필드",
@@ -25829,7 +25829,7 @@
     {
       "_id": 605,
       "name": {
-        "english": "Dazzling-gleam",
+        "english": "Dazzling Gleam",
         "japanese": "マジカルシャイン",
         "chinese": "魔法閃耀",
         "korean": "매지컬샤인",
@@ -25937,7 +25937,7 @@
     {
       "_id": 608,
       "name": {
-        "english": "Baby-doll-eyes",
+        "english": "Baby-Doll Eyes",
         "japanese": "つぶらなひとみ",
         "chinese": "圓瞳",
         "korean": "초롱초롱눈동자",
@@ -26437,7 +26437,7 @@
     {
       "_id": 622,
       "name": {
-        "english": "Breakneck-blitz--physical",
+        "english": "Breakneck-blitz-physical",
         "japanese": "ウルトラダッシュアタック",
         "chinese": "究極無敵大衝撞",
         "korean": "울트라대시어택",
@@ -26471,7 +26471,7 @@
     {
       "_id": 623,
       "name": {
-        "english": "Breakneck-blitz--special",
+        "english": "Breakneck-blitz-special",
         "japanese": "ウルトラダッシュアタック",
         "chinese": "究極無敵大衝撞",
         "korean": "울트라대시어택",
@@ -26505,7 +26505,7 @@
     {
       "_id": 624,
       "name": {
-        "english": "All-out-pummeling--physical",
+        "english": "All-out-pummeling-physical",
         "japanese": "ぜんりょくむそうげきれつけん",
         "chinese": "全力無雙激烈拳",
         "korean": "전력무쌍격렬권",
@@ -26539,7 +26539,7 @@
     {
       "_id": 625,
       "name": {
-        "english": "All-out-pummeling--special",
+        "english": "All-out-pummeling-special",
         "japanese": "ぜんりょくむそうげきれつけん",
         "chinese": "全力無雙激烈拳",
         "korean": "전력무쌍격렬권",
@@ -26573,7 +26573,7 @@
     {
       "_id": 626,
       "name": {
-        "english": "Supersonic-skystrike--physical",
+        "english": "Supersonic-skystrike-physical",
         "japanese": "ファイナルダイブクラッシュ",
         "chinese": "極速俯衝轟烈撞",
         "korean": "파이널다이브클래시",
@@ -26607,7 +26607,7 @@
     {
       "_id": 627,
       "name": {
-        "english": "Supersonic-skystrike--special",
+        "english": "Supersonic-skystrike-special",
         "japanese": "ファイナルダイブクラッシュ",
         "chinese": "極速俯衝轟烈撞",
         "korean": "파이널다이브클래시",
@@ -26641,7 +26641,7 @@
     {
       "_id": 628,
       "name": {
-        "english": "Acid-downpour--physical",
+        "english": "Acid-downpour-physical",
         "japanese": "アシッドポイズンデリート",
         "chinese": "強酸劇毒滅絕雨",
         "korean": "애시드포이즌딜리트",
@@ -26675,7 +26675,7 @@
     {
       "_id": 629,
       "name": {
-        "english": "Acid-downpour--special",
+        "english": "Acid-downpour-special",
         "japanese": "アシッドポイズンデリート",
         "chinese": "強酸劇毒滅絕雨",
         "korean": "애시드포이즌딜리트",
@@ -26709,7 +26709,7 @@
     {
       "_id": 630,
       "name": {
-        "english": "Tectonic-rage--physical",
+        "english": "Tectonic-rage-physical",
         "japanese": "ライジングランドオーバー",
         "chinese": "地隆嘯天大終結",
         "korean": "라이징랜드오버",
@@ -26743,7 +26743,7 @@
     {
       "_id": 631,
       "name": {
-        "english": "Tectonic-rage--special",
+        "english": "Tectonic-rage-special",
         "japanese": "ライジングランドオーバー",
         "chinese": "地隆嘯天大終結",
         "korean": "라이징랜드오버",
@@ -26777,7 +26777,7 @@
     {
       "_id": 632,
       "name": {
-        "english": "Continental-crush--physical",
+        "english": "Continental-crush-physical",
         "japanese": "ワールズエンドフォール",
         "chinese": "毀天滅地巨岩墜",
         "korean": "월즈엔드폴",
@@ -26811,7 +26811,7 @@
     {
       "_id": 633,
       "name": {
-        "english": "Continental-crush--special",
+        "english": "Continental-crush-special",
         "japanese": "ワールズエンドフォール",
         "chinese": "毀天滅地巨岩墜",
         "korean": "월즈엔드폴",
@@ -26845,7 +26845,7 @@
     {
       "_id": 634,
       "name": {
-        "english": "Savage-spin-out--physical",
+        "english": "Savage-spin-out-physical",
         "japanese": "ぜったいほしょくかいてんざん",
         "chinese": "絕對捕食迴旋斬",
         "korean": "절대포식회전참",
@@ -26879,7 +26879,7 @@
     {
       "_id": 635,
       "name": {
-        "english": "Savage-spin-out--special",
+        "english": "Savage-spin-out-special",
         "japanese": "ぜったいほしょくかいてんざん",
         "chinese": "絕對捕食迴旋斬",
         "korean": "절대포식회전참",
@@ -26913,7 +26913,7 @@
     {
       "_id": 636,
       "name": {
-        "english": "Never-ending-nightmare--physical",
+        "english": "Never-ending-nightmare-physical",
         "japanese": "むげんあんやへのいざない",
         "chinese": "無盡暗夜之誘惑",
         "korean": "무한암야로의유인",
@@ -26947,7 +26947,7 @@
     {
       "_id": 637,
       "name": {
-        "english": "Never-ending-nightmare--special",
+        "english": "Never-ending-nightmare-special",
         "japanese": "むげんあんやへのいざない",
         "chinese": "無盡暗夜之誘惑",
         "korean": "무한암야로의유인",
@@ -26981,7 +26981,7 @@
     {
       "_id": 638,
       "name": {
-        "english": "Corkscrew-crash--physical",
+        "english": "Corkscrew-crash-physical",
         "japanese": "ちょうぜつらせんれんげき",
         "chinese": "超絕螺旋連擊",
         "korean": "초월나선연격",
@@ -27015,7 +27015,7 @@
     {
       "_id": 639,
       "name": {
-        "english": "Corkscrew-crash--special",
+        "english": "Corkscrew-crash-special",
         "japanese": "ちょうぜつらせんれんげき",
         "chinese": "超絕螺旋連擊",
         "korean": "초월나선연격",
@@ -27049,7 +27049,7 @@
     {
       "_id": 640,
       "name": {
-        "english": "Inferno-overdrive--physical",
+        "english": "Inferno-overdrive-physical",
         "japanese": "ダイナミックフルフレイム",
         "chinese": "超強極限爆焰彈",
         "korean": "다이내믹풀플레임",
@@ -27083,7 +27083,7 @@
     {
       "_id": 641,
       "name": {
-        "english": "Inferno-overdrive--special",
+        "english": "Inferno-overdrive-special",
         "japanese": "ダイナミックフルフレイム",
         "chinese": "超強極限爆焰彈",
         "korean": "다이내믹풀플레임",
@@ -27117,7 +27117,7 @@
     {
       "_id": 642,
       "name": {
-        "english": "Hydro-vortex--physical",
+        "english": "Hydro-vortex-physical",
         "japanese": "スーパーアクアトルネード",
         "chinese": "超級水流大漩渦",
         "korean": "슈퍼아쿠아토네이도",
@@ -27151,7 +27151,7 @@
     {
       "_id": 643,
       "name": {
-        "english": "Hydro-vortex--special",
+        "english": "Hydro-vortex-special",
         "japanese": "スーパーアクアトルネード",
         "chinese": "超級水流大漩渦",
         "korean": "슈퍼아쿠아토네이도",
@@ -27185,7 +27185,7 @@
     {
       "_id": 644,
       "name": {
-        "english": "Bloom-doom--physical",
+        "english": "Bloom-doom-physical",
         "japanese": "ブルームシャインエクストラ",
         "chinese": "絢爛繽紛花怒放",
         "korean": "블룸샤인엑스트라",
@@ -27219,7 +27219,7 @@
     {
       "_id": 645,
       "name": {
-        "english": "Bloom-doom--special",
+        "english": "Bloom-doom-special",
         "japanese": "ブルームシャインエクストラ",
         "chinese": "絢爛繽紛花怒放",
         "korean": "블룸샤인엑스트라",
@@ -27253,7 +27253,7 @@
     {
       "_id": 646,
       "name": {
-        "english": "Gigavolt-havoc--physical",
+        "english": "Gigavolt-havoc-physical",
         "japanese": "スパーキングギガボルト",
         "chinese": "終極伏特狂雷閃",
         "korean": "스파킹기가볼트",
@@ -27287,7 +27287,7 @@
     {
       "_id": 647,
       "name": {
-        "english": "Gigavolt-havoc--special",
+        "english": "Gigavolt-havoc-special",
         "japanese": "スパーキングギガボルト",
         "chinese": "終極伏特狂雷閃",
         "korean": "스파킹기가볼트",
@@ -27321,7 +27321,7 @@
     {
       "_id": 648,
       "name": {
-        "english": "Shattered-psyche--physical",
+        "english": "Shattered-psych-physical",
         "japanese": "マキシマムサイブレイカー",
         "chinese": "至高精神破壞波",
         "korean": "맥시멈사이브레이커",
@@ -27355,7 +27355,7 @@
     {
       "_id": 649,
       "name": {
-        "english": "Shattered-psyche--special",
+        "english": "Shattered-psyche-special",
         "japanese": "マキシマムサイブレイカー",
         "chinese": "至高精神破壞波",
         "korean": "맥시멈사이브레이커",
@@ -27389,7 +27389,7 @@
     {
       "_id": 650,
       "name": {
-        "english": "Subzero-slammer--physical",
+        "english": "Subzero-slammer-physical",
         "japanese": "レイジングジオフリーズ",
         "chinese": "激狂大地萬里冰",
         "korean": "레이징지오프리즈",
@@ -27423,7 +27423,7 @@
     {
       "_id": 651,
       "name": {
-        "english": "Subzero-slammer--special",
+        "english": "Subzero-slammer-special",
         "japanese": "レイジングジオフリーズ",
         "chinese": "激狂大地萬里冰",
         "korean": "레이징지오프리즈",
@@ -27457,7 +27457,7 @@
     {
       "_id": 652,
       "name": {
-        "english": "Devastating-drake--physical",
+        "english": "Devastating-drake-physical",
         "japanese": "アルティメットドラゴンバーン",
         "chinese": "究極巨龍震天地",
         "korean": "얼티메이트드래곤번",
@@ -27491,7 +27491,7 @@
     {
       "_id": 653,
       "name": {
-        "english": "Devastating-drake--special",
+        "english": "Devastating-drake-special",
         "japanese": "アルティメットドラゴンバーン",
         "chinese": "究極巨龍震天地",
         "korean": "얼티메이트드래곤번",
@@ -27525,7 +27525,7 @@
     {
       "_id": 654,
       "name": {
-        "english": "Black-hole-eclipse--physical",
+        "english": "Black-hole-eclipse-physical",
         "japanese": "ブラックホールイクリプス",
         "chinese": "黑洞吞噬萬物滅",
         "korean": "블랙홀이클립스",
@@ -27559,7 +27559,7 @@
     {
       "_id": 655,
       "name": {
-        "english": "Black-hole-eclipse--special",
+        "english": "Black-hole-eclipse-special",
         "japanese": "ブラックホールイクリプス",
         "chinese": "黑洞吞噬萬物滅",
         "korean": "블랙홀이클립스",
@@ -27593,7 +27593,7 @@
     {
       "_id": 656,
       "name": {
-        "english": "Twinkle-tackle--physical",
+        "english": "Twinkle-tackle-physical",
         "japanese": "ラブリースターインパクト",
         "chinese": "可愛星星飛天撞",
         "korean": "러블리스타임팩트",
@@ -27627,7 +27627,7 @@
     {
       "_id": 657,
       "name": {
-        "english": "Twinkle-tackle--special",
+        "english": "Twinkle-tackle-special",
         "japanese": "ラブリースターインパクト",
         "chinese": "可愛星星飛天撞",
         "korean": "러블리스타임팩트",
@@ -27695,7 +27695,7 @@
     {
       "_id": 659,
       "name": {
-        "english": "Shore-up",
+        "english": "Shore Up",
         "japanese": "すなあつめ",
         "chinese": "集沙",
         "korean": "모래모으기",
@@ -27729,7 +27729,7 @@
     {
       "_id": 660,
       "name": {
-        "english": "First-impression",
+        "english": "First Impression",
         "japanese": "であいがしら",
         "chinese": "迎頭一擊",
         "korean": "만나자마자",
@@ -27763,7 +27763,7 @@
     {
       "_id": 661,
       "name": {
-        "english": "Baneful-bunker",
+        "english": "Baneful Bunker",
         "japanese": "トーチカ",
         "chinese": "碉堡",
         "korean": "토치카",
@@ -27899,7 +27899,7 @@
     {
       "_id": 665,
       "name": {
-        "english": "Ice-hammer",
+        "english": "Ice Hammer",
         "japanese": "アイスハンマー",
         "chinese": "冰錘",
         "korean": "아이스해머",
@@ -27967,7 +27967,7 @@
     {
       "_id": 667,
       "name": {
-        "english": "High-horsepower",
+        "english": "High Horsepower",
         "japanese": "１０まんばりき",
         "chinese": "十萬馬力",
         "korean": "10만마력",
@@ -28035,7 +28035,7 @@
     {
       "_id": 669,
       "name": {
-        "english": "Solar-blade",
+        "english": "Solar Blade",
         "japanese": "ソーラーブレード",
         "chinese": "日光刃",
         "korean": "솔라블레이드",
@@ -28239,7 +28239,7 @@
     {
       "_id": 675,
       "name": {
-        "english": "Throat-chop",
+        "english": "Throat Chop",
         "japanese": "じごくづき",
         "chinese": "地獄突刺",
         "korean": "지옥찌르기",
@@ -28273,7 +28273,7 @@
     {
       "_id": 676,
       "name": {
-        "english": "Pollen-puff",
+        "english": "Pollen Puff",
         "japanese": "かふんだんご",
         "chinese": "花粉團",
         "korean": "꽃가루경단",
@@ -28341,7 +28341,7 @@
     {
       "_id": 678,
       "name": {
-        "english": "Psychic-terrain",
+        "english": "Psychic Terrain",
         "japanese": "サイコフィールド",
         "chinese": "精神場地",
         "korean": "사이코필드",
@@ -28409,7 +28409,7 @@
     {
       "_id": 680,
       "name": {
-        "english": "Fire-lash",
+        "english": "Fire Lash",
         "japanese": "ほのおのムチ",
         "chinese": "火焰鞭",
         "korean": "불꽃채찍",
@@ -28443,7 +28443,7 @@
     {
       "_id": 681,
       "name": {
-        "english": "Power-trip",
+        "english": "Power Trip",
         "japanese": "つけあがる",
         "chinese": "囂張",
         "korean": "기어오르기",
@@ -28511,7 +28511,7 @@
     {
       "_id": 683,
       "name": {
-        "english": "Speed-swap",
+        "english": "Speed Swap",
         "japanese": "スピードスワップ",
         "chinese": "速度互換",
         "korean": "스피드스웹",
@@ -28545,7 +28545,7 @@
     {
       "_id": 684,
       "name": {
-        "english": "Smart-strike",
+        "english": "Smart Strike",
         "japanese": "スマートホーン",
         "chinese": "修長之角",
         "korean": "스마트호른",
@@ -28613,7 +28613,7 @@
     {
       "_id": 686,
       "name": {
-        "english": "Revelation-dance",
+        "english": "Revelation Dance",
         "japanese": "めざめるダンス",
         "chinese": "覺醒之舞",
         "korean": "잠재댄스",
@@ -28851,7 +28851,7 @@
     {
       "_id": 693,
       "name": {
-        "english": "Brutal-swing",
+        "english": "Brutal Swing",
         "japanese": "ぶんまわす",
         "chinese": "狂舞揮打",
         "korean": "세차게휘두르기",
@@ -28885,7 +28885,7 @@
     {
       "_id": 694,
       "name": {
-        "english": "Aurora-veil",
+        "english": "Aurora Veil",
         "japanese": "オーロラベール",
         "chinese": "極光幕",
         "korean": "오로라베일",
@@ -29293,7 +29293,7 @@
     {
       "_id": 706,
       "name": {
-        "english": "Psychic-fangs",
+        "english": "Psychic Fangs",
         "japanese": "サイコファング",
         "chinese": "精神之牙",
         "korean": "사이코팽",
@@ -29327,7 +29327,7 @@
     {
       "_id": 707,
       "name": {
-        "english": "Stomping-tantrum",
+        "english": "Stomping Tantrum",
         "japanese": "じだんだ",
         "chinese": "跺腳",
         "korean": "분함의발구르기",
@@ -29599,7 +29599,7 @@
     {
       "_id": 715,
       "name": {
-        "english": "Tearful-look",
+        "english": "Tearful Look",
         "japanese": "なみだめ",
         "chinese": "淚眼汪汪",
         "korean": "눈물그렁그렁",
@@ -30607,7 +30607,7 @@
     {
       "_id": 746,
       "name": {
-        "english": "Jaw-lock",
+        "english": "Jaw Lock",
         "japanese": "くらいつく",
         "chinese": "緊咬不放",
         "korean": "물고버티기",
@@ -30638,7 +30638,7 @@
     {
       "_id": 747,
       "name": {
-        "english": "Stuff-cheeks",
+        "english": "Stuff Cheeks",
         "japanese": "ほおばる",
         "chinese": "大快朵頤",
         "korean": "볼가득넣기",
@@ -30700,7 +30700,7 @@
     {
       "_id": 749,
       "name": {
-        "english": "Tar-shot",
+        "english": "Tar Shot",
         "japanese": "タールショット",
         "chinese": "瀝青射擊",
         "korean": "타르숏",
@@ -30728,7 +30728,7 @@
     {
       "_id": 750,
       "name": {
-        "english": "Magic-powder",
+        "english": "Magic Powder",
         "japanese": "まほうのこな",
         "chinese": "魔法粉",
         "korean": "마법가루",
@@ -30756,7 +30756,7 @@
     {
       "_id": 751,
       "name": {
-        "english": "Dragon-darts",
+        "english": "Dragon Darts",
         "japanese": "ドラゴンアロー",
         "chinese": "龍箭",
         "korean": "드래곤애로",
@@ -31510,7 +31510,7 @@
     {
       "_id": 776,
       "name": {
-        "english": "Body-press",
+        "english": "Body Press",
         "japanese": "ボディプレス",
         "chinese": "撲擊",
         "korean": "바디프레스",
@@ -31743,7 +31743,7 @@
     {
       "_id": 784,
       "name": {
-        "english": "Breaking-swipe",
+        "english": "Breaking Swipe",
         "japanese": "ワイドブレイカー",
         "chinese": "廣域破壞",
         "korean": "와이드브레이커",
@@ -31833,7 +31833,7 @@
     {
       "_id": 787,
       "name": {
-        "english": "Apple-acid",
+        "english": "Apple Acid",
         "japanese": "りんごさん",
         "chinese": "蘋果酸",
         "korean": "사과산",
@@ -31892,7 +31892,7 @@
     {
       "_id": 789,
       "name": {
-        "english": "Spirit-break",
+        "english": "Spirit Break",
         "japanese": "ソウルクラッシュ",
         "chinese": "靈魂衝擊",
         "korean": "소울크래시",
@@ -31954,7 +31954,7 @@
     {
       "_id": 791,
       "name": {
-        "english": "Life-dew",
+        "english": "Life Dew",
         "japanese": "いのちのしずく",
         "chinese": "生命水滴",
         "korean": "생명의물방울",
@@ -32010,7 +32010,7 @@
     {
       "_id": 793,
       "name": {
-        "english": "False-surrender",
+        "english": "False Surrender",
         "japanese": "どげざつき",
         "chinese": "假跪真撞",
         "korean": "사죄의찌르기",
@@ -32103,7 +32103,7 @@
     {
       "_id": 796,
       "name": {
-        "english": "Steel-beam",
+        "english": "Steel Beam",
         "japanese": "てっていこうせん",
         "chinese": "鐵蹄光線",
         "korean": "철제광선",
@@ -32134,7 +32134,7 @@
     {
       "_id": 797,
       "name": {
-        "english": "Expanding-force",
+        "english": "Expanding Force",
         "japanese": "ワイドフォース",
         "chinese": "廣域戰力",
         "korean": "와이드포스",
@@ -32165,7 +32165,7 @@
     {
       "_id": 798,
       "name": {
-        "english": "Steel-roller",
+        "english": "Steel Roller",
         "japanese": "アイアンローラー",
         "chinese": "鐵滾輪",
         "korean": "아이언롤러",
@@ -32196,7 +32196,7 @@
     {
       "_id": 799,
       "name": {
-        "english": "Scale-shot",
+        "english": "Scale Shot",
         "japanese": "スケイルショット",
         "chinese": "鱗射",
         "korean": "스케일샷",
@@ -32382,7 +32382,7 @@
     {
       "_id": 805,
       "name": {
-        "english": "Terrain-pulse",
+        "english": "Terrain Pulse",
         "japanese": "だいちのはどう",
         "chinese": "大地波動",
         "korean": "대지의파동",
@@ -32413,7 +32413,7 @@
     {
       "_id": 806,
       "name": {
-        "english": "Skitter-smack",
+        "english": "Skitter Smack",
         "japanese": "はいよるいちげき",
         "chinese": "爬擊",
         "korean": "엄습하는일격",
@@ -32599,7 +32599,7 @@
     {
       "_id": 812,
       "name": {
-        "english": "Flip-turn",
+        "english": "Flip Turn",
         "japanese": "クイックターン",
         "chinese": "快速折返",
         "korean": "퀵턴",
@@ -32661,7 +32661,7 @@
     {
       "_id": 814,
       "name": {
-        "english": "Dual-wingbeat",
+        "english": "Dual Wingbeat",
         "japanese": "ダブルウイング",
         "chinese": "雙翼",
         "korean": "더블윙",
@@ -33176,7 +33176,7 @@
       {
         "_id": 834,
         "name": {
-          "english": "Wave-crash"
+          "english": "Wave Crash"
         },
         "type": "Water",
         "category": "Physical",
@@ -33240,7 +33240,7 @@
       {
         "_id": 838,
         "name": {
-          "english": "Headlong-rush"
+          "english": "Headlong Rush"
         },
         "type": "Ground",
         "category": "Physical",
@@ -33448,7 +33448,7 @@
       {
         "_id": 851,
         "name": {
-          "english": "Tera-blast"
+          "english": "Tera Blast"
         },
         "type": "Normal",
         "category": "Special",
@@ -33464,7 +33464,7 @@
       {
         "_id": 852,
         "name": {
-          "english": "Silk-trap"
+          "english": "Silk Trap"
         },
         "type": "Bug",
         "category": "Status",
@@ -33480,7 +33480,7 @@
       {
         "_id": 853,
         "name": {
-          "english": "Axe-kick"
+          "english": "Axe Kick"
         },
         "type": "Fighting",
         "category": "Physical",
@@ -33496,7 +33496,7 @@
       {
         "_id": 854,
         "name": {
-          "english": "Last-respects"
+          "english": "Last Respects"
         },
         "type": "Ghost",
         "category": "Physical",
@@ -33512,7 +33512,7 @@
       {
         "_id": 855,
         "name": {
-          "english": "Lumina-crash"
+          "english": "Lumina Crash"
         },
         "type": "Psychic",
         "category": "Special",
@@ -33528,7 +33528,7 @@
       {
         "_id": 856,
         "name": {
-          "english": "Order-up"
+          "english": "Order Up"
         },
         "type": "Dragon",
         "category": "Physical",
@@ -33544,7 +33544,7 @@
       {
         "_id": 857,
         "name": {
-          "english": "Jet-punch"
+          "english": "Jet Punch"
         },
         "type": "Water",
         "category": "Physical",
@@ -33560,7 +33560,7 @@
       {
         "_id": 858,
         "name": {
-          "english": "Spicy-extract"
+          "english": "Spicy Extract"
         },
         "type": "Grass",
         "category": "Status",
@@ -33576,7 +33576,7 @@
       {
         "_id": 859,
         "name": {
-          "english": "Spin-out"
+          "english": "Spin Out"
         },
         "type": "Steel",
         "category": "Physical",
@@ -33592,7 +33592,7 @@
       {
         "_id": 860,
         "name": {
-          "english": "Population-bomb"
+          "english": "Population Bomb"
         },
         "type": "Normal",
         "category": "Physical",
@@ -33608,7 +33608,7 @@
       {
         "_id": 861,
         "name": {
-          "english": "Ice-spinner"
+          "english": "Ice Spinner"
         },
         "type": "Ice",
         "category": "Physical",
@@ -33624,7 +33624,7 @@
       {
         "_id": 862,
         "name": {
-          "english": "Glaive-rush"
+          "english": "Glaive Rush"
         },
         "type": "Dragon",
         "category": "Physical",
@@ -33640,7 +33640,7 @@
       {
         "_id": 863,
         "name": {
-          "english": "Revival-blessing"
+          "english": "Revival Blessing"
         },
         "type": "Normal",
         "category": "Status",
@@ -33672,7 +33672,7 @@
       {
         "_id": 865,
         "name": {
-          "english": "Triple-dive"
+          "english": "Triple Dive"
         },
         "type": "Water",
         "category": "Physical",
@@ -33688,7 +33688,7 @@
       {
         "_id": 866,
         "name": {
-          "english": "Mortal-spin"
+          "english": "Mortal Spin"
         },
         "type": "Poison",
         "category": "Physical",
@@ -33720,7 +33720,7 @@
       {
         "_id": 868,
         "name": {
-          "english": "Fillet-away"
+          "english": "Fillet Away"
         },
         "type": "Normal",
         "category": "Status",
@@ -33736,7 +33736,7 @@
       {
         "_id": 869,
         "name": {
-          "english": "Kowtow-cleave"
+          "english": "Kowtow Cleave"
         },
         "type": "Dark",
         "category": "Physical",
@@ -33752,7 +33752,7 @@
       {
         "_id": 870,
         "name": {
-          "english": "Flower-trick"
+          "english": "Flower Trick"
         },
         "type": "Grass",
         "category": "Physical",
@@ -33768,7 +33768,7 @@
       {
         "_id": 871,
         "name": {
-          "english": "Torch-song"
+          "english": "Torch Song"
         },
         "type": "Fire",
         "category": "Special",
@@ -33784,7 +33784,7 @@
       {
         "_id": 872,
         "name": {
-          "english": "Aqua-step"
+          "english": "Aqua Step"
         },
         "type": "Water",
         "category": "Physical",
@@ -33880,7 +33880,7 @@
       {
         "_id": 878,
         "name": {
-          "english": "Collision-course"
+          "english": "Collision Course"
         },
         "type": "Fighting",
         "category": "Physical",
@@ -33912,7 +33912,7 @@
       {
         "_id": 880,
         "name": {
-          "english": "Shed-tail"
+          "english": "Shed Tail"
         },
         "type": "Normal",
         "category": "Status",
@@ -33944,7 +33944,7 @@
       {
         "_id": 882,
         "name": {
-          "english": "Tidy-up"
+          "english": "Tidy Up"
         },
         "type": "Normal",
         "category": "Status",
@@ -34008,7 +34008,7 @@
       {
         "_id": 886,
         "name": {
-          "english": "Chilling-water"
+          "english": "Chilling Water"
         },
         "type": "Water",
         "category": "Special",
@@ -34024,7 +34024,7 @@
       {
         "_id": 887,
         "name": {
-          "english": "Hyper-drill"
+          "english": "Hyper Drill"
         },
         "type": "Normal",
         "category": "Physical",
@@ -34040,7 +34040,7 @@
       {
         "_id": 888,
         "name": {
-          "english": "Twin-beam"
+          "english": "Twin Beam"
         },
         "type": "Psychic",
         "category": "Special",
@@ -34056,7 +34056,7 @@
       {
         "_id": 889,
         "name": {
-          "english": "Rage-fist"
+          "english": "Rage Fist"
         },
         "type": "Ghost",
         "category": "Physical",
@@ -34072,7 +34072,7 @@
       {
         "_id": 890,
         "name": {
-          "english": "Armor-cannon"
+          "english": "Armor Cannon"
         },
         "type": "Fire",
         "category": "Special",
@@ -34120,7 +34120,7 @@
       {
         "_id": 893,
         "name": {
-          "english": "Gigaton-hammer"
+          "english": "Gigaton Hammer"
         },
         "type": "Steel",
         "category": "Physical",

@@ -69,7 +69,7 @@ const scrapePokemonData = async () => {
              * This function takes the html table given to use and add it into a new object
              * 
              * @param {<table>} list 
-             * @param {obj_name} section 
+             * @param {obj_name} section
              */
             const addDataToPokemonObject = (list, section) => {
                 list.each((index, element) => {
