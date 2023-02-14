@@ -45,7 +45,6 @@ function dataFetcher(
                 console.log(`-----Done ${index + 1} Pokemon: ${returnObj._id}:${returnObj.name.english}-----`);
                 newData.push(returnObj);
             }
-            
             index++;
             fetcher();
         } catch (error) {
