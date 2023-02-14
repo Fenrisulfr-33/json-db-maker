@@ -20,9 +20,18 @@ const slowpokeGalarian = {
     one: "Psychic",
   },
   abilities: {
-    one: "Gluttony",
-    two: "Own-tempo",
-    hidden: "Regenerator",
+    one: {
+      name: "Gluttony",
+      id: 82,
+    },
+    two: {
+      name: "Own Tempo",
+      id: 20,
+    },
+    hidden: {
+      name: "Regenerator",
+      id: 144,
+    },
   },
   baseStats: {
     hp: 90,
@@ -47,10 +56,7 @@ const slowpokeGalarian = {
   evs: {
     hp: 1,
   },
-  eggGroups: {
-    0: "Monster",
-    1: "Water 1",
-  },
+  eggGroups: ["Monster", "Water 1"],
   species: "Dopey Pokémon",
   catchRate: 190,
   baseFriendship: 50,

@@ -21,9 +21,18 @@ const slowbroGalarian = {
     two: "Psychic",
   },
   abilities: {
-    one: "Quick Draw",
-    two: "Own Tempo",
-    hidden: "Regenerator",
+    one: {
+      name: "Quick Draw",
+      id: 259,
+    },
+    two: {
+      name: "Own Tempo",
+      id: 20,
+    },
+    hidden: {
+      name: "Regenerator",
+      id: 144,
+    },
   },
   baseStats: {
     hp: 95,
@@ -48,10 +57,7 @@ const slowbroGalarian = {
   evs: {
     atk: 2,
   },
-  eggGroups: {
-    0: "Monster",
-    1: "Water 1",
-  },
+  eggGroups: ["Monster", "Water 1"],
   species: "Hermit Crab Pokémon",
   catchRate: 75,
   baseFriendship: 50,

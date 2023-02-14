@@ -21,9 +21,18 @@ const wooperPaldean = {
     two: "Ground",
   },
   abilities: {
-    one: "Poison Point",
-    two: "Water Absorb",
-    hidden: "Unaware",
+    one: {
+      name: "Poison Point",
+      id: 38,
+    },
+    two: {
+      name: "Water Absorb",
+      id: 11,
+    },
+    hidden: {
+      name: "Unaware",
+      id: 109,
+    },
   },
   baseStats: {
     hp: 55,
@@ -48,10 +57,7 @@ const wooperPaldean = {
   evs: {
     hp: 1,
   },
-  eggGroups: {
-    0: "Field",
-    1: "Water 1",
-  },
+  eggGroups: ["Field", "Water 1"],
   species: "Poison Fish Pokémon",
   catchRate: 255,
   baseFriendship: 50,

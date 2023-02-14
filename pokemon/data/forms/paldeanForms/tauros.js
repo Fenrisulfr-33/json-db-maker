@@ -20,9 +20,18 @@ const taurosPaldean = {
     one: "Fighting",
   },
   abilities: {
-    one: "Intimidate",
-    two: "Anger Point",
-    hidden: "Cud Chew",
+    one: {
+      name: "Intimidate",
+      id: 22,
+    },
+    two: {
+      name: "Anger Point",
+      id: 83,
+    },
+    hidden: {
+      name: "Cud Chew",
+      id: 291,
+    },
   },
   baseStats: {
     hp: 75,
@@ -47,9 +56,7 @@ const taurosPaldean = {
   evs: {
     atk: 2,
   },
-  eggGroups: {
-    0: "Field",
-  },
+  eggGroups: ["Field"],
   species: "Wild Bull Pokémon",
   catchRate: 45,
   baseFriendship: 50,

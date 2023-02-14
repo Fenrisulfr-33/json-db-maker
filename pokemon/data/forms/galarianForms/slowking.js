@@ -18,9 +18,18 @@ const slowkingGalarian = {
     two: "Psychic",
   },
   abilities: {
-    one: "Curious Medicine",
-    two: "Own Tempo",
-    hidden: "Regenerator",
+    one: {
+      name: "Curious Medicine",
+      id: 261,
+    },
+    two: {
+      name: "Own Tempo",
+      id: 20,
+    },
+    hidden: {
+      name: "Regenerator",
+      id: 144,
+    },
   },
   baseStats: {
     hp: 95,
@@ -45,10 +54,7 @@ const slowkingGalarian = {
   evs: {
     spdef: 2,
   },
-  eggGroups: {
-    0: "Monster",
-    1: "Water 1",
-  },
+  eggGroups: ["Monster", "Water 1"],
   species: "Hexpert Pokémon",
   catchRate: 70,
   baseFriendship: 50,
