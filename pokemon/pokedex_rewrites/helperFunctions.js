@@ -90,10 +90,189 @@ const flavorTextEntry = (flavorText) => {
   return description;
 };
 
+const addNewMoves = (moves, checkObj, movesDB) => {
+  const newMoves = {};
+  moves.forEach((move) => {
+    const foundMove = movesDB.find((dbMove) => {
+      if (
+        dbMove.name.english
+          .toLowerCase()
+          .replaceAll(" ", "-")
+          .replace("'", "") === move.move.name
+      ) {
+        return dbMove.name.english;
+      }
+    });
+    if (foundMove) {
+      const {
+        name: { english },
+      } = foundMove;
+      move.version_group_details.forEach((method_move) => {
+        const { move_learn_method, version_group, level_learned_at } =
+          method_move;
+        const { name } = version_group;
+        if (move_learn_method.name === "tutor") {
+          if (newMoves[name]) {
+            if (newMoves[name].tutor) {
+              newMoves[name].tutor.push(english);
+            } else {
+              newMoves[name].tutor = [];
+              newMoves[name].tutor.push(english);
+            }
+          } else {
+            newMoves[name] = {};
+            newMoves[name].tutor = [];
+            newMoves[name].tutor.push(english);
+          }
+        } else if (move_learn_method.name === "egg") {
+          if (newMoves[name]) {
+            if (newMoves[name].egg) {
+              newMoves[name].egg.push(english);
+            } else {
+              newMoves[name].egg = [];
+              newMoves[name].egg.push(english);
+            }
+          } else {
+            newMoves[name] = {};
+            newMoves[name].egg = [];
+            newMoves[name].egg.push(english);
+          }
+        } else if (move_learn_method.name === "machine") {
+          if (newMoves[name]) {
+            if (newMoves[name].machine) {
+              newMoves[name].machine.push(english);
+            } else {
+              newMoves[name].machine = [];
+              newMoves[name].machine.push(english);
+            }
+          } else {
+            newMoves[name] = {};
+            newMoves[name].machine = [];
+            newMoves[name].machine.push(english);
+          }
+        } else if (move_learn_method.name === "level-up") {
+          const lvlMove = { name: english, lvl: level_learned_at };
+          const evoMove = { name: english, lvl: 1 };
+          if (Number(level_learned_at) === 0) {
+            if (newMoves[name]) {
+              if (newMoves[name].evolution) {
+                newMoves[name].evolution.push(english);
+              } else {
+                newMoves[name].evolution = [];
+                newMoves[name].evolution.push(english);
+              }
+            } else {
+              newMoves[name] = {};
+              newMoves[name].evolution = [];
+              newMoves[name].evolution.push(english);
+            }
+
+            if (newMoves[name]) {
+              if (newMoves[name]["level-up"]) {
+                newMoves[name]["level-up"].push(evoMove);
+              } else {
+                newMoves[name]["level-up"] = [];
+                newMoves[name]["level-up"].push(evoMove);
+              }
+            } else {
+              newMoves[name] = {};
+              newMoves[name]["level-up"] = [];
+              newMoves[name]["level-up"].push(evoMove);
+            }
+          } else {
+            if (newMoves[name]) {
+              if (newMoves[name]["level-up"]) {
+                newMoves[name]["level-up"].push(lvlMove);
+              } else {
+                newMoves[name]["level-up"] = [];
+                newMoves[name]["level-up"].push(lvlMove);
+              }
+            } else {
+              newMoves[name] = {};
+              newMoves[name]["level-up"] = [];
+              newMoves[name]["level-up"].push(lvlMove);
+            }
+          }
+        } else if (
+          move_learn_method.name === "form-change" ||
+          move_learn_method.name === "light-ball-egg" ||
+          move_learn_method.name === "zygarde-cube" ||
+          move_learn_method.name === "stadium-surfing-pikachu"
+        ) {
+          const specialName = {
+            name: english,
+            method: move_learn_method.name,
+          };
+          if (newMoves[name]) {
+            if (newMoves[name]["special-moves"]) {
+              newMoves[name]["special-moves"].push(specialName);
+            } else {
+              newMoves[name]["special-moves"] = [];
+              newMoves[name]["special-moves"].push(specialName);
+            }
+          } else {
+            newMoves[name] = {};
+            newMoves[name]["special-moves"] = [];
+            newMoves[name]["special-moves"].push(specialName);
+          }
+        } else {
+          checkObj[move_learn_method.name] = "missed";
+        }
+      });
+    } else {
+      checkObj[move.move.name] = "not found";
+    }
+  });
+  const finalMoves = sortLevelUpMoves(newMoves);
+  return finalMoves;
+};
+
+const sortLevelUpMoves = (moves) => {
+  for (const [key, value] of Object.entries(moves)) {
+    for (const [keyTwo, valueTwo] of Object.entries(moves[key])) {
+      if (keyTwo === "level-up") {
+        const sortedLvl = moves[key][keyTwo].sort((a, b) => {
+          if (a.lvl < b.lvl) {
+            return -1;
+          }
+        });
+        moves[key][keyTwo] = sortedLvl;
+      }
+    }
+  }
+  return moves;
+};
+
+const addAbilityObjectToPokemon = (pokemonAbilities, abilitesDB) => {
+  const newAbilityObj = {};
+  for (const [key, value] of Object.entries(pokemonAbilities)) {
+    if (value === "") {
+    } else {
+      const formattedAbility = value.toLowerCase().replaceAll(" ", "-");
+      const foundAbility = abilitesDB.find(
+        (ability) =>
+          ability.name.english.toLowerCase().replaceAll(" ", "-") ===
+          formattedAbility
+      );
+      if (foundAbility) {
+        newAbilityObj[key] = {
+          name: foundAbility.name.english,
+          id: foundAbility._id,
+        };
+      } else {
+        console.log("Ability not found", value);
+      }
+    }
+  }
+  return newAbilityObj;
+};
+
 module.exports = {
   pokemonThatHaveAbility,
   nameFormatter,
   generationDecephyer,
   effectEntry,
   flavorTextEntry,
+  addNewMoves,
+  addAbilityObjectToPokemon,
 };
