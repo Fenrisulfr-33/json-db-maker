@@ -401,4 +401,4 @@ const scarlet_violet_dex = [
   1008,
 ];
 
-module.exports = scarlet_violet_dex
+module.exports = scarlet_violet_dex;

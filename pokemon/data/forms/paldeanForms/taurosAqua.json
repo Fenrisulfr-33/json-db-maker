@@ -1,0 +1,189 @@
+{
+  "_id": 128.3,
+  "name": {
+    "english": "Tauros",
+    "spanish": "Tauros",
+    "italian": "Tauros",
+    "japanese": "ケンタロス",
+    "chinese": "肯泰罗",
+    "korean": "",
+    "german": "Tauros",
+    "french": "Tauros"
+  },
+  "pokedexNumber": {
+    "scvi": 223
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Anger Point",
+      "id": 83
+    },
+    "hidden": {
+      "name": "Cud Chew",
+      "id": 291
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 110,
+    "def": 105,
+    "spatk": 30,
+    "spdef": 70,
+    "spd": 100,
+    "total": 490
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "110.0 kg (242.5 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 9,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Wild Bull Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "Taurus": "mythical Greek bull & star sign"
+  },
+  "gameDropDown": [
+    {
+      "game": "Scarlet & Violet",
+      "query": "scarlet-violet"
+    }
+  ],
+  "pokedexEntries": {
+    "Blaze Breed": {
+      "scarlet": "This Pokémon blasts water from holes on the tips of its horns—the high-pressure jets pierce right through Tauros’s enemies.",
+      "violet": "It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily."
+    }
+  },
+  "moves": {
+    "level-up": [
+      {
+        "name": "Tackle",
+        "lvl": 1
+      },
+      {
+        "name": "Tail Whip",
+        "lvl": 1
+      },
+      {
+        "name": "Work Up",
+        "lvl": 5
+      },
+      {
+        "name": "Payback",
+        "lvl": 10
+      },
+      {
+        "name": "Assurance",
+        "lvl": 15
+      },
+      {
+        "name": "Horn Attack",
+        "lvl": 20
+      },
+      {
+        "name": "Scary Face",
+        "lvl": 25
+      },
+      {
+        "name": "Zen Headbutt",
+        "lvl": 30
+      },
+      {
+        "name": "Raging Bull",
+        "lvl": 35
+      },
+      {
+        "name": "Rest",
+        "lvl": 40
+      },
+      {
+        "name": "Swagger",
+        "lvl": 45
+      },
+      {
+        "name": "Thrash",
+        "lvl": 50
+      },
+      {
+        "name": "Double-Edge",
+        "lvl": 55
+      },
+      {
+        "name": "Giga Impact",
+        "lvl": 60
+      }
+    ],
+    "egg": [
+      "Curse",
+      "Endeavor"
+    ],
+    "machine": [
+      "Take Down",
+      "Scary Face",
+      "Protect",
+      "Thief",
+      "Trailblaze",
+      "Facade",
+      "Bulldoze",
+      "Icy Wind",
+      "Rock Tomb",
+      "Endure",
+      "Sunny Day",
+      "Rain Dance",
+      "Sandstorm",
+      "Smart Strike",
+      "Dig",
+      "Zen Headbutt",
+      "Body Slam",
+      "Sleep Talk",
+      "Stomping Tantrum",
+      "Rest",
+      "Rock Slide",
+      "Iron Head",
+      "Substitute",
+      "Shadow Ball",
+      "Surf",
+      "Flamethrower",
+      "Thunderbolt",
+      "Helping Hand",
+      "Reversal",
+      "Ice Beam",
+      "Fire Blast",
+      "Blizzard",
+      "Wild Charge",
+      "Earthquake",
+      "Stone Edge",
+      "Giga Impact",
+      "Outrage",
+      "Hyper Beam",
+      "Thunder",
+      "Close Combat",
+      "Solar Beam",
+      "Tera Blast"
+    ]
+  }
+}
