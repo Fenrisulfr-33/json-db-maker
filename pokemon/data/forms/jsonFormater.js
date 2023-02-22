@@ -5,6 +5,12 @@ const slowbro = require('./galarianForms/slowbro');
 const slowking = require('./galarianForms/slowking');
 const zigzagoon = require('./galarianForms/zigzagoon');
 const linoone = require('./galarianForms/linoone');
+const articuno = require('./galarianForms/articuno');
+const moltres = require('./galarianForms/moltres');
+const zapdos = require('./galarianForms/zapdos');
+const corsola = require('./galarianForms/corsola');
+const darumaka = require('./galarianForms/darumaka');
+const darmanitan = require('./galarianForms/darmanitan');
 
 const tauros = require('./paldeanForms/tauros');
 const taurosBlaze = require('./paldeanForms/tauros-blaze');
@@ -23,6 +29,12 @@ jsonFormatter(slowbro, './galarianForms/slowbro.json');
 jsonFormatter(slowking, './galarianForms/slowking.json');
 jsonFormatter(zigzagoon, './galarianForms/zigzagoon.json');
 jsonFormatter(linoone, './galarianForms/linoone.json');
+jsonFormatter(articuno, './galarianForms/articuno.json');
+jsonFormatter(zapdos, './galarianForms/zapdos.json');
+jsonFormatter(moltres, './galarianForms/moltres.json');
+jsonFormatter(corsola, './galarianForms/corsola.json');
+jsonFormatter(darumaka, './galarianForms/darumaka.json');
+jsonFormatter(darmanitan, './galarianForms/darmanitan');
 
 jsonFormatter(tauros, './paldeanForms/tauros.json');
 jsonFormatter(taurosBlaze, './paldeanForms/taurosBlaze.json');

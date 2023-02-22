@@ -1,3 +1,6 @@
+/**
+ * 02-20-2023 Verfied data is correct - Archer
+ */
 const moltresGalarian = {
   _id: 146.1,
   name: {

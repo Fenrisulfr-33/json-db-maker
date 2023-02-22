@@ -1,3 +1,6 @@
+/**
+ * 02-20-2023 Verfied data is correct - Archer
+ */
 const zapdosGalarian = {
   _id: 145.1,
   name: {
