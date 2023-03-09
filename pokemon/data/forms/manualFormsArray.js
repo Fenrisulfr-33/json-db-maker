@@ -5,6 +5,12 @@ const slowking = require('./galarianForms/slowking.json');
 const slowpoke = require('./galarianForms/slowpoke.json');
 const zigzagoon = require('./galarianForms/zigzagoon.json');
 const linoone = require('./galarianForms/linoone.json');
+const articuno = require('./galarianForms/articuno.json');
+const moltres = require('./galarianForms/moltres.json');
+const zapdos = require('./galarianForms/zapdos.json');
+const corsola = require('./galarianForms/corsola.json');
+const darumaka = require('./galarianForms/darumaka.json');
+const darmanitan = require('./galarianForms/darmanitan.json');
 
 const tauros = require('./paldeanForms/tauros.json');
 const taurosAqua = require('./paldeanForms/taurosAqua.json');

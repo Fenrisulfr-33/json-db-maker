@@ -34,7 +34,7 @@ jsonFormatter(zapdos, './galarianForms/zapdos.json');
 jsonFormatter(moltres, './galarianForms/moltres.json');
 jsonFormatter(corsola, './galarianForms/corsola.json');
 jsonFormatter(darumaka, './galarianForms/darumaka.json');
-jsonFormatter(darmanitan, './galarianForms/darmanitan');
+jsonFormatter(darmanitan, './galarianForms/darmanitan.json');
 
 jsonFormatter(tauros, './paldeanForms/tauros.json');
 jsonFormatter(taurosBlaze, './paldeanForms/taurosBlaze.json');

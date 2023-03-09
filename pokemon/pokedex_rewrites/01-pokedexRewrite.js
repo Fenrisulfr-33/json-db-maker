@@ -2,6 +2,8 @@ const dataFetcher = require("./dataFetcher");
 const pokedex = require("./pokedex_jsons/00-dnt-pokedex.json");
 const moves = require("./moves_jsons/00-dnt-moves.json");
 const scarlet_violet_dex = require("../pokedexes/scarlet-violet-dex");
+const isle_of_armor_dex = require('../pokedexes/isle-of-armor-dex');
+const crown_tundra_dex = require('../pokedexes/crown-tundra-dex');
 const abilities = require("./abilities_jsons/01-abilities.json");
 const { addNewMoves, addAbilityObjectToPokemon } = require("./helperFunctions");
 /**
@@ -13,14 +15,36 @@ const { addNewMoves, addAbilityObjectToPokemon } = require("./helperFunctions");
  * @param {object} checkObj - use this to store and info you want to see at the end of the conversion
  */
 const pokedexRewrite01 = (oldData, newData, checkObj) => {
+  // adding dex numbers to pokemon
   if (scarlet_violet_dex.includes(oldData._id)) {
-    // adding dex numbers to pokemon
     scarlet_violet_dex.find((num, index) => {
       if (num === oldData._id) {
         oldData.pokedexNumber.scvi = index + 1;
       }
     });
   }
+  if (crown_tundra_dex.includes(oldData._id)) {
+    crown_tundra_dex.find((num, index) => {
+      if (num === oldData._id) {
+        oldData.pokedexNumber.ct = index + 1;
+      }
+    });
+  }
+  if (isle_of_armor_dex.includes(oldData._id)) {
+    isle_of_armor_dex.find((num, index) => {
+      if (num === oldData._id) {
+        oldData.pokedexNumber.ct = index + 1;
+      }
+    });
+  }
+  if (sword_shield_dex.includes(oldData._id)) {
+    sword_shield_dex.find((num, index) => {
+      if (num === oldData._id) {
+        oldData.pokedexNumber.ct = index + 1;
+      }
+    });
+  }
+
   const newEggGroupsFormat = [];
   newEggGroupsFormat.push(oldData.eggGroups[0]);
   oldData.eggGroups[1] ? newEggGroupsFormat.push(oldData.eggGroups[1]) : null;
