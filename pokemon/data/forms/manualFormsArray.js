@@ -11,6 +11,8 @@ const zapdos = require('./galarianForms/zapdos.json');
 const corsola = require('./galarianForms/corsola.json');
 const darumaka = require('./galarianForms/darumaka.json');
 const darmanitan = require('./galarianForms/darmanitan.json');
+const ponyta = require('./galarianForms/ponyta.json');
+const rapidash = require('./galarianForms/rapidash.json');
 
 const tauros = require('./paldeanForms/tauros.json');
 const taurosAqua = require('./paldeanForms/taurosAqua.json');

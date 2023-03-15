@@ -1,5 +1,8 @@
+/**
+ * 03-09-2023 Verfied data is correct - Archer
+ */
 const rapidashGalarian = {
-  _id: 78,
+  _id: 78.1,
   name: {
     english: "Rapidash",
     spanish: "Rapidash",
@@ -14,7 +17,8 @@ const rapidashGalarian = {
     swsh: 334,
   },
   type: {
-    one: "Fire",
+    one: "Psychic",
+    two: "Fairy",
   },
   abilities: {
     one: {
@@ -22,12 +26,12 @@ const rapidashGalarian = {
       id: 50,
     },
     two: {
-      name: "Flash Fire",
-      id: 18,
+      name: "Pastel Veil",
+      id: 257,
     },
     hidden: {
-      name: "Flame Body",
-      id: 49,
+      name: "Anticipation",
+      id: 107,
     },
   },
   baseStats: {
@@ -49,12 +53,12 @@ const rapidashGalarian = {
     genderless: false,
   },
   evolution: 32,
-  generation: 1,
+  generation: 8,
   evs: {
     spd: 2,
   },
   eggGroups: ["Field"],
-  species: "Fire Horse Pokémon",
+  species: "Unique Horn Pokémon",
   catchRate: 60,
   baseFriendship: 50,
   baseExp: 175,
@@ -82,48 +86,48 @@ const rapidashGalarian = {
     "sword-shield": {
       machine: [
         "Pay Day",
-        "Swords Dance",
-        "Body Slam",
-        "Flamethrower",
         "Hyper Beam",
-        "Low Kick",
-        "Solar Beam",
-        "Fire Spin",
-        "Agility",
-        "Fire Blast",
-        "Swift",
+        "Giga Impact",
         "Rest",
-        "Substitute",
         "Snore",
         "Protect",
-        "Endure",
         "Charm",
         "Attract",
-        "Sleep Talk",
-        "Megahorn",
-        "Baton Pass",
-        "Iron Tail",
-        "Sunny Day",
-        "Heat Wave",
-        "Will-O-Wisp",
         "Facade",
-        "Overheat",
+        "Swift",
+        "Imprison",
         "Bounce",
-        "Flare Blitz",
-        "Poison Jab",
-        "Giga Impact",
+        "Psycho Cut",
+        "Trick Room",
+        "Wonder Room",
+        "Magic Room",
         "Round",
-        "Ally Switch",
-        "Wild Charge",
-        "Drill Run",
-        "Play Rough",
+        "Misty Terrain",
+        "Psychic Terrain",
         "Mystical Fire",
-        "High Horsepower",
-        "Solar Blade",
-        "Throat Chop",
         "Smart Strike",
       ],
       "level-up": [
+        {
+          name: "Confusion",
+          lvl: 1,
+        },
+        {
+          name: "Growl",
+          lvl: 1,
+        },
+        {
+          name: "Megahorn",
+          lvl: 1,
+        },
+        {
+          name: "Psycho Cut",
+          lvl: 1,
+        },
+        {
+          name: "Quick Attack",
+          lvl: 1,
+        },
         {
           name: "Tackle",
           lvl: 1,
@@ -133,35 +137,7 @@ const rapidashGalarian = {
           lvl: 1,
         },
         {
-          name: "Growl",
-          lvl: 1,
-        },
-        {
-          name: "Ember",
-          lvl: 1,
-        },
-        {
-          name: "Quick Attack",
-          lvl: 1,
-        },
-        {
-          name: "Megahorn",
-          lvl: 1,
-        },
-        {
-          name: "Poison Jab",
-          lvl: 1,
-        },
-        {
-          name: "Smart Strike",
-          lvl: 1,
-        },
-        {
-          name: "Smart Strike",
-          lvl: 1,
-        },
-        {
-          name: "Flame Charge",
+          name: "Fairy Wind",
           lvl: 15,
         },
         {
@@ -169,7 +145,7 @@ const rapidashGalarian = {
           lvl: 20,
         },
         {
-          name: "Flame Wheel",
+          name: "Psybeam",
           lvl: 25,
         },
         {
@@ -177,7 +153,7 @@ const rapidashGalarian = {
           lvl: 30,
         },
         {
-          name: "Fire Spin",
+          name: "Heal Pulse",
           lvl: 35,
         },
         {
@@ -185,20 +161,52 @@ const rapidashGalarian = {
           lvl: 43,
         },
         {
-          name: "Inferno",
+          name: "Dazzling Gleam",
           lvl: 49,
         },
         {
-          name: "Fire Blast",
+          name: "Psychic",
           lvl: 56,
         },
         {
-          name: "Flare Blitz",
+          name: "Healing Wish",
           lvl: 63,
         },
       ],
-      evolution: ["Smart Strike"],
-      tutor: ["Scorching Sands"],
+      evolution: ["Psycho Cut"],
+      tutor: ["Expanding Force"],
+      egg: [
+        'Double Kick',
+        'Double-Edge',
+        'Horn Drill',
+        'Hypnosis',
+        'Morning Sun',
+        'Thrash'
+      ],
+      record: [
+        "Swords Dance",
+        "Body Slam",
+        "Low Kick",
+        "Psychic",
+        "Agility",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Megahorn",
+        "Baton Pass",
+        "Iron Tail",
+        "Future Sight",
+        "Calm Mind",
+        "Zen Headbutt",
+        "Stored Power",
+        "Ally Switch",
+        "Wild Charge",
+        "Drill Run",
+        "Play Rough",
+        "Dazzling Gleam",
+        "High Horsepower",
+        "Throat Chop",
+      ]
     },
   },
 };

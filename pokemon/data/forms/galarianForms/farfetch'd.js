@@ -1,5 +1,5 @@
 const farfetchdGalarian = {
-  _id: 83,
+  _id: 83.1,
   name: {
     english: "Farfetch'd",
     spanish: "Farfetch'd",
@@ -14,30 +14,25 @@ const farfetchdGalarian = {
     swsh: 218,
   },
   type: {
-    one: "Normal",
-    two: "Flying",
+    one: "Fighting",
   },
   abilities: {
     one: {
-      name: "Keen Eye",
-      id: 51,
-    },
-    two: {
-      name: "Inner Focus",
-      id: 39,
+      name: "Steadfast",
+      id: 80,
     },
     hidden: {
-      name: "Defiant",
-      id: 128,
+      name: "Scrappy",
+      id: 113,
     },
   },
   baseStats: {
     hp: 52,
-    atk: 90,
+    atk: 95,
     def: 55,
     spatk: 58,
     spdef: 62,
-    spd: 60,
+    spd: 55,
     total: 377,
   },
   info: {
@@ -50,7 +45,7 @@ const farfetchdGalarian = {
     genderless: false,
   },
   evolution: 297,
-  generation: 1,
+  generation: 8,
   evs: {
     atk: 1,
   },
@@ -96,15 +91,15 @@ const farfetchdGalarian = {
           lvl: 10,
         },
         {
-          name: "Cut",
+          name: "Rock Smash",
           lvl: 15,
         },
         {
-          name: "Aerial Ace",
+          name: "Brutual Swing",
           lvl: 20,
         },
         {
-          name: "Air Cutter",
+          name: "Detect",
           lvl: 25,
         },
         {
@@ -112,11 +107,11 @@ const farfetchdGalarian = {
           lvl: 30,
         },
         {
-          name: "False Swipe",
+          name: "Defog",
           lvl: 35,
         },
         {
-          name: "Slash",
+          name: "Brick Break",
           lvl: 40,
         },
         {
@@ -124,7 +119,7 @@ const farfetchdGalarian = {
           lvl: 45,
         },
         {
-          name: "Air Slash",
+          name: "Slam",
           lvl: 50,
         },
         {
@@ -132,7 +127,7 @@ const farfetchdGalarian = {
           lvl: 55,
         },
         {
-          name: "Agility",
+          name: "Final Gambit",
           lvl: 60,
         },
         {

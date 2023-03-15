@@ -1,3 +1,6 @@
+/**
+ * 03-09-2023 Verfied data is correct - Archer
+ */
 const slowkingGalarian = {
   _id: 199.1,
   name: {

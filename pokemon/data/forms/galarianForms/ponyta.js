@@ -1,5 +1,8 @@
+/**
+ * 03-09-2023 Verfied data is correct - Archer
+ */
 const ponytaGalarian = {
-  _id: 77,
+  _id: 77.1,
   name: {
     english: "Ponyta",
     spanish: "Ponyta",
@@ -14,7 +17,7 @@ const ponytaGalarian = {
     swsh: 333,
   },
   type: {
-    one: "Fire",
+    one: "Psychic",
   },
   abilities: {
     one: {
@@ -22,12 +25,12 @@ const ponytaGalarian = {
       id: 50,
     },
     two: {
-      name: "Flash Fire",
-      id: 18,
+      name: "Pastel Veil",
+      id: 257,
     },
     hidden: {
-      name: "Flame Body",
-      id: 49,
+      name: "Anticipation",
+      id: 107,
     },
   },
   baseStats: {
@@ -49,12 +52,12 @@ const ponytaGalarian = {
     genderless: false,
   },
   evolution: 32,
-  generation: 1,
+  generation: 8,
   evs: {
     spd: 1,
   },
   eggGroups: ["Field"],
-  species: "Fire Horse Pokémon",
+  species: "Unique Horn Pokémon",
   catchRate: 190,
   baseFriendship: 50,
   baseExp: 82,
@@ -77,15 +80,28 @@ const ponytaGalarian = {
       la: "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.",
     },
   },
-  moves: {
+  moves:{
     "sword-shield": {
+      machine: [
+        "Rest",
+        "Snore",
+        "Protect",
+        "Charm",
+        "Attract",
+        "Facade",
+        "Swift",
+        "Imprison",
+        "Bounce",
+        "Round",
+        "Mystical Fire",
+      ],
       "level-up": [
         {
-          name: "Tackle",
+          name: "Growl",
           lvl: 1,
         },
         {
-          name: "Growl",
+          name: "Tackle",
           lvl: 1,
         },
         {
@@ -93,11 +109,11 @@ const ponytaGalarian = {
           lvl: 5,
         },
         {
-          name: "Ember",
+          name: "Confusion",
           lvl: 10,
         },
         {
-          name: "Flame Charge",
+          name: "Fairy Wind",
           lvl: 15,
         },
         {
@@ -105,7 +121,7 @@ const ponytaGalarian = {
           lvl: 20,
         },
         {
-          name: "Flame Wheel",
+          name: "Psybeam",
           lvl: 25,
         },
         {
@@ -113,7 +129,7 @@ const ponytaGalarian = {
           lvl: 30,
         },
         {
-          name: "Fire Spin",
+          name: "Heal Pulse",
           lvl: 35,
         },
         {
@@ -121,59 +137,46 @@ const ponytaGalarian = {
           lvl: 41,
         },
         {
-          name: "Inferno",
+          name: "Dazzling Gleam",
           lvl: 45,
         },
         {
-          name: "Fire Blast",
+          name: "Psychic",
           lvl: 50,
         },
         {
-          name: "Flare Blitz",
+          name: "Healing Wish",
           lvl: 55,
         },
       ],
+      tutor: ["Expanding Force"],
       egg: [
-        "Double Kick",
-        "Horn Drill",
-        "Thrash",
-        "Double-Edge",
-        "Hypnosis",
-        "Morning Sun",
+        'Double Kick',
+        'Double-Edge',
+        'Horn Drill',
+        'Hypnosis',
+        'Morning Sun',
+        'Thrash'
       ],
-      machine: [
+      record: [
         "Body Slam",
-        "Flamethrower",
         "Low Kick",
-        "Solar Beam",
-        "Fire Spin",
+        "Psychic",
         "Agility",
-        "Fire Blast",
-        "Swift",
-        "Rest",
         "Substitute",
-        "Snore",
-        "Protect",
         "Endure",
-        "Charm",
-        "Attract",
         "Sleep Talk",
         "Iron Tail",
-        "Sunny Day",
-        "Heat Wave",
-        "Will-O-Wisp",
-        "Facade",
-        "Overheat",
-        "Bounce",
-        "Flare Blitz",
-        "Round",
+        "Future Sight",
+        "Calm Mind",
+        "Zen Headbutt",
+        "Stored Power",
         "Ally Switch",
         "Wild Charge",
         "Play Rough",
-        "Mystical Fire",
+        "Dazzling Gleam",
         "High Horsepower",
-        "Solar Blade",
-      ],
+      ]
     },
   },
 };
