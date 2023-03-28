@@ -200,52 +200,82 @@ const fetch = require('node-fetch');
 let index = 1;
 const final = [];
 const fetcher = async () => {
-    const TEMTEM_API_URL = 'https://temtem-api.mael.tech/api/temtems';
-    try {
-        if (index > 164) { // 164 current tem tem
-            // convert JSON object to string
-            const data_array = JSON.stringify(final, null, 2); // this makes it pretty
-            // write JSON string to a file
-            fs.writeFile('../00-jsons/00-temdex.json', data_array, (error) => {
-                if (error) {
-                    console.log(error);
-                }
-                console.log("JSON data is saved.");
-            });
-            return;
+  const TEMTEM_API_URL = 'https://temtem-api.mael.tech/api/temtems';
+  try {
+    if (index > 164) { // 164 current tem tem
+      // convert JSON object to string
+      const data_array = JSON.stringify(final, null, 2); // this makes it pretty
+      // write JSON string to a file
+      fs.writeFile('../00-temdex.json', data_array, (error) => {
+        if (error) {
+          console.log(error);
         }
-        const response = await fetch(`${TEMTEM_API_URL}/${index}`);
-        const data = await response.json();
-        temDexRewrite(data, final);
-        console.log(`-----Done ${index}-----`);
-        index++
-        fetcher();
-    } catch (error) {
-        console.log(error);
+        console.log("JSON data is saved.");
+      });
+      return;
     }
+    const response = await fetch(`${TEMTEM_API_URL}/${index}`);
+    const data = await response.json();
+    temDexRewrite(data, final);
+    console.log(`-----Done ${index}-----`);
+    index++
+    fetcher();
+  } catch (error) {
+    console.log(error);
+  }
 }
 fetcher();
 
 const temDexRewrite = (incomingData, rewrittenList) => {
-    const newData = {
-        _id: incomingData.number,
-        name: {
-            english: incomingData.name
-        },
-        types: incomingData.types,
-        stats: incomingData.stats,
-        traits: incomingData.traits,
-        details: incomingData.details,
-        techniquies: {},
-        trivia: incomingData.trivia,
-        evolution: incomingData.evolution,
-        locations: incomingData.locations,
-        genderRatio: incomingData.genderRatio,
-        catchRate: incomingData.catchRate,
-        hatchMins: incomingData.hatchMins,
-        tvYeilds: incomingData.tvYeilds,
-        description: incomingData.gameDescription
-    };
-    
-    rewrittenList.push(newData);
+  // reformat moves
+  const getNewTechFormat = (data) => {
+    const newTechniques = {}
+    data.forEach((tech) => {
+      if (tech.source === 'Levelling') {
+        if (!newTechniques['level-up']) {
+          newTechniques['level-up'] = []
+          newTechniques['level-up'].push(tech)
+        } else {
+          newTechniques['level-up'].push(tech)
+        }
+      } else if (tech.source === 'TechniqueCourses') {
+        if (!newTechniques['courses']) {
+          newTechniques['courses'] = []
+          newTechniques['courses'].push(tech)
+        } else {
+          newTechniques['courses'].push(tech)
+        }
+      } else if (tech.source === 'Breeding') {
+        if (!newTechniques['breeding']) {
+          newTechniques['breeding'] = []
+          newTechniques['breeding'].push(tech)
+        } else {
+          newTechniques['breeding'].push(tech)
+        }
+      }
+    });
+    return newTechniques;
+  }
+
+  const newData = {
+    _id: incomingData.number,
+    name: {
+      english: incomingData.name
+    },
+    types: incomingData.types,
+    stats: incomingData.stats,
+    traits: incomingData.traits,
+    details: incomingData.details,
+    techniques: getNewTechFormat(incomingData.techniques), // break apart by level breeding and training course
+    trivia: incomingData.trivia,
+    evolution: incomingData.evolution,
+    locations: incomingData.locations,
+    genderRatio: incomingData.genderRatio,
+    catchRate: incomingData.catchRate,
+    hatchMins: incomingData.hatchMins,
+    tvYeilds: incomingData.tvYeilds,
+    description: incomingData.gameDescription
+  };
+
+  rewrittenList.push(newData);
 }
