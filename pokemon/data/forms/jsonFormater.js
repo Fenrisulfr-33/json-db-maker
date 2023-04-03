@@ -24,6 +24,8 @@ const tauros = require('./paldeanForms/tauros');
 const taurosBlaze = require('./paldeanForms/tauros-blaze');
 const taurosAqua = require('./paldeanForms/tauros-aqua');
 const wooper = require('./paldeanForms/wooper');
+const walkingWake = require('./paldeanForms/walking-wake');
+const ironLeaves = require('./paldeanForms/iron-leaves');
 
 function jsonFormatter(object, fileSaveURL){
     const json_object = JSON.stringify(object, null, 2); // this makes it pretty
@@ -51,3 +53,5 @@ jsonFormatter(tauros, './paldeanForms/tauros.json');
 jsonFormatter(taurosBlaze, './paldeanForms/taurosBlaze.json');
 jsonFormatter(taurosAqua, './paldeanForms/taurosAqua.json');
 jsonFormatter(wooper, './paldeanForms/wooper.json');
+jsonFormatter(walkingWake, './paldeanForms/walking-wake.json');
+jsonFormatter(ironLeaves, './paldeanForms/iron-leaves.json');
