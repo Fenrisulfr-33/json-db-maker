@@ -1,3 +1,6 @@
+/**
+ * 04-04-2023 Verfied data is correct - Archer
+ */
 const washRotom = {
   _id: 479.2,
   name: {
@@ -16,7 +19,7 @@ const washRotom = {
   },
   type: {
     one: "Electric",
-    two: "Ghost",
+    two: "Water",
   },
   abilities: {
     one: {
@@ -26,12 +29,12 @@ const washRotom = {
   },
   baseStats: {
     hp: 50,
-    atk: 50,
-    def: 77,
-    spatk: 95,
-    spdef: 77,
-    spd: 91,
-    total: 440,
+    atk: 65,
+    def: 107,
+    spatk: 105,
+    spdef: 107,
+    spd: 86,
+    total: 520,
   },
   info: {
     height: "0.3 m (1′00″)",
@@ -101,44 +104,11 @@ const washRotom = {
     },
   ],
   pokedexEntries: {
-    rotom: {
-      dpe: "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-      pl: "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
-      hgss: "Research continues on this Pokémon, which could be the power source of a unique motor.",
-      bwb2w2:
-        "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
-      xor: "Research continues on this Pokémon, which could be the power source of a unique motor.",
-      yas: "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-      sw: "One boy’s invention led to the development of many different machines that take advantage of Rotom’s unique capabilities.",
-      sh: "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
-      bdsp: "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
-      la: "This bizarre Pokémon appears to be a will-o’-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous.",
-    },
-    "heat rotom": {
-      sw: "This Rotom has possessed a convection microwave oven that uses a special motor. It also has a flair for manipulating flames.",
-      sh: "This form of Rotom enjoys making mischief by turning up the heat. It will gleefully burn your favorite outfit.",
-      la: "A form in which Rotom lurks within a strange cauldron. The cauldron’s origin is unknown. A bothersome Pokémon, causing trouble with the flames it spits.",
-    },
     "wash rotom": {
       sw: "This form of Rotom enjoys coming up with water-based pranks. Be careful with it if you don’t want your room flooded.",
       sh: "This Rotom has possessed a washing machine that uses a special motor. It blasts out water to get enemies to back down.",
       la: "A form in which Rotom lurks within an odd bureau. The bureau’s purpose is unknown. A bothersome Pokémon, causing trouble by splashing cold water everywhere.",
-    },
-    "frost rotom": {
-      sw: "Rotom assumes this form when it takes over a refrigerator powered by a special motor. It battles by spewing cold air.",
-      sh: "When it’s like this, Rotom likes to play pranks that are freezing cold. You may find it’s turned the bath you just filled to solid ice!",
-      la: "A form in which Rotom lurks within a bizarre cupboard. The cupboard’s composition is unknown. A bothersome Pokémon, causing trouble by frosting everything over.",
-    },
-    "fan rotom": {
-      sw: "In this form, Rotom applies its new power over wind to its love of pranks. It will happily blow away any important documents it can find.",
-      sh: "This Rotom has taken over a fan that has a special motor. Its gusts of wind blow its opponents away!",
-      la: "A form in which Rotom lurks within a mysterious contraption. The contraption’s purpose is unknown. A bothersome Pokémon, causing trouble by stirring up powerful winds.",
-    },
-    "mow rotom": {
-      sw: "This is Rotom after it’s seized control of a lawn mower that has a special motor. As it mows down grass, it scatters the clippings everywhere.",
-      sh: "In this form, Rotom focuses its antics on plants. Any flowers you were growing are going to get mowed down.",
-      la: "A form in which Rotom lurks within a misshapen wheelbarrow. The wheelbarrow’s mechanisms are bizarre. It’s a bothersome Pokémon, causing trouble by mowing down grass and trees.",
-    },
+    }
   },
   moves: {
     "diamond-pearl": {
@@ -225,6 +195,9 @@ const washRotom = {
         "Dark Pulse",
         "Charge Beam",
       ],
+      special: [
+        'Hydro Pump'
+      ],
     },
     platinum: {
       "level-up": [
@@ -277,11 +250,8 @@ const washRotom = {
           lvl: 50,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -379,11 +349,8 @@ const washRotom = {
           lvl: 50,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -490,11 +457,8 @@ const washRotom = {
           lvl: 64,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -585,11 +549,8 @@ const washRotom = {
           lvl: 64,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -700,11 +661,8 @@ const washRotom = {
           lvl: 64,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -805,11 +763,8 @@ const washRotom = {
           lvl: 64,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -923,11 +878,8 @@ const washRotom = {
           lvl: 64,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -1027,11 +979,8 @@ const washRotom = {
           lvl: 64,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -1134,11 +1083,8 @@ const washRotom = {
           lvl: 55,
         },
       ],
-      "special-moves": [
-        {
-          name: "Thunder Shock",
-          method: "form-change",
-        },
+      special: [
+        'Hydro Pump'
       ],
       machine: [
         "Thunderbolt",
@@ -1268,6 +1214,10 @@ const washRotom = {
         "Electric Terrain",
         "Tera Blast",
       ],
+      special: [
+        'Hydro Pump'
+      ],
     },
   },
 };
+module.exports = washRotom;
