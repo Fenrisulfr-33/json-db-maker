@@ -1,3 +1,9 @@
+const heatRotom = require('./rotomForms/heatRotom');
+const washRotom = require('./rotomForms/washRotom');
+const frostRotom = require('./rotomForms/frostRotom');
+const fanRotom = require('./rotomForms/fanRotom');
+const mowRotom = require('./rotomForms/mowRotom');
+
 const gengarMega = require('./megaForms/gengar');
 
 const slowbro = require('./galarianForms/slowbro.json');
@@ -20,6 +26,11 @@ const taurosBlaze = require('./paldeanForms/taurosBlaze.json');
 const wooper = require('./paldeanForms/wooper.json');
 
 const manualFormsArray = [
+    heatRotom,
+    washRotom,
+    frostRotom,
+    fanRotom,
+    mowRotom,
     slowbro,
     slowking,
     slowpoke,

@@ -108,7 +108,7 @@ const frostRotom = {
       sw: "Rotom assumes this form when it takes over a refrigerator powered by a special motor. It battles by spewing cold air.",
       sh: "When it’s like this, Rotom likes to play pranks that are freezing cold. You may find it’s turned the bath you just filled to solid ice!",
       la: "A form in which Rotom lurks within a bizarre cupboard. The cupboard’s composition is unknown. A bothersome Pokémon, causing trouble by frosting everything over.",
-    },
+    }
   },
   moves: {
     "diamond-pearl": {
@@ -1198,3 +1198,4 @@ const frostRotom = {
     },
   },
 };
+module.exports = frostRotom;
