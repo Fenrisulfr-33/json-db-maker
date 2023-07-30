@@ -1,4 +1,4 @@
-const dataFetcher = require("./dataFetcher");
+const dataFetcher = require("../helperFunctions/dataFetcher");
 const pokedex = require("./pokedex_jsons/01-pokedex.json");
 const { scarletVioletDex } = require('../pokedexes/scarlet-violet');
 const { swordShieldDex, isleOfArmorDex, crownTundraDex } = require('../pokedexes/sword-shield');
