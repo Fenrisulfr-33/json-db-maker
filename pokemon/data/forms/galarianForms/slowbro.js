@@ -14,7 +14,7 @@ const slowbroGalarian = {
     french: "Flagadoss",
   },
   pokedexNumber: {
-    ioa: 2,
+    'isle-of-armor': 2,
   },
   type: {
     one: "Poison",

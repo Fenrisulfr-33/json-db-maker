@@ -14,7 +14,7 @@ const articunoGalarian = {
     french: "Artikodin",
   },
   pokedexNumber: {
-    ct: 202,
+    'crown-tundra': 202,
   },
   type: {
     one: "Psychic",

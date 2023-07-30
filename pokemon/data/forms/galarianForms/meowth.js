@@ -14,7 +14,7 @@ const meowthGalarian = {
     french: "Miaouss",
   },
   pokedexNumber: {
-    swsh: 182,
+    'sword-shield': 182,
   },
   type: {
     one: "Steel",

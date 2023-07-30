@@ -14,8 +14,8 @@ const darmanitanGalarian = {
     french: "Darumacho",
   },
   pokedexNumber: {
-    swsh: 368,
-    ct: 104
+    'sword-shield': 368,
+    'crown-tundra': 104
   },
   type: {
     one: "Ice",

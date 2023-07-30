@@ -11,7 +11,7 @@ const farfetchdGalarian = {
     french: "Canarticho",
   },
   pokedexNumber: {
-    swsh: 218,
+    'sword-shield': 218,
   },
   type: {
     one: "Fighting",

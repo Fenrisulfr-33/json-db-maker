@@ -26,11 +26,11 @@ const taurosBlaze = require('./paldeanForms/taurosBlaze.json');
 const wooper = require('./paldeanForms/wooper.json');
 
 const manualFormsArray = [
-    heatRotom,
-    washRotom,
-    frostRotom,
-    fanRotom,
-    mowRotom,
+    // heatRotom,
+    // washRotom,
+    // frostRotom,
+    // fanRotom,
+    // mowRotom,
     slowbro,
     slowking,
     slowpoke,

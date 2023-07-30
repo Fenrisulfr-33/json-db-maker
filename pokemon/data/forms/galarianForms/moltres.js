@@ -14,7 +14,7 @@ const moltresGalarian = {
     french: "Sulfura",
   },
   pokedexNumber: {
-    ct: 204,
+    'crown-tundra': 204,
   },
   type: {
     one: "Dark",

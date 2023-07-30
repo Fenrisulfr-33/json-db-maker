@@ -7,8 +7,8 @@ const linooneGalarian = {
     english: "Linoone",
   },
   pokedexNumber: {
-    swsh: 32,
-    ct: 72,
+    'sword-shield': 32,
+    'crown-tundra': 72,
   },
   type: {
     one: "Dark",
