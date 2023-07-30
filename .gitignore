@@ -1,6 +1,7 @@
 node_modules
 
-poke_api/
-images/
+poke_api
+images
+temtem
 
 /pokemon/smogonFileExporter/smogon/scarlet-violet/*.json
