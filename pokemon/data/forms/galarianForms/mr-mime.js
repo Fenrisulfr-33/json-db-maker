@@ -11,7 +11,7 @@ const mrMimeGalarian = {
     french: "M. Mime",
   },
   pokedexNumber: {
-    swsh: 365,
+    'sword-shield': 365,
   },
   type: {
     one: "Ice",

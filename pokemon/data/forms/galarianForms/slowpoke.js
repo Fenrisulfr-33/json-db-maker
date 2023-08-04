@@ -14,7 +14,7 @@ const slowpokeGalarian = {
     french: "Ramoloss",
   },
   pokedexNumber: {
-    ioa: 1,
+    'isle-of-armor': 1,
   },
   type: {
     one: "Psychic",

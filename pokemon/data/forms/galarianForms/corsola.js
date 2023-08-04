@@ -14,7 +14,7 @@ const corsolaGalarian = {
     french: "Corayon",
   },
   pokedexNumber: {
-    swsh: 236,
+    'sword-shield': 236,
   },
   type: {
     one: "Ghost",

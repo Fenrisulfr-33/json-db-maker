@@ -14,7 +14,7 @@ const ponytaGalarian = {
     french: "Ponyta",
   },
   pokedexNumber: {
-    swsh: 333,
+    'sword-shield': 333,
   },
   type: {
     one: "Psychic",

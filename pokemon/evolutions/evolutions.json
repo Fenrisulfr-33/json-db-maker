@@ -186,7 +186,7 @@
             }
         },
         "altForm": {
-            "id": 19,
+            "id": 19.1,
             "name": "Rattata",
             "form": "Alolan Rattata",
             "type": {
@@ -195,7 +195,7 @@
             },
             "how": "Level 20, Nighttime",
             "next": {
-                "id": 20,
+                "id": 20.1,
                 "name": "Raticate",
                 "form": "Alolan Raticate",
                 "type": {
@@ -271,7 +271,7 @@
                         "how": "Use Thunder Stone, outside Alola"
                     },
                     {
-                        "id": 26,
+                        "id": 26.1,
                         "name": "Raichu",
                         "type":{
                             "one": "Electric",
@@ -303,7 +303,7 @@
             }
         },
         "altForm": {
-            "id": 27,
+            "id": 27.1,
             "name": "Sandshrew",
             "form": "Alolan Sandshrew",
             "type": {
@@ -312,7 +312,7 @@
             },
             "how": "Use Ice Stone",
             "next": {
-                "id": 28,
+                "id": 28.1,
                 "name": "Sandslash",
                 "form": "Alolan Sandslash",
                 "type": {
@@ -321,7 +321,7 @@
                 }
             }
         }
-    },
+    }, // TODO: Leave off
     "12": {
         "start": {
             "id": 29,

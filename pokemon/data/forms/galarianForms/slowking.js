@@ -14,7 +14,7 @@ const slowkingGalarian = {
     french: "Roigada",
   },
   pokedexNumber: {
-    ioa: 3,
+    'isle-of-armor': 3,
   },
   type: {
     one: "Poison",

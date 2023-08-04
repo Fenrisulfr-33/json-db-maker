@@ -9,11 +9,11 @@ const pokemonThatHaveAbility = (pokemon) => {
     const formattedName = nameFormatter(mon.pokemon.name);
     if (mon.is_hidden) {
       if (!pokemonList.hidden.includes(formattedName)) {
-        pokemonList.hidden.push(formattedName);
+        pokemonList.hidden.push({name: formattedName, id: mon._id});
       }
     } else {
       if (!pokemonList.normal.includes(formattedName)) {
-        pokemonList.normal.push(formattedName);
+        pokemonList.normal.push({name: formattedName, id: mon._id});
       }
     }
   });

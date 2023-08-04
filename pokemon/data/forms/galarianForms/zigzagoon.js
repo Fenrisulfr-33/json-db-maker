@@ -14,8 +14,8 @@ const zigzagoonGalarian = {
     french: "Zigzaton",
   },
   pokedexNumber: {
-    swsh: 31,
-    ct: 71,
+    'sword-shield': 31,
+    'crown-tundra': 71,
   },
   type: {
     one: "Dark",

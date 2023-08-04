@@ -14,7 +14,7 @@ const zapdosGalarian = {
     french: "Électhor",
   },
   pokedexNumber: {
-    ct: 203,
+    'crown-tundra': 203,
   },
   type: {
     one: "Fighting",

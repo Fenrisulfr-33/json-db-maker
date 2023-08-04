@@ -14,8 +14,8 @@ const darumakaGalarian = {
     french: "Darumarond",
   },
   pokedexNumber: {
-    swsh: 367,
-    ct: 103,
+    'sword-shield': 367,
+    'crown-tundra': 103,
   },
   type: {
     one: "Ice",

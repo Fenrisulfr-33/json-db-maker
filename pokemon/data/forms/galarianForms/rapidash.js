@@ -14,7 +14,7 @@ const rapidashGalarian = {
     french: "Galopa",
   },
   pokedexNumber: {
-    swsh: 334,
+    'sword-shield': 334,
   },
   type: {
     one: "Psychic",
