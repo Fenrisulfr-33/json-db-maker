@@ -1,4 +1,4 @@
-{
+const evolutionsMasterTree = {
     "1": {
         "start": {
             "id": 1,
@@ -378,4 +378,8 @@
             }
         }
     }
+}
+
+module.exports = {
+    evolutionsMasterTree
 }
