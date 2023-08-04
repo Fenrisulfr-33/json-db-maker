@@ -845,7 +845,7 @@ const evolutionsAssigningMasterKey = [
   },
   {
     id: 211,
-    evolution: null,
+    evolution: 305,
   },
   {
     id: 212,
@@ -937,7 +937,7 @@ const evolutionsAssigningMasterKey = [
   },
   {
     id: 234,
-    evolution: null,
+    evolution: 303,
   },
   {
     id: 235,
@@ -2214,7 +2214,7 @@ const evolutionsAssigningMasterKey = [
   },
   {
     id: 550,
-    evolution: null,
+    evolution: 304,
   },
   {
     id: 551,
@@ -3608,6 +3608,37 @@ const evolutionsAssigningMasterKey = [
     id: 898,
     evolution: null,
   },
+  // Start of Legenda Arceus
+  {
+    id: 899,
+    evolution: 303,
+  },
+  {
+    id: 900,
+    evolution: 72,
+  },
+  {
+    id: 901,
+    evolution: 73,
+  },
+  {
+    id: 902,
+    evolution: 304,
+  },
+  {
+    id: 903,
+    evolution: 163,
+  },
+  {
+    id: 904,
+    evolution: 305,
+  },
+  {
+    id: 905,
+    evolution: null,
+  },
+  // Start of Scarlet & Violet
+
 ];
 
 module.exports = {
