@@ -19,7 +19,7 @@ function pokedexRewrite(){
     // Create saveData in json format
     const saveData = JSON.stringify(reformattedPokedex, null, 2); // this makes it pretty
     // Write JSON string to a file
-    fs.writeFile('./01-pokedex.json', saveData, (error) => {
+    fs.writeFile('./02-pokedex.json', saveData, (error) => {
       error ? console.error(error) : null;
       console.log("JSON data is saved.");
     });
