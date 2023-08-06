@@ -145,6 +145,29 @@ const scrapePokemonMoves = async (tab, gameSave, fileSave) => {
 
                 returnMovesObject["technical-machine"].push(tmMove);
               });
+            } else if (moveType === "Moves learnt by TR") {
+              returnMovesObject["technical-record"] = [];
+
+              const trMoves = $(element)
+                .next()
+                .next()
+                .children("table")
+                .children("tbody")
+                .children("tr");
+
+              trMoves.each((index, element) => {
+                const rowData = $(element).children("td");
+                const trMove = {};
+                rowData.each((index, element) => {
+                  if (index === 0) {
+                    trMove.tr = parseInt($(element).text());
+                  } else if (index === 1) {
+                    trMove.name = $(element).text();
+                  }
+                });
+
+                returnMovesObject["technical-record"].push(trMove);
+              });
             } else {
               errors[moveType] = "Move type not found.";
             }
@@ -157,17 +180,44 @@ const scrapePokemonMoves = async (tab, gameSave, fileSave) => {
             name: pokemon,
             [gameSave]: returnMovesObject,
           });
-          console.log(`Done ${i + 1} - ${pokemon}`);
+          // Pretty conosole.logs
+          const pokemonNatDexNo = i + 1;
+          if (pokemonNatDexNo.toString().length === 1) {
+            console.log(`---Done: ${pokemonNatDexNo} ---- ${pokemon}`);
+          } else if (pokemonNatDexNo.toString().length === 2) {
+            console.log(`---Done: ${pokemonNatDexNo} --- ${pokemon}`);
+          } else if (pokemonNatDexNo.toString().length === 3) {
+            console.log(`---Done: ${pokemonNatDexNo} -- ${pokemon}`);
+          } else if (pokemonNatDexNo.toString().length === 4) {
+            console.log(`---Done: ${pokemonNatDexNo} - ${pokemon}`);
+          }
         } else {
-          console.log(`Skipped ${i + 1} - ${pokemon}`);
+          const pokemonNatDexNo = i + 1;
+          if (pokemonNatDexNo.toString().length === 1) {
+            console.log(`Skipped: ${pokemonNatDexNo} ---- ${pokemon}`);
+          } else if (pokemonNatDexNo.toString().length === 2) {
+            console.log(`Skipped: ${pokemonNatDexNo} --- ${pokemon}`);
+          } else if (pokemonNatDexNo.toString().length === 3) {
+            console.log(`Skipped: ${pokemonNatDexNo} -- ${pokemon}`);
+          } else if (pokemonNatDexNo.toString().length === 4) {
+            console.log(`Skipped: ${pokemonNatDexNo} - ${pokemon}`);
+          }
         }
 
         i++;
         scrapePokemonMoves(tab, gameSave, fileSave);
       })
       .catch((error) => {
-        // console.log(error);
-        console.log(`Pokemon: ${i + 1} - ${pokemon} Does not have page data.`);
+        const pokemonNatDexNo = i + 1;
+        if (pokemonNatDexNo.toString().length === 1) {
+          console.log(`-------- ${pokemonNatDexNo} ---- ${pokemon} - Does not have page data.`);
+        } else if (pokemonNatDexNo.toString().length === 2) {
+          console.log(`-------- ${pokemonNatDexNo} --- ${pokemon} - Does not have page data.`);
+        } else if (pokemonNatDexNo.toString().length === 3) {
+          console.log(`-------- ${pokemonNatDexNo} -- ${pokemon} - Does not have page data.`);
+        } else if (pokemonNatDexNo.toString().length === 4) {
+          console.log(`-------- ${pokemonNatDexNo} - ${pokemon} - Does not have page data.`);
+        }
         i++;
         scrapePokemonMoves(tab, gameSave, fileSave);
       });
@@ -179,14 +229,13 @@ const scrapePokemonMoves = async (tab, gameSave, fileSave) => {
 //   "legends-arceus",
 //   "./legends-arceus-moves.json"
 // );
-scrapePokemonMoves(
-  "#tab-moves-19",
-  "brilliant-diamond-shining-pearl",
-  "./bdsp-moves.json"
-);
 // scrapePokemonMoves(
-//   "#tab-moves-18",
-//   "sword-shield",
-//   "./sword-shield-moves.json"
+//   "#tab-moves-19",
+//   "brilliant-diamond-shining-pearl",
+//   "./bdsp-moves.json"
 // );
-
+scrapePokemonMoves(
+  "#tab-moves-18",
+  "sword-shield",
+  "./sword-shield-moves.json"
+);
