@@ -2297,14 +2297,12 @@
           "name": "Bug Bite"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 82,
           "name": "Electroweb"
         }
-      ],
-      "technical-record": []
+      ]
     }
   },
   {
@@ -2320,7 +2318,6 @@
       "evolution": [
         "Harden"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 82,
@@ -2416,7 +2413,6 @@
       "evolution": [
         "Gust"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -2834,8 +2830,95 @@
     "id": 26,
     "name": "raichu",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Agility"
+        },
+        {
+          "lvl": "1",
+          "name": "Charm"
+        },
+        {
+          "lvl": "1",
+          "name": "Discharge"
+        },
+        {
+          "lvl": "1",
+          "name": "Double Team"
+        },
+        {
+          "lvl": "1",
+          "name": "Electro Ball"
+        },
+        {
+          "lvl": "1",
+          "name": "Feint"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Light Screen"
+        },
+        {
+          "lvl": "1",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "1",
+          "name": "Nuzzle"
+        },
+        {
+          "lvl": "1",
+          "name": "Play Nice"
+        },
+        {
+          "lvl": "1",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Slam"
+        },
+        {
+          "lvl": "1",
+          "name": "Spark"
+        },
+        {
+          "lvl": "1",
+          "name": "Sweet Kiss"
+        },
+        {
+          "lvl": "1",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunder"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunder Punch"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunder Shock"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunder Wave"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunderbolt"
+        }
+      ],
+      "evolution": [
+        "Thunder Punch"
+      ],
       "egg": [
         "Charge",
         "Disarming Voice",
@@ -2845,32 +2928,732 @@
         "Tickle",
         "Wish"
       ],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "tutor": [
+        "Rising Voltage"
+      ],
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 5,
+          "name": "Thunder Punch"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 18,
+          "name": "Reflect"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 62,
+          "name": "Speed Swap"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 80,
+          "name": "Volt Switch"
+        },
+        {
+          "tm": 82,
+          "name": "Electroweb"
+        },
+        {
+          "tm": 87,
+          "name": "Draining Kiss"
+        },
+        {
+          "tm": 90,
+          "name": "Electric Terrain"
+        },
+        {
+          "tm": 93,
+          "name": "Eerie Impulse"
+        },
+        {
+          "tm": 97,
+          "name": "Brutal Swing"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 4,
+          "name": "Surf"
+        },
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 21,
+          "name": "Reversal"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 80,
+          "name": "Electro Ball"
+        },
+        {
+          "tr": 86,
+          "name": "Wild Charge"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        }
+      ]
     }
   },
   {
     "id": 27,
     "name": "sandshrew",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Defense Curl"
+        },
+        {
+          "lvl": "1",
+          "name": "Scratch"
+        },
+        {
+          "lvl": "3",
+          "name": "Poison Sting"
+        },
+        {
+          "lvl": "6",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "9",
+          "name": "Rollout"
+        },
+        {
+          "lvl": "12",
+          "name": "Fury Cutter"
+        },
+        {
+          "lvl": "15",
+          "name": "Rapid Spin"
+        },
+        {
+          "lvl": "18",
+          "name": "Bulldoze"
+        },
+        {
+          "lvl": "21",
+          "name": "Swift"
+        },
+        {
+          "lvl": "24",
+          "name": "Fury Swipes"
+        },
+        {
+          "lvl": "27",
+          "name": "Agility"
+        },
+        {
+          "lvl": "30",
+          "name": "Slash"
+        },
+        {
+          "lvl": "33",
+          "name": "Dig"
+        },
+        {
+          "lvl": "36",
+          "name": "Gyro Ball"
+        },
+        {
+          "lvl": "39",
+          "name": "Swords Dance"
+        },
+        {
+          "lvl": "42",
+          "name": "Sandstorm"
+        },
+        {
+          "lvl": "45",
+          "name": "Earthquake"
+        }
+      ],
+      "egg": [
+        "Counter",
+        "Flail",
+        "Hone Claws",
+        "Metal Claw",
+        "Mud-Slap",
+        "Night Slash"
+      ],
+      "tutor": [
+        "Scorching Sands",
+        "Steel Roller"
+      ],
+      "technical-machine": [
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 49,
+          "name": "Sand Tomb"
+        },
+        {
+          "tm": 53,
+          "name": "Mud Shot"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 65,
+          "name": "Shadow Claw"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 0,
+          "name": "Swords Dance"
+        },
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 17,
+          "name": "Amnesia"
+        },
+        {
+          "tr": 18,
+          "name": "Leech Life"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 52,
+          "name": "Gyro Ball"
+        },
+        {
+          "tr": 57,
+          "name": "Poison Jab"
+        },
+        {
+          "tr": 60,
+          "name": "X-Scissor"
+        },
+        {
+          "tr": 67,
+          "name": "Earth Power"
+        },
+        {
+          "tr": 76,
+          "name": "Stealth Rock"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
     "id": 28,
     "name": "sandslash",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Crush Claw"
+        },
+        {
+          "lvl": "1",
+          "name": "Defense Curl"
+        },
+        {
+          "lvl": "1",
+          "name": "Poison Sting"
+        },
+        {
+          "lvl": "1",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Scratch"
+        },
+        {
+          "lvl": "9",
+          "name": "Rollout"
+        },
+        {
+          "lvl": "12",
+          "name": "Fury Cutter"
+        },
+        {
+          "lvl": "15",
+          "name": "Rapid Spin"
+        },
+        {
+          "lvl": "18",
+          "name": "Bulldoze"
+        },
+        {
+          "lvl": "21",
+          "name": "Swift"
+        },
+        {
+          "lvl": "26",
+          "name": "Fury Swipes"
+        },
+        {
+          "lvl": "31",
+          "name": "Sand Tomb"
+        },
+        {
+          "lvl": "36",
+          "name": "Slash"
+        },
+        {
+          "lvl": "41",
+          "name": "Dig"
+        },
+        {
+          "lvl": "46",
+          "name": "Gyro Ball"
+        },
+        {
+          "lvl": "51",
+          "name": "Swords Dance"
+        },
+        {
+          "lvl": "56",
+          "name": "Sandstorm"
+        },
+        {
+          "lvl": "61",
+          "name": "Earthquake"
+        }
+      ],
+      "evolution": [
+        "Icicle Spear"
+      ],
+      "egg": [
+        "Counter",
+        "Flail",
+        "Hone Claws",
+        "Metal Claw",
+        "Mud-Slap",
+        "Night Slash"
+      ],
+      "tutor": [
+        "Scorching Sands",
+        "Steel Roller"
+      ],
+      "technical-machine": [
+        {
+          "tm": 7,
+          "name": "Pin Missile"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 49,
+          "name": "Sand Tomb"
+        },
+        {
+          "tm": 53,
+          "name": "Mud Shot"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 65,
+          "name": "Shadow Claw"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 0,
+          "name": "Swords Dance"
+        },
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 17,
+          "name": "Amnesia"
+        },
+        {
+          "tr": 18,
+          "name": "Leech Life"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 23,
+          "name": "Spikes"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 52,
+          "name": "Gyro Ball"
+        },
+        {
+          "tr": 57,
+          "name": "Poison Jab"
+        },
+        {
+          "tr": 60,
+          "name": "X-Scissor"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 67,
+          "name": "Earth Power"
+        },
+        {
+          "tr": 75,
+          "name": "Stone Edge"
+        },
+        {
+          "tr": 76,
+          "name": "Stealth Rock"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 87,
+          "name": "Drill Run"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
@@ -3128,7 +3911,6 @@
           "name": "Earth Power"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 15,
@@ -3328,7 +4110,6 @@
       "evolution": [
         "Superpower"
       ],
-      "egg": [],
       "tutor": [
         "Scorching Sands"
       ],
@@ -3884,7 +4665,6 @@
           "name": "Earth Power"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 15,
@@ -4088,7 +4868,6 @@
       "evolution": [
         "Megahorn"
       ],
-      "egg": [],
       "tutor": [
         "Scorching Sands"
       ],
@@ -5154,23 +5933,500 @@
     "id": 37,
     "name": "vulpix",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Ember"
+        },
+        {
+          "lvl": "1",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "4",
+          "name": "Disable"
+        },
+        {
+          "lvl": "8",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "12",
+          "name": "Spite"
+        },
+        {
+          "lvl": "16",
+          "name": "Incinerate"
+        },
+        {
+          "lvl": "20",
+          "name": "Confuse Ray"
+        },
+        {
+          "lvl": "24",
+          "name": "Will-O-Wisp"
+        },
+        {
+          "lvl": "28",
+          "name": "Extrasensory"
+        },
+        {
+          "lvl": "32",
+          "name": "Flamethrower"
+        },
+        {
+          "lvl": "36",
+          "name": "Imprison"
+        },
+        {
+          "lvl": "40",
+          "name": "Fire Spin"
+        },
+        {
+          "lvl": "44",
+          "name": "Safeguard"
+        },
+        {
+          "lvl": "48",
+          "name": "Inferno"
+        },
+        {
+          "lvl": "52",
+          "name": "Grudge"
+        },
+        {
+          "lvl": "56",
+          "name": "Fire Blast"
+        }
+      ],
+      "egg": [
+        "Baby-Doll Eyes",
+        "Flail",
+        "Flame Charge",
+        "Howl",
+        "Hypnosis",
+        "Memento",
+        "Roar"
+      ],
+      "tutor": [
+        "Burning Jealousy"
+      ],
+      "technical-machine": [
+        {
+          "tm": 13,
+          "name": "Fire Spin"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 46,
+          "name": "Weather Ball"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 60,
+          "name": "Power Swap"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 77,
+          "name": "Hex"
+        },
+        {
+          "tm": 84,
+          "name": "Tail Slap"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 43,
+          "name": "Overheat"
+        },
+        {
+          "tr": 55,
+          "name": "Flare Blitz"
+        },
+        {
+          "tr": 58,
+          "name": "Dark Pulse"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        }
+      ]
     }
   },
   {
     "id": 38,
     "name": "ninetales",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Confuse Ray"
+        },
+        {
+          "lvl": "1",
+          "name": "Disable"
+        },
+        {
+          "lvl": "1",
+          "name": "Ember"
+        },
+        {
+          "lvl": "1",
+          "name": "Extrasensory"
+        },
+        {
+          "lvl": "1",
+          "name": "Fire Blast"
+        },
+        {
+          "lvl": "1",
+          "name": "Fire Spin"
+        },
+        {
+          "lvl": "1",
+          "name": "Flamethrower"
+        },
+        {
+          "lvl": "1",
+          "name": "Grudge"
+        },
+        {
+          "lvl": "1",
+          "name": "Imprison"
+        },
+        {
+          "lvl": "1",
+          "name": "Incinerate"
+        },
+        {
+          "lvl": "1",
+          "name": "Inferno"
+        },
+        {
+          "lvl": "1",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "1",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Safeguard"
+        },
+        {
+          "lvl": "1",
+          "name": "Spite"
+        },
+        {
+          "lvl": "1",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "1",
+          "name": "Will-O-Wisp"
+        }
+      ],
+      "evolution": [
+        "Dazzling Gleam"
+      ],
+      "egg": [
+        "Baby-Doll Eyes",
+        "Flail",
+        "Flame Charge",
+        "Howl",
+        "Hypnosis",
+        "Memento",
+        "Roar"
+      ],
+      "tutor": [
+        "Burning Jealousy",
+        "Scorching Sands"
+      ],
+      "technical-machine": [
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 13,
+          "name": "Fire Spin"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 46,
+          "name": "Weather Ball"
+        },
+        {
+          "tm": 47,
+          "name": "Fake Tears"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 60,
+          "name": "Power Swap"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 77,
+          "name": "Hex"
+        },
+        {
+          "tm": 84,
+          "name": "Tail Slap"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 43,
+          "name": "Overheat"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 55,
+          "name": "Flare Blitz"
+        },
+        {
+          "tr": 58,
+          "name": "Dark Pulse"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        }
+      ]
     }
   },
   {
@@ -6132,7 +7388,6 @@
           "name": "Leech Life"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -6859,8 +8114,67 @@
     "id": 50,
     "name": "diglett",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Scratch"
+        },
+        {
+          "lvl": "4",
+          "name": "Growl"
+        },
+        {
+          "lvl": "8",
+          "name": "Astonish"
+        },
+        {
+          "lvl": "12",
+          "name": "Mud-Slap"
+        },
+        {
+          "lvl": "16",
+          "name": "Bulldoze"
+        },
+        {
+          "lvl": "20",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "24",
+          "name": "Slash"
+        },
+        {
+          "lvl": "28",
+          "name": "Sandstorm"
+        },
+        {
+          "lvl": "32",
+          "name": "Dig"
+        },
+        {
+          "lvl": "36",
+          "name": "Earth Power"
+        },
+        {
+          "lvl": "40",
+          "name": "Earthquake"
+        },
+        {
+          "lvl": "44",
+          "name": "Fissure"
+        }
+      ],
+      "egg": [
+        "Ancient Power",
+        "Final Gambit",
+        "Headbutt",
+        "Hone Claws",
+        "Memento"
+      ],
       "tutor": [
         "Scorching Sands"
       ],
@@ -6938,18 +8252,142 @@
           "name": "Stomping Tantrum"
         }
       ],
-      "technical-record": []
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 21,
+          "name": "Reversal"
+        },
+        {
+          "tr": 22,
+          "name": "Sludge Bomb"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 67,
+          "name": "Earth Power"
+        },
+        {
+          "tr": 76,
+          "name": "Stealth Rock"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        }
+      ]
     }
   },
   {
     "id": 51,
     "name": "dugtrio",
     "sword-shield": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Astonish"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Night Slash"
+        },
+        {
+          "lvl": "1",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Sand Tomb"
+        },
+        {
+          "lvl": "1",
+          "name": "Scratch"
+        },
+        {
+          "lvl": "1",
+          "name": "Tri Attack"
+        },
+        {
+          "lvl": "12",
+          "name": "Mud-Slap"
+        },
+        {
+          "lvl": "16",
+          "name": "Bulldoze"
+        },
+        {
+          "lvl": "20",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "24",
+          "name": "Slash"
+        },
+        {
+          "lvl": "30",
+          "name": "Sandstorm"
+        },
+        {
+          "lvl": "36",
+          "name": "Dig"
+        },
+        {
+          "lvl": "42",
+          "name": "Earth Power"
+        },
+        {
+          "lvl": "48",
+          "name": "Earthquake"
+        },
+        {
+          "lvl": "54",
+          "name": "Fissure"
+        }
+      ],
       "evolution": [
         "Sand Tomb"
       ],
-      "egg": [],
+      "egg": [
+        "Ancient Power",
+        "Final Gambit",
+        "Headbutt",
+        "Hone Claws",
+        "Memento"
+      ],
       "tutor": [
         "Scorching Sands"
       ],
@@ -7039,33 +8477,484 @@
           "name": "Stomping Tantrum"
         }
       ],
-      "technical-record": []
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 19,
+          "name": "Tri Attack"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 21,
+          "name": "Reversal"
+        },
+        {
+          "tr": 22,
+          "name": "Sludge Bomb"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 67,
+          "name": "Earth Power"
+        },
+        {
+          "tr": 75,
+          "name": "Stone Edge"
+        },
+        {
+          "tr": 76,
+          "name": "Stealth Rock"
+        },
+        {
+          "tr": 78,
+          "name": "Sludge Wave"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 94,
+          "name": "High Horsepower"
+        }
+      ]
     }
   },
   {
     "id": 52,
     "name": "meowth",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Fake Out"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "4",
+          "name": "Feint"
+        },
+        {
+          "lvl": "8",
+          "name": "Scratch"
+        },
+        {
+          "lvl": "12",
+          "name": "Pay Day"
+        },
+        {
+          "lvl": "16",
+          "name": "Bite"
+        },
+        {
+          "lvl": "20",
+          "name": "Taunt"
+        },
+        {
+          "lvl": "24",
+          "name": "Assurance"
+        },
+        {
+          "lvl": "29",
+          "name": "Fury Swipes"
+        },
+        {
+          "lvl": "32",
+          "name": "Screech"
+        },
+        {
+          "lvl": "36",
+          "name": "Slash"
+        },
+        {
+          "lvl": "40",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "44",
+          "name": "Play Rough"
+        }
+      ],
+      "egg": [
+        "Covet",
+        "Flail",
+        "Hypnosis",
+        "Last Resort",
+        "Spite",
+        "Tail Whip"
+      ],
       "tutor": [
         "Lash Out"
       ],
-      "technical-machine": [],
-      "technical-record": []
+      "technical-machine": [
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 16,
+          "name": "Screech"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 58,
+          "name": "Assurance"
+        },
+        {
+          "tm": 65,
+          "name": "Shadow Claw"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 79,
+          "name": "Retaliate"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 17,
+          "name": "Amnesia"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 42,
+          "name": "Hyper Voice"
+        },
+        {
+          "tr": 58,
+          "name": "Dark Pulse"
+        },
+        {
+          "tr": 59,
+          "name": "Seed Bomb"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 73,
+          "name": "Gunk Shot"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
     "id": 53,
     "name": "persian",
     "sword-shield": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Fake Out"
+        },
+        {
+          "lvl": "1",
+          "name": "Feint"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Power Gem"
+        },
+        {
+          "lvl": "1",
+          "name": "Scratch"
+        },
+        {
+          "lvl": "1",
+          "name": "Switcheroo"
+        },
+        {
+          "lvl": "12",
+          "name": "Pay Day"
+        },
+        {
+          "lvl": "16",
+          "name": "Bite"
+        },
+        {
+          "lvl": "20",
+          "name": "Taunt"
+        },
+        {
+          "lvl": "24",
+          "name": "Assurance"
+        },
+        {
+          "lvl": "31",
+          "name": "Fury Swipes"
+        },
+        {
+          "lvl": "36",
+          "name": "Screech"
+        },
+        {
+          "lvl": "42",
+          "name": "Slash"
+        },
+        {
+          "lvl": "48",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "54",
+          "name": "Play Rough"
+        }
+      ],
       "evolution": [
         "Power Gem"
       ],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
+      "egg": [
+        "Covet",
+        "Flail",
+        "Hypnosis",
+        "Last Resort",
+        "Spite",
+        "Tail Whip"
+      ],
+      "tutor": [
+        "Lash Out",
+        "Skitter Smack"
+      ],
+      "technical-machine": [
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 16,
+          "name": "Screech"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 58,
+          "name": "Assurance"
+        },
+        {
+          "tm": 65,
+          "name": "Shadow Claw"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 79,
+          "name": "Retaliate"
+        }
+      ],
       "technical-record": [
         {
           "tr": 1,
@@ -11012,7 +12901,60 @@
     "id": 77,
     "name": "ponyta",
     "sword-shield": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "5",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "10",
+          "name": "Ember"
+        },
+        {
+          "lvl": "15",
+          "name": "Flame Charge"
+        },
+        {
+          "lvl": "20",
+          "name": "Agility"
+        },
+        {
+          "lvl": "25",
+          "name": "Flame Wheel"
+        },
+        {
+          "lvl": "30",
+          "name": "Stomp"
+        },
+        {
+          "lvl": "35",
+          "name": "Fire Spin"
+        },
+        {
+          "lvl": "41",
+          "name": "Take Down"
+        },
+        {
+          "lvl": "45",
+          "name": "Inferno"
+        },
+        {
+          "lvl": "50",
+          "name": "Fire Blast"
+        },
+        {
+          "lvl": "55",
+          "name": "Flare Blitz"
+        }
+      ],
       "egg": [
         "Double-Edge",
         "Double Kick",
@@ -11021,17 +12963,216 @@
         "Morning Sun",
         "Thrash"
       ],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "tutor": [
+        "Expanding Force"
+      ],
+      "technical-machine": [
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 12,
+          "name": "Solar Blade"
+        },
+        {
+          "tm": 13,
+          "name": "Fire Spin"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 52,
+          "name": "Bounce"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 7,
+          "name": "Low Kick"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 43,
+          "name": "Overheat"
+        },
+        {
+          "tr": 55,
+          "name": "Flare Blitz"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 86,
+          "name": "Wild Charge"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        },
+        {
+          "tr": 94,
+          "name": "High Horsepower"
+        }
+      ]
     }
   },
   {
     "id": 78,
     "name": "rapidash",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Ember"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Megahorn"
+        },
+        {
+          "lvl": "1",
+          "name": "Poison Jab"
+        },
+        {
+          "lvl": "1",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Smart Strike"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "1",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "15",
+          "name": "Flame Charge"
+        },
+        {
+          "lvl": "20",
+          "name": "Agility"
+        },
+        {
+          "lvl": "25",
+          "name": "Flame Wheel"
+        },
+        {
+          "lvl": "30",
+          "name": "Stomp"
+        },
+        {
+          "lvl": "35",
+          "name": "Fire Spin"
+        },
+        {
+          "lvl": "43",
+          "name": "Take Down"
+        },
+        {
+          "lvl": "49",
+          "name": "Inferno"
+        },
+        {
+          "lvl": "56",
+          "name": "Fire Blast"
+        },
+        {
+          "lvl": "63",
+          "name": "Flare Blitz"
+        }
+      ],
+      "evolution": [
+        "Smart Strike"
+      ],
       "egg": [
         "Double-Edge",
         "Double Kick",
@@ -11040,16 +13181,253 @@
         "Morning Sun",
         "Thrash"
       ],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "tutor": [
+        "Scorching Sands"
+      ],
+      "technical-machine": [
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 12,
+          "name": "Solar Blade"
+        },
+        {
+          "tm": 13,
+          "name": "Fire Spin"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 52,
+          "name": "Bounce"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        },
+        {
+          "tm": 96,
+          "name": "Smart Strike"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 0,
+          "name": "Swords Dance"
+        },
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 7,
+          "name": "Low Kick"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 28,
+          "name": "Megahorn"
+        },
+        {
+          "tr": 29,
+          "name": "Baton Pass"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 43,
+          "name": "Overheat"
+        },
+        {
+          "tr": 55,
+          "name": "Flare Blitz"
+        },
+        {
+          "tr": 57,
+          "name": "Poison Jab"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 86,
+          "name": "Wild Charge"
+        },
+        {
+          "tr": 87,
+          "name": "Drill Run"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        },
+        {
+          "tr": 94,
+          "name": "High Horsepower"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
     "id": 79,
     "name": "slowpoke",
     "sword-shield": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Curse"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "3",
+          "name": "Growl"
+        },
+        {
+          "lvl": "6",
+          "name": "Water Gun"
+        },
+        {
+          "lvl": "9",
+          "name": "Yawn"
+        },
+        {
+          "lvl": "12",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "15",
+          "name": "Disable"
+        },
+        {
+          "lvl": "18",
+          "name": "Water Pulse"
+        },
+        {
+          "lvl": "21",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "24",
+          "name": "Zen Headbutt"
+        },
+        {
+          "lvl": "27",
+          "name": "Amnesia"
+        },
+        {
+          "lvl": "30",
+          "name": "Surf"
+        },
+        {
+          "lvl": "33",
+          "name": "Slack Off"
+        },
+        {
+          "lvl": "36",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "39",
+          "name": "Psych Up"
+        },
+        {
+          "lvl": "42",
+          "name": "Rain Dance"
+        },
+        {
+          "lvl": "45",
+          "name": "Heal Pulse"
+        }
+      ],
       "egg": [
         "Belch",
         "Belly Drum",
@@ -11165,19 +13543,480 @@
           "name": "Psychic Terrain"
         }
       ],
-      "technical-record": []
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 3,
+          "name": "Hydro Pump"
+        },
+        {
+          "tr": 4,
+          "name": "Surf"
+        },
+        {
+          "tr": 5,
+          "name": "Ice Beam"
+        },
+        {
+          "tr": 6,
+          "name": "Blizzard"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 17,
+          "name": "Amnesia"
+        },
+        {
+          "tr": 19,
+          "name": "Tri Attack"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        },
+        {
+          "tr": 84,
+          "name": "Scald"
+        },
+        {
+          "tr": 98,
+          "name": "Liquidation"
+        }
+      ]
     }
   },
   {
     "id": 80,
     "name": "slowbro",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Curse"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "1",
+          "name": "Water Gun"
+        },
+        {
+          "lvl": "1",
+          "name": "Withdraw"
+        },
+        {
+          "lvl": "9",
+          "name": "Yawn"
+        },
+        {
+          "lvl": "12",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "15",
+          "name": "Disable"
+        },
+        {
+          "lvl": "18",
+          "name": "Water Pulse"
+        },
+        {
+          "lvl": "21",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "24",
+          "name": "Zen Headbutt"
+        },
+        {
+          "lvl": "27",
+          "name": "Amnesia"
+        },
+        {
+          "lvl": "30",
+          "name": "Surf"
+        },
+        {
+          "lvl": "33",
+          "name": "Slack Off"
+        },
+        {
+          "lvl": "36",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "41",
+          "name": "Psych Up"
+        },
+        {
+          "lvl": "46",
+          "name": "Rain Dance"
+        },
+        {
+          "lvl": "51",
+          "name": "Heal Pulse"
+        }
+      ],
+      "evolution": [
+        "Shell Side Arm"
+      ],
+      "egg": [
+        "Belch",
+        "Belly Drum",
+        "Block",
+        "Stomp"
+      ],
+      "tutor": [
+        "Expanding Force"
+      ],
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 4,
+          "name": "Ice Punch"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 35,
+          "name": "Hail"
+        },
+        {
+          "tm": 36,
+          "name": "Whirlpool"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 45,
+          "name": "Dive"
+        },
+        {
+          "tm": 46,
+          "name": "Weather Ball"
+        },
+        {
+          "tm": 53,
+          "name": "Mud Shot"
+        },
+        {
+          "tm": 55,
+          "name": "Brine"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 63,
+          "name": "Drain Punch"
+        },
+        {
+          "tm": 64,
+          "name": "Avalanche"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 71,
+          "name": "Wonder Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 83,
+          "name": "Razor Shell"
+        },
+        {
+          "tm": 91,
+          "name": "Psychic Terrain"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 3,
+          "name": "Hydro Pump"
+        },
+        {
+          "tr": 4,
+          "name": "Surf"
+        },
+        {
+          "tr": 5,
+          "name": "Ice Beam"
+        },
+        {
+          "tr": 6,
+          "name": "Blizzard"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 17,
+          "name": "Amnesia"
+        },
+        {
+          "tr": 19,
+          "name": "Tri Attack"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 45,
+          "name": "Muddy Water"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        },
+        {
+          "tr": 84,
+          "name": "Scald"
+        },
+        {
+          "tr": 98,
+          "name": "Liquidation"
+        },
+        {
+          "tr": 99,
+          "name": "Body Press"
+        }
+      ]
     }
   },
   {
@@ -11246,7 +14085,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage"
       ],
@@ -11429,7 +14267,6 @@
       "evolution": [
         "Tri Attack"
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage"
       ],
@@ -11555,13 +14392,238 @@
     "id": 83,
     "name": "farfetchd",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Peck"
+        },
+        {
+          "lvl": "1",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "5",
+          "name": "Leer"
+        },
+        {
+          "lvl": "10",
+          "name": "Fury Cutter"
+        },
+        {
+          "lvl": "15",
+          "name": "Cut"
+        },
+        {
+          "lvl": "20",
+          "name": "Aerial Ace"
+        },
+        {
+          "lvl": "25",
+          "name": "Air Cutter"
+        },
+        {
+          "lvl": "30",
+          "name": "Knock Off"
+        },
+        {
+          "lvl": "35",
+          "name": "False Swipe"
+        },
+        {
+          "lvl": "40",
+          "name": "Slash"
+        },
+        {
+          "lvl": "45",
+          "name": "Swords Dance"
+        },
+        {
+          "lvl": "50",
+          "name": "Air Slash"
+        },
+        {
+          "lvl": "55",
+          "name": "Leaf Blade"
+        },
+        {
+          "lvl": "60",
+          "name": "Agility"
+        },
+        {
+          "lvl": "65",
+          "name": "Brave Bird"
+        }
+      ],
+      "egg": [
+        "Covet",
+        "Curse",
+        "Feather Dance",
+        "Feint",
+        "Final Gambit",
+        "First Impression",
+        "Flail",
+        "Gust",
+        "Night Slash",
+        "Quick Attack",
+        "Roost",
+        "Simple Beam",
+        "Sky Attack"
+      ],
       "tutor": [
         "Dual Wingbeat"
       ],
-      "technical-machine": [],
-      "technical-record": []
+      "technical-machine": [
+        {
+          "tm": 6,
+          "name": "Fly"
+        },
+        {
+          "tm": 12,
+          "name": "Solar Blade"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 30,
+          "name": "Steel Wing"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 42,
+          "name": "Revenge"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 78,
+          "name": "Acrobatics"
+        },
+        {
+          "tm": 79,
+          "name": "Retaliate"
+        },
+        {
+          "tm": 94,
+          "name": "False Swipe"
+        },
+        {
+          "tm": 95,
+          "name": "Air Slash"
+        },
+        {
+          "tm": 97,
+          "name": "Brutal Swing"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 0,
+          "name": "Swords Dance"
+        },
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 13,
+          "name": "Focus Energy"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 29,
+          "name": "Baton Pass"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 50,
+          "name": "Leaf Blade"
+        },
+        {
+          "tr": 53,
+          "name": "Close Combat"
+        },
+        {
+          "tr": 57,
+          "name": "Poison Jab"
+        },
+        {
+          "tr": 66,
+          "name": "Brave Bird"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
@@ -13777,8 +16839,83 @@
     "id": 103,
     "name": "exeggutor",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Absorb"
+        },
+        {
+          "lvl": "1",
+          "name": "Bullet Seed"
+        },
+        {
+          "lvl": "1",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "1",
+          "name": "Extrasensory"
+        },
+        {
+          "lvl": "1",
+          "name": "Giga Drain"
+        },
+        {
+          "lvl": "1",
+          "name": "Hypnosis"
+        },
+        {
+          "lvl": "1",
+          "name": "Leaf Storm"
+        },
+        {
+          "lvl": "1",
+          "name": "Leech Seed"
+        },
+        {
+          "lvl": "1",
+          "name": "Mega Drain"
+        },
+        {
+          "lvl": "1",
+          "name": "Psyshock"
+        },
+        {
+          "lvl": "1",
+          "name": "Reflect"
+        },
+        {
+          "lvl": "1",
+          "name": "Seed Bomb"
+        },
+        {
+          "lvl": "1",
+          "name": "Solar Beam"
+        },
+        {
+          "lvl": "1",
+          "name": "Stomp"
+        },
+        {
+          "lvl": "1",
+          "name": "Synthesis"
+        },
+        {
+          "lvl": "1",
+          "name": "Uproar"
+        },
+        {
+          "lvl": "1",
+          "name": "Wood Hammer"
+        },
+        {
+          "lvl": "1",
+          "name": "Worry Seed"
+        }
+      ],
+      "evolution": [
+        "Stomp"
+      ],
       "egg": [
         "Ancient Power",
         "Block",
@@ -13789,9 +16926,175 @@
         "Sleep Powder",
         "Stun Spore"
       ],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "tutor": [
+        "Expanding Force",
+        "Grassy Glide",
+        "Terrain Pulse"
+      ],
+      "technical-machine": [
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 10,
+          "name": "Magical Leaf"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 18,
+          "name": "Reflect"
+        },
+        {
+          "tm": 20,
+          "name": "Self-Destruct"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 28,
+          "name": "Giga Drain"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 50,
+          "name": "Bullet Seed"
+        },
+        {
+          "tm": 60,
+          "name": "Power Swap"
+        },
+        {
+          "tm": 69,
+          "name": "Psycho Cut"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 88,
+          "name": "Grassy Terrain"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 0,
+          "name": "Swords Dance"
+        },
+        {
+          "tr": 7,
+          "name": "Low Kick"
+        },
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 22,
+          "name": "Sludge Bomb"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 59,
+          "name": "Seed Bomb"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 71,
+          "name": "Leaf Storm"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        }
+      ]
     }
   },
   {
@@ -14055,8 +17358,67 @@
     "id": 105,
     "name": "marowak",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "False Swipe"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Mud-Slap"
+        },
+        {
+          "lvl": "1",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "12",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "16",
+          "name": "Retaliate"
+        },
+        {
+          "lvl": "20",
+          "name": "Fling"
+        },
+        {
+          "lvl": "24",
+          "name": "Stomping Tantrum"
+        },
+        {
+          "lvl": "31",
+          "name": "Bone Rush"
+        },
+        {
+          "lvl": "36",
+          "name": "Focus Energy"
+        },
+        {
+          "lvl": "42",
+          "name": "Endeavor"
+        },
+        {
+          "lvl": "48",
+          "name": "Bonemerang"
+        },
+        {
+          "lvl": "54",
+          "name": "Thrash"
+        },
+        {
+          "lvl": "60",
+          "name": "Double-Edge"
+        }
+      ],
+      "evolution": [
+        "Shadow Bone"
+      ],
       "egg": [
         "Ancient Power",
         "Belly Drum",
@@ -14067,9 +17429,213 @@
         "Perish Song",
         "Skull Bash"
       ],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "tutor": [
+        "Scorching Sands"
+      ],
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 3,
+          "name": "Fire Punch"
+        },
+        {
+          "tm": 5,
+          "name": "Thunder Punch"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 16,
+          "name": "Screech"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 79,
+          "name": "Retaliate"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 94,
+          "name": "False Swipe"
+        },
+        {
+          "tm": 97,
+          "name": "Brutal Swing"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 0,
+          "name": "Swords Dance"
+        },
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 5,
+          "name": "Ice Beam"
+        },
+        {
+          "tr": 6,
+          "name": "Blizzard"
+        },
+        {
+          "tr": 7,
+          "name": "Low Kick"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 13,
+          "name": "Focus Energy"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 24,
+          "name": "Outrage"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 67,
+          "name": "Earth Power"
+        },
+        {
+          "tr": 74,
+          "name": "Iron Head"
+        },
+        {
+          "tr": 75,
+          "name": "Stone Edge"
+        },
+        {
+          "tr": 76,
+          "name": "Stealth Rock"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
@@ -15119,7 +18685,76 @@
     "id": 110,
     "name": "weezing",
     "sword-shield": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Double Hit"
+        },
+        {
+          "lvl": "1",
+          "name": "Heat Wave"
+        },
+        {
+          "lvl": "1",
+          "name": "Poison Gas"
+        },
+        {
+          "lvl": "1",
+          "name": "Smog"
+        },
+        {
+          "lvl": "1",
+          "name": "Smokescreen"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "12",
+          "name": "Clear Smog"
+        },
+        {
+          "lvl": "16",
+          "name": "Assurance"
+        },
+        {
+          "lvl": "20",
+          "name": "Sludge"
+        },
+        {
+          "lvl": "24",
+          "name": "Haze"
+        },
+        {
+          "lvl": "28",
+          "name": "Self-Destruct"
+        },
+        {
+          "lvl": "32",
+          "name": "Sludge Bomb"
+        },
+        {
+          "lvl": "38",
+          "name": "Toxic"
+        },
+        {
+          "lvl": "44",
+          "name": "Belch"
+        },
+        {
+          "lvl": "50",
+          "name": "Explosion"
+        },
+        {
+          "lvl": "56",
+          "name": "Memento"
+        },
+        {
+          "lvl": "62",
+          "name": "Destiny Bond"
+        }
+      ],
       "evolution": [
         "Double Hit"
       ],
@@ -15133,9 +18768,149 @@
         "Stockpile",
         "Swallow"
       ],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "tutor": [
+        "Corrosive Gas"
+      ],
+      "technical-machine": [
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 16,
+          "name": "Screech"
+        },
+        {
+          "tm": 20,
+          "name": "Self-Destruct"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 58,
+          "name": "Assurance"
+        },
+        {
+          "tm": 74,
+          "name": "Venoshock"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 22,
+          "name": "Sludge Bomb"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 52,
+          "name": "Gyro Ball"
+        },
+        {
+          "tr": 54,
+          "name": "Toxic Spikes"
+        },
+        {
+          "tr": 58,
+          "name": "Dark Pulse"
+        },
+        {
+          "tr": 78,
+          "name": "Sludge Wave"
+        },
+        {
+          "tr": 91,
+          "name": "Venom Drench"
+        }
+      ]
     }
   },
   {
@@ -17536,7 +21311,6 @@
           "name": "Hydro Pump"
         }
       ],
-      "egg": [],
       "tutor": [
         "Flip Turn"
       ],
@@ -17748,7 +21522,6 @@
           "name": "Water Gun"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Flip Turn",
@@ -17944,11 +21717,366 @@
     "id": 122,
     "name": "mr-mime",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Baton Pass"
+        },
+        {
+          "lvl": "1",
+          "name": "Copycat"
+        },
+        {
+          "lvl": "1",
+          "name": "Encore"
+        },
+        {
+          "lvl": "1",
+          "name": "Guard Swap"
+        },
+        {
+          "lvl": "1",
+          "name": "Pound"
+        },
+        {
+          "lvl": "1",
+          "name": "Power Swap"
+        },
+        {
+          "lvl": "1",
+          "name": "Quick Guard"
+        },
+        {
+          "lvl": "1",
+          "name": "Wide Guard"
+        },
+        {
+          "lvl": "12",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "16",
+          "name": "Role Play"
+        },
+        {
+          "lvl": "20",
+          "name": "Protect"
+        },
+        {
+          "lvl": "24",
+          "name": "Recycle"
+        },
+        {
+          "lvl": "28",
+          "name": "Psybeam"
+        },
+        {
+          "lvl": "32",
+          "name": "Mimic"
+        },
+        {
+          "lvl": "36",
+          "name": "Light Screen"
+        },
+        {
+          "lvl": "36",
+          "name": "Reflect"
+        },
+        {
+          "lvl": "36",
+          "name": "Safeguard"
+        },
+        {
+          "lvl": "40",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "44",
+          "name": "Dazzling Gleam"
+        },
+        {
+          "lvl": "48",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "52",
+          "name": "Teeter Dance"
+        }
+      ],
+      "egg": [
+        "Confuse Ray",
+        "Fake Out",
+        "Hypnosis",
+        "Power Split",
+        "Tickle"
+      ],
+      "tutor": [
+        "Expanding Force"
+      ],
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 3,
+          "name": "Fire Punch"
+        },
+        {
+          "tm": 4,
+          "name": "Ice Punch"
+        },
+        {
+          "tm": 5,
+          "name": "Thunder Punch"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 10,
+          "name": "Magical Leaf"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 18,
+          "name": "Reflect"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 60,
+          "name": "Power Swap"
+        },
+        {
+          "tm": 61,
+          "name": "Guard Swap"
+        },
+        {
+          "tm": 63,
+          "name": "Drain Punch"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 71,
+          "name": "Wonder Room"
+        },
+        {
+          "tm": 72,
+          "name": "Magic Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 89,
+          "name": "Misty Terrain"
+        },
+        {
+          "tm": 91,
+          "name": "Psychic Terrain"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 14,
+          "name": "Metronome"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 29,
+          "name": "Baton Pass"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 92,
+          "name": "Dazzling Gleam"
+        }
+      ]
     }
   },
   {
@@ -18231,7 +22359,6 @@
           "name": "Blizzard"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Triple Axel"
@@ -18536,7 +22663,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage"
       ],
@@ -18764,7 +22890,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Burning Jealousy",
         "Scorching Sands"
@@ -19224,7 +23349,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "tutor": [
         "Lash Out"
       ],
@@ -19452,7 +23576,6 @@
           "name": "Flail"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 52,
@@ -19552,7 +23675,6 @@
       "evolution": [
         "Bite"
       ],
-      "egg": [],
       "tutor": [
         "Lash Out",
         "Scale Shot"
@@ -20037,10 +24159,7 @@
           "lvl": "1",
           "name": "Transform"
         }
-      ],
-      "egg": [],
-      "technical-machine": [],
-      "technical-record": []
+      ]
     }
   },
   {
@@ -21152,7 +25271,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 8,
@@ -21603,7 +25721,6 @@
       "evolution": [
         "Crunch"
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -22079,7 +26196,6 @@
       "evolution": [
         "Slash"
       ],
-      "egg": [],
       "tutor": [
         "Flip Turn",
         "Meteor Beam"
@@ -22941,33 +27057,609 @@
     "id": 144,
     "name": "articuno",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Gust"
+        },
+        {
+          "lvl": "1",
+          "name": "Mist"
+        },
+        {
+          "lvl": "5",
+          "name": "Powder Snow"
+        },
+        {
+          "lvl": "10",
+          "name": "Reflect"
+        },
+        {
+          "lvl": "15",
+          "name": "Ice Shard"
+        },
+        {
+          "lvl": "20",
+          "name": "Agility"
+        },
+        {
+          "lvl": "25",
+          "name": "Ancient Power"
+        },
+        {
+          "lvl": "30",
+          "name": "Tailwind"
+        },
+        {
+          "lvl": "35",
+          "name": "Freeze-Dry"
+        },
+        {
+          "lvl": "40",
+          "name": "Roost"
+        },
+        {
+          "lvl": "45",
+          "name": "Ice Beam"
+        },
+        {
+          "lvl": "50",
+          "name": "Hail"
+        },
+        {
+          "lvl": "55",
+          "name": "Hurricane"
+        },
+        {
+          "lvl": "60",
+          "name": "Mind Reader"
+        },
+        {
+          "lvl": "65",
+          "name": "Blizzard"
+        },
+        {
+          "lvl": "70",
+          "name": "Sheer Cold"
+        }
+      ],
+      "tutor": [
+        "Dual Wingbeat",
+        "Triple Axel"
+      ],
+      "technical-machine": [
+        {
+          "tm": 6,
+          "name": "Fly"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 18,
+          "name": "Reflect"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 30,
+          "name": "Steel Wing"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 35,
+          "name": "Hail"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 46,
+          "name": "Weather Ball"
+        },
+        {
+          "tm": 51,
+          "name": "Icicle Spear"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 64,
+          "name": "Avalanche"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 95,
+          "name": "Air Slash"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 5,
+          "name": "Ice Beam"
+        },
+        {
+          "tr": 6,
+          "name": "Blizzard"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 66,
+          "name": "Brave Bird"
+        },
+        {
+          "tr": 89,
+          "name": "Hurricane"
+        }
+      ]
     }
   },
   {
     "id": 145,
     "name": "zapdos",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Peck"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunder Wave"
+        },
+        {
+          "lvl": "5",
+          "name": "Thunder Shock"
+        },
+        {
+          "lvl": "10",
+          "name": "Light Screen"
+        },
+        {
+          "lvl": "15",
+          "name": "Pluck"
+        },
+        {
+          "lvl": "20",
+          "name": "Agility"
+        },
+        {
+          "lvl": "25",
+          "name": "Ancient Power"
+        },
+        {
+          "lvl": "30",
+          "name": "Charge"
+        },
+        {
+          "lvl": "35",
+          "name": "Drill Peck"
+        },
+        {
+          "lvl": "40",
+          "name": "Roost"
+        },
+        {
+          "lvl": "45",
+          "name": "Discharge"
+        },
+        {
+          "lvl": "50",
+          "name": "Rain Dance"
+        },
+        {
+          "lvl": "55",
+          "name": "Thunder"
+        },
+        {
+          "lvl": "60",
+          "name": "Detect"
+        },
+        {
+          "lvl": "65",
+          "name": "Magnetic Flux"
+        },
+        {
+          "lvl": "70",
+          "name": "Zap Cannon"
+        }
+      ],
+      "tutor": [
+        "Dual Wingbeat",
+        "Rising Voltage"
+      ],
+      "technical-machine": [
+        {
+          "tm": 6,
+          "name": "Fly"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 30,
+          "name": "Steel Wing"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 35,
+          "name": "Hail"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 46,
+          "name": "Weather Ball"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 80,
+          "name": "Volt Switch"
+        },
+        {
+          "tm": 93,
+          "name": "Eerie Impulse"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 29,
+          "name": "Baton Pass"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 66,
+          "name": "Brave Bird"
+        },
+        {
+          "tr": 86,
+          "name": "Wild Charge"
+        },
+        {
+          "tr": 89,
+          "name": "Hurricane"
+        }
+      ]
     }
   },
   {
     "id": 146,
     "name": "moltres",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Gust"
+        },
+        {
+          "lvl": "1",
+          "name": "Leer"
+        },
+        {
+          "lvl": "5",
+          "name": "Ember"
+        },
+        {
+          "lvl": "10",
+          "name": "Safeguard"
+        },
+        {
+          "lvl": "15",
+          "name": "Wing Attack"
+        },
+        {
+          "lvl": "20",
+          "name": "Agility"
+        },
+        {
+          "lvl": "25",
+          "name": "Ancient Power"
+        },
+        {
+          "lvl": "30",
+          "name": "Incinerate"
+        },
+        {
+          "lvl": "35",
+          "name": "Air Slash"
+        },
+        {
+          "lvl": "40",
+          "name": "Roost"
+        },
+        {
+          "lvl": "45",
+          "name": "Heat Wave"
+        },
+        {
+          "lvl": "50",
+          "name": "Sunny Day"
+        },
+        {
+          "lvl": "55",
+          "name": "Hurricane"
+        },
+        {
+          "lvl": "60",
+          "name": "Endure"
+        },
+        {
+          "lvl": "65",
+          "name": "Burn Up"
+        },
+        {
+          "lvl": "70",
+          "name": "Sky Attack"
+        }
+      ],
+      "tutor": [
+        "Burning Jealousy",
+        "Dual Wingbeat",
+        "Scorching Sands"
+      ],
+      "technical-machine": [
+        {
+          "tm": 6,
+          "name": "Fly"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 13,
+          "name": "Fire Spin"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 30,
+          "name": "Steel Wing"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 46,
+          "name": "Weather Ball"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        },
+        {
+          "tm": 95,
+          "name": "Air Slash"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 43,
+          "name": "Overheat"
+        },
+        {
+          "tr": 55,
+          "name": "Flare Blitz"
+        },
+        {
+          "tr": 66,
+          "name": "Brave Bird"
+        },
+        {
+          "tr": 89,
+          "name": "Hurricane"
+        }
+      ]
     }
   },
   {
@@ -23263,7 +27955,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scale Shot"
       ],
@@ -23514,7 +28205,6 @@
       "evolution": [
         "Hurricane"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot"
@@ -23847,7 +28537,6 @@
           "name": "Future Sight"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force"
       ],
@@ -24243,7 +28932,6 @@
           "name": "Psychic"
         }
       ],
-      "egg": [],
       "tutor": [
         "Burning Jealousy",
         "Coaching",
@@ -25585,7 +30273,6 @@
       "evolution": [
         "Cross Poison"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -30368,14 +35055,376 @@
     "id": 199,
     "name": "slowking",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Curse"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "1",
+          "name": "Power Gem"
+        },
+        {
+          "lvl": "1",
+          "name": "Swagger"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "1",
+          "name": "Water Gun"
+        },
+        {
+          "lvl": "9",
+          "name": "Yawn"
+        },
+        {
+          "lvl": "12",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "15",
+          "name": "Disable"
+        },
+        {
+          "lvl": "18",
+          "name": "Water Pulse"
+        },
+        {
+          "lvl": "21",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "24",
+          "name": "Zen Headbutt"
+        },
+        {
+          "lvl": "27",
+          "name": "Amnesia"
+        },
+        {
+          "lvl": "30",
+          "name": "Surf"
+        },
+        {
+          "lvl": "33",
+          "name": "Slack Off"
+        },
+        {
+          "lvl": "36",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "39",
+          "name": "Psych Up"
+        },
+        {
+          "lvl": "42",
+          "name": "Rain Dance"
+        },
+        {
+          "lvl": "45",
+          "name": "Heal Pulse"
+        }
+      ],
+      "evolution": [
+        "Eerie Spell"
+      ],
+      "egg": [
+        "Belch",
+        "Belly Drum",
+        "Block",
+        "Stomp"
+      ],
       "tutor": [
         "Expanding Force"
       ],
-      "technical-machine": [],
-      "technical-record": []
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 4,
+          "name": "Ice Punch"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 35,
+          "name": "Hail"
+        },
+        {
+          "tm": 36,
+          "name": "Whirlpool"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 45,
+          "name": "Dive"
+        },
+        {
+          "tm": 46,
+          "name": "Weather Ball"
+        },
+        {
+          "tm": 53,
+          "name": "Mud Shot"
+        },
+        {
+          "tm": 55,
+          "name": "Brine"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 63,
+          "name": "Drain Punch"
+        },
+        {
+          "tm": 64,
+          "name": "Avalanche"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 71,
+          "name": "Wonder Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 83,
+          "name": "Razor Shell"
+        },
+        {
+          "tm": 91,
+          "name": "Psychic Terrain"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 3,
+          "name": "Hydro Pump"
+        },
+        {
+          "tr": 4,
+          "name": "Surf"
+        },
+        {
+          "tr": 5,
+          "name": "Ice Beam"
+        },
+        {
+          "tr": 6,
+          "name": "Blizzard"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 17,
+          "name": "Amnesia"
+        },
+        {
+          "tr": 19,
+          "name": "Tri Attack"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 45,
+          "name": "Muddy Water"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 63,
+          "name": "Power Gem"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        },
+        {
+          "tr": 84,
+          "name": "Scald"
+        },
+        {
+          "tr": 98,
+          "name": "Liquidation"
+        }
+      ]
     }
   },
   {
@@ -30422,7 +35471,6 @@
         "Mirror Coat",
         "Safeguard"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 19,
@@ -32776,12 +37824,173 @@
     "id": 222,
     "name": "corsola",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Harden"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "5",
+          "name": "Water Gun"
+        },
+        {
+          "lvl": "10",
+          "name": "Aqua Ring"
+        },
+        {
+          "lvl": "15",
+          "name": "Endure"
+        },
+        {
+          "lvl": "20",
+          "name": "Ancient Power"
+        },
+        {
+          "lvl": "25",
+          "name": "Bubble Beam"
+        },
+        {
+          "lvl": "30",
+          "name": "Flail"
+        },
+        {
+          "lvl": "35",
+          "name": "Life Dew"
+        },
+        {
+          "lvl": "40",
+          "name": "Power Gem"
+        },
+        {
+          "lvl": "45",
+          "name": "Earth Power"
+        },
+        {
+          "lvl": "50",
+          "name": "Recover"
+        },
+        {
+          "lvl": "55",
+          "name": "Mirror Coat"
+        }
+      ],
+      "egg": [
+        "Confuse Ray",
+        "Curse",
+        "Head Smash",
+        "Mist",
+        "Nature Power",
+        "Water Pulse"
+      ],
       "tutor": [
         "Meteor Beam"
       ],
-      "technical-machine": [],
+      "technical-machine": [
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 16,
+          "name": "Screech"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 18,
+          "name": "Reflect"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 20,
+          "name": "Self-Destruct"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 35,
+          "name": "Hail"
+        },
+        {
+          "tm": 36,
+          "name": "Whirlpool"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 51,
+          "name": "Icicle Spear"
+        },
+        {
+          "tm": 54,
+          "name": "Rock Blast"
+        },
+        {
+          "tm": 55,
+          "name": "Brine"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
       "technical-record": [
         {
           "tr": 1,
@@ -34356,7 +39565,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 8,
@@ -36305,7 +41513,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage"
       ],
@@ -36553,7 +41760,6 @@
           "name": "Eruption"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scorching Sands"
       ],
@@ -36805,7 +42011,6 @@
           "name": "Blizzard"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 8,
@@ -37971,7 +43176,6 @@
           "name": "Sky Attack"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot"
@@ -38272,7 +43476,6 @@
           "name": "Burn Up"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scorching Sands"
@@ -38525,7 +43728,6 @@
           "name": "Perish Song"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Expanding Force",
@@ -39088,7 +44290,6 @@
           "name": "Leaf Storm"
         }
       ],
-      "egg": [],
       "tutor": [
         "Grassy Glide"
       ],
@@ -39367,7 +44568,6 @@
       "evolution": [
         "Dual Chop"
       ],
-      "egg": [],
       "tutor": [
         "Grassy Glide",
         "Scale Shot"
@@ -39908,7 +45108,6 @@
       "evolution": [
         "Double Kick"
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -40184,7 +45383,6 @@
           "name": "Flare Blitz"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching",
         "Scorching Sands"
@@ -40729,7 +45927,6 @@
       "evolution": [
         "Mud Shot"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 0,
@@ -40998,7 +46195,6 @@
           "name": "Hydro Pump"
         }
       ],
-      "egg": [],
       "tutor": [
         "Flip Turn"
       ],
@@ -41236,23 +46432,499 @@
     "id": 263,
     "name": "zigzagoon",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "3",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "6",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "9",
+          "name": "Covet"
+        },
+        {
+          "lvl": "12",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "15",
+          "name": "Baby-Doll Eyes"
+        },
+        {
+          "lvl": "18",
+          "name": "Pin Missile"
+        },
+        {
+          "lvl": "21",
+          "name": "Rest"
+        },
+        {
+          "lvl": "24",
+          "name": "Take Down"
+        },
+        {
+          "lvl": "27",
+          "name": "Fling"
+        },
+        {
+          "lvl": "30",
+          "name": "Flail"
+        },
+        {
+          "lvl": "33",
+          "name": "Belly Drum"
+        },
+        {
+          "lvl": "36",
+          "name": "Double-Edge"
+        }
+      ],
+      "egg": [
+        "Extreme Speed",
+        "Simple Beam",
+        "Tickle"
+      ],
+      "tutor": [
+        "Lash Out"
+      ],
+      "technical-machine": [
+        {
+          "tm": 7,
+          "name": "Pin Missile"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 36,
+          "name": "Whirlpool"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 53,
+          "name": "Mud Shot"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 79,
+          "name": "Retaliate"
+        },
+        {
+          "tm": 84,
+          "name": "Tail Slap"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 4,
+          "name": "Surf"
+        },
+        {
+          "tr": 5,
+          "name": "Ice Beam"
+        },
+        {
+          "tr": 6,
+          "name": "Blizzard"
+        },
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 42,
+          "name": "Hyper Voice"
+        },
+        {
+          "tr": 59,
+          "name": "Seed Bomb"
+        },
+        {
+          "tr": 73,
+          "name": "Gunk Shot"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        }
+      ]
     }
   },
   {
     "id": 264,
     "name": "linoone",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Baby-Doll Eyes"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Pin Missile"
+        },
+        {
+          "lvl": "1",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Slash"
+        },
+        {
+          "lvl": "1",
+          "name": "Switcheroo"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "1",
+          "name": "Tail Whip"
+        },
+        {
+          "lvl": "9",
+          "name": "Covet"
+        },
+        {
+          "lvl": "12",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "15",
+          "name": "Hone Claws"
+        },
+        {
+          "lvl": "18",
+          "name": "Fury Swipes"
+        },
+        {
+          "lvl": "23",
+          "name": "Rest"
+        },
+        {
+          "lvl": "28",
+          "name": "Take Down"
+        },
+        {
+          "lvl": "33",
+          "name": "Fling"
+        },
+        {
+          "lvl": "38",
+          "name": "Flail"
+        },
+        {
+          "lvl": "43",
+          "name": "Belly Drum"
+        },
+        {
+          "lvl": "48",
+          "name": "Double-Edge"
+        }
+      ],
+      "evolution": [
+        "Slash"
+      ],
+      "egg": [
+        "Extreme Speed",
+        "Simple Beam",
+        "Tickle"
+      ],
+      "tutor": [
+        "Lash Out"
+      ],
+      "technical-machine": [
+        {
+          "tm": 7,
+          "name": "Pin Missile"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 27,
+          "name": "Icy Wind"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 36,
+          "name": "Whirlpool"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 53,
+          "name": "Mud Shot"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 65,
+          "name": "Shadow Claw"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 79,
+          "name": "Retaliate"
+        },
+        {
+          "tm": 84,
+          "name": "Tail Slap"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 4,
+          "name": "Surf"
+        },
+        {
+          "tr": 5,
+          "name": "Ice Beam"
+        },
+        {
+          "tr": 6,
+          "name": "Blizzard"
+        },
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 42,
+          "name": "Hyper Voice"
+        },
+        {
+          "tr": 59,
+          "name": "Seed Bomb"
+        },
+        {
+          "tr": 73,
+          "name": "Gunk Shot"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
@@ -46602,7 +52274,6 @@
           "name": "Metal Burst"
         }
       ],
-      "egg": [],
       "tutor": [
         "Steel Roller"
       ],
@@ -46822,7 +52493,6 @@
           "name": "Metal Burst"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Steel Roller"
@@ -50054,7 +55724,6 @@
       "evolution": [
         "Dragon Pulse"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -50302,7 +55971,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -50602,7 +56270,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -51879,7 +57546,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Scorching Sands"
@@ -52159,7 +57825,6 @@
       "evolution": [
         "Hyper Beam"
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Scorching Sands"
@@ -52650,7 +58315,6 @@
           "name": "Energy Ball"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -53049,7 +58713,6 @@
           "name": "X-Scissor"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -54466,7 +60129,6 @@
           "name": "Splash"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 19,
@@ -55164,7 +60826,6 @@
       "evolution": [
         "Swagger"
       ],
-      "egg": [],
       "tutor": [
         "Steel Roller"
       ],
@@ -55360,7 +61021,6 @@
           "name": "Sheer Cold"
         }
       ],
-      "egg": [],
       "tutor": [
         "Steel Roller"
       ],
@@ -56029,7 +61689,6 @@
       "evolution": [
         "Protect"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 21,
@@ -56229,7 +61888,6 @@
       "evolution": [
         "Fly"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -56429,8 +62087,6 @@
           "name": "Tackle"
         }
       ],
-      "egg": [],
-      "technical-machine": [],
       "technical-record": [
         {
           "tr": 46,
@@ -56513,7 +62169,6 @@
         "Confusion",
         "Metal Claw"
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Meteor Beam",
@@ -56762,7 +62417,6 @@
       "evolution": [
         "Hammer Arm"
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Meteor Beam",
@@ -57024,7 +62678,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -57276,7 +62929,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 0,
@@ -57517,7 +63169,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Steel Roller"
@@ -57766,7 +63417,6 @@
           "name": "Psycho Shift"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot"
@@ -58095,7 +63745,6 @@
           "name": "Psycho Shift"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot"
@@ -58408,7 +64057,6 @@
           "name": "Water Spout"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 8,
@@ -58637,7 +64285,6 @@
           "name": "Eruption"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scorching Sands"
       ],
@@ -58917,7 +64564,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Scale Shot"
@@ -59242,7 +64888,6 @@
           "name": "Doom Desire"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Meteor Beam"
@@ -60553,7 +66198,6 @@
           "name": "Sweet Scent"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -60656,7 +66300,6 @@
       "evolution": [
         "Slash"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -63192,7 +68835,6 @@
           "name": "Future Sight"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Steel Roller"
@@ -63444,7 +69086,6 @@
       "evolution": [
         "Block"
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Meteor Beam",
@@ -64753,7 +70394,6 @@
           "name": "Dragon Rush"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scale Shot",
         "Scorching Sands"
@@ -64961,7 +70601,6 @@
       "evolution": [
         "Crunch"
       ],
-      "egg": [],
       "tutor": [
         "Scale Shot",
         "Scorching Sands"
@@ -68761,7 +74400,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage",
         "Steel Roller"
@@ -69904,7 +75542,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage"
       ],
@@ -70176,7 +75813,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Burning Jealousy",
         "Scorching Sands"
@@ -71615,7 +77251,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 8,
@@ -72894,7 +78529,6 @@
           "name": "Uproar"
         }
       ],
-      "egg": [],
       "tutor": [
         "Poltergeist",
         "Rising Voltage"
@@ -73099,7 +78733,6 @@
           "name": "Memento"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force"
       ],
@@ -73403,7 +79036,6 @@
           "name": "Healing Wish"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force"
       ],
@@ -73703,7 +79335,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force"
       ],
@@ -74019,7 +79650,6 @@
           "name": "Roar of Time"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scale Shot"
       ],
@@ -74287,7 +79917,6 @@
           "name": "Hydro Pump"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot"
@@ -74576,7 +80205,6 @@
           "name": "Magma Storm"
         }
       ],
-      "egg": [],
       "tutor": [
         "Burning Jealousy",
         "Scorching Sands",
@@ -74830,7 +80458,6 @@
           "name": "Crush Grip"
         }
       ],
-      "egg": [],
       "tutor": [
         "Terrain Pulse"
       ],
@@ -75086,7 +80713,6 @@
           "name": "Destiny Bond"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Poltergeist"
@@ -75339,7 +80965,6 @@
           "name": "Lunar Dance"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force"
       ],
@@ -75587,7 +81212,6 @@
           "name": "Final Gambit"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Scorching Sands"
@@ -81255,7 +86879,6 @@
           "name": "Superpower"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -81499,7 +87122,6 @@
           "name": "Close Combat"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -84187,22 +89809,544 @@
     "id": 554,
     "name": "darumaka",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Ember"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "4",
+          "name": "Taunt"
+        },
+        {
+          "lvl": "8",
+          "name": "Bite"
+        },
+        {
+          "lvl": "12",
+          "name": "Incinerate"
+        },
+        {
+          "lvl": "16",
+          "name": "Work Up"
+        },
+        {
+          "lvl": "20",
+          "name": "Fire Fang"
+        },
+        {
+          "lvl": "24",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "28",
+          "name": "Fire Punch"
+        },
+        {
+          "lvl": "32",
+          "name": "Uproar"
+        },
+        {
+          "lvl": "36",
+          "name": "Belly Drum"
+        },
+        {
+          "lvl": "40",
+          "name": "Flare Blitz"
+        },
+        {
+          "lvl": "44",
+          "name": "Thrash"
+        },
+        {
+          "lvl": "48",
+          "name": "Superpower"
+        }
+      ],
+      "egg": [
+        "Extrasensory",
+        "Flame Wheel",
+        "Focus Punch",
+        "Hammer Arm",
+        "Take Down",
+        "Yawn"
+      ],
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 3,
+          "name": "Fire Punch"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 13,
+          "name": "Fire Spin"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 68,
+          "name": "Fire Fang"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 13,
+          "name": "Focus Energy"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 39,
+          "name": "Superpower"
+        },
+        {
+          "tr": 43,
+          "name": "Overheat"
+        },
+        {
+          "tr": 52,
+          "name": "Gyro Ball"
+        },
+        {
+          "tr": 55,
+          "name": "Flare Blitz"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        }
+      ]
     }
   },
   {
     "id": 555,
     "name": "darmanitan",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Bite"
+        },
+        {
+          "lvl": "1",
+          "name": "Ember"
+        },
+        {
+          "lvl": "1",
+          "name": "Hammer Arm"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "1",
+          "name": "Taunt"
+        },
+        {
+          "lvl": "12",
+          "name": "Incinerate"
+        },
+        {
+          "lvl": "16",
+          "name": "Work Up"
+        },
+        {
+          "lvl": "20",
+          "name": "Fire Fang"
+        },
+        {
+          "lvl": "24",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "28",
+          "name": "Fire Punch"
+        },
+        {
+          "lvl": "32",
+          "name": "Uproar"
+        },
+        {
+          "lvl": "38",
+          "name": "Belly Drum"
+        },
+        {
+          "lvl": "44",
+          "name": "Flare Blitz"
+        },
+        {
+          "lvl": "50",
+          "name": "Thrash"
+        },
+        {
+          "lvl": "56",
+          "name": "Superpower"
+        }
+      ],
+      "evolution": [
+        "Hammer Arm"
+      ],
+      "egg": [
+        "Extrasensory",
+        "Flame Wheel",
+        "Focus Punch",
+        "Hammer Arm",
+        "Take Down",
+        "Yawn"
+      ],
+      "tutor": [
+        "Burning Jealousy",
+        "Expanding Force",
+        "Lash Out"
+      ],
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 3,
+          "name": "Fire Punch"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 13,
+          "name": "Fire Spin"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 60,
+          "name": "Power Swap"
+        },
+        {
+          "tm": 61,
+          "name": "Guard Swap"
+        },
+        {
+          "tm": 68,
+          "name": "Fire Fang"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 2,
+          "name": "Flamethrower"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 13,
+          "name": "Focus Energy"
+        },
+        {
+          "tr": 15,
+          "name": "Fire Blast"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 21,
+          "name": "Reversal"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 36,
+          "name": "Heat Wave"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 39,
+          "name": "Superpower"
+        },
+        {
+          "tr": 43,
+          "name": "Overheat"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 48,
+          "name": "Bulk Up"
+        },
+        {
+          "tr": 52,
+          "name": "Gyro Ball"
+        },
+        {
+          "tr": 55,
+          "name": "Flare Blitz"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 74,
+          "name": "Iron Head"
+        },
+        {
+          "tr": 75,
+          "name": "Stone Edge"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 99,
+          "name": "Body Press"
+        }
+      ]
     }
   },
   {
@@ -85692,15 +91836,206 @@
     "id": 562,
     "name": "yamask",
     "sword-shield": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Astonish"
+        },
+        {
+          "lvl": "1",
+          "name": "Protect"
+        },
+        {
+          "lvl": "4",
+          "name": "Haze"
+        },
+        {
+          "lvl": "8",
+          "name": "Night Shade"
+        },
+        {
+          "lvl": "12",
+          "name": "Disable"
+        },
+        {
+          "lvl": "16",
+          "name": "Will-O-Wisp"
+        },
+        {
+          "lvl": "20",
+          "name": "Crafty Shield"
+        },
+        {
+          "lvl": "24",
+          "name": "Hex"
+        },
+        {
+          "lvl": "28",
+          "name": "Mean Look"
+        },
+        {
+          "lvl": "32",
+          "name": "Grudge"
+        },
+        {
+          "lvl": "36",
+          "name": "Curse"
+        },
+        {
+          "lvl": "40",
+          "name": "Shadow Ball"
+        },
+        {
+          "lvl": "44",
+          "name": "Dark Pulse"
+        },
+        {
+          "lvl": "48",
+          "name": "Guard Split"
+        },
+        {
+          "lvl": "48",
+          "name": "Power Split"
+        },
+        {
+          "lvl": "52",
+          "name": "Destiny Bond"
+        }
+      ],
       "egg": [
         "Memento"
       ],
       "tutor": [
         "Poltergeist"
       ],
-      "technical-machine": [],
-      "technical-record": []
+      "technical-machine": [
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 23,
+          "name": "Thief"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 38,
+          "name": "Will-O-Wisp"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 47,
+          "name": "Fake Tears"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 71,
+          "name": "Wonder Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 77,
+          "name": "Hex"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 54,
+          "name": "Toxic Spikes"
+        },
+        {
+          "tr": 58,
+          "name": "Dark Pulse"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        }
+      ]
     }
   },
   {
@@ -86281,7 +92616,6 @@
           "name": "Shell Smash"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -86794,7 +93128,6 @@
           "name": "Endeavor"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Lash Out",
@@ -92883,7 +99216,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage",
         "Steel Roller"
@@ -93036,7 +99368,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage",
         "Steel Roller"
@@ -93205,7 +99536,6 @@
           "name": "Electric Terrain"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage",
         "Steel Roller"
@@ -95818,7 +102148,6 @@
           "name": "Sheer Cold"
         }
       ],
-      "egg": [],
       "tutor": [
         "Triple Axel"
       ],
@@ -96342,11 +102671,232 @@
     "id": 618,
     "name": "stunfisk",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Mud-Slap"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunder Shock"
+        },
+        {
+          "lvl": "1",
+          "name": "Water Gun"
+        },
+        {
+          "lvl": "5",
+          "name": "Endure"
+        },
+        {
+          "lvl": "10",
+          "name": "Mud Shot"
+        },
+        {
+          "lvl": "15",
+          "name": "Revenge"
+        },
+        {
+          "lvl": "20",
+          "name": "Charge"
+        },
+        {
+          "lvl": "25",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "30",
+          "name": "Electric Terrain"
+        },
+        {
+          "lvl": "35",
+          "name": "Bounce"
+        },
+        {
+          "lvl": "40",
+          "name": "Muddy Water"
+        },
+        {
+          "lvl": "45",
+          "name": "Discharge"
+        },
+        {
+          "lvl": "50",
+          "name": "Flail"
+        },
+        {
+          "lvl": "55",
+          "name": "Fissure"
+        }
+      ],
+      "egg": [
+        "Astonish",
+        "Curse",
+        "Pain Split",
+        "Reflect Type",
+        "Spark",
+        "Spite",
+        "Yawn"
+      ],
+      "tutor": [
+        "Lash Out"
+      ],
+      "technical-machine": [
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 42,
+          "name": "Revenge"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 52,
+          "name": "Bounce"
+        },
+        {
+          "tm": 53,
+          "name": "Mud Shot"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 81,
+          "name": "Bulldoze"
+        },
+        {
+          "tm": 82,
+          "name": "Electroweb"
+        },
+        {
+          "tm": 90,
+          "name": "Electric Terrain"
+        },
+        {
+          "tm": 93,
+          "name": "Eerie Impulse"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 4,
+          "name": "Surf"
+        },
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 10,
+          "name": "Earthquake"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 22,
+          "name": "Sludge Bomb"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 45,
+          "name": "Muddy Water"
+        },
+        {
+          "tr": 67,
+          "name": "Earth Power"
+        },
+        {
+          "tr": 75,
+          "name": "Stone Edge"
+        },
+        {
+          "tr": 76,
+          "name": "Stealth Rock"
+        },
+        {
+          "tr": 78,
+          "name": "Sludge Wave"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        },
+        {
+          "tr": 84,
+          "name": "Scald"
+        }
+      ]
     }
   },
   {
@@ -97236,7 +103786,6 @@
           "name": "Dynamic Punch"
         }
       ],
-      "egg": [],
       "tutor": [
         "Poltergeist",
         "Scorching Sands"
@@ -97501,7 +104050,6 @@
           "name": "Dynamic Punch"
         }
       ],
-      "egg": [],
       "tutor": [
         "Poltergeist",
         "Scorching Sands"
@@ -98572,7 +105120,6 @@
           "name": "Brave Bird"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -98779,7 +105326,6 @@
       "evolution": [
         "Superpower"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat"
       ],
@@ -101127,7 +107673,6 @@
           "name": "Close Combat"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -101367,7 +107912,6 @@
           "name": "Close Combat"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -101615,7 +108159,6 @@
           "name": "Close Combat"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching",
         "Grassy Glide"
@@ -101872,7 +108415,6 @@
           "name": "Thrash"
         }
       ],
-      "egg": [],
       "tutor": [
         "Lash Out"
       ],
@@ -102128,7 +108670,6 @@
           "name": "Thrash"
         }
       ],
-      "egg": [],
       "tutor": [
         "Lash Out",
         "Rising Voltage"
@@ -102405,7 +108946,6 @@
           "name": "Blue Flare"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot",
@@ -102687,7 +109227,6 @@
           "name": "Bolt Strike"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Rising Voltage",
@@ -102969,7 +109508,6 @@
           "name": "Fissure"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 6,
@@ -103156,8 +109694,68 @@
     "id": 646,
     "name": "kyurem",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Ancient Power"
+        },
+        {
+          "lvl": "1",
+          "name": "Dragon Breath"
+        },
+        {
+          "lvl": "1",
+          "name": "Freeze-Dry"
+        },
+        {
+          "lvl": "1",
+          "name": "Noble Roar"
+        },
+        {
+          "lvl": "8",
+          "name": "Slash"
+        },
+        {
+          "lvl": "16",
+          "name": "Endeavor"
+        },
+        {
+          "lvl": "24",
+          "name": "Dragon Pulse"
+        },
+        {
+          "lvl": "32",
+          "name": "Ice Beam"
+        },
+        {
+          "lvl": "40",
+          "name": "Hyper Voice"
+        },
+        {
+          "lvl": "48",
+          "name": "Scary Face"
+        },
+        {
+          "lvl": "56",
+          "name": "Blizzard"
+        },
+        {
+          "lvl": "64",
+          "name": "Imprison"
+        },
+        {
+          "lvl": "72",
+          "name": "Outrage"
+        },
+        {
+          "lvl": "80",
+          "name": "Glaciate"
+        },
+        {
+          "lvl": "88",
+          "name": "Sheer Cold"
+        }
+      ],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot"
@@ -103426,7 +110024,6 @@
           "name": "Close Combat"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching",
         "Flip Turn"
@@ -103679,7 +110276,6 @@
           "name": "Self-Destruct"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 6,
@@ -105752,13 +112348,279 @@
     "id": 678,
     "name": "meowstic",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Disarming Voice"
+        },
+        {
+          "lvl": "1",
+          "name": "Fake Out"
+        },
+        {
+          "lvl": "1",
+          "name": "Leer"
+        },
+        {
+          "lvl": "1",
+          "name": "Mean Look"
+        },
+        {
+          "lvl": "1",
+          "name": "Scratch"
+        },
+        {
+          "lvl": "9",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "12",
+          "name": "Helping Hand"
+        },
+        {
+          "lvl": "15",
+          "name": "Charm"
+        },
+        {
+          "lvl": "18",
+          "name": "Covet"
+        },
+        {
+          "lvl": "21",
+          "name": "Psybeam"
+        },
+        {
+          "lvl": "24",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "29",
+          "name": "Role Play"
+        },
+        {
+          "lvl": "34",
+          "name": "Light Screen"
+        },
+        {
+          "lvl": "34",
+          "name": "Reflect"
+        },
+        {
+          "lvl": "39",
+          "name": "Psyshock"
+        },
+        {
+          "lvl": "44",
+          "name": "Imprison"
+        },
+        {
+          "lvl": "49",
+          "name": "Quick Guard"
+        },
+        {
+          "lvl": "54",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "59",
+          "name": "Misty Terrain"
+        }
+      ],
+      "egg": [
+        "Tickle",
+        "Yawn"
+      ],
       "tutor": [
         "Expanding Force"
       ],
-      "technical-machine": [],
-      "technical-record": []
+      "technical-machine": [
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 18,
+          "name": "Reflect"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 29,
+          "name": "Charm"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 33,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 47,
+          "name": "Fake Tears"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 71,
+          "name": "Wonder Room"
+        },
+        {
+          "tm": 72,
+          "name": "Magic Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 84,
+          "name": "Tail Slap"
+        },
+        {
+          "tm": 89,
+          "name": "Misty Terrain"
+        },
+        {
+          "tm": 91,
+          "name": "Psychic Terrain"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 58,
+          "name": "Dark Pulse"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 68,
+          "name": "Nasty Plot"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        }
+      ]
     }
   },
   {
@@ -109857,7 +116719,6 @@
           "name": "Head Smash"
         }
       ],
-      "egg": [],
       "tutor": [
         "Lash Out",
         "Meteor Beam",
@@ -110390,7 +117251,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -111466,7 +118326,6 @@
           "name": "Stone Edge"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Misty Explosion",
@@ -114424,7 +121283,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "tutor": [
         "Misty Explosion",
         "Terrain Pulse"
@@ -114669,7 +121527,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Lash Out"
@@ -114902,7 +121759,6 @@
           "name": "Outrage"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scale Shot",
         "Scorching Sands",
@@ -115136,7 +121992,6 @@
           "name": "Diamond Storm"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Misty Explosion",
@@ -115410,7 +122265,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scorching Sands"
       ],
@@ -118908,12 +125762,255 @@
     "id": 745,
     "name": "lycanroc",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Accelerock"
+        },
+        {
+          "lvl": "1",
+          "name": "Double Team"
+        },
+        {
+          "lvl": "1",
+          "name": "Leer"
+        },
+        {
+          "lvl": "1",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Quick Guard"
+        },
+        {
+          "lvl": "1",
+          "name": "Sand Attack"
+        },
+        {
+          "lvl": "1",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "12",
+          "name": "Rock Throw"
+        },
+        {
+          "lvl": "16",
+          "name": "Howl"
+        },
+        {
+          "lvl": "20",
+          "name": "Bite"
+        },
+        {
+          "lvl": "24",
+          "name": "Rock Tomb"
+        },
+        {
+          "lvl": "30",
+          "name": "Roar"
+        },
+        {
+          "lvl": "36",
+          "name": "Rock Slide"
+        },
+        {
+          "lvl": "42",
+          "name": "Crunch"
+        },
+        {
+          "lvl": "48",
+          "name": "Scary Face"
+        },
+        {
+          "lvl": "54",
+          "name": "Stealth Rock"
+        },
+        {
+          "lvl": "60",
+          "name": "Stone Edge"
+        }
+      ],
+      "evolution": [
+        "Sucker Punch"
+      ],
+      "egg": [
+        "Endeavor",
+        "Last Resort",
+        "Thrash"
+      ],
+      "tutor": [
+        "Lash Out"
+      ],
+      "technical-machine": [
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 26,
+          "name": "Scary Face"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 32,
+          "name": "Sandstorm"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 54,
+          "name": "Rock Blast"
+        },
+        {
+          "tm": 58,
+          "name": "Assurance"
+        },
+        {
+          "tm": 66,
+          "name": "Thunder Fang"
+        },
+        {
+          "tm": 68,
+          "name": "Fire Fang"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 84,
+          "name": "Tail Slap"
+        },
+        {
+          "tm": 85,
+          "name": "Snarl"
+        },
+        {
+          "tm": 98,
+          "name": "Stomping Tantrum"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 0,
+          "name": "Swords Dance"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 31,
+          "name": "Iron Tail"
+        },
+        {
+          "tr": 32,
+          "name": "Crunch"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 42,
+          "name": "Hyper Voice"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 48,
+          "name": "Bulk Up"
+        },
+        {
+          "tr": 53,
+          "name": "Close Combat"
+        },
+        {
+          "tr": 67,
+          "name": "Earth Power"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 74,
+          "name": "Iron Head"
+        },
+        {
+          "tr": 75,
+          "name": "Stone Edge"
+        },
+        {
+          "tr": 76,
+          "name": "Stealth Rock"
+        },
+        {
+          "tr": 87,
+          "name": "Drill Run"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        },
+        {
+          "tr": 97,
+          "name": "Psychic Fangs"
+        }
+      ]
     }
   },
   {
@@ -124505,7 +131602,6 @@
       "evolution": [
         "Multi-Attack"
       ],
-      "egg": [],
       "tutor": [
         "Terrain Pulse"
       ],
@@ -125854,7 +132950,6 @@
           "name": "Power Whip"
         }
       ],
-      "egg": [],
       "tutor": [
         "Grassy Glide",
         "Poltergeist",
@@ -126937,7 +134032,6 @@
           "name": "Electric Terrain"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 5,
@@ -127198,7 +134292,6 @@
           "name": "Psychic Terrain"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 8,
@@ -127447,7 +134540,6 @@
           "name": "Grassy Terrain"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 0,
@@ -127736,7 +134828,6 @@
           "name": "Misty Terrain"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -127924,10 +135015,7 @@
           "lvl": "1",
           "name": "Teleport"
         }
-      ],
-      "egg": [],
-      "technical-machine": [],
-      "technical-record": []
+      ]
     }
   },
   {
@@ -127947,8 +135035,6 @@
       "evolution": [
         "Cosmic Power"
       ],
-      "egg": [],
-      "technical-machine": [],
       "technical-record": [
         {
           "tr": 44,
@@ -128034,7 +135120,6 @@
       "evolution": [
         "Sunsteel Strike"
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Meteor Beam",
@@ -128347,7 +135432,6 @@
       "evolution": [
         "Moongeist Beam"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Expanding Force",
@@ -128622,7 +135706,6 @@
           "name": "Head Smash"
         }
       ],
-      "egg": [],
       "tutor": [
         "Corrosive Gas",
         "Meteor Beam"
@@ -128859,7 +135942,6 @@
           "name": "Focus Punch"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching",
         "Dual Wingbeat"
@@ -129104,7 +136186,6 @@
           "name": "High Jump Kick"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching",
         "Skitter Smack",
@@ -129322,7 +136403,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage"
       ],
@@ -129530,7 +136610,6 @@
           "name": "Skull Bash"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Steel Roller"
@@ -129759,7 +136838,6 @@
           "name": "Guillotine"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 9,
@@ -129924,7 +137002,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "tutor": [
         "Corrosive Gas",
         "Lash Out",
@@ -130198,7 +137275,6 @@
           "name": "Prismatic Laser"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force",
         "Meteor Beam"
@@ -130499,7 +137575,6 @@
           "name": "Fleur Cannon"
         }
       ],
-      "egg": [],
       "tutor": [
         "Misty Explosion",
         "Steel Roller"
@@ -130772,7 +137847,6 @@
           "name": "Close Combat"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching",
         "Poltergeist",
@@ -131058,7 +138132,6 @@
           "name": "Toxic"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 7,
@@ -131230,7 +138303,6 @@
       "evolution": [
         "Air Cutter"
       ],
-      "egg": [],
       "tutor": [
         "Dual Wingbeat",
         "Scale Shot"
@@ -131511,7 +138583,6 @@
           "name": "Double-Edge"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Steel Roller"
@@ -131748,7 +138819,6 @@
           "name": "Mind Blown"
         }
       ],
-      "egg": [],
       "tutor": [
         "Expanding Force"
       ],
@@ -131988,7 +139058,6 @@
           "name": "Close Combat"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching",
         "Rising Voltage"
@@ -132249,7 +139318,6 @@
           "name": "Flash Cannon"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 14,
@@ -132377,7 +139445,6 @@
       "evolution": [
         "Thunder Punch"
       ],
-      "egg": [],
       "tutor": [
         "Steel Roller"
       ],
@@ -135520,9 +142587,7 @@
         "Recover",
         "Sticky Web",
         "Supersonic"
-      ],
-      "technical-machine": [],
-      "technical-record": []
+      ]
     }
   },
   {
@@ -138493,8 +145558,7 @@
           "tm": 31,
           "name": "Attract"
         }
-      ],
-      "technical-record": []
+      ]
     }
   },
   {
@@ -139964,7 +147028,108 @@
     "id": 849,
     "name": "toxtricity",
     "sword-shield": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Acid"
+        },
+        {
+          "lvl": "1",
+          "name": "Acid Spray"
+        },
+        {
+          "lvl": "1",
+          "name": "Belch"
+        },
+        {
+          "lvl": "1",
+          "name": "Eerie Impulse"
+        },
+        {
+          "lvl": "1",
+          "name": "Flail"
+        },
+        {
+          "lvl": "1",
+          "name": "Growl"
+        },
+        {
+          "lvl": "1",
+          "name": "Leer"
+        },
+        {
+          "lvl": "1",
+          "name": "Noble Roar"
+        },
+        {
+          "lvl": "1",
+          "name": "Nuzzle"
+        },
+        {
+          "lvl": "1",
+          "name": "Spark"
+        },
+        {
+          "lvl": "1",
+          "name": "Tearful Look"
+        },
+        {
+          "lvl": "1",
+          "name": "Thunder Shock"
+        },
+        {
+          "lvl": "4",
+          "name": "Charge"
+        },
+        {
+          "lvl": "8",
+          "name": "Shock Wave"
+        },
+        {
+          "lvl": "12",
+          "name": "Scary Face"
+        },
+        {
+          "lvl": "16",
+          "name": "Taunt"
+        },
+        {
+          "lvl": "20",
+          "name": "Venoshock"
+        },
+        {
+          "lvl": "24",
+          "name": "Screech"
+        },
+        {
+          "lvl": "28",
+          "name": "Swagger"
+        },
+        {
+          "lvl": "32",
+          "name": "Toxic"
+        },
+        {
+          "lvl": "36",
+          "name": "Discharge"
+        },
+        {
+          "lvl": "40",
+          "name": "Poison Jab"
+        },
+        {
+          "lvl": "44",
+          "name": "Overdrive"
+        },
+        {
+          "lvl": "48",
+          "name": "Boomburst"
+        },
+        {
+          "lvl": "52",
+          "name": "Shift Gear"
+        }
+      ],
       "evolution": [
         "Spark"
       ],
@@ -139976,8 +147141,174 @@
       "tutor": [
         "Rising Voltage"
       ],
-      "technical-machine": [],
-      "technical-record": []
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 3,
+          "name": "Fire Punch"
+        },
+        {
+          "tm": 5,
+          "name": "Thunder Punch"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 14,
+          "name": "Thunder Wave"
+        },
+        {
+          "tm": 16,
+          "name": "Screech"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 26,
+          "name": "Scary Face"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 63,
+          "name": "Drain Punch"
+        },
+        {
+          "tm": 74,
+          "name": "Venoshock"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 77,
+          "name": "Hex"
+        },
+        {
+          "tm": 80,
+          "name": "Volt Switch"
+        },
+        {
+          "tm": 85,
+          "name": "Snarl"
+        },
+        {
+          "tm": 93,
+          "name": "Eerie Impulse"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 8,
+          "name": "Thunderbolt"
+        },
+        {
+          "tr": 9,
+          "name": "Thunder"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 22,
+          "name": "Sludge Bomb"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 35,
+          "name": "Uproar"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 42,
+          "name": "Hyper Voice"
+        },
+        {
+          "tr": 57,
+          "name": "Poison Jab"
+        },
+        {
+          "tr": 73,
+          "name": "Gunk Shot"
+        },
+        {
+          "tr": 78,
+          "name": "Sludge Wave"
+        },
+        {
+          "tr": 80,
+          "name": "Electro Ball"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        },
+        {
+          "tr": 86,
+          "name": "Wild Charge"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        }
+      ]
     }
   },
   {
@@ -140816,7 +148147,6 @@
           "name": "Shell Smash"
         }
       ],
-      "egg": [],
       "tutor": [
         "Poltergeist"
       ],
@@ -140999,7 +148329,6 @@
       "evolution": [
         "Teatime"
       ],
-      "egg": [],
       "tutor": [
         "Poltergeist"
       ],
@@ -141805,7 +149134,6 @@
           "name": "Foul Play"
         }
       ],
-      "egg": [],
       "tutor": [
         "Burning Jealousy",
         "Lash Out"
@@ -142001,7 +149329,6 @@
       "evolution": [
         "False Surrender"
       ],
-      "egg": [],
       "tutor": [
         "Burning Jealousy",
         "Lash Out"
@@ -142229,7 +149556,6 @@
       "evolution": [
         "Spirit Break"
       ],
-      "egg": [],
       "tutor": [
         "Burning Jealousy",
         "Lash Out"
@@ -144762,7 +152088,6 @@
           "name": "Counter"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -145831,14 +153156,225 @@
     "id": 876,
     "name": "indeedee",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Play Nice"
+        },
+        {
+          "lvl": "1",
+          "name": "Stored Power"
+        },
+        {
+          "lvl": "5",
+          "name": "Encore"
+        },
+        {
+          "lvl": "10",
+          "name": "Disarming Voice"
+        },
+        {
+          "lvl": "15",
+          "name": "Psybeam"
+        },
+        {
+          "lvl": "20",
+          "name": "Helping Hand"
+        },
+        {
+          "lvl": "25",
+          "name": "After You"
+        },
+        {
+          "lvl": "30",
+          "name": "Aromatherapy"
+        },
+        {
+          "lvl": "35",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "40",
+          "name": "Calm Mind"
+        },
+        {
+          "lvl": "45",
+          "name": "Power Split"
+        },
+        {
+          "lvl": "50",
+          "name": "Psychic Terrain"
+        },
+        {
+          "lvl": "55",
+          "name": "Last Resort"
+        }
+      ],
+      "egg": [
+        "Extrasensory",
+        "Fake Out",
+        "Psych Up"
+      ],
       "tutor": [
         "Expanding Force",
         "Terrain Pulse"
       ],
-      "technical-machine": [],
-      "technical-record": []
+      "technical-machine": [
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 10,
+          "name": "Magical Leaf"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 60,
+          "name": "Power Swap"
+        },
+        {
+          "tm": 63,
+          "name": "Drain Punch"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 71,
+          "name": "Wonder Room"
+        },
+        {
+          "tm": 72,
+          "name": "Magic Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 87,
+          "name": "Draining Kiss"
+        },
+        {
+          "tm": 91,
+          "name": "Psychic Terrain"
+        },
+        {
+          "tm": 92,
+          "name": "Mystical Fire"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 14,
+          "name": "Metronome"
+        },
+        {
+          "tr": 19,
+          "name": "Tri Attack"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 33,
+          "name": "Shadow Ball"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 42,
+          "name": "Hyper Voice"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 90,
+          "name": "Play Rough"
+        },
+        {
+          "tr": 92,
+          "name": "Dazzling Gleam"
+        }
+      ]
     }
   },
   {
@@ -146630,7 +154166,6 @@
           "name": "Dragon Rush"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Rising Voltage"
@@ -146871,7 +154406,6 @@
           "name": "Blizzard"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam",
         "Rising Voltage"
@@ -147104,7 +154638,6 @@
           "name": "Dragon Rush"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -147328,7 +154861,6 @@
           "name": "Blizzard"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -148401,7 +155933,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 8,
@@ -148642,7 +156173,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -148898,7 +156428,6 @@
           "name": "Eternabeam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Meteor Beam"
       ],
@@ -149110,7 +156639,6 @@
           "name": "Focus Punch"
         }
       ],
-      "egg": [],
       "tutor": [
         "Coaching"
       ],
@@ -149256,12 +156784,311 @@
     "id": 892,
     "name": "urshifu",
     "sword-shield": {
-      "level-up": [],
-      "evolution": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Endure"
+        },
+        {
+          "lvl": "1",
+          "name": "Focus Energy"
+        },
+        {
+          "lvl": "1",
+          "name": "Leer"
+        },
+        {
+          "lvl": "1",
+          "name": "Rock Smash"
+        },
+        {
+          "lvl": "1",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "1",
+          "name": "Wicked Blow"
+        },
+        {
+          "lvl": "12",
+          "name": "Aerial Ace"
+        },
+        {
+          "lvl": "16",
+          "name": "Scary Face"
+        },
+        {
+          "lvl": "20",
+          "name": "Headbutt"
+        },
+        {
+          "lvl": "24",
+          "name": "Brick Break"
+        },
+        {
+          "lvl": "28",
+          "name": "Detect"
+        },
+        {
+          "lvl": "32",
+          "name": "Bulk Up"
+        },
+        {
+          "lvl": "36",
+          "name": "Iron Head"
+        },
+        {
+          "lvl": "40",
+          "name": "Dynamic Punch"
+        },
+        {
+          "lvl": "44",
+          "name": "Counter"
+        },
+        {
+          "lvl": "48",
+          "name": "Close Combat"
+        },
+        {
+          "lvl": "52",
+          "name": "Focus Punch"
+        }
+      ],
+      "evolution": [
+        "Wicked Blow"
+      ],
+      "tutor": [
+        "Coaching",
+        "Lash Out"
+      ],
+      "technical-machine": [
+        {
+          "tm": 0,
+          "name": "Mega Punch"
+        },
+        {
+          "tm": 1,
+          "name": "Mega Kick"
+        },
+        {
+          "tm": 3,
+          "name": "Fire Punch"
+        },
+        {
+          "tm": 4,
+          "name": "Ice Punch"
+        },
+        {
+          "tm": 5,
+          "name": "Thunder Punch"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 15,
+          "name": "Dig"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 22,
+          "name": "Rock Slide"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 26,
+          "name": "Scary Face"
+        },
+        {
+          "tm": 31,
+          "name": "Attract"
+        },
+        {
+          "tm": 37,
+          "name": "Beat Up"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 42,
+          "name": "Revenge"
+        },
+        {
+          "tm": 43,
+          "name": "Brick Break"
+        },
+        {
+          "tm": 48,
+          "name": "Rock Tomb"
+        },
+        {
+          "tm": 56,
+          "name": "U-turn"
+        },
+        {
+          "tm": 57,
+          "name": "Payback"
+        },
+        {
+          "tm": 58,
+          "name": "Assurance"
+        },
+        {
+          "tm": 59,
+          "name": "Fling"
+        },
+        {
+          "tm": 63,
+          "name": "Drain Punch"
+        },
+        {
+          "tm": 75,
+          "name": "Low Sweep"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 78,
+          "name": "Acrobatics"
+        },
+        {
+          "tm": 79,
+          "name": "Retaliate"
+        },
+        {
+          "tm": 85,
+          "name": "Snarl"
+        },
+        {
+          "tm": 94,
+          "name": "False Swipe"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 1,
+          "name": "Body Slam"
+        },
+        {
+          "tr": 7,
+          "name": "Low Kick"
+        },
+        {
+          "tr": 13,
+          "name": "Focus Energy"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 21,
+          "name": "Reversal"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 32,
+          "name": "Crunch"
+        },
+        {
+          "tr": 37,
+          "name": "Taunt"
+        },
+        {
+          "tr": 39,
+          "name": "Superpower"
+        },
+        {
+          "tr": 46,
+          "name": "Iron Defense"
+        },
+        {
+          "tr": 48,
+          "name": "Bulk Up"
+        },
+        {
+          "tr": 53,
+          "name": "Close Combat"
+        },
+        {
+          "tr": 56,
+          "name": "Aura Sphere"
+        },
+        {
+          "tr": 57,
+          "name": "Poison Jab"
+        },
+        {
+          "tr": 58,
+          "name": "Dark Pulse"
+        },
+        {
+          "tr": 64,
+          "name": "Focus Blast"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 74,
+          "name": "Iron Head"
+        },
+        {
+          "tr": 75,
+          "name": "Stone Edge"
+        },
+        {
+          "tr": 81,
+          "name": "Foul Play"
+        },
+        {
+          "tr": 85,
+          "name": "Work Up"
+        },
+        {
+          "tr": 93,
+          "name": "Darkest Lariat"
+        },
+        {
+          "tr": 95,
+          "name": "Throat Chop"
+        },
+        {
+          "tr": 99,
+          "name": "Body Press"
+        }
+      ]
     }
   },
   {
@@ -149338,7 +157165,6 @@
           "name": "Jungle Healing"
         }
       ],
-      "egg": [],
       "tutor": [
         "Grassy Glide",
         "Lash Out"
@@ -149635,7 +157461,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Rising Voltage"
       ],
@@ -149831,7 +157656,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "tutor": [
         "Scale Shot"
       ],
@@ -149999,7 +157823,6 @@
           "name": "Swords Dance"
         }
       ],
-      "egg": [],
       "tutor": [
         "Lash Out"
       ],
@@ -150223,7 +158046,6 @@
           "name": "Nasty Plot"
         }
       ],
-      "egg": [],
       "tutor": [
         "Lash Out"
       ],
@@ -150365,11 +158187,279 @@
     "id": 898,
     "name": "calyrex",
     "sword-shield": {
-      "level-up": [],
-      "egg": [],
-      "tutor": [],
-      "technical-machine": [],
-      "technical-record": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "1",
+          "name": "Growth"
+        },
+        {
+          "lvl": "1",
+          "name": "Mega Drain"
+        },
+        {
+          "lvl": "1",
+          "name": "Pound"
+        },
+        {
+          "lvl": "8",
+          "name": "Life Dew"
+        },
+        {
+          "lvl": "16",
+          "name": "Giga Drain"
+        },
+        {
+          "lvl": "24",
+          "name": "Psyshock"
+        },
+        {
+          "lvl": "32",
+          "name": "Helping Hand"
+        },
+        {
+          "lvl": "40",
+          "name": "Aromatherapy"
+        },
+        {
+          "lvl": "48",
+          "name": "Energy Ball"
+        },
+        {
+          "lvl": "56",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "64",
+          "name": "Leech Seed"
+        },
+        {
+          "lvl": "72",
+          "name": "Heal Pulse"
+        },
+        {
+          "lvl": "80",
+          "name": "Solar Beam"
+        },
+        {
+          "lvl": "88",
+          "name": "Future Sight"
+        }
+      ],
+      "tutor": [
+        "Expanding Force"
+      ],
+      "technical-machine": [
+        {
+          "tm": 2,
+          "name": "Pay Day"
+        },
+        {
+          "tm": 8,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 9,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 10,
+          "name": "Magical Leaf"
+        },
+        {
+          "tm": 11,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 12,
+          "name": "Solar Blade"
+        },
+        {
+          "tm": 17,
+          "name": "Light Screen"
+        },
+        {
+          "tm": 18,
+          "name": "Reflect"
+        },
+        {
+          "tm": 19,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 21,
+          "name": "Rest"
+        },
+        {
+          "tm": 24,
+          "name": "Snore"
+        },
+        {
+          "tm": 25,
+          "name": "Protect"
+        },
+        {
+          "tm": 28,
+          "name": "Giga Drain"
+        },
+        {
+          "tm": 34,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 39,
+          "name": "Facade"
+        },
+        {
+          "tm": 40,
+          "name": "Swift"
+        },
+        {
+          "tm": 41,
+          "name": "Helping Hand"
+        },
+        {
+          "tm": 44,
+          "name": "Imprison"
+        },
+        {
+          "tm": 50,
+          "name": "Bullet Seed"
+        },
+        {
+          "tm": 60,
+          "name": "Power Swap"
+        },
+        {
+          "tm": 61,
+          "name": "Guard Swap"
+        },
+        {
+          "tm": 62,
+          "name": "Speed Swap"
+        },
+        {
+          "tm": 70,
+          "name": "Trick Room"
+        },
+        {
+          "tm": 71,
+          "name": "Wonder Room"
+        },
+        {
+          "tm": 72,
+          "name": "Magic Room"
+        },
+        {
+          "tm": 76,
+          "name": "Round"
+        },
+        {
+          "tm": 87,
+          "name": "Draining Kiss"
+        },
+        {
+          "tm": 88,
+          "name": "Grassy Terrain"
+        },
+        {
+          "tm": 91,
+          "name": "Psychic Terrain"
+        }
+      ],
+      "technical-record": [
+        {
+          "tr": 11,
+          "name": "Psychic"
+        },
+        {
+          "tr": 12,
+          "name": "Agility"
+        },
+        {
+          "tr": 14,
+          "name": "Metronome"
+        },
+        {
+          "tr": 19,
+          "name": "Tri Attack"
+        },
+        {
+          "tr": 20,
+          "name": "Substitute"
+        },
+        {
+          "tr": 25,
+          "name": "Psyshock"
+        },
+        {
+          "tr": 26,
+          "name": "Endure"
+        },
+        {
+          "tr": 27,
+          "name": "Sleep Talk"
+        },
+        {
+          "tr": 29,
+          "name": "Baton Pass"
+        },
+        {
+          "tr": 30,
+          "name": "Encore"
+        },
+        {
+          "tr": 34,
+          "name": "Future Sight"
+        },
+        {
+          "tr": 38,
+          "name": "Trick"
+        },
+        {
+          "tr": 40,
+          "name": "Skill Swap"
+        },
+        {
+          "tr": 49,
+          "name": "Calm Mind"
+        },
+        {
+          "tr": 59,
+          "name": "Seed Bomb"
+        },
+        {
+          "tr": 65,
+          "name": "Energy Ball"
+        },
+        {
+          "tr": 69,
+          "name": "Zen Headbutt"
+        },
+        {
+          "tr": 71,
+          "name": "Leaf Storm"
+        },
+        {
+          "tr": 77,
+          "name": "Grass Knot"
+        },
+        {
+          "tr": 82,
+          "name": "Stored Power"
+        },
+        {
+          "tr": 83,
+          "name": "Ally Switch"
+        },
+        {
+          "tr": 96,
+          "name": "Pollen Puff"
+        }
+      ]
     }
   }
 ]

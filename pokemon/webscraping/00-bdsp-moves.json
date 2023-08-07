@@ -1924,9 +1924,7 @@
           "lvl": "9",
           "name": "Bug Bite"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -1941,9 +1939,7 @@
       ],
       "evolution": [
         "Harden"
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -2027,7 +2023,6 @@
       "evolution": [
         "Gust"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -2165,9 +2160,7 @@
           "lvl": "9",
           "name": "Bug Bite"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -2182,9 +2175,7 @@
       ],
       "evolution": [
         "Harden"
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -2264,7 +2255,6 @@
       "evolution": [
         "Fury Attack"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -15909,7 +15899,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -16087,7 +16076,6 @@
       "evolution": [
         "Tri Attack"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -19796,7 +19784,6 @@
           "name": "Mirror Coat"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 12,
@@ -19971,7 +19958,6 @@
           "name": "Mirror Coat"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 12,
@@ -23959,7 +23945,6 @@
           "name": "Hydro Pump"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -24150,7 +24135,6 @@
           "name": "Water Gun"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -25675,7 +25659,6 @@
           "name": "Giga Impact"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -25837,9 +25820,7 @@
           "lvl": "25",
           "name": "Flail"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -25927,7 +25908,6 @@
       "evolution": [
         "Bite"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -26306,9 +26286,7 @@
           "lvl": "1",
           "name": "Transform"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -27206,7 +27184,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -28740,7 +28717,6 @@
           "name": "Sheer Cold"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -28927,7 +28903,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 5,
@@ -29126,7 +29101,6 @@
           "name": "Sky Attack"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 5,
@@ -30009,7 +29983,6 @@
           "name": "Future Sight"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 1,
@@ -30316,7 +30289,6 @@
           "name": "Psychic"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 1,
@@ -40788,9 +40760,7 @@
           "lvl": "1",
           "name": "Hidden Power"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -40837,7 +40807,6 @@
         "Mirror Coat",
         "Safeguard"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 20,
@@ -47309,7 +47278,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -47699,9 +47667,7 @@
           "lvl": "91",
           "name": "Sketch"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -49189,7 +49155,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -49416,7 +49381,6 @@
           "name": "Eruption"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -49635,7 +49599,6 @@
           "name": "Blizzard"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -50564,7 +50527,6 @@
           "name": "Sky Attack"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -50831,7 +50793,6 @@
           "name": "Burn Up"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -51066,7 +51027,6 @@
           "name": "Perish Song"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -54147,9 +54107,7 @@
           "lvl": "15",
           "name": "Bug Bite"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -54164,9 +54122,7 @@
       ],
       "evolution": [
         "Harden"
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -54250,7 +54206,6 @@
       "evolution": [
         "Gust"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -54367,9 +54322,7 @@
       ],
       "evolution": [
         "Harden"
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -54453,7 +54406,6 @@
       "evolution": [
         "Gust"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 6,
@@ -68834,7 +68786,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -69065,7 +69016,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -70108,7 +70058,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -70346,7 +70295,6 @@
       "evolution": [
         "Hyper Beam"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -73729,7 +73677,6 @@
           "name": "Splash"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 20,
@@ -76079,9 +76026,7 @@
           "lvl": "1",
           "name": "Tackle"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -76150,7 +76095,6 @@
         "Confusion",
         "Metal Claw"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -76360,7 +76304,6 @@
       "evolution": [
         "Hammer Arm"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -76571,7 +76514,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 1,
@@ -76790,7 +76732,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 1,
@@ -77013,7 +76954,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 1,
@@ -77240,7 +77180,6 @@
           "name": "Psycho Shift"
         }
       ],
-      "egg": [],
       "tutor": [
         "Draco Meteor"
       ],
@@ -77510,7 +77449,6 @@
           "name": "Psycho Shift"
         }
       ],
-      "egg": [],
       "tutor": [
         "Draco Meteor"
       ],
@@ -77768,7 +77706,6 @@
           "name": "Water Spout"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -77975,7 +77912,6 @@
           "name": "Eruption"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 2,
@@ -78226,7 +78162,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "tutor": [
         "Draco Meteor"
       ],
@@ -78500,7 +78435,6 @@
           "name": "Doom Desire"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -78669,8 +78603,64 @@
     "id": 386,
     "name": "deoxys",
     "brilliant-diamond-shining-pearl": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Leer"
+        },
+        {
+          "lvl": "1",
+          "name": "Wrap"
+        },
+        {
+          "lvl": "7",
+          "name": "Night Shade"
+        },
+        {
+          "lvl": "13",
+          "name": "Teleport"
+        },
+        {
+          "lvl": "19",
+          "name": "Knock Off"
+        },
+        {
+          "lvl": "25",
+          "name": "Toxic Spikes"
+        },
+        {
+          "lvl": "31",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "37",
+          "name": "Switcheroo"
+        },
+        {
+          "lvl": "43",
+          "name": "Psycho Shift"
+        },
+        {
+          "lvl": "49",
+          "name": "Zen Headbutt"
+        },
+        {
+          "lvl": "55",
+          "name": "Cosmic Power"
+        },
+        {
+          "lvl": "61",
+          "name": "Recover"
+        },
+        {
+          "lvl": "67",
+          "name": "Psycho Boost"
+        },
+        {
+          "lvl": "73",
+          "name": "Hyper Beam"
+        }
+      ],
       "technical-machine": [
         {
           "tm": 1,
@@ -81943,9 +81933,7 @@
           "lvl": "16",
           "name": "Bug Bite"
         }
-      ],
-      "egg": [],
-      "technical-machine": []
+      ]
     }
   },
   {
@@ -82025,7 +82013,6 @@
       "evolution": [
         "Fury Cutter"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -83939,7 +83926,6 @@
           "name": "String Shot"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 17,
@@ -83952,12 +83938,197 @@
     "id": 413,
     "name": "wormadam",
     "brilliant-diamond-shining-pearl": {
-      "level-up": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Bug Bite"
+        },
+        {
+          "lvl": "1",
+          "name": "Protect"
+        },
+        {
+          "lvl": "1",
+          "name": "Quiver Dance"
+        },
+        {
+          "lvl": "1",
+          "name": "Sucker Punch"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "10",
+          "name": "Protect"
+        },
+        {
+          "lvl": "15",
+          "name": "Bug Bite"
+        },
+        {
+          "lvl": "20",
+          "name": "String Shot"
+        },
+        {
+          "lvl": "23",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "26",
+          "name": "Razor Leaf"
+        },
+        {
+          "lvl": "29",
+          "name": "Growth"
+        },
+        {
+          "lvl": "32",
+          "name": "Psybeam"
+        },
+        {
+          "lvl": "35",
+          "name": "Infestation"
+        },
+        {
+          "lvl": "38",
+          "name": "Flail"
+        },
+        {
+          "lvl": "41",
+          "name": "Attract"
+        },
+        {
+          "lvl": "44",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "47",
+          "name": "Leaf Storm"
+        },
+        {
+          "lvl": "50",
+          "name": "Bug Buzz"
+        }
+      ],
       "evolution": [
         "Quiver Dance"
       ],
-      "egg": [],
-      "technical-machine": []
+      "technical-machine": [
+        {
+          "tm": 9,
+          "name": "Bullet Seed"
+        },
+        {
+          "tm": 11,
+          "name": "Sunny Day"
+        },
+        {
+          "tm": 15,
+          "name": "Hyper Beam"
+        },
+        {
+          "tm": 17,
+          "name": "Protect"
+        },
+        {
+          "tm": 18,
+          "name": "Rain Dance"
+        },
+        {
+          "tm": 19,
+          "name": "Giga Drain"
+        },
+        {
+          "tm": 20,
+          "name": "Safeguard"
+        },
+        {
+          "tm": 22,
+          "name": "Solar Beam"
+        },
+        {
+          "tm": 28,
+          "name": "Dig"
+        },
+        {
+          "tm": 29,
+          "name": "Psychic"
+        },
+        {
+          "tm": 30,
+          "name": "Shadow Ball"
+        },
+        {
+          "tm": 32,
+          "name": "Double Team"
+        },
+        {
+          "tm": 42,
+          "name": "Facade"
+        },
+        {
+          "tm": 44,
+          "name": "Rest"
+        },
+        {
+          "tm": 45,
+          "name": "Attract"
+        },
+        {
+          "tm": 46,
+          "name": "Thief"
+        },
+        {
+          "tm": 48,
+          "name": "Skill Swap"
+        },
+        {
+          "tm": 53,
+          "name": "Energy Ball"
+        },
+        {
+          "tm": 58,
+          "name": "Endure"
+        },
+        {
+          "tm": 62,
+          "name": "Bug Buzz"
+        },
+        {
+          "tm": 68,
+          "name": "Giga Impact"
+        },
+        {
+          "tm": 70,
+          "name": "Flash"
+        },
+        {
+          "tm": 77,
+          "name": "Psych Up"
+        },
+        {
+          "tm": 82,
+          "name": "Sleep Talk"
+        },
+        {
+          "tm": 85,
+          "name": "Dream Eater"
+        },
+        {
+          "tm": 86,
+          "name": "Grass Knot"
+        },
+        {
+          "tm": 87,
+          "name": "Swagger"
+        },
+        {
+          "tm": 90,
+          "name": "Substitute"
+        }
+      ]
     }
   },
   {
@@ -84037,7 +84208,6 @@
       "evolution": [
         "Quiver Dance"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -84180,7 +84350,6 @@
           "name": "Sweet Scent"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 62,
@@ -84274,7 +84443,6 @@
       "evolution": [
         "Slash"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 6,
@@ -88323,7 +88491,6 @@
           "name": "Future Sight"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -88545,7 +88712,6 @@
       "evolution": [
         "Block"
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -93902,7 +94068,6 @@
           "name": "Zap Cannon"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -96781,7 +96946,6 @@
           "name": "Hyper Beam"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -98099,7 +98263,6 @@
           "name": "Uproar"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 11,
@@ -98266,7 +98429,6 @@
           "name": "Memento"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -98497,7 +98659,6 @@
           "name": "Healing Wish"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -98728,7 +98889,6 @@
           "name": "Explosion"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -98975,7 +99135,6 @@
           "name": "Iron Tail"
         }
       ],
-      "egg": [],
       "tutor": [
         "Draco Meteor"
       ],
@@ -99217,7 +99376,6 @@
           "name": "Hydro Pump"
         }
       ],
-      "egg": [],
       "tutor": [
         "Draco Meteor"
       ],
@@ -99475,7 +99633,6 @@
           "name": "Magma Storm"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 5,
@@ -99686,7 +99843,6 @@
           "name": "Crush Grip"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 1,
@@ -99893,7 +100049,6 @@
           "name": "Destiny Bond"
         }
       ],
-      "egg": [],
       "tutor": [
         "Draco Meteor"
       ],
@@ -100135,7 +100290,6 @@
           "name": "Lunar Dance"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 4,
@@ -100310,7 +100464,6 @@
           "name": "Rain Dance"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -100461,7 +100614,6 @@
           "name": "Heart Swap"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 3,
@@ -100652,7 +100804,6 @@
           "name": "Dark Pulse"
         }
       ],
-      "egg": [],
       "technical-machine": [
         {
           "tm": 1,
@@ -100861,8 +101012,56 @@
     "id": 492,
     "name": "shaymin",
     "brilliant-diamond-shining-pearl": {
-      "level-up": [],
-      "egg": [],
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Growth"
+        },
+        {
+          "lvl": "10",
+          "name": "Magical Leaf"
+        },
+        {
+          "lvl": "19",
+          "name": "Leech Seed"
+        },
+        {
+          "lvl": "28",
+          "name": "Synthesis"
+        },
+        {
+          "lvl": "37",
+          "name": "Sweet Scent"
+        },
+        {
+          "lvl": "46",
+          "name": "Healing Wish"
+        },
+        {
+          "lvl": "55",
+          "name": "Worry Seed"
+        },
+        {
+          "lvl": "64",
+          "name": "Aromatherapy"
+        },
+        {
+          "lvl": "73",
+          "name": "Energy Ball"
+        },
+        {
+          "lvl": "82",
+          "name": "Sweet Kiss"
+        },
+        {
+          "lvl": "91",
+          "name": "Healing Wish"
+        },
+        {
+          "lvl": "100",
+          "name": "Seed Flare"
+        }
+      ],
       "technical-machine": [
         {
           "tm": 9,
@@ -101009,7 +101208,6 @@
           "name": "Judgment"
         }
       ],
-      "egg": [],
       "tutor": [
         "Draco Meteor"
       ],

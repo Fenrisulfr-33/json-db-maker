@@ -249,16 +249,108 @@
     "id": 37,
     "name": "vulpix",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Ember"
+        },
+        {
+          "lvl": "5",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "9",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "15",
+          "name": "Flame Wheel"
+        },
+        {
+          "lvl": "21",
+          "name": "Hex"
+        },
+        {
+          "lvl": "29",
+          "name": "Extrasensory"
+        },
+        {
+          "lvl": "37",
+          "name": "Flamethrower"
+        },
+        {
+          "lvl": "47",
+          "name": "Fire Blast"
+        }
+      ],
+      "tutor": [
+        "Baby-Doll Eyes",
+        "Dark Pulse",
+        "Energy Ball",
+        "Flamethrower",
+        "Iron Tail",
+        "Mystical Fire",
+        "Ominous Wind",
+        "Rest",
+        "Swift",
+        "Zen Headbutt"
+      ]
     }
   },
   {
     "id": 38,
     "name": "ninetales",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Ember"
+        },
+        {
+          "lvl": "5",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "9",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "15",
+          "name": "Flame Wheel"
+        },
+        {
+          "lvl": "21",
+          "name": "Hex"
+        },
+        {
+          "lvl": "29",
+          "name": "Extrasensory"
+        },
+        {
+          "lvl": "37",
+          "name": "Flamethrower"
+        },
+        {
+          "lvl": "47",
+          "name": "Fire Blast"
+        }
+      ],
+      "tutor": [
+        "Baby-Doll Eyes",
+        "Calm Mind",
+        "Dark Pulse",
+        "Energy Ball",
+        "Flamethrower",
+        "Giga Impact",
+        "Hyper Beam",
+        "Iron Tail",
+        "Mystical Fire",
+        "Ominous Wind",
+        "Rest",
+        "Shadow Ball",
+        "Swift",
+        "Zen Headbutt"
+      ]
     }
   },
   {
@@ -569,16 +661,118 @@
     "id": 58,
     "name": "growlithe",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "5",
+          "name": "Ember"
+        },
+        {
+          "lvl": "9",
+          "name": "Bite"
+        },
+        {
+          "lvl": "15",
+          "name": "Fire Fang"
+        },
+        {
+          "lvl": "21",
+          "name": "Rock Slide"
+        },
+        {
+          "lvl": "29",
+          "name": "Crunch"
+        },
+        {
+          "lvl": "37",
+          "name": "Double-Edge"
+        },
+        {
+          "lvl": "47",
+          "name": "Flare Blitz"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Fire Fang",
+        "Flamethrower",
+        "Iron Tail",
+        "Outrage",
+        "Play Rough",
+        "Rest",
+        "Rock Slide",
+        "Rock Smash",
+        "Snarl",
+        "Swift",
+        "Wild Charge"
+      ]
     }
   },
   {
     "id": 59,
     "name": "arcanine",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "5",
+          "name": "Ember"
+        },
+        {
+          "lvl": "9",
+          "name": "Bite"
+        },
+        {
+          "lvl": "15",
+          "name": "Fire Fang"
+        },
+        {
+          "lvl": "21",
+          "name": "Rock Slide"
+        },
+        {
+          "lvl": "29",
+          "name": "Crunch"
+        },
+        {
+          "lvl": "29",
+          "name": "Raging Fury"
+        },
+        {
+          "lvl": "37",
+          "name": "Double-Edge"
+        },
+        {
+          "lvl": "47",
+          "name": "Flare Blitz"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Bulldoze",
+        "Fire Fang",
+        "Flamethrower",
+        "Giga Impact",
+        "Hyper Beam",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Play Rough",
+        "Rest",
+        "Rock Slide",
+        "Rock Smash",
+        "Snarl",
+        "Stone Edge",
+        "Swift",
+        "Thunder Fang",
+        "Wild Charge"
+      ]
     }
   },
   {
@@ -1579,16 +1773,106 @@
     "id": 100,
     "name": "voltorb",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Thunder Shock"
+        },
+        {
+          "lvl": "5",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "9",
+          "name": "Thunder Wave"
+        },
+        {
+          "lvl": "15",
+          "name": "Spark"
+        },
+        {
+          "lvl": "21",
+          "name": "Energy Ball"
+        },
+        {
+          "lvl": "29",
+          "name": "Thunderbolt"
+        },
+        {
+          "lvl": "37",
+          "name": "Thunder"
+        },
+        {
+          "lvl": "47",
+          "name": "Self-Destruct"
+        }
+      ],
+      "tutor": [
+        "Charge Beam",
+        "Energy Ball",
+        "Ice Ball",
+        "Magical Leaf",
+        "Rest",
+        "Swift",
+        "Thunderbolt",
+        "Wild Charge"
+      ]
     }
   },
   {
     "id": 101,
     "name": "electrode",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Thunder Shock"
+        },
+        {
+          "lvl": "5",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "9",
+          "name": "Thunder Wave"
+        },
+        {
+          "lvl": "15",
+          "name": "Spark"
+        },
+        {
+          "lvl": "21",
+          "name": "Energy Ball"
+        },
+        {
+          "lvl": "29",
+          "name": "Thunderbolt"
+        },
+        {
+          "lvl": "37",
+          "name": "Thunder"
+        },
+        {
+          "lvl": "47",
+          "name": "Chloroblast"
+        },
+        {
+          "lvl": "47",
+          "name": "Self-Destruct"
+        }
+      ],
+      "tutor": [
+        "Charge Beam",
+        "Energy Ball",
+        "Giga Impact",
+        "Hyper Beam",
+        "Ice Ball",
+        "Magical Leaf",
+        "Rest",
+        "Swift",
+        "Thunderbolt",
+        "Wild Charge"
+      ]
     }
   },
   {
@@ -2626,8 +2910,69 @@
     "id": 157,
     "name": "typhlosion",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "?",
+          "name": "Hex"
+        },
+        {
+          "lvl": "1",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "6",
+          "name": "Ember"
+        },
+        {
+          "lvl": "11",
+          "name": "Rollout"
+        },
+        {
+          "lvl": "18",
+          "name": "Flame Wheel"
+        },
+        {
+          "lvl": "25",
+          "name": "Swift"
+        },
+        {
+          "lvl": "34",
+          "name": "Flamethrower"
+        },
+        {
+          "lvl": "40",
+          "name": "Infernal Parade"
+        },
+        {
+          "lvl": "43",
+          "name": "Overheat"
+        },
+        {
+          "lvl": "43",
+          "name": "Shadow Ball"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Bulldoze",
+        "Calm Mind",
+        "Drain Punch",
+        "Fire Punch",
+        "Flamethrower",
+        "Giga Impact",
+        "Hyper Beam",
+        "Iron Tail",
+        "Mystical Fire",
+        "Ominous Wind",
+        "Rest",
+        "Rock Slide",
+        "Rock Smash",
+        "Shadow Ball",
+        "Shadow Claw",
+        "Swift",
+        "Thunder Punch",
+        "Wild Charge"
+      ]
     }
   },
   {
@@ -3406,8 +3751,62 @@
     "id": 211,
     "name": "qwilfish",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Poison Sting"
+        },
+        {
+          "lvl": "5",
+          "name": "Spikes"
+        },
+        {
+          "lvl": "9",
+          "name": "Pin Missile"
+        },
+        {
+          "lvl": "15",
+          "name": "Barb Barrage"
+        },
+        {
+          "lvl": "21",
+          "name": "Water Pulse"
+        },
+        {
+          "lvl": "26",
+          "name": "Dark Pulse"
+        },
+        {
+          "lvl": "29",
+          "name": "Poison Jab"
+        },
+        {
+          "lvl": "37",
+          "name": "Aqua Tail"
+        },
+        {
+          "lvl": "47",
+          "name": "Double-Edge"
+        },
+        {
+          "lvl": "57",
+          "name": "Self-Destruct"
+        }
+      ],
+      "tutor": [
+        "Aqua Tail",
+        "Dark Pulse",
+        "Ice Ball",
+        "Ice Beam",
+        "Icy Wind",
+        "Poison Jab",
+        "Rest",
+        "Shadow Ball",
+        "Sludge Bomb",
+        "Spikes",
+        "Swift",
+        "Water Pulse"
+      ]
     }
   },
   {
@@ -3541,8 +3940,55 @@
     "id": 215,
     "name": "sneasel",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "6",
+          "name": "Ice Shard"
+        },
+        {
+          "lvl": "11",
+          "name": "Swift"
+        },
+        {
+          "lvl": "18",
+          "name": "Slash"
+        },
+        {
+          "lvl": "25",
+          "name": "Poison Jab"
+        },
+        {
+          "lvl": "34",
+          "name": "Swords Dance"
+        },
+        {
+          "lvl": "43",
+          "name": "Blizzard"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Calm Mind",
+        "Dark Pulse",
+        "False Swipe",
+        "Ice Beam",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Poison Jab",
+        "Psycho Cut",
+        "Rest",
+        "Rock Smash",
+        "Shadow Ball",
+        "Shadow Claw",
+        "Snarl",
+        "Swift",
+        "X-Scissor"
+      ]
     }
   },
   {
@@ -6463,8 +6909,45 @@
     "id": 413,
     "name": "wormadam",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Struggle Bug"
+        },
+        {
+          "lvl": "6",
+          "name": "Gust"
+        },
+        {
+          "lvl": "11",
+          "name": "Confusion"
+        },
+        {
+          "lvl": "18",
+          "name": "Silver Wind"
+        },
+        {
+          "lvl": "25",
+          "name": "Energy Ball"
+        },
+        {
+          "lvl": "34",
+          "name": "Psychic"
+        },
+        {
+          "lvl": "43",
+          "name": "Bug Buzz"
+        }
+      ],
+      "tutor": [
+        "Energy Ball",
+        "Giga Impact",
+        "Hyper Beam",
+        "Magical Leaf",
+        "Psychic",
+        "Rest",
+        "Shadow Ball"
+      ]
     }
   },
   {
@@ -11061,8 +11544,67 @@
     "id": 503,
     "name": "samurott",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "?",
+          "name": "Night Slash"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "6",
+          "name": "Aqua Jet"
+        },
+        {
+          "lvl": "11",
+          "name": "Swords Dance"
+        },
+        {
+          "lvl": "18",
+          "name": "Water Pulse"
+        },
+        {
+          "lvl": "21",
+          "name": "Ceaseless Edge"
+        },
+        {
+          "lvl": "25",
+          "name": "Slash"
+        },
+        {
+          "lvl": "34",
+          "name": "Aqua Tail"
+        },
+        {
+          "lvl": "40",
+          "name": "Dark Pulse"
+        },
+        {
+          "lvl": "43",
+          "name": "Hydro Pump"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Aqua Tail",
+        "Dark Pulse",
+        "False Swipe",
+        "Focus Energy",
+        "Giga Impact",
+        "Hyper Beam",
+        "Ice Beam",
+        "Icy Wind",
+        "Iron Tail",
+        "Megahorn",
+        "Poison Jab",
+        "Psycho Cut",
+        "Rest",
+        "Rock Smash",
+        "Water Pulse",
+        "X-Scissor"
+      ]
     }
   },
   {
@@ -11115,32 +11657,229 @@
     "id": 549,
     "name": "lilligant",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "?",
+          "name": "Rock Smash"
+        },
+        {
+          "lvl": "1",
+          "name": "Absorb"
+        },
+        {
+          "lvl": "5",
+          "name": "Leafage"
+        },
+        {
+          "lvl": "9",
+          "name": "Stun Spore"
+        },
+        {
+          "lvl": "15",
+          "name": "Poison Powder"
+        },
+        {
+          "lvl": "21",
+          "name": "Energy Ball"
+        },
+        {
+          "lvl": "29",
+          "name": "Sleep Powder"
+        },
+        {
+          "lvl": "34",
+          "name": "Drain Punch"
+        },
+        {
+          "lvl": "37",
+          "name": "Leaf Blade"
+        },
+        {
+          "lvl": "37",
+          "name": "Recover"
+        },
+        {
+          "lvl": "42",
+          "name": "Victory Dance"
+        },
+        {
+          "lvl": "47",
+          "name": "Leaf Storm"
+        },
+        {
+          "lvl": "53",
+          "name": "Petal Dance"
+        },
+        {
+          "lvl": "57",
+          "name": "Close Combat"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Baby-Doll Eyes",
+        "Drain Punch",
+        "Energy Ball",
+        "Focus Energy",
+        "Giga Impact",
+        "Hyper Beam",
+        "Magical Leaf",
+        "Poison Jab",
+        "Rest",
+        "Rock Smash"
+      ]
     }
   },
   {
     "id": 550,
     "name": "basculin",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "6",
+          "name": "Aqua Jet"
+        },
+        {
+          "lvl": "11",
+          "name": "Bite"
+        },
+        {
+          "lvl": "18",
+          "name": "Zen Headbutt"
+        },
+        {
+          "lvl": "25",
+          "name": "Crunch"
+        },
+        {
+          "lvl": "34",
+          "name": "Wave Crash"
+        },
+        {
+          "lvl": "43",
+          "name": "Double-Edge"
+        }
+      ],
+      "tutor": [
+        "Aqua Tail",
+        "Ice Beam",
+        "Ice Fang",
+        "Icy Wind",
+        "Rest",
+        "Swift",
+        "Zen Headbutt"
+      ]
     }
   },
   {
     "id": 570,
     "name": "zorua",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Shadow Sneak"
+        },
+        {
+          "lvl": "6",
+          "name": "Snarl"
+        },
+        {
+          "lvl": "11",
+          "name": "Swift"
+        },
+        {
+          "lvl": "18",
+          "name": "Bitter Malice"
+        },
+        {
+          "lvl": "25",
+          "name": "Slash"
+        },
+        {
+          "lvl": "34",
+          "name": "Shadow Claw"
+        },
+        {
+          "lvl": "43",
+          "name": "Nasty Plot"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Calm Mind",
+        "Dark Pulse",
+        "Rest",
+        "Shadow Ball",
+        "Shadow Claw",
+        "Sludge Bomb",
+        "Snarl",
+        "Swift"
+      ]
     }
   },
   {
     "id": 571,
     "name": "zoroark",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Shadow Sneak"
+        },
+        {
+          "lvl": "6",
+          "name": "Snarl"
+        },
+        {
+          "lvl": "11",
+          "name": "Swift"
+        },
+        {
+          "lvl": "18",
+          "name": "Bitter Malice"
+        },
+        {
+          "lvl": "25",
+          "name": "Slash"
+        },
+        {
+          "lvl": "34",
+          "name": "Shadow Claw"
+        },
+        {
+          "lvl": "40",
+          "name": "Shadow Ball"
+        },
+        {
+          "lvl": "43",
+          "name": "Nasty Plot"
+        },
+        {
+          "lvl": "52",
+          "name": "Extrasensory"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Calm Mind",
+        "Dark Pulse",
+        "Flamethrower",
+        "Giga Impact",
+        "Hyper Beam",
+        "Ominous Wind",
+        "Rest",
+        "Rock Smash",
+        "Shadow Ball",
+        "Shadow Claw",
+        "Sludge Bomb",
+        "Snarl",
+        "Swift"
+      ]
     }
   },
   {
@@ -11198,8 +11937,65 @@
     "id": 628,
     "name": "braviary",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Quick Attack"
+        },
+        {
+          "lvl": "6",
+          "name": "Aerial Ace"
+        },
+        {
+          "lvl": "11",
+          "name": "Twister"
+        },
+        {
+          "lvl": "18",
+          "name": "Slash"
+        },
+        {
+          "lvl": "20",
+          "name": "Air Slash"
+        },
+        {
+          "lvl": "25",
+          "name": "Esper Wing"
+        },
+        {
+          "lvl": "25",
+          "name": "Roost"
+        },
+        {
+          "lvl": "34",
+          "name": "Double-Edge"
+        },
+        {
+          "lvl": "43",
+          "name": "Brave Bird"
+        },
+        {
+          "lvl": "52",
+          "name": "Hurricane"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Bulk Up",
+        "Dazzling Gleam",
+        "Giga Impact",
+        "Hyper Beam",
+        "Mystical Fire",
+        "Ominous Wind",
+        "Power Shift",
+        "Psychic",
+        "Rest",
+        "Rock Slide",
+        "Rock Smash",
+        "Shadow Claw",
+        "Swift",
+        "Zen Headbutt"
+      ]
     }
   },
   {
@@ -11491,16 +12287,113 @@
     "id": 705,
     "name": "sliggoo",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Bubble"
+        },
+        {
+          "lvl": "6",
+          "name": "Acid Spray"
+        },
+        {
+          "lvl": "11",
+          "name": "Acid Armor"
+        },
+        {
+          "lvl": "18",
+          "name": "Water Pulse"
+        },
+        {
+          "lvl": "25",
+          "name": "Dragon Pulse"
+        },
+        {
+          "lvl": "25",
+          "name": "Iron Head"
+        },
+        {
+          "lvl": "34",
+          "name": "Shelter"
+        },
+        {
+          "lvl": "43",
+          "name": "Hydro Pump"
+        }
+      ],
+      "tutor": [
+        "Draco Meteor",
+        "Ice Beam",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Rest",
+        "Rock Slide",
+        "Sludge Bomb",
+        "Steel Beam",
+        "Thunderbolt",
+        "Water Pulse"
+      ]
     }
   },
   {
     "id": 706,
     "name": "goodra",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "1",
+          "name": "Bubble"
+        },
+        {
+          "lvl": "6",
+          "name": "Acid Spray"
+        },
+        {
+          "lvl": "11",
+          "name": "Acid Armor"
+        },
+        {
+          "lvl": "18",
+          "name": "Water Pulse"
+        },
+        {
+          "lvl": "25",
+          "name": "Dragon Pulse"
+        },
+        {
+          "lvl": "25",
+          "name": "Iron Head"
+        },
+        {
+          "lvl": "34",
+          "name": "Shelter"
+        },
+        {
+          "lvl": "43",
+          "name": "Hydro Pump"
+        }
+      ],
+      "tutor": [
+        "Bulldoze",
+        "Draco Meteor",
+        "Fire Punch",
+        "Flamethrower",
+        "Giga Impact",
+        "Hyper Beam",
+        "Ice Beam",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Rest",
+        "Rock Slide",
+        "Rock Smash",
+        "Sludge Bomb",
+        "Steel Beam",
+        "Thunder Punch",
+        "Thunderbolt",
+        "Water Pulse"
+      ]
     }
   },
   {
@@ -11559,8 +12452,72 @@
     "id": 713,
     "name": "avalugg",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "?",
+          "name": "Rock Slide"
+        },
+        {
+          "lvl": "1",
+          "name": "Tackle"
+        },
+        {
+          "lvl": "5",
+          "name": "Powder Snow"
+        },
+        {
+          "lvl": "9",
+          "name": "Ice Shard"
+        },
+        {
+          "lvl": "15",
+          "name": "Bite"
+        },
+        {
+          "lvl": "21",
+          "name": "Iron Defense"
+        },
+        {
+          "lvl": "29",
+          "name": "Crunch"
+        },
+        {
+          "lvl": "29",
+          "name": "Earth Power"
+        },
+        {
+          "lvl": "37",
+          "name": "Blizzard"
+        },
+        {
+          "lvl": "37",
+          "name": "Mountain Gale"
+        },
+        {
+          "lvl": "47",
+          "name": "Double-Edge"
+        }
+      ],
+      "tutor": [
+        "Bulldoze",
+        "Earth Power",
+        "Flash Cannon",
+        "Giga Impact",
+        "High Horsepower",
+        "Hyper Beam",
+        "Ice Ball",
+        "Ice Beam",
+        "Ice Fang",
+        "Icy Wind",
+        "Iron Head",
+        "Power Shift",
+        "Rest",
+        "Rock Slide",
+        "Rock Smash",
+        "Stealth Rock",
+        "Stone Edge",
+        "Water Pulse"
+      ]
     }
   },
   {
@@ -11666,8 +12623,72 @@
     "id": 724,
     "name": "decidueye",
     "legends-arceus": {
-      "level-up": [],
-      "tutor": []
+      "level-up": [
+        {
+          "lvl": "?",
+          "name": "Rock Smash"
+        },
+        {
+          "lvl": "1",
+          "name": "Gust"
+        },
+        {
+          "lvl": "6",
+          "name": "Leafage"
+        },
+        {
+          "lvl": "11",
+          "name": "Roost"
+        },
+        {
+          "lvl": "18",
+          "name": "Aerial Ace"
+        },
+        {
+          "lvl": "21",
+          "name": "Magical Leaf"
+        },
+        {
+          "lvl": "25",
+          "name": "Air Slash"
+        },
+        {
+          "lvl": "30",
+          "name": "Aura Sphere"
+        },
+        {
+          "lvl": "34",
+          "name": "Leaf Blade"
+        },
+        {
+          "lvl": "34",
+          "name": "Triple Arrows"
+        },
+        {
+          "lvl": "40",
+          "name": "Brave Bird"
+        },
+        {
+          "lvl": "43",
+          "name": "Leaf Storm"
+        }
+      ],
+      "tutor": [
+        "Aerial Ace",
+        "Bulk Up",
+        "Energy Ball",
+        "False Swipe",
+        "Focus Energy",
+        "Giga Impact",
+        "Hyper Beam",
+        "Magical Leaf",
+        "Psycho Cut",
+        "Rest",
+        "Rock Smash",
+        "Shadow Claw",
+        "Spikes",
+        "Swift"
+      ]
     }
   },
   {
