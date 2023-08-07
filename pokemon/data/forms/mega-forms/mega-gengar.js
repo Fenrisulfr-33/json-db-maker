@@ -1,4 +1,4 @@
-const gengarMega = {
+const megaGengar = {
   _id: 94.1,
   name: {
     english: "Mega Gengar",
@@ -85,3 +85,7 @@ const gengarMega = {
     "ultra-sun-ultra-moon"
   ],
 };
+
+module.exports = {
+  megaGengar
+}

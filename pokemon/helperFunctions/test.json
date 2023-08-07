@@ -1,0 +1,1157 @@
+[
+  {
+    "_id": 94.1,
+    "name": {
+      "english": "Mega Gengar"
+    },
+    "pokedexNumber": {},
+    "type": {
+      "one": "Ghost",
+      "two": "Poison"
+    },
+    "abilities": {
+      "one": "Shadow Tag",
+      "two": "",
+      "hidden": ""
+    },
+    "baseStats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 80,
+      "spatk": 170,
+      "spdef": 95,
+      "spd": 130,
+      "total": 600
+    },
+    "info": {
+      "height": "1.4 m (4′07″)",
+      "weight": "40.5 kg (89.3 lbs)"
+    },
+    "gender": {
+      "male": "50%",
+      "female": "50%",
+      "genderless": false
+    },
+    "evolution": 39,
+    "generation": 6,
+    "evs": {
+      "spatk": 3
+    },
+    "eggGroups": {
+      "0": "Amorphous"
+    },
+    "species": "Shadow Pokémon",
+    "catchRate": 45,
+    "baseFriendship": 50,
+    "baseExp": 225,
+    "growthRate": "Medium Slow",
+    "eggCycles": 20,
+    "nameOrigin": {
+      "doppelgänger": "a person’s exact double or ‘shadow’"
+    },
+    "gameDropDown": [
+      {
+        "game": "Ultra Sun & Ultra Moon",
+        "query": "ultra-sun-ultra-moon"
+      },
+      {
+        "game": "Sun & Moon",
+        "query": "sun-moon"
+      },
+      {
+        "game": "Omega Ruby & Alpha Sapphire",
+        "query": "omega-ruby-alpha-sapphire"
+      },
+      {
+        "game": "X & Y",
+        "query": "x-y"
+      }
+    ],
+    "pokedexEntries": {
+      "Mega Gengar": {
+        "x": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+        "y": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+        "sun": "Gengar’s relationships are warped. It has no interest in opponents unless it perceives them as prey.",
+        "mo": "The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.",
+        "us": "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
+        "um": "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.",
+        "lgplge": "It can pass through other dimensions and can appear anywhere. It caused a stir one time when it stuck just one leg out of a wall."
+      }
+    },
+    "moves": {
+      "x-y": {
+        "level-up": [
+          {
+            "name": "Hypnosis",
+            "lvl": 1
+          },
+          {
+            "name": "Lick",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 5
+          },
+          {
+            "name": "Mean Look",
+            "lvl": 8
+          },
+          {
+            "name": "Curse",
+            "lvl": 12
+          },
+          {
+            "name": "Night Shade",
+            "lvl": 15
+          },
+          {
+            "name": "Confuse Ray",
+            "lvl": 19
+          },
+          {
+            "name": "Sucker Punch",
+            "lvl": 22
+          },
+          {
+            "name": "Shadow Punch",
+            "lvl": 25
+          },
+          {
+            "name": "Payback",
+            "lvl": 28
+          },
+          {
+            "name": "Shadow Ball",
+            "lvl": 33
+          },
+          {
+            "name": "Dream Eater",
+            "lvl": 39
+          },
+          {
+            "name": "Dark Pulse",
+            "lvl": 44
+          },
+          {
+            "name": "Destiny Bond",
+            "lvl": 50
+          },
+          {
+            "name": "Hex",
+            "lvl": 55
+          },
+          {
+            "name": "Nightmare",
+            "lvl": 61
+          }
+        ],
+        "technical-machine": [
+          {
+            "tm": 15,
+            "name": "Hyper Beam"
+          },
+          {
+            "tm": 24,
+            "name": "Thunderbolt"
+          },
+          {
+            "tm": 25,
+            "name": "Thunder"
+          },
+          {
+            "tm": 6,
+            "name": "Toxic"
+          },
+          {
+            "tm": 29,
+            "name": "Psychic"
+          },
+          {
+            "tm": 32,
+            "name": "Double Team"
+          },
+          {
+            "tm": 85,
+            "name": "Dream Eater"
+          },
+          {
+            "tm": 64,
+            "name": "Explosion"
+          },
+          {
+            "tm": 44,
+            "name": "Rest"
+          },
+          {
+            "tm": 90,
+            "name": "Substitute"
+          },
+          {
+            "tm": 46,
+            "name": "Thief"
+          },
+          {
+            "tm": 17,
+            "name": "Protect"
+          },
+          {
+            "tm": 36,
+            "name": "Sludge Bomb"
+          },
+          {
+            "tm": 87,
+            "name": "Swagger"
+          },
+          {
+            "tm": 45,
+            "name": "Attract"
+          },
+          {
+            "tm": 88,
+            "name": "Sleep Talk"
+          },
+          {
+            "tm": 27,
+            "name": "Return"
+          },
+          {
+            "tm": 21,
+            "name": "Frustration"
+          },
+          {
+            "tm": 10,
+            "name": "Hidden Power"
+          },
+          {
+            "tm": 18,
+            "name": "Rain Dance"
+          },
+          {
+            "tm": 11,
+            "name": "Sunny Day"
+          },
+          {
+            "tm": 77,
+            "name": "Psych Up"
+          },
+          {
+            "tm": 30,
+            "name": "Shadow Ball"
+          },
+          {
+            "tm": 94,
+            "name": "Rock Smash"
+          },
+          {
+            "tm": 41,
+            "name": "Torment"
+          },
+          {
+            "tm": 61,
+            "name": "Will-O-Wisp"
+          },
+          {
+            "tm": 42,
+            "name": "Facade"
+          },
+          {
+            "tm": 12,
+            "name": "Taunt"
+          },
+          {
+            "tm": 31,
+            "name": "Brick Break"
+          },
+          {
+            "tm": 66,
+            "name": "Payback"
+          },
+          {
+            "tm": 63,
+            "name": "Embargo"
+          },
+          {
+            "tm": 56,
+            "name": "Fling"
+          },
+          {
+            "tm": 84,
+            "name": "Poison Jab"
+          },
+          {
+            "tm": 97,
+            "name": "Dark Pulse"
+          },
+          {
+            "tm": 52,
+            "name": "Focus Blast"
+          },
+          {
+            "tm": 53,
+            "name": "Energy Ball"
+          },
+          {
+            "tm": 68,
+            "name": "Giga Impact"
+          },
+          {
+            "tm": 65,
+            "name": "Shadow Claw"
+          },
+          {
+            "tm": 92,
+            "name": "Trick Room"
+          },
+          {
+            "tm": 9,
+            "name": "Venoshock"
+          },
+          {
+            "tm": 48,
+            "name": "Round"
+          },
+          {
+            "tm": 100,
+            "name": "Confide"
+          },
+          {
+            "tm": 99,
+            "name": "Dazzling Gleam"
+          },
+          {
+            "tm": 83,
+            "name": "Infestation"
+          },
+          {
+            "tm": 98,
+            "name": "Power-Up Punch"
+          }
+        ],
+        "hidden-machine": [
+          {
+            "hm": 4,
+            "name": "Strength"
+          }
+        ]
+      },
+      "omega-ruby-alpha-sapphire": {
+        "tutor": [
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Snore",
+          "Spite",
+          "Icy Wind",
+          "Giga Drain",
+          "Pain Split",
+          "Uproar",
+          "Focus Punch",
+          "Trick",
+          "Role Play",
+          "Knock Off",
+          "Skill Swap",
+          "Snatch",
+          "Drain Punch",
+          "Wonder Room",
+          "Foul Play"
+        ],
+        "level-up": [
+          {
+            "name": "Hypnosis",
+            "lvl": 1
+          },
+          {
+            "name": "Lick",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 5
+          },
+          {
+            "name": "Mean Look",
+            "lvl": 8
+          },
+          {
+            "name": "Curse",
+            "lvl": 12
+          },
+          {
+            "name": "Night Shade",
+            "lvl": 15
+          },
+          {
+            "name": "Confuse Ray",
+            "lvl": 19
+          },
+          {
+            "name": "Sucker Punch",
+            "lvl": 22
+          },
+          {
+            "name": "Shadow Punch",
+            "lvl": 25
+          },
+          {
+            "name": "Payback",
+            "lvl": 28
+          },
+          {
+            "name": "Shadow Ball",
+            "lvl": 33
+          },
+          {
+            "name": "Dream Eater",
+            "lvl": 39
+          },
+          {
+            "name": "Dark Pulse",
+            "lvl": 44
+          },
+          {
+            "name": "Destiny Bond",
+            "lvl": 50
+          },
+          {
+            "name": "Hex",
+            "lvl": 55
+          },
+          {
+            "name": "Nightmare",
+            "lvl": 61
+          }
+        ],
+        "technical-machine": [
+          {
+            "tm": 15,
+            "name": "Hyper Beam"
+          },
+          {
+            "tm": 24,
+            "name": "Thunderbolt"
+          },
+          {
+            "tm": 25,
+            "name": "Thunder"
+          },
+          {
+            "tm": 6,
+            "name": "Toxic"
+          },
+          {
+            "tm": 29,
+            "name": "Psychic"
+          },
+          {
+            "tm": 32,
+            "name": "Double Team"
+          },
+          {
+            "tm": 85,
+            "name": "Dream Eater"
+          },
+          {
+            "tm": 64,
+            "name": "Explosion"
+          },
+          {
+            "tm": 44,
+            "name": "Rest"
+          },
+          {
+            "tm": 90,
+            "name": "Substitute"
+          },
+          {
+            "tm": 46,
+            "name": "Thief"
+          },
+          {
+            "tm": 17,
+            "name": "Protect"
+          },
+          {
+            "tm": 36,
+            "name": "Sludge Bomb"
+          },
+          {
+            "tm": 87,
+            "name": "Swagger"
+          },
+          {
+            "tm": 45,
+            "name": "Attract"
+          },
+          {
+            "tm": 88,
+            "name": "Sleep Talk"
+          },
+          {
+            "tm": 27,
+            "name": "Return"
+          },
+          {
+            "tm": 21,
+            "name": "Frustration"
+          },
+          {
+            "tm": 10,
+            "name": "Hidden Power"
+          },
+          {
+            "tm": 18,
+            "name": "Rain Dance"
+          },
+          {
+            "tm": 11,
+            "name": "Sunny Day"
+          },
+          {
+            "tm": 77,
+            "name": "Psych Up"
+          },
+          {
+            "tm": 30,
+            "name": "Shadow Ball"
+          },
+          {
+            "tm": 41,
+            "name": "Torment"
+          },
+          {
+            "tm": 61,
+            "name": "Will-O-Wisp"
+          },
+          {
+            "tm": 42,
+            "name": "Facade"
+          },
+          {
+            "tm": 12,
+            "name": "Taunt"
+          },
+          {
+            "tm": 31,
+            "name": "Brick Break"
+          },
+          {
+            "tm": 94,
+            "name": "Secret Power"
+          },
+          {
+            "tm": 66,
+            "name": "Payback"
+          },
+          {
+            "tm": 63,
+            "name": "Embargo"
+          },
+          {
+            "tm": 56,
+            "name": "Fling"
+          },
+          {
+            "tm": 84,
+            "name": "Poison Jab"
+          },
+          {
+            "tm": 97,
+            "name": "Dark Pulse"
+          },
+          {
+            "tm": 52,
+            "name": "Focus Blast"
+          },
+          {
+            "tm": 53,
+            "name": "Energy Ball"
+          },
+          {
+            "tm": 68,
+            "name": "Giga Impact"
+          },
+          {
+            "tm": 65,
+            "name": "Shadow Claw"
+          },
+          {
+            "tm": 92,
+            "name": "Trick Room"
+          },
+          {
+            "tm": 9,
+            "name": "Venoshock"
+          },
+          {
+            "tm": 48,
+            "name": "Round"
+          },
+          {
+            "tm": 100,
+            "name": "Confide"
+          },
+          {
+            "tm": 99,
+            "name": "Dazzling Gleam"
+          },
+          {
+            "tm": 83,
+            "name": "Infestation"
+          },
+          {
+            "tm": 98,
+            "name": "Power-Up Punch"
+          }
+        ],
+        "hidden-machine": [
+          {
+            "hm": 4,
+            "name": "Strength"
+          },
+          {
+            "hm": 6,
+            "name": "Rock Smash"
+          }
+        ]
+      },
+      "sun-moon": {
+        "level-up": [
+          {
+            "name": "Hypnosis",
+            "lvl": 1
+          },
+          {
+            "name": "Lick",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 1
+          },
+          {
+            "name": "Shadow Punch",
+            "lvl": 1
+          },
+          {
+            "name": "Shadow Punch",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 5
+          },
+          {
+            "name": "Mean Look",
+            "lvl": 8
+          },
+          {
+            "name": "Curse",
+            "lvl": 12
+          },
+          {
+            "name": "Night Shade",
+            "lvl": 15
+          },
+          {
+            "name": "Confuse Ray",
+            "lvl": 19
+          },
+          {
+            "name": "Sucker Punch",
+            "lvl": 22
+          },
+          {
+            "name": "Payback",
+            "lvl": 28
+          },
+          {
+            "name": "Shadow Ball",
+            "lvl": 33
+          },
+          {
+            "name": "Dream Eater",
+            "lvl": 39
+          },
+          {
+            "name": "Dark Pulse",
+            "lvl": 44
+          },
+          {
+            "name": "Destiny Bond",
+            "lvl": 50
+          },
+          {
+            "name": "Hex",
+            "lvl": 55
+          },
+          {
+            "name": "Nightmare",
+            "lvl": 61
+          }
+        ],
+        "evolution": [
+          "Shadow Punch"
+        ],
+        "technical-machine": [
+          {
+            "tm": 15,
+            "name": "Hyper Beam"
+          },
+          {
+            "tm": 24,
+            "name": "Thunderbolt"
+          },
+          {
+            "tm": 25,
+            "name": "Thunder"
+          },
+          {
+            "tm": 6,
+            "name": "Toxic"
+          },
+          {
+            "tm": 29,
+            "name": "Psychic"
+          },
+          {
+            "tm": 32,
+            "name": "Double Team"
+          },
+          {
+            "tm": 85,
+            "name": "Dream Eater"
+          },
+          {
+            "tm": 64,
+            "name": "Explosion"
+          },
+          {
+            "tm": 44,
+            "name": "Rest"
+          },
+          {
+            "tm": 90,
+            "name": "Substitute"
+          },
+          {
+            "tm": 46,
+            "name": "Thief"
+          },
+          {
+            "tm": 17,
+            "name": "Protect"
+          },
+          {
+            "tm": 36,
+            "name": "Sludge Bomb"
+          },
+          {
+            "tm": 87,
+            "name": "Swagger"
+          },
+          {
+            "tm": 45,
+            "name": "Attract"
+          },
+          {
+            "tm": 88,
+            "name": "Sleep Talk"
+          },
+          {
+            "tm": 27,
+            "name": "Return"
+          },
+          {
+            "tm": 21,
+            "name": "Frustration"
+          },
+          {
+            "tm": 10,
+            "name": "Hidden Power"
+          },
+          {
+            "tm": 18,
+            "name": "Rain Dance"
+          },
+          {
+            "tm": 11,
+            "name": "Sunny Day"
+          },
+          {
+            "tm": 77,
+            "name": "Psych Up"
+          },
+          {
+            "tm": 30,
+            "name": "Shadow Ball"
+          },
+          {
+            "tm": 41,
+            "name": "Torment"
+          },
+          {
+            "tm": 61,
+            "name": "Will-O-Wisp"
+          },
+          {
+            "tm": 42,
+            "name": "Facade"
+          },
+          {
+            "tm": 12,
+            "name": "Taunt"
+          },
+          {
+            "tm": 31,
+            "name": "Brick Break"
+          },
+          {
+            "tm": 66,
+            "name": "Payback"
+          },
+          {
+            "tm": 63,
+            "name": "Embargo"
+          },
+          {
+            "tm": 56,
+            "name": "Fling"
+          },
+          {
+            "tm": 84,
+            "name": "Poison Jab"
+          },
+          {
+            "tm": 97,
+            "name": "Dark Pulse"
+          },
+          {
+            "tm": 52,
+            "name": "Focus Blast"
+          },
+          {
+            "tm": 53,
+            "name": "Energy Ball"
+          },
+          {
+            "tm": 68,
+            "name": "Giga Impact"
+          },
+          {
+            "tm": 65,
+            "name": "Shadow Claw"
+          },
+          {
+            "tm": 92,
+            "name": "Trick Room"
+          },
+          {
+            "tm": 9,
+            "name": "Venoshock"
+          },
+          {
+            "tm": 48,
+            "name": "Round"
+          },
+          {
+            "tm": 100,
+            "name": "Confide"
+          },
+          {
+            "tm": 99,
+            "name": "Dazzling Gleam"
+          },
+          {
+            "tm": 83,
+            "name": "Infestation"
+          }
+        ]
+      },
+      "ultra-sun-ultra-moon": {
+        "tutor": [
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Snore",
+          "Spite",
+          "Icy Wind",
+          "Giga Drain",
+          "Pain Split",
+          "Uproar",
+          "Focus Punch",
+          "Trick",
+          "Role Play",
+          "Knock Off",
+          "Skill Swap",
+          "Snatch",
+          "Drain Punch",
+          "Wonder Room",
+          "Telekinesis",
+          "Foul Play",
+          "Ally Switch",
+          "Laser Focus"
+        ],
+        "level-up": [
+          {
+            "name": "Hypnosis",
+            "lvl": 1
+          },
+          {
+            "name": "Lick",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 1
+          },
+          {
+            "name": "Shadow Punch",
+            "lvl": 1
+          },
+          {
+            "name": "Shadow Punch",
+            "lvl": 1
+          },
+          {
+            "name": "Spite",
+            "lvl": 5
+          },
+          {
+            "name": "Mean Look",
+            "lvl": 8
+          },
+          {
+            "name": "Curse",
+            "lvl": 12
+          },
+          {
+            "name": "Night Shade",
+            "lvl": 15
+          },
+          {
+            "name": "Confuse Ray",
+            "lvl": 19
+          },
+          {
+            "name": "Sucker Punch",
+            "lvl": 22
+          },
+          {
+            "name": "Payback",
+            "lvl": 28
+          },
+          {
+            "name": "Shadow Ball",
+            "lvl": 33
+          },
+          {
+            "name": "Dream Eater",
+            "lvl": 39
+          },
+          {
+            "name": "Dark Pulse",
+            "lvl": 44
+          },
+          {
+            "name": "Destiny Bond",
+            "lvl": 50
+          },
+          {
+            "name": "Hex",
+            "lvl": 55
+          },
+          {
+            "name": "Nightmare",
+            "lvl": 61
+          }
+        ],
+        "evolution": [
+          "Shadow Punch"
+        ],
+        "technical-machine": [
+          {
+            "tm": 15,
+            "name": "Hyper Beam"
+          },
+          {
+            "tm": 24,
+            "name": "Thunderbolt"
+          },
+          {
+            "tm": 25,
+            "name": "Thunder"
+          },
+          {
+            "tm": 6,
+            "name": "Toxic"
+          },
+          {
+            "tm": 29,
+            "name": "Psychic"
+          },
+          {
+            "tm": 32,
+            "name": "Double Team"
+          },
+          {
+            "tm": 85,
+            "name": "Dream Eater"
+          },
+          {
+            "tm": 64,
+            "name": "Explosion"
+          },
+          {
+            "tm": 44,
+            "name": "Rest"
+          },
+          {
+            "tm": 90,
+            "name": "Substitute"
+          },
+          {
+            "tm": 46,
+            "name": "Thief"
+          },
+          {
+            "tm": 17,
+            "name": "Protect"
+          },
+          {
+            "tm": 36,
+            "name": "Sludge Bomb"
+          },
+          {
+            "tm": 87,
+            "name": "Swagger"
+          },
+          {
+            "tm": 45,
+            "name": "Attract"
+          },
+          {
+            "tm": 88,
+            "name": "Sleep Talk"
+          },
+          {
+            "tm": 27,
+            "name": "Return"
+          },
+          {
+            "tm": 21,
+            "name": "Frustration"
+          },
+          {
+            "tm": 10,
+            "name": "Hidden Power"
+          },
+          {
+            "tm": 18,
+            "name": "Rain Dance"
+          },
+          {
+            "tm": 11,
+            "name": "Sunny Day"
+          },
+          {
+            "tm": 77,
+            "name": "Psych Up"
+          },
+          {
+            "tm": 30,
+            "name": "Shadow Ball"
+          },
+          {
+            "tm": 41,
+            "name": "Torment"
+          },
+          {
+            "tm": 61,
+            "name": "Will-O-Wisp"
+          },
+          {
+            "tm": 42,
+            "name": "Facade"
+          },
+          {
+            "tm": 12,
+            "name": "Taunt"
+          },
+          {
+            "tm": 31,
+            "name": "Brick Break"
+          },
+          {
+            "tm": 66,
+            "name": "Payback"
+          },
+          {
+            "tm": 63,
+            "name": "Embargo"
+          },
+          {
+            "tm": 56,
+            "name": "Fling"
+          },
+          {
+            "tm": 84,
+            "name": "Poison Jab"
+          },
+          {
+            "tm": 97,
+            "name": "Dark Pulse"
+          },
+          {
+            "tm": 52,
+            "name": "Focus Blast"
+          },
+          {
+            "tm": 53,
+            "name": "Energy Ball"
+          },
+          {
+            "tm": 68,
+            "name": "Giga Impact"
+          },
+          {
+            "tm": 65,
+            "name": "Shadow Claw"
+          },
+          {
+            "tm": 92,
+            "name": "Trick Room"
+          },
+          {
+            "tm": 9,
+            "name": "Venoshock"
+          },
+          {
+            "tm": 48,
+            "name": "Round"
+          },
+          {
+            "tm": 100,
+            "name": "Confide"
+          },
+          {
+            "tm": 99,
+            "name": "Dazzling Gleam"
+          },
+          {
+            "tm": 83,
+            "name": "Infestation"
+          }
+        ]
+      }
+    }
+  }
+]
