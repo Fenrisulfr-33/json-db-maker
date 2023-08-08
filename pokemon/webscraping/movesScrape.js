@@ -307,6 +307,25 @@ const scrapePokemonMoves = async (
                   "transfer-only"
                 );
               }
+            } else if (moveType === "Moves learnt by reminder") {
+              returnMovesObject["reminder"] = [];
+              if (getTabCheck($, element)) {
+                returnMovesObject = getData(
+                  $,
+                  firstTab,
+                  "basic",
+                  returnMovesObject,
+                  "reminder"
+                );
+              } else {
+                returnMovesObject = getData(
+                  $,
+                  moves,
+                  "basic",
+                  returnMovesObject,
+                  "reminder"
+                );
+              }
             } else {
               errors[moveType] = "Move type not found.";
             }
@@ -467,6 +486,19 @@ const getData = ($, list, tableType, returnObj, objKey) => {
   return returnObj;
 };
 
+// Gen 9 ------------------------------------------
+
+scrapePokemonMoves(
+  "#tab-moves-21",
+  "scarlet-violet",
+  "./scarlet-violet-moves.json",
+  9,
+  0,
+  {},
+  [],
+  1008
+);
+
 // Gen 8 ------------------------------------------
 
 // scrapePokemonMoves(
@@ -609,24 +641,24 @@ const getData = ($, list, tableType, returnObj, objKey) => {
 
 // Gen 1 ------------------------------------------
 
-scrapePokemonMoves(
-  "#tab-moves-2",
-  "yellow",
-  "./yellow-moves.json",
-  1,
-  0,
-  {},
-  [],
-  151
-);
+// scrapePokemonMoves(
+//   "#tab-moves-2",
+//   "yellow",
+//   "./yellow-moves.json",
+//   1,
+//   0,
+//   {},
+//   [],
+//   151
+// );
 
-scrapePokemonMoves(
-  "#tab-moves-1",
-  "red-blue",
-  "./red-blue-moves.json",
-  1,
-  0,
-  {},
-  [],
-  151
-);
+// scrapePokemonMoves(
+//   "#tab-moves-1",
+//   "red-blue",
+//   "./red-blue-moves.json",
+//   1,
+//   0,
+//   {},
+//   [],
+//   151
+// );

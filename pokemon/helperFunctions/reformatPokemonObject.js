@@ -19,7 +19,7 @@ function reformatPokemonObject(pokemon){
         growthRate: pokemon.growthRate,
         eggCycles: pokemon.eggCycles,
         nameOrigin: pokemon.nameOrigin,
-        gameDropDown: pokemon.gameDropdown,
+        gameDropDown: pokemon.gameDropDown,
         pokedexEntries: pokemon.pokedexEntries,
         moves: pokemon.moves,
     };

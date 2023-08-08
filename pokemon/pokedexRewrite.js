@@ -4,30 +4,34 @@ const { assignPokedexNumbers } = require('./helperFunctions/assignPokedexNumbers
 const { reformatPokemonObject } = require('./helperFunctions/reformatPokemonObject');
 const { addMovesToPokemon } = require('./helperFunctions/addMovesToPokemon');
 const { reformatPokemonMoves } = require('./helperFunctions/reformatPokemonMoves');
-const { reformatPokemonMachines } = require('./helperFunctions/reformatPokemonMachines');
+const { addGameDropDownToPokemon } = require('./helperFunctions/addGameDropDownToPokemon');
 
-function pokedexRewrite(){
+function pokedexRewrite() {
     pokedex.forEach((pokemon) => {
         delete pokemon.pokedexNumber;
         pokemon.pokedexNumber = assignPokedexNumbers(pokemon._id);
+        delete pokemon.moves;
+        pokemon.moves = {};
         pokemon.moves = addMovesToPokemon(pokemon._id, pokemon.moves);
-        pokemon.moves = reformatPokemonMachines(pokemon.moves);
+        // pokemon.moves = reformatPokemonMachines(pokemon.moves);
         pokemon.moves = reformatPokemonMoves(pokemon.moves);
+        pokemon.gameDropDown = [];
+        pokemon.gameDropDown = addGameDropDownToPokemon(pokemon.moves);
     });
     // Reorders pokemon moves in order of generation.
 
     // Run this every time to keep the objects in a specific order.
     const reformattedPokedex = pokedex.map((pokemon) => {
-      return reformatPokemonObject(pokemon);
+        return reformatPokemonObject(pokemon);
     })
     // Save file
-    
+
     // Create saveData in json format
     const saveData = JSON.stringify(reformattedPokedex, null, 2); // this makes it pretty
     // Write JSON string to a file
     fs.writeFile('./03-pokedex.json', saveData, (error) => {
-      error ? console.error(error) : null;
-      console.log("JSON data is saved.");
+        error ? console.error(error) : null;
+        console.log("JSON data is saved.");
     });
 };
 
