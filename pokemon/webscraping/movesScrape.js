@@ -488,16 +488,16 @@ const getData = ($, list, tableType, returnObj, objKey) => {
 
 // Gen 9 ------------------------------------------
 
-scrapePokemonMoves(
-  "#tab-moves-21",
-  "scarlet-violet",
-  "./scarlet-violet-moves.json",
-  9,
-  0,
-  {},
-  [],
-  1008
-);
+// scrapePokemonMoves(
+//   "#tab-moves-21",
+//   "scarlet-violet",
+//   "./scarlet-violet-moves.json",
+//   9,
+//   0,
+//   {},
+//   [],
+//   1008
+// );
 
 // Gen 8 ------------------------------------------
 
@@ -515,12 +515,16 @@ scrapePokemonMoves(
 //     8
 // );
 
-// scrapePokemonMoves(
-//     "#tab-moves-18",
-//     "sword-shield",
-//     "./sword-shield-moves.json",
-//     8
-// );
+scrapePokemonMoves(
+    "#tab-moves-18",
+    "sword-shield",
+    "./sword-shield-moves.json",
+    8,
+  0,
+  {},
+  [],
+  905
+);
 
 // Gen 7 ------------------------------------------
 
@@ -535,14 +539,22 @@ scrapePokemonMoves(
 //   "#tab-moves-16",
 //   "ultra-sun-ultra-moon",
 //   "./usum-moves.json",
-//   7
+//   7,
+// 0,
+// {},
+// [],
+// 809
 // );
 
 // scrapePokemonMoves(
 //   "#tab-moves-15",
 //   "sun-moon",
 //   "./sun-moon-moves.json",
-//   7
+//   7,
+//   0,
+//   {},
+//   [],
+//   809
 // );
 
 // Gen 6 ------------------------------------------
