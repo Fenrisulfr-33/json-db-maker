@@ -22,6 +22,9 @@ const {
 const {
   addPaldeaAdditionalPokemon,
 } = require("./helperFunctions/addFormsToPokedex");
+const {
+    addFormsTabToPokemon
+} = require('./helperFunctions/addFormsTabToPokemon');
 
 function pokedexRewrite() {
     let returnPokedex = pokedex;
@@ -61,6 +64,14 @@ function pokedexRewrite() {
       pokemon._id,
       errors
     );
+
+    // This creates a formsTab for any pokemon who has additional forms
+    const formsTab = addFormsTabToPokemon(pokemon._id);
+    // If the pokemon is found to have multiple forms
+    if (formsTab) {
+        // Then we want to create the key, instead of having it on every json
+        pokemon.formsTab = formsTab;
+    }
   });
   // Reorders pokemon moves in order of generation.
   console.log("errors", errors);
@@ -73,7 +84,7 @@ function pokedexRewrite() {
   // Create saveData in json format
   const saveData = JSON.stringify(reformattedPokedex, null, 2); // this makes it pretty
   // Write JSON string to a file
-  fs.writeFile("./test.json", saveData, (error) => {
+  fs.writeFile("./test-2.json", saveData, (error) => {
     error ? console.error(error) : null;
     console.log("JSON data is saved.");
   });
