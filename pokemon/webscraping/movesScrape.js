@@ -13,7 +13,8 @@ const scrapePokemonMoves = async (
   pokemonMovesJSON,
   length
 ) => {
-  if (i > length) {
+  // This allows you to enter the last dex number, easier for input.
+  if (i === length + 1) {
     // if (i > 904) {
     console.log("Errors", errors);
     // Create saveData in json format
@@ -488,16 +489,16 @@ const getData = ($, list, tableType, returnObj, objKey) => {
 
 // Gen 9 ------------------------------------------
 
-// scrapePokemonMoves(
-//   "#tab-moves-21",
-//   "scarlet-violet",
-//   "./scarlet-violet-moves.json",
-//   9,
-//   0,
-//   {},
-//   [],
-//   1008
-// );
+scrapePokemonMoves(
+  "#tab-moves-21",
+  "scarlet-violet",
+  "./scarlet-violet-moves.json",
+  9,
+  0,
+  {},
+  [],
+  1010
+);
 
 // Gen 8 ------------------------------------------
 
@@ -515,16 +516,16 @@ const getData = ($, list, tableType, returnObj, objKey) => {
 //     8
 // );
 
-scrapePokemonMoves(
-    "#tab-moves-18",
-    "sword-shield",
-    "./sword-shield-moves.json",
-    8,
-  0,
-  {},
-  [],
-  905
-);
+// scrapePokemonMoves(
+//     "#tab-moves-18",
+//     "sword-shield",
+//     "./sword-shield-moves.json",
+//     8,
+//   0,
+//   {},
+//   [],
+//   905
+// );
 
 // Gen 7 ------------------------------------------
 

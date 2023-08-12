@@ -1,7 +1,7 @@
 /**
  * 02-14-2023 Verfied data is correct - Archer
  */
-const taurosBlazePaldean = {
+const paldeanTaurosBlaze = {
   _id: 128.2,
   name: {
     english: "Tauros",
@@ -13,9 +13,7 @@ const taurosBlazePaldean = {
     german: "Tauros",
     french: "Tauros",
   },
-  pokedexNumber: {
-    scvi: 223,
-  },
+  pokedexNumber: {},
   type: {
     one: "Fighting",
     two: "Fire",
@@ -80,69 +78,6 @@ const taurosBlazePaldean = {
       violet:
         "People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.",
     },
-  },
-  moves: {
-    "level-up": [
-      { name: "Tackle", lvl: 1 },
-      { name: "Tail Whip", lvl: 1 },
-      { name: "Work Up", lvl: 5 },
-      { name: "Payback", lvl: 10 },
-      { name: "Assurance", lvl: 15 },
-      { name: "Horn Attack", lvl: 20 },
-      { name: "Scary Face", lvl: 25 },
-      { name: "Zen Headbutt", lvl: 30 },
-      { name: "Raging Bull", lvl: 35 },
-      { name: "Rest", lvl: 40 },
-      { name: "Swagger", lvl: 45 },
-      { name: "Thrash", lvl: 50 },
-      { name: "Double-Edge", lvl: 55 },
-      { name: "Giga Impact", lvl: 60 },
-    ],
-    egg: ["Curse", "Endeavor"],
-    machine: [
-      "Take Down",
-      "Scary Face",
-      "Protect",
-      "Thief",
-      "Trailblaze",
-      "Facade",
-      "Bulldoze",
-      "Icy Wind",
-      "Rock Tomb",
-      "Endure",
-      "Sunny Day",
-      "Rain Dance",
-      "Sandstorm",
-      "Smart Strike",
-      "Dig",
-      "Zen Headbutt",
-      "Body Slam",
-      "Sleep Talk",
-      "Stomping Tantrum",
-      "Rest",
-      "Rock Slide",
-      "Iron Head",
-      "Substitute",
-      "Shadow Ball",
-      "Surf",
-      "Flamethrower",
-      "Thunderbolt",
-      "Helping Hand",
-      "Reversal",
-      "Ice Beam",
-      "Fire Blast",
-      "Blizzard",
-      "Wild Charge",
-      "Earthquake",
-      "Stone Edge",
-      "Giga Impact",
-      "Outrage",
-      "Hyper Beam",
-      "Thunder",
-      "Close Combat",
-      "Solar Beam",
-      "Tera Blast",
-    ],
-  },
+  }
 };
-module.exports = taurosBlazePaldean;
+module.exports = paldeanTaurosBlaze;
