@@ -1,10 +1,7 @@
-const paldeanFormsArray = require('../data/forms/paldeanForms/paldeanFormsArray');
+const { paldeanFormsArray } = require('../data/forms/paldeanForms/paldeanFormsArray');
 
 function addPaldeaAdditionalPokemon(originalPokedex){
-    console.log(paldeanFormsArray);
-    const returnPokedex = originalPokedex.concat(paldeanFormsArray);
-    // console.log(returnPokedex.slice(1007));
-    return returnPokedex;
+    return originalPokedex.concat(paldeanFormsArray);
 }
 
 module.exports = {

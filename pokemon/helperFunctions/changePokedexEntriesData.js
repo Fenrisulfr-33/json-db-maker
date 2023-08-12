@@ -55,7 +55,7 @@ const games = [
 ]
 
 function changePokedexEntriesData(pokedexEntries, pokemonId, errors) {
-    console.log(pokemonId);
+    // console.log(pokemonId);
     const returnEntries = {};
     for (const [form, values] of Object.entries(pokedexEntries)) {
         const formWords = form.split(" ");

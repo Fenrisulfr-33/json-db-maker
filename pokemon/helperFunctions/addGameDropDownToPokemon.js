@@ -1,5 +1,3 @@
-const pokedex = require('../03-pokedex.json')
-
 const games = [
     { key: 'scarlet-violet', title: 'Scarlet & Violet' },
     { key: 'legends-arceus', title: 'Legends Arceus' },
@@ -30,7 +28,7 @@ function addGameDropDownToPokemon(pokemonMoves) {
         if (pokemonMoves.hasOwnProperty(game.key)){
             return {
                 field: game.title,
-                game: game.key,
+                key: game.key,
             }
         }
     });
