@@ -401,6 +401,20 @@ const scarletVioletDex = [
     1008,
 ];
 
+const otherAvailablePokemon = [
+    4,
+    5,
+    6,
+    // All the cap pikachus
+    26.1, // alolan raichu
+    50.1,
+    51.1,
+    52.1, // Alolan Meowth
+    52.2, // Galarian Meowth
+    53.1, // ALolan Meowth
+    
+]
+
 module.exports = {
     scarletVioletDex
 }
