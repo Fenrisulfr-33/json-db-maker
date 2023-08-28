@@ -66,12 +66,18 @@ const paldeanWooper = {
     "Wooper Looper": "Japanese name for a pet salamander/axolotl",
   },
   pokedexEntries: {
-    "Paldean Wooper": {
-      scarlet:
-        "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
-      violet:
-        "It’s dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands.",
-    },
+    "Paldean Wooper": [
+      {
+        game: 'scarlet',
+        desc:  "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+
+      },
+      {
+        game: "violet",
+        desc: "It’s dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands.",
+
+      }
+    ]
   }
 };
 module.exports = paldeanWooper;

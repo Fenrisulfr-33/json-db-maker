@@ -66,12 +66,17 @@ const paldeanTaurosAqua = {
     Taurus: "mythical Greek bull & star sign",
   },
   pokedexEntries: {
-    "Blaze Breed": {
-      scarlet:
-        "This Pokémon blasts water from holes on the tips of its horns—the high-pressure jets pierce right through Tauros’s enemies.",
-      violet:
-        "It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.",
-    },
+    "Blaze Breed": [
+      {
+        game: 'scarlet',
+        desc: "This Pokémon blasts water from holes on the tips of its horns—the high-pressure jets pierce right through Tauros’s enemies.",
+      },
+      {
+        game: 'violet',
+        desc: "It swims by jetting water from its horns. The most notable characteristic of the Aqua Breed is its high body fat, which allows it to float easily.",
+
+      }
+    ]
   },
 };
 module.exports = paldeanTaurosAqua;

@@ -1,5 +1,5 @@
 const fs = require("fs");
-const pokedex = require("./new-baseline.json");
+const pokedex = require("./20230815-dex.json");
 const {
   assignPokedexNumbers,
 } = require("./helperFunctions/assignPokedexNumbers.js");
@@ -32,12 +32,12 @@ function pokedexRewrite() {
   let errors = {};
 
   // Add forms/Manuals to dex.
-  returnPokedex = addPaldeaAdditionalPokemon(returnPokedex);
-  returnPokedex.sort((pokemonA, pokemonB) => {
-    if (pokemonA._id < pokemonB._id) {
-      return -1;
-    }
-  });
+  // returnPokedex = addPaldeaAdditionalPokemon(returnPokedex);
+  // returnPokedex.sort((pokemonA, pokemonB) => {
+  //   if (pokemonA._id < pokemonB._id) {
+  //     return -1;
+  //   }
+  // });
 
   returnPokedex.forEach((pokemon) => {
     delete pokemon.pokedexNumber;
@@ -59,11 +59,11 @@ function pokedexRewrite() {
     pokemon.moves = replaceWrongMoveNames(pokemon.moves, errors);
 
     // This is to fix pokedexEntries until we have a new baseline
-    pokemon.pokedexEntries = changePokedexEntriesData(
-      pokemon.pokedexEntries,
-      pokemon._id,
-      errors
-    );
+    // pokemon.pokedexEntries = changePokedexEntriesData(
+    //   pokemon.pokedexEntries,
+    //   pokemon._id,
+    //   errors
+    // );
 
     // This creates a formsTab for any pokemon who has additional forms
     const formsTab = addFormsTabToPokemon(pokemon._id);
@@ -84,7 +84,7 @@ function pokedexRewrite() {
   // Create saveData in json format
   const saveData = JSON.stringify(reformattedPokedex, null, 2); // this makes it pretty
   // Write JSON string to a file
-  fs.writeFile("./test-2.json", saveData, (error) => {
+  fs.writeFile("./test.json", saveData, (error) => {
     error ? console.error(error) : null;
     console.log("JSON data is saved.");
   });

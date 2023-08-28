@@ -72,12 +72,16 @@ const paldeanTaurosBlaze = {
     },
   ],
   pokedexEntries: {
-    "Blaze Breed": {
-      scarlet:
-        "When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.",
-      violet:
-        "People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.",
-    },
+    "Blaze Breed": [
+      {
+        game: 'scarlet',
+        desc: "When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.",
+      },
+      {
+        game: 'violet',
+        desc: "People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.",
+      }
+    ]
   }
 };
 module.exports = paldeanTaurosBlaze;

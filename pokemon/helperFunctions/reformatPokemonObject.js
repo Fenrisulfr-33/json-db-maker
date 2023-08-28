@@ -1,8 +1,10 @@
 function reformatPokemonObject(pokemon){
+    const key = pokemon.name.english.replaceAll(' ', '-').replaceAll("'", '').toLowerCase()
     let returnPokemonObj = {};
     if (pokemon.hasOwnProperty('formsTab')){
         returnPokemonObj = {
             _id: pokemon._id,
+            key,
             name: pokemon.name,
             pokedexNumber: pokemon.pokedexNumber,
             type: pokemon.type,
@@ -29,6 +31,7 @@ function reformatPokemonObject(pokemon){
     } else {
         returnPokemonObj = {
             _id: pokemon._id,
+            key,
             name: pokemon.name,
             pokedexNumber: pokemon.pokedexNumber,
             type: pokemon.type,

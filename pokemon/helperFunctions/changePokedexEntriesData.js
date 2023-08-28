@@ -27,15 +27,15 @@ const games = [
     { old: 'bw', new: 'black-white' },
     { old: 'b2w2', new: 'black-2-white-2' },
     { old: 'bwb2w2', new: 'black-white-black-2-white-2' },
-    { old: 'x', new: 'x' },
-    { old: 'y', new: 'y' },
+    // { old: 'x', new: 'x' },
+    // { old: 'y', new: 'y' },
     { old: 'xy', new: 'x-y' },
     { old: 'or', new: 'omega-ruby' },
     { old: 'as', new: 'alpha-sapphire' },
     { old: 'oras', new: 'omega-ruby-alpha-sapphire' },
     { old: 'xor', new: 'x-omega-ruby' },
     { old: 'yas', new: 'y-alpha-sapphire' },
-    { old: 'sun', new: 'sun' },
+    // { old: 'sun', new: 'sun' },
     { old: 'mo', new: 'moon' },
     { old: 'us', new: 'ultra-sun' },
     { old: 'um', new: 'ultra-moon' },
@@ -50,26 +50,29 @@ const games = [
     { old: 'la', new: 'legends-arceus' },
     { old: 'sc', new: 'scarlet' },
     { old: 'vi', new: 'violet' },
-    { old: 'scarlet', new: 'scarlet' },
-    { old: 'violet', new: 'violet' },
+    // { old: 'scarlet', new: 'scarlet' },
+    // { old: 'violet', new: 'violet' },
 ]
 
 function changePokedexEntriesData(pokedexEntries, pokemonId, errors) {
     // console.log(pokemonId);
     const returnEntries = {};
     for (const [form, values] of Object.entries(pokedexEntries)) {
-        const formWords = form.split(" ");
-        const joinForm = formWords.map((word) => word[0].toUpperCase() + word.substring(1));
-        const joinedForm = joinForm.join(' ');
-        returnEntries[joinedForm] = [];
-        for (const [game, desc] of Object.entries(pokedexEntries[form])) {
-            const foundGame = games.find((gameObj) => gameObj.old === game);
-            if (foundGame){
-                returnEntries[joinedForm].push({ game: foundGame.new, desc: desc})
-            } else {
-                // console.log(game);
-                errors[game] = `pokedexEntry bad ${pokemonId}`
-            }
+        if (!Array.isArray(values)){
+            console.log(pokemonId)
+        } else {
+            const formWords = form.split(" ");
+            const joinForm = formWords.map((word) => word[0].toUpperCase() + word.substring(1));
+            const joinedForm = joinForm.join(' ');
+            returnEntries[joinedForm] = [];
+            values.forEach((entry) => {
+                const foundGame = games.find((gameObj) => gameObj.old === entry.game);
+                if (foundGame){
+                    errors[entry.game] = `pokedexEntry ${entry.game} ${pokemonId}`
+                } else {
+                    // This should already be formatted with the latest version.
+                }
+            })
         }
     }
     return returnEntries;

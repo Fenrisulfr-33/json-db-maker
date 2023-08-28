@@ -71,12 +71,16 @@ const paldeanTauros = {
     },
   ],
   pokedexEntries: {
-    "Combat Breed": {
-      scarlet:
-        "This Pokémon has a muscular body and excels at close-quarters combat. It uses its short horns to strike the opponent’s weak spots.",
-      violet:
-        "This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.",
-    },
+    "Combat Breed": [
+      { 
+        game: "scarlet",
+        desc: "This Pokémon has a muscular body and excels at close-quarters combat. It uses its short horns to strike the opponent’s weak spots.",
+      },
+      {
+        game: 'violet',
+        desc: "This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.",
+      }
+    ]
   }
 };
 
