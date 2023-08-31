@@ -9,7 +9,7 @@ function pokedexRewrite() {
   let errors = {};
 
   returnAbilities.forEach((ability) => {
-    
+    delete ability.pokemonWithAbility;
   });
 
   console.log("errors", errors);

@@ -49,7 +49,7 @@ const paldeanFormTabs = [
   },
   {
     id: 194.1,
-    formTab: taurosTab
+    formTab: wooperTab
   },
 ];
 
