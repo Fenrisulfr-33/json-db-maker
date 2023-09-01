@@ -1,5 +1,6 @@
 const megaGengar = {
   _id: 94.1,
+  key: "mega-gengar",
   name: {
     english: "Mega Gengar",
   },
@@ -9,9 +10,10 @@ const megaGengar = {
     two: "Poison",
   },
   abilities: {
-    one: "Shadow Tag",
-    two: "",
-    hidden: "",
+    one: {
+      name: "Shadow Tag",
+      id: 23,
+    },
   },
   baseStats: {
     hp: 60,
@@ -23,8 +25,8 @@ const megaGengar = {
     total: 600,
   },
   info: {
-    height: "1.4 m (4′07″)",
-    weight: "40.5 kg (89.3 lbs)",
+    height: "1.4 m (4′07″)",
+    weight: "40.5 kg (89.3 lbs)",
   },
   gender: {
     male: "50%",
@@ -48,44 +50,38 @@ const megaGengar = {
   nameOrigin: {
     doppelgänger: "a person’s exact double or ‘shadow’",
   },
-  gameDropDown: [
-    {
-      game: "Ultra Sun & Ultra Moon",
-      query: "ultra-sun-ultra-moon",
-    },
-    {
-      game: "Sun & Moon",
-      query: "sun-moon",
-    },
-    {
-      game: "Omega Ruby & Alpha Sapphire",
-      query: "omega-ruby-alpha-sapphire",
-    },
-    {
-      game: "X & Y",
-      query: "x-y",
-    },
-  ],
   pokedexEntries: {
-    "Mega Gengar": {
-      x: "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
-      y: `Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.`,
-      sun: "Gengar’s relationships are warped. It has no interest in opponents unless it perceives them as prey.",
-      mo: "The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.",
-      us: "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
-      um: "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.",
-      lgplge:
-        "It can pass through other dimensions and can appear anywhere. It caused a stir one time when it stuck just one leg out of a wall.",
-    },
+    "Mega Gengar": [
+      {
+        game: "x",
+        desc: "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+      },
+      {
+        game: "y",
+        desc: "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      },
+      {
+        game: "sun",
+        desc: "Gengar’s relationships are warped. It has no interest in opponents unless it perceives them as prey.",
+      },
+      {
+        game: "moon",
+        desc: "The energy of Mega Evolution awakened it. It sinks into another dimension, where it keeps a patient watch for its chance to attack.",
+      },
+      {
+        game: "ultra-sun",
+        desc: "It tries to take the lives of anyone and everyone. It will even try to curse the Trainer who is its master!",
+      },
+      {
+        game: "ultra-moon",
+        desc: "Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.",
+      },
+      {
+        game: "lets-go-pikachu-eevee",
+        desc: "It can pass through other dimensions and can appear anywhere. It caused a stir one time when it stuck just one leg out of a wall.",
+      },
+    ],
   },
-  movesToCopy: [
-    "x-y",
-    "omega-ruby-alpha-sapphire",
-    "sun-moon",
-    "ultra-sun-ultra-moon"
-  ],
 };
 
-module.exports = {
-  megaGengar
-}
+module.exports = megaGengar;
