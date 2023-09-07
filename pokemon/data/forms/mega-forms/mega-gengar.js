@@ -38,13 +38,11 @@ const megaGengar = {
   evs: {
     spatk: 3,
   },
-  eggGroups: {
-    0: "Amorphous",
-  },
+  eggGroups: ["Amorphous"],
   species: "Shadow Pokémon",
   catchRate: 45,
   baseFriendship: 50,
-  baseExp: 225,
+  baseExp: 270,
   growthRate: "Medium Slow",
   eggCycles: 20,
   nameOrigin: {
