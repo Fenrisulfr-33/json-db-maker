@@ -1,0 +1,73 @@
+{
+  "_id": 721,
+  "key": "volcanion",
+  "name": {
+    "english": "Volcanion",
+    "spanish": "Volcanion",
+    "italian": "Volcanion",
+    "japanese": "ボルケニオン",
+    "chinese": "波尔凯尼恩",
+    "korean": "",
+    "german": "Volcanion",
+    "french": "Volcanion"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fire",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Absorb",
+      "id": 11
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 110,
+    "def": 120,
+    "spatk": 130,
+    "spdef": 90,
+    "spd": 70,
+    "total": 600
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "195.0 kg (429.9 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 6,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Steam Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 100,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "volcano": "mountain that erupts lava",
+    "lion": "large ferocious cat"
+  },
+  "pokedexEntries": {
+    "Volcanion": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It lets out billows of steam and disappears into the dense fog. It’s said to live in mountains where humans do not tread."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain."
+      }
+    ]
+  }
+}

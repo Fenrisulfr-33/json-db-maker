@@ -1,0 +1,158 @@
+{
+  "_id": 29,
+  "key": "nidoran♀",
+  "name": {
+    "english": "Nidoran♀",
+    "spanish": "Nidoran♀",
+    "italian": "Nidoran♀",
+    "japanese": "ニドラン♀",
+    "chinese": "尼多兰",
+    "korean": "",
+    "german": "Nidoran♀",
+    "french": "Nidoran♀"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 65,
+    "crystal": 95,
+    "gold-silver": 95,
+    "yellow": 29,
+    "red-blue": 29
+  },
+  "type": {
+    "one": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "hidden": {
+      "name": "Hustle",
+      "id": 55
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 47,
+    "def": 52,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 41,
+    "total": 275
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "7.0 kg (15.4 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 12,
+  "generation": 1,
+  "evs": {},
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "species": "Poison Pin Pokémon",
+  "catchRate": 235,
+  "baseFriendship": 50,
+  "baseExp": 55,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "nidoru": "Japanese for ‘needle’",
+    "rhino": "large African mammal",
+    "♀": "female symbol"
+  },
+  "pokedexEntries": {
+    "Nidoran-f": [
+      {
+        "game": "red-blue",
+        "desc": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns."
+      },
+      {
+        "game": "yellow",
+        "desc": "A mild-mannered POKéMON that does not like to fight. Beware, its small horns secrete venom."
+      },
+      {
+        "game": "gold",
+        "desc": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results."
+      },
+      {
+        "game": "silver",
+        "desc": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way."
+      },
+      {
+        "game": "crystal",
+        "desc": "Small and very docile, it protects itself with its small, poisonous horn when attacked."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "NIDORAN has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Though small, it must be treated with caution because of its powerfully toxic barbs. The female has smaller horns."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its highly toxic barbs are thought to have developed as protection for this small-bodied POKéMON. When enraged, it releases a horrible toxin from its horn."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The poison hidden in its small horn is extremely potent. Even a tiny scratch can have fatal results."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Although not very combative, it will torment its foes with poison spikes if it is threatened in any way."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal."
+      },
+      {
+        "game": "x",
+        "desc": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns."
+      },
+      {
+        "game": "y",
+        "desc": "Small and very docile, it protects itself with its small, poisonous horn when attacked."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "A mild-mannered Pokémon that does not like to fight. Beware—its small horn secretes venom."
+      },
+      {
+        "game": "sword",
+        "desc": "Females are more sensitive to smells than males. While foraging, they’ll use their whiskers to check wind direction and stay downwind of predators."
+      },
+      {
+        "game": "shield",
+        "desc": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "While this Pokémon does not prefer to fight, even one drop of the venom it secretes from its barbs can be fatal."
+      }
+    ]
+  }
+}

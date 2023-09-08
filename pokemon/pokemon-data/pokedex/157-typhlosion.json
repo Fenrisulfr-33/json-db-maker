@@ -1,0 +1,138 @@
+{
+  "_id": 157,
+  "key": "typhlosion",
+  "name": {
+    "english": "Typhlosion",
+    "spanish": "Typhlosion",
+    "italian": "Typhlosion",
+    "japanese": "バクフーン",
+    "chinese": "火暴兽",
+    "korean": "",
+    "german": "Tornupto",
+    "french": "Typhlosion"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 6,
+    "crystal": 6,
+    "gold-silver": 6
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Flash Fire",
+      "id": 18
+    }
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spatk": 109,
+    "spdef": 85,
+    "spd": 100,
+    "total": 534
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "69.8 kg (153.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 55,
+  "generation": 2,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Volcano Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 240,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "typhoon": "tropical cyclone",
+    "explosion": "eruption, blast"
+  },
+  "pokedexEntries": {
+    "Typhlosion": [
+      {
+        "game": "gold",
+        "desc": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+      },
+      {
+        "game": "silver",
+        "desc": "It has a secret, devastating move. It rubs its blaz ing fur together to cause huge explosions."
+      },
+      {
+        "game": "crystal",
+        "desc": "When heat from its body causes the air around it to shimmer, this is a sign that it is ready to battle."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+      },
+      {
+        "game": "emerald",
+        "desc": "It can hide behind a shimmering heat haze that it creates using its intense flames. TYPHLOSION create blazing explosive blasts that burn everything to cinders."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself."
+      },
+      {
+        "game": "x",
+        "desc": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+      },
+      {
+        "game": "y",
+        "desc": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself."
+      }
+    ],
+    "Hisuian Typhlosion": [
+      {
+        "game": "legends-arceus",
+        "desc": "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui’s center."
+      }
+    ]
+  }
+}

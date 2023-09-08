@@ -1,0 +1,92 @@
+{
+  "_id": 726,
+  "key": "torracat",
+  "name": {
+    "english": "Torracat",
+    "spanish": "Torracat",
+    "italian": "Torracat",
+    "japanese": "ニャヒート",
+    "chinese": "炎热喵",
+    "korean": "",
+    "german": "Miezunder",
+    "french": "Matoufeu"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Intimidate",
+      "id": 22
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 85,
+    "def": 50,
+    "spatk": 80,
+    "spdef": 50,
+    "spd": 90,
+    "total": 420
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "25.0 kg (55.1 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 251,
+  "generation": 7,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fire Cat Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "torrid": "very hot and dry",
+    "cat": "domesticated feline"
+  },
+  "pokedexEntries": {
+    "Torracat": [
+      {
+        "game": "sun",
+        "desc": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire."
+      },
+      {
+        "game": "moon",
+        "desc": "It boasts powerful front legs. With a single punch, it can bend an iron bar right over."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer’s whole body covered in scratches."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When its mane is standing on end, you can tell it’s feeling good. When it isn’t feeling well, its fur will lie down flat."
+      },
+      {
+        "game": "sword",
+        "desc": "In the midst of battle, the fire pouch on Torracat’s neck rings like a bell and produces stronger flames than usual."
+      },
+      {
+        "game": "shield",
+        "desc": "When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter."
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "_id": 89,
+  "key": "muk",
+  "name": {
+    "english": "Muk",
+    "spanish": "Muk",
+    "italian": "Muk",
+    "japanese": "ベトベトン",
+    "chinese": "臭臭泥",
+    "korean": "",
+    "german": "Sleimok",
+    "french": "Grotadmorv"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 195,
+    "crystal": 118,
+    "gold-silver": 118,
+    "yellow": 89,
+    "red-blue": 89
+  },
+  "type": {
+    "one": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Stench",
+      "id": 1
+    },
+    "two": {
+      "name": "Sticky Hold",
+      "id": 60
+    },
+    "hidden": {
+      "name": "Poison Touch",
+      "id": 143
+    }
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 105,
+    "def": 75,
+    "spatk": 65,
+    "spdef": 100,
+    "spd": 50,
+    "total": 500
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "52.0 kg (114.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 37,
+  "generation": 1,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Sludge Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 175,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "muck": "dirt"
+  },
+  "pokedexEntries": {
+    "Muk": [
+      {
+        "game": "red-blue",
+        "desc": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
+      },
+      {
+        "game": "yellow",
+        "desc": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell."
+      },
+      {
+        "game": "gold",
+        "desc": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse."
+      },
+      {
+        "game": "silver",
+        "desc": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest."
+      },
+      {
+        "game": "crystal",
+        "desc": "As it moves, a very strong poison leaks from it, making the ground there barren for three years."
+      },
+      {
+        "game": "ruby",
+        "desc": "From MUK’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this POKéMON’s body fluid can turn a pool stagnant and rancid."
+      },
+      {
+        "game": "sapphire",
+        "desc": "This POKéMON’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, MUK are certain to gather."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
+      },
+      {
+        "game": "emerald",
+        "desc": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making MUK reek like putrid kitchen garbage."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest."
+      },
+      {
+        "game": "black-white",
+        "desc": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by."
+      },
+      {
+        "game": "x",
+        "desc": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse."
+      },
+      {
+        "game": "y",
+        "desc": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "From Muk’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon’s body fluid can turn a pool stagnant and rancid."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "This Pokémon’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather."
+      },
+      {
+        "game": "sun",
+        "desc": "The stench it gives off will make your nose scrunch up. Still, there are Muk fans who think that’s a good thing."
+      },
+      {
+        "game": "moon",
+        "desc": "After recent environmental improvements, this Pokémon is now hardly seen at all. People speculate that it may go extinct at some point."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Their food sources have decreased, and their numbers have declined sharply. Sludge ponds are being built to prevent their extinction."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Because they scatter germs everywhere, they’ve long been targeted for extermination, leading to a steep decline in their population."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "A toxic fluid seeps from its body. The fluid kills plants and trees immediately upon contact."
+      }
+    ],
+    "Alolan Muk": [
+      {
+        "game": "sun",
+        "desc": "The garbage it eats causes continuous chemical changes in its body, which produce its exceedingly vivid coloration."
+      },
+      {
+        "game": "moon",
+        "desc": "While it’s unexpectedly quiet and friendly, if it’s not fed any trash for a while, it will smash its Trainer’s furnishings and eat up the fragments."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "There are over a hundred kinds of poison inside its body. Chemical reactions between different poisons are the source of its vitality."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don’t get too close."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Muk’s coloration becomes increasingly vivid the more it feasts on its favorite dish—trash."
+      }
+    ]
+  }
+}

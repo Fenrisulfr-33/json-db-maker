@@ -1,0 +1,111 @@
+{
+  "_id": 390,
+  "key": "chimchar",
+  "name": {
+    "english": "Chimchar",
+    "spanish": "Chimchar",
+    "italian": "Chimchar",
+    "japanese": "ヒコザル",
+    "chinese": "小火焰猴",
+    "korean": "",
+    "german": "Panflam",
+    "french": "Ouisticram"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 61
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 58,
+    "def": 44,
+    "spatk": 58,
+    "spdef": 44,
+    "spd": 61,
+    "total": 309
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "6.2 kg (13.7 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 129,
+  "generation": 4,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "species": "Chimp Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "chimp": "a species of primate",
+    "char": "to burn or singe"
+  },
+  "pokedexEntries": {
+    "Chimchar": [
+      {
+        "game": "diamond",
+        "desc": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its fiery rear end is fueled by gas made in its belly. Even rain can’t extinguish the fire."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its fiery rear end is fueled by gas made in its belly. Even rain can’t extinguish the fire."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its fiery rear end is fueled by gas made in its belly. Even rain can’t extinguish the fire."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Full of vigor and always in high spirits. It was once known by the name “Lantern-Tail” and feared as some kind of apparition."
+      }
+    ]
+  }
+}

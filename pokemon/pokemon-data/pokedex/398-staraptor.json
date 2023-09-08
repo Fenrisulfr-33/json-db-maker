@@ -1,0 +1,112 @@
+{
+  "_id": 398,
+  "key": "staraptor",
+  "name": {
+    "english": "Staraptor",
+    "spanish": "Staraptor",
+    "italian": "Staraptor",
+    "japanese": "ムクホーク",
+    "chinese": "姆克鹰",
+    "korean": "",
+    "german": "Staraptor",
+    "french": "Étouraptor"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 99,
+    "legends-arceus": 14
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "hidden": {
+      "name": "Reckless",
+      "id": 120
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 120,
+    "def": 70,
+    "spatk": 50,
+    "spdef": 60,
+    "spd": 100,
+    "total": 485
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "24.9 kg (54.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 131,
+  "generation": 4,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Predator Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 218,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "starling": "a species of bird",
+    "raptor": "a voracious bird"
+  },
+  "pokedexEntries": {
+    "Staraptor": [
+      {
+        "game": "diamond",
+        "desc": "It has a savage nature. It will courageously challenge foes that are much larger."
+      },
+      {
+        "game": "pearl",
+        "desc": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon."
+      },
+      {
+        "game": "platinum",
+        "desc": "It never stops attacking even if it is injured. It fusses over the shape of its comb."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "When STARAVIA evolve into STARAPTOR, they leave the flock to live alone. They have sturdy wings."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It never stops attacking even if it is injured. It fusses over the shape of its comb."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It has a savage nature. It will courageously challenge foes that are much larger than itself."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets."
+      }
+    ]
+  }
+}

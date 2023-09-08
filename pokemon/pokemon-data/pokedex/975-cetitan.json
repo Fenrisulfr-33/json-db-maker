@@ -1,0 +1,72 @@
+{
+  "_id": 975,
+  "key": "cetitan",
+  "name": {
+    "english": "Cetitan"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 362
+  },
+  "type": {
+    "one": "Ice",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Thick Fat",
+      "id": 47
+    },
+    "two": {
+      "name": "Slush Rush",
+      "id": 202
+    },
+    "hidden": {
+      "name": "Sheer Force",
+      "id": 125
+    }
+  },
+  "baseStats": {
+    "hp": 170,
+    "atk": 113,
+    "def": 65,
+    "spatk": 45,
+    "spdef": 55,
+    "spd": 73,
+    "total": 521
+  },
+  "info": {
+    "height": "4.5 m (14′09″)",
+    "weight": "700.0 kg (1543.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Terra Whale Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "cetacean": "order of mammals that includes whales",
+    "titan": "thing of great size or strength"
+  },
+  "pokedexEntries": {
+    "Cetitan": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon wanders around snowy, icy areas. It protects its body with powerful muscles and a thick layer of fat under its skin."
+      },
+      {
+        "game": "violet",
+        "desc": "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings."
+      }
+    ]
+  }
+}

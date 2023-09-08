@@ -1,0 +1,80 @@
+{
+  "_id": 878,
+  "key": "cufant",
+  "name": {
+    "english": "Cufant",
+    "spanish": "Cufant",
+    "italian": "Cufant",
+    "japanese": "ゾウドウ",
+    "chinese": "铜象",
+    "korean": "",
+    "german": "Kupfanti",
+    "french": "Charibari"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 124,
+    "sword-shield": 302,
+    "crown-tundra": 108
+  },
+  "type": {
+    "one": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Heavy Metal",
+      "id": 134
+    }
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 80,
+    "def": 49,
+    "spatk": 40,
+    "spdef": 49,
+    "spd": 40,
+    "total": 330
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "100.0 kg (220.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 300,
+  "generation": 8,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Copperderm Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "Cu": "chemical symbol for copper",
+    "elephant": "large mammal with a trunk"
+  },
+  "pokedexEntries": {
+    "Cufant": [
+      {
+        "game": "sword",
+        "desc": "It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all."
+      },
+      {
+        "game": "shield",
+        "desc": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color."
+      }
+    ]
+  }
+}

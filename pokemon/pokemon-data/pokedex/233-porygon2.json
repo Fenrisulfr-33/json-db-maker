@@ -1,0 +1,169 @@
+{
+  "_id": 233,
+  "key": "porygon2",
+  "name": {
+    "english": "Porygon2",
+    "spanish": "Porygon2",
+    "italian": "Porygon2",
+    "japanese": "ポリゴン２",
+    "chinese": "多边兽Ⅱ",
+    "korean": "",
+    "german": "Porygon2",
+    "french": "Porygon2"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 134,
+    "isle-of-armor": 209,
+    "crystal": 221,
+    "gold-silver": 221
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Trace",
+      "id": 36
+    },
+    "two": {
+      "name": "Download",
+      "id": 88
+    },
+    "hidden": {
+      "name": "Analytic",
+      "id": 148
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 80,
+    "def": 90,
+    "spatk": 105,
+    "spdef": 95,
+    "spd": 60,
+    "total": 515
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "32.5 kg (71.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 79,
+  "generation": 2,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Virtual Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 180,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "polygon": "a many sided figure",
+    "two": "as in ‘Version 2’"
+  },
+  "pokedexEntries": {
+    "Porygon2": [
+      {
+        "game": "gold",
+        "desc": "This upgraded version of PORYGON is designed for space exploration. It can’t fly, though."
+      },
+      {
+        "game": "silver",
+        "desc": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed."
+      },
+      {
+        "game": "crystal",
+        "desc": "This manmade POKéMON evolved from the latest technology. It may have unprogrammed reactions."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "PORYGON2 was created by humans using the power of science. The man-made POKéMON has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "This upgraded version of PORYGON is designed for space exploration. However, it can’t even fly."
+      },
+      {
+        "game": "emerald",
+        "desc": "It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "With planetary development software installed, it became capable of working in space."
+      },
+      {
+        "game": "platinum",
+        "desc": "It was upgraded to enable the exploration of other planets. However, it failed to measure up."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "This upgraded version of PORYGON is designed for space exploration. It can’t fly, however."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It was upgraded to enable the exploration of other planets. However, it failed to measure up."
+      },
+      {
+        "game": "x",
+        "desc": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed."
+      },
+      {
+        "game": "y",
+        "desc": "With planetary development software installed, it became capable of working in space."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own."
+      },
+      {
+        "game": "sun",
+        "desc": "For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available."
+      },
+      {
+        "game": "moon",
+        "desc": "Porygon was updated to a new version in readiness for planetary development. But that dream remains unrealized as yet."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "AI has been installed in it. It learns various things all on its own, but it even remembers things it doesn’t need to know."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Even though it doesn’t die in the vacuum of space, it can’t move around very well in zero gravity."
+      },
+      {
+        "game": "sword",
+        "desc": "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own."
+      },
+      {
+        "game": "shield",
+        "desc": "After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "With planetary development software installed, it became capable of working in space."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable."
+      }
+    ]
+  }
+}

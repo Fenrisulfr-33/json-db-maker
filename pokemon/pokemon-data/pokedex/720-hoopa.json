@@ -1,0 +1,80 @@
+{
+  "_id": 720,
+  "key": "hoopa",
+  "name": {
+    "english": "Hoopa",
+    "spanish": "Hoopa",
+    "italian": "Hoopa",
+    "japanese": "フーパ",
+    "chinese": "胡帕",
+    "korean": "",
+    "german": "Hoopa",
+    "french": "Hoopa"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Psychic",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Magician",
+      "id": 170
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 110,
+    "def": 60,
+    "spatk": 150,
+    "spdef": 130,
+    "spd": 70,
+    "total": 600
+  },
+  "info": {
+    "height": "6.5 m (21′04″)",
+    "weight": "490.0 kg (1080.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 6,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Mischief Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 100,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "hoop": "a circular band"
+  },
+  "pokedexEntries": {
+    "Hoopa": [
+      {
+        "game": "x",
+        "desc": "This troublemaker sends anything and everything to faraway places using its loop, which can warp space."
+      },
+      {
+        "game": "y",
+        "desc": "It gathers things it likes and passes them through its loop to teleport them to a secret place."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form."
+      }
+    ]
+  }
+}

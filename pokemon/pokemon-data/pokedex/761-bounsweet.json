@@ -1,0 +1,97 @@
+{
+  "_id": 761,
+  "key": "bounsweet",
+  "name": {
+    "english": "Bounsweet",
+    "spanish": "Bounsweet",
+    "italian": "Bounsweet",
+    "japanese": "アマカジ",
+    "chinese": "甜竹竹",
+    "korean": "",
+    "german": "Frubberl",
+    "french": "Croquine"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 81,
+    "sword-shield": 52
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Leaf Guard",
+      "id": 102
+    },
+    "two": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "hidden": {
+      "name": "Sweet Veil",
+      "id": 175
+    }
+  },
+  "baseStats": {
+    "hp": 42,
+    "atk": 30,
+    "def": 38,
+    "spatk": 30,
+    "spdef": 38,
+    "spd": 32,
+    "total": 210
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.2 kg (7.1 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 266,
+  "generation": 7,
+  "evs": {},
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Fruit Pokémon",
+  "catchRate": 235,
+  "baseFriendship": 50,
+  "baseExp": 42,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bounce": "jump, spring",
+    "sweet": "sugary taste"
+  },
+  "pokedexEntries": {
+    "Bounsweet": [
+      {
+        "game": "sun",
+        "desc": "A delectable aroma pours from its body. They are often swallowed whole by Toucannon lured by that wafting deliciousness."
+      },
+      {
+        "game": "moon",
+        "desc": "Although it’s too sugary for human consumption, Bounsweet’s sweat can be watered down into a juice with just the right amount of sweetness."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Because of its sweet, delicious aroma, bird Pokémon are always after it, but it’s not intelligent enough to care."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It’s usually a fruitless attempt."
+      },
+      {
+        "game": "sword",
+        "desc": "Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it."
+      }
+    ]
+  }
+}

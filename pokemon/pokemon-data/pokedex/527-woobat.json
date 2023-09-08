@@ -1,0 +1,105 @@
+{
+  "_id": 527,
+  "key": "woobat",
+  "name": {
+    "english": "Woobat",
+    "spanish": "Woobat",
+    "italian": "Woobat",
+    "japanese": "コロモリ",
+    "chinese": "滚滚蝙蝠",
+    "korean": "",
+    "german": "Fleknoil",
+    "french": "Chovsourir"
+  },
+  "pokedexNumber": {
+    "sword-shield": 174,
+    "isle-of-armor": 151
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Unaware",
+      "id": 109
+    },
+    "two": {
+      "name": "Klutz",
+      "id": 103
+    },
+    "hidden": {
+      "name": "Simple",
+      "id": 86
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 45,
+    "def": 43,
+    "spatk": 55,
+    "spdef": 43,
+    "spd": 72,
+    "total": 323
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "2.1 kg (4.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 182,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Flying",
+    "Field"
+  ],
+  "species": "Bat Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 65,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "woo": "to seduce",
+    "bat": "cave-dwelling flying mammal"
+  },
+  "pokedexEntries": {
+    "Woobat": [
+      {
+        "game": "black",
+        "desc": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings."
+      },
+      {
+        "game": "white",
+        "desc": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune."
+      },
+      {
+        "game": "sword",
+        "desc": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it’s evidence that Woobat live there."
+      },
+      {
+        "game": "shield",
+        "desc": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon."
+      }
+    ]
+  }
+}

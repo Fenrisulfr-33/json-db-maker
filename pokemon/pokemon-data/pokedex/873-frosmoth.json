@@ -1,0 +1,81 @@
+{
+  "_id": 873,
+  "key": "frosmoth",
+  "name": {
+    "english": "Frosmoth",
+    "spanish": "Frosmoth",
+    "italian": "Frosmoth",
+    "japanese": "モスノウ",
+    "chinese": "雪绒蛾",
+    "korean": "",
+    "german": "Mottineva",
+    "french": "Beldeneige"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 351,
+    "sword-shield": 350,
+    "crown-tundra": 2
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shield Dust",
+      "id": 19
+    },
+    "hidden": {
+      "name": "Ice Scales",
+      "id": 246
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 65,
+    "def": 60,
+    "spatk": 125,
+    "spdef": 90,
+    "spd": 65,
+    "total": 475
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "42.0 kg (92.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 299,
+  "generation": 8,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Frost Moth Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "frost": "frozen dew",
+    "moth": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Frosmoth": [
+      {
+        "game": "sword",
+        "desc": "Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit."
+      },
+      {
+        "game": "shield",
+        "desc": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away."
+      }
+    ]
+  }
+}

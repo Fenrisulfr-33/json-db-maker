@@ -1,0 +1,78 @@
+{
+  "_id": 964,
+  "key": "palafin",
+  "name": {
+    "english": "Palafin"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 292
+  },
+  "type": {
+    "one": "Water",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Zero to Hero",
+      "id": 278
+    },
+    "hidden": {
+      "name": "Zero to Hero",
+      "id": 278
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 70,
+    "def": 72,
+    "spatk": 53,
+    "spdef": 62,
+    "spd": 100,
+    "total": 457
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "97.4 kg (214.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Hero Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "paladin": "a knight renowned for heroism and chivalry",
+    "fin": "wing-like appendage on fish or other sea creatures"
+  },
+  "pokedexEntries": {
+    "Zero Form": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation."
+      },
+      {
+        "game": "violet",
+        "desc": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
+      }
+    ],
+    "Hero Form": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon’s ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin."
+      },
+      {
+        "game": "violet",
+        "desc": "This hero of the ocean swims at a speed of 50 knots and saves drowning people and Pokémon."
+      }
+    ]
+  }
+}

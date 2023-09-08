@@ -1,0 +1,104 @@
+{
+  "_id": 574,
+  "key": "gothita",
+  "name": {
+    "english": "Gothita",
+    "spanish": "Gothita",
+    "italian": "Gothita",
+    "japanese": "ゴチム",
+    "chinese": "哥德宝宝",
+    "korean": "",
+    "german": "Mollimorba",
+    "french": "Scrutella"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 234,
+    "sword-shield": 267,
+    "crown-tundra": 51
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "two": {
+      "name": "Competitive",
+      "id": 172
+    },
+    "hidden": {
+      "name": "Shadow Tag",
+      "id": 23
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 50,
+    "spatk": 55,
+    "spdef": 65,
+    "spd": 45,
+    "total": 290
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "5.8 kg (12.8 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 200,
+  "generation": 5,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Fixation Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 58,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gothic": "gloomy, dark",
+    "lolita": "precocious young woman"
+  },
+  "pokedexEntries": {
+    "Gothita": [
+      {
+        "game": "black",
+        "desc": "Their ribbonlike feelers increase their psychic power. They are always staring at something."
+      },
+      {
+        "game": "white",
+        "desc": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It stares intently at everything. It can become so obsessed with watching that it doesn’t notice attacks."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Their ribbonlike feelers increase their psychic power. They are always staring at something."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see."
+      },
+      {
+        "game": "sword",
+        "desc": "Though they’re still only babies, there’s psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight."
+      },
+      {
+        "game": "shield",
+        "desc": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see."
+      }
+    ]
+  }
+}

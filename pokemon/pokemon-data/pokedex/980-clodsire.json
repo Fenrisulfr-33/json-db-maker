@@ -1,0 +1,72 @@
+{
+  "_id": 980,
+  "key": "clodsire",
+  "name": {
+    "english": "Clodsire"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 54
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Water Absorb",
+      "id": 11
+    },
+    "hidden": {
+      "name": "Unaware",
+      "id": 109
+    }
+  },
+  "baseStats": {
+    "hp": 130,
+    "atk": 75,
+    "def": 60,
+    "spatk": 45,
+    "spdef": 100,
+    "spd": 20,
+    "total": 430
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "223.0 kg (491.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Spiny Fish Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "clod": "a lump of earth",
+    "sire": "master, lord"
+  },
+  "pokedexEntries": {
+    "Clodsire": [
+      {
+        "game": "scarlet",
+        "desc": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line."
+      },
+      {
+        "game": "violet",
+        "desc": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+      }
+    ]
+  }
+}

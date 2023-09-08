@@ -1,0 +1,165 @@
+{
+  "_id": 339,
+  "key": "barboach",
+  "name": {
+    "english": "Barboach",
+    "spanish": "Barboach",
+    "italian": "Barboach",
+    "japanese": "ドジョッチ",
+    "chinese": "泥泥鳅",
+    "korean": "",
+    "german": "Schmerbe",
+    "french": "Barloche"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 168,
+    "legends-arceus": 97,
+    "sword-shield": 228,
+    "isle-of-armor": 137,
+    "crown-tundra": 60
+  },
+  "type": {
+    "one": "Water",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Anticipation",
+      "id": 107
+    },
+    "hidden": {
+      "name": "Hydration",
+      "id": 93
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 48,
+    "def": 43,
+    "spatk": 46,
+    "spdef": 41,
+    "spd": 60,
+    "total": 288
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "1.9 kg (4.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 115,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Water 2"
+  ],
+  "species": "Whiskers Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 58,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "barb": "a small spike",
+    "loach": "a species of fish"
+  },
+  "pokedexEntries": {
+    "Barboach": [
+      {
+        "game": "ruby",
+        "desc": "BARBOACH’s sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along."
+      },
+      {
+        "game": "sapphire",
+        "desc": "BARBOACH’s body is covered with a slimy film. If a foe grabs it, this POKéMON just slips out of the enemy’s grip. This POKéMON grows weak if the slimy coating dries up."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the BARBOACH’s body."
+      },
+      {
+        "game": "diamond",
+        "desc": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "BARBOACH uses its whiskers to taste things just as a person uses his or her tongue to taste things."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud."
+      },
+      {
+        "game": "x",
+        "desc": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed."
+      },
+      {
+        "game": "y",
+        "desc": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Barboach’s sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Barboach’s body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy’s grip. This Pokémon grows weak if the slimy coating dries up."
+      },
+      {
+        "game": "sun",
+        "desc": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location."
+      },
+      {
+        "game": "moon",
+        "desc": "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its entire body is gooey. When pecked at by bird Pokémon, it slips and slides its way to freedom."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its whiskers are filled with nerves. They can sense smells and flavors just as a person’s nose or tongue would."
+      },
+      {
+        "game": "sword",
+        "desc": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud."
+      },
+      {
+        "game": "shield",
+        "desc": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_id": 981,
+  "key": "farigiraf",
+  "name": {
+    "english": "Farigiraf"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 193
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cud Chew",
+      "id": 291
+    },
+    "two": {
+      "name": "Armor Tail",
+      "id": 296
+    },
+    "hidden": {
+      "name": "Sap Sipper",
+      "id": 157
+    }
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 90,
+    "def": 70,
+    "spatk": 110,
+    "spdef": 70,
+    "spd": 60,
+    "total": 520
+  },
+  "info": {
+    "height": "3.2 m (10′06″)",
+    "weight": "160.0 kg (352.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Long Neck Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "giraffe": "long-necked African mammal",
+    "Girafarig": "a pun on its pre-evolution, keeping the palindrome"
+  },
+  "pokedexEntries": {
+    "Farigiraf": [
+      {
+        "game": "scarlet",
+        "desc": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s."
+      },
+      {
+        "game": "violet",
+        "desc": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
+      }
+    ]
+  }
+}

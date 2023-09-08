@@ -1,0 +1,163 @@
+{
+  "_id": 45,
+  "key": "vileplume",
+  "name": {
+    "english": "Vileplume",
+    "spanish": "Vileplume",
+    "italian": "Vileplume",
+    "japanese": "ラフレシア",
+    "chinese": "霸王花",
+    "korean": "",
+    "german": "Giflor",
+    "french": "Rafflesia"
+  },
+  "pokedexNumber": {
+    "sword-shield": 57,
+    "crystal": 85,
+    "gold-silver": 85,
+    "yellow": 45,
+    "red-blue": 45
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "hidden": {
+      "name": "Effect Spore",
+      "id": 27
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 85,
+    "spatk": 110,
+    "spdef": 90,
+    "spd": 50,
+    "total": 490
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "18.6 kg (41.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 18,
+  "generation": 1,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Flower Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 221,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "vile": "nasty",
+    "plume": "cluster of showy flowers/petals"
+  },
+  "pokedexEntries": {
+    "Vileplume": [
+      {
+        "game": "red-blue",
+        "desc": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+      },
+      {
+        "game": "yellow",
+        "desc": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud."
+      },
+      {
+        "game": "gold",
+        "desc": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+      },
+      {
+        "game": "silver",
+        "desc": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen."
+      },
+      {
+        "game": "crystal",
+        "desc": "By shaking its big petals, it scatters toxic pollen into the air, turning the air yellow."
+      },
+      {
+        "game": "ruby",
+        "desc": "VILEPLUME’s toxic pollen triggers atrocious allergy attacks. That’s why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be."
+      },
+      {
+        "game": "sapphire",
+        "desc": "VILEPLUME has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this POKéMON catches and devours them."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its petals are the largest in the world. It fiendishly scatters allergy-causing pollen from its petals."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+      },
+      {
+        "game": "emerald",
+        "desc": "In seasons when it produces more pollen, the air around a VILEPLUME turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+      },
+      {
+        "game": "x",
+        "desc": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+      },
+      {
+        "game": "y",
+        "desc": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Vileplume’s toxic pollen triggers atrocious allergy attacks. That’s why it is advisable never to approach any attractive flowers in a jungle, however pretty they may be."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Vileplume has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pokémon catches and devours them."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud."
+      },
+      {
+        "game": "sword",
+        "desc": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+      },
+      {
+        "game": "shield",
+        "desc": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+      }
+    ]
+  }
+}

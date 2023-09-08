@@ -1,0 +1,99 @@
+{
+  "_id": 538,
+  "key": "throh",
+  "name": {
+    "english": "Throh",
+    "spanish": "Throh",
+    "italian": "Throh",
+    "japanese": "ナゲキ",
+    "chinese": "投摔鬼",
+    "korean": "",
+    "german": "Jiutesto",
+    "french": "Judokrak"
+  },
+  "pokedexNumber": {
+    "sword-shield": 248
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "two": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "hidden": {
+      "name": "Mold Breaker",
+      "id": 104
+    }
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 100,
+    "def": 85,
+    "spatk": 30,
+    "spdef": 85,
+    "spd": 45,
+    "total": 465
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "55.5 kg (122.4 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Judo Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 163,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "throw": "to toss"
+  },
+  "pokedexEntries": {
+    "Throh": [
+      {
+        "game": "black",
+        "desc": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts."
+      },
+      {
+        "game": "white",
+        "desc": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."
+      },
+      {
+        "game": "sword",
+        "desc": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh’s belt grows darker as it absorbs its wearer’s sweat."
+      },
+      {
+        "game": "shield",
+        "desc": "They train in groups of five. Any member that can’t keep up will discard its belt and leave the group."
+      }
+    ]
+  }
+}

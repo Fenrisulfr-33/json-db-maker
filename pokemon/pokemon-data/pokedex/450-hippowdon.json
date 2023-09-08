@@ -1,0 +1,121 @@
+{
+  "_id": 450,
+  "key": "hippowdon",
+  "name": {
+    "english": "Hippowdon",
+    "spanish": "Hippowdon",
+    "italian": "Hippowdon",
+    "japanese": "カバルドン",
+    "chinese": "河马兽",
+    "korean": "",
+    "german": "Hippoterus",
+    "french": "Hippodocus"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 266,
+    "legends-arceus": 108,
+    "sword-shield": 315
+  },
+  "type": {
+    "one": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Stream",
+      "id": 45
+    },
+    "hidden": {
+      "name": "Sand Force",
+      "id": 159
+    }
+  },
+  "baseStats": {
+    "hp": 108,
+    "atk": 112,
+    "def": 118,
+    "spatk": 68,
+    "spdef": 72,
+    "spd": 47,
+    "total": 525
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "300.0 kg (661.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 157,
+  "generation": 4,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Heavyweight Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 184,
+  "growthRate": "Slow",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "hippopotamus": "large African mammal",
+    "powder": "fine grains e.g. sand",
+    "-don": "common dinosaur suffix; Greek for ‘tooth’"
+  },
+  "pokedexEntries": {
+    "Hippowdon": [
+      {
+        "game": "diamond",
+        "desc": "It blasts internally stored sand from ports on its body to create a towering twister for attack."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its huge mouth is almost seven feet across. It has enough power to completely crush a car."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It blasts internally stored sand from ports on its body to create a towering twister for attack."
+      },
+      {
+        "game": "sword",
+        "desc": "Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It blasts internally stored sand from ports on its body to create a towering twister for attack."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its huge mouth opens almost seven feet wide. It has enough power to completely crush a car."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes’ spirits, then goes in for the attack."
+      }
+    ]
+  }
+}

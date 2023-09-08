@@ -1,0 +1,113 @@
+{
+  "_id": 618,
+  "key": "stunfisk",
+  "name": {
+    "english": "Stunfisk",
+    "spanish": "Stunfisk",
+    "italian": "Stunfisk",
+    "japanese": "マッギョ",
+    "chinese": "泥巴鱼",
+    "korean": "",
+    "german": "Flunschlik",
+    "french": "Limonde"
+  },
+  "pokedexNumber": {
+    "sword-shield": 226
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Static",
+      "id": 9
+    },
+    "two": {
+      "name": "Limber",
+      "id": 7
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 109,
+    "atk": 66,
+    "def": 84,
+    "spatk": 81,
+    "spdef": 99,
+    "spd": 32,
+    "total": 471
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "20.5 kg (45.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Water 1",
+    "Amorphous"
+  ],
+  "species": "Trap Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 165,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "stun": "to immobilize temporarily",
+    "fish": "marine creature",
+    "disk": "flat circular shape"
+  },
+  "pokedexEntries": {
+    "Stunfisk": [
+      {
+        "game": "black",
+        "desc": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity."
+      },
+      {
+        "game": "white",
+        "desc": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When its opponent can’t be paralyzed, it contorts itself with unexpected speed and flops away."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity."
+      },
+      {
+        "game": "sword",
+        "desc": "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity."
+      },
+      {
+        "game": "shield",
+        "desc": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body."
+      }
+    ],
+    "Galarian Stunfisk": [
+      {
+        "game": "sword",
+        "desc": "Living in mud with a high iron content has given it a strong steel body."
+      },
+      {
+        "game": "shield",
+        "desc": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them."
+      }
+    ]
+  }
+}

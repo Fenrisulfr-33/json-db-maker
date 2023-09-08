@@ -1,0 +1,124 @@
+{
+  "_id": 336,
+  "key": "seviper",
+  "name": {
+    "english": "Seviper",
+    "spanish": "Seviper",
+    "italian": "Seviper",
+    "japanese": "ハブネーク",
+    "chinese": "饭匙蛇",
+    "korean": "",
+    "german": "Vipitis",
+    "french": "Séviper"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 218
+  },
+  "type": {
+    "one": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Infiltrator",
+      "id": 151
+    }
+  },
+  "baseStats": {
+    "hp": 73,
+    "atk": 100,
+    "def": 60,
+    "spatk": 100,
+    "spdef": 60,
+    "spd": 65,
+    "total": 458
+  },
+  "info": {
+    "height": "2.7 m (8′10″)",
+    "weight": "52.5 kg (115.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "atk": 1,
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "species": "Fang Snake Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 160,
+  "growthRate": "Fluctuating",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sever": "cut or separate",
+    "viper": "a species of snake"
+  },
+  "pokedexEntries": {
+    "Seviper": [
+      {
+        "game": "ruby",
+        "desc": "SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POKéMON attacks using its sword-edged tail."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SEVIPER’s swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This POKéMON will not give up its long-running blood feud with ZANGOOSE."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs."
+      },
+      {
+        "game": "emerald",
+        "desc": "SEVIPER and ZANGOOSE are eternal rivals. It counters a ZANGOOSE’s dazzling agility with its swordlike tail, which also oozes a horrible poison."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "In battle, it uses its bladed tail to counter any ZANGOOSE. It secretes a deadly venom in its tail."
+      },
+      {
+        "game": "black-white",
+        "desc": "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Constant polishing makes the edge of the blade on its tail extremely sharp. It’s Zangoose’s archrival."
+      },
+      {
+        "game": "x",
+        "desc": "In battle, it uses its bladed tail to counter any Zangoose. It secretes a deadly venom in its tail."
+      },
+      {
+        "game": "y",
+        "desc": "Constant polishing makes the edge of the blade on its tail extremely sharp. It’s Zangoose’s archrival."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles. This Pokémon attacks using its sword-edged tail."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle."
+      }
+    ]
+  }
+}

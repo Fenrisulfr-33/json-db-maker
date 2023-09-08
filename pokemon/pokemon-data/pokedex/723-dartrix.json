@@ -1,0 +1,97 @@
+{
+  "_id": 723,
+  "key": "dartrix",
+  "name": {
+    "english": "Dartrix",
+    "spanish": "Dartrix",
+    "italian": "Dartrix",
+    "japanese": "フクスロー",
+    "chinese": "投羽枭",
+    "korean": "",
+    "german": "Arboretoss",
+    "french": "Efflèche"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 2
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Long Reach",
+      "id": 203
+    }
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 75,
+    "def": 75,
+    "spatk": 70,
+    "spdef": 70,
+    "spd": 52,
+    "total": 420
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "16.0 kg (35.3 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 250,
+  "generation": 7,
+  "evs": {},
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Blade Quill Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "dart": "a small arrow",
+    "strix": "a genus of owls"
+  },
+  "pokedexEntries": {
+    "Dartrix": [
+      {
+        "game": "sun",
+        "desc": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle."
+      },
+      {
+        "game": "moon",
+        "desc": "It throws sharp feathers called blade quills at enemies or prey. It seldom misses."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This narcissistic Pokémon is a clean freak. If you don’t groom it diligently, it will stop listening to you."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out."
+      },
+      {
+        "game": "sword",
+        "desc": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills."
+      },
+      {
+        "game": "shield",
+        "desc": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Regularly basks in sunlight to gather power—presumably due to the frigid climate. Nonetheless, the edges of the blade quills set into its wings are keen as ever."
+      }
+    ]
+  }
+}

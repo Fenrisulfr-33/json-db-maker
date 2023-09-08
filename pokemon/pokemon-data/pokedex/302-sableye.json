@@ -1,0 +1,168 @@
+{
+  "_id": 302,
+  "key": "sableye",
+  "name": {
+    "english": "Sableye",
+    "spanish": "Sableye",
+    "italian": "Sableye",
+    "japanese": "ヤミラミ",
+    "chinese": "勾魂眼",
+    "korean": "",
+    "german": "Zobiris",
+    "french": "Ténéfix"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 297,
+    "sword-shield": 294,
+    "crown-tundra": 174
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Stall",
+      "id": 100
+    },
+    "hidden": {
+      "name": "Prankster",
+      "id": 158
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 75,
+    "spatk": 65,
+    "spdef": 65,
+    "spd": 50,
+    "total": 380
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "161.0 kg (354.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "atk": 1,
+    "def": 1
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Darkness Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 133,
+  "growthRate": "Medium Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "sable": "a mammal in the weasel family",
+    "eye": "the organ of sight"
+  },
+  "pokedexEntries": {
+    "Sableye": [
+      {
+        "game": "ruby",
+        "desc": "SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POKéMON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SABLEYE digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the POKéMON’s body surface."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels."
+      },
+      {
+        "game": "emerald",
+        "desc": "It digs branching holes in caves using its sharp claws in search of food--raw gems. A SABLEYE lurks in darkness and is seen only rarely."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
+      },
+      {
+        "game": "x",
+        "desc": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
+      },
+      {
+        "game": "y",
+        "desc": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface."
+      },
+      {
+        "game": "sun",
+        "desc": "It’s a fiend for gemstones, so it stalks Carbink. Unfortunately, Gabite almost always grabs them first."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it’s believed that Sableye will steal people’s spirits away."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It digs through the ground with its hard claws and crunches down gems with its thick pointy teeth. Carbink is its favorite food."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it’s believed that Sableye will steal people’s spirits away."
+      },
+      {
+        "game": "shield",
+        "desc": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
+      }
+    ],
+    "Mega Sableye": [
+      {
+        "game": "sun",
+        "desc": "The jewel from its chest, which has grown gigantic due to the effects of Mega Evolution, can turn back any attack."
+      },
+      {
+        "game": "moon",
+        "desc": "Supporting a giant heavy jewel, it can’t change direction very nimbly and is vulnerable to attack from behind."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Bathed in the energy of Mega Evolution, the gemstone on its chest expands, rips through its skin, and falls out."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It blocks any and all attacks with its giant-sized gemstone. However, the stone’s a heavy burden, and it limits Mega Sableye’s movements."
+      }
+    ]
+  }
+}

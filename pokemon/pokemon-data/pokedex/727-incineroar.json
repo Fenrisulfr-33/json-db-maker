@@ -1,0 +1,93 @@
+{
+  "_id": 727,
+  "key": "incineroar",
+  "name": {
+    "english": "Incineroar",
+    "spanish": "Incineroar",
+    "italian": "Incineroar",
+    "japanese": "ガオガエン",
+    "chinese": "炽焰咆哮虎",
+    "korean": "",
+    "german": "Fuegro",
+    "french": "Félinferno"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fire",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Intimidate",
+      "id": 22
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 115,
+    "def": 90,
+    "spatk": 80,
+    "spdef": 90,
+    "spd": 60,
+    "total": 530
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "83.0 kg (183.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 251,
+  "generation": 7,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Heel Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 239,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "incinerate": "set alight",
+    "roar": "deep cry of a lion/tiger"
+  },
+  "pokedexEntries": {
+    "Incineroar": [
+      {
+        "game": "sun",
+        "desc": "This Pokémon has a violent, selfish disposition. If it’s not in the mood to listen, it will ignore its Trainer’s orders with complete nonchalance."
+      },
+      {
+        "game": "moon",
+        "desc": "After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although it’s rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When its fighting spirit is set alight, the flames around its waist become especially intense."
+      },
+      {
+        "game": "sword",
+        "desc": "It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit."
+      },
+      {
+        "game": "shield",
+        "desc": "Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well."
+      }
+    ]
+  }
+}

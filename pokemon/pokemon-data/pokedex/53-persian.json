@@ -1,0 +1,204 @@
+{
+  "_id": 53,
+  "key": "persian",
+  "name": {
+    "english": "Persian",
+    "spanish": "Persian",
+    "italian": "Persian",
+    "japanese": "ペルシアン",
+    "chinese": "猫老大",
+    "korean": "",
+    "german": "Snobilikat",
+    "french": "Persian"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 142,
+    "sword-shield": 184,
+    "crystal": 139,
+    "gold-silver": 139,
+    "yellow": 53,
+    "red-blue": 53
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Limber",
+      "id": 7
+    },
+    "two": {
+      "name": "Technician",
+      "id": 101
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 70,
+    "def": 60,
+    "spatk": 65,
+    "spdef": 65,
+    "spd": 115,
+    "total": 440
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "33.0 kg (72.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 22,
+  "generation": 1,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Classy Cat Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 154,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "persian": "a long-haired breed of cat"
+  },
+  "pokedexEntries": {
+    "Persian": [
+      {
+        "game": "red-blue",
+        "desc": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+      },
+      {
+        "game": "yellow",
+        "desc": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen."
+      },
+      {
+        "game": "gold",
+        "desc": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason."
+      },
+      {
+        "game": "silver",
+        "desc": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant."
+      },
+      {
+        "game": "crystal",
+        "desc": "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "PERSIAN has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the POKéMON’s surrounding vicinity. It becomes docile if grabbed by the whiskers."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Has a vicious temperament. Beware if it raises its tail straight up. It is a signal that it is about to pounce and bite."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+      },
+      {
+        "game": "emerald",
+        "desc": "A PERSIAN’s six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk."
+      },
+      {
+        "game": "x",
+        "desc": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+      },
+      {
+        "game": "y",
+        "desc": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon’s surrounding vicinity. It becomes docile if grabbed by the whiskers."
+      },
+      {
+        "game": "sun",
+        "desc": "It has a violent temperament. It will attack anything that looks it in the eye. Its sharp claws inflict deep wounds."
+      },
+      {
+        "game": "moon",
+        "desc": "It has a high opinion of itself, although not to the same extent as the Alolan Persian. It’s quite difficult to make friends with this Pokémon."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it’s mostly made of the same material."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This Pokémon is popular with rich people. It’s also targeted by hunters who are after the jewel in its forehead."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen."
+      },
+      {
+        "game": "sword",
+        "desc": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed."
+      },
+      {
+        "game": "shield",
+        "desc": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is a very haughty Pokémon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk."
+      }
+    ],
+    "Alolan Persian": [
+      {
+        "game": "sun",
+        "desc": "Its round face and smooth coat—softer than the most high-class velvet—have made this a very popular Pokémon in Alola."
+      },
+      {
+        "game": "moon",
+        "desc": "It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "In contrast to its lovely face, it’s so brutal that it tortures its weakened prey rather than finishing them off."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its round face is a symbol of wealth. Persian that have bigger, plumper faces are considered more beautiful."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It has the classiest coat. The rippling of its fur in the heat of battle has a beauty all its own."
+      },
+      {
+        "game": "sword",
+        "desc": "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it’s also not above fighting dirty."
+      }
+    ]
+  }
+}

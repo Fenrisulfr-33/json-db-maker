@@ -1,0 +1,201 @@
+{
+  "_id": 103,
+  "key": "exeggutor",
+  "name": {
+    "english": "Exeggutor",
+    "spanish": "Exeggutor",
+    "italian": "Exeggutor",
+    "japanese": "ナッシー",
+    "chinese": "椰蛋树",
+    "korean": "",
+    "german": "Kokowei",
+    "french": "Noadkoko"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 206,
+    "crystal": 106,
+    "gold-silver": 106,
+    "yellow": 103,
+    "red-blue": 103
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "hidden": {
+      "name": "Harvest",
+      "id": 139
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 95,
+    "def": 85,
+    "spatk": 125,
+    "spdef": 75,
+    "spd": 55,
+    "total": 530
+  },
+  "info": {
+    "height": "10.9 m (35′09″)",
+    "weight": "415.6 kg (916.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 43,
+  "generation": 1,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Coconut Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 186,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "egg": "oval object in which animals develop",
+    "executor": "an exterminator"
+  },
+  "pokedexEntries": {
+    "Exeggutor": [
+      {
+        "game": "red-blue",
+        "desc": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
+      },
+      {
+        "game": "yellow",
+        "desc": "Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes."
+      },
+      {
+        "game": "gold",
+        "desc": "Its three heads think independently. However, they are friendly and never appear to squabble."
+      },
+      {
+        "game": "silver",
+        "desc": "If a head drops off, it emits a telepathic call in search of others to form an EXEGGCUTE cluster."
+      },
+      {
+        "game": "crystal",
+        "desc": "Living in a good environment makes it grow lots of heads. A head that drops off becomes an EXEGGCUTE."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "EXEGGUTOR originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form EXEGGCUTE."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is called “The Walking Tropical Rainforest.” Each of the nuts has a face and a will of its own."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It is said that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
+      },
+      {
+        "game": "emerald",
+        "desc": "Originally from the tropics, EXEGGUTOR’s heads grow larger from exposure to strong sunlight. It is said that when the heads fall, they group to form an EXEGGCUTE."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its three heads think independently. However, they are friendly and never appear to squabble."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If a head drops off, it emits a telepathic call in search of others to form an EXEGGCUTE cluster."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute."
+      },
+      {
+        "game": "x",
+        "desc": "Its three heads think independently. However, they are friendly and never appear to squabble."
+      },
+      {
+        "game": "y",
+        "desc": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute."
+      },
+      {
+        "game": "sun",
+        "desc": "Each of its heads has its own will. They use telepathy to discuss their plans before coming to a joint decision."
+      },
+      {
+        "game": "moon",
+        "desc": "When the time comes, one of its three heads falls off. Before long, the fallen head grows into an Exeggcute."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It engages its enemies using psychic powers. Each of its three heads fires off psychokinetic energy, tripling its power."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Each of its three heads has its own thoughts. When they want to go in different directions, Exeggutor becomes unable to move."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes."
+      },
+      {
+        "game": "sword",
+        "desc": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another."
+      },
+      {
+        "game": "shield",
+        "desc": "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is called the Walking Jungle. If a head grows too big, it falls off and becomes an Exeggcute."
+      }
+    ],
+    "Alolan Exeggutor": [
+      {
+        "game": "sun",
+        "desc": "Alola is the best environment for this Pokémon. Local people take pride in its appearance, saying this is how Exeggutor ought to look."
+      },
+      {
+        "game": "moon",
+        "desc": "As it grew taller and taller, it outgrew its reliance on psychic powers, while within it awakened the power of the sleeping dragon."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Exeggutor is the pride of the Alolan people. Its image is carved into historical buildings and murals."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "The strong sunlight of the Alola region has awakened the power hidden within Exeggcute. This is the result."
+      },
+      {
+        "game": "sword",
+        "desc": "Blazing sunlight has brought out the true form and powers of this Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon’s psychic powers aren’t as strong as they once were. The head on this Exeggutor’s tail scans surrounding areas with weak telepathy."
+      }
+    ]
+  }
+}

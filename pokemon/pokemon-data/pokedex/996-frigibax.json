@@ -1,0 +1,69 @@
+{
+  "_id": 996,
+  "key": "frigibax",
+  "name": {
+    "english": "Frigibax"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 388
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Thermal Exchange",
+      "id": 270
+    },
+    "hidden": {
+      "name": "Ice Body",
+      "id": 115
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 75,
+    "def": 45,
+    "spatk": 35,
+    "spdef": 45,
+    "spd": 55,
+    "total": 320
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "17.0 kg (37.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ice Fin Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "frigid": "very cold",
+    "back": "the rear",
+    "axe": "tool with a wide metal blade"
+  },
+  "pokedexEntries": {
+    "Frigibax": [
+      {
+        "game": "scarlet",
+        "desc": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_id": 462,
+  "key": "magnezone",
+  "name": {
+    "english": "Magnezone",
+    "spanish": "Magnezone",
+    "italian": "Magnezone",
+    "japanese": "ジバコイル",
+    "chinese": "自爆磁怪",
+    "korean": "",
+    "german": "Magnezone",
+    "french": "Magnézone"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 211,
+    "legends-arceus": 179,
+    "isle-of-armor": 107
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Magnet Pull",
+      "id": 42
+    },
+    "two": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Analytic",
+      "id": 148
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 115,
+    "spatk": 130,
+    "spdef": 90,
+    "spd": 60,
+    "total": 535
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "180.0 kg (396.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 34,
+  "generation": 4,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Magnet Area Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 241,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "magnetic zone": "alternative name for a magnetic field, the region near a magnet"
+  },
+  "pokedexEntries": {
+    "Magnezone": [
+      {
+        "game": "diamond-pearl",
+        "desc": "It evolved from exposure to a special magnetic field. Three units generate magnetism."
+      },
+      {
+        "game": "platinum",
+        "desc": "A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Exposure to a special magnetic field changed MAGNETON’s molecular structure, turning it into MAGNEZONE."
+      },
+      {
+        "game": "black-white",
+        "desc": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It evolved from exposure to a special magnetic field. Three units generate magnetism."
+      },
+      {
+        "game": "sun",
+        "desc": "Three units generate magnetism. There have been many mistaken reports of UFO sightings when Magnezone flies through the night sky."
+      },
+      {
+        "game": "moon",
+        "desc": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin, while transmitting signals of unknown purpose."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It uses radar to monitor its territory. Intruders are quickly disposed of with a hyper beam."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "There are still people who believe that this Pokémon came from outer space. It emanates a powerful magnetic field."
+      },
+      {
+        "game": "sword",
+        "desc": "Some say that Magnezone receives signals from space via the antenna on its head and that it’s being controlled by some mysterious being."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s thought that a special magnetic field changed the molecular structure of this Pokémon’s body, and that’s what caused the Pokémon’s evolution."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It evolved from exposure to a special magnetic field. Its three units generate magnetism."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna."
+      }
+    ]
+  }
+}

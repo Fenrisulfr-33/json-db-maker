@@ -1,0 +1,105 @@
+{
+  "_id": 490,
+  "key": "manaphy",
+  "name": {
+    "english": "Manaphy",
+    "spanish": "Manaphy",
+    "italian": "Manaphy",
+    "japanese": "マナフィ",
+    "chinese": "玛纳霏",
+    "korean": "",
+    "german": "Manaphy",
+    "french": "Manaphy"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 240
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hydration",
+      "id": 93
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spatk": 100,
+    "spdef": 100,
+    "spd": 100,
+    "total": 600
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "1.4 kg (3.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {},
+  "eggGroups": [
+    "Water 1",
+    "Fairy"
+  ],
+  "species": "Seafaring Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 50,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "mana": "mythological energy used for magic",
+    "fairy": "imp, sprite"
+  },
+  "pokedexEntries": {
+    "Manaphy": [
+      {
+        "game": "diamond",
+        "desc": "Born on a cold seafloor, it will swim great distances to return to its birthplace."
+      },
+      {
+        "game": "pearl",
+        "desc": "Water makes up 80% of its body. This Pokémon is easily affected by its environment."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is born with a wondrous power that lets it bond with any kind of Pokémon."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is born with a wondrous power that lets it bond with any kind of Pokémon."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It is born with a wondrous power that lets it bond with any kind of Pokémon."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Born on a cold seafloor, it will swim great distances to return to its birthplace."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Water makes up 80 percent of its body. This Pokémon is easily affected by its environment."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Rumored to migrate across the oceans and visit Hisui’s coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear."
+      }
+    ]
+  }
+}

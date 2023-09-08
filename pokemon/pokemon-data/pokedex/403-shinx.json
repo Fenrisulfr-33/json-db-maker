@@ -1,0 +1,124 @@
+{
+  "_id": 403,
+  "key": "shinx",
+  "name": {
+    "english": "Shinx",
+    "spanish": "Shinx",
+    "italian": "Shinx",
+    "japanese": "コリンク",
+    "chinese": "小猫怪",
+    "korean": "",
+    "german": "Sheinux",
+    "french": "Lixy"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 94,
+    "legends-arceus": 15,
+    "isle-of-armor": 25
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "two": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "hidden": {
+      "name": "Guts",
+      "id": 62
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 65,
+    "def": 34,
+    "spatk": 40,
+    "spdef": 34,
+    "spd": 45,
+    "total": 263
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "9.5 kg (20.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 134,
+  "generation": 4,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Flash Pokémon",
+  "catchRate": 235,
+  "baseFriendship": 50,
+  "baseExp": 53,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "shine": "to glow brightly",
+    "lynx": "wildcat"
+  },
+  "pokedexEntries": {
+    "Shinx": [
+      {
+        "game": "diamond",
+        "desc": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its forelegs have a muscle-based system of generating electricity. Its body shines if endangered."
+      },
+      {
+        "game": "platinum",
+        "desc": "The extension and contraction of its muscles generates electricity. It glows when in trouble."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "The extension and contraction of its muscles generates electricity. It glows when in trouble."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The extension and contraction of its muscles generates electricity. It glows when in trouble."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity."
+      },
+      {
+        "game": "shield",
+        "desc": "Electricity makes this Pokémon’s fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its forelegs have a muscle-based system of generating electricity. Its body shines when it is in danger."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Shakes its body to generate electricity. Its stature belies its aggression—one must be patient to tame this Pokémon."
+      }
+    ]
+  }
+}

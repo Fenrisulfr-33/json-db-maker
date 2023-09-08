@@ -1,0 +1,84 @@
+{
+  "_id": 821,
+  "key": "rookidee",
+  "name": {
+    "english": "Rookidee",
+    "spanish": "Rookidee",
+    "italian": "Rookidee",
+    "japanese": "ココガラ",
+    "chinese": "稚山雀",
+    "korean": "",
+    "german": "Meikro",
+    "french": "Minisange"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 40,
+    "sword-shield": 21,
+    "crown-tundra": 163
+  },
+  "type": {
+    "one": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Unnerve",
+      "id": 127
+    },
+    "hidden": {
+      "name": "Big Pecks",
+      "id": 145
+    }
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 47,
+    "def": 35,
+    "spatk": 33,
+    "spdef": 35,
+    "spd": 57,
+    "total": 245
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "1.8 kg (4.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 278,
+  "generation": 8,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Tiny Bird Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 49,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "rookie": "",
+    "chickidee": ""
+  },
+  "pokedexEntries": {
+    "Rookidee": [
+      {
+        "game": "sword",
+        "desc": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit."
+      },
+      {
+        "game": "shield",
+        "desc": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents."
+      }
+    ]
+  }
+}

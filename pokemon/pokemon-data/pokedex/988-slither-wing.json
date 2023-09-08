@@ -1,0 +1,68 @@
+{
+  "_id": 988,
+  "key": "slither-wing",
+  "name": {
+    "english": "Slither-Wing"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 380
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Protosynthesis",
+      "id": 281
+    },
+    "hidden": {
+      "name": "Protosynthesis",
+      "id": 281
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 135,
+    "def": 79,
+    "spatk": 85,
+    "spdef": 105,
+    "spd": 81,
+    "total": 570
+  },
+  "info": {
+    "height": "3.2 m (10′06″)",
+    "weight": "92.0 kg (202.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "slither": "move or wriggle like a snake",
+    "wing": "forelimb of a bird that enables flight"
+  },
+  "pokedexEntries": {
+    "Slither-wing": [
+      {
+        "game": "scarlet",
+        "desc": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+      }
+    ]
+  }
+}

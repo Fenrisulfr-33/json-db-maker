@@ -1,0 +1,78 @@
+{
+  "_id": 1007,
+  "key": "koraidon",
+  "name": {
+    "english": "Koraidon"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 399
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Orichalcum Pulse",
+      "id": 288
+    },
+    "hidden": {
+      "name": "Orichalcum Pulse",
+      "id": 288
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 135,
+    "def": 115,
+    "spatk": 85,
+    "spdef": 100,
+    "spd": 135,
+    "total": 670
+  },
+  "info": {
+    "height": "2.5 m (8′02″)",
+    "weight": "303.0 kg (668.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "korai": "Japanese for ‘ancient’",
+    "-don": "common dinosaur suffix, from the Greek for ‘tooth’"
+  },
+  "pokedexEntries": {
+    "Koraidon": [
+      {
+        "game": "scarlet",
+        "desc": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features."
+      }
+    ],
+    "Limited Build": [
+      {
+        "game": "scarlet",
+        "desc": "The ecology and other data about this Pokémon are unknown. It was named Koraidon by the professor who discovered it."
+      },
+      {
+        "game": "violet",
+        "desc": "It has similar characteristics to a creature described in an old book as the Winged King."
+      }
+    ]
+  }
+}

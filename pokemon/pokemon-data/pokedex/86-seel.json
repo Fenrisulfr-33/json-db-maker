@@ -1,0 +1,161 @@
+{
+  "_id": 86,
+  "key": "seel",
+  "name": {
+    "english": "Seel",
+    "spanish": "Seel",
+    "italian": "Seel",
+    "japanese": "パウワウ",
+    "chinese": "小海狮",
+    "korean": "",
+    "german": "Jurob",
+    "french": "Otaria"
+  },
+  "pokedexNumber": {
+    "crystal": 178,
+    "gold-silver": 178,
+    "yellow": 86,
+    "red-blue": 86
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Thick Fat",
+      "id": 47
+    },
+    "two": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "hidden": {
+      "name": "Ice Body",
+      "id": 115
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 45,
+    "def": 55,
+    "spatk": 45,
+    "spdef": 70,
+    "spd": 45,
+    "total": 325
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "90.0 kg (198.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 36,
+  "generation": 1,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Sea Lion Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 65,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "seal": "aquatic mammal"
+  },
+  "pokedexEntries": {
+    "Seel": [
+      {
+        "game": "red-blue",
+        "desc": "The protruding horn on its head is very hard. It is used for bashing through thick ice."
+      },
+      {
+        "game": "yellow",
+        "desc": "Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees."
+      },
+      {
+        "game": "gold",
+        "desc": "Although it can’t walk well on land, it is a graceful swimmer. It especially loves being in frigid seas."
+      },
+      {
+        "game": "silver",
+        "desc": "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims."
+      },
+      {
+        "game": "crystal",
+        "desc": "The light blue fur that covers it keeps it protected against the cold. It loves iceberg-filled oceans."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SEEL hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of minus 40 degrees Fahrenheit."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The protruding horn on its head is very hard. It is used for bashing through thick icebergs."
+      },
+      {
+        "game": "emerald",
+        "desc": "SEEL hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Although it can’t walk well on land, it is a graceful swimmer. It especially loves being in frigid seas."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "In daytime, it is often found asleep on the seabed in shallow waters. Its nostrils close while it swims."
+      },
+      {
+        "game": "black-white",
+        "desc": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice."
+      },
+      {
+        "game": "x",
+        "desc": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice."
+      },
+      {
+        "game": "y",
+        "desc": "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It has always been supposed that Seel live only in cold seas. Their having shown up in Alola is a mystery."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Thanks to its thick fat, cold seas don’t bother it at all, but it gets tired pretty easily in warm waters."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "This Pokémon lives on icebergs. It uses the sharp point on its head to break up ice as it swims in the sea."
+      }
+    ]
+  }
+}

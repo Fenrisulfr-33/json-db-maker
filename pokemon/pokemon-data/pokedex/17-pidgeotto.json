@@ -1,0 +1,149 @@
+{
+  "_id": 17,
+  "key": "pidgeotto",
+  "name": {
+    "english": "Pidgeotto",
+    "spanish": "Pidgeotto",
+    "italian": "Pidgeotto",
+    "japanese": "ピジョン",
+    "chinese": "比比鸟",
+    "korean": "",
+    "german": "Tauboga",
+    "french": "Roucoups"
+  },
+  "pokedexNumber": {
+    "crystal": 11,
+    "gold-silver": 11,
+    "yellow": 17,
+    "red-blue": 17
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Tangled Feet",
+      "id": 77
+    },
+    "hidden": {
+      "name": "Big Pecks",
+      "id": 145
+    }
+  },
+  "baseStats": {
+    "hp": 63,
+    "atk": 60,
+    "def": 55,
+    "spatk": 50,
+    "spdef": 50,
+    "spd": 71,
+    "total": 349
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "30.0 kg (66.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 6,
+  "generation": 1,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Bird Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 122,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "pigeon": "a species of bird"
+  },
+  "pokedexEntries": {
+    "Pidgeotto": [
+      {
+        "game": "red-blue",
+        "desc": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder."
+      },
+      {
+        "game": "yellow",
+        "desc": "This POKéMON is full of vitality. It constantly flies around its large territory in search of prey."
+      },
+      {
+        "game": "gold",
+        "desc": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey."
+      },
+      {
+        "game": "silver",
+        "desc": "It immobilizes its prey using well-developed claws, then carries the prey more than 60 miles to its nest."
+      },
+      {
+        "game": "crystal",
+        "desc": "It slowly flies in a circular pattern, all the while keeping a sharp lookout for prey."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+      },
+      {
+        "game": "fire-red",
+        "desc": "The claws on its feet are well developed. It can carry prey such as an EXEGGCUTE to its nest over 60 miles away."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder."
+      },
+      {
+        "game": "emerald",
+        "desc": "This POKéMON flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It flies over its wide territory in search of prey, downing it with its highly developed claws."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It renders its prey immobile using well-developed claws, then carries the prey more than 60 miles to its nest."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It flies over its wide territory in search of prey, downing it with its highly developed claws."
+      },
+      {
+        "game": "x",
+        "desc": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away."
+      },
+      {
+        "game": "y",
+        "desc": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It flies over its wide territory in search of prey, downing it with its highly developed claws."
+      }
+    ]
+  }
+}

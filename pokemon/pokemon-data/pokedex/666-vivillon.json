@@ -1,0 +1,84 @@
+{
+  "_id": 666,
+  "key": "vivillon",
+  "name": {
+    "english": "Vivillon",
+    "spanish": "Vivillon",
+    "italian": "Vivillon",
+    "japanese": "ビビヨン",
+    "chinese": "彩粉蝶",
+    "korean": "",
+    "german": "Vivillon",
+    "french": "Prismillon"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 37
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shield Dust",
+      "id": 19
+    },
+    "two": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "hidden": {
+      "name": "Friend Guard",
+      "id": 132
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 52,
+    "def": 50,
+    "spatk": 90,
+    "spdef": 50,
+    "spd": 89,
+    "total": 411
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "17.0 kg (37.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 229,
+  "generation": 6,
+  "evs": {
+    "spatk": 1,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Scale Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 185,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "vivify": "bring to life, animate",
+    "papillon": "French for ‘butterfly’"
+  },
+  "pokedexEntries": {
+    "Vivillon": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales."
+      }
+    ]
+  }
+}

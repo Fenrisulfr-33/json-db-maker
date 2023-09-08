@@ -1,0 +1,216 @@
+{
+  "_id": 76,
+  "key": "golem",
+  "name": {
+    "english": "Golem",
+    "spanish": "Golem",
+    "italian": "Golem",
+    "japanese": "ゴローニャ",
+    "chinese": "隆隆岩",
+    "korean": "",
+    "german": "Geowaz",
+    "french": "Grolem"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 48,
+    "crystal": 36,
+    "gold-silver": 36,
+    "yellow": 76,
+    "red-blue": 76
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rock Head",
+      "id": 69
+    },
+    "two": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 130,
+    "spatk": 55,
+    "spdef": 65,
+    "spd": 45,
+    "total": 495
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "316.0 kg (696.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 31,
+  "generation": 1,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Megaton Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 223,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "golem": "stone figure from Jewish folklore"
+  },
+  "pokedexEntries": {
+    "Golem": [
+      {
+        "game": "red-blue",
+        "desc": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
+      },
+      {
+        "game": "yellow",
+        "desc": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air."
+      },
+      {
+        "game": "gold",
+        "desc": "It sheds its skin once a year. The discarded shell immediately hardens and crumbles away."
+      },
+      {
+        "game": "silver",
+        "desc": "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain."
+      },
+      {
+        "game": "crystal",
+        "desc": "Its rock-like body is so durable, even high-powered dynamite blasts fail to scratch its rugged hide."
+      },
+      {
+        "game": "ruby",
+        "desc": "GOLEM live up on mountains. If there is a large earthquake, these POKéMON will come rolling down off the mountains en masse to the foothills below."
+      },
+      {
+        "game": "sapphire",
+        "desc": "GOLEM is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this POKéMON’s course."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without taking damage."
+      },
+      {
+        "game": "emerald",
+        "desc": "It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil."
+      },
+      {
+        "game": "diamond",
+        "desc": "It sheds its hide once a year. Its boulderlike body is so tough, even dynamite can’t harm it."
+      },
+      {
+        "game": "pearl",
+        "desc": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves."
+      },
+      {
+        "game": "platinum",
+        "desc": "Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It sheds its skin once a year. The discarded shell immediately hardens and crumbles away."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain."
+      },
+      {
+        "game": "black-white",
+        "desc": "Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Even dynamite can’t harm its hard, boulder-like body. It sheds its hide just once a year."
+      },
+      {
+        "game": "x",
+        "desc": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves."
+      },
+      {
+        "game": "y",
+        "desc": "Even dynamite can’t harm its hard, boulder-like body. It sheds its hide just once a year."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pokémon’s course."
+      },
+      {
+        "game": "sun",
+        "desc": "Its body can survive dynamite blasts without a single scratch, but it hates rain and humidity."
+      },
+      {
+        "game": "moon",
+        "desc": "Once a year, this Pokémon molts, and its shed shell returns to the soil. This process creates enriched soil, so farmers collect the shells."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It detonates its own body. The power from that explosion can propel it up steep mountain paths with amazing speed."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It sheds its hide once a year. Its boulder-like body is so tough, even dynamite can’t harm it."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth."
+      }
+    ],
+    "Alolan Golem": [
+      {
+        "game": "sun",
+        "desc": "It fires rocks charged with electricity. Even if the rock isn’t fired that accurately, just grazing an opponent will cause numbness and fainting."
+      },
+      {
+        "game": "moon",
+        "desc": "Because it can’t fire boulders at a rapid pace, it’s been known to seize nearby Geodude and fire them from its back."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn’t score a direct hit, the jolt of electricity will do the job."
+      }
+    ]
+  }
+}

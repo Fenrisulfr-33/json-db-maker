@@ -1,0 +1,100 @@
+{
+  "_id": 517,
+  "key": "munna",
+  "name": {
+    "english": "Munna",
+    "spanish": "Munna",
+    "italian": "Munna",
+    "japanese": "ムンナ",
+    "chinese": "食梦梦",
+    "korean": "",
+    "german": "Somniam",
+    "french": "Munna"
+  },
+  "pokedexNumber": {
+    "sword-shield": 90
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Forewarn",
+      "id": 108
+    },
+    "two": {
+      "name": "Synchronize",
+      "id": 28
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 25,
+    "def": 45,
+    "spatk": 67,
+    "spdef": 55,
+    "spd": 24,
+    "total": 292
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "23.3 kg (51.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 178,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Dream Eater Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 58,
+  "growthRate": "Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "muso": "Japanese for ‘dream’",
+    "lunar": "of or relating to the Moon"
+  },
+  "pokedexEntries": {
+    "Munna": [
+      {
+        "game": "black",
+        "desc": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about."
+      },
+      {
+        "game": "white",
+        "desc": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist."
+      },
+      {
+        "game": "sword",
+        "desc": "Late at night, it appears beside people’s pillows. As it feeds on dreams, the patterns on its body give off a faint glow."
+      },
+      {
+        "game": "shield",
+        "desc": "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare."
+      }
+    ]
+  }
+}

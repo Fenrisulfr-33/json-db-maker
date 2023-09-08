@@ -1,0 +1,91 @@
+{
+  "_id": 667,
+  "key": "litleo",
+  "name": {
+    "english": "Litleo",
+    "spanish": "Litleo",
+    "italian": "Litleo",
+    "japanese": "シシコ",
+    "chinese": "小狮狮",
+    "korean": "",
+    "german": "Leufeo",
+    "french": "Hélionceau"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 224
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "two": {
+      "name": "Unnerve",
+      "id": 127
+    },
+    "hidden": {
+      "name": "Moxie",
+      "id": 153
+    }
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 50,
+    "def": 58,
+    "spatk": 73,
+    "spdef": 54,
+    "spd": 72,
+    "total": 369
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "13.5 kg (29.8 lbs)"
+  },
+  "gender": {
+    "male": "12.5%",
+    "female": "87.5%",
+    "genderless": false
+  },
+  "evolution": 230,
+  "generation": 6,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Lion Cub Pokémon",
+  "catchRate": 220,
+  "baseFriendship": 50,
+  "baseExp": 74,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "little": "small",
+    "leo": "Latin for ‘lion’"
+  },
+  "pokedexEntries": {
+    "Litleo": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "The stronger the opponent it faces, the more heat surges from its mane and the more power flows through its body."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When they’re young, they live with a pride. Once they’re able to hunt prey on their own, they’re kicked out and have to make their own way."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot."
+      }
+    ]
+  }
+}

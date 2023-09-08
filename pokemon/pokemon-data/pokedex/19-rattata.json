@@ -1,0 +1,191 @@
+{
+  "_id": 19,
+  "key": "rattata",
+  "name": {
+    "english": "Rattata",
+    "spanish": "Rattata",
+    "italian": "Rattata",
+    "japanese": "コラッタ",
+    "chinese": "小拉达",
+    "korean": "",
+    "german": "Rattfratz",
+    "french": "Rattata"
+  },
+  "pokedexNumber": {
+    "crystal": 17,
+    "gold-silver": 17,
+    "yellow": 19,
+    "red-blue": 19
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "two": {
+      "name": "Guts",
+      "id": 62
+    },
+    "hidden": {
+      "name": "Hustle",
+      "id": 55
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 56,
+    "def": 35,
+    "spatk": 25,
+    "spdef": 35,
+    "spd": 72,
+    "total": 253
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.8 kg (8.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 7,
+  "generation": 1,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Mouse Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 51,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "rat": "a rodent mammal",
+    "rat-a-tat-tat": "repeated fast knocking sound"
+  },
+  "pokedexEntries": {
+    "Rattata": [
+      {
+        "game": "red-blue",
+        "desc": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+      },
+      {
+        "game": "yellow",
+        "desc": "Will chew on anything with its fangs. If you see one, it is certain that 40 more live in the area."
+      },
+      {
+        "game": "gold",
+        "desc": "It eats anything. Wherever food is available, it will settle down and produce offspring continuously."
+      },
+      {
+        "game": "silver",
+        "desc": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day."
+      },
+      {
+        "game": "crystal",
+        "desc": "This POKéMON’s impressive vitality allows it to live anywhere. It also multiplies very quickly."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "RATTATA is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives - it will make its nest anywhere."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+      },
+      {
+        "game": "emerald",
+        "desc": "A RATTATA is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It eats anything. Wherever food is available, it will settle down and produce offspring continuously."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day."
+      },
+      {
+        "game": "black-white",
+        "desc": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime."
+      },
+      {
+        "game": "x",
+        "desc": "Living wherever there is food available, it ceaselessly scavenges for edibles the entire day."
+      },
+      {
+        "game": "y",
+        "desc": "Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere."
+      },
+      {
+        "game": "sun",
+        "desc": "Its incisors continue growing until its death. If its Trainer doesn’t offer it a file to gnaw on, it will gnaw on door frames, table legs, and so on."
+      },
+      {
+        "game": "moon",
+        "desc": "With their strong capacity for survival, they can live in dirty places without concern. Left unchecked, their numbers multiply rapidly."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its incisors grow continuously throughout its life. If its incisors get too long, this Pokémon becomes unable to eat, and it starves to death."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It’s cautious in the extreme, and its hardy vitality lets it live in any kind of environment."
+      }
+    ],
+    "Alolan Rattata": [
+      {
+        "game": "sun",
+        "desc": "With its incisors, it gnaws through doors and infiltrates people’s homes. Then, with a twitch of its whiskers, it steals whatever food it finds."
+      },
+      {
+        "game": "moon",
+        "desc": "When the sun goes down, it becomes active. It runs around town on a chase for good food for the boss of its nest—Raticate."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It shows no interest in anything that isn’t fresh. If you take it shopping with you, it will help you pick out ingredients."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Night after night, they sneak into people’s homes seeking food. A massive outbreak of them has become an issue of public concern."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": 994,
+  "key": "iron-moth",
+  "name": {
+    "english": "Iron-Moth"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 386
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Quark Drive",
+      "id": 282
+    },
+    "hidden": {
+      "name": "Quark Drive",
+      "id": 282
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 60,
+    "spatk": 140,
+    "spdef": 110,
+    "spd": 110,
+    "total": 570
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "36.0 kg (79.4 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "iron": "heavy/tough metal",
+    "moth": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Iron-moth": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon resembles an unknown object described in a paranormal magazine as a UFO sent to observe humanity."
+      },
+      {
+        "game": "violet",
+        "desc": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book."
+      }
+    ]
+  }
+}

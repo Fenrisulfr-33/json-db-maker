@@ -1,0 +1,130 @@
+{
+  "_id": 251,
+  "key": "celebi",
+  "name": {
+    "english": "Celebi",
+    "spanish": "Celebi",
+    "italian": "Celebi",
+    "japanese": "セレビィ",
+    "chinese": "时拉比",
+    "korean": "",
+    "german": "Celebi",
+    "french": "Celebi"
+  },
+  "pokedexNumber": {
+    "crystal": 256,
+    "gold-silver": 256
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Natural Cure",
+      "id": 30
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spatk": 100,
+    "spdef": 100,
+    "spd": 100,
+    "total": 600
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "5.0 kg (11.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {},
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Time Travel Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 100,
+  "baseExp": 270,
+  "growthRate": "Medium Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "celestial": "heavenly",
+    "being": "one’s existence"
+  },
+  "pokedexEntries": {
+    "Celebi": [
+      {
+        "game": "gold",
+        "desc": "This POKéMON wanders across time. Grass and trees flourish in the forests in which it has appeared."
+      },
+      {
+        "game": "silver",
+        "desc": "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future."
+      },
+      {
+        "game": "crystal",
+        "desc": "Revered as a guardian of the forest, CELEBI appears wherever beautiful forests exist."
+      },
+      {
+        "game": "ruby-sapphire-emerald",
+        "desc": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us."
+      },
+      {
+        "game": "fire-red",
+        "desc": "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "This POKéMON wanders across time. Grass and trees flourish in the forests in which it has appeared."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It has the power to travel across time, but it is said to appear only in peaceful times."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It has the power to travel across time, but it is said to appear only in peaceful times."
+      },
+      {
+        "game": "x",
+        "desc": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared."
+      },
+      {
+        "game": "y",
+        "desc": "It has the power to travel across time, but it is said to appear only in peaceful times."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon has the ability to move through time. Records describing it as a forest deity can be found from many different eras."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It has the power to travel across time, but it is said to appear only in peaceful times."
+      }
+    ]
+  }
+}

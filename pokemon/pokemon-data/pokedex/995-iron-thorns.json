@@ -1,0 +1,68 @@
+{
+  "_id": 995,
+  "key": "iron-thorns",
+  "name": {
+    "english": "Iron-Thorns"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 387
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Quark Drive",
+      "id": 282
+    },
+    "hidden": {
+      "name": "Quark Drive",
+      "id": 282
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 134,
+    "def": 110,
+    "spatk": 70,
+    "spdef": 84,
+    "spd": 72,
+    "total": 570
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "303.0 kg (668.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "iron": "heavy/tough metal",
+    "thorns": "sharp spine on a plant"
+  },
+  "pokedexEntries": {
+    "Iron-thorns": [
+      {
+        "game": "scarlet",
+        "desc": "It has some similarities to a Pokémon introduced in a dubious magazine as a Tyranitar from one billion years into the future."
+      },
+      {
+        "game": "violet",
+        "desc": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
+      }
+    ]
+  }
+}

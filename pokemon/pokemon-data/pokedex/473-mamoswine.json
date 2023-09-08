@@ -1,0 +1,127 @@
+{
+  "_id": 473,
+  "key": "mamoswine",
+  "name": {
+    "english": "Mamoswine",
+    "spanish": "Mamoswine",
+    "italian": "Mamoswine",
+    "japanese": "マンムー",
+    "chinese": "象牙猪",
+    "korean": "",
+    "german": "Mamutel",
+    "french": "Mammochon"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 214,
+    "sword-shield": 77,
+    "crown-tundra": 9,
+    "crystal": 197,
+    "gold-silver": 197
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Snow Cloak",
+      "id": 81
+    },
+    "hidden": {
+      "name": "Thick Fat",
+      "id": 47
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 130,
+    "def": 80,
+    "spatk": 70,
+    "spdef": 60,
+    "spd": 80,
+    "total": 530
+  },
+  "info": {
+    "height": "2.5 m (8′02″)",
+    "weight": "291.0 kg (641.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 75,
+  "generation": 4,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Twin Tusk Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 50,
+  "baseExp": 239,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "mammoth": "a prehistoric woolly mammal",
+    "swine": "of or relating to pigs"
+  },
+  "pokedexEntries": {
+    "Mamoswine": [
+      {
+        "game": "diamond-pearl",
+        "desc": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age."
+      },
+      {
+        "game": "platinum",
+        "desc": "A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "A frozen MAMOSWINE was dug from ice dating back 10,000 years. This Pokémon has been around a long, long, long time."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It flourished worldwide during the ice age but its population declined when the masses of ice began to dwindle."
+      },
+      {
+        "game": "black-white",
+        "desc": "A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When the temperature rose at the end of the ice age, most Mamoswine disappeared."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "A frozen Mamoswine was dug from ice dating back 10,000 years. This Pokémon has been around a long, long, long time."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon can be spotted in wall paintings from as far back as 10,000 years ago. For a while, it was thought to have gone extinct."
+      },
+      {
+        "game": "shield",
+        "desc": "It looks strong, and that’s exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its impressive tusks are made of ice. The ice age is over and the climate has warmed, so this Pokémon’s population has thinned."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This species reached its zenith during the period known as the ice age. I suspect that Hisui’s frigid climate is in harmony with Mamoswine’s constitution, thus awakening hidden potential."
+      }
+    ]
+  }
+}

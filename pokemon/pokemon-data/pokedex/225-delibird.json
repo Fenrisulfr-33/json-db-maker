@@ -1,0 +1,169 @@
+{
+  "_id": 225,
+  "key": "delibird",
+  "name": {
+    "english": "Delibird",
+    "spanish": "Delibird",
+    "italian": "Delibird",
+    "japanese": "デリバード",
+    "chinese": "信使鸟",
+    "korean": "",
+    "german": "Botogel",
+    "french": "Cadoizo"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 354,
+    "sword-shield": 78,
+    "crown-tundra": 120,
+    "crystal": 194,
+    "gold-silver": 194
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Vital Spirit",
+      "id": 72
+    },
+    "two": {
+      "name": "Hustle",
+      "id": 55
+    },
+    "hidden": {
+      "name": "Insomnia",
+      "id": 15
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 55,
+    "def": 45,
+    "spatk": 65,
+    "spdef": 45,
+    "spd": 75,
+    "total": 330
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "16.0 kg (35.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Delivery Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 116,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "deliver": "transport an item to the recipient",
+    "Adélie": "a species of penguin",
+    "bird": "winged animal"
+  },
+  "pokedexEntries": {
+    "Delibird": [
+      {
+        "game": "gold",
+        "desc": "It carries food all day long. There are tales about lost people who were saved by the food it had."
+      },
+      {
+        "game": "silver",
+        "desc": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks."
+      },
+      {
+        "game": "crystal",
+        "desc": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "DELIBIRD carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these POKéMON sharing its food."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It carries food all day long. There are tales about lost people who were saved by the food it had."
+      },
+      {
+        "game": "emerald",
+        "desc": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a DELIBIRD sharing its food."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It carries food all day long. There are tales about lost people who were saved by its stored food."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks."
+      },
+      {
+        "game": "black-white",
+        "desc": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It carries food all day long. When someone is lost in the mountains, it shares that food."
+      },
+      {
+        "game": "x",
+        "desc": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains."
+      },
+      {
+        "game": "y",
+        "desc": "It carries food all day long. When someone is lost in the mountains, it shares that food."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world’s highest mountain, thanks to one of these Pokémon sharing its food."
+      },
+      {
+        "game": "sun",
+        "desc": "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent."
+      },
+      {
+        "game": "moon",
+        "desc": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It shares its food with people who are stranded. Because Delibird is omnivorous, sometimes it gives those people bug Pokémon."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!"
+      },
+      {
+        "game": "sword",
+        "desc": "It carries food all day long. There are tales about lost people who were saved by the food it had."
+      },
+      {
+        "game": "shield",
+        "desc": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It carries food rolled up in its tail. It has a habit of sharing food with people lost in the mountains."
+      }
+    ]
+  }
+}

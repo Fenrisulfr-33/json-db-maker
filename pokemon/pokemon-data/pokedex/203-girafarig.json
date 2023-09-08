@@ -1,0 +1,157 @@
+{
+  "_id": 203,
+  "key": "girafarig",
+  "name": {
+    "english": "Girafarig",
+    "spanish": "Girafarig",
+    "italian": "Girafarig",
+    "japanese": "キリンリキ",
+    "chinese": "麒麟奇",
+    "korean": "",
+    "german": "Girafarig",
+    "french": "Girafarig"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 192,
+    "crystal": 149,
+    "gold-silver": 149
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "two": {
+      "name": "Early Bird",
+      "id": 48
+    },
+    "hidden": {
+      "name": "Sap Sipper",
+      "id": 157
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 80,
+    "def": 65,
+    "spatk": 90,
+    "spdef": 65,
+    "spd": 85,
+    "total": 455
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "41.5 kg (91.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Long Neck Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 159,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "giraffe": "long-necked African mammal",
+    "[palindrome]": "Girafarig reads the same backwards as forwards, reflecting its symmetric design"
+  },
+  "pokedexEntries": {
+    "Girafarig": [
+      {
+        "game": "gold",
+        "desc": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite."
+      },
+      {
+        "game": "silver",
+        "desc": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell."
+      },
+      {
+        "game": "crystal",
+        "desc": "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy."
+      },
+      {
+        "game": "ruby",
+        "desc": "GIRAFARIG’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this POKéMON from behind can cause the rear head to suddenly lash out and bite."
+      },
+      {
+        "game": "sapphire",
+        "desc": "GIRAFARIG’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite."
+      },
+      {
+        "game": "emerald",
+        "desc": "A GIRAFARIG is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating."
+      },
+      {
+        "game": "diamond",
+        "desc": "Its tail also has a small brain. It bites to repel any foe trying to sneak up on it from behind."
+      },
+      {
+        "game": "pearl",
+        "desc": "While it sleeps, the head on its tail keeps watch. The tail doesn’t need to sleep."
+      },
+      {
+        "game": "platinum",
+        "desc": "The head on its tail contains a small brain. It can instinctively fight even while facing backward."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "The head on its tail contains a small brain. It can instinctively fight even while facing backward."
+      },
+      {
+        "game": "x",
+        "desc": "While it sleeps, the head on its tail keeps watch. The tail doesn’t need to sleep."
+      },
+      {
+        "game": "y",
+        "desc": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Girafarig’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Its tail has a separate small brain. The tail bites to repel any foe trying to sneak up on the Pokémon from behind."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "While it sleeps, the head on its tail keeps watch. The tail doesn’t need to sleep."
+      }
+    ]
+  }
+}

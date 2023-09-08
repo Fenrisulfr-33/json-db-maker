@@ -1,0 +1,101 @@
+{
+  "_id": 748,
+  "key": "toxapex",
+  "name": {
+    "english": "Toxapex",
+    "spanish": "Toxapex",
+    "italian": "Toxapex",
+    "japanese": "ドヒドイデ",
+    "chinese": "超坏星",
+    "korean": "",
+    "german": "Aggrostella",
+    "french": "Prédastérie"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 345,
+    "sword-shield": 308,
+    "isle-of-armor": 128
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Merciless",
+      "id": 196
+    },
+    "two": {
+      "name": "Limber",
+      "id": 7
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 63,
+    "def": 152,
+    "spatk": 53,
+    "spdef": 142,
+    "spd": 35,
+    "total": 495
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "14.5 kg (32.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 259,
+  "generation": 7,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Brutal Star Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "toxic": "poisonous",
+    "apex": "tip, point"
+  },
+  "pokedexEntries": {
+    "Toxapex": [
+      {
+        "game": "sun",
+        "desc": "Toxapex crawls along the ocean floor on its 12 legs. It leaves a trail of Corsola bits scattered in its wake."
+      },
+      {
+        "game": "moon",
+        "desc": "Those attacked by Toxapex’s poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "To attack, this Pokémon sends toxic spikes flying at its enemies. Ones that come close get mown down by the claws on its feet."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn’t affect Toxapex in there, so it’s very comfortable."
+      },
+      {
+        "game": "sword",
+        "desc": "To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat."
+      },
+      {
+        "game": "shield",
+        "desc": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect."
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_id": 901,
+  "key": "ursaluna",
+  "name": {
+    "english": "Ursaluna"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 114
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "two": {
+      "name": "Bulletproof",
+      "id": 171
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 130,
+    "atk": 140,
+    "def": 105,
+    "spatk": 45,
+    "spdef": 80,
+    "spd": 50,
+    "total": 550
+  },
+  "info": {
+    "height": "",
+    "weight": ""
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "",
+  "catchRate": null,
+  "baseFriendship": null,
+  "growthRate": null,
+  "eggCycles": null,
+  "nameOrigin": {},
+  "pokedexEntries": {}
+}

@@ -1,0 +1,67 @@
+{
+  "_id": 965,
+  "key": "varoom",
+  "name": {
+    "english": "Varoom"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 293
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overcoat",
+      "id": 142
+    },
+    "hidden": {
+      "name": "Slow Start",
+      "id": 112
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 70,
+    "def": 63,
+    "spatk": 30,
+    "spdef": 45,
+    "spd": 47,
+    "total": 300
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "35.0 kg (77.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Single-Cyl Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "vroom": "the sound a car makes"
+  },
+  "pokedexEntries": {
+    "Varoom": [
+      {
+        "game": "scarlet",
+        "desc": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory."
+      },
+      {
+        "game": "violet",
+        "desc": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+      }
+    ]
+  }
+}

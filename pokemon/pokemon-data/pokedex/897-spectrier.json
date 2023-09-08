@@ -1,0 +1,71 @@
+{
+  "_id": 897,
+  "key": "spectrier",
+  "name": {
+    "english": "Spectrier",
+    "spanish": "Spectrier",
+    "italian": "Spectrier",
+    "japanese": "レイスポス",
+    "chinese": "灵幽马",
+    "korean": "",
+    "german": "Phantoross",
+    "french": "Spectreval"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 209
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Grim Neigh",
+      "id": 265
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 65,
+    "def": 60,
+    "spatk": 145,
+    "spdef": 80,
+    "spd": 130,
+    "total": 580
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "44.5 kg (98.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Swift Horse Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 290,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {},
+  "pokedexEntries": {
+    "Spectrier": [
+      {
+        "game": "sword",
+        "desc": "It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body."
+      },
+      {
+        "game": "shield",
+        "desc": "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude."
+      }
+    ]
+  }
+}

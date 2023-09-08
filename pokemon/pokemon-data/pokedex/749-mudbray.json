@@ -1,0 +1,99 @@
+{
+  "_id": 749,
+  "key": "mudbray",
+  "name": {
+    "english": "Mudbray",
+    "spanish": "Mudbray",
+    "italian": "Mudbray",
+    "japanese": "ドロバンコ",
+    "chinese": "泥驴仔",
+    "korean": "",
+    "german": "Pampuli",
+    "french": "Tiboudet"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 272,
+    "sword-shield": 84
+  },
+  "type": {
+    "one": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "two": {
+      "name": "Stamina",
+      "id": 192
+    },
+    "hidden": {
+      "name": "Inner Focus",
+      "id": 39
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 100,
+    "def": 70,
+    "spatk": 45,
+    "spdef": 55,
+    "spd": 45,
+    "total": 385
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "110.0 kg (242.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 260,
+  "generation": 7,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Donkey Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 77,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "mud": "dirt",
+    "bray": "donkey noise"
+  },
+  "pokedexEntries": {
+    "Mudbray": [
+      {
+        "game": "sun",
+        "desc": "The mud stuck to Mudbray’s hooves enhances its grip and its powerful running gait."
+      },
+      {
+        "game": "moon",
+        "desc": "It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It loves playing in the mud. If it isn’t showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine."
+      },
+      {
+        "game": "sword",
+        "desc": "Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It’s skilled at making use of mud."
+      },
+      {
+        "game": "shield",
+        "desc": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping."
+      }
+    ]
+  }
+}

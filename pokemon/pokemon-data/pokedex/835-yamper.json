@@ -1,0 +1,77 @@
+{
+  "_id": 835,
+  "key": "yamper",
+  "name": {
+    "english": "Yamper",
+    "spanish": "Yamper",
+    "italian": "Yamper",
+    "japanese": "ワンパチ",
+    "chinese": "来电汪",
+    "korean": "",
+    "german": "Voldi",
+    "french": "Voltoutou"
+  },
+  "pokedexNumber": {
+    "sword-shield": 46,
+    "crown-tundra": 155
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Ball Fetch",
+      "id": 237
+    },
+    "hidden": {
+      "name": "Rattled",
+      "id": 155
+    }
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 45,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 50,
+    "spd": 26,
+    "total": 270
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "13.5 kg (29.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 285,
+  "generation": 8,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Puppy Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 54,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "yap": "high-pitched bark",
+    "scamper": "run around playfully"
+  },
+  "pokedexEntries": {
+    "Yamper": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail."
+      },
+      {
+        "game": "shield",
+        "desc": "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
+      }
+    ]
+  }
+}

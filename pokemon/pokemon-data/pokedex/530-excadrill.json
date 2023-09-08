@@ -1,0 +1,103 @@
+{
+  "_id": 530,
+  "key": "excadrill",
+  "name": {
+    "english": "Excadrill",
+    "spanish": "Excadrill",
+    "italian": "Excadrill",
+    "japanese": "ドリュウズ",
+    "chinese": "龙头地鼠",
+    "korean": "",
+    "german": "Stalobor",
+    "french": "Minotaupe"
+  },
+  "pokedexNumber": {
+    "sword-shield": 167
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Rush",
+      "id": 146
+    },
+    "two": {
+      "name": "Sand Force",
+      "id": 159
+    },
+    "hidden": {
+      "name": "Mold Breaker",
+      "id": 104
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 135,
+    "def": 60,
+    "spatk": 50,
+    "spdef": 65,
+    "spd": 88,
+    "total": 508
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "40.4 kg (89.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 183,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Subterrene Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 178,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "excavate": "make a hole or pit",
+    "drill": "device for making holes"
+  },
+  "pokedexEntries": {
+    "Excadrill": [
+      {
+        "game": "black",
+        "desc": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates."
+      },
+      {
+        "game": "white",
+        "desc": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill’s rampant digging."
+      },
+      {
+        "game": "shield",
+        "desc": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph."
+      }
+    ]
+  }
+}

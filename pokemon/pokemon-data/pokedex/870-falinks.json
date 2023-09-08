@@ -1,0 +1,80 @@
+{
+  "_id": 870,
+  "key": "falinks",
+  "name": {
+    "english": "Falinks",
+    "spanish": "Falinks",
+    "italian": "Falinks",
+    "japanese": "タイレーツ",
+    "chinese": "列阵兵",
+    "korean": "",
+    "german": "Legios",
+    "french": "Hexadron"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 300,
+    "sword-shield": 345
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Battle Armor",
+      "id": 4
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 100,
+    "def": 100,
+    "spatk": 70,
+    "spdef": 60,
+    "spd": 75,
+    "total": 470
+  },
+  "info": {
+    "height": "3.0 m (9′10″)",
+    "weight": "62.0 kg (136.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "atk": 2,
+    "spdef": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Formation Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 165,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "phalanx": "group of troops/officers in formation",
+    "links": "connected items"
+  },
+  "pokedexEntries": {
+    "Falinks": [
+      {
+        "game": "sword",
+        "desc": "Five of them are troopers, and one is the brass. The brass’s orders are absolute."
+      },
+      {
+        "game": "shield",
+        "desc": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
+      }
+    ]
+  }
+}

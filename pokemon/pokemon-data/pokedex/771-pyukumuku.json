@@ -1,0 +1,94 @@
+{
+  "_id": 771,
+  "key": "pyukumuku",
+  "name": {
+    "english": "Pyukumuku",
+    "spanish": "Pyukumuku",
+    "italian": "Pyukumuku",
+    "japanese": "ナマコブシ",
+    "chinese": "拳海参",
+    "korean": "",
+    "german": "Gufa",
+    "french": "Concombaffe"
+  },
+  "pokedexNumber": {
+    "sword-shield": 156
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Innards Out",
+      "id": 215
+    },
+    "hidden": {
+      "name": "Unaware",
+      "id": 109
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 60,
+    "def": 130,
+    "spatk": 30,
+    "spdef": 130,
+    "spd": 5,
+    "total": 410
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "1.2 kg (2.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Sea Cucumber Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 144,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "puke": "vomit",
+    "sea cucumber": "marine creature"
+  },
+  "pokedexEntries": {
+    "Pyukumuku": [
+      {
+        "game": "sun",
+        "desc": "It lives in shallow seas, such as areas near a beach. It can eject its internal organs, which it uses to engulf its prey or battle enemies."
+      },
+      {
+        "game": "moon",
+        "desc": "These Pokémon line the beaches. The sticky mucous that covers their bodies can be used to soothe sunburned skin. How convenient!"
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The tradition known as Pyukumuku chucking started from the custom of throwing Pyukumuku back into the sea after they wash onshore."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its entire body is covered in its own slime. If you accidentally step on one, you’ll slip, and it will get mad and smack you!"
+      },
+      {
+        "game": "sword",
+        "desc": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up."
+      }
+    ]
+  }
+}

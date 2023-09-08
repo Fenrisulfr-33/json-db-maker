@@ -1,0 +1,71 @@
+{
+  "_id": 896,
+  "key": "glastrier",
+  "name": {
+    "english": "Glastrier",
+    "spanish": "Glastrier",
+    "italian": "Glastrier",
+    "japanese": "ブリザポス",
+    "chinese": "雪暴马",
+    "korean": "",
+    "german": "Polaross",
+    "french": "Blizzeval"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 208
+  },
+  "type": {
+    "one": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chilling Neigh",
+      "id": 264
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 145,
+    "def": 130,
+    "spatk": 65,
+    "spdef": 110,
+    "spd": 30,
+    "total": 580
+  },
+  "info": {
+    "height": "2.2 m (7′03″)",
+    "weight": "800.0 kg (1763.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Wild Horse Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 290,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {},
+  "pokedexEntries": {
+    "Glastrier": [
+      {
+        "game": "sword",
+        "desc": "Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force."
+      },
+      {
+        "game": "shield",
+        "desc": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+      }
+    ]
+  }
+}

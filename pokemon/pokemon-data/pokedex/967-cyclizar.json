@@ -1,0 +1,68 @@
+{
+  "_id": 967,
+  "key": "cyclizar",
+  "name": {
+    "english": "Cyclizar"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 295
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 95,
+    "def": 65,
+    "spatk": 85,
+    "spdef": 65,
+    "spd": 121,
+    "total": 501
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "63.0 kg (138.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Mount Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "cycle": "vehicle with wheels",
+    "lizard": "a reptile"
+  },
+  "pokedexEntries": {
+    "Cyclizar": [
+      {
+        "game": "scarlet",
+        "desc": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals."
+      },
+      {
+        "game": "violet",
+        "desc": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
+      }
+    ]
+  }
+}

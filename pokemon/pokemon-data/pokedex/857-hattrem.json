@@ -1,0 +1,83 @@
+{
+  "_id": 857,
+  "key": "hattrem",
+  "name": {
+    "english": "Hattrem",
+    "spanish": "Hattrem",
+    "italian": "Hattrem",
+    "japanese": "テブリム",
+    "chinese": "提布莉姆",
+    "korean": "",
+    "german": "Brimano",
+    "french": "Chapotus"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 283,
+    "sword-shield": 242,
+    "crown-tundra": 41
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Healer",
+      "id": 131
+    },
+    "two": {
+      "name": "Anticipation",
+      "id": 107
+    },
+    "hidden": {
+      "name": "Magic Bounce",
+      "id": 156
+    }
+  },
+  "baseStats": {
+    "hp": 57,
+    "atk": 40,
+    "def": 65,
+    "spatk": 86,
+    "spdef": 73,
+    "spd": 49,
+    "total": 370
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "4.8 kg (10.6 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 294,
+  "generation": 8,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Serene Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 130,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "hat": ""
+  },
+  "pokedexEntries": {
+    "Hattrem": [
+      {
+        "game": "sword",
+        "desc": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently."
+      },
+      {
+        "game": "shield",
+        "desc": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer."
+      }
+    ]
+  }
+}

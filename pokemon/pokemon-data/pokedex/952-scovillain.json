@@ -1,0 +1,72 @@
+{
+  "_id": 952,
+  "key": "scovillain",
+  "name": {
+    "english": "Scovillain"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 251
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Insomnia",
+      "id": 15
+    },
+    "hidden": {
+      "name": "Moody",
+      "id": 141
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 108,
+    "def": 65,
+    "spatk": 108,
+    "spdef": 65,
+    "spd": 75,
+    "total": 486
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "15.0 kg (33.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Spicy Pepper Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "Scoville scale": "measurement of the spiciness of chili peppers",
+    "villain": "an evil character"
+  },
+  "pokedexEntries": {
+    "Scovillain": [
+      {
+        "game": "scarlet",
+        "desc": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame."
+      },
+      {
+        "game": "violet",
+        "desc": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+      }
+    ]
+  }
+}

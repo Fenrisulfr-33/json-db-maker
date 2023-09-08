@@ -1,0 +1,68 @@
+{
+  "_id": 1005,
+  "key": "roaring-moon",
+  "name": {
+    "english": "Roaring-Moon"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 397
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Protosynthesis",
+      "id": 281
+    },
+    "hidden": {
+      "name": "Protosynthesis",
+      "id": 281
+    }
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 139,
+    "def": 71,
+    "spatk": 55,
+    "spdef": 101,
+    "spd": 119,
+    "total": 590
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "380.0 kg (837.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 10,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "roaring": "deep cry of a lion/tiger",
+    "moon": "celestial object"
+  },
+  "pokedexEntries": {
+    "Roaring-moon": [
+      {
+        "game": "scarlet",
+        "desc": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries."
+      },
+      {
+        "game": "violet",
+        "desc": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "_id": 439,
+  "key": "mime-jr.",
+  "name": {
+    "english": "Mime Jr.",
+    "spanish": "Mime Jr.",
+    "italian": "Mime Jr.",
+    "japanese": "マネネ",
+    "chinese": "魔尼尼",
+    "korean": "",
+    "german": "Pantimimi",
+    "french": "Mime Jr"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 76,
+    "sword-shield": 364,
+    "crown-tundra": 10
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Soundproof",
+      "id": 43
+    },
+    "two": {
+      "name": "Filter",
+      "id": 111
+    },
+    "hidden": {
+      "name": "Technician",
+      "id": 101
+    }
+  },
+  "baseStats": {
+    "hp": 20,
+    "atk": 25,
+    "def": 45,
+    "spatk": 70,
+    "spdef": 90,
+    "spd": 60,
+    "total": 310
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "13.0 kg (28.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 153,
+  "generation": 4,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Mime Pokémon",
+  "catchRate": 145,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "mime artist": "a silent performer",
+    "junior": "younger"
+  },
+  "pokedexEntries": {
+    "Mime-jr": [
+      {
+        "game": "diamond",
+        "desc": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon."
+      },
+      {
+        "game": "pearl",
+        "desc": "It likes places where people gather. It mimics foes to confuse them, then makes its getaway."
+      },
+      {
+        "game": "platinum",
+        "desc": "It mimics the expressions and motions of those it sees to understand the feelings of others."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "In an attempt to confuse its enemy, it mimics the enemy’s movements. Then it wastes no time in making itself scarce!"
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It mimics the expressions and motions of those it sees to understand the feelings of others."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "In an attempt to confuse its enemy, it mimics the enemy’s movements. Then it wastes no time in making itself scarce!"
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It does its absolute best to mimic the movements and expressions of its opponents, but it’s still not very good at it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something."
+      },
+      {
+        "game": "sword",
+        "desc": "It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice."
+      },
+      {
+        "game": "shield",
+        "desc": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It habitually mimics foes. The mimicked foe is said to be unable to look away from Mime Jr."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It likes places where people gather. It mimics foes to confuse them, then makes its getaway."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling."
+      }
+    ]
+  }
+}

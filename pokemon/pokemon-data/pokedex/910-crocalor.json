@@ -1,0 +1,68 @@
+{
+  "_id": 910,
+  "key": "crocalor",
+  "name": {
+    "english": "Crocalor"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 5
+  },
+  "type": {
+    "one": "Fire",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Unaware",
+      "id": 109
+    }
+  },
+  "baseStats": {
+    "hp": 81,
+    "atk": 55,
+    "def": 78,
+    "spatk": 90,
+    "spdef": 58,
+    "spd": 49,
+    "total": 411
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "30.7 kg (67.7 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Fire Croc Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "crocodile": "reptile with long jaws",
+    "calor": "Spanish for ‘heat’"
+  },
+  "pokedexEntries": {
+    "Crocalor": [
+      {
+        "game": "scarlet",
+        "desc": "The combination of Crocalor’s fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokémon’s head."
+      },
+      {
+        "game": "violet",
+        "desc": "The valve in Crocalor’s flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+      }
+    ]
+  }
+}

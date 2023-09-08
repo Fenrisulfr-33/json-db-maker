@@ -1,0 +1,81 @@
+{
+  "_id": 793,
+  "key": "nihilego",
+  "name": {
+    "english": "Nihilego",
+    "spanish": "Nihilego",
+    "italian": "Nihilego",
+    "japanese": "ウツロイド",
+    "chinese": "虚吾伊德",
+    "korean": "",
+    "german": "Anego",
+    "french": "Zéroïd"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Rock",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beast Boost",
+      "id": 224
+    }
+  },
+  "baseStats": {
+    "hp": 109,
+    "atk": 53,
+    "def": 47,
+    "spatk": 127,
+    "spdef": 131,
+    "spd": 103,
+    "total": 570
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "55.5 kg (122.4 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Parasite Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "nihilism": "anarchy, desctructiveness",
+    "ego": "the self"
+  },
+  "pokedexEntries": {
+    "Nihilego": [
+      {
+        "game": "sun",
+        "desc": "One of several mysterious Ultra Beasts. People on the street report observing those infested by it suddenly becoming violent."
+      },
+      {
+        "game": "moon",
+        "desc": "One of the Ultra Beasts. It’s unclear whether or not this Pokémon is sentient, but sometimes it can be observed behaving like a young girl."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon."
+      }
+    ]
+  }
+}

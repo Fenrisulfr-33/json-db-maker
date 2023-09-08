@@ -1,0 +1,114 @@
+{
+  "_id": 384,
+  "key": "rayquaza",
+  "name": {
+    "english": "Rayquaza",
+    "spanish": "Rayquaza",
+    "italian": "Rayquaza",
+    "japanese": "レックウザ",
+    "chinese": "烈空坐",
+    "korean": "",
+    "german": "Rayquaza",
+    "french": "Rayquaza"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Dragon",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Air Lock",
+      "id": 76
+    }
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 150,
+    "def": 90,
+    "spatk": 150,
+    "spdef": 90,
+    "spd": 95,
+    "total": 680
+  },
+  "info": {
+    "height": "10.8 m (35′05″)",
+    "weight": "392.0 kg (864.2 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "atk": 2,
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Sky High Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "ray": "beam of light",
+    "quasar": "distant star"
+  },
+  "pokedexEntries": {
+    "Rayquaza": [
+      {
+        "game": "ruby",
+        "desc": "RAYQUAZA lived for hundreds of millions of years in the earth’s ozone layer, never descending to the ground. This POKéMON appears to feed on water and particles in the atmosphere."
+      },
+      {
+        "game": "sapphire",
+        "desc": "RAYQUAZA is said to have lived for hundreds of millions of years in the earth’s ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor."
+      },
+      {
+        "game": "emerald",
+        "desc": "A POKéMON that flies endlessly in the ozone layer. It is said it would descend to the ground if KYOGRE and GROUDON were to fight."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+      },
+      {
+        "game": "x",
+        "desc": "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+      },
+      {
+        "game": "y",
+        "desc": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It lives in the ozone layer far above the clouds and cannot be seen from the ground."
+      }
+    ]
+  }
+}

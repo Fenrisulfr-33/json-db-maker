@@ -1,0 +1,117 @@
+{
+  "_id": 483,
+  "key": "dialga",
+  "name": {
+    "english": "Dialga",
+    "spanish": "Dialga",
+    "italian": "Dialga",
+    "japanese": "ディアルガ",
+    "chinese": "帝牙卢卡",
+    "korean": "",
+    "german": "Dialga",
+    "french": "Dialga"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 235
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 120,
+    "def": 120,
+    "spatk": 150,
+    "spdef": 100,
+    "spd": 90,
+    "total": 680
+  },
+  "info": {
+    "height": "7.0 m (23′00″)",
+    "weight": "850.0 kg (1873.9 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Temporal Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "diamond": "precious stone; game of which Dialga is the mascot",
+    "dragon": "mythical fire-breathing creature"
+  },
+  "pokedexEntries": {
+    "Dialga": [
+      {
+        "game": "diamond",
+        "desc": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity."
+      },
+      {
+        "game": "pearl",
+        "desc": "A Pokémon spoken of in legend. It is said that time began moving when DIALGA was born."
+      },
+      {
+        "game": "platinum",
+        "desc": "A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart beats."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "This Pokémon is spoken of in legend. It is said that time began moving when Dialga was born."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world."
+      }
+    ],
+    "Origin Forme": [
+      {
+        "game": "legends-arceus",
+        "desc": "Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form."
+      }
+    ]
+  }
+}

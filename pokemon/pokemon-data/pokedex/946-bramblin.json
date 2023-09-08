@@ -1,0 +1,68 @@
+{
+  "_id": 946,
+  "key": "bramblin",
+  "name": {
+    "english": "Bramblin"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 242
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Wind Rider",
+      "id": 274
+    },
+    "hidden": {
+      "name": "Infiltrator",
+      "id": 151
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 30,
+    "spatk": 45,
+    "spdef": 35,
+    "spd": 60,
+    "total": 275
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "0.6 kg (1.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Tumbleweed Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bramble": "prickly weeds",
+    "rambling": "walking, hiking"
+  },
+  "pokedexEntries": {
+    "Bramblin": [
+      {
+        "game": "scarlet",
+        "desc": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokémon."
+      },
+      {
+        "game": "violet",
+        "desc": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_id": 850,
+  "key": "sizzlipede",
+  "name": {
+    "english": "Sizzlipede",
+    "spanish": "Sizzlipede",
+    "italian": "Sizzlipede",
+    "japanese": "ヤクデ",
+    "chinese": "烧火蚣",
+    "korean": "",
+    "german": "Thermopod",
+    "french": "Grillepattes"
+  },
+  "pokedexNumber": {
+    "sword-shield": 159,
+    "crown-tundra": 99
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "two": {
+      "name": "White Smoke",
+      "id": 73
+    },
+    "hidden": {
+      "name": "Flame Body",
+      "id": 49
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 45,
+    "spatk": 50,
+    "spdef": 50,
+    "spd": 45,
+    "total": 305
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 291,
+  "generation": 8,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Radiator Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sizzle": "",
+    "centipede": ""
+  },
+  "pokedexEntries": {
+    "Sizzlipede": [
+      {
+        "game": "sword",
+        "desc": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot."
+      },
+      {
+        "game": "shield",
+        "desc": "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel."
+      }
+    ]
+  }
+}

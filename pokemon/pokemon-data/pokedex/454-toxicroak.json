@@ -1,0 +1,130 @@
+{
+  "_id": 454,
+  "key": "toxicroak",
+  "name": {
+    "english": "Toxicroak",
+    "spanish": "Toxicroak",
+    "italian": "Toxicroak",
+    "japanese": "ドクロッグ",
+    "chinese": "毒骷蛙",
+    "korean": "",
+    "german": "Toxiquak",
+    "french": "Coatox"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 176,
+    "legends-arceus": 100,
+    "sword-shield": 223,
+    "isle-of-armor": 83
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Anticipation",
+      "id": 107
+    },
+    "two": {
+      "name": "Dry Skin",
+      "id": 87
+    },
+    "hidden": {
+      "name": "Poison Touch",
+      "id": 143
+    }
+  },
+  "baseStats": {
+    "hp": 83,
+    "atk": 106,
+    "def": 65,
+    "spatk": 86,
+    "spdef": 65,
+    "spd": 85,
+    "total": 490
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "44.4 kg (97.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 159,
+  "generation": 4,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Toxic Mouth Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "toxic": "poisonous",
+    "croak": "the sound a frog makes"
+  },
+  "pokedexEntries": {
+    "Toxicroak": [
+      {
+        "game": "diamond",
+        "desc": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal."
+      },
+      {
+        "game": "pearl",
+        "desc": "The toxin made in its poison sacs is pumped to the knuckle claws through tubes down its arms."
+      },
+      {
+        "game": "platinum",
+        "desc": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws."
+      },
+      {
+        "game": "black-white",
+        "desc": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal."
+      },
+      {
+        "game": "sword",
+        "desc": "It bounces toward opponents and gouges them with poisonous claws. No more than a scratch is needed to knock out its adversaries."
+      },
+      {
+        "game": "shield",
+        "desc": "It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "The toxin made in its poison sac is pumped to the knuckle claws through tubes down its arms."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days."
+      }
+    ]
+  }
+}

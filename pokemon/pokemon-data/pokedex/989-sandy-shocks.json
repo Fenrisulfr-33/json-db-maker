@@ -1,0 +1,68 @@
+{
+  "_id": 989,
+  "key": "sandy-shocks",
+  "name": {
+    "english": "Sandy-Shocks"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 381
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Protosynthesis",
+      "id": 281
+    },
+    "hidden": {
+      "name": "Protosynthesis",
+      "id": 281
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 81,
+    "def": 97,
+    "spatk": 121,
+    "spdef": 85,
+    "spd": 101,
+    "total": 570
+  },
+  "info": {
+    "height": "2.3 m (7′07″)",
+    "weight": "60.0 kg (132.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "sandy": "covered in fine rock debris",
+    "shocks": "sudden discharges of electricity"
+  },
+  "pokedexEntries": {
+    "Sandy-shocks": [
+      {
+        "game": "scarlet",
+        "desc": "No records exist of this Pokémon being caught. Data is lacking, but the Pokémon’s traits match up with a creature shown in an expedition journal."
+      },
+      {
+        "game": "violet",
+        "desc": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine."
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "_id": 34,
+  "key": "nidoking",
+  "name": {
+    "english": "Nidoking",
+    "spanish": "Nidoking",
+    "italian": "Nidoking",
+    "japanese": "ニドキング",
+    "chinese": "尼多王",
+    "korean": "",
+    "german": "Nidoking",
+    "french": "Nidoking"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 70,
+    "crystal": 100,
+    "gold-silver": 100,
+    "yellow": 34,
+    "red-blue": 34
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "hidden": {
+      "name": "Sheer Force",
+      "id": 125
+    }
+  },
+  "baseStats": {
+    "hp": 81,
+    "atk": 102,
+    "def": 77,
+    "spatk": 85,
+    "spdef": 75,
+    "spd": 85,
+    "total": 505
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "62.0 kg (136.7 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": 13,
+  "generation": 1,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "species": "Drill Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 227,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "nidoru": "Japanese for ‘needle’",
+    "king": "male royalty"
+  },
+  "pokedexEntries": {
+    "Nidoking": [
+      {
+        "game": "red-blue",
+        "desc": "It uses its powerful tail in battle to smash, constrict, then break the prey’s bones."
+      },
+      {
+        "game": "yellow",
+        "desc": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond."
+      },
+      {
+        "game": "gold",
+        "desc": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body."
+      },
+      {
+        "game": "silver",
+        "desc": "Its tail is thick and powerful. If it binds an enemy, it can snap the victim’s spine quite easily."
+      },
+      {
+        "game": "crystal",
+        "desc": "It uses its thick arms, legs and tail to attack forcefully. Melee combat is its specialty."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "NIDOKING’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this POKéMON goes on a rampage, there is no stopping it."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn as it contains venom."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It uses its powerful tail in battle to smash, constrict, then break the prey’s bones."
+      },
+      {
+        "game": "emerald",
+        "desc": "A NIDOKING’s thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It swings its big tail around during battle. If its foe flinches, it will charge with its sturdy body."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its tail is thick and powerful. If it binds an enemy, it can render the victim helpless quite easily."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+      },
+      {
+        "game": "x",
+        "desc": "It is recognized by its rock-hard hide and its extended horn. Be careful with the horn, as it contains venom."
+      },
+      {
+        "game": "y",
+        "desc": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond."
+      },
+      {
+        "game": "sword",
+        "desc": "When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down."
+      },
+      {
+        "game": "shield",
+        "desc": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick."
+      }
+    ]
+  }
+}

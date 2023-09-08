@@ -1,0 +1,78 @@
+{
+  "_id": 817,
+  "key": "drizzile",
+  "name": {
+    "english": "Drizzile",
+    "spanish": "Drizzile",
+    "italian": "Drizzile",
+    "japanese": "ジメレオン",
+    "chinese": "变涩蜥",
+    "korean": "",
+    "german": "Phlegleon",
+    "french": "Arrozard"
+  },
+  "pokedexNumber": {
+    "sword-shield": 8
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Sniper",
+      "id": 97
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 55,
+    "spatk": 95,
+    "spdef": 55,
+    "spd": 90,
+    "total": 420
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "11.5 kg (25.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 276,
+  "generation": 8,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Water lizard Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "drizzle": "",
+    "prehensile": ""
+  },
+  "pokedexEntries": {
+    "Drizzile": [
+      {
+        "game": "sword",
+        "desc": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms."
+      },
+      {
+        "game": "shield",
+        "desc": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+      }
+    ]
+  }
+}

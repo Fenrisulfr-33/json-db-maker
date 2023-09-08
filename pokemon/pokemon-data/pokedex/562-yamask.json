@@ -1,0 +1,105 @@
+{
+  "_id": 562,
+  "key": "yamask",
+  "name": {
+    "english": "Yamask",
+    "spanish": "Yamask",
+    "italian": "Yamask",
+    "japanese": "デスマス",
+    "chinese": "哭哭面具",
+    "korean": "",
+    "german": "Makabaja",
+    "french": "Tutafeh"
+  },
+  "pokedexNumber": {
+    "sword-shield": 327
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Mummy",
+      "id": 152
+    }
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 30,
+    "def": 85,
+    "spatk": 55,
+    "spdef": 65,
+    "spd": 30,
+    "total": 303
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "1.5 kg (3.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 194,
+  "generation": 5,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "species": "Spirit Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "yami": "Japanese for ‘darkness’",
+    "mask": "face covering"
+  },
+  "pokedexEntries": {
+    "Yamask": [
+      {
+        "game": "black",
+        "desc": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry."
+      },
+      {
+        "game": "white",
+        "desc": "These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry."
+      },
+      {
+        "game": "sword",
+        "desc": "It wanders through ruins by night, carrying a mask that’s said to have been the face it had when it was still human."
+      },
+      {
+        "game": "shield",
+        "desc": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face."
+      }
+    ],
+    "Galarian Yamask": [
+      {
+        "game": "sword",
+        "desc": "A clay slab with cursed engravings took possession of a Yamask. The slab is said to be absorbing the Yamask’s dark power."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s said that this Pokémon was formed when an ancient clay tablet was drawn to a vengeful spirit."
+      }
+    ]
+  }
+}

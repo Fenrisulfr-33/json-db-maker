@@ -1,0 +1,208 @@
+{
+  "_id": 80,
+  "key": "slowbro",
+  "name": {
+    "english": "Slowbro",
+    "spanish": "Slowbro",
+    "italian": "Slowbro",
+    "japanese": "ヤドラン",
+    "chinese": "呆壳兽",
+    "korean": "",
+    "german": "Lahmus",
+    "french": "Flagadoss"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 325,
+    "crystal": 81,
+    "gold-silver": 81,
+    "yellow": 80,
+    "red-blue": 80
+  },
+  "type": {
+    "one": "Water",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 75,
+    "def": 110,
+    "spatk": 100,
+    "spdef": 80,
+    "spd": 30,
+    "total": 490
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "70.5 kg (155.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 33,
+  "generation": 1,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "species": "Hermit Crab Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "slow": "not fast",
+    "bro": "friend, pal"
+  },
+  "pokedexEntries": {
+    "Slowbro": [
+      {
+        "game": "red-blue",
+        "desc": "The SHELLDER that is latched onto SLOWPOKE’s tail is said to feed on the host’s left over scraps."
+      },
+      {
+        "game": "yellow",
+        "desc": "Lives lazily by the sea. If the SHELLDER on its tail comes off, it becomes a SLOWPOKE again."
+      },
+      {
+        "game": "gold",
+        "desc": "If the tail-biting SHELLDER is thrown off in a harsh battle, it reverts to being an ordinary SLOWPOKE."
+      },
+      {
+        "game": "silver",
+        "desc": "Naturally dull to begin with, it lost its ability to feel pain due to SHELLDER’s seeping poison."
+      },
+      {
+        "game": "crystal",
+        "desc": "An attached SHELLDER won’t let go because of the tasty flavor that oozes out of its tail."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SLOWBRO’s tail has a SHELLDER firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes SLOWBRO to grudgingly swim and catch prey instead."
+      },
+      {
+        "game": "fire-red",
+        "desc": "When a SLOWPOKE went hunting in the sea, its tail was bitten by a SHELLDER. That made it evolve into SLOWBRO."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The SHELLDER that latches onto SLOWPOKE’s tail is said to feed on the host’s leftover scraps."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its tail has a SHELLDER firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This forces it to reluctantly swim and catch prey."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If the tail-biting SHELLDER is thrown off in a harsh battle, it reverts to being an ordinary SLOWPOKE."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Naturally dull to begin with, it lost its ability to feel pain due to SHELLDER’s seeping poison."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down."
+      },
+      {
+        "game": "x",
+        "desc": "An attached Shellder won’t let go because of the tasty flavor that oozes out of its tail."
+      },
+      {
+        "game": "y",
+        "desc": "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Slowbro’s tail has a Shellder firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead."
+      },
+      {
+        "game": "sun",
+        "desc": "It spaces out while gazing at the sea. With Shellder’s poison flowing through its body, it becomes even spacier."
+      },
+      {
+        "game": "moon",
+        "desc": "Whenever Shellder bites down hard on its tail, it gives Slowbro a flash of inspiration...which it forgets a moment later."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Spacing out is basically all it does. It turns back into Slowpoke if its tail, along with Shellder, breaks off."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Shellder, in its greed to suck out more and more sweetness from Slowbro’s tail, has metamorphosed into a spiral-shaped shell."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again."
+      },
+      {
+        "game": "sword",
+        "desc": "Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream."
+      },
+      {
+        "game": "shield",
+        "desc": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Though usually dim-witted, it seems to become inspired if the Shellder on its tail bites down."
+      }
+    ],
+    "Mega Slowbro": [
+      {
+        "game": "sun",
+        "desc": "All the energy from Mega Evolution poured into the Shellder on its tail, leaving Slowpoke to be swallowed whole."
+      },
+      {
+        "game": "moon",
+        "desc": "When bathed in the energy of Mega Evolution, Shellder converts into impregnable armor. There is virtually no change in Slowpoke."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Tremendous energy strengthened the power of the Shellder on its tail, but it doesn’t really affect Slowpoke."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Having been swallowed whole by Shellder, Slowbro now has an iron defense. It’s pretty comfortable in there, too."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Under the influence of Shellder’s digestive fluids, Slowpoke has awakened, gaining a great deal of power—and a little motivation to boot."
+      }
+    ],
+    "Galarian Slowbro": [
+      {
+        "game": "sword",
+        "desc": "A Shellder bite set off a chemical reaction with the spices inside Slowbro’s body, causing Slowbro to become a Poison-type Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell."
+      }
+    ]
+  }
+}

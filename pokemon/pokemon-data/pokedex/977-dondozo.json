@@ -1,0 +1,72 @@
+{
+  "_id": 977,
+  "key": "dondozo",
+  "name": {
+    "english": "Dondozo"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 374
+  },
+  "type": {
+    "one": "Water",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Unaware",
+      "id": 109
+    },
+    "two": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "hidden": {
+      "name": "Water Veil",
+      "id": 41
+    }
+  },
+  "baseStats": {
+    "hp": 150,
+    "atk": 100,
+    "def": 115,
+    "spatk": 65,
+    "spdef": 65,
+    "spd": 35,
+    "total": 530
+  },
+  "info": {
+    "height": "12.0 m (39′04″)",
+    "weight": "220.0 kg (485.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Big Catfish Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "don": "of great size/importance; lord or master",
+    "dozo": "Japanese for ‘please go ahead’"
+  },
+  "pokedexEntries": {
+    "Dondozo": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey."
+      },
+      {
+        "game": "violet",
+        "desc": "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_id": 905,
+  "key": "enamorus",
+  "name": {
+    "english": "Enamorus"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 234
+  },
+  "type": {
+    "one": "Fairy",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cute Charm",
+      "id": 56
+    },
+    "hidden": {
+      "name": "Contrary",
+      "id": 126
+    }
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 115,
+    "def": 70,
+    "spatk": 135,
+    "spdef": 80,
+    "spd": 106,
+    "total": 580
+  },
+  "info": {
+    "height": "",
+    "weight": ""
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "",
+  "catchRate": null,
+  "baseFriendship": null,
+  "growthRate": null,
+  "eggCycles": null,
+  "nameOrigin": {},
+  "pokedexEntries": {}
+}

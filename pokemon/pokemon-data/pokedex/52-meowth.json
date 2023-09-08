@@ -1,0 +1,224 @@
+{
+  "_id": 52,
+  "key": "meowth",
+  "name": {
+    "english": "Meowth",
+    "spanish": "Meowth",
+    "italian": "Meowth",
+    "japanese": "ニャース",
+    "chinese": "喵喵",
+    "korean": "",
+    "german": "Mauzi",
+    "french": "Miaouss"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 141,
+    "sword-shield": 182,
+    "crystal": 138,
+    "gold-silver": 138,
+    "yellow": 52,
+    "red-blue": 52
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "two": {
+      "name": "Technician",
+      "id": 101
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 90,
+    "total": 290
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "7.5 kg (16.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 22,
+  "generation": 1,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Scratch Cat Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 58,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "meow": "the sound a cat makes"
+  },
+  "pokedexEntries": {
+    "Meowth": [
+      {
+        "game": "red-blue",
+        "desc": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
+      },
+      {
+        "game": "yellow",
+        "desc": "Appears to be more active at night. It loves round and shiny things. It can’t stop from picking them up."
+      },
+      {
+        "game": "gold",
+        "desc": "It is fascinated by round objects. It can’t stop playing with them until it tires and falls asleep."
+      },
+      {
+        "game": "silver",
+        "desc": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards."
+      },
+      {
+        "game": "crystal",
+        "desc": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "MEOWTH withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this POKéMON loves shiny coins that glitter with light."
+      },
+      {
+        "game": "fire-red",
+        "desc": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change."
+      },
+      {
+        "game": "emerald",
+        "desc": "MEOWTH withdraw their sharp claws into their paws to silently sneak about. For some reason, this POKéMON loves shiny coins that glitter with light."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It is fascinated by round objects. It can’t stop playing with them until it tires and falls asleep."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly."
+      },
+      {
+        "game": "x",
+        "desc": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly."
+      },
+      {
+        "game": "y",
+        "desc": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light."
+      },
+      {
+        "game": "sun",
+        "desc": "It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change."
+      },
+      {
+        "game": "moon",
+        "desc": "It loves shiny things. It often fights with Murkrow over prey they’re both trying to catch."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It loves coins, so if you give it one, you can make friends with Meowth easily. But it’s fickle, so you can’t count on that friendship lasting."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Appears to be more active at night. It loves round and shiny things. It can’t stop itself from picking them up."
+      },
+      {
+        "game": "sword",
+        "desc": "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures."
+      },
+      {
+        "game": "shield",
+        "desc": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is nocturnal by nature. If it spots something shiny, its eyes glitter as brightly as the shiny object."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "The pattern that has appeared on its giant coin is thought to be the key to unlocking the secrets of the Dynamax phenomenon."
+      },
+      {
+        "game": "shield",
+        "desc": "Its body has grown incredibly long and the coin on its forehead has grown incredibly large—all thanks to Gigantamax power."
+      }
+    ],
+    "Alolan Meowth": [
+      {
+        "game": "sun",
+        "desc": "This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They’re prideful and crafty."
+      },
+      {
+        "game": "moon",
+        "desc": "When its delicate pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s impulsive, selfish, and fickle. It’s very popular with some Trainers who like giving it the attention it needs."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Highly intelligent and prideful, it’s famously difficult to handle—but that’s also a reason for its popularity."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s accustomed to luxury because it used to live with Alolan royalty. As a result, it’s very picky about food."
+      },
+      {
+        "game": "shield",
+        "desc": "Deeply proud and keenly smart, this Pokémon moves with cunning during battle and relentlessly attacks enemies’ weak points."
+      }
+    ],
+    "Galarian Meowth": [
+      {
+        "game": "sword",
+        "desc": "Living with a savage, seafaring people has toughened this Pokémon’s body so much that parts of it have turned to iron."
+      },
+      {
+        "game": "shield",
+        "desc": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth."
+      }
+    ]
+  }
+}

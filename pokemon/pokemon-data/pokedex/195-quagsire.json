@@ -1,0 +1,157 @@
+{
+  "_id": 195,
+  "key": "quagsire",
+  "name": {
+    "english": "Quagsire",
+    "spanish": "Quagsire",
+    "italian": "Quagsire",
+    "japanese": "ヌオー",
+    "chinese": "沼王",
+    "korean": "",
+    "german": "Morlord",
+    "french": "Maraiste"
+  },
+  "pokedexNumber": {
+    "sword-shield": 101,
+    "isle-of-armor": 59,
+    "crystal": 57,
+    "gold-silver": 57
+  },
+  "type": {
+    "one": "Water",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Damp",
+      "id": 6
+    },
+    "two": {
+      "name": "Water Absorb",
+      "id": 11
+    },
+    "hidden": {
+      "name": "Unaware",
+      "id": 109
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 85,
+    "def": 85,
+    "spatk": 65,
+    "spdef": 65,
+    "spd": 35,
+    "total": 430
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "75.0 kg (165.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 68,
+  "generation": 2,
+  "evs": {},
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Water Fish Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 151,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "quagmire": "swamp, quicksand",
+    "sire": "master, lord"
+  },
+  "pokedexEntries": {
+    "Quagsire": [
+      {
+        "game": "gold",
+        "desc": "This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls."
+      },
+      {
+        "game": "silver",
+        "desc": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims."
+      },
+      {
+        "game": "crystal",
+        "desc": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "This carefree POKéMON has an easygoing nature. While swimming, it always bumps into boat hulls."
+      },
+      {
+        "game": "emerald",
+        "desc": "A QUAGSIRE hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn’t move, it does not get very hungry."
+      },
+      {
+        "game": "diamond",
+        "desc": "It has a sluggish nature. It lies at the river’s bottom, waiting for prey to stray into its mouth."
+      },
+      {
+        "game": "pearl",
+        "desc": "A dim-witted Pokémon. It doesn’t care if it bumps its head into boats or rocks while swimming."
+      },
+      {
+        "game": "platinum",
+        "desc": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming."
+      },
+      {
+        "game": "x",
+        "desc": "It has a sluggish nature. It lies at the river’s bottom, waiting for prey to stray into its mouth."
+      },
+      {
+        "game": "y",
+        "desc": "This carefree Pokémon has an easygoing nature. While swimming, it always bumps into boat hulls."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry."
+      },
+      {
+        "game": "sword",
+        "desc": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming."
+      },
+      {
+        "game": "shield",
+        "desc": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It has a sluggish nature. It lies at the river’s bottom, waiting for prey to stray into its mouth."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "A dim-witted Pokémon. It doesn’t care if it bumps its head into boats or rocks while swimming."
+      }
+    ]
+  }
+}

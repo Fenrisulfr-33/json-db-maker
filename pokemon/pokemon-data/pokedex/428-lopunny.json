@@ -1,0 +1,146 @@
+{
+  "_id": 428,
+  "key": "lopunny",
+  "name": {
+    "english": "Lopunny",
+    "spanish": "Lopunny",
+    "italian": "Lopunny",
+    "japanese": "ミミロップ",
+    "chinese": "长耳兔",
+    "korean": "",
+    "german": "Schlapor",
+    "french": "Lockpin"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 65,
+    "isle-of-armor": 5
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cute Charm",
+      "id": 56
+    },
+    "two": {
+      "name": "Klutz",
+      "id": 103
+    },
+    "hidden": {
+      "name": "Limber",
+      "id": 7
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 76,
+    "def": 84,
+    "spatk": 54,
+    "spdef": 96,
+    "spd": 105,
+    "total": 480
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "28.3 kg (62.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 145,
+  "generation": 4,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "species": "Rabbit Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 140,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "lop-eared": "type of rabbit whose ears droop down",
+    "bunny": "slang for rabbit, a small mammal with long ears"
+  },
+  "pokedexEntries": {
+    "Lopunny": [
+      {
+        "game": "diamond",
+        "desc": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger."
+      },
+      {
+        "game": "pearl",
+        "desc": "It is very conscious of its looks and never fails to groom its ears. It runs with sprightly jumps."
+      },
+      {
+        "game": "platinum",
+        "desc": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It sheds its fur twice a year. Its winter fur is soft and fluffy."
+      },
+      {
+        "game": "black-white",
+        "desc": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Extremely cautious, it quickly bounds off when it senses danger."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Extremely cautious, it quickly bounds off when it senses danger."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Lopunny regrows its coat twice a year. Mufflers and hats made from its fur are really warm."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It’s notably wary and has a dislike of fighting, but at the same time, it can deliver powerful kicks with its lithe legs."
+      },
+      {
+        "game": "sword",
+        "desc": "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks."
+      },
+      {
+        "game": "shield",
+        "desc": "Once hot seasons are over, Lopunny’s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "An extremely cautious Pokémon that cloaks its body with its fluffy ear fur when it senses danger."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It likes to keep itself clean and never fails to groom its ears. It runs with sprightly jumps."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its fur is warm and yet remarkably light. This Pokémon kicks as though it were a master of karate, driving back its opponents with ease."
+      }
+    ],
+    "Mega Lopunny": [
+      {
+        "game": "ultra-sun",
+        "desc": "It swings its ears like whips and strikes its enemies with them. It has an intensely combative disposition."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Mega Evolution awakens its combative instincts. It has shed any fur that got in the way of its attacks."
+      }
+    ]
+  }
+}

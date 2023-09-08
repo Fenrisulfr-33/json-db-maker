@@ -1,0 +1,96 @@
+{
+  "_id": 697,
+  "key": "tyrantrum",
+  "name": {
+    "english": "Tyrantrum",
+    "spanish": "Tyrantrum",
+    "italian": "Tyrantrum",
+    "japanese": "ガチゴラス",
+    "chinese": "怪颚龙",
+    "korean": "",
+    "german": "Monargoras",
+    "french": "Rexillius"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 84
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Strong Jaw",
+      "id": 173
+    },
+    "hidden": {
+      "name": "Rock Head",
+      "id": 69
+    }
+  },
+  "baseStats": {
+    "hp": 82,
+    "atk": 121,
+    "def": 119,
+    "spatk": 69,
+    "spdef": 59,
+    "spd": 71,
+    "total": 521
+  },
+  "info": {
+    "height": "2.5 m (8′02″)",
+    "weight": "270.0 kg (595.2 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 243,
+  "generation": 6,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Despot Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 182,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "Tyrannosaurus": "a large bipedal dinosaur",
+    "tantrum": "a display of rage or frustration"
+  },
+  "pokedexEntries": {
+    "Tyrantrum": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Nothing could stop this Pokémon 100 million years ago, so it behaved like a king."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent."
+      },
+      {
+        "game": "shield",
+        "desc": "A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world."
+      }
+    ]
+  }
+}

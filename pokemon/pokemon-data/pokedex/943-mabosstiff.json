@@ -1,0 +1,72 @@
+{
+  "_id": 943,
+  "key": "mabosstiff",
+  "name": {
+    "english": "Mabosstiff"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 197
+  },
+  "type": {
+    "one": "Dark",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Guard Dog",
+      "id": 275
+    },
+    "hidden": {
+      "name": "Stakeout",
+      "id": 198
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 90,
+    "spatk": 60,
+    "spdef": 70,
+    "spd": 85,
+    "total": 505
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "61.0 kg (134.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Boss Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "mastiff": "a breed of dog",
+    "boss": "leader, chief"
+  },
+  "pokedexEntries": {
+    "Mabosstiff": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies."
+      },
+      {
+        "game": "violet",
+        "desc": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+      }
+    ]
+  }
+}

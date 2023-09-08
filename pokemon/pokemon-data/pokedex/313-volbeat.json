@@ -1,0 +1,121 @@
+{
+  "_id": 313,
+  "key": "volbeat",
+  "name": {
+    "english": "Volbeat",
+    "spanish": "Volbeat",
+    "italian": "Volbeat",
+    "japanese": "バルビート",
+    "chinese": "电萤虫",
+    "korean": "",
+    "german": "Volbeat",
+    "french": "Muciole"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Illuminate",
+      "id": 35
+    },
+    "two": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "hidden": {
+      "name": "Prankster",
+      "id": 158
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 73,
+    "def": 75,
+    "spatk": 47,
+    "spdef": 85,
+    "spd": 85,
+    "total": 430
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "17.7 kg (39.0 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Bug",
+    "Human-Like"
+  ],
+  "species": "Firefly Pokémon",
+  "catchRate": 150,
+  "baseFriendship": 50,
+  "baseExp": 151,
+  "growthRate": "Erratic",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "volt": "unit of electricity",
+    "beat": "rhythym"
+  },
+  "pokedexEntries": {
+    "Volbeat": [
+      {
+        "game": "ruby",
+        "desc": "With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This POKéMON is attracted by the sweet aroma of ILLUMISE."
+      },
+      {
+        "game": "sapphire",
+        "desc": "VOLBEAT’s tail glows like a lightbulb. With other VOLBEAT, it uses its tail to draw geometric shapes in the night sky. This POKéMON loves the sweet aroma given off by ILLUMISE."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light."
+      },
+      {
+        "game": "emerald",
+        "desc": "With their taillights lit, VOLBEAT fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It emits light from its tail to communicate. It loves the sweet aroma given off by ILLUMISE."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma."
+      },
+      {
+        "game": "x",
+        "desc": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma."
+      },
+      {
+        "game": "y",
+        "desc": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_id": 983,
+  "key": "kingambit",
+  "name": {
+    "english": "Kingambit"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 369
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Defiant",
+      "id": 128
+    },
+    "two": {
+      "name": "Supreme Overlord",
+      "id": 293
+    },
+    "hidden": {
+      "name": "Pressure",
+      "id": 46
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 135,
+    "def": 120,
+    "spatk": 60,
+    "spdef": 85,
+    "spd": 50,
+    "total": 550
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "120.0 kg (264.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Big Blade Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "king": "royalty",
+    "King's Gambit": "a chess move"
+  },
+  "pokedexEntries": {
+    "Kingambit": [
+      {
+        "game": "scarlet",
+        "desc": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit."
+      },
+      {
+        "game": "violet",
+        "desc": "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "_id": 783,
+  "key": "hakamo-o",
+  "name": {
+    "english": "Hakamo-o",
+    "spanish": "Hakamo-o",
+    "italian": "Hakamo-o",
+    "japanese": "ジャランゴ",
+    "chinese": "鳞甲龙",
+    "korean": "",
+    "german": "Mediras",
+    "french": "Ékaïser"
+  },
+  "pokedexNumber": {
+    "sword-shield": 393,
+    "isle-of-armor": 166
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Bulletproof",
+      "id": 171
+    },
+    "two": {
+      "name": "Soundproof",
+      "id": 43
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 75,
+    "def": 90,
+    "spatk": 65,
+    "spdef": 70,
+    "spd": 65,
+    "total": 420
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "47.0 kg (103.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 270,
+  "generation": 7,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Scaly Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "haka": "loud Maori war dance",
+    "mo'o": "Hawaiian for ‘dragon’"
+  },
+  "pokedexEntries": {
+    "Hakamo-o": [
+      {
+        "game": "sun",
+        "desc": "It leaps at its prey with a courageous shout. Its scaly punches tear its opponents to shreds."
+      },
+      {
+        "game": "moon",
+        "desc": "It sheds and regrows its scales on a continuous basis. The scales become harder and sharper each time they’re regrown."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It makes noise by clanging its scales together. When the rhythm has reached its peak, Hakamo-o attacks."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they’re a popular item."
+      },
+      {
+        "game": "sword",
+        "desc": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents."
+      },
+      {
+        "game": "shield",
+        "desc": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition."
+      }
+    ]
+  }
+}

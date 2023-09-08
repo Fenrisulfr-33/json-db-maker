@@ -1,0 +1,68 @@
+{
+  "_id": 928,
+  "key": "smoliv",
+  "name": {
+    "english": "Smoliv"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 84
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Early Bird",
+      "id": 48
+    },
+    "hidden": {
+      "name": "Harvest",
+      "id": 139
+    }
+  },
+  "baseStats": {
+    "hp": 41,
+    "atk": 35,
+    "def": 45,
+    "spatk": 58,
+    "spdef": 51,
+    "spd": 30,
+    "total": 260
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "6.5 kg (14.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Olive Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "smol": "slang for ‘small’",
+    "olive": "small bitter fruit"
+  },
+  "pokedexEntries": {
+    "Smoliv": [
+      {
+        "game": "scarlet",
+        "desc": "It protects itself from enemies by emitting oil from the fruit on its head. This oil is bitter and astringent enough to make someone flinch."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+      }
+    ]
+  }
+}

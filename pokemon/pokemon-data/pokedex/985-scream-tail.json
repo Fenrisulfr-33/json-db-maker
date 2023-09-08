@@ -1,0 +1,68 @@
+{
+  "_id": 985,
+  "key": "scream-tail",
+  "name": {
+    "english": "Scream-Tail"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 377
+  },
+  "type": {
+    "one": "Fairy",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Protosynthesis",
+      "id": 281
+    },
+    "hidden": {
+      "name": "Protosynthesis",
+      "id": 281
+    }
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 65,
+    "def": 99,
+    "spatk": 65,
+    "spdef": 115,
+    "spd": 111,
+    "total": 570
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "scream": "shout loudly",
+    "tail": "hindmost part of an animal"
+  },
+  "pokedexEntries": {
+    "Scream-tail": [
+      {
+        "game": "scarlet",
+        "desc": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal."
+      },
+      {
+        "game": "violet",
+        "desc": "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago."
+      }
+    ]
+  }
+}

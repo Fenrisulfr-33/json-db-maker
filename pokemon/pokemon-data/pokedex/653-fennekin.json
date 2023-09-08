@@ -1,0 +1,76 @@
+{
+  "_id": 653,
+  "key": "fennekin",
+  "name": {
+    "english": "Fennekin",
+    "spanish": "Fennekin",
+    "italian": "Fennekin",
+    "japanese": "フォッコ",
+    "chinese": "火狐狸",
+    "korean": "",
+    "german": "Fynx",
+    "french": "Feunnec"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Magician",
+      "id": 170
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 40,
+    "spatk": 62,
+    "spdef": 60,
+    "spd": 60,
+    "total": 307
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "9.4 kg (20.7 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 225,
+  "generation": 6,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fox Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "fennec": "species of fox",
+    "kin": "friendship, affinity"
+  },
+  "pokedexEntries": {
+    "Fennekin": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears."
+      }
+    ]
+  }
+}

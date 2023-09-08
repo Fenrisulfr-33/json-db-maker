@@ -1,0 +1,113 @@
+{
+  "_id": 704,
+  "key": "goomy",
+  "name": {
+    "english": "Goomy",
+    "spanish": "Goomy",
+    "italian": "Goomy",
+    "japanese": "ヌメラ",
+    "chinese": "黏黏宝",
+    "korean": "",
+    "german": "Viscora",
+    "french": "Mucuscule"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 172,
+    "legends-arceus": 115,
+    "sword-shield": 389,
+    "isle-of-armor": 60
+  },
+  "type": {
+    "one": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sap Sipper",
+      "id": 157
+    },
+    "two": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "hidden": {
+      "name": "Gooey",
+      "id": 183
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 35,
+    "spatk": 55,
+    "spdef": 75,
+    "spd": 40,
+    "total": 300
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.8 kg (6.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 245,
+  "generation": 6,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Soft Tissue Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 60,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "goo": "sticky substance",
+    "slimy": "covered in goo"
+  },
+  "pokedexEntries": {
+    "Goomy": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn’t dry out."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It’s covered in a slimy membrane that makes any punches or kicks slide off it harmlessly."
+      },
+      {
+        "game": "sun",
+        "desc": "The weakest of all Dragon-type Pokémon, it’s unable to breathe if its skin dries out, so it sticks to shady places."
+      },
+      {
+        "game": "moon",
+        "desc": "Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It uses its horns to check out its surroundings. They’re very sensitive, so if you grab them, it will feel a strong shock and be unable to move."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its body is mostly water. If it dries out, it will die, so it’s always sitting with perfect stillness in the shade."
+      },
+      {
+        "game": "sword",
+        "desc": "Because most of its body is water, it will dry up if the weather becomes too arid. It’s considered the weakest dragon Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they’ve survived."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Goomy hides away in the shade of trees, where it’s nice and humid. If the slime coating its body dries out, the Pokémon instantly becomes lethargic."
+      }
+    ]
+  }
+}

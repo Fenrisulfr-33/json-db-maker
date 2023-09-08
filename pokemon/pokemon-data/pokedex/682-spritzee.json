@@ -1,0 +1,83 @@
+{
+  "_id": 682,
+  "key": "spritzee",
+  "name": {
+    "english": "Spritzee",
+    "spanish": "Spritzee",
+    "italian": "Spritzee",
+    "japanese": "シュシュプ",
+    "chinese": "粉香香",
+    "korean": "",
+    "german": "Parfi",
+    "french": "Fluvetin"
+  },
+  "pokedexNumber": {
+    "sword-shield": 212
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Healer",
+      "id": 131
+    },
+    "hidden": {
+      "name": "Aroma Veil",
+      "id": 165
+    }
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 52,
+    "def": 60,
+    "spatk": 63,
+    "spdef": 65,
+    "spd": 23,
+    "total": 341
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "0.5 kg (1.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 236,
+  "generation": 6,
+  "evs": {},
+  "eggGroups": [
+    "Fairy"
+  ],
+  "species": "Perfume Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 68,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "spritz": "to spray or squirt"
+  },
+  "pokedexEntries": {
+    "Spritzee": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It emits a scent that enraptures those who smell it. This fragrance changes depending on what it has eaten."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked."
+      },
+      {
+        "game": "sword",
+        "desc": "A scent pouch within this Pokémon’s body allows it to create various scents. A change in its diet will alter the fragrance it produces."
+      },
+      {
+        "game": "shield",
+        "desc": "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee."
+      }
+    ]
+  }
+}

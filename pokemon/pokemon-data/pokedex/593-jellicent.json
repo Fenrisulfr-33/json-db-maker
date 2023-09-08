@@ -1,0 +1,124 @@
+{
+  "_id": 593,
+  "key": "jellicent",
+  "name": {
+    "english": "Jellicent",
+    "spanish": "Jellicent",
+    "italian": "Jellicent",
+    "japanese": "ブルンゲル",
+    "chinese": "胖嘟嘟",
+    "korean": "",
+    "german": "Apoquallyp",
+    "french": "Moyade"
+  },
+  "pokedexNumber": {
+    "sword-shield": 306,
+    "isle-of-armor": 193
+  },
+  "type": {
+    "one": "Water",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Absorb",
+      "id": 11
+    },
+    "two": {
+      "name": "Cursed Body",
+      "id": 130
+    },
+    "hidden": {
+      "name": "Damp",
+      "id": 6
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 60,
+    "def": 70,
+    "spatk": 85,
+    "spdef": 105,
+    "spd": 60,
+    "total": 480
+  },
+  "info": {
+    "height": "2.2 m (7′03″)",
+    "weight": "135.0 kg (297.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 207,
+  "generation": 5,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Floating Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "jellyfish": "marine creature",
+    "magnificent": "beautiful, extravagant"
+  },
+  "pokedexEntries": {
+    "Jellicent": [
+      {
+        "game": "black",
+        "desc": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished."
+      },
+      {
+        "game": "white",
+        "desc": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Its body is mostly seawater. It’s said there’s a castle of ships Jellicent have sunk on the seafloor."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its body is mostly seawater. It’s said there’s a castle of ships Jellicent have sunk on the seafloor."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Fishermen are terrified of Jellicent. It’s rumored to drag them into the sea and steal their lives away."
+      }
+    ],
+    "Female Jellicent": [
+      {
+        "game": "sword",
+        "desc": "These Pokémon have body compositions that are mostly identical to seawater. They make their lairs from sunken ships."
+      },
+      {
+        "game": "shield",
+        "desc": "The crown on its head gets bigger and bigger as it absorbs more and more of the life-force of other creatures."
+      }
+    ],
+    "Male Jellicent": [
+      {
+        "game": "sword",
+        "desc": "Most of this Pokémon’s body composition is identical to sea water. It makes sunken ships its lair."
+      },
+      {
+        "game": "shield",
+        "desc": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear."
+      }
+    ]
+  }
+}

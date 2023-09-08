@@ -1,0 +1,120 @@
+{
+  "_id": 525,
+  "key": "boldore",
+  "name": {
+    "english": "Boldore",
+    "spanish": "Boldore",
+    "italian": "Boldore",
+    "japanese": "ガントル",
+    "chinese": "地幔岩",
+    "korean": "",
+    "german": "Sedimantur",
+    "french": "Géolithe"
+  },
+  "pokedexNumber": {
+    "sword-shield": 169,
+    "isle-of-armor": 155
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "two": {
+      "name": "Weak Armor",
+      "id": 133
+    },
+    "hidden": {
+      "name": "Sand Force",
+      "id": 159
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 105,
+    "def": 105,
+    "spatk": 50,
+    "spdef": 40,
+    "spd": 20,
+    "total": 390
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "102.0 kg (224.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 181,
+  "generation": 5,
+  "evs": {
+    "atk": 1,
+    "def": 1
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Ore Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 137,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "boulder": "large rock",
+    "ore": "a mineral in its natural state"
+  },
+  "pokedexEntries": {
+    "Boldore": [
+      {
+        "game": "black",
+        "desc": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves."
+      },
+      {
+        "game": "white",
+        "desc": "Because its energy was too great to be contained, the energy leaked and formed orange crystals."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Because its energy was too great to be contained, the energy leaked and formed orange crystals."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
+      },
+      {
+        "game": "sun",
+        "desc": "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks."
+      },
+      {
+        "game": "moon",
+        "desc": "It explores caves in search of underground water. It’s not comfortable around water, so this Pokémon takes great care in lapping it up."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its orange crystals are lumps of powerful energy. They’re valuable, so Boldore is sometimes targeted for them."
+      },
+      {
+        "game": "sword",
+        "desc": "If you see its orange crystals start to glow, be wary. It’s about to fire off bursts of energy."
+      },
+      {
+        "game": "shield",
+        "desc": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing."
+      }
+    ]
+  }
+}

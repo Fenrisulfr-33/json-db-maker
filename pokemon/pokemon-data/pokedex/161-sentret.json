@@ -1,0 +1,135 @@
+{
+  "_id": 161,
+  "key": "sentret",
+  "name": {
+    "english": "Sentret",
+    "spanish": "Sentret",
+    "italian": "Sentret",
+    "japanese": "オタチ",
+    "chinese": "尾立",
+    "korean": "",
+    "german": "Wiesor",
+    "french": "Fouinette"
+  },
+  "pokedexNumber": {
+    "crystal": 19,
+    "gold-silver": 19
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "two": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "hidden": {
+      "name": "Frisk",
+      "id": 119
+    }
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 46,
+    "def": 34,
+    "spatk": 35,
+    "spdef": 45,
+    "spd": 20,
+    "total": 215
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "6.0 kg (13.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 57,
+  "generation": 2,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Scout Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 43,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "sentry": "a guard",
+    "ferret": "a rodent mammal"
+  },
+  "pokedexEntries": {
+    "Sentret": [
+      {
+        "game": "gold",
+        "desc": "A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings."
+      },
+      {
+        "game": "silver",
+        "desc": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind."
+      },
+      {
+        "game": "crystal",
+        "desc": "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "When SENTRET sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this POKéMON becomes separated from its pack, it becomes incapable of sleep due to fear."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings."
+      },
+      {
+        "game": "emerald",
+        "desc": "They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "A very cautious Pokémon, it raises itself up using its tail to get a better view of its surroundings."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
+      },
+      {
+        "game": "x",
+        "desc": "When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail."
+      },
+      {
+        "game": "y",
+        "desc": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas."
+      }
+    ]
+  }
+}

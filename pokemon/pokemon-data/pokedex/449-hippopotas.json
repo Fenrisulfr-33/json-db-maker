@@ -1,0 +1,123 @@
+{
+  "_id": 449,
+  "key": "hippopotas",
+  "name": {
+    "english": "Hippopotas",
+    "spanish": "Hippopotas",
+    "italian": "Hippopotas",
+    "japanese": "ヒポポタス",
+    "chinese": "沙河马",
+    "korean": "",
+    "german": "Hippopotas",
+    "french": "Hippopotas"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 265,
+    "legends-arceus": 107,
+    "sword-shield": 314
+  },
+  "type": {
+    "one": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Stream",
+      "id": 45
+    },
+    "hidden": {
+      "name": "Sand Force",
+      "id": 159
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 72,
+    "def": 78,
+    "spatk": 38,
+    "spdef": 42,
+    "spd": 32,
+    "total": 330
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "49.5 kg (109.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 157,
+  "generation": 4,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Hippo Pokémon",
+  "catchRate": 140,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Slow",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "hippopotamus": "large African mammal"
+  },
+  "pokedexEntries": {
+    "Hippopotas": [
+      {
+        "game": "diamond",
+        "desc": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body."
+      },
+      {
+        "game": "pearl",
+        "desc": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet."
+      },
+      {
+        "game": "platinum",
+        "desc": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert."
+      },
+      {
+        "game": "black-white",
+        "desc": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet."
+      },
+      {
+        "game": "sword",
+        "desc": "It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils."
+      }
+    ]
+  }
+}

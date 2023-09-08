@@ -1,0 +1,78 @@
+{
+  "_id": 864,
+  "key": "cursola",
+  "name": {
+    "english": "Cursola",
+    "spanish": "Cursola",
+    "italian": "Cursola",
+    "japanese": "サニゴーン",
+    "chinese": "魔灵珊瑚",
+    "korean": "",
+    "german": "Gorgasonn",
+    "french": "Corayôme"
+  },
+  "pokedexNumber": {
+    "sword-shield": 237
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Weak Armor",
+      "id": 133
+    },
+    "hidden": {
+      "name": "Perish Body",
+      "id": 253
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 95,
+    "def": 50,
+    "spatk": 145,
+    "spdef": 130,
+    "spd": 30,
+    "total": 510
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "0.4 kg (0.9 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 296,
+  "generation": 8,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Coral Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 179,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "curse": "",
+    "solar": ""
+  },
+  "pokedexEntries": {
+    "Cursola": [
+      {
+        "game": "sword",
+        "desc": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit."
+      },
+      {
+        "game": "shield",
+        "desc": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_id": 644,
+  "key": "zekrom",
+  "name": {
+    "english": "Zekrom",
+    "spanish": "Zekrom",
+    "italian": "Zekrom",
+    "japanese": "ゼクロム",
+    "chinese": "捷克罗姆",
+    "korean": "",
+    "german": "Zekrom",
+    "french": "Zekrom"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Dragon",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Teravolt",
+      "id": 164
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 150,
+    "def": 120,
+    "spatk": 120,
+    "spdef": 100,
+    "spd": 90,
+    "total": 680
+  },
+  "info": {
+    "height": "2.9 m (9′06″)",
+    "weight": "345.0 kg (760.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Deep Black Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "ze": "used as a harder sound than ‘re’ to indicate a stronger character",
+    "kuro": "Japanese for ‘black’"
+  },
+  "pokedexEntries": {
+    "Zekrom": [
+      {
+        "game": "black",
+        "desc": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail."
+      },
+      {
+        "game": "white",
+        "desc": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail."
+      },
+      {
+        "game": "sword",
+        "desc": "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings."
+      },
+      {
+        "game": "shield",
+        "desc": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning."
+      }
+    ]
+  }
+}

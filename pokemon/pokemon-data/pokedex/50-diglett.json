@@ -1,0 +1,205 @@
+{
+  "_id": 50,
+  "key": "diglett",
+  "name": {
+    "english": "Diglett",
+    "spanish": "Diglett",
+    "italian": "Diglett",
+    "japanese": "ディグダ",
+    "chinese": "地鼠",
+    "korean": "",
+    "german": "Digda",
+    "french": "Taupiqueur"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 148,
+    "sword-shield": 164,
+    "crystal": 134,
+    "gold-silver": 134,
+    "yellow": 50,
+    "red-blue": 50
+  },
+  "type": {
+    "one": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Veil",
+      "id": 8
+    },
+    "two": {
+      "name": "Arena Trap",
+      "id": 71
+    },
+    "hidden": {
+      "name": "Sand Force",
+      "id": 159
+    }
+  },
+  "baseStats": {
+    "hp": 10,
+    "atk": 55,
+    "def": 25,
+    "spatk": 35,
+    "spdef": 45,
+    "spd": 95,
+    "total": 265
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 21,
+  "generation": 1,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Mole Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 53,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dig": "remove/excavate earth",
+    "-lett": "suffix meaning ‘small’"
+  },
+  "pokedexEntries": {
+    "Diglett": [
+      {
+        "game": "red-blue",
+        "desc": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
+      },
+      {
+        "game": "yellow",
+        "desc": "It prefers dark places. It spends most of its time underground, though it may pop up in caves."
+      },
+      {
+        "game": "gold",
+        "desc": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak."
+      },
+      {
+        "game": "silver",
+        "desc": "If a DIGLETT DIGS through a field, it leaves the soil perfectly tilled and ideal for planting crops."
+      },
+      {
+        "game": "crystal",
+        "desc": "It digs underground and chews on tree roots, sticking its head out only when the sun isn’t bright."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground."
+      },
+      {
+        "game": "emerald",
+        "desc": "DIGLETT are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If a DIGLETT digs through a field, it leaves the soil perfectly tilled and ideal for planting crops."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+      },
+      {
+        "game": "x",
+        "desc": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground."
+      },
+      {
+        "game": "y",
+        "desc": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables."
+      },
+      {
+        "game": "sun",
+        "desc": "It chews on plant roots underground. Farmers whose vegetables are vulnerable find it can be quite a pest."
+      },
+      {
+        "game": "moon",
+        "desc": "Many farmers cherish and nurture Diglett because its droppings enrich the soil it lives in."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It travels through tunnels that it digs underground. It hates sunlight, so it comes out only after the sun goes down."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Around their crops, farmers plant the kind of tree that Diglett like to eat as a way of getting Diglett to plow the fields for them."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It prefers dark places. It spends most of its time underground, though it may pop up in caves."
+      },
+      {
+        "game": "sword",
+        "desc": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops."
+      },
+      {
+        "game": "shield",
+        "desc": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+      }
+    ],
+    "Alolan Diglett": [
+      {
+        "game": "sun",
+        "desc": "Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro."
+      },
+      {
+        "game": "moon",
+        "desc": "Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although it’s powerful enough to dig right through volcanic rock, it doesn’t allow itself to be seen very often."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "The need to dig through volcanic rock in the ground has made them more powerful than the Diglett of other regions."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head."
+      },
+      {
+        "game": "sword",
+        "desc": "The metal-rich geology of this Pokémon’s habitat caused it to develop steel whiskers on its head."
+      },
+      {
+        "game": "shield",
+        "desc": "Its three hairs change shape depending on Diglett’s mood. They’re a useful communication tool among these Pokémon."
+      }
+    ]
+  }
+}

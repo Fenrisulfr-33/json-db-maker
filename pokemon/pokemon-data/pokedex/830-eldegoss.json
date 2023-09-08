@@ -1,0 +1,83 @@
+{
+  "_id": 830,
+  "key": "eldegoss",
+  "name": {
+    "english": "Eldegoss",
+    "spanish": "Eldegoss",
+    "italian": "Eldegoss",
+    "japanese": "ワタシラガ",
+    "chinese": "白蓬蓬",
+    "korean": "",
+    "german": "Cottomi",
+    "french": "Blancoton"
+  },
+  "pokedexNumber": {
+    "sword-shield": 127,
+    "crown-tundra": 167
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cotton Down",
+      "id": 238
+    },
+    "two": {
+      "name": "Regenerator",
+      "id": 144
+    },
+    "hidden": {
+      "name": "Effect Spore",
+      "id": 27
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 90,
+    "spatk": 80,
+    "spdef": 120,
+    "spd": 60,
+    "total": 460
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "2.5 kg (5.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 282,
+  "generation": 8,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Cotton Bloom Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 161,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "elder": "older or senior person",
+    "gossypium": "Latin name for the cotton plant"
+  },
+  "pokedexEntries": {
+    "Eldegoss": [
+      {
+        "game": "sword",
+        "desc": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them."
+      },
+      {
+        "game": "shield",
+        "desc": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty."
+      }
+    ]
+  }
+}

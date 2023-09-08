@@ -1,0 +1,102 @@
+{
+  "_id": 510,
+  "key": "liepard",
+  "name": {
+    "english": "Liepard",
+    "spanish": "Liepard",
+    "italian": "Liepard",
+    "japanese": "レパルダス",
+    "chinese": "酷豹",
+    "korean": "",
+    "german": "Kleoparda",
+    "french": "Léopardus"
+  },
+  "pokedexNumber": {
+    "sword-shield": 45
+  },
+  "type": {
+    "one": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Limber",
+      "id": 7
+    },
+    "two": {
+      "name": "Unburden",
+      "id": 84
+    },
+    "hidden": {
+      "name": "Prankster",
+      "id": 158
+    }
+  },
+  "baseStats": {
+    "hp": 64,
+    "atk": 88,
+    "def": 50,
+    "spatk": 88,
+    "spdef": 50,
+    "spd": 106,
+    "total": 446
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "37.5 kg (82.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 174,
+  "generation": 5,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Cruel Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 156,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "lie": "an untruth",
+    "leopard": "large, spotted feline"
+  },
+  "pokedexEntries": {
+    "Liepard": [
+      {
+        "game": "black",
+        "desc": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur."
+      },
+      {
+        "game": "white",
+        "desc": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Their beautiful form comes from the muscles they have developed. They run silently in the night."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Their beautiful form comes from the muscles they have developed. They run silently in the night."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react."
+      },
+      {
+        "game": "sword",
+        "desc": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory."
+      }
+    ]
+  }
+}

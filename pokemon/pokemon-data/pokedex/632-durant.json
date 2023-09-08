@@ -1,0 +1,104 @@
+{
+  "_id": 632,
+  "key": "durant",
+  "name": {
+    "english": "Durant",
+    "spanish": "Durant",
+    "italian": "Durant",
+    "japanese": "アイアント",
+    "chinese": "铁蚁",
+    "korean": "",
+    "german": "Fermicula",
+    "french": "Fermite"
+  },
+  "pokedexNumber": {
+    "sword-shield": 316,
+    "crown-tundra": 101
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Hustle",
+      "id": 55
+    },
+    "hidden": {
+      "name": "Truant",
+      "id": 54
+    }
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 109,
+    "def": 112,
+    "spatk": 48,
+    "spdef": 48,
+    "spd": 109,
+    "total": 484
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "33.0 kg (72.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Iron Ant Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 169,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "durable": "hard to break, does not wear easily",
+    "ant": "a species of small insect"
+  },
+  "pokedexEntries": {
+    "Durant": [
+      {
+        "game": "black",
+        "desc": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor."
+      },
+      {
+        "game": "white",
+        "desc": "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor."
+      },
+      {
+        "game": "sword",
+        "desc": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles."
+      },
+      {
+        "game": "shield",
+        "desc": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
+      }
+    ]
+  }
+}

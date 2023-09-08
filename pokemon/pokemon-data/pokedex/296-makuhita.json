@@ -1,0 +1,135 @@
+{
+  "_id": 296,
+  "key": "makuhita",
+  "name": {
+    "english": "Makuhita",
+    "spanish": "Makuhita",
+    "italian": "Makuhita",
+    "japanese": "マクノシタ",
+    "chinese": "幕下力士",
+    "korean": "",
+    "german": "Makuhita",
+    "french": "Makuhita"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 116
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Thick Fat",
+      "id": 47
+    },
+    "two": {
+      "name": "Guts",
+      "id": 62
+    },
+    "hidden": {
+      "name": "Sheer Force",
+      "id": 125
+    }
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 60,
+    "def": 30,
+    "spatk": 20,
+    "spdef": 30,
+    "spd": 25,
+    "total": 237
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "86.4 kg (190.5 lbs)"
+  },
+  "gender": {
+    "male": "75%",
+    "female": "25%",
+    "genderless": false
+  },
+  "evolution": 102,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Guts Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 50,
+  "baseExp": 47,
+  "growthRate": "Fluctuating",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "makushita": "a division of sumo wrestling"
+  },
+  "pokedexEntries": {
+    "Makuhita": [
+      {
+        "game": "ruby",
+        "desc": "MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POKéMON stores more energy in its body for evolving."
+      },
+      {
+        "game": "sapphire",
+        "desc": "MAKUHITA has a tireless spirit - it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this POKéMON packs its body with energy."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It grows stronger by enduring harsh training. It is a gutsy POKéMON that can withstand any attack."
+      },
+      {
+        "game": "emerald",
+        "desc": "It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of MAKUHITA undertaking strenuous training."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest."
+      },
+      {
+        "game": "x",
+        "desc": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit."
+      },
+      {
+        "game": "y",
+        "desc": "It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Makuhita is tenacious—it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this Pokémon stores more energy in its body for evolving."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Makuhita has a tireless spirit—it will never give up hope. It eats a lot of food, gets plenty of sleep, and it trains very rigorously. By living that way, this Pokémon packs its body with energy."
+      },
+      {
+        "game": "sun",
+        "desc": "It was originally brought in from another region, but now Makuhita from Alola are more famous."
+      },
+      {
+        "game": "moon",
+        "desc": "Their daily routine consists of training together first thing in the morning, eating and napping in the afternoon, and then more training afterward."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It practices its slaps by repeatedly slapping tree trunks. It has been known to slap an Exeggutor and get flung away."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "There’s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest."
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "_id": 869,
+  "key": "alcremie",
+  "name": {
+    "english": "Alcremie",
+    "spanish": "Alcremie",
+    "italian": "Alcremie",
+    "japanese": "マホイップ",
+    "chinese": "霜奶仙",
+    "korean": "",
+    "german": "Pokusan",
+    "french": "Charmilly"
+  },
+  "pokedexNumber": {
+    "sword-shield": 186
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sweet Veil",
+      "id": 175
+    },
+    "hidden": {
+      "name": "Aroma Veil",
+      "id": 165
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 75,
+    "spatk": 110,
+    "spdef": 121,
+    "spd": 64,
+    "total": 495
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.5 kg (1.1 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 298,
+  "generation": 8,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Cream Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "alchemy": "medieval chemistry",
+    "creamy": "soft and smooth"
+  },
+  "pokedexEntries": {
+    "Caramel Swirl Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on a bitter flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a bitter flavor."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "Cream pours endlessly from this Pokémon’s body. The cream stiffens when compressed by an impact. A harder impact results in harder cream."
+      },
+      {
+        "game": "shield",
+        "desc": "It launches swarms of missiles, each made of cream and loaded with 100,000 kilocalories. Get hit by one of these, and your head will swim."
+      }
+    ],
+    "Vanilla Cream Flavor": [
+      {
+        "game": "sword",
+        "desc": "When it trusts a Trainer, it will treat them to berries it’s decorated with cream."
+      },
+      {
+        "game": "shield",
+        "desc": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer."
+      }
+    ],
+    "Lemon Cream Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on a sour flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a sour flavor."
+      }
+    ],
+    "Matcha Cream Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on an aromatic flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream an aromatic flavor."
+      }
+    ],
+    "Salted Cream Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on a salty flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a salty flavor."
+      }
+    ],
+    "Mint Cream Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on a refreshing flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a refreshing flavor."
+      }
+    ],
+    "Rainbow Swirl Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on a complex flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a complex flavor."
+      }
+    ],
+    "Ruby Swirl Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on a mixed flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a mixed flavor."
+      }
+    ],
+    "Ruby Cream Flavor": [
+      {
+        "game": "sword",
+        "desc": "The moment it evolved, it took on a sweet and tart flavor. This is because of the way its cells spontaneously shifted during evolution."
+      },
+      {
+        "game": "shield",
+        "desc": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a sweet and tart flavor."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_id": 923,
+  "key": "pawmot",
+  "name": {
+    "english": "Pawmot"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 24
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Volt Absorb",
+      "id": 10
+    },
+    "two": {
+      "name": "Natural Cure",
+      "id": 30
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 115,
+    "def": 70,
+    "spatk": 70,
+    "spdef": 60,
+    "spd": 105,
+    "total": 490
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "41.0 kg (90.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Hands-On Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "paw": "animal’s foot",
+    "marmot": "large burrowing rodent"
+  },
+  "pokedexEntries": {
+    "Pawmot": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements."
+      },
+      {
+        "game": "violet",
+        "desc": "Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car."
+      }
+    ]
+  }
+}

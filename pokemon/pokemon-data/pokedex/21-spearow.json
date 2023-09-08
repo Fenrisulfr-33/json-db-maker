@@ -1,0 +1,162 @@
+{
+  "_id": 21,
+  "key": "spearow",
+  "name": {
+    "english": "Spearow",
+    "spanish": "Spearow",
+    "italian": "Spearow",
+    "japanese": "オニスズメ",
+    "chinese": "烈雀",
+    "korean": "",
+    "german": "Habitak",
+    "french": "Piafabec"
+  },
+  "pokedexNumber": {
+    "crystal": 13,
+    "gold-silver": 13,
+    "yellow": 21,
+    "red-blue": 21
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "hidden": {
+      "name": "Sniper",
+      "id": 97
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 60,
+    "def": 30,
+    "spatk": 31,
+    "spdef": 31,
+    "spd": 70,
+    "total": 262
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.0 kg (4.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 8,
+  "generation": 1,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Tiny Bird Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 52,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "spear": "pointed weapon",
+    "sparrow": "a species of bird"
+  },
+  "pokedexEntries": {
+    "Spearow": [
+      {
+        "game": "red-blue",
+        "desc": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+      },
+      {
+        "game": "yellow",
+        "desc": "Inept at flying high. However, it can fly around very fast to protect its territory."
+      },
+      {
+        "game": "gold",
+        "desc": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak."
+      },
+      {
+        "game": "silver",
+        "desc": "Very protective of its territory, it flaps its short wings busily to dart around at high speed."
+      },
+      {
+        "game": "crystal",
+        "desc": "To protect its territory, it flies around ceaselessly, making high-pitched cries."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SPEAROW has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It busily flits around here and there. Even if it is frail, it can be a tough foe that uses MIRROR MOVE."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It flaps its short wings to flush out insects from tall grass. It then plucks them with its stubby beak."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Very protective of its territory, it flaps its short wings busily to dart around at high speed."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+      },
+      {
+        "game": "x",
+        "desc": "Very protective of its territory, it flaps its short wings busily to dart around at high speed."
+      },
+      {
+        "game": "y",
+        "desc": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger."
+      },
+      {
+        "game": "sun",
+        "desc": "Its short wings make it inept at flying. It moves about hurriedly and pecks at Bug-type Pokémon in the tall grass."
+      },
+      {
+        "game": "moon",
+        "desc": "Farmers whose fields are troubled by bug Pokémon appreciate Spearow for its vigorous appetite and look after it."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Due to its short wings, it can’t fly long distances. It wanders about restlessly and pecks at bug Pokémon."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Inept at flying high. However, it can fly around very fast to protect its territory."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+      }
+    ]
+  }
+}

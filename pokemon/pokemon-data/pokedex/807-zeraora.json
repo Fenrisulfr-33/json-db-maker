@@ -1,0 +1,80 @@
+{
+  "_id": 807,
+  "key": "zeraora",
+  "name": {
+    "english": "Zeraora",
+    "spanish": "Zeraora",
+    "italian": "Zeraora",
+    "japanese": "ゼラオラ",
+    "chinese": "捷拉奥拉",
+    "korean": "",
+    "german": "Zeraora",
+    "french": "Zeraora"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Volt Absorb",
+      "id": 10
+    }
+  },
+  "baseStats": {
+    "hp": 88,
+    "atk": 112,
+    "def": 75,
+    "spatk": 102,
+    "spdef": 80,
+    "spd": 143,
+    "total": 600
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "44.5 kg (98.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Thunderclap Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "zero": "nil, nothing",
+    "tora": "Japanese for ‘tiger’"
+  },
+  "pokedexEntries": {
+    "Zeraora": [
+      {
+        "game": "ultra-sun",
+        "desc": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws."
+      },
+      {
+        "game": "sword",
+        "desc": "It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws."
+      },
+      {
+        "game": "shield",
+        "desc": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes."
+      }
+    ]
+  }
+}

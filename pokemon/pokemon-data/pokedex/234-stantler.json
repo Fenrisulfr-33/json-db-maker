@@ -1,0 +1,141 @@
+{
+  "_id": 234,
+  "key": "stantler",
+  "name": {
+    "english": "Stantler",
+    "spanish": "Stantler",
+    "italian": "Stantler",
+    "japanese": "オドシシ",
+    "chinese": "惊角鹿",
+    "korean": "",
+    "german": "Damhirplex",
+    "french": "Cerfrousse"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 204,
+    "legends-arceus": 49,
+    "crystal": 131,
+    "gold-silver": 131
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Sap Sipper",
+      "id": 157
+    }
+  },
+  "baseStats": {
+    "hp": 73,
+    "atk": 95,
+    "def": 62,
+    "spatk": 85,
+    "spdef": 65,
+    "spd": 85,
+    "total": 465
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "71.2 kg (157.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Big Horn Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 163,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "stag": "male deer",
+    "antler": "a deer’s ‘horns’"
+  },
+  "pokedexEntries": {
+    "Stantler": [
+      {
+        "game": "gold",
+        "desc": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted."
+      },
+      {
+        "game": "silver",
+        "desc": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand."
+      },
+      {
+        "game": "crystal",
+        "desc": "The round balls found on the fallen antlers can be ground into a powder that aids in sleeping."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "STANTLER’s magnificent antlers were traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction by those who were after the priceless antlers."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its curved antlers subtly change the flow of air to create a strange space where reality is distorted."
+      },
+      {
+        "game": "emerald",
+        "desc": "STANTLER’s magnificent antlers were once traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers."
+      },
+      {
+        "game": "x",
+        "desc": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers."
+      },
+      {
+        "game": "y",
+        "desc": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia."
+      }
+    ]
+  }
+}

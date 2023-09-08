@@ -1,0 +1,185 @@
+{
+  "_id": 351,
+  "key": "castform",
+  "name": {
+    "english": "Castform",
+    "spanish": "Castform",
+    "italian": "Castform",
+    "japanese": "ポワルン",
+    "chinese": "飘浮泡泡",
+    "korean": "",
+    "german": "Formeo",
+    "french": "Morphéo"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Forecast",
+      "id": 59
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 70,
+    "spatk": 70,
+    "spdef": 70,
+    "spd": 70,
+    "total": 420
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.8 kg (1.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Fairy",
+    "Amorphous"
+  ],
+  "species": "Weather Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "forecast": "to predict, esp. weather",
+    "form": "state or shape (referring to Castform’s ability)"
+  },
+  "pokedexEntries": {
+    "Castform": [
+      {
+        "game": "ruby",
+        "desc": "CASTFORM’s appearance changes with the weather. This POKéMON gained the ability to use the vast power of nature to protect its tiny body."
+      },
+      {
+        "game": "sapphire",
+        "desc": "CASTFORM borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This POKéMON’s feelings change with the weather."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather."
+      },
+      {
+        "game": "emerald",
+        "desc": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its appearance changes with the weather. Recently, its molecules were found to be just like water."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "This Pokémon can change its cells, taking different forms based on the temperature and humidity."
+      },
+      {
+        "game": "black-white",
+        "desc": "Its appearance changes with the weather. Recently, its molecules were found to be just like water."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather."
+      },
+      {
+        "game": "x",
+        "desc": "This Pokémon can change its cells, taking different forms based on the temperature and humidity."
+      },
+      {
+        "game": "y",
+        "desc": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Castform’s appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon’s feelings change with the weather."
+      },
+      {
+        "game": "sun",
+        "desc": "It changes its form depending on the weather. Changes in the temperature or humidity appear to affect its cellular structure."
+      },
+      {
+        "game": "moon",
+        "desc": "Its form changes on its own, due to its cells’ sensitive reactions to temperature and humidity."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although its form changes with the weather, that is apparently the result of a chemical reaction and not the result of its own free will."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!"
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its appearance changes with the weather. Recently, its molecules were found to be just like water."
+      }
+    ],
+    "Sunny Form": [
+      {
+        "game": "sun",
+        "desc": "This is the form Castform takes on the brightest of days. Its skin is unexpectedly hot to the touch, so approach with care."
+      },
+      {
+        "game": "moon",
+        "desc": "This is Castform’s form when basking in fair weather. Its body is warm and toasty."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This is the form Castform takes on bright days. In an experiment where Castform was placed in front of a heater, it didn’t change to this form."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Castform changes to this form when it basks in bright sunlight. When you touch its glowing skin, it feels all dried out!"
+      }
+    ],
+    "Rainy Form": [
+      {
+        "game": "sun",
+        "desc": "This is the form Castform takes when soaked with rain. When its body is compressed, water will seep out as if from a sponge."
+      },
+      {
+        "game": "moon",
+        "desc": "This is Castform’s form during a downpour of rain. Its body retains moisture and gets slippery."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Castform changes to this form when rain hits it. Its body is soft and slightly swollen with water."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This is Castform’s form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn’t change to this form."
+      }
+    ],
+    "Snowy Form": [
+      {
+        "game": "sun",
+        "desc": "This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near 23 degrees Fahrenheit."
+      },
+      {
+        "game": "moon",
+        "desc": "This is Castform’s form when caught in a hailstorm. Its cold skin is as smooth as ice."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This is the form Castform takes when hit by hail. In an experiment where it was placed in a freezer, it didn’t change to this form."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This is Castform’s form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!"
+      }
+    ]
+  }
+}

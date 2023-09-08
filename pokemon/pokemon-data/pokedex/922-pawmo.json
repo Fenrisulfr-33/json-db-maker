@@ -1,0 +1,72 @@
+{
+  "_id": 922,
+  "key": "pawmo",
+  "name": {
+    "english": "Pawmo"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 23
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Volt Absorb",
+      "id": 10
+    },
+    "two": {
+      "name": "Natural Cure",
+      "id": 30
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 75,
+    "def": 40,
+    "spatk": 50,
+    "spdef": 40,
+    "spd": 85,
+    "total": 350
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "6.5 kg (14.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Mouse Pokémon",
+  "catchRate": 80,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "paw": "animal’s foot",
+    "marmot": "large burrowing rodent"
+  },
+  "pokedexEntries": {
+    "Pawmo": [
+      {
+        "game": "scarlet",
+        "desc": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks."
+      },
+      {
+        "game": "violet",
+        "desc": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+      }
+    ]
+  }
+}

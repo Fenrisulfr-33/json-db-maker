@@ -1,0 +1,68 @@
+{
+  "_id": 947,
+  "key": "brambleghast",
+  "name": {
+    "english": "Brambleghast"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 243
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Wind Rider",
+      "id": 274
+    },
+    "hidden": {
+      "name": "Infiltrator",
+      "id": 151
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 115,
+    "def": 70,
+    "spatk": 80,
+    "spdef": 70,
+    "spd": 90,
+    "total": 480
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "6.0 kg (13.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Tumbleweed Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bramble": "prickly weeds",
+    "aghast": "shocked, horrified"
+  },
+  "pokedexEntries": {
+    "Brambleghast": [
+      {
+        "game": "scarlet",
+        "desc": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it."
+      },
+      {
+        "game": "violet",
+        "desc": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+      }
+    ]
+  }
+}

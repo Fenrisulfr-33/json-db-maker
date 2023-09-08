@@ -1,0 +1,82 @@
+{
+  "_id": 775,
+  "key": "komala",
+  "name": {
+    "english": "Komala",
+    "spanish": "Komala",
+    "italian": "Komala",
+    "japanese": "ネッコアラ",
+    "chinese": "树枕尾熊",
+    "korean": "",
+    "german": "Koalelu",
+    "french": "Boumata"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 315
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Comatose",
+      "id": 213
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 115,
+    "def": 65,
+    "spatk": 75,
+    "spdef": 95,
+    "spd": 65,
+    "total": 480
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "19.9 kg (43.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Drowsing Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "coma": "state of sleep or unconsciousness",
+    "koala": "small marsupial"
+  },
+  "pokedexEntries": {
+    "Komala": [
+      {
+        "game": "sun",
+        "desc": "It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams."
+      },
+      {
+        "game": "moon",
+        "desc": "The log it holds was given to it by its parents at birth. It has also been known to cling to the arm of a friendly Trainer."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It stays asleep from the moment it’s born. When it falls into a deep sleep, it stops moving altogether."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet."
+      }
+    ]
+  }
+}

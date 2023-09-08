@@ -1,0 +1,99 @@
+{
+  "_id": 762,
+  "key": "steenee",
+  "name": {
+    "english": "Steenee",
+    "spanish": "Steenee",
+    "italian": "Steenee",
+    "japanese": "アママイコ",
+    "chinese": "甜舞妮",
+    "korean": "",
+    "german": "Frubaila",
+    "french": "Candine"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 82,
+    "sword-shield": 53
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Leaf Guard",
+      "id": 102
+    },
+    "two": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "hidden": {
+      "name": "Sweet Veil",
+      "id": 175
+    }
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 40,
+    "def": 48,
+    "spatk": 40,
+    "spdef": 48,
+    "spd": 62,
+    "total": 290
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "8.2 kg (18.1 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 266,
+  "generation": 7,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Fruit Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 102,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "mangosteen": "tropical tree with sweet fruit",
+    "teen": "youngster"
+  },
+  "pokedexEntries": {
+    "Steenee": [
+      {
+        "game": "sun",
+        "desc": "The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon is always bouncing around energetically. Other Pokémon are attracted by its lively appearance and pleasant aroma."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn’t care."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It bounces around, swinging the sepals on its head with abandon. They’re quite painful when they smack you!"
+      },
+      {
+        "game": "sword",
+        "desc": "As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness."
+      },
+      {
+        "game": "shield",
+        "desc": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick."
+      }
+    ]
+  }
+}

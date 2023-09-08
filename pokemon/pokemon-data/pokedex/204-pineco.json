@@ -1,0 +1,139 @@
+{
+  "_id": 204,
+  "key": "pineco",
+  "name": {
+    "english": "Pineco",
+    "spanish": "Pineco",
+    "italian": "Pineco",
+    "japanese": "クヌギダマ",
+    "chinese": "榛果球",
+    "korean": "",
+    "german": "Tannza",
+    "french": "Pomdepik"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 258,
+    "crystal": 93,
+    "gold-silver": 93
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 90,
+    "spatk": 35,
+    "spdef": 35,
+    "spd": 15,
+    "total": 290
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "7.2 kg (15.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 69,
+  "generation": 2,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Bagworm Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 58,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "pine cone": "seed of a pine tree"
+  },
+  "pokedexEntries": {
+    "Pineco": [
+      {
+        "game": "gold",
+        "desc": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it."
+      },
+      {
+        "game": "silver",
+        "desc": "It hangs and waits for flying insect prey to come near. It does not move about much on its own."
+      },
+      {
+        "game": "crystal",
+        "desc": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It hangs and waits for flying-insect prey to come near. It does not move about much on its own."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It likes to make its shell thicker by adding layers of tree bark. The extra weight doesn’t bother it."
+      },
+      {
+        "game": "emerald",
+        "desc": "A PINECO hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It hangs and waits for flying insect prey to come near. It does not move about much on its own."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+      },
+      {
+        "game": "x",
+        "desc": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it."
+      },
+      {
+        "game": "y",
+        "desc": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Motionless, it hangs from trees, waiting for its bug Pokémon prey to come to it. Its favorite in Alola is Cutiefly."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+      }
+    ]
+  }
+}

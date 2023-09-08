@@ -1,0 +1,158 @@
+{
+  "_id": 85,
+  "key": "dodrio",
+  "name": {
+    "english": "Dodrio",
+    "spanish": "Dodrio",
+    "italian": "Dodrio",
+    "japanese": "ドードリオ",
+    "chinese": "嘟嘟利",
+    "korean": "",
+    "german": "Dodri",
+    "french": "Dodrio"
+  },
+  "pokedexNumber": {
+    "crystal": 205,
+    "gold-silver": 205,
+    "yellow": 85,
+    "red-blue": 85
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "two": {
+      "name": "Early Bird",
+      "id": 48
+    },
+    "hidden": {
+      "name": "Tangled Feet",
+      "id": 77
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 110,
+    "def": 70,
+    "spatk": 60,
+    "spdef": 60,
+    "spd": 110,
+    "total": 470
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "85.2 kg (187.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 35,
+  "generation": 1,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Triple Bird Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 165,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dodo": "extinct bird",
+    "trio": "group of three"
+  },
+  "pokedexEntries": {
+    "Dodrio": [
+      {
+        "game": "red-blue",
+        "desc": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
+      },
+      {
+        "game": "yellow",
+        "desc": "One of DODUO’s 2 heads splits to form a unique species. It runs close to 40 MPH in prairies."
+      },
+      {
+        "game": "gold",
+        "desc": "It collects data and plans three times as wisely, but it may think too much and become immobilized."
+      },
+      {
+        "game": "silver",
+        "desc": "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling."
+      },
+      {
+        "game": "crystal",
+        "desc": "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely."
+      },
+      {
+        "game": "ruby",
+        "desc": "Watch out if DODRIO’s three heads are looking in three separate directions. It’s a sure sign that it is on its guard. Don’t go near this POKéMON if it’s being wary - it may decide to peck you."
+      },
+      {
+        "game": "sapphire",
+        "desc": "Apparently, the heads aren’t the only parts of the body that DODRIO has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest."
+      },
+      {
+        "game": "fire-red",
+        "desc": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Uses its three brains to execute complex plans. While two heads sleep, one head is said to stay awake."
+      },
+      {
+        "game": "emerald",
+        "desc": "A peculiar POKéMON species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It collects data and plans three times as wisely, but it may think too much and fall into a state of immobility."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If one of the heads gets to eat, the others will be satisfied, too, and they will stop squabbling."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph."
+      },
+      {
+        "game": "x",
+        "desc": "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely."
+      },
+      {
+        "game": "y",
+        "desc": "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Watch out if Dodrio’s three heads are looking in three separate directions. It’s a sure sign that it is on its guard. Don’t go near this Pokémon if it’s being wary—it may decide to peck you."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Apparently, the heads aren’t the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "When Doduo evolves into this odd breed, one of its heads splits into two. This Pokémon runs at nearly 40 mph."
+      }
+    ]
+  }
+}

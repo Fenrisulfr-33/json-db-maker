@@ -1,0 +1,78 @@
+{
+  "_id": 665,
+  "key": "spewpa",
+  "name": {
+    "english": "Spewpa",
+    "spanish": "Spewpa",
+    "italian": "Spewpa",
+    "japanese": "コフーライ",
+    "chinese": "粉蝶蛹",
+    "korean": "",
+    "german": "Puponcho",
+    "french": "Pérégrain"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 36
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Friend Guard",
+      "id": 132
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 22,
+    "def": 60,
+    "spatk": 27,
+    "spdef": 30,
+    "spd": 29,
+    "total": 213
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "8.4 kg (18.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 229,
+  "generation": 6,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Scatterdust Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 75,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "spew": "vomit",
+    "pupa": "immobile cocoon stage of an insect"
+  },
+  "pokedexEntries": {
+    "Spewpa": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder."
+      }
+    ]
+  }
+}

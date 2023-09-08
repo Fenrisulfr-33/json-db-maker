@@ -1,0 +1,117 @@
+{
+  "_id": 254,
+  "key": "sceptile",
+  "name": {
+    "english": "Sceptile",
+    "spanish": "Sceptile",
+    "italian": "Sceptile",
+    "japanese": "ジュカイン",
+    "chinese": "蜥蜴王",
+    "korean": "",
+    "german": "Gewaldro",
+    "french": "Jungko"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Unburden",
+      "id": 84
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 65,
+    "spatk": 105,
+    "spdef": 85,
+    "spd": 120,
+    "total": 530
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "55.2 kg (121.7 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 86,
+  "generation": 3,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Forest Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 239,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sceptre": "wand used by royalty",
+    "reptile": "animal with scales"
+  },
+  "pokedexEntries": {
+    "Sceptile": [
+      {
+        "game": "ruby",
+        "desc": "The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SCEPTILE has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This POKéMON raises the trees in a forest with loving care."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike."
+      },
+      {
+        "game": "emerald",
+        "desc": "In the jungle, its power is without equal. This POKéMON carefully grows trees and plants. It regulates its body temperature by basking in sunlight."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat."
+      },
+      {
+        "game": "x",
+        "desc": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat."
+      },
+      {
+        "game": "y",
+        "desc": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "The leaves growing on Sceptile’s body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat."
+      }
+    ]
+  }
+}

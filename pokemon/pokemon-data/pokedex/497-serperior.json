@@ -1,0 +1,89 @@
+{
+  "_id": 497,
+  "key": "serperior",
+  "name": {
+    "english": "Serperior",
+    "spanish": "Serperior",
+    "italian": "Serperior",
+    "japanese": "ジャローダ",
+    "chinese": "君主蛇",
+    "korean": "",
+    "german": "Serpiroyal",
+    "french": "Majaspic"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Contrary",
+      "id": 126
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 75,
+    "def": 95,
+    "spatk": 75,
+    "spdef": 95,
+    "spd": 113,
+    "total": 528
+  },
+  "info": {
+    "height": "3.3 m (10′10″)",
+    "weight": "63.0 kg (138.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 169,
+  "generation": 5,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "species": "Regal Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 238,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "serpent": "a snake",
+    "superior": "better than"
+  },
+  "pokedexEntries": {
+    "Serperior": [
+      {
+        "game": "black",
+        "desc": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally."
+      },
+      {
+        "game": "white",
+        "desc": "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It only gives its all against strong opponents who are not fazed by the glare from Serperior’s noble eyes."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It only gives its all against strong opponents who are not fazed by the glare from Serperior’s noble eyes."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally."
+      }
+    ]
+  }
+}

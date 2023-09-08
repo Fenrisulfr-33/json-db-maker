@@ -1,0 +1,153 @@
+{
+  "_id": 175,
+  "key": "togepi",
+  "name": {
+    "english": "Togepi",
+    "spanish": "Togepi",
+    "italian": "Togepi",
+    "japanese": "トゲピー",
+    "chinese": "波克比",
+    "korean": "",
+    "german": "Togepi",
+    "french": "Togepi"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 127,
+    "sword-shield": 257,
+    "crystal": 46,
+    "gold-silver": 46
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hustle",
+      "id": 55
+    },
+    "two": {
+      "name": "Serene Grace",
+      "id": 32
+    },
+    "hidden": {
+      "name": "Super Luck",
+      "id": 105
+    }
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 20,
+    "def": 65,
+    "spatk": 40,
+    "spdef": 65,
+    "spd": 20,
+    "total": 245
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "1.5 kg (3.3 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 62,
+  "generation": 2,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Spike Ball Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 49,
+  "growthRate": "Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "togi": "spike",
+    "pi": "to chirp"
+  },
+  "pokedexEntries": {
+    "Togepi": [
+      {
+        "game": "gold",
+        "desc": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+      },
+      {
+        "game": "silver",
+        "desc": "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up."
+      },
+      {
+        "game": "crystal",
+        "desc": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+      },
+      {
+        "game": "emerald",
+        "desc": "As its energy, it uses the feelings of compassion and pleasure exuded by people and POKéMON. It stores up happy feelings in its shell, then shares them out."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "Its shell is said to be stuffed with happiness that it shares with kindhearted people."
+      },
+      {
+        "game": "platinum",
+        "desc": "It transforms the kindness and joy of others into happiness, which it stores in its shell."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It transforms the kindness and joy of others into happiness, which it stores in its shell."
+      },
+      {
+        "game": "x",
+        "desc": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+      },
+      {
+        "game": "y",
+        "desc": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others."
+      },
+      {
+        "game": "sword",
+        "desc": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly."
+      },
+      {
+        "game": "shield",
+        "desc": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its shell is said to be stuffed with happiness that it shares with kindhearted people."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul."
+      }
+    ]
+  }
+}

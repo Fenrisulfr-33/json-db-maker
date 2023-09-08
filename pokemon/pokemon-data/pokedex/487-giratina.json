@@ -1,0 +1,107 @@
+{
+  "_id": 487,
+  "key": "giratina",
+  "name": {
+    "english": "Giratina",
+    "spanish": "Giratina",
+    "italian": "Giratina",
+    "japanese": "ギラティナ",
+    "chinese": "骑拉帝纳",
+    "korean": "",
+    "german": "Giratina",
+    "french": "Giratina"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 237
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 150,
+    "atk": 100,
+    "def": 120,
+    "spatk": 100,
+    "spdef": 120,
+    "spd": 90,
+    "total": 680
+  },
+  "info": {
+    "height": "6.9 m (22′08″)",
+    "weight": "650.0 kg (1433.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {},
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Renegade Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "girasol": "a red opal",
+    "platina": "an alloy of platinum, the game of which it is the mascot"
+  },
+  "pokedexEntries": {
+    "Altered Forme": [
+      {
+        "game": "diamond-pearl",
+        "desc": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery."
+      },
+      {
+        "game": "platinum",
+        "desc": "It was banished for its violence. It silently gazed upon the old world from the Distortion World."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It was banished for its violence. It silently gazed upon the old world from the Distortion World."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It was banished for its violence. It silently gazed upon the old world from the Distortion World."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "There is one Hisuian verse that tells of a powerful light creating a deep shadow. I imagine that this deep shadow is Giratina."
+      }
+    ],
+    "Origin Forme": [
+      {
+        "game": "legends-arceus",
+        "desc": "Giratina loses its legs upon changing into this form. I believe this Pokémon must hail from a world where the heavens and the earth are as one, though I have no way of proving it."
+      }
+    ]
+  }
+}

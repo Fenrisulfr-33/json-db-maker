@@ -1,0 +1,89 @@
+{
+  "_id": 790,
+  "key": "cosmoem",
+  "name": {
+    "english": "Cosmoem",
+    "spanish": "Cosmoem",
+    "italian": "Cosmoem",
+    "japanese": "コスモウム",
+    "chinese": "科斯莫姆",
+    "korean": "",
+    "german": "Cosmovum",
+    "french": "Cosmovum"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    }
+  },
+  "baseStats": {
+    "hp": 43,
+    "atk": 29,
+    "def": 131,
+    "spatk": 29,
+    "spdef": 131,
+    "spd": 37,
+    "total": 400
+  },
+  "info": {
+    "height": "0.1 m (0′04″)",
+    "weight": "999.9 kg (2204.4 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 271,
+  "generation": 7,
+  "evs": {
+    "def": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Protostar Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 140,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "cosmos": "the universe",
+    "embryo": "fetus"
+  },
+  "pokedexEntries": {
+    "Cosmoem": [
+      {
+        "game": "sun",
+        "desc": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars."
+      },
+      {
+        "game": "moon",
+        "desc": "There’s something accumulating around the black core within its hard shell. People think this Pokémon may come from another world."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid."
+      },
+      {
+        "game": "sword",
+        "desc": "The absorption of starlight fuels this Pokémon’s growth. The shell that encases it is harder than any known material."
+      },
+      {
+        "game": "shield",
+        "desc": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution."
+      }
+    ]
+  }
+}

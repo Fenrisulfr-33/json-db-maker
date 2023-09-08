@@ -1,0 +1,130 @@
+{
+  "_id": 463,
+  "key": "lickilicky",
+  "name": {
+    "english": "Lickilicky",
+    "spanish": "Lickilicky",
+    "italian": "Lickilicky",
+    "japanese": "ベロベルト",
+    "chinese": "大舌舔",
+    "korean": "",
+    "german": "Schlurplek",
+    "french": "Coudlangue"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 126,
+    "isle-of-armor": 55,
+    "crystal": 181,
+    "gold-silver": 181
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "two": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "hidden": {
+      "name": "Cloud Nine",
+      "id": 13
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 85,
+    "def": 95,
+    "spatk": 80,
+    "spdef": 95,
+    "spd": 50,
+    "total": 515
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "140.0 kg (308.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 164,
+  "generation": 4,
+  "evs": {},
+  "eggGroups": [
+    "Monster"
+  ],
+  "species": "Licking Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 180,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "lick": "touch with the tongue"
+  },
+  "pokedexEntries": {
+    "Lickilicky": [
+      {
+        "game": "diamond-pearl",
+        "desc": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool."
+      },
+      {
+        "game": "platinum",
+        "desc": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its saliva can decompose anything. It wraps its long tongue around things to coat them with its sticky saliva."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It has space in its throat to store saliva. It can also roll up its tongue and store it in the same spot."
+      },
+      {
+        "game": "black-white",
+        "desc": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "A contest is under way to determine which one can stick its tongue out the farthest. The current record is...more than 82 feet."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue."
+      },
+      {
+        "game": "sword",
+        "desc": "Lickilicky’s strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky’s tongue can stretch so far."
+      },
+      {
+        "game": "shield",
+        "desc": "Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky’s use of its fingers is clumsy."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its tongue can extend and contract freely, and it is capable of reaching lengths over 10 times Lickilicky’s height. Beware of the saliva, as it contains corrosive elements."
+      }
+    ]
+  }
+}

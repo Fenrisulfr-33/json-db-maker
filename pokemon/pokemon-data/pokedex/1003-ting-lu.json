@@ -1,0 +1,68 @@
+{
+  "_id": 1003,
+  "key": "ting-lu",
+  "name": {
+    "english": "Ting-Lu"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 395
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Vessel of Ruin",
+      "id": 284
+    },
+    "hidden": {
+      "name": "Vessel of Ruin",
+      "id": 284
+    }
+  },
+  "baseStats": {
+    "hp": 155,
+    "atk": 110,
+    "def": 125,
+    "spatk": 55,
+    "spdef": 80,
+    "spd": 45,
+    "total": 570
+  },
+  "info": {
+    "height": "2.7 m (8′10″)",
+    "weight": "699.7 kg (1542.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ruinous Pokémon",
+  "catchRate": 6,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "ding": "ancient Chinese cauldron",
+    "lu": "Chinese for ‘deer’"
+  },
+  "pokedexEntries": {
+    "Ting-lu": [
+      {
+        "game": "scarlet",
+        "desc": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon."
+      },
+      {
+        "game": "violet",
+        "desc": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep."
+      }
+    ]
+  }
+}

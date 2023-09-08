@@ -1,0 +1,117 @@
+{
+  "_id": 277,
+  "key": "swellow",
+  "name": {
+    "english": "Swellow",
+    "spanish": "Swellow",
+    "italian": "Swellow",
+    "japanese": "オオスバメ",
+    "chinese": "大王燕",
+    "korean": "",
+    "german": "Schwalboss",
+    "french": "Hélédelle"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "hidden": {
+      "name": "Scrappy",
+      "id": 113
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 60,
+    "spatk": 75,
+    "spdef": 50,
+    "spd": 125,
+    "total": 455
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "19.8 kg (43.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 94,
+  "generation": 3,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Swallow Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 159,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "swell": "expand",
+    "swallow": "a species of bird"
+  },
+  "pokedexEntries": {
+    "Swellow": [
+      {
+        "game": "ruby",
+        "desc": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other’s wings."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky."
+      },
+      {
+        "game": "emerald",
+        "desc": "A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey."
+      },
+      {
+        "game": "x",
+        "desc": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky."
+      },
+      {
+        "game": "y",
+        "desc": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow’s clawed feet, preventing escape."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It circles the sky in search of prey and dives sharply to catch its target."
+      }
+    ]
+  }
+}

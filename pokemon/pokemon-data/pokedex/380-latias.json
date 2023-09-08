@@ -1,0 +1,113 @@
+{
+  "_id": 380,
+  "key": "latias",
+  "name": {
+    "english": "Latias",
+    "spanish": "Latias",
+    "italian": "Latias",
+    "japanese": "ラティアス",
+    "chinese": "拉帝亚斯",
+    "korean": "",
+    "german": "Latias",
+    "french": "Latias"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Dragon",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 80,
+    "def": 90,
+    "spatk": 110,
+    "spdef": 130,
+    "spd": 110,
+    "total": 600
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "52.0 kg (114.6 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Eon Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 90,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "lateo": "to lie hidden",
+    "-as": "female suffix"
+  },
+  "pokedexEntries": {
+    "Latias": [
+      {
+        "game": "ruby",
+        "desc": "LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe."
+      },
+      {
+        "game": "sapphire",
+        "desc": "LATIAS is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The POKéMON enfolds its body with its down and refracts light to alter its appearance."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It can telepathically communicate with people. It changes its appearance using its down that refracts light."
+      },
+      {
+        "game": "emerald",
+        "desc": "They make a small herd of only several members. They rarely make contact with people or other POKéMON. They disappear if they sense enemies."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its body is covered with a down that can refract light in such a way that it becomes invisible."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its body is covered with a down that can refract light in such a way that it becomes invisible."
+      },
+      {
+        "game": "x",
+        "desc": "It communicates using telepathy. Its body is covered in down that refracts light to make it invisible."
+      },
+      {
+        "game": "y",
+        "desc": "It can telepathically communicate with people. It changes its appearance using its down that refracts light."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pokémon ruffles the feathers all over its body and cries shrilly to intimidate the foe."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its body is covered with a down that can refract light in such a way that it becomes invisible."
+      }
+    ]
+  }
+}

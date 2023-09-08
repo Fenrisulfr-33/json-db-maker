@@ -1,0 +1,176 @@
+{
+  "_id": 90,
+  "key": "shellder",
+  "name": {
+    "english": "Shellder",
+    "spanish": "Shellder",
+    "italian": "Shellder",
+    "japanese": "シェルダー",
+    "chinese": "大舌贝",
+    "korean": "",
+    "german": "Muschas",
+    "french": "Kokiyas"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 329,
+    "sword-shield": 150,
+    "isle-of-armor": 131,
+    "crystal": 171,
+    "gold-silver": 171,
+    "yellow": 90,
+    "red-blue": 90
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shell Armor",
+      "id": 75
+    },
+    "two": {
+      "name": "Skill Link",
+      "id": 92
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 65,
+    "def": 100,
+    "spatk": 45,
+    "spdef": 25,
+    "spd": 40,
+    "total": 305
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "4.0 kg (8.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 38,
+  "generation": 1,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Water 3"
+  ],
+  "species": "Bivalve Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "shell": "hard cover",
+    "shelter": "to protect"
+  },
+  "pokedexEntries": {
+    "Shellder": [
+      {
+        "game": "red-blue",
+        "desc": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+      },
+      {
+        "game": "yellow",
+        "desc": "The shell can withstand any attack. However, when it is open, the tender body is exposed."
+      },
+      {
+        "game": "gold",
+        "desc": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast."
+      },
+      {
+        "game": "silver",
+        "desc": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls."
+      },
+      {
+        "game": "crystal",
+        "desc": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+      },
+      {
+        "game": "emerald",
+        "desc": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
+      },
+      {
+        "game": "x",
+        "desc": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+      },
+      {
+        "game": "y",
+        "desc": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out."
+      },
+      {
+        "game": "sun",
+        "desc": "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon’s tongue is always hanging out. It uses its tongue with great dexterity to dig up sand from the seabed in its search for food."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "The shell can withstand any attack. However, when it is open, the tender body is exposed."
+      },
+      {
+        "game": "sword",
+        "desc": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast."
+      },
+      {
+        "game": "shield",
+        "desc": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out."
+      }
+    ]
+  }
+}

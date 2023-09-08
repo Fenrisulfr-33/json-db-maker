@@ -1,0 +1,111 @@
+{
+  "_id": 567,
+  "key": "archeops",
+  "name": {
+    "english": "Archeops",
+    "spanish": "Archeops",
+    "italian": "Archeops",
+    "japanese": "アーケオス",
+    "chinese": "始祖大鸟",
+    "korean": "",
+    "german": "Aeropteryx",
+    "french": "Aéroptéryx"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 150
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Defeatist",
+      "id": 129
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 140,
+    "def": 65,
+    "spatk": 112,
+    "spdef": 65,
+    "spd": 110,
+    "total": 567
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "32.0 kg (70.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 196,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Flying",
+    "Water 3"
+  ],
+  "species": "First Bird Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 177,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "archaeopteryx": "a reptile-like fossil bird"
+  },
+  "pokedexEntries": {
+    "Archeops": [
+      {
+        "game": "black",
+        "desc": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight."
+      },
+      {
+        "game": "white",
+        "desc": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph."
+      },
+      {
+        "game": "sun",
+        "desc": "Although apparently able to fly, they tended to run along the ground, averaging speeds of roughly 25 mph."
+      },
+      {
+        "game": "moon",
+        "desc": "They hunted in flocks. When one Archeops had the prey cornered, another would swoop on it."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This ancient Pokémon’s plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off."
+      },
+      {
+        "game": "sword",
+        "desc": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles."
+      },
+      {
+        "game": "shield",
+        "desc": "Though capable of flight, Archeops was apparently better at hunting on the ground."
+      }
+    ]
+  }
+}

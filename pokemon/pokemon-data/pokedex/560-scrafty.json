@@ -1,0 +1,114 @@
+{
+  "_id": 560,
+  "key": "scrafty",
+  "name": {
+    "english": "Scrafty",
+    "spanish": "Scrafty",
+    "italian": "Scrafty",
+    "japanese": "ズルズキン",
+    "chinese": "头巾混混",
+    "korean": "",
+    "german": "Irokex",
+    "french": "Baggaïd"
+  },
+  "pokedexNumber": {
+    "sword-shield": 225,
+    "isle-of-armor": 162
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "two": {
+      "name": "Moxie",
+      "id": 153
+    },
+    "hidden": {
+      "name": "Intimidate",
+      "id": 22
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 115,
+    "spatk": 45,
+    "spdef": 115,
+    "spd": 58,
+    "total": 488
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "30.0 kg (66.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 193,
+  "generation": 5,
+  "evs": {
+    "def": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "species": "Hoodlum Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 171,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "scraggy": "thin, scrawny",
+    "crafty": "sly, sneaky"
+  },
+  "pokedexEntries": {
+    "Scrafty": [
+      {
+        "game": "black",
+        "desc": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth."
+      },
+      {
+        "game": "white",
+        "desc": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long."
+      },
+      {
+        "game": "sword",
+        "desc": "As halfhearted as this Pokémon’s kicks may seem, they pack enough power to shatter Conkeldurr’s concrete pillars."
+      },
+      {
+        "game": "shield",
+        "desc": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory."
+      }
+    ]
+  }
+}

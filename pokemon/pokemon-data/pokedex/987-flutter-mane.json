@@ -1,0 +1,68 @@
+{
+  "_id": 987,
+  "key": "flutter-mane",
+  "name": {
+    "english": "Flutter-Mane"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 379
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Protosynthesis",
+      "id": 281
+    },
+    "hidden": {
+      "name": "Protosynthesis",
+      "id": 281
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 55,
+    "spatk": 135,
+    "spdef": 135,
+    "spd": 135,
+    "total": 570
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "4.0 kg (8.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "flutter": "flap one’s wings",
+    "mane": "long hair around the neck of animals"
+  },
+  "pokedexEntries": {
+    "Flutter-mane": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book."
+      },
+      {
+        "game": "violet",
+        "desc": "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common."
+      }
+    ]
+  }
+}

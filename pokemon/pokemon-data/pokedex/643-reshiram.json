@@ -1,0 +1,93 @@
+{
+  "_id": 643,
+  "key": "reshiram",
+  "name": {
+    "english": "Reshiram",
+    "spanish": "Reshiram",
+    "italian": "Reshiram",
+    "japanese": "レシラム",
+    "chinese": "莱希拉姆",
+    "korean": "",
+    "german": "Reshiram",
+    "french": "Reshiram"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Dragon",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Turboblaze",
+      "id": 163
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 120,
+    "def": 100,
+    "spatk": 150,
+    "spdef": 120,
+    "spd": 90,
+    "total": 680
+  },
+  "info": {
+    "height": "3.2 m (10′06″)",
+    "weight": "330.0 kg (727.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Vast White Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "re": "used as a softer sound than ‘ze’ to indicate a weaker character",
+    "shiro": "Japanese for ‘white’"
+  },
+  "pokedexEntries": {
+    "Reshiram": [
+      {
+        "game": "black",
+        "desc": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it."
+      },
+      {
+        "game": "white",
+        "desc": "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather."
+      },
+      {
+        "game": "sword",
+        "desc": "Flames spew from its tail as it flies through the sky like a jet airplane. It’s said that this Pokémon will scorch the world."
+      },
+      {
+        "game": "shield",
+        "desc": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down."
+      }
+    ]
+  }
+}

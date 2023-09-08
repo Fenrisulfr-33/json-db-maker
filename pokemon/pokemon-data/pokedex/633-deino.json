@@ -1,0 +1,97 @@
+{
+  "_id": 633,
+  "key": "deino",
+  "name": {
+    "english": "Deino",
+    "spanish": "Deino",
+    "italian": "Deino",
+    "japanese": "モノズ",
+    "chinese": "单首龙",
+    "korean": "",
+    "german": "Kapuno",
+    "french": "Solochi"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 370,
+    "sword-shield": 386,
+    "crown-tundra": 136
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hustle",
+      "id": 55
+    }
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 65,
+    "def": 50,
+    "spatk": 45,
+    "spdef": 50,
+    "spd": 38,
+    "total": 300
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "17.3 kg (38.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 222,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Irate Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 60,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "ein": "german for ‘one’",
+    "dino": "slang for ‘dinosaur’"
+  },
+  "pokedexEntries": {
+    "Deino": [
+      {
+        "game": "black",
+        "desc": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous."
+      },
+      {
+        "game": "white",
+        "desc": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Lacking sight, it’s unaware of its surroundings, so it bumps into things and eats anything that moves."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Lacking sight, it’s unaware of its surroundings, so it bumps into things and eats anything that moves."
+      },
+      {
+        "game": "sword",
+        "desc": "When it encounters something, its first urge is usually to bite it. If it likes what it tastes, it will commit the associated scent to memory."
+      },
+      {
+        "game": "shield",
+        "desc": "Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings."
+      }
+    ]
+  }
+}

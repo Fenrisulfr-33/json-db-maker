@@ -1,0 +1,68 @@
+{
+  "_id": 963,
+  "key": "finizen",
+  "name": {
+    "english": "Finizen"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 291
+  },
+  "type": {
+    "one": "Water",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Veil",
+      "id": 41
+    },
+    "hidden": {
+      "name": "Water Veil",
+      "id": 41
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 45,
+    "def": 40,
+    "spatk": 45,
+    "spdef": 40,
+    "spd": 75,
+    "total": 315
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "60.2 kg (132.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Dolphin Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "fin": "wing-like appendage on fish or other sea creatures",
+    "citizen": "resident or member of a society"
+  },
+  "pokedexEntries": {
+    "Finizen": [
+      {
+        "game": "scarlet",
+        "desc": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures."
+      },
+      {
+        "game": "violet",
+        "desc": "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole."
+      }
+    ]
+  }
+}

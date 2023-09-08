@@ -1,0 +1,85 @@
+{
+  "_id": 859,
+  "key": "impidimp",
+  "name": {
+    "english": "Impidimp",
+    "spanish": "Impidimp",
+    "italian": "Impidimp",
+    "japanese": "ベロバー",
+    "chinese": "捣蛋小妖",
+    "korean": "",
+    "german": "Bähmon",
+    "french": "Grimalin"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 285,
+    "sword-shield": 238,
+    "crown-tundra": 37
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Prankster",
+      "id": 158
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Pickpocket",
+      "id": 124
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 45,
+    "def": 30,
+    "spatk": 55,
+    "spdef": 40,
+    "spd": 50,
+    "total": 265
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "5.5 kg (12.1 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": 295,
+  "generation": 8,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Wily Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 53,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "imp": "mischievous devil or sprite",
+    "rinky-dink": "poor quality; deceptive"
+  },
+  "pokedexEntries": {
+    "Impidimp": [
+      {
+        "game": "sword",
+        "desc": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy."
+      },
+      {
+        "game": "shield",
+        "desc": "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants."
+      }
+    ]
+  }
+}

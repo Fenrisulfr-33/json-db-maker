@@ -1,0 +1,182 @@
+{
+  "_id": 137,
+  "key": "porygon",
+  "name": {
+    "english": "Porygon",
+    "spanish": "Porygon",
+    "italian": "Porygon",
+    "japanese": "ポリゴン",
+    "chinese": "多边兽",
+    "korean": "",
+    "german": "Porygon",
+    "french": "Porygon"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 133,
+    "isle-of-armor": 208,
+    "crystal": 220,
+    "gold-silver": 220,
+    "yellow": 137,
+    "red-blue": 137
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Trace",
+      "id": 36
+    },
+    "two": {
+      "name": "Download",
+      "id": 88
+    },
+    "hidden": {
+      "name": "Analytic",
+      "id": 148
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 70,
+    "spatk": 85,
+    "spdef": 75,
+    "spd": 40,
+    "total": 395
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "36.5 kg (80.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 79,
+  "generation": 1,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Virtual Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 79,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "polygon": "a many sided figure"
+  },
+  "pokedexEntries": {
+    "Porygon": [
+      {
+        "game": "red-blue",
+        "desc": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace."
+      },
+      {
+        "game": "yellow",
+        "desc": "The only POKéMON people anticipate can fly into space. None has managed the feat yet, however."
+      },
+      {
+        "game": "gold",
+        "desc": "It is a manmade POKéMON. Since it doesn’t breathe, people are eager to try it in any environment."
+      },
+      {
+        "game": "silver",
+        "desc": "A manmade POKéMON that came about as a result of research. It is programmed with only basic motions."
+      },
+      {
+        "game": "crystal",
+        "desc": "An artificial POKéMON created due to extensive research, it can perform only what is in its program."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "PORYGON is capable of reverting itself entirely back to program data and entering cyberspace. This POKéMON is copy-protected so it cannot be duplicated by copying."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Using the most advanced technologies, scientists finally succeeded in making the first artificial POKéMON."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "A POKéMON that consists entirely of programming code. It is capable of moving freely in cyberspace."
+      },
+      {
+        "game": "emerald",
+        "desc": "It is capable of reverting itself entirely back to program data in order to enter cyberspace. A PORYGON is copy-protected so it cannot be duplicated."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "The world’s first artificially created Pokémon. It can travel through electronic space."
+      },
+      {
+        "game": "platinum",
+        "desc": "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It is a manmade Pokémon. Since it doesn’t breathe, people are eager to try it in any environment."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A manmade Pokémon that came about as a result of research. It is programmed with only basic motions."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace."
+      },
+      {
+        "game": "x",
+        "desc": "A man-made Pokémon that came about as a result of research. It is programmed with only basic motions."
+      },
+      {
+        "game": "y",
+        "desc": "A Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying."
+      },
+      {
+        "game": "sun",
+        "desc": "Roughly 20 years ago, it was artificially created, utilizing the latest technology of the time."
+      },
+      {
+        "game": "moon",
+        "desc": "It can convert its body into digital data, which enables it to enter cyberspace."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This Pokémon was created using the cutting-edge science of 20 years ago, so many parts of it have since become obsolete."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It was built 20 years ago by scientists who dreamed of exploring space. Their dreams have yet to come true."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "The only Pokémon that people anticipate can fly into space. None has managed the feat yet, however."
+      },
+      {
+        "game": "sword",
+        "desc": "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming."
+      },
+      {
+        "game": "shield",
+        "desc": "In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "The world’s first artificially created Pokémon. It can travel through electronic space."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly."
+      }
+    ]
+  }
+}

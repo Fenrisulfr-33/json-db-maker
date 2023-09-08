@@ -1,0 +1,77 @@
+{
+  "_id": 811,
+  "key": "thwackey",
+  "name": {
+    "english": "Thwackey",
+    "spanish": "Thwackey",
+    "italian": "Thwackey",
+    "japanese": "バチンキー",
+    "chinese": "啪咚猴",
+    "korean": "",
+    "german": "Chimstix",
+    "french": "Badabouin"
+  },
+  "pokedexNumber": {
+    "sword-shield": 2
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Grassy Surge",
+      "id": 229
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 70,
+    "spatk": 55,
+    "spdef": 60,
+    "spd": 80,
+    "total": 420
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "14.0 kg (30.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 274,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Beat Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "thwack": ""
+  },
+  "pokedexEntries": {
+    "Thwackey": [
+      {
+        "game": "sword",
+        "desc": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers."
+      },
+      {
+        "game": "shield",
+        "desc": "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent."
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "_id": 206,
+  "key": "dunsparce",
+  "name": {
+    "english": "Dunsparce",
+    "spanish": "Dunsparce",
+    "italian": "Dunsparce",
+    "japanese": "ノコッチ",
+    "chinese": "土龙弟弟",
+    "korean": "",
+    "german": "Dummisel",
+    "french": "Insolourdo"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 188,
+    "isle-of-armor": 52,
+    "crystal": 52,
+    "gold-silver": 52
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Serene Grace",
+      "id": 32
+    },
+    "two": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "hidden": {
+      "name": "Rattled",
+      "id": 155
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 70,
+    "def": 70,
+    "spatk": 65,
+    "spdef": 65,
+    "spd": 45,
+    "total": 415
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "14.0 kg (30.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {},
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Land Snake Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 145,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dun": "yellow",
+    "sparse": "rare"
+  },
+  "pokedexEntries": {
+    "Dunsparce": [
+      {
+        "game": "gold",
+        "desc": "When spotted, this POKéMON escapes backward by furiously boring into the ground with its tail."
+      },
+      {
+        "game": "silver",
+        "desc": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings."
+      },
+      {
+        "game": "crystal",
+        "desc": "It hides deep inside caves where no light ever reaches it and remains virtually motionless there."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground."
+      },
+      {
+        "game": "fire-red",
+        "desc": "If spotted, it escapes by burrowing with its tail. It can hover just slightly using its wings."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "When spotted, this POKéMON escapes backward by furiously boring into the ground with its tail."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its drill-tipped tail is used to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings."
+      },
+      {
+        "game": "black-white",
+        "desc": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail."
+      },
+      {
+        "game": "x",
+        "desc": "When spotted, this Pokémon escapes backward by furiously boring into the ground with its tail."
+      },
+      {
+        "game": "y",
+        "desc": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep under the ground."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It travels by digging through the ground. Diglett and Dunsparce share one another’s tunnels happily."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon’s tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times."
+      },
+      {
+        "game": "shield",
+        "desc": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little."
+      }
+    ]
+  }
+}

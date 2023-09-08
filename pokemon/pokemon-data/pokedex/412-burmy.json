@@ -1,0 +1,122 @@
+{
+  "_id": 412,
+  "key": "burmy",
+  "name": {
+    "english": "Burmy",
+    "spanish": "Burmy",
+    "italian": "Burmy",
+    "japanese": "ミノムッチ",
+    "chinese": "结草儿",
+    "korean": "",
+    "german": "Burmy",
+    "french": "Cheniti"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 43
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 29,
+    "def": 45,
+    "spatk": 29,
+    "spdef": 45,
+    "spd": 36,
+    "total": 224
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "3.4 kg (7.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 138,
+  "generation": 4,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Bagworm Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 45,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "bagworm": "a species of moth",
+    "wormy": "worm-like"
+  },
+  "pokedexEntries": {
+    "Plant Cloak": [
+      {
+        "game": "diamond",
+        "desc": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves."
+      },
+      {
+        "game": "pearl",
+        "desc": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby."
+      },
+      {
+        "game": "platinum",
+        "desc": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold."
+      }
+    ],
+    "Sandy Cloak": [
+      {
+        "game": "legends-arceus",
+        "desc": "It creates a cloak by weaving together sand, mud, and silk it has spat out. This earthen cloak is ruined by wind and rain, so the Pokémon hides away in caves and other such places."
+      }
+    ],
+    "Trash Cloak": [
+      {
+        "game": "legends-arceus",
+        "desc": "When confronted by a lack of other materials, Burmy will create its cloak using dust and refuse. The cloak seems to be more comfortable than one would think."
+      }
+    ]
+  }
+}

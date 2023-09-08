@@ -1,0 +1,85 @@
+{
+  "_id": 885,
+  "key": "dreepy",
+  "name": {
+    "english": "Dreepy",
+    "spanish": "Dreepy",
+    "italian": "Dreepy",
+    "japanese": "ドラメシヤ",
+    "chinese": "多龙梅西亚",
+    "korean": "",
+    "german": "Grolldra",
+    "french": "Fantyrm"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 305,
+    "sword-shield": 395,
+    "crown-tundra": 110
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Clear Body",
+      "id": 29
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Cursed Body",
+      "id": 130
+    }
+  },
+  "baseStats": {
+    "hp": 28,
+    "atk": 60,
+    "def": 30,
+    "spatk": 40,
+    "spdef": 30,
+    "spd": 82,
+    "total": 270
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "2.0 kg (4.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 301,
+  "generation": 8,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Lingering Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 54,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "dragon": "",
+    "creepy": ""
+  },
+  "pokedexEntries": {
+    "Dreepy": [
+      {
+        "game": "sword",
+        "desc": "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas."
+      },
+      {
+        "game": "shield",
+        "desc": "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger."
+      }
+    ]
+  }
+}

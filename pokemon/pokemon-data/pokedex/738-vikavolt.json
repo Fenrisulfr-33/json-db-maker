@@ -1,0 +1,91 @@
+{
+  "_id": 738,
+  "key": "vikavolt",
+  "name": {
+    "english": "Vikavolt",
+    "spanish": "Vikavolt",
+    "italian": "Vikavolt",
+    "japanese": "クワガノン",
+    "chinese": "锹农炮虫",
+    "korean": "",
+    "german": "Donarion",
+    "french": "Lucanon"
+  },
+  "pokedexNumber": {
+    "sword-shield": 18
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 77,
+    "atk": 70,
+    "def": 90,
+    "spatk": 145,
+    "spdef": 75,
+    "spd": 43,
+    "total": 500
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "45.0 kg (99.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 255,
+  "generation": 7,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Stag Beetle Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 225,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "vice": "grip with two jaws",
+    "volt": "unit of electricity"
+  },
+  "pokedexEntries": {
+    "Vikavolt": [
+      {
+        "game": "sun",
+        "desc": "It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies."
+      },
+      {
+        "game": "moon",
+        "desc": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack."
+      },
+      {
+        "game": "sword",
+        "desc": "It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams."
+      },
+      {
+        "game": "shield",
+        "desc": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity."
+      }
+    ]
+  }
+}

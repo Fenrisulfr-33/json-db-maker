@@ -1,0 +1,86 @@
+{
+  "_id": 685,
+  "key": "slurpuff",
+  "name": {
+    "english": "Slurpuff",
+    "spanish": "Slurpuff",
+    "italian": "Slurpuff",
+    "japanese": "ペロリーム",
+    "chinese": "胖甜妮",
+    "korean": "",
+    "german": "Sabbaione",
+    "french": "Cupcanaille"
+  },
+  "pokedexNumber": {
+    "sword-shield": 211
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sweet Veil",
+      "id": 175
+    },
+    "hidden": {
+      "name": "Unburden",
+      "id": 84
+    }
+  },
+  "baseStats": {
+    "hp": 82,
+    "atk": 80,
+    "def": 86,
+    "spatk": 85,
+    "spdef": 75,
+    "spd": 72,
+    "total": 480
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "5.0 kg (11.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 237,
+  "generation": 6,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Fairy"
+  ],
+  "species": "Meringue Pokémon",
+  "catchRate": 140,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "slurp": "drink with loud sucking noises",
+    "puff": "small blast (of powder etc.)"
+  },
+  "pokedexEntries": {
+    "Slurpuff": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It can distinguish the faintest of scents. It puts its sensitive sense of smell to use by helping pastry chefs in their work."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its sense of smell is 100 million times better than a human’s, so even the faintest scent tells it about everything in the area. It’s like it can see with its nose!"
+      },
+      {
+        "game": "sword",
+        "desc": "By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications."
+      },
+      {
+        "game": "shield",
+        "desc": "Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks."
+      }
+    ]
+  }
+}

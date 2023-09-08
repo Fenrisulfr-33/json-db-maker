@@ -1,0 +1,78 @@
+{
+  "_id": 813,
+  "key": "scorbunny",
+  "name": {
+    "english": "Scorbunny",
+    "spanish": "Scorbunny",
+    "italian": "Scorbunny",
+    "japanese": "ヒバニー",
+    "chinese": "炎兔儿",
+    "korean": "",
+    "german": "Hopplo",
+    "french": "Flambino"
+  },
+  "pokedexNumber": {
+    "sword-shield": 4
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Libero",
+      "id": 236
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 71,
+    "def": 40,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 69,
+    "total": 310
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "4.5 kg (9.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 275,
+  "generation": 8,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Rabbit Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "scorch": "to burn harshly",
+    "bunny": "slang for rabbit, a small mammal with long ears"
+  },
+  "pokedexEntries": {
+    "Scorbunny": [
+      {
+        "game": "sword",
+        "desc": "A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power."
+      },
+      {
+        "game": "shield",
+        "desc": "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat."
+      }
+    ]
+  }
+}

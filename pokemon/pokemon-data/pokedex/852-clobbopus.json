@@ -1,0 +1,79 @@
+{
+  "_id": 852,
+  "key": "clobbopus",
+  "name": {
+    "english": "Clobbopus",
+    "spanish": "Clobbopus",
+    "italian": "Clobbopus",
+    "japanese": "タタッコ",
+    "chinese": "拳拳蛸",
+    "korean": "",
+    "german": "Klopptopus",
+    "french": "Poulpaf"
+  },
+  "pokedexNumber": {
+    "sword-shield": 351,
+    "isle-of-armor": 129
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Limber",
+      "id": 7
+    },
+    "hidden": {
+      "name": "Technician",
+      "id": 101
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 68,
+    "def": 60,
+    "spatk": 50,
+    "spdef": 50,
+    "spd": 32,
+    "total": 310
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "4.0 kg (8.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 292,
+  "generation": 8,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Tantrum Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "clobber": "",
+    "octopus": "marine creature with eight tentacles"
+  },
+  "pokedexEntries": {
+    "Clobbopus": [
+      {
+        "game": "sword",
+        "desc": "It’s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land."
+      },
+      {
+        "game": "shield",
+        "desc": "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old."
+      }
+    ]
+  }
+}

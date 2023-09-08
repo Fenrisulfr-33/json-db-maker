@@ -1,0 +1,103 @@
+{
+  "_id": 745,
+  "key": "lycanroc",
+  "name": {
+    "english": "Lycanroc",
+    "spanish": "Lycanroc",
+    "italian": "Lycanroc",
+    "japanese": "ルガルガン",
+    "chinese": "鬃岩狼人",
+    "korean": "",
+    "german": "Wolwerock",
+    "french": "Lougaroc"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 90,
+    "isle-of-armor": 158
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Sand Rush",
+      "id": 146
+    },
+    "hidden": {
+      "name": "Steadfast",
+      "id": 80
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 115,
+    "def": 65,
+    "spatk": 55,
+    "spdef": 65,
+    "spd": 112,
+    "total": 487
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "25.0 kg (55.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 258,
+  "generation": 7,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Wolf Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "lycanthrope": "a werewolf",
+    "rock": "stone, boulder"
+  },
+  "pokedexEntries": {
+    "Midday Form": [
+      {
+        "game": "sword",
+        "desc": "This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp."
+      },
+      {
+        "game": "shield",
+        "desc": "With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots."
+      }
+    ],
+    "Midnight Form": [
+      {
+        "game": "sword",
+        "desc": "This form of Lycanroc is reckless. It charges headlong at its opponents, attacking without any care about what injuries it might receive."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s invigorated by powerful opponents—the stronger the better. A full-force headbutt from one of these Lycanroc can shatter giant boulders."
+      }
+    ],
+    "Dusk Form": [
+      {
+        "game": "sword",
+        "desc": "This form of Lycanroc is normally calm and quiet. Once a battle begins, however, this Pokémon displays a ferocious fighting spirit."
+      },
+      {
+        "game": "shield",
+        "desc": "These Pokémon have both calm and ferocious qualities. Their temperamental nature makes them a difficult species to raise."
+      }
+    ]
+  }
+}

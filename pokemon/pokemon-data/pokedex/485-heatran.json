@@ -1,0 +1,103 @@
+{
+  "_id": 485,
+  "key": "heatran",
+  "name": {
+    "english": "Heatran",
+    "spanish": "Heatran",
+    "italian": "Heatran",
+    "japanese": "ヒードラン",
+    "chinese": "席多蓝恩",
+    "korean": "",
+    "german": "Heatran",
+    "french": "Heatran"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 228
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "hidden": {
+      "name": "Flame Body",
+      "id": 49
+    }
+  },
+  "baseStats": {
+    "hp": 91,
+    "atk": 90,
+    "def": 106,
+    "spatk": 130,
+    "spdef": 106,
+    "spd": 77,
+    "total": 600
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "430.0 kg (948.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Lava Dome Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 100,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "heat": "to increase in temperature",
+    "transfer": "to move from one place to another, esp. heat through metal"
+  },
+  "pokedexEntries": {
+    "Heatran": [
+      {
+        "game": "diamond-pearl",
+        "desc": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Stories tell of this Pokémon being birthed from the boiling magma within Mount Coronet. Its molten-steel body holds many mysteries."
+      }
+    ]
+  }
+}

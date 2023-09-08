@@ -1,0 +1,164 @@
+{
+  "_id": 145,
+  "key": "zapdos",
+  "name": {
+    "english": "Zapdos",
+    "spanish": "Zapdos",
+    "italian": "Zapdos",
+    "japanese": "サンダー",
+    "chinese": "闪电鸟",
+    "korean": "",
+    "german": "Zapdos",
+    "french": "Électhor"
+  },
+  "pokedexNumber": {
+    "crystal": 241,
+    "gold-silver": 241,
+    "yellow": 145,
+    "red-blue": 145
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Static",
+      "id": 9
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 90,
+    "def": 85,
+    "spatk": 125,
+    "spdef": 90,
+    "spd": 100,
+    "total": 580
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "58.2 kg (128.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 1,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Electric Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "zap": "relating to the sound of striking electricity",
+    "dos": "Spanish for two"
+  },
+  "pokedexEntries": {
+    "Zapdos": [
+      {
+        "game": "red-blue",
+        "desc": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts."
+      },
+      {
+        "game": "yellow",
+        "desc": "This legendary bird POKéMON is said to appear when the sky turns dark and lightning showers down."
+      },
+      {
+        "game": "gold",
+        "desc": "This legendary bird POKéMON causes savage thunderstorms by flapping its glittering wings."
+      },
+      {
+        "game": "silver",
+        "desc": "This legendary bird POKéMON is said to appear only when a thundercloud parts into two halves."
+      },
+      {
+        "game": "crystal",
+        "desc": "Legendary bird POKéMON. They say lightning caused by the flapping of its wings causes summer storms."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. The POKéMON gains power if it is stricken by lightning bolts."
+      },
+      {
+        "game": "fire-red",
+        "desc": "One of the legendary bird POKéMON. While it is flying, it makes crackling and snapping sounds."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts."
+      },
+      {
+        "game": "emerald",
+        "desc": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "This legendary bird Pokémon causes savage thunderstorms by flapping its glittering wings."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "This legendary bird Pokémon is said to appear only when a thundercloud parts into two halves."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts."
+      },
+      {
+        "game": "x",
+        "desc": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts."
+      },
+      {
+        "game": "y",
+        "desc": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds."
+      },
+      {
+        "game": "shield",
+        "desc": "Zapdos is a legendary bird Pokémon. It’s said that when Zapdos rubs its feathers together, lightning will fall immediately after."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "This legendary Pokémon is said to live in thunderclouds. It freely controls lightning bolts."
+      }
+    ],
+    "Galarian Zapdos": [
+      {
+        "game": "sword",
+        "desc": "When its feathers rub together, they produce a crackling sound like the zapping of electricity. That’s why this Pokémon is called Zapdos."
+      },
+      {
+        "game": "shield",
+        "desc": "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph."
+      }
+    ]
+  }
+}

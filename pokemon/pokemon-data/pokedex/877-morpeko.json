@@ -1,0 +1,87 @@
+{
+  "_id": 877,
+  "key": "morpeko",
+  "name": {
+    "english": "Morpeko",
+    "spanish": "Morpeko",
+    "italian": "Morpeko",
+    "japanese": "モルペコ",
+    "chinese": "莫鲁贝可",
+    "korean": "",
+    "german": "Morpeko",
+    "french": "Morpeko"
+  },
+  "pokedexNumber": {
+    "sword-shield": 344,
+    "isle-of-armor": 104,
+    "crown-tundra": 157
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hunger Switch",
+      "id": 258
+    }
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 95,
+    "def": 58,
+    "spatk": 70,
+    "spdef": 58,
+    "spd": 97,
+    "total": 436
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.0 kg (6.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Two-Sided Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 50,
+  "baseExp": 153,
+  "growthRate": "Medium Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "morumotto": "Japanese for ‘guinea pig’",
+    "harapeko": "Japanese for ‘hungry’"
+  },
+  "pokedexEntries": {
+    "Full Belly Mode": [
+      {
+        "game": "sword",
+        "desc": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity."
+      },
+      {
+        "game": "shield",
+        "desc": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order."
+      }
+    ],
+    "Hangry Mode": [
+      {
+        "game": "sword",
+        "desc": "Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy."
+      },
+      {
+        "game": "shield",
+        "desc": "Hunger hormones affect its temperament. Until its hunger is appeased, it gets up to all manner of evil deeds."
+      }
+    ]
+  }
+}

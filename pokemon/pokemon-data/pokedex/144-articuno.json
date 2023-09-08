@@ -1,0 +1,160 @@
+{
+  "_id": 144,
+  "key": "articuno",
+  "name": {
+    "english": "Articuno",
+    "spanish": "Articuno",
+    "italian": "Articuno",
+    "japanese": "フリーザー",
+    "chinese": "急冻鸟",
+    "korean": "",
+    "german": "Arktos",
+    "french": "Artikodin"
+  },
+  "pokedexNumber": {
+    "crystal": 240,
+    "gold-silver": 240,
+    "yellow": 144,
+    "red-blue": 144
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Snow Cloak",
+      "id": 81
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 85,
+    "def": 100,
+    "spatk": 95,
+    "spdef": 125,
+    "spd": 85,
+    "total": 580
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "50.9 kg (112.2 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 1,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Freeze Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "arctic": "relating to the (cold) regions around the North Pole",
+    "uno": "Spanish for one"
+  },
+  "pokedexEntries": {
+    "Articuno": [
+      {
+        "game": "red-blue",
+        "desc": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains."
+      },
+      {
+        "game": "yellow",
+        "desc": "A legendary bird POKéMON. It freezes water that is contained in winter air and makes it snow."
+      },
+      {
+        "game": "gold",
+        "desc": "The magnificent, seemingly translucent wings of this legendary bird POKéMON are said to be made of ice."
+      },
+      {
+        "game": "silver",
+        "desc": "One of the legendary bird POKéMON, it chills moisture in the atmosphere to create snow while flying."
+      },
+      {
+        "game": "crystal",
+        "desc": "Legendary bird POKéMON. As it flies through the sky, it cools the air, causing snow to fall."
+      },
+      {
+        "game": "ruby-sapphire-emerald",
+        "desc": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall."
+      },
+      {
+        "game": "fire-red",
+        "desc": "One of the legendary bird POKéMON. With its long tail trailing behind, its flying form is magnificent."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The magnificent, seemingly translucent wings of this legendary bird Pokémon are said to be made of ice."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air."
+      },
+      {
+        "game": "x",
+        "desc": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air."
+      },
+      {
+        "game": "y",
+        "desc": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "This legendary bird Pokémon can create blizzards by freezing moisture in the air."
+      }
+    ],
+    "Galarian Articuno": [
+      {
+        "game": "sword",
+        "desc": "Its feather-like blades are composed of psychic energy and can shear through thick iron sheets as if they were paper."
+      },
+      {
+        "game": "shield",
+        "desc": "Known as Articuno, this Pokémon fires beams that can immobilize opponents as if they had been frozen solid."
+      }
+    ]
+  }
+}

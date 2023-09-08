@@ -1,0 +1,170 @@
+{
+  "_id": 212,
+  "key": "scizor",
+  "name": {
+    "english": "Scizor",
+    "spanish": "Scizor",
+    "italian": "Scizor",
+    "japanese": "ハッサム",
+    "chinese": "巨钳螳螂",
+    "korean": "",
+    "german": "Scherox",
+    "french": "Cizayox"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 261,
+    "legends-arceus": 74,
+    "isle-of-armor": 119,
+    "crystal": 112,
+    "gold-silver": 112
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Technician",
+      "id": 101
+    },
+    "hidden": {
+      "name": "Light Metal",
+      "id": 135
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 130,
+    "def": 100,
+    "spatk": 55,
+    "spdef": 80,
+    "spd": 65,
+    "total": 500
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "118.0 kg (260.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 72,
+  "generation": 2,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Pincer Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 50,
+  "baseExp": 175,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "scissor(s)": "cutting implements"
+  },
+  "pokedexEntries": {
+    "Scizor": [
+      {
+        "game": "gold",
+        "desc": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
+      },
+      {
+        "game": "silver",
+        "desc": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature."
+      },
+      {
+        "game": "crystal",
+        "desc": "This POKéMON’s pincers, which contain steel, can crush any hard object it gets a hold of into bits."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
+      },
+      {
+        "game": "emerald",
+        "desc": "A SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers."
+      },
+      {
+        "game": "platinum",
+        "desc": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously."
+      },
+      {
+        "game": "x",
+        "desc": "This Pokémon’s pincers, which contain steel, can crush any hard object it gets ahold of into bits."
+      },
+      {
+        "game": "y",
+        "desc": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature."
+      },
+      {
+        "game": "sun",
+        "desc": "It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle."
+      },
+      {
+        "game": "moon",
+        "desc": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there’s nothing left but scraps."
+      },
+      {
+        "game": "sword",
+        "desc": "Bulky pincers account for one third of Scizor’s body weight. A single swing of one of these pincers will crush a boulder completely."
+      },
+      {
+        "game": "shield",
+        "desc": "Though its body is slim, Scizor has tremendous attacking power. Even Scizor’s muscles are made of metal."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel."
+      }
+    ]
+  }
+}

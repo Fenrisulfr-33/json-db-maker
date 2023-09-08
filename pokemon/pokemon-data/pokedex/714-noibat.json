@@ -1,0 +1,101 @@
+{
+  "_id": 714,
+  "key": "noibat",
+  "name": {
+    "english": "Noibat",
+    "spanish": "Noibat",
+    "italian": "Noibat",
+    "japanese": "オンバット",
+    "chinese": "嗡蝠",
+    "korean": "",
+    "german": "eF-eM",
+    "french": "Sonistrelle"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 303,
+    "sword-shield": 176,
+    "crown-tundra": 181
+  },
+  "type": {
+    "one": "Flying",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 30,
+    "def": 35,
+    "spatk": 45,
+    "spdef": 40,
+    "spd": 55,
+    "total": 245
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 249,
+  "generation": 6,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Sound Wave Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 49,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "noise": "loud sounds",
+    "bat": "cave-dwelling flying mammal"
+  },
+  "pokedexEntries": {
+    "Noibat": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "They live in pitch-black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Fruits are its favorite foods. This gourmet carefully picks out just the ripe ones using its sonar."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe."
+      },
+      {
+        "game": "sword",
+        "desc": "After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit."
+      },
+      {
+        "game": "shield",
+        "desc": "No wavelength of sound is beyond Noibat’s ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon."
+      }
+    ]
+  }
+}

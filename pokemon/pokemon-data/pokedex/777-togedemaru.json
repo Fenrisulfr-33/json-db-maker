@@ -1,0 +1,100 @@
+{
+  "_id": 777,
+  "key": "togedemaru",
+  "name": {
+    "english": "Togedemaru",
+    "spanish": "Togedemaru",
+    "italian": "Togedemaru",
+    "japanese": "トゲデマル",
+    "chinese": "托戈德玛尔",
+    "korean": "",
+    "german": "Togedemaru",
+    "french": "Mimiqui"
+  },
+  "pokedexNumber": {
+    "sword-shield": 348
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Iron Barbs",
+      "id": 160
+    },
+    "two": {
+      "name": "Lightning Rod",
+      "id": 31
+    },
+    "hidden": {
+      "name": "Sturdy",
+      "id": 5
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 98,
+    "def": 63,
+    "spatk": 40,
+    "spdef": 73,
+    "spd": 96,
+    "total": 435
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.3 kg (7.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "species": "Roly-Poly Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 50,
+  "baseExp": 152,
+  "growthRate": "Medium Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "toge": "Japanese for ‘thorn’",
+    "maru": "Japanese for ‘round’"
+  },
+  "pokedexEntries": {
+    "Togedemaru": [
+      {
+        "game": "sun",
+        "desc": "The spiny fur on its back is normally at rest. When this Pokémon becomes agitated, its fur stands on end and stabs into its attackers."
+      },
+      {
+        "game": "moon",
+        "desc": "The long hairs on its back act as lightning rods. The bolts of lightning it attracts are stored as energy in its electric sac."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When it’s surprised or agitated, the 14 fur spikes on its back will stand up involuntarily."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!"
+      },
+      {
+        "game": "sword",
+        "desc": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac."
+      },
+      {
+        "game": "shield",
+        "desc": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately."
+      }
+    ]
+  }
+}

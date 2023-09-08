@@ -1,0 +1,101 @@
+{
+  "_id": 715,
+  "key": "noivern",
+  "name": {
+    "english": "Noivern",
+    "spanish": "Noivern",
+    "italian": "Noivern",
+    "japanese": "オンバーン",
+    "chinese": "音波龙",
+    "korean": "",
+    "german": "UHaFnir",
+    "french": "Bruyverne"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 304,
+    "sword-shield": 177,
+    "crown-tundra": 182
+  },
+  "type": {
+    "one": "Flying",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 70,
+    "def": 80,
+    "spatk": 97,
+    "spdef": 80,
+    "spd": 123,
+    "total": 535
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "85.0 kg (187.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 249,
+  "generation": 6,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Sound Wave Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 187,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "noise": "loud sounds",
+    "wyvern": "mythical dragon-like creature"
+  },
+  "pokedexEntries": {
+    "Noivern": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders."
+      },
+      {
+        "game": "sword",
+        "desc": "Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark."
+      },
+      {
+        "game": "shield",
+        "desc": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight."
+      }
+    ]
+  }
+}

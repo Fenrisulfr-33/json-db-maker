@@ -1,0 +1,115 @@
+{
+  "_id": 705,
+  "key": "sliggoo",
+  "name": {
+    "english": "Sliggoo",
+    "spanish": "Sliggoo",
+    "italian": "Sliggoo",
+    "japanese": "ヌメイル",
+    "chinese": "黏美儿",
+    "korean": "",
+    "german": "Viscargot",
+    "french": "Colimucus"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 173,
+    "legends-arceus": 116,
+    "sword-shield": 390,
+    "isle-of-armor": 61
+  },
+  "type": {
+    "one": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sap Sipper",
+      "id": 157
+    },
+    "two": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "hidden": {
+      "name": "Gooey",
+      "id": 183
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 75,
+    "def": 53,
+    "spatk": 83,
+    "spdef": 113,
+    "spd": 60,
+    "total": 452
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "68.5 kg (151.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 245,
+  "generation": 6,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Soft Tissue Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 158,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "slime": "sticky substance",
+    "goo": "sticky substance"
+  },
+  "pokedexEntries": {
+    "Sliggoo": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose."
+      },
+      {
+        "game": "sun",
+        "desc": "It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon’s mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they’re nicely dissolved, it slurps them up."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you’re going to touch it."
+      },
+      {
+        "game": "sword",
+        "desc": "Although this Pokémon isn’t very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it."
+      },
+      {
+        "game": "shield",
+        "desc": "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies."
+      }
+    ],
+    "Hisuian Sliggoo": [
+      {
+        "game": "legends-arceus",
+        "desc": "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui’s water."
+      }
+    ]
+  }
+}

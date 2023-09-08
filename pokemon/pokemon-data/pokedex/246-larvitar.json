@@ -1,0 +1,155 @@
+{
+  "_id": 246,
+  "key": "larvitar",
+  "name": {
+    "english": "Larvitar",
+    "spanish": "Larvitar",
+    "italian": "Larvitar",
+    "japanese": "ヨーギラス",
+    "chinese": "幼基拉斯",
+    "korean": "",
+    "german": "Larvitar",
+    "french": "Embrylex"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 316,
+    "sword-shield": 383,
+    "crown-tundra": 139,
+    "crystal": 249,
+    "gold-silver": 249
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 64,
+    "def": 50,
+    "spatk": 45,
+    "spdef": 50,
+    "spd": 41,
+    "total": 300
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "72.0 kg (158.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 85,
+  "generation": 2,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Monster"
+  ],
+  "species": "Rock Skin Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 60,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "larva": "young feeding stage of an insect",
+    "tar": "from Latin ‘tardus’ meaning slow"
+  },
+  "pokedexEntries": {
+    "Larvitar": [
+      {
+        "game": "gold",
+        "desc": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
+      },
+      {
+        "game": "silver",
+        "desc": "It is born deep underground. It can’t emerge until it has entirely consumed the soil around it."
+      },
+      {
+        "game": "crystal",
+        "desc": "Born deep underground, this POKéMON becomes a pupa after eating enough dirt to make a mountain."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "LARVITAR is born deep under the ground. To come up to the surface, this POKéMON must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent’s face."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is born deep underground. It can’t emerge until it has entirely consumed the soil around it."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
+      },
+      {
+        "game": "emerald",
+        "desc": "A LARVITAR is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents’ faces."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It is born deep underground. It can’t emerge until it has entirely consumed the soil around it."
+      },
+      {
+        "game": "black-white",
+        "desc": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil."
+      },
+      {
+        "game": "x",
+        "desc": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow."
+      },
+      {
+        "game": "y",
+        "desc": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Born underground, it eats its way through dirt to the surface, where its parents are. It doesn’t deal well with the bright light it finds there."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Raised on nutrients it finds in the dirt, it eats roughly a mountain’s worth of dirt before it becomes a pupa."
+      },
+      {
+        "game": "sword",
+        "desc": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil."
+      },
+      {
+        "game": "shield",
+        "desc": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "This Pokémon eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow."
+      }
+    ]
+  }
+}

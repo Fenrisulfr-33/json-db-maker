@@ -1,0 +1,132 @@
+{
+  "_id": 245,
+  "key": "suicune",
+  "name": {
+    "english": "Suicune",
+    "spanish": "Suicune",
+    "italian": "Suicune",
+    "japanese": "スイクン",
+    "chinese": "水君",
+    "korean": "",
+    "german": "Suicune",
+    "french": "Suicune"
+  },
+  "pokedexNumber": {
+    "crystal": 245,
+    "gold-silver": 245
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Inner Focus",
+      "id": 39
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 75,
+    "def": 115,
+    "spatk": 90,
+    "spdef": 115,
+    "spd": 85,
+    "total": 580
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "187.0 kg (412.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "def": 1,
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Aurora Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "sui": "Japanese for ‘water’",
+    "kun": "Japanese for ‘monarch’"
+  },
+  "pokedexEntries": {
+    "Suicune": [
+      {
+        "game": "gold",
+        "desc": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water."
+      },
+      {
+        "game": "silver",
+        "desc": "This POKéMON races across the land. It is said that north winds will somehow blow whenever it appears."
+      },
+      {
+        "game": "crystal",
+        "desc": "This divine POKéMON blows around the world, always in search of a pure reservoir."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water."
+      },
+      {
+        "game": "fire-red",
+        "desc": "This POKéMON races across the land. It is said that north winds will somehow blow whenever it appears."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water."
+      },
+      {
+        "game": "emerald",
+        "desc": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It races around the world to purify fouled water. It dashes away with the north wind."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "This Pokémon races across the land. It is said that north winds will somehow blow whenever it appears."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It races around the world to purify fouled water. It dashes away with the north wind."
+      },
+      {
+        "game": "x",
+        "desc": "It races around the world to purify fouled water. It dashes away with the north wind."
+      },
+      {
+        "game": "y",
+        "desc": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It races around the world to purify fouled water. It dashes away with the north wind."
+      }
+    ]
+  }
+}

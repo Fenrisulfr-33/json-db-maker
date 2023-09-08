@@ -1,0 +1,212 @@
+{
+  "_id": 75,
+  "key": "graveler",
+  "name": {
+    "english": "Graveler",
+    "spanish": "Graveler",
+    "italian": "Graveler",
+    "japanese": "ゴローン",
+    "chinese": "隆隆石",
+    "korean": "",
+    "german": "Georok",
+    "french": "Gravalanch"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 47,
+    "crystal": 35,
+    "gold-silver": 35,
+    "yellow": 75,
+    "red-blue": 75
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rock Head",
+      "id": 69
+    },
+    "two": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 95,
+    "def": 115,
+    "spatk": 45,
+    "spdef": 45,
+    "spd": 35,
+    "total": 390
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "110.0 kg (242.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 31,
+  "generation": 1,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Rock Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 137,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "gravel": "small rocks/pebbles"
+  },
+  "pokedexEntries": {
+    "Graveler": [
+      {
+        "game": "red-blue",
+        "desc": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+      },
+      {
+        "game": "yellow",
+        "desc": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid."
+      },
+      {
+        "game": "gold",
+        "desc": "With a free and uncaring nature, it doesn’t mind if pieces break off while it rolls down mountains."
+      },
+      {
+        "game": "silver",
+        "desc": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path."
+      },
+      {
+        "game": "crystal",
+        "desc": "It travels by rolling on mountain paths. If it gains too much speed, it stops by running into huge rocks."
+      },
+      {
+        "game": "ruby",
+        "desc": "GRAVELER grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This POKéMON eats its way through a ton of rocks on a daily basis."
+      },
+      {
+        "game": "sapphire",
+        "desc": "Rocks are GRAVELER’s favorite food. This POKéMON will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Be careful while hiking on mountain trails. GRAVELER may come rolling down the path without slowing."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+      },
+      {
+        "game": "emerald",
+        "desc": "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles."
+      },
+      {
+        "game": "diamond",
+        "desc": "GRAVELER make their homes on sheer cliff faces by gouging out numerous horizontal holes."
+      },
+      {
+        "game": "pearl",
+        "desc": "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily."
+      },
+      {
+        "game": "platinum",
+        "desc": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "With a free and uncaring nature, it doesn’t mind if pieces break off while it rolls down mountains."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty."
+      },
+      {
+        "game": "x",
+        "desc": "With a free and uncaring nature, it doesn’t mind if pieces break off while it rolls down mountains."
+      },
+      {
+        "game": "y",
+        "desc": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Rocks are Graveler’s favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom."
+      },
+      {
+        "game": "sun",
+        "desc": "Mossy rocks are its favorite food. It can devour a ton a day while crunching loudly."
+      },
+      {
+        "game": "moon",
+        "desc": "This slow-footed Pokémon moves by curling up and rolling instead of walking. With enough momentum, its speed can exceed 60 mph."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It travels by rolling down cliffs. If it falls into a river, it will explode with its last gasp."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Graveler make their homes on sheer cliff faces that have numerous holes in them."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It tumbles down slopes, heedless of any body parts chipping off. It eats a ton of rocks daily."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads."
+      }
+    ],
+    "Alolan Graveler": [
+      {
+        "game": "sun",
+        "desc": "Its preferred food is dravite. After it has eaten this mineral, crystals form inside the Pokémon, rising to the surface of part of its body."
+      },
+      {
+        "game": "moon",
+        "desc": "They eat rocks and often get into a scrap over them. The shock of Graveler smashing together causes a flash of light and a booming noise."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When two Graveler fight each other, it fills the surroundings with flashes of light and sound. People call it the “fireworks of the earth.”"
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Graveler’s entire body is tinged with electricity due to the stones it likes to eat. It’s very quick-tempered."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying."
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_id": 396,
+  "key": "starly",
+  "name": {
+    "english": "Starly",
+    "spanish": "Starly",
+    "italian": "Starly",
+    "japanese": "ムックル",
+    "chinese": "姆克儿",
+    "korean": "",
+    "german": "Staralili",
+    "french": "Étourmi"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 97,
+    "legends-arceus": 12
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "hidden": {
+      "name": "Reckless",
+      "id": 120
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 55,
+    "def": 30,
+    "spatk": 30,
+    "spdef": 30,
+    "spd": 60,
+    "total": 245
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.0 kg (4.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 131,
+  "generation": 4,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Starling Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 49,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "starling": "a species of bird"
+  },
+  "pokedexEntries": {
+    "Starly": [
+      {
+        "game": "diamond",
+        "desc": "They flock in great numbers. Though small, they flap their wings with great power."
+      },
+      {
+        "game": "pearl",
+        "desc": "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident."
+      },
+      {
+        "game": "platinum",
+        "desc": "Because they are weak individually, they form groups. However, they bicker if the group grows too big."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Because they are weak individually, they form groups. However, they bicker if the group grows too big."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They flock in great numbers. Though small, they flap their wings with great power."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "They flock in great numbers. Though small, they flap their wings with great power."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong—a strike from them leaves pain that persists for a week."
+      }
+    ]
+  }
+}

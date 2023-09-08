@@ -1,0 +1,183 @@
+{
+  "_id": 125,
+  "key": "electabuzz",
+  "name": {
+    "english": "Electabuzz",
+    "spanish": "Electabuzz",
+    "italian": "Electabuzz",
+    "japanese": "エレブー",
+    "chinese": "电击兽",
+    "korean": "",
+    "german": "Elektek",
+    "french": "Élektek"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 183,
+    "crown-tundra": 16,
+    "crystal": 157,
+    "gold-silver": 157,
+    "yellow": 125,
+    "red-blue": 125
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Static",
+      "id": 9
+    },
+    "hidden": {
+      "name": "Vital Spirit",
+      "id": 72
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 83,
+    "def": 57,
+    "spatk": 95,
+    "spdef": 85,
+    "spd": 105,
+    "total": 490
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "30.0 kg (66.1 lbs)"
+  },
+  "gender": {
+    "male": "75%",
+    "female": "25%",
+    "genderless": false
+  },
+  "evolution": 82,
+  "generation": 1,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Electric Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "electricity": "energy from electric currents",
+    "buzz": "low humming sound, as in electricity"
+  },
+  "pokedexEntries": {
+    "Electabuzz": [
+      {
+        "game": "red-blue",
+        "desc": "Normally found near power plants, they can wander away and cause major blackouts in cities."
+      },
+      {
+        "game": "yellow",
+        "desc": "If a major power outage occurs, it is certain that this POKéMON has eaten electricity at a power plant."
+      },
+      {
+        "game": "gold",
+        "desc": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue."
+      },
+      {
+        "game": "silver",
+        "desc": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end."
+      },
+      {
+        "game": "crystal",
+        "desc": "When two ELECTABUZZ touch, they control the electric currents to communicate their feelings."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Normally found near power plants, they can wander away and cause major blackouts in cities."
+      },
+      {
+        "game": "emerald",
+        "desc": "When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use ELECTABUZZ in place of lightning rods."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity."
+      },
+      {
+        "game": "platinum",
+        "desc": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end."
+      },
+      {
+        "game": "black-white",
+        "desc": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time."
+      },
+      {
+        "game": "x",
+        "desc": "Electricity runs across the surface of its body. In darkness, its entire body glows a whitish blue."
+      },
+      {
+        "game": "y",
+        "desc": "It loves to feed on strong electricity. It occasionally appears around large power plants and so on."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods."
+      },
+      {
+        "game": "sun",
+        "desc": "Half of all sudden blackouts are caused by Electabuzz gathering at electric power plants and gobbling up electricity."
+      },
+      {
+        "game": "moon",
+        "desc": "Electricity leaks from it in amounts far greater than the amount of electricity it eats."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Electricity permeates its body. It swings its arms round and round to charge up electricity before unleashing a punch."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "While it’s often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant."
+      },
+      {
+        "game": "sword",
+        "desc": "Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity."
+      },
+      {
+        "game": "shield",
+        "desc": "With the coming of a storm, many of these Pokémon will gather under tall trees and sit there waiting for lightning to strike."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Half of all blackouts occur when this Pokémon appears at power plants and eats electricity."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike."
+      }
+    ]
+  }
+}

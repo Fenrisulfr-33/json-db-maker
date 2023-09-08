@@ -1,0 +1,148 @@
+{
+  "_id": 369,
+  "key": "relicanth",
+  "name": {
+    "english": "Relicanth",
+    "spanish": "Relicanth",
+    "italian": "Relicanth",
+    "japanese": "ジーランス",
+    "chinese": "古空棘鱼",
+    "korean": "",
+    "german": "Relicanth",
+    "french": "Relicanth"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 187
+  },
+  "type": {
+    "one": "Water",
+    "two": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Rock Head",
+      "id": 69
+    },
+    "hidden": {
+      "name": "Sturdy",
+      "id": 5
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 90,
+    "def": 130,
+    "spatk": 45,
+    "spdef": 65,
+    "spd": 55,
+    "total": 485
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "23.4 kg (51.6 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Water 2"
+  ],
+  "species": "Longevity Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "relic": "very old object; antique",
+    "coelacanths": "ancient fossilised fish"
+  },
+  "pokedexEntries": {
+    "Relicanth": [
+      {
+        "game": "ruby",
+        "desc": "RELICANTH is a POKéMON species that existed for a hundred million years without ever changing its form. This ancient POKéMON feeds on microscopic organisms with its toothless mouth."
+      },
+      {
+        "game": "sapphire",
+        "desc": "RELICANTH is a rare species that was discovered in deep-sea explorations. This POKéMON’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration."
+      },
+      {
+        "game": "emerald",
+        "desc": "A POKéMON that was once believed to have been extinct. The species has not changed its form for 100 million years. It walks on the seafloor using its pectoral fins."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Discovered by chance during deep-sea explorations, it has not changed since ancient times."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years."
+      },
+      {
+        "game": "x",
+        "desc": "It has remained unchanged for 100 million years. It was discovered during a deep-sea exploration."
+      },
+      {
+        "game": "y",
+        "desc": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Relicanth is a Pokémon species that existed for a hundred million years without ever changing its form. This ancient Pokémon feeds on microscopic organisms with its toothless mouth."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Relicanth is a rare species that was discovered in deep-sea explorations. This Pokémon’s body withstands the enormous water pressure of the ocean depths. Its body is covered in tough scales that are like craggy rocks."
+      },
+      {
+        "game": "sun",
+        "desc": "Its form has remained the same for one hundred million years. Its body is filled with fat, so it can withstand the water pressure of the deep sea."
+      },
+      {
+        "game": "moon",
+        "desc": "It was fortuitously discovered during a deep sea expedition. Its teeth have atrophied, so it now survives on microscopic organisms it sucks up."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Thought to have gone extinct, Relicanth was given a name that is a variation of the name of the person who discovered it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "The reason it hasn’t changed at all in a hundred million years is that it’s apparently already a perfect life-form."
+      },
+      {
+        "game": "sword",
+        "desc": "Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon was discovered during deep-sea exploration. Its appearance hasn’t changed in 100,000,000 years, so it’s called a living fossil."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "This rare Pokémon was discovered during a deep-sea exploration. It has not changed in over 100 million years."
+      }
+    ]
+  }
+}

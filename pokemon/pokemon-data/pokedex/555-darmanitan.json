@@ -1,0 +1,130 @@
+{
+  "_id": 555,
+  "key": "darmanitan",
+  "name": {
+    "english": "Darmanitan",
+    "spanish": "Darmanitan",
+    "italian": "Darmanitan",
+    "japanese": "ヒヒダルマ",
+    "chinese": "达摩狒狒",
+    "korean": "",
+    "german": "Flampivian",
+    "french": "Darumacho"
+  },
+  "pokedexNumber": {
+    "sword-shield": 368
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Zen Mode",
+      "id": 161
+    }
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 140,
+    "def": 55,
+    "spatk": 30,
+    "spdef": 55,
+    "spd": 95,
+    "total": 480
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "120.0 kg (264.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 191,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Blazing Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "daruma": "daruma doll, a traditional Japanese doll",
+    "orangutan": "a species of ape"
+  },
+  "pokedexEntries": {
+    "Darmanitan": [
+      {
+        "game": "black",
+        "desc": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch."
+      },
+      {
+        "game": "white",
+        "desc": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch."
+      }
+    ],
+    "Standard Mode": [
+      {
+        "game": "sword",
+        "desc": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit."
+      }
+    ],
+    "Zen Mode": [
+      {
+        "game": "sword",
+        "desc": "Through meditation, it calms its raging spirit and hones its psychic powers."
+      },
+      {
+        "game": "shield",
+        "desc": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit."
+      }
+    ],
+    "Galarian Standard Mode": [
+      {
+        "game": "sword",
+        "desc": "On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later."
+      },
+      {
+        "game": "shield",
+        "desc": "Though it has a gentle disposition, it’s also very strong. It will quickly freeze the snowball on its head before going for a headbutt."
+      }
+    ],
+    "Galarian Zen Mode": [
+      {
+        "game": "sword",
+        "desc": "Anger has reignited its atrophied flame sac. This Pokémon spews fire everywhere as it rampages indiscriminately."
+      },
+      {
+        "game": "shield",
+        "desc": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt."
+      }
+    ]
+  }
+}

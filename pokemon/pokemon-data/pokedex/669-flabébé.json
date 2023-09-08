@@ -1,0 +1,86 @@
+{
+  "_id": 669,
+  "key": "flabébé",
+  "name": {
+    "english": "Flabébé",
+    "spanish": "Flabébé",
+    "italian": "Flabébé",
+    "japanese": "フラベベ",
+    "chinese": "花蓓蓓",
+    "korean": "",
+    "german": "Flabébé",
+    "french": "Flabébé"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 145
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flower Veil",
+      "id": 166
+    },
+    "hidden": {
+      "name": "Symbiosis",
+      "id": 180
+    }
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 38,
+    "def": 39,
+    "spatk": 61,
+    "spdef": 79,
+    "spd": 42,
+    "total": 303
+  },
+  "info": {
+    "height": "0.1 m (0′04″)",
+    "weight": "0.1 kg (0.2 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 231,
+  "generation": 6,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Fairy"
+  ],
+  "species": "Single Bloom Pokémon",
+  "catchRate": 225,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "flabra": "Latin for ‘breeze’ or ‘wind’",
+    "bébé": "French for ‘baby’"
+  },
+  "pokedexEntries": {
+    "Flabebe": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind’s embrace with an untroubled heart."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties."
+      }
+    ]
+  }
+}

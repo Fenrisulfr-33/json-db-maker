@@ -1,0 +1,97 @@
+{
+  "_id": 590,
+  "key": "foongus",
+  "name": {
+    "english": "Foongus",
+    "spanish": "Foongus",
+    "italian": "Foongus",
+    "japanese": "タマゲタケ",
+    "chinese": "哎呀球菇",
+    "korean": "",
+    "german": "Tarnpignon",
+    "french": "Trompignon"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 205,
+    "isle-of-armor": 77
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Effect Spore",
+      "id": 27
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 69,
+    "atk": 55,
+    "def": 45,
+    "spatk": 55,
+    "spdef": 55,
+    "spd": 15,
+    "total": 294
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 206,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Mushroom Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 59,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "fungus": "cell-based plants"
+  },
+  "pokedexEntries": {
+    "Foongus": [
+      {
+        "game": "black",
+        "desc": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown."
+      },
+      {
+        "game": "white",
+        "desc": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores."
+      },
+      {
+        "game": "sword",
+        "desc": "No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it."
+      },
+      {
+        "game": "shield",
+        "desc": "The spores released from this Pokémon’s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine."
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "_id": 26,
+  "key": "raichu",
+  "name": {
+    "english": "Raichu",
+    "spanish": "Raichu",
+    "italian": "Raichu",
+    "japanese": "ライチュウ",
+    "chinese": "雷丘",
+    "korean": "",
+    "german": "Raichu",
+    "french": "Raichu"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 75,
+    "legends-arceus": 57,
+    "sword-shield": 195,
+    "isle-of-armor": 86,
+    "crystal": 23,
+    "gold-silver": 23,
+    "yellow": 26,
+    "red-blue": 26
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Static",
+      "id": 9
+    },
+    "hidden": {
+      "name": "Lightning Rod",
+      "id": 31
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 55,
+    "spatk": 90,
+    "spdef": 80,
+    "spd": 110,
+    "total": 485
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "21.0 kg (46.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 10,
+  "generation": 1,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "species": "Mouse Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 218,
+  "growthRate": "Medium Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "rai": "Japanese for ‘thunder’",
+    "chu": "Japanese for ‘squeak’"
+  },
+  "pokedexEntries": {
+    "Raichu": [
+      {
+        "game": "red-blue",
+        "desc": "Its long tail serves as a ground to protect itself from its own high voltage power."
+      },
+      {
+        "game": "yellow",
+        "desc": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark."
+      },
+      {
+        "game": "gold",
+        "desc": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual."
+      },
+      {
+        "game": "silver",
+        "desc": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up."
+      },
+      {
+        "game": "crystal",
+        "desc": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere."
+      },
+      {
+        "game": "ruby",
+        "desc": "If the electrical sacks become excessively charged, RAICHU plants its tail in the ground and discharges. Scorched patches of ground will be found near this POKéMON’s nest."
+      },
+      {
+        "game": "sapphire",
+        "desc": "This POKéMON exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. RAICHU searches for electricity by planting its tail in the ground."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its electric charges can reach even 100,000 volts. Careless contact can cause even an Indian elephant to faint."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its long tail serves as a ground to protect itself from its own high-voltage power."
+      },
+      {
+        "game": "emerald",
+        "desc": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down."
+      },
+      {
+        "game": "diamond",
+        "desc": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail."
+      },
+      {
+        "game": "pearl",
+        "desc": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its tail discharges electricity into the ground, protecting it from getting shocked."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its tail discharges electricity into the ground, protecting it from getting shocked."
+      },
+      {
+        "game": "x",
+        "desc": "When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual."
+      },
+      {
+        "game": "y",
+        "desc": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon’s nest."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity."
+      },
+      {
+        "game": "sun",
+        "desc": "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant."
+      },
+      {
+        "game": "moon",
+        "desc": "It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Because so many Trainers like the way Pikachu looks, you don’t see this Pokémon very often."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "When electricity builds up inside its body, it becomes feisty. It also glows in the dark."
+      },
+      {
+        "game": "sword",
+        "desc": "Its long tail serves as a ground to protect itself from its own high-voltage power."
+      },
+      {
+        "game": "shield",
+        "desc": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It can discharge bursts of electricity exceeding 100,000 volts— a single strike with that amount of power would incapacitate one of the Copperajah of my homeland."
+      }
+    ],
+    "Alolan Raichu": [
+      {
+        "game": "sun",
+        "desc": "It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change."
+      },
+      {
+        "game": "moon",
+        "desc": "It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It focuses psychic energy into its tail and rides it like it’s surfing. Another name for this Pokémon is “hodad.”"
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When you rub its cheeks, a sweet fragrance comes wafting out. However, you’ll also get a light shock!"
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pokémon’s evolution."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s believed that the weather, climate, and food of the Alola region all play a part in causing Pikachu to evolve into this form of Raichu."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts."
+      }
+    ]
+  }
+}

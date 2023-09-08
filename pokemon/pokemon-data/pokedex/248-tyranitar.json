@@ -1,0 +1,151 @@
+{
+  "_id": 248,
+  "key": "tyranitar",
+  "name": {
+    "english": "Tyranitar",
+    "spanish": "Tyranitar",
+    "italian": "Tyranitar",
+    "japanese": "バンギラス",
+    "chinese": "班基拉斯",
+    "korean": "",
+    "german": "Despotar",
+    "french": "Tyranocif"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 318,
+    "sword-shield": 385,
+    "crown-tundra": 141,
+    "crystal": 251,
+    "gold-silver": 251
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Stream",
+      "id": 45
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 134,
+    "def": 110,
+    "spatk": 95,
+    "spdef": 100,
+    "spd": 61,
+    "total": 600
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "202.0 kg (445.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 85,
+  "generation": 2,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Monster"
+  ],
+  "species": "Armor Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "Tyrannosaurus": "a large bipedal dinosaur",
+    "tar": "from Latin ‘tardus’ meaning slow"
+  },
+  "pokedexEntries": {
+    "Tyranitar": [
+      {
+        "game": "gold",
+        "desc": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies."
+      },
+      {
+        "game": "silver",
+        "desc": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others."
+      },
+      {
+        "game": "crystal",
+        "desc": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies."
+      },
+      {
+        "game": "emerald",
+        "desc": "A TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others."
+      },
+      {
+        "game": "black-white",
+        "desc": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain."
+      },
+      {
+        "game": "x",
+        "desc": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble."
+      },
+      {
+        "game": "y",
+        "desc": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It wanders through the mountains seeking opponents to fight. If it finds an opponent that’s not worthy, Tyranitar ignores it and wanders on."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This Pokémon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake."
+      },
+      {
+        "game": "sword",
+        "desc": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies."
+      },
+      {
+        "game": "shield",
+        "desc": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+      }
+    ]
+  }
+}

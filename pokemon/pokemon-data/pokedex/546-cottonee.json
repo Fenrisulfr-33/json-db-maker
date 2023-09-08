@@ -1,0 +1,120 @@
+{
+  "_id": 546,
+  "key": "cottonee",
+  "name": {
+    "english": "Cottonee",
+    "spanish": "Cottonee",
+    "italian": "Cottonee",
+    "japanese": "モンメン",
+    "chinese": "木棉球",
+    "korean": "",
+    "german": "Waumboll",
+    "french": "Doudouvet"
+  },
+  "pokedexNumber": {
+    "sword-shield": 262,
+    "crown-tundra": 168
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Prankster",
+      "id": 158
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Chlorophyll",
+      "id": 34
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 27,
+    "def": 60,
+    "spatk": 37,
+    "spdef": 50,
+    "spd": 66,
+    "total": 280
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.6 kg (1.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 188,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "species": "Cotton Puff Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 56,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "cottony": "soft like cotton, a natural material"
+  },
+  "pokedexEntries": {
+    "Cottonee": [
+      {
+        "game": "black",
+        "desc": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker."
+      },
+      {
+        "game": "white",
+        "desc": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+      },
+      {
+        "game": "sun",
+        "desc": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud."
+      },
+      {
+        "game": "moon",
+        "desc": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can’t move as well."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly."
+      },
+      {
+        "game": "sword",
+        "desc": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth."
+      },
+      {
+        "game": "shield",
+        "desc": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands."
+      }
+    ]
+  }
+}

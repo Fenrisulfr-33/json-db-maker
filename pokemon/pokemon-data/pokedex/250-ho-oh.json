@@ -1,0 +1,131 @@
+{
+  "_id": 250,
+  "key": "ho-oh",
+  "name": {
+    "english": "Ho-Oh",
+    "spanish": "Ho-Oh",
+    "italian": "Ho-Oh",
+    "japanese": "ホウオウ",
+    "chinese": "凤王",
+    "korean": "",
+    "german": "Ho-Oh",
+    "french": "Ho-Oh"
+  },
+  "pokedexNumber": {
+    "crystal": 253,
+    "gold-silver": 253
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 106,
+    "atk": 130,
+    "def": 90,
+    "spatk": 110,
+    "spdef": 154,
+    "spd": 90,
+    "total": 680
+  },
+  "info": {
+    "height": "3.8 m (12′06″)",
+    "weight": "199.0 kg (438.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Rainbow Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "Hōō": "Chinese phoenix"
+  },
+  "pokedexEntries": {
+    "Ho-oh": [
+      {
+        "game": "gold",
+        "desc": "Legends claim this POKéMON flies the world’s skies continuously on its magnificent seven-colored wings."
+      },
+      {
+        "game": "silver",
+        "desc": "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies."
+      },
+      {
+        "game": "crystal",
+        "desc": "It will reveal itself before a pure-hearted trainer by shining its bright rainbow-colored wings."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "HO-OH’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This POKéMON is said to live at the foot of a rainbow."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Legends claim this POKéMON flies the world’s skies continuously on its magnificent seven-colored wings."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its feathers--which glow in seven colors depending on the angle at which they are struck by light--are thought to bring joy. It is said to live at the foot of a rainbow."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Legends claim this Pokémon flies the world’s skies continuously on its magnificent, seven-colored wings."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness."
+      },
+      {
+        "game": "x",
+        "desc": "A legend says that its body glows in seven colors. A rainbow is said to form behind it when it flies."
+      },
+      {
+        "game": "y",
+        "desc": "It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness."
+      }
+    ]
+  }
+}

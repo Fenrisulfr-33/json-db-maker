@@ -1,0 +1,157 @@
+{
+  "_id": 2,
+  "key": "ivysaur",
+  "name": {
+    "english": "Ivysaur",
+    "spanish": "Ivysaur",
+    "italian": "Ivysaur",
+    "japanese": "フシギソウ",
+    "chinese": "妙蛙草",
+    "korean": "",
+    "german": "Bisaknosp",
+    "french": "Herbizarre"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 69,
+    "crystal": 232,
+    "gold-silver": 232,
+    "yellow": 2,
+    "red-blue": 2
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Chlorophyll",
+      "id": 34
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "spatk": 80,
+    "spdef": 80,
+    "spd": 60,
+    "total": 405
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "13.0 kg (28.7 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 1,
+  "generation": 1,
+  "evs": {
+    "spatk": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Seed Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ivy": "a plant",
+    "-saur": "Greek suffix meaning ‘lizard’"
+  },
+  "pokedexEntries": {
+    "Ivysaur": [
+      {
+        "game": "red-blue",
+        "desc": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+      },
+      {
+        "game": "yellow",
+        "desc": "The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom."
+      },
+      {
+        "game": "gold",
+        "desc": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger."
+      },
+      {
+        "game": "silver",
+        "desc": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom."
+      },
+      {
+        "game": "crystal",
+        "desc": "The bulb on its back grows as it absorbs nutrients. The bulb gives off a pleasant aroma when it blooms."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "There is a bud on this POKéMON’s back. To support its weight, IVYSAUR’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon."
+      },
+      {
+        "game": "fire-red",
+        "desc": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+      },
+      {
+        "game": "emerald",
+        "desc": "To support its bulb, IVYSAUR’s legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If the bud on its back starts to smell sweet, it is evidence that the large flower will soon bloom."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom."
+      },
+      {
+        "game": "x",
+        "desc": "There is a plant bulb on its back. When it absorbs nutrients, the bulb is said to blossom into a large flower."
+      },
+      {
+        "game": "y",
+        "desc": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "The bud on its back grows by drawing energy. It gives off an aroma when it is ready to bloom."
+      },
+      {
+        "game": "sword",
+        "desc": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+      },
+      {
+        "game": "shield",
+        "desc": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom."
+      }
+    ]
+  }
+}

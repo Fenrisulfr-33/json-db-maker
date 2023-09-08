@@ -1,0 +1,131 @@
+{
+  "_id": 244,
+  "key": "entei",
+  "name": {
+    "english": "Entei",
+    "spanish": "Entei",
+    "italian": "Entei",
+    "japanese": "エンテイ",
+    "chinese": "炎帝",
+    "korean": "",
+    "german": "Entei",
+    "french": "Entei"
+  },
+  "pokedexNumber": {
+    "crystal": 244,
+    "gold-silver": 244
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Inner Focus",
+      "id": 39
+    }
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 115,
+    "def": 85,
+    "spatk": 90,
+    "spdef": 75,
+    "spd": 100,
+    "total": 580
+  },
+  "info": {
+    "height": "2.1 m (6′11″)",
+    "weight": "198.0 kg (436.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Volcano Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "enten": "Japanese for ‘blazing heat’",
+    "kotei": "Japanese for ‘emperor’"
+  },
+  "pokedexEntries": {
+    "Entei": [
+      {
+        "game": "gold",
+        "desc": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land."
+      },
+      {
+        "game": "silver",
+        "desc": "A POKéMON that races across the land. It is said that one is born every time a new volcano appears."
+      },
+      {
+        "game": "crystal",
+        "desc": "This brawny POKéMON courses around the earth, spouting flames hotter than a volcano’s magma."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A POKéMON that races across the land. It is said that one is born every time a new volcano appears."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land."
+      },
+      {
+        "game": "emerald",
+        "desc": "ENTEI embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is said that when it roars, a volcano erupts somewhere around the globe."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is said that when it roars, a volcano erupts somewhere around the globe."
+      },
+      {
+        "game": "x",
+        "desc": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears."
+      },
+      {
+        "game": "y",
+        "desc": "It is said that when it roars, a volcano erupts somewhere around the globe."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is said that when it roars, a volcano erupts somewhere around the globe."
+      }
+    ]
+  }
+}

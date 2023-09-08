@@ -1,0 +1,94 @@
+{
+  "_id": 876,
+  "key": "indeedee",
+  "name": {
+    "english": "Indeedee",
+    "spanish": "Indeedee",
+    "italian": "Indeedee",
+    "japanese": "イエッサン",
+    "chinese": "爱管侍",
+    "korean": "",
+    "german": "Servol",
+    "french": "Wimessir"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 241,
+    "sword-shield": 337,
+    "crown-tundra": 171
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "two": {
+      "name": "Synchronize",
+      "id": 28
+    },
+    "hidden": {
+      "name": "Psychic Surge",
+      "id": 227
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 55,
+    "spatk": 105,
+    "spdef": 95,
+    "spd": 95,
+    "total": 475
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "28.0 kg (61.7 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Emotion Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 140,
+  "baseExp": 166,
+  "growthRate": "Fast",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "indeed": ""
+  },
+  "pokedexEntries": {
+    "Male": [
+      {
+        "game": "sword",
+        "desc": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need."
+      },
+      {
+        "game": "shield",
+        "desc": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength."
+      }
+    ],
+    "Female": [
+      {
+        "game": "sword",
+        "desc": "These intelligent Pokémon touch horns with each other to share information between them."
+      },
+      {
+        "game": "shield",
+        "desc": "They diligently serve people and Pokémon so they can gather feelings of gratitude. The females are particularly good at babysitting."
+      }
+    ]
+  }
+}

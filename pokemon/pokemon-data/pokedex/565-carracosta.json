@@ -1,0 +1,120 @@
+{
+  "_id": 565,
+  "key": "carracosta",
+  "name": {
+    "english": "Carracosta",
+    "spanish": "Carracosta",
+    "italian": "Carracosta",
+    "japanese": "アバゴーラ",
+    "chinese": "肋骨海龟",
+    "korean": "",
+    "german": "Karippas",
+    "french": "Mégapagos"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 148
+  },
+  "type": {
+    "one": "Water",
+    "two": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Solid Rock",
+      "id": 116
+    },
+    "two": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Swift Swim",
+      "id": 33
+    }
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 108,
+    "def": 133,
+    "spatk": 83,
+    "spdef": 65,
+    "spd": 32,
+    "total": 495
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "81.0 kg (178.6 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 195,
+  "generation": 5,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "species": "Prototurtle Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "carapace": "a hard protective covering",
+    "costa": "latin for coast"
+  },
+  "pokedexEntries": {
+    "Carracosta": [
+      {
+        "game": "black",
+        "desc": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker."
+      },
+      {
+        "game": "white",
+        "desc": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."
+      },
+      {
+        "game": "sun",
+        "desc": "It constructed its sturdy shell by crunching and swallowing the hard shells or bones of its prey."
+      },
+      {
+        "game": "moon",
+        "desc": "Active both on land and in the sea, this Pokémon drags its land-based prey into the water to finish it off."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its jaws are terrifyingly powerful. It could eat Omastar and Omanyte whole and not be bothered in the slightest by their shells."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell."
+      },
+      {
+        "game": "sword",
+        "desc": "Carracosta completely devours its prey—bones, shells, and all. Because of this, Carracosta’s own shell grows thick and sturdy."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land."
+      }
+    ]
+  }
+}

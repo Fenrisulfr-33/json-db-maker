@@ -1,0 +1,126 @@
+{
+  "_id": 409,
+  "key": "rampardos",
+  "name": {
+    "english": "Rampardos",
+    "spanish": "Rampardos",
+    "italian": "Rampardos",
+    "japanese": "ラムパルド",
+    "chinese": "战槌龙",
+    "korean": "",
+    "german": "Rameidon",
+    "french": "Charkos"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 209
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Mold Breaker",
+      "id": 104
+    },
+    "hidden": {
+      "name": "Sheer Force",
+      "id": 125
+    }
+  },
+  "baseStats": {
+    "hp": 97,
+    "atk": 165,
+    "def": 60,
+    "spatk": 65,
+    "spdef": 50,
+    "spd": 58,
+    "total": 495
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "102.5 kg (226.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 136,
+  "generation": 4,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Monster"
+  ],
+  "species": "Head Butt Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Erratic",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "rampart": "defensive wall",
+    "-dos": "common dinosaur suffix"
+  },
+  "pokedexEntries": {
+    "Rampardos": [
+      {
+        "game": "diamond",
+        "desc": "Its powerful head butt has enough power to shatter even the most durable things upon impact."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey."
+      },
+      {
+        "game": "platinum",
+        "desc": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey."
+      },
+      {
+        "game": "sun",
+        "desc": "The result of repeated headbutts is a skull grown thick and hard. However, its brain has shrunk in size compared with Cranidos’s."
+      },
+      {
+        "game": "moon",
+        "desc": "Records exist of a revived fossil that evolved into Rampardos. It proceeded to escape and then destroy a skyscraper with a headbutt."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This ancient Pokémon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Its powerful headbutt has enough force to shatter even the most durable things upon impact."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Very little is known about its biology. Can knock down massive trees by smashing its beautiful, pearl-like crown against them."
+      }
+    ]
+  }
+}

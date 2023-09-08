@@ -1,0 +1,72 @@
+{
+  "_id": 979,
+  "key": "annihilape",
+  "name": {
+    "english": "Annihilape"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 160
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Vital Spirit",
+      "id": 72
+    },
+    "two": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 115,
+    "def": 80,
+    "spatk": 50,
+    "spdef": 90,
+    "spd": 90,
+    "total": 535
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "56.0 kg (123.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Rage Monkey Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "annihilate": "destroy, obliterate",
+    "ape": "a species of primate"
+  },
+  "pokedexEntries": {
+    "Annihilape": [
+      {
+        "game": "scarlet",
+        "desc": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body."
+      },
+      {
+        "game": "violet",
+        "desc": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core."
+      }
+    ]
+  }
+}

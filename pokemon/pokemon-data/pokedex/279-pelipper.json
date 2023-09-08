@@ -1,0 +1,166 @@
+{
+  "_id": 279,
+  "key": "pelipper",
+  "name": {
+    "english": "Pelipper",
+    "spanish": "Pelipper",
+    "italian": "Pelipper",
+    "japanese": "ペリッパー",
+    "chinese": "大嘴鸥",
+    "korean": "",
+    "german": "Pelipper",
+    "french": "Bekipan"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 133,
+    "sword-shield": 63,
+    "isle-of-armor": 49
+  },
+  "type": {
+    "one": "Water",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Drizzle",
+      "id": 2
+    },
+    "hidden": {
+      "name": "Rain Dish",
+      "id": 44
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 100,
+    "spatk": 95,
+    "spdef": 70,
+    "spd": 65,
+    "total": 440
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "28.0 kg (61.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 95,
+  "generation": 3,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Flying"
+  ],
+  "species": "Water Bird Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 154,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "pelican": "a large seabird",
+    "flipper": "referring to its wings"
+  },
+  "pokedexEntries": {
+    "Pelipper": [
+      {
+        "game": "ruby",
+        "desc": "PELIPPER is a flying transporter that carries small POKéMON and eggs inside its massive bill. This POKéMON builds its nest on steep cliffs facing the sea."
+      },
+      {
+        "game": "sapphire",
+        "desc": "PELIPPER searches for food while in flight by skimming the wave tops. This POKéMON dips its large bill in the sea to scoop up food, then swallows everything in one big gulp."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It is a flying transporter that carries small POKéMON in its beak. It bobs on the waves to rest its wings."
+      },
+      {
+        "game": "emerald",
+        "desc": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak."
+      },
+      {
+        "game": "diamond",
+        "desc": "It dips its large bill in the sea, then scoops up numerous prey along with water."
+      },
+      {
+        "game": "pearl",
+        "desc": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm."
+      },
+      {
+        "game": "black-white",
+        "desc": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it."
+      },
+      {
+        "game": "x",
+        "desc": "It dips its large bill in the sea, then scoops up numerous prey along with water."
+      },
+      {
+        "game": "y",
+        "desc": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp."
+      },
+      {
+        "game": "sun",
+        "desc": "Its spacious beak is large enough for a small child to fit right inside."
+      },
+      {
+        "game": "moon",
+        "desc": "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It places small Pokémon into its spacious beak and carries them around. No one knows where it’s taking them."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!"
+      },
+      {
+        "game": "sword",
+        "desc": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill."
+      },
+      {
+        "game": "shield",
+        "desc": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It dips its large bill in the sea, then scoops up numerous prey along with water."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest."
+      }
+    ]
+  }
+}

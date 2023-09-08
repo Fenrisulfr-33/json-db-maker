@@ -1,0 +1,114 @@
+{
+  "_id": 432,
+  "key": "purugly",
+  "name": {
+    "english": "Purugly",
+    "spanish": "Purugly",
+    "italian": "Purugly",
+    "japanese": "ブニャット",
+    "chinese": "东施喵",
+    "korean": "",
+    "german": "Shnurgarst",
+    "french": "Chaffreux"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 153
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Thick Fat",
+      "id": 47
+    },
+    "two": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 82,
+    "def": 64,
+    "spatk": 64,
+    "spdef": 59,
+    "spd": 112,
+    "total": 452
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "43.8 kg (96.6 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 148,
+  "generation": 4,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Tiger Cat Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 158,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "purr": "sound a cat makes when content",
+    "ugly": "unpleasant looking"
+  },
+  "pokedexEntries": {
+    "Purugly": [
+      {
+        "game": "diamond",
+        "desc": "It is a brazen brute that barges its way into another Pokémon’s nest and claims it as its own."
+      },
+      {
+        "game": "pearl",
+        "desc": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails."
+      },
+      {
+        "game": "platinum",
+        "desc": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It would claim another Pokémon’s nest as its own if it finds a nest sufficiently comfortable."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It would claim another Pokémon’s nest as its own if it finds a nest sufficiently comfortable."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It is a brazen brute that barges its way into another Pokémon’s nest and claims it as its own."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its split tail."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Though impudent and difficult to tame, Purugly enjoys great popularity due to its fur, the beauty of which surpasses even velveteen."
+      }
+    ]
+  }
+}

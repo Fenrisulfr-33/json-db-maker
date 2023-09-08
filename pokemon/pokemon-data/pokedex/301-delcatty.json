@@ -1,0 +1,125 @@
+{
+  "_id": 301,
+  "key": "delcatty",
+  "name": {
+    "english": "Delcatty",
+    "spanish": "Delcatty",
+    "italian": "Delcatty",
+    "japanese": "エネコロロ",
+    "chinese": "优雅猫",
+    "korean": "",
+    "german": "Enekoro",
+    "french": "Delcatty"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cute Charm",
+      "id": 56
+    },
+    "two": {
+      "name": "Normalize",
+      "id": 96
+    },
+    "hidden": {
+      "name": "Wonder Skin",
+      "id": 147
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 65,
+    "def": 65,
+    "spatk": 55,
+    "spdef": 55,
+    "spd": 90,
+    "total": 400
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "32.6 kg (71.9 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 103,
+  "generation": 3,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "species": "Prim Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 140,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "delicate": "fragile, dainty",
+    "catty": "referring to cats"
+  },
+  "pokedexEntries": {
+    "Delcatty": [
+      {
+        "game": "ruby",
+        "desc": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random."
+      },
+      {
+        "game": "sapphire",
+        "desc": "DELCATTY sleeps anywhere it wants without keeping a permanent nest. If other POKéMON approach it as it sleeps, this POKéMON will never fight - it will just move away somewhere else."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "The favorite of trend-conscious female TRAINERS, they are used in competition for their style and fur."
+      },
+      {
+        "game": "emerald",
+        "desc": "Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself."
+      },
+      {
+        "game": "black-white",
+        "desc": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there."
+      },
+      {
+        "game": "x",
+        "desc": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself."
+      },
+      {
+        "game": "y",
+        "desc": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is highly popular among Trainers for its sublime fur. It does not keep a nest."
+      }
+    ]
+  }
+}

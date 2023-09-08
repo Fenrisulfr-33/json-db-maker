@@ -1,0 +1,68 @@
+{
+  "_id": 929,
+  "key": "dolliv",
+  "name": {
+    "english": "Dolliv"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 85
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Early Bird",
+      "id": 48
+    },
+    "hidden": {
+      "name": "Harvest",
+      "id": 139
+    }
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 53,
+    "def": 60,
+    "spatk": 78,
+    "spdef": 78,
+    "spd": 33,
+    "total": 354
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "11.9 kg (26.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Olive Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "doll": "dress up smartly/attractively",
+    "olive": "small bitter fruit"
+  },
+  "pokedexEntries": {
+    "Dolliv": [
+      {
+        "game": "scarlet",
+        "desc": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone."
+      },
+      {
+        "game": "violet",
+        "desc": "It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+      }
+    ]
+  }
+}

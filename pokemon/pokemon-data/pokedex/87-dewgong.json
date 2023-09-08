@@ -1,0 +1,163 @@
+{
+  "_id": 87,
+  "key": "dewgong",
+  "name": {
+    "english": "Dewgong",
+    "spanish": "Dewgong",
+    "italian": "Dewgong",
+    "japanese": "ジュゴン",
+    "chinese": "白海狮",
+    "korean": "",
+    "german": "Jugong",
+    "french": "Lamantine"
+  },
+  "pokedexNumber": {
+    "crystal": 179,
+    "gold-silver": 179,
+    "yellow": 87,
+    "red-blue": 87
+  },
+  "type": {
+    "one": "Water",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Thick Fat",
+      "id": 47
+    },
+    "two": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "hidden": {
+      "name": "Ice Body",
+      "id": 115
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 70,
+    "def": 80,
+    "spatk": 70,
+    "spdef": 95,
+    "spd": 70,
+    "total": 475
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "120.0 kg (264.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 36,
+  "generation": 1,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Sea Lion Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 166,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dugong": "aquatic mammal",
+    "dew": "moisture often found on grass or plants"
+  },
+  "pokedexEntries": {
+    "Dewgong": [
+      {
+        "game": "red-blue",
+        "desc": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
+      },
+      {
+        "game": "yellow",
+        "desc": "Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters."
+      },
+      {
+        "game": "gold",
+        "desc": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets."
+      },
+      {
+        "game": "silver",
+        "desc": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly."
+      },
+      {
+        "game": "crystal",
+        "desc": "It sleeps under shallow ocean waters during the day, then looks for food at night when it’s cold."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It stores thermal energy in the body. It swims at a steady eight knots even in intensely cold waters."
+      },
+      {
+        "game": "emerald",
+        "desc": "It loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "In snow, the pure white coat covering its body obscures it from predators."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly."
+      },
+      {
+        "game": "black-white",
+        "desc": "In snow, the pure white coat covering its body obscures it from predators."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots."
+      },
+      {
+        "game": "x",
+        "desc": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes."
+      },
+      {
+        "game": "y",
+        "desc": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It swims through the ocean at a speed of eight knots, searching for Pokémon that will become its prey. It’s especially fond of Wishiwashi."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "In snow, the pure white coat covering its body obscures it from predators."
+      }
+    ]
+  }
+}

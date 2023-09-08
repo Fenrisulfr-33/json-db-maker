@@ -1,0 +1,76 @@
+{
+  "_id": 808,
+  "key": "meltan",
+  "name": {
+    "english": "Meltan",
+    "spanish": "Meltan",
+    "italian": "Meltan",
+    "japanese": "メルタン",
+    "chinese": "美录坦",
+    "korean": "",
+    "german": "Meltan",
+    "french": "Meltan"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Magnet Pull",
+      "id": 42
+    }
+  },
+  "baseStats": {
+    "hp": 46,
+    "atk": 65,
+    "def": 65,
+    "spatk": 55,
+    "spdef": 35,
+    "spd": 34,
+    "total": 300
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 273,
+  "generation": 7,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Hex Nut Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 135,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "melt": "become liquefied",
+    "tan": "suffix meaning ‘small’"
+  },
+  "pokedexEntries": {
+    "Meltan": [
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel."
+      },
+      {
+        "game": "sword",
+        "desc": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy."
+      },
+      {
+        "game": "shield",
+        "desc": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
+      }
+    ]
+  }
+}

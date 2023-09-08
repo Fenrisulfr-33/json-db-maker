@@ -1,0 +1,156 @@
+{
+  "_id": 230,
+  "key": "kingdra",
+  "name": {
+    "english": "Kingdra",
+    "spanish": "Kingdra",
+    "italian": "Kingdra",
+    "japanese": "キングドラ",
+    "chinese": "刺龙王",
+    "korean": "",
+    "german": "Seedraking",
+    "french": "Hyporoi"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 200,
+    "crystal": 192,
+    "gold-silver": 192
+  },
+  "type": {
+    "one": "Water",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Sniper",
+      "id": 97
+    },
+    "hidden": {
+      "name": "Damp",
+      "id": 6
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 95,
+    "def": 95,
+    "spatk": 95,
+    "spdef": 95,
+    "spd": 85,
+    "total": 540
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "152.0 kg (335.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 47,
+  "generation": 2,
+  "evs": {
+    "atk": 1,
+    "spatk": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "species": "Dragon Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 243,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "king": "royalty",
+    "dragon": "mythical fire-breathing creature"
+  },
+  "pokedexEntries": {
+    "Kingdra": [
+      {
+        "game": "gold",
+        "desc": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning."
+      },
+      {
+        "game": "silver",
+        "desc": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes."
+      },
+      {
+        "game": "crystal",
+        "desc": "It stores energy by sleeping at underwater depths at which no other life forms can survive."
+      },
+      {
+        "game": "ruby",
+        "desc": "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this POKéMON creates spiraling ocean currents."
+      },
+      {
+        "game": "sapphire",
+        "desc": "KINGDRA sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the POKéMON is said to awaken and wander about in search of prey."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning."
+      },
+      {
+        "game": "emerald",
+        "desc": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+      },
+      {
+        "game": "x",
+        "desc": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning."
+      },
+      {
+        "game": "y",
+        "desc": "It stores energy by sleeping at underwater depths at which no other life-forms can survive."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey."
+      },
+      {
+        "game": "sword",
+        "desc": "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues."
+      },
+      {
+        "game": "shield",
+        "desc": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It lives in caves on the seafloor and creates giant whirlpools every time it moves."
+      }
+    ]
+  }
+}

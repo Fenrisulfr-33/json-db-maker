@@ -1,0 +1,94 @@
+{
+  "_id": 502,
+  "key": "dewott",
+  "name": {
+    "english": "Dewott",
+    "spanish": "Dewott",
+    "italian": "Dewott",
+    "japanese": "フタチマル",
+    "chinese": "双刃丸",
+    "korean": "",
+    "german": "Zwottronin",
+    "french": "Mateloutre"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 8
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Shell Armor",
+      "id": 75
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 75,
+    "def": 60,
+    "spatk": 83,
+    "spdef": 60,
+    "spd": 60,
+    "total": 413
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "24.5 kg (54.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 171,
+  "generation": 5,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Discipline Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 145,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dew": "moisture often found on grass or plants",
+    "otter": "aquatic weasel-like mammal"
+  },
+  "pokedexEntries": {
+    "Dewott": [
+      {
+        "game": "black",
+        "desc": "Strict training is how it learns its flowing double-scalchop technique."
+      },
+      {
+        "game": "white",
+        "desc": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "As a result of strict training, each Dewott learns different forms for using the scalchops."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Strict training is how it learns its flowing double-scalchop technique."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "As a result of strict training, each Dewott learns different forms for using the scalchops."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat."
+      }
+    ]
+  }
+}

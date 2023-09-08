@@ -1,0 +1,112 @@
+{
+  "_id": 419,
+  "key": "floatzel",
+  "name": {
+    "english": "Floatzel",
+    "spanish": "Floatzel",
+    "italian": "Floatzel",
+    "japanese": "フローゼル",
+    "chinese": "浮潜鼬",
+    "korean": "",
+    "german": "Bojelin",
+    "french": "Mustéflott"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 52,
+    "legends-arceus": 42
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "hidden": {
+      "name": "Water Veil",
+      "id": 41
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 105,
+    "def": 55,
+    "spatk": 85,
+    "spdef": 50,
+    "spd": 115,
+    "total": 495
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "33.5 kg (73.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 140,
+  "generation": 4,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Sea Weasel Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "float": "to rest on a surface of liquid",
+    "weasel": "small mammal with a long body"
+  },
+  "pokedexEntries": {
+    "Floatzel": [
+      {
+        "game": "diamond",
+        "desc": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is a common sight around fishing ports. It is known to rescue people and carry off prey."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is a common sight around fishing ports. It is known to rescue people and carry off prey."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its flotation sac developed as a result of pursuing aquatic prey. Floatzel carries people as if it were a rubber raft."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time."
+      }
+    ]
+  }
+}

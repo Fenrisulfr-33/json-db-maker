@@ -1,0 +1,68 @@
+{
+  "_id": 926,
+  "key": "fidough",
+  "name": {
+    "english": "Fidough"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 76
+  },
+  "type": {
+    "one": "Fairy",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Klutz",
+      "id": 103
+    }
+  },
+  "baseStats": {
+    "hp": 37,
+    "atk": 55,
+    "def": 70,
+    "spatk": 30,
+    "spdef": 55,
+    "spd": 65,
+    "total": 312
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "10.9 kg (24.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Puppy Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "fido": "generic name for a pet dog",
+    "dough": "flour and water mixture used in baking"
+  },
+  "pokedexEntries": {
+    "Fidough": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon is smooth and moist to the touch. Yeast in Fidough’s breath induces fermentation in the Pokémon’s vicinity."
+      },
+      {
+        "game": "violet",
+        "desc": "The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+      }
+    ]
+  }
+}

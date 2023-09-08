@@ -1,0 +1,124 @@
+{
+  "_id": 429,
+  "key": "mismagius",
+  "name": {
+    "english": "Mismagius",
+    "spanish": "Mismagius",
+    "italian": "Mismagius",
+    "japanese": "ムウマージ",
+    "chinese": "梦妖魔",
+    "korean": "",
+    "german": "Traunmagil",
+    "french": "Magirêve"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 115,
+    "legends-arceus": 198
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 60,
+    "spatk": 105,
+    "spdef": 105,
+    "spd": 105,
+    "total": 495
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "4.4 kg (9.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 146,
+  "generation": 4,
+  "evs": {
+    "spatk": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Magical Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 173,
+  "growthRate": "Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "mischief": "annoying or disruptive actions",
+    "magus": "magic-wielding characters in fantasy & fiction"
+  },
+  "pokedexEntries": {
+    "Mismagius": [
+      {
+        "game": "diamond",
+        "desc": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations."
+      },
+      {
+        "game": "pearl",
+        "desc": "It chants incantations. While they usually torment targets, some chants bring happiness."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It chants incantations. While they usually torment targets, some chants bring happiness."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its cries sound like incantations to torment the foe. It appears where you least expect it."
+      },
+      {
+        "game": "sun",
+        "desc": "It appears as if from nowhere—muttering incantations, placing curses, and giving people terrifying visions."
+      },
+      {
+        "game": "moon",
+        "desc": "Mismagius have been known to cast spells to make people fall in love, so some people search for this Pokémon as if their life depended on it."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its muttered curses can cause awful headaches or terrifying visions that torment others."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Its cries sound like incantations. Those who hear it are tormented by headaches and hallucinations."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It chants incantations. While these incantations can torment targets, some bring happiness."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one’s home. Incur the Pokémon’s displeasure, however, and disaster will surely ensue."
+      }
+    ]
+  }
+}

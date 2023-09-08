@@ -1,0 +1,80 @@
+{
+  "_id": 676,
+  "key": "furfrou",
+  "name": {
+    "english": "Furfrou",
+    "spanish": "Furfrou",
+    "italian": "Furfrou",
+    "japanese": "トリミアン",
+    "chinese": "多丽米亚",
+    "korean": "",
+    "german": "Coiffwaff",
+    "french": "Couafarel"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Fur Coat",
+      "id": 169
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 60,
+    "spatk": 65,
+    "spdef": 90,
+    "spd": 102,
+    "total": 472
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "28.0 kg (61.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 6,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Poodle Pokémon",
+  "catchRate": 160,
+  "baseFriendship": 50,
+  "baseExp": 165,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "fur": "soft hair coating",
+    "frou-frou": "(French) a showy/frilly dress"
+  },
+  "pokedexEntries": {
+    "Furfrou": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Historically, in the Kalos region, these Pokémon were the designated guardians of the king."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "There was an era when aristocrats would compete to see who could trim their Furfrou’s fur into the most exquisite style."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+      }
+    ]
+  }
+}

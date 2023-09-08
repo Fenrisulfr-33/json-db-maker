@@ -1,0 +1,83 @@
+{
+  "_id": 856,
+  "key": "hatenna",
+  "name": {
+    "english": "Hatenna",
+    "spanish": "Hatenna",
+    "italian": "Hatenna",
+    "japanese": "ミブリム",
+    "chinese": "迷布莉姆",
+    "korean": "",
+    "german": "Brimova",
+    "french": "Bibichut"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 282,
+    "sword-shield": 241,
+    "crown-tundra": 40
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Healer",
+      "id": 131
+    },
+    "two": {
+      "name": "Anticipation",
+      "id": 107
+    },
+    "hidden": {
+      "name": "Magic Bounce",
+      "id": 156
+    }
+  },
+  "baseStats": {
+    "hp": 42,
+    "atk": 30,
+    "def": 45,
+    "spatk": 56,
+    "spdef": 53,
+    "spd": 39,
+    "total": 265
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "3.4 kg (7.5 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 294,
+  "generation": 8,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Calm Pokémon",
+  "catchRate": 235,
+  "baseFriendship": 50,
+  "baseExp": 53,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "hat": ""
+  },
+  "pokedexEntries": {
+    "Hatenna": [
+      {
+        "game": "sword",
+        "desc": "Via the protrusion on its head, it senses other creatures’ emotions. If you don’t have a calm disposition, it will never warm up to you."
+      },
+      {
+        "game": "shield",
+        "desc": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people."
+      }
+    ]
+  }
+}

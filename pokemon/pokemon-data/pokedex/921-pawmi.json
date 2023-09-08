@@ -1,0 +1,72 @@
+{
+  "_id": 921,
+  "key": "pawmi",
+  "name": {
+    "english": "Pawmi"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 22
+  },
+  "type": {
+    "one": "Electric",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Static",
+      "id": 9
+    },
+    "two": {
+      "name": "Natural Cure",
+      "id": 30
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 20,
+    "spatk": 40,
+    "spdef": 25,
+    "spd": 60,
+    "total": 240
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.5 kg (5.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Mouse Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "paw": "animal’s foot",
+    "me": "referring to oneself (as in ‘paw me’)"
+  },
+  "pokedexEntries": {
+    "Pawmi": [
+      {
+        "game": "scarlet",
+        "desc": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws."
+      },
+      {
+        "game": "violet",
+        "desc": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
+      }
+    ]
+  }
+}

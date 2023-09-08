@@ -1,0 +1,151 @@
+{
+  "_id": 165,
+  "key": "ledyba",
+  "name": {
+    "english": "Ledyba",
+    "spanish": "Ledyba",
+    "italian": "Ledyba",
+    "japanese": "レディバ",
+    "chinese": "芭瓢虫",
+    "korean": "",
+    "german": "Ledyba",
+    "french": "Coxy"
+  },
+  "pokedexNumber": {
+    "crystal": 30,
+    "gold-silver": 30
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Early Bird",
+      "id": 48
+    },
+    "hidden": {
+      "name": "Rattled",
+      "id": 155
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 20,
+    "def": 30,
+    "spatk": 40,
+    "spdef": 80,
+    "spd": 55,
+    "total": 265
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "10.8 kg (23.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 59,
+  "generation": 2,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Five Star Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 53,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "ladybird": "a species of insect (aka ladybug)"
+  },
+  "pokedexEntries": {
+    "Ledyba": [
+      {
+        "game": "gold",
+        "desc": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group."
+      },
+      {
+        "game": "silver",
+        "desc": "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm."
+      },
+      {
+        "game": "crystal",
+        "desc": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid’s scent."
+      },
+      {
+        "game": "fire-red",
+        "desc": "When the weather turns cold, numerous LEDYBA gather from everywhere to cluster and keep each other warm."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group."
+      },
+      {
+        "game": "emerald",
+        "desc": "LEDYBA communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid’s scent."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent."
+      },
+      {
+        "game": "x",
+        "desc": "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm."
+      },
+      {
+        "game": "y",
+        "desc": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid’s scent."
+      },
+      {
+        "game": "sun",
+        "desc": "They are timid and grow uneasy when not in a swarm with others of their kind. The pattern on their backs differs slightly from one to another."
+      },
+      {
+        "game": "moon",
+        "desc": "They communicate with one another using bodily fluids that give off odors. When they’re angry, their odor smells sour."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This Pokémon is very sensitive to cold. In the warmth of Alola, it appears quite lively."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "These very cowardly Pokémon join together and use Reflect to protect their nest."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It’s so timid that it can’t move unless it’s with a swarm. It conveys its feelings through scent."
+      }
+    ]
+  }
+}

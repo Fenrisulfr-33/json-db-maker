@@ -1,0 +1,119 @@
+{
+  "_id": 583,
+  "key": "vanillish",
+  "name": {
+    "english": "Vanillish",
+    "spanish": "Vanillish",
+    "italian": "Vanillish",
+    "japanese": "バニリッチ",
+    "chinese": "多多冰",
+    "korean": "",
+    "german": "Gelatroppo",
+    "french": "Sorboul"
+  },
+  "pokedexNumber": {
+    "sword-shield": 73,
+    "crown-tundra": 23
+  },
+  "type": {
+    "one": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Ice Body",
+      "id": 115
+    },
+    "two": {
+      "name": "Snow Cloak",
+      "id": 81
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 51,
+    "atk": 65,
+    "def": 65,
+    "spatk": 80,
+    "spdef": 75,
+    "spd": 59,
+    "total": 395
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "41.0 kg (90.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 203,
+  "generation": 5,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Icy Snow Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 138,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "vanilla": "standard ice cream flavor",
+    "delish": "slang for ‘delicious’"
+  },
+  "pokedexEntries": {
+    "Vanillish": [
+      {
+        "game": "black",
+        "desc": "Snowy mountains are this Pokémon’s habitat. During an ancient ice age, they moved to southern areas."
+      },
+      {
+        "game": "white",
+        "desc": "It conceals itself from enemy eyes by creating many small ice particles and hiding among them."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They cool down the surrounding air and create ice particles, which they use to freeze their foes."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They cool down the surrounding air and create ice particles, which they use to freeze their foes."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Snowy mountains are this Pokémon’s habitat. During an ancient ice age, they moved to southern areas."
+      },
+      {
+        "game": "sun",
+        "desc": "Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon has existed since the Ice Age. It controls particles of ice, freezes its opponents, and then shatters them with a headbutt."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It sprays its enemies with grains of ice to freeze them. Most Vanillish in Alola are smaller than average."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This hearty Pokémon survived the Ice Age. It’s incredibly popular in very hot regions."
+      },
+      {
+        "game": "sword",
+        "desc": "By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather."
+      },
+      {
+        "game": "shield",
+        "desc": "It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it’s a kind Pokémon."
+      }
+    ]
+  }
+}

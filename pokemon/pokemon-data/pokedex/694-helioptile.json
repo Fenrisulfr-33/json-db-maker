@@ -1,0 +1,92 @@
+{
+  "_id": 694,
+  "key": "helioptile",
+  "name": {
+    "english": "Helioptile",
+    "spanish": "Helioptile",
+    "italian": "Helioptile",
+    "japanese": "エリキテル",
+    "chinese": "伞电蜥",
+    "korean": "",
+    "german": "Eguana",
+    "french": "Galvaran"
+  },
+  "pokedexNumber": {
+    "sword-shield": 318
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Dry Skin",
+      "id": 87
+    },
+    "two": {
+      "name": "Sand Veil",
+      "id": 8
+    },
+    "hidden": {
+      "name": "Solar Power",
+      "id": 94
+    }
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 38,
+    "def": 33,
+    "spatk": 61,
+    "spdef": 43,
+    "spd": 70,
+    "total": 289
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "6.0 kg (13.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 242,
+  "generation": 6,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Generator Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 58,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "helios": "Greek for ‘sun’",
+    "reptile": "cold-blooded creatures such as lizards and snakes"
+  },
+  "pokedexEntries": {
+    "Helioptile": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "They make their home in deserts. They can generate their energy from basking in the sun, so eating food is not a requirement."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The frills on either side of its head have cells that generate electricity when exposed to sunlight."
+      },
+      {
+        "game": "sword",
+        "desc": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon’s electric moves."
+      },
+      {
+        "game": "shield",
+        "desc": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness."
+      }
+    ]
+  }
+}

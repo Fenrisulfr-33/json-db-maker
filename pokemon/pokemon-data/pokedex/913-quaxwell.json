@@ -1,0 +1,67 @@
+{
+  "_id": 913,
+  "key": "quaxwell",
+  "name": {
+    "english": "Quaxwell"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 8
+  },
+  "type": {
+    "one": "Water",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Moxie",
+      "id": 153
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 65,
+    "spatk": 65,
+    "spdef": 60,
+    "spd": 65,
+    "total": 410
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "21.5 kg (47.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Practicing Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "quack": "sound made by a duck"
+  },
+  "pokedexEntries": {
+    "Quaxwell": [
+      {
+        "game": "scarlet",
+        "desc": "These Pokémon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully."
+      },
+      {
+        "game": "violet",
+        "desc": "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+      }
+    ]
+  }
+}

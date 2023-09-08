@@ -1,0 +1,142 @@
+{
+  "_id": 303,
+  "key": "mawile",
+  "name": {
+    "english": "Mawile",
+    "spanish": "Mawile",
+    "italian": "Mawile",
+    "japanese": "クチート",
+    "chinese": "大嘴娃",
+    "korean": "",
+    "german": "Flunkifer",
+    "french": "Mysdibule"
+  },
+  "pokedexNumber": {
+    "sword-shield": 295,
+    "crown-tundra": 175
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hyper Cutter",
+      "id": 52
+    },
+    "two": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "hidden": {
+      "name": "Sheer Force",
+      "id": 125
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 85,
+    "def": 85,
+    "spatk": 55,
+    "spdef": 55,
+    "spd": 50,
+    "total": 380
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "11.5 kg (25.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "atk": 1,
+    "def": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "species": "Deceiver Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 133,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "maw": "the jaw of a voracious mammal",
+    "wile": "deceitful cunning, trickery"
+  },
+  "pokedexEntries": {
+    "Mawile": [
+      {
+        "game": "ruby",
+        "desc": "MAWILE’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWILE chomps it with its gaping jaws."
+      },
+      {
+        "game": "sapphire",
+        "desc": "Don’t be taken in by this POKéMON’s cute face - it’s very dangerous. MAWILE fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams."
+      },
+      {
+        "game": "x",
+        "desc": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws."
+      },
+      {
+        "game": "y",
+        "desc": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Mawile’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Don’t be taken in by this Pokémon’s cute face—it’s very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "A cunning and terrifying Pokémon, its cuteness makes opponents let down their guard—and then it swallows them whole with its huge jaws."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It has two mouths. The big jaws on the back of its head can’t taste anything, so that’s the mouth it uses to eat foods it doesn’t like."
+      },
+      {
+        "game": "sword",
+        "desc": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws."
+      },
+      {
+        "game": "shield",
+        "desc": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams."
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "_id": 475,
+  "key": "gallade",
+  "name": {
+    "english": "Gallade",
+    "spanish": "Gallade",
+    "italian": "Gallade",
+    "japanese": "エルレイド",
+    "chinese": "艾路雷朵",
+    "korean": "",
+    "german": "Galagladi",
+    "french": "Gallame"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 65,
+    "legends-arceus": 104,
+    "sword-shield": 123,
+    "isle-of-armor": 37
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Steadfast",
+      "id": 80
+    },
+    "two": {
+      "name": "Sharpness",
+      "id": 292
+    },
+    "hidden": {
+      "name": "Justified",
+      "id": 154
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 125,
+    "def": 65,
+    "spatk": 65,
+    "spdef": 115,
+    "spd": 80,
+    "total": 518
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "56.4 kg (124.3 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": 96,
+  "generation": 4,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Blade Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 233,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gallant": "brave, chivalrous",
+    "blade": "the flat cutting part of a knife, sword, etc."
+  },
+  "pokedexEntries": {
+    "Gallade": [
+      {
+        "game": "diamond-pearl",
+        "desc": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows."
+      },
+      {
+        "game": "platinum",
+        "desc": "When trying to protect someone, it extends its elbows as if they were swords and fights savagely."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When trying to protect someone, it extends its elbows as if they were swords and fights savagely."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows."
+      },
+      {
+        "game": "sword",
+        "desc": "True to its honorable-warrior image, it uses the blades on its elbows only in defense of something or someone."
+      },
+      {
+        "game": "shield",
+        "desc": "Sharply attuned to others’ wishes for help, this Pokémon seeks out those in need and aids them in battle."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "A master of courtesy and swordsmanship, it fights using the extending swords on its elbows."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive."
+      }
+    ]
+  }
+}

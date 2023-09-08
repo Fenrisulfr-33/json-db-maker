@@ -1,0 +1,112 @@
+{
+  "_id": 397,
+  "key": "staravia",
+  "name": {
+    "english": "Staravia",
+    "spanish": "Staravia",
+    "italian": "Staravia",
+    "japanese": "ムクバード",
+    "chinese": "姆克鸟",
+    "korean": "",
+    "german": "Staravia",
+    "french": "Étourvol"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 98,
+    "legends-arceus": 13
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "hidden": {
+      "name": "Reckless",
+      "id": 120
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 75,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 80,
+    "total": 340
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "15.5 kg (34.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 131,
+  "generation": 4,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Starling Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 119,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "starling": "a species of bird",
+    "avian": "relating to birds"
+  },
+  "pokedexEntries": {
+    "Staravia": [
+      {
+        "game": "diamond",
+        "desc": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock."
+      },
+      {
+        "game": "pearl",
+        "desc": "It lives in forests and fields. Squabbles over territory occur when flocks collide."
+      },
+      {
+        "game": "platinum",
+        "desc": "Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "They maintain huge flocks, although fierce scuffles break out between various flocks."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They maintain huge flocks, although fierce scuffles break out between various flocks."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It lives in forests and fields. Squabbles over territory occur when flocks collide."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "They fly around forests and fields in search of bug Pokémon, moving together in huge flocks."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "They live in forests and fields. Squabbles over territory occur when flocks collide."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "They form remarkably large flocks and are constantly fighting amongst themselves. I suspect that those with magnificent plumes on their heads are the strong ones."
+      }
+    ]
+  }
+}

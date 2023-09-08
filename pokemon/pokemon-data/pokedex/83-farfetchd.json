@@ -1,0 +1,169 @@
+{
+  "_id": 83,
+  "key": "farfetchd",
+  "name": {
+    "english": "Farfetch'd",
+    "spanish": "Farfetch'd",
+    "italian": "Farfetch'd",
+    "japanese": "カモネギ",
+    "chinese": "大葱鸭",
+    "korean": "",
+    "german": "Porenta",
+    "french": "Canarticho"
+  },
+  "pokedexNumber": {
+    "sword-shield": 218,
+    "crystal": 160,
+    "gold-silver": 160,
+    "yellow": 83,
+    "red-blue": 83
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 90,
+    "def": 55,
+    "spatk": 58,
+    "spdef": 62,
+    "spd": 60,
+    "total": 377
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "42.0 kg (92.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 297,
+  "generation": 1,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Flying",
+    "Field"
+  ],
+  "species": "Wild Duck Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 132,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "far-fetched": "improbable, unlikely"
+  },
+  "pokedexEntries": {
+    "Farfetch'd": [
+      {
+        "game": "red-blue",
+        "desc": "The sprig of green onions it holds is its weapon. It is used much like a metal sword."
+      },
+      {
+        "game": "yellow",
+        "desc": "Lives where reedy plants grow. They are rarely seen, so it’s thought their numbers are decreasing."
+      },
+      {
+        "game": "gold",
+        "desc": "If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them."
+      },
+      {
+        "game": "silver",
+        "desc": "If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick."
+      },
+      {
+        "game": "crystal",
+        "desc": "In order to prevent their extinction, more people have made an effort to breed these POKéMON."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "FARFETCH’D is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This POKéMON has been known to fight with others over sticks."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things."
+      },
+      {
+        "game": "emerald",
+        "desc": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This POKéMON occasionally fights with others over choice sticks."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If anyone tries to disturb where the essential plant stalks grow, it uses its own stalk to thwart them."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life."
+      },
+      {
+        "game": "x",
+        "desc": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things."
+      },
+      {
+        "game": "y",
+        "desc": "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Farfetch’d is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "They live where reedy plants grow. Farfetch’d are rarely seen, so it’s thought their numbers are decreasing."
+      },
+      {
+        "game": "sword",
+        "desc": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food."
+      },
+      {
+        "game": "shield",
+        "desc": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life."
+      }
+    ],
+    "Galarian Farfetch'd": [
+      {
+        "game": "sword",
+        "desc": "The Farfetch’d of the Galar region are brave warriors, and they wield thick, tough leeks in battle."
+      },
+      {
+        "game": "shield",
+        "desc": "The stalks of leeks are thicker and longer in the Galar region. Farfetch’d that adapted to these stalks took on a unique form."
+      }
+    ]
+  }
+}

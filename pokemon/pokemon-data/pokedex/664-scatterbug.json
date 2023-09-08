@@ -1,0 +1,82 @@
+{
+  "_id": 664,
+  "key": "scatterbug",
+  "name": {
+    "english": "Scatterbug",
+    "spanish": "Scatterbug",
+    "italian": "Scatterbug",
+    "japanese": "コフキムシ",
+    "chinese": "粉蝶虫",
+    "korean": "",
+    "german": "Purmel",
+    "french": "Lépidonille"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 35
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shield Dust",
+      "id": 19
+    },
+    "two": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "hidden": {
+      "name": "Friend Guard",
+      "id": 132
+    }
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 35,
+    "def": 40,
+    "spatk": 27,
+    "spdef": 25,
+    "spd": 35,
+    "total": 200
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.5 kg (5.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 229,
+  "generation": 6,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Scatterdust Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 40,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "scatter": "throw or distribute across a large area",
+    "bug": "insect; suffix meaning ‘enthusiast’"
+  },
+  "pokedexEntries": {
+    "Scatterbug": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The powder that covers its body regulates its temperature, so it can live in any region or climate."
+      }
+    ]
+  }
+}

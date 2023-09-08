@@ -1,0 +1,138 @@
+{
+  "_id": 357,
+  "key": "tropius",
+  "name": {
+    "english": "Tropius",
+    "spanish": "Tropius",
+    "italian": "Tropius",
+    "japanese": "トロピウス",
+    "chinese": "热带龙",
+    "korean": "",
+    "german": "Tropius",
+    "french": "Tropius"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 246
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Solar Power",
+      "id": 94
+    },
+    "hidden": {
+      "name": "Harvest",
+      "id": 139
+    }
+  },
+  "baseStats": {
+    "hp": 99,
+    "atk": 68,
+    "def": 83,
+    "spatk": 72,
+    "spdef": 87,
+    "spd": 51,
+    "total": 460
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "100.0 kg (220.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Fruit Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 161,
+  "growthRate": "Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "tropical": "of or relating to the rainforest",
+    "-saurus": "Greek suffix meaning ‘lizard’"
+  },
+  "pokedexEntries": {
+    "Tropius": [
+      {
+        "game": "ruby",
+        "desc": "The bunches of fruit around TROPIUS’s neck are very popular with children. This POKéMON loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit."
+      },
+      {
+        "game": "sapphire",
+        "desc": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of TROPIUS. This POKéMON flies by flapping the leaves on its back as if they were wings."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year."
+      },
+      {
+        "game": "emerald",
+        "desc": "It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "Because it continually ate only its favorite fruit, the fruit started growing around its neck."
+      },
+      {
+        "game": "platinum",
+        "desc": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "The bunch of fruit around its neck ripens twice a year and is delicious. It’s a highly favored tropical snack."
+      },
+      {
+        "game": "black-white",
+        "desc": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children."
+      },
+      {
+        "game": "x",
+        "desc": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children."
+      },
+      {
+        "game": "y",
+        "desc": "The bunch of fruit around its neck ripens twice a year and is delicious. It’s a highly favored tropical snack."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "The bunches of fruit around Tropius’s neck are very popular with children. This Pokémon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of Tropius. This Pokémon flies by flapping the leaves on its back as if they were wings."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The bunches of fruit growing around the necks of Tropius in Alola are especially sweet compared to those in other regions."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Because it continually ate only its favorite fruit, the fruit started growing around its neck."
+      }
+    ]
+  }
+}

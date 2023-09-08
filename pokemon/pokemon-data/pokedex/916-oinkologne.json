@@ -1,0 +1,82 @@
+{
+  "_id": 916,
+  "key": "oinkologne",
+  "name": {
+    "english": "Oinkologne"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 11
+  },
+  "type": {
+    "one": "Normal",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Lingering Aroma",
+      "id": 268
+    },
+    "two": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Thick Fat",
+      "id": 47
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 100,
+    "def": 75,
+    "spatk": 59,
+    "spdef": 80,
+    "spd": 65,
+    "total": 489
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "120.0 kg (264.6 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Hog Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "oink": "the noise a pig makes",
+    "cologne": "fragrance, perfume"
+  },
+  "pokedexEntries": {
+    "Male": [
+      {
+        "game": "scarlet",
+        "desc": "Oinkologne is proud of its fine, glossy skin. It emits a concentrated scent from the tip of its tail."
+      },
+      {
+        "game": "violet",
+        "desc": "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body."
+      }
+    ],
+    "Female": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon sends a flowerlike scent wafting about. Well-developed muscles in its legs allow it to leap more than 16 feet with no trouble at all."
+      },
+      {
+        "game": "violet",
+        "desc": "This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "_id": 199,
+  "key": "slowking",
+  "name": {
+    "english": "Slowking",
+    "spanish": "Slowking",
+    "italian": "Slowking",
+    "japanese": "ヤドキング",
+    "chinese": "呆呆王",
+    "korean": "",
+    "german": "Laschoking",
+    "french": "Roigada"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 326,
+    "crystal": 82,
+    "gold-silver": 82
+  },
+  "type": {
+    "one": "Water",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 75,
+    "def": 80,
+    "spatk": 100,
+    "spdef": 110,
+    "spd": 30,
+    "total": 490
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "79.5 kg (175.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 33,
+  "generation": 2,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "species": "Royal Pokémon",
+  "catchRate": 70,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "slow": "not fast",
+    "king": "royalty"
+  },
+  "pokedexEntries": {
+    "Slowking": [
+      {
+        "game": "gold",
+        "desc": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
+      },
+      {
+        "game": "silver",
+        "desc": "When its head was bitten, toxins entered SLOWPOKE’s head and unlocked an extraordinary power."
+      },
+      {
+        "game": "crystal",
+        "desc": "Every time it yawns, SHELLDER injects more poison into it. The poison makes it more intelligent."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off."
+      },
+      {
+        "game": "fire-red",
+        "desc": "When its head was bitten, toxins entered SLOWPOKE’s head and unlocked an extraordinary power."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
+      },
+      {
+        "game": "emerald",
+        "desc": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the SHELLDER on its head comes off."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "When its head was bitten, toxins entered SLOWPOKE’s head and unlocked an extraordinary power."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists."
+      },
+      {
+        "game": "x",
+        "desc": "It has incredible intellect and intuition. Whatever the situation, it remains calm and collected."
+      },
+      {
+        "game": "y",
+        "desc": "When its head was bitten, toxins entered Slowpoke’s head and unlocked an extraordinary power."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off."
+      },
+      {
+        "game": "sun",
+        "desc": "A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon is so famed for its intellect that a proverb still persists in some regions: “When in doubt, ask Slowking.”"
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s constantly coming up with new ideas that would change the world, but as soon as it hits upon a new idea, it forgets it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It’s called “the sage of the sea.” It engages in battles of wits with Oranguru, but the result is usually a draw."
+      },
+      {
+        "game": "sword",
+        "desc": "Miraculously, this former Slowpoke’s latent intelligence was drawn out when Shellder poison raced through its brain."
+      },
+      {
+        "game": "shield",
+        "desc": "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Being bitten by Shellder gave it intelligence comparable to that of internationally recognized scientists."
+      }
+    ],
+    "Galarian Slowking": [
+      {
+        "game": "sword",
+        "desc": "A combination of toxins and the shock of evolving has increased Shellder’s intelligence to the point that Shellder now controls Slowking."
+      },
+      {
+        "game": "shield",
+        "desc": "While chanting strange spells, this Pokémon combines its internal toxins with what it’s eaten, creating strange potions."
+      }
+    ]
+  }
+}

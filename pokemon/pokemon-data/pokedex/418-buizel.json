@@ -1,0 +1,116 @@
+{
+  "_id": 418,
+  "key": "buizel",
+  "name": {
+    "english": "Buizel",
+    "spanish": "Buizel",
+    "italian": "Buizel",
+    "japanese": "ブイゼル",
+    "chinese": "泳圈鼬",
+    "korean": "",
+    "german": "Bamelin",
+    "french": "Mustébouée"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 51,
+    "legends-arceus": 41
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "hidden": {
+      "name": "Water Veil",
+      "id": 41
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 65,
+    "def": 35,
+    "spatk": 60,
+    "spdef": 30,
+    "spd": 85,
+    "total": 330
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "29.5 kg (65.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 140,
+  "generation": 4,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Sea Weasel Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "buoy": "floating marker in the sea (usually orange)",
+    "weasel": "small mammal with a long body"
+  },
+  "pokedexEntries": {
+    "Buizel": [
+      {
+        "game": "diamond",
+        "desc": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out."
+      },
+      {
+        "game": "pearl",
+        "desc": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses."
+      },
+      {
+        "game": "platinum",
+        "desc": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement."
+      },
+      {
+        "game": "black-white",
+        "desc": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "When air fills the flotation sac on its neck, the sac balloons like an inner tube. This Pokémon floats with its head out of the water."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It moves freely in the water by spinning its forked tail for propulsion. The resemblance to the screw of a steamboat is coincidental."
+      }
+    ]
+  }
+}

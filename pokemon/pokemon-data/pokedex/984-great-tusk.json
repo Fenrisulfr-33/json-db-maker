@@ -1,0 +1,68 @@
+{
+  "_id": 984,
+  "key": "great-tusk",
+  "name": {
+    "english": "Great-Tusk"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 376
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Protosynthesis",
+      "id": 281
+    },
+    "hidden": {
+      "name": "Protosynthesis",
+      "id": 281
+    }
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 131,
+    "def": 131,
+    "spatk": 53,
+    "spdef": 53,
+    "spd": 87,
+    "total": 570
+  },
+  "info": {
+    "height": "2.2 m (7′03″)",
+    "weight": "320.0 kg (705.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "great": "large, huge",
+    "tusk": "large pointed tooth"
+  },
+  "pokedexEntries": {
+    "Great-tusk": [
+      {
+        "game": "scarlet",
+        "desc": "Sightings of this Pokémon have occurred in recent years. The name Great Tusk was taken from a creature listed in a certain book."
+      },
+      {
+        "game": "violet",
+        "desc": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+      }
+    ]
+  }
+}

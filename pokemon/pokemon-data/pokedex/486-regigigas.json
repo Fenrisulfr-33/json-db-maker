@@ -1,0 +1,106 @@
+{
+  "_id": 486,
+  "key": "regigigas",
+  "name": {
+    "english": "Regigigas",
+    "spanish": "Regigigas",
+    "italian": "Regigigas",
+    "japanese": "レジギガス",
+    "chinese": "雷吉奇卡斯",
+    "korean": "",
+    "german": "Regigigas",
+    "french": "Regigigas"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 229
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Slow Start",
+      "id": 112
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 160,
+    "def": 110,
+    "spatk": 80,
+    "spdef": 110,
+    "spd": 100,
+    "total": 670
+  },
+  "info": {
+    "height": "3.7 m (12′02″)",
+    "weight": "420.0 kg (925.9 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Colossal Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 302,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "regi": "(Latin) of or relating to royalty",
+    "gigas": "giant"
+  },
+  "pokedexEntries": {
+    "Regigigas": [
+      {
+        "game": "diamond-pearl",
+        "desc": "There is an enduring legend that states this Pokémon towed continents with ropes."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "There is an enduring legend that states this Pokémon towed continents with ropes."
+      },
+      {
+        "game": "sword",
+        "desc": "All over the world, there are legends that tell of Regigigas creating other Pokémon in its own image."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s said that Regigigas created other Pokémon from many different materials before it moved the continents to where they are today."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "There is an enduring legend that states this Pokémon towed continents with ropes."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "According to legend, Regigigas pulled landmasses together and bound them with rope to create the continent of Hisui. Though I have my doubts, the story could well contain a shred of truth."
+      }
+    ]
+  }
+}

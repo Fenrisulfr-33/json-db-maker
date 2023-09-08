@@ -1,0 +1,78 @@
+{
+  "_id": 865,
+  "key": "sirfetchd",
+  "name": {
+    "english": "Sirfetch'd",
+    "spanish": "Sirfetch'd",
+    "italian": "Sirfetch'd",
+    "japanese": "ネギガナイト",
+    "chinese": "葱游兵",
+    "korean": "",
+    "german": "Lauchzelot",
+    "french": "Palarticho"
+  },
+  "pokedexNumber": {
+    "sword-shield": 219
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Steadfast",
+      "id": 80
+    },
+    "hidden": {
+      "name": "Scrappy",
+      "id": 113
+    }
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 135,
+    "def": 95,
+    "spatk": 68,
+    "spdef": 82,
+    "spd": 65,
+    "total": 507
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "117.0 kg (257.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 297,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Wild Duck Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 177,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sir": "noble title",
+    "far-fetched": "improbable, unlikely"
+  },
+  "pokedexEntries": {
+    "Sirfetchd": [
+      {
+        "game": "sword",
+        "desc": "Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat."
+      },
+      {
+        "game": "shield",
+        "desc": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food."
+      }
+    ]
+  }
+}

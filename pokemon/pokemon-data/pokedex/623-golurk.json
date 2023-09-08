@@ -1,0 +1,112 @@
+{
+  "_id": 623,
+  "key": "golurk",
+  "name": {
+    "english": "Golurk",
+    "spanish": "Golurk",
+    "italian": "Golurk",
+    "japanese": "ゴルーグ",
+    "chinese": "泥偶巨人",
+    "korean": "",
+    "german": "Golgantes",
+    "french": "Golemastoc"
+  },
+  "pokedexNumber": {
+    "sword-shield": 89,
+    "crown-tundra": 154
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Iron Fist",
+      "id": 89
+    },
+    "two": {
+      "name": "Klutz",
+      "id": 103
+    },
+    "hidden": {
+      "name": "No Guard",
+      "id": 99
+    }
+  },
+  "baseStats": {
+    "hp": 89,
+    "atk": 124,
+    "def": 80,
+    "spatk": 55,
+    "spdef": 80,
+    "spd": 55,
+    "total": 483
+  },
+  "info": {
+    "height": "2.8 m (9′02″)",
+    "weight": "330.0 kg (727.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 218,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Automaton Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 169,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "golem": "stone figure from jewish folklore",
+    "lurk": "to lie or wait in concealment"
+  },
+  "pokedexEntries": {
+    "Golurk": [
+      {
+        "game": "black",
+        "desc": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control."
+      },
+      {
+        "game": "white",
+        "desc": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Golurk were created to protect people and Pokémon. They run on a mysterious energy."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Some say that ancient people invented Golurk to serve as a laborer. It follows its master’s orders faithfully."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble."
+      },
+      {
+        "game": "sword",
+        "desc": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams."
+      },
+      {
+        "game": "shield",
+        "desc": "There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven."
+      }
+    ]
+  }
+}

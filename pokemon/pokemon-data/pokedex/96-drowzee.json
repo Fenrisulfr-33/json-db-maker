@@ -1,0 +1,166 @@
+{
+  "_id": 96,
+  "key": "drowzee",
+  "name": {
+    "english": "Drowzee",
+    "spanish": "Drowzee",
+    "italian": "Drowzee",
+    "japanese": "スリープ",
+    "chinese": "催眠貘",
+    "korean": "",
+    "german": "Traumato",
+    "french": "Soporifik"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 66,
+    "crystal": 87,
+    "gold-silver": 87,
+    "yellow": 96,
+    "red-blue": 96
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Insomnia",
+      "id": 15
+    },
+    "two": {
+      "name": "Forewarn",
+      "id": 108
+    },
+    "hidden": {
+      "name": "Inner Focus",
+      "id": 39
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 48,
+    "def": 45,
+    "spatk": 43,
+    "spdef": 90,
+    "spd": 42,
+    "total": 328
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "32.4 kg (71.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 40,
+  "generation": 1,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Hypnosis Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "drowsy": "tired, sleepy",
+    "zee": "the letter ‘z’, often used to denote sleep"
+  },
+  "pokedexEntries": {
+    "Drowzee": [
+      {
+        "game": "red-blue",
+        "desc": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
+      },
+      {
+        "game": "yellow",
+        "desc": "If you sleep by it all the time, it will sometimes show you dreams it has eaten in the past."
+      },
+      {
+        "game": "gold",
+        "desc": "If you think that you had a good dream, but you can’t remember it, a DROWZEE has probably eaten it."
+      },
+      {
+        "game": "silver",
+        "desc": "It remembers every dream it eats. It rarely eats the dreams of adults because children’s are much tastier."
+      },
+      {
+        "game": "crystal",
+        "desc": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these POKéMON is standing above your pillow and trying to eat your dream through your nostrils."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A descendent of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams."
+      },
+      {
+        "game": "emerald",
+        "desc": "If your nose becomes itchy while you are sleeping, it’s a sure sign that a DROWZEE is standing above your pillow and trying to eat your dream through your nostrils."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If you think that you had a good dream but you can’t remember it, a DROWZEE has probably eaten it."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It remembers every dream it eats. It rarely eats the dreams of adults because children’s are much tastier."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams."
+      },
+      {
+        "game": "x",
+        "desc": "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams."
+      },
+      {
+        "game": "y",
+        "desc": "If you think that you had a good dream but you can’t remember it, a Drowzee has probably eaten it."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils."
+      },
+      {
+        "game": "sun",
+        "desc": "A Pokémon that nourishes itself by eating dreams, it is thought to share common ancestry with Munna and Musharna."
+      },
+      {
+        "game": "moon",
+        "desc": "It finds really fun dreams tasty. When it makes friends with people, it may show them the most delicious dreams it’s ever eaten."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It can be spotted near recreational facilities, intending to eat the pleasant dreams of children who enjoyed themselves there that day."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It puts its prey to sleep and devours their dreams. It seems that bad dreams taste sour, so Drowzee doesn’t particularly like eating them."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams."
+      }
+    ]
+  }
+}

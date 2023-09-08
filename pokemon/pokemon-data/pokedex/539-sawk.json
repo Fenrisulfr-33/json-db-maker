@@ -1,0 +1,101 @@
+{
+  "_id": 539,
+  "key": "sawk",
+  "name": {
+    "english": "Sawk",
+    "spanish": "Sawk",
+    "italian": "Sawk",
+    "japanese": "ダゲキ",
+    "chinese": "打击鬼",
+    "korean": "",
+    "german": "Karadonis",
+    "french": "Karaclée"
+  },
+  "pokedexNumber": {
+    "sword-shield": 249
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "two": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "hidden": {
+      "name": "Mold Breaker",
+      "id": 104
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 75,
+    "spatk": 30,
+    "spdef": 75,
+    "spd": 85,
+    "total": 465
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "51.0 kg (112.4 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Karate Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 163,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sock": "to punch"
+  },
+  "pokedexEntries": {
+    "Sawk": [
+      {
+        "game": "black",
+        "desc": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train."
+      },
+      {
+        "game": "white",
+        "desc": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them."
+      },
+      {
+        "game": "sword",
+        "desc": "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it’s best to quietly pass by."
+      },
+      {
+        "game": "shield",
+        "desc": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself."
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "_id": 558,
+  "key": "crustle",
+  "name": {
+    "english": "Crustle",
+    "spanish": "Crustle",
+    "italian": "Crustle",
+    "japanese": "イワパレス",
+    "chinese": "岩殿居蟹",
+    "korean": "",
+    "german": "Castellith",
+    "french": "Crabaraque"
+  },
+  "pokedexNumber": {
+    "sword-shield": 87,
+    "isle-of-armor": 123
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "two": {
+      "name": "Shell Armor",
+      "id": 75
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 105,
+    "def": 125,
+    "spatk": 65,
+    "spdef": 75,
+    "spd": 45,
+    "total": 485
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "200.0 kg (440.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 192,
+  "generation": 5,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug",
+    "Mineral"
+  ],
+  "species": "Stone Home Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "crust": "solid layer of the Earth",
+    "castle": "large fortress"
+  },
+  "pokedexEntries": {
+    "Crustle": [
+      {
+        "game": "black",
+        "desc": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle."
+      },
+      {
+        "game": "white",
+        "desc": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle."
+      },
+      {
+        "game": "sword",
+        "desc": "This highly territorial Pokémon prefers dry climates. It won’t come out of its boulder on rainy days."
+      },
+      {
+        "game": "shield",
+        "desc": "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace."
+      }
+    ]
+  }
+}

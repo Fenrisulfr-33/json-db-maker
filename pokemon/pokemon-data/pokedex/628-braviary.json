@@ -1,0 +1,128 @@
+{
+  "_id": 628,
+  "key": "braviary",
+  "name": {
+    "english": "Braviary",
+    "spanish": "Braviary",
+    "italian": "Braviary",
+    "japanese": "ウォーグル",
+    "chinese": "勇士雄鹰",
+    "korean": "",
+    "german": "Washakwil",
+    "french": "Gueriaigle"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 366,
+    "legends-arceus": 222,
+    "sword-shield": 282,
+    "isle-of-armor": 180
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 123,
+    "def": 75,
+    "spatk": 57,
+    "spdef": 75,
+    "spd": 80,
+    "total": 510
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "43.4 kg (95.7 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": 220,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Valiant Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 179,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "brave": "courageous",
+    "aviary": "a place where birds are kept"
+  },
+  "pokedexEntries": {
+    "Braviary": [
+      {
+        "game": "black",
+        "desc": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying."
+      },
+      {
+        "game": "white",
+        "desc": "The more scars they have, the more respect these brave soldiers of the sky get from their peers."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying."
+      },
+      {
+        "game": "sun",
+        "desc": "With its brave disposition, it fears nothing—not even death. Ancient Alolan people respected it, referring to it as “the hero of the sky.”"
+      },
+      {
+        "game": "moon",
+        "desc": "It’s thought that people disturbed their habitats in the past, so Braviary banded together to fight back."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The more scars it has on its front, the more heroic it’s considered to be. Those with many scars on their back are mocked by the flock."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Known as “the hero of the skies,” this Pokémon is so proud and so brave that it will never retreat, even when it’s injured."
+      },
+      {
+        "game": "sword",
+        "desc": "Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems."
+      },
+      {
+        "game": "shield",
+        "desc": "Because this Pokémon is hotheaded and belligerent, it’s Corviknight that’s taken the role of transportation in Galar."
+      }
+    ],
+    "Hisuian Braviary": [
+      {
+        "game": "legends-arceus",
+        "desc": "Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water’s surface."
+      }
+    ]
+  }
+}

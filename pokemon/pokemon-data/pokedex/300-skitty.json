@@ -1,0 +1,125 @@
+{
+  "_id": 300,
+  "key": "skitty",
+  "name": {
+    "english": "Skitty",
+    "spanish": "Skitty",
+    "italian": "Skitty",
+    "japanese": "エネコ",
+    "chinese": "向尾喵",
+    "korean": "",
+    "german": "Eneco",
+    "french": "Skitty"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cute Charm",
+      "id": 56
+    },
+    "two": {
+      "name": "Normalize",
+      "id": 96
+    },
+    "hidden": {
+      "name": "Wonder Skin",
+      "id": 147
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 45,
+    "def": 45,
+    "spatk": 35,
+    "spdef": 35,
+    "spd": 50,
+    "total": 260
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "11.0 kg (24.3 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 103,
+  "generation": 3,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "species": "Kitten Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 52,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "skitty": "absent-minded",
+    "kitty": "a young cat"
+  },
+  "pokedexEntries": {
+    "Skitty": [
+      {
+        "game": "ruby",
+        "desc": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SKITTY is known to chase around playfully after its own tail. In the wild, this POKéMON lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior."
+      },
+      {
+        "game": "emerald",
+        "desc": "A SKITTY’s adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It’s adorable when it chases its own tail. It’s difficult to earn its trust."
+      },
+      {
+        "game": "black-white",
+        "desc": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It shows its cute side by chasing its own tail until it gets dizzy."
+      },
+      {
+        "game": "x",
+        "desc": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail."
+      },
+      {
+        "game": "y",
+        "desc": "It shows its cute side by chasing its own tail until it gets dizzy."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokémon is known to chase after its own tail and become dizzy."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It can’t stop itself from chasing moving things, and it runs in circles, chasing its own tail."
+      }
+    ]
+  }
+}

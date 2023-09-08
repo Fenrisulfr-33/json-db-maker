@@ -1,0 +1,190 @@
+{
+  "_id": 78,
+  "key": "rapidash",
+  "name": {
+    "english": "Rapidash",
+    "spanish": "Rapidash",
+    "italian": "Rapidash",
+    "japanese": "ギャロップ",
+    "chinese": "烈焰马",
+    "korean": "",
+    "german": "Gallopa",
+    "french": "Galopa"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 24,
+    "sword-shield": 334,
+    "crystal": 207,
+    "gold-silver": 207,
+    "yellow": 78,
+    "red-blue": 78
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "two": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "hidden": {
+      "name": "Flame Body",
+      "id": 49
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 100,
+    "def": 70,
+    "spatk": 80,
+    "spdef": 80,
+    "spd": 105,
+    "total": 500
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "80.0 kg (176.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 32,
+  "generation": 1,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fire Horse Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 175,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "rapid": "fast",
+    "ash": "remains of a fire",
+    "dash": "move quickly"
+  },
+  "pokedexEntries": {
+    "Rapidash": [
+      {
+        "game": "red-blue",
+        "desc": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it."
+      },
+      {
+        "game": "yellow",
+        "desc": "Just loves to run. If it sees something faster than itself, it will give chase at top speed."
+      },
+      {
+        "game": "gold",
+        "desc": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast."
+      },
+      {
+        "game": "silver",
+        "desc": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps."
+      },
+      {
+        "game": "crystal",
+        "desc": "It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it."
+      },
+      {
+        "game": "emerald",
+        "desc": "It usually canters casually in the fields and plains. But once a RAPIDASH turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph."
+      },
+      {
+        "game": "diamond",
+        "desc": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow."
+      },
+      {
+        "game": "pearl",
+        "desc": "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps."
+      },
+      {
+        "game": "platinum",
+        "desc": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance."
+      },
+      {
+        "game": "x",
+        "desc": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it."
+      },
+      {
+        "game": "y",
+        "desc": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Just loves to run. If it sees something faster than itself, it will give chase at top speed."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind."
+      },
+      {
+        "game": "shield",
+        "desc": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half."
+      }
+    ],
+    "Galarian Rapidash": [
+      {
+        "game": "sword",
+        "desc": "Little can stand up to its psycho cut. Unleashed from this Pokémon’s horn, the move will punch a hole right through a thick metal sheet."
+      },
+      {
+        "game": "shield",
+        "desc": "Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
+      }
+    ]
+  }
+}

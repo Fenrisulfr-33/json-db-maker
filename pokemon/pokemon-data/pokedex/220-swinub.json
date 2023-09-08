@@ -1,0 +1,159 @@
+{
+  "_id": 220,
+  "key": "swinub",
+  "name": {
+    "english": "Swinub",
+    "spanish": "Swinub",
+    "italian": "Swinub",
+    "japanese": "ウリムー",
+    "chinese": "小山猪",
+    "korean": "",
+    "german": "Quiekel",
+    "french": "Marcacrin"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 212,
+    "sword-shield": 75,
+    "crown-tundra": 7,
+    "crystal": 195,
+    "gold-silver": 195
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Snow Cloak",
+      "id": 81
+    },
+    "hidden": {
+      "name": "Thick Fat",
+      "id": 47
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 40,
+    "spatk": 30,
+    "spdef": 30,
+    "spd": 50,
+    "total": 250
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "6.5 kg (14.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 75,
+  "generation": 2,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Pig Pokémon",
+  "catchRate": 225,
+  "baseFriendship": 50,
+  "baseExp": 50,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "swine": "of or relating to pigs",
+    "nub": "lump/knob (referring to its nose)"
+  },
+  "pokedexEntries": {
+    "Swinub": [
+      {
+        "game": "gold",
+        "desc": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+      },
+      {
+        "game": "silver",
+        "desc": "If it smells something enticing, it dashes headlong off to find the source of the aroma."
+      },
+      {
+        "game": "crystal",
+        "desc": "It uses the tip of its nose to dig for food. Its nose is so tough that even frozen ground poses no problem."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs."
+      },
+      {
+        "game": "fire-red",
+        "desc": "If it smells something enticing, it dashes off headlong to find the source of the aroma."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+      },
+      {
+        "game": "emerald",
+        "desc": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging."
+      },
+      {
+        "game": "platinum",
+        "desc": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If it smells something enticing, it dashes off headlong to find the source of the aroma."
+      },
+      {
+        "game": "black-white",
+        "desc": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring."
+      },
+      {
+        "game": "x",
+        "desc": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+      },
+      {
+        "game": "y",
+        "desc": "If it smells something enticing, it dashes off headlong to find the source of the aroma."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs."
+      },
+      {
+        "game": "sword",
+        "desc": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs."
+      },
+      {
+        "game": "shield",
+        "desc": "If it smells something enticing, it dashes off headlong to find the source of the aroma."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It loves eating mushrooms that grow under dead grass. It also finds hot springs while foraging."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill."
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_id": 997,
+  "key": "arctibax",
+  "name": {
+    "english": "Arctibax"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 389
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Thermal Exchange",
+      "id": 270
+    },
+    "hidden": {
+      "name": "Ice Body",
+      "id": 115
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 95,
+    "def": 66,
+    "spatk": 45,
+    "spdef": 65,
+    "spd": 62,
+    "total": 423
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "30.0 kg (66.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ice Fin Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "arctic": "icy region around the North Pole",
+    "back": "the rear",
+    "axe": "tool with a wide metal blade"
+  },
+  "pokedexEntries": {
+    "Arctibax": [
+      {
+        "game": "scarlet",
+        "desc": "Arctibax freezes the air around it, protecting its face with an ice mask and turning its dorsal fin into a blade of ice."
+      },
+      {
+        "game": "violet",
+        "desc": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+      }
+    ]
+  }
+}

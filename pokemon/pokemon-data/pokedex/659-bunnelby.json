@@ -1,0 +1,90 @@
+{
+  "_id": 659,
+  "key": "bunnelby",
+  "name": {
+    "english": "Bunnelby",
+    "spanish": "Bunnelby",
+    "italian": "Bunnelby",
+    "japanese": "ホルビー",
+    "chinese": "掘掘兔",
+    "korean": "",
+    "german": "Scoppel",
+    "french": "Sapereau"
+  },
+  "pokedexNumber": {
+    "sword-shield": 48
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "two": {
+      "name": "Cheek Pouch",
+      "id": 167
+    },
+    "hidden": {
+      "name": "Huge Power",
+      "id": 37
+    }
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 36,
+    "def": 38,
+    "spatk": 32,
+    "spdef": 36,
+    "spd": 57,
+    "total": 237
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "5.0 kg (11.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 227,
+  "generation": 6,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Digging Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 47,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "bunny": "slang for rabbit, a small mammal with long ears",
+    "tunnel": "to burrow underground"
+  },
+  "pokedexEntries": {
+    "Bunnelby": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "They use their large ears to dig burrows. They will dig the whole night through."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly."
+      },
+      {
+        "game": "sword",
+        "desc": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s very sensitive to danger. The sound of Corviknight’s flapping will have Bunnelby digging a hole to hide underground in moments."
+      }
+    ]
+  }
+}

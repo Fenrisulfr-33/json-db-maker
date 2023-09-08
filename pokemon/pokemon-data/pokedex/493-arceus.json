@@ -1,0 +1,108 @@
+{
+  "_id": 493,
+  "key": "arceus",
+  "name": {
+    "english": "Arceus",
+    "spanish": "Arceus",
+    "italian": "Arceus",
+    "japanese": "アルセウス",
+    "chinese": "阿尔宙斯",
+    "korean": "",
+    "german": "Arceus",
+    "french": "Arceus"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 238
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Multitype",
+      "id": 121
+    }
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 120,
+    "def": 120,
+    "spatk": 120,
+    "spdef": 120,
+    "spd": 120,
+    "total": 720
+  },
+  "info": {
+    "height": "3.2 m (10′06″)",
+    "weight": "320.0 kg (705.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {},
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Alpha Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 324,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "archaic": "ancient",
+    "deus": "Latin for ‘god’"
+  },
+  "pokedexEntries": {
+    "Arceus": [
+      {
+        "game": "diamond",
+        "desc": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms."
+      },
+      {
+        "game": "pearl",
+        "desc": "It is told in mythology that this Pokémon was born before the universe even existed."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world."
+      },
+      {
+        "game": "black-white",
+        "desc": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It is said to have emerged from an egg in a place where there was nothing then shaped the world."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It is told in mythology that this Pokémon was born before the universe even existed."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It is told in mythology that this Pokémon was the first Pokémon born before the universe even existed."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all Pokémon. Hisuian mythology states that Arceus is the creator of all things."
+      }
+    ]
+  }
+}

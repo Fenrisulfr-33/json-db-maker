@@ -1,0 +1,93 @@
+{
+  "_id": 695,
+  "key": "heliolisk",
+  "name": {
+    "english": "Heliolisk",
+    "spanish": "Heliolisk",
+    "italian": "Heliolisk",
+    "japanese": "エレザード",
+    "chinese": "光电伞蜥",
+    "korean": "",
+    "german": "Elezard",
+    "french": "Iguolta"
+  },
+  "pokedexNumber": {
+    "sword-shield": 319
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Dry Skin",
+      "id": 87
+    },
+    "two": {
+      "name": "Sand Veil",
+      "id": 8
+    },
+    "hidden": {
+      "name": "Solar Power",
+      "id": 94
+    }
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 55,
+    "def": 52,
+    "spatk": 109,
+    "spdef": 94,
+    "spd": 109,
+    "total": 481
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "21.0 kg (46.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 242,
+  "generation": 6,
+  "evs": {
+    "spatk": 1,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Generator Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "helios": "Greek for ‘sun’",
+    "basilisk": "a type of lizard"
+  },
+  "pokedexEntries": {
+    "Heliolisk": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds."
+      },
+      {
+        "game": "sword",
+        "desc": "A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them."
+      },
+      {
+        "game": "shield",
+        "desc": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city."
+      }
+    ]
+  }
+}

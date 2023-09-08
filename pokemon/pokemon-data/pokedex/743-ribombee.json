@@ -1,0 +1,101 @@
+{
+  "_id": 743,
+  "key": "ribombee",
+  "name": {
+    "english": "Ribombee",
+    "spanish": "Ribombee",
+    "italian": "Ribombee",
+    "japanese": "アブリボン",
+    "chinese": "蝶结萌虻",
+    "korean": "",
+    "german": "Bandelby",
+    "french": "Rubombelle"
+  },
+  "pokedexNumber": {
+    "sword-shield": 188
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Honey Gather",
+      "id": 118
+    },
+    "two": {
+      "name": "Shield Dust",
+      "id": 19
+    },
+    "hidden": {
+      "name": "Sweet Veil",
+      "id": 175
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 55,
+    "def": 60,
+    "spatk": 95,
+    "spdef": 70,
+    "spd": 124,
+    "total": 464
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "0.5 kg (1.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 257,
+  "generation": 7,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Bug",
+    "Fairy"
+  ],
+  "species": "Bee Fly Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 162,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ribbon": "fancy/colorful strip of material",
+    "Bombyliidae": "Scientific name of the ‘bee fly’",
+    "bee": "a species of flying insect"
+  },
+  "pokedexEntries": {
+    "Ribombee": [
+      {
+        "game": "sun",
+        "desc": "It rolls up pollen into puffs. It makes many different varieties, some used as food and others used in battle."
+      },
+      {
+        "game": "moon",
+        "desc": "Some of Ribombee’s pollen puffs are highly nutritious. They are sometimes sold as supplements."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Rain makes pollen damp, so Ribombee hates rain. When it sees ominous clouds, it finds a hollow in a tree, where it waits stock-still."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row."
+      },
+      {
+        "game": "sword",
+        "desc": "It makes pollen puffs from pollen and nectar. The puffs’ effects depend on the type of ingredients and how much of each one is used."
+      },
+      {
+        "game": "shield",
+        "desc": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen."
+      }
+    ]
+  }
+}

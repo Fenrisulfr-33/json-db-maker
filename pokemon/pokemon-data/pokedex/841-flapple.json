@@ -1,0 +1,95 @@
+{
+  "_id": 841,
+  "key": "flapple",
+  "name": {
+    "english": "Flapple",
+    "spanish": "Flapple",
+    "italian": "Flapple",
+    "japanese": "アップリュー",
+    "chinese": "苹裹龙",
+    "korean": "",
+    "german": "Drapfel",
+    "french": "Pomdrapi"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 109,
+    "sword-shield": 206,
+    "isle-of-armor": 20
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Ripen",
+      "id": 247
+    },
+    "two": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Hustle",
+      "id": 55
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spatk": 95,
+    "spdef": 60,
+    "spd": 70,
+    "total": 485
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 287,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Apple Wing Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Erratic",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "flap": "to move wings up and down",
+    "apple": "red/green fruit"
+  },
+  "pokedexEntries": {
+    "Flapple": [
+      {
+        "game": "sword",
+        "desc": "It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns."
+      },
+      {
+        "game": "shield",
+        "desc": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "Under the influence of Gigantamax energy, it produces much more sweet nectar, and its shape has changed to resemble a giant apple."
+      },
+      {
+        "game": "shield",
+        "desc": "If it stretches its neck, the strong aroma of its nectar pours out. The scent is so sickeningly sweet that one whiff makes other Pokémon faint."
+      }
+    ]
+  }
+}

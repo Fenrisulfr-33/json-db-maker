@@ -1,0 +1,72 @@
+{
+  "_id": 951,
+  "key": "capsakid",
+  "name": {
+    "english": "Capsakid"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 250
+  },
+  "type": {
+    "one": "Grass",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Insomnia",
+      "id": 15
+    },
+    "hidden": {
+      "name": "Klutz",
+      "id": 103
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 62,
+    "def": 40,
+    "spatk": 62,
+    "spdef": 40,
+    "spd": 50,
+    "total": 304
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.0 kg (6.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Spicy Pepper Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "capsicum": "tropical plant with spicy peppers",
+    "kid": "a child"
+  },
+  "pokedexEntries": {
+    "Capsakid": [
+      {
+        "game": "scarlet",
+        "desc": "The more sunlight this Pokémon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become."
+      },
+      {
+        "game": "violet",
+        "desc": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "_id": 1000,
+  "key": "gholdengo",
+  "name": {
+    "english": "Gholdengo"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 392
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Good as Gold",
+      "id": 283
+    },
+    "hidden": {
+      "name": "Good as Gold",
+      "id": 283
+    }
+  },
+  "baseStats": {
+    "hp": 87,
+    "atk": 60,
+    "def": 95,
+    "spatk": 133,
+    "spdef": 91,
+    "spd": 84,
+    "total": 550
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "30.0 kg (66.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Coin Entity Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "ghoul": "a ghost",
+    "gold": "precious metal",
+    "golden goose": "a continuing source of wealth"
+  },
+  "pokedexEntries": {
+    "Gholdengo": [
+      {
+        "game": "scarlet",
+        "desc": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody."
+      },
+      {
+        "game": "violet",
+        "desc": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+      }
+    ]
+  }
+}

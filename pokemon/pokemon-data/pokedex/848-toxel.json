@@ -1,0 +1,84 @@
+{
+  "_id": 848,
+  "key": "toxel",
+  "name": {
+    "english": "Toxel",
+    "spanish": "Toxel",
+    "italian": "Toxel",
+    "japanese": "エレズン",
+    "chinese": "毒电婴",
+    "korean": "",
+    "german": "Toxel",
+    "french": "Toxizap"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 198,
+    "sword-shield": 310
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rattled",
+      "id": 155
+    },
+    "two": {
+      "name": "Static",
+      "id": 9
+    },
+    "hidden": {
+      "name": "Klutz",
+      "id": 103
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 38,
+    "def": 35,
+    "spatk": 54,
+    "spdef": 35,
+    "spd": 40,
+    "total": 242
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "11.0 kg (24.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 290,
+  "generation": 8,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Baby Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 48,
+  "growthRate": "Medium Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "toxic": "poisonous",
+    "electricity": "energy from electric currents"
+  },
+  "pokedexEntries": {
+    "Toxel": [
+      {
+        "game": "sword",
+        "desc": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows."
+      },
+      {
+        "game": "shield",
+        "desc": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis."
+      }
+    ]
+  }
+}

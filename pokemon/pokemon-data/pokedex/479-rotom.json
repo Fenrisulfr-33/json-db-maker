@@ -1,0 +1,109 @@
+{
+  "_id": 479,
+  "key": "rotom",
+  "name": {
+    "english": "Rotom",
+    "spanish": "Rotom",
+    "italian": "Rotom",
+    "japanese": "ロトム",
+    "chinese": "洛托姆",
+    "korean": "",
+    "german": "Rotom",
+    "french": "Motisma"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 310,
+    "legends-arceus": 194,
+    "sword-shield": 372
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 77,
+    "spatk": 95,
+    "spdef": 77,
+    "spd": 91,
+    "total": 440
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.3 kg (0.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "spatk": 1,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Plasma Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 154,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "motor": "Rotom is ‘motor’ backwards"
+  },
+  "pokedexEntries": {
+    "Rotom": [
+      {
+        "game": "diamond-pearl",
+        "desc": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its electric-like body can enter some kinds of machines and take control in order to make mischief."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Research continues on this Pokémon, which could be the power source of a unique motor."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its electric-like body can enter some kinds of machines and take control in order to make mischief."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Research continues on this Pokémon, which could be the power source of a unique motor."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc."
+      },
+      {
+        "game": "sword",
+        "desc": "One boy’s invention led to the development of many different machines that take advantage of Rotom’s unique capabilities."
+      },
+      {
+        "game": "shield",
+        "desc": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This bizarre Pokémon appears to be a will-o’-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": 993,
+  "key": "iron-jugulis",
+  "name": {
+    "english": "Iron-Jugulis"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 385
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Quark Drive",
+      "id": 282
+    },
+    "hidden": {
+      "name": "Quark Drive",
+      "id": 282
+    }
+  },
+  "baseStats": {
+    "hp": 94,
+    "atk": 80,
+    "def": 86,
+    "spatk": 122,
+    "spdef": 80,
+    "spd": 108,
+    "total": 570
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "111.0 kg (244.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "iron": "heavy/tough metal",
+    "jugular": "the neck or throat"
+  },
+  "pokedexEntries": {
+    "Iron-jugulis": [
+      {
+        "game": "scarlet",
+        "desc": "It resembles a certain Pokémon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot."
+      },
+      {
+        "game": "violet",
+        "desc": "It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+      }
+    ]
+  }
+}

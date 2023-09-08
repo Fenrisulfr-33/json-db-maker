@@ -1,0 +1,72 @@
+{
+  "_id": 962,
+  "key": "bombirdier",
+  "name": {
+    "english": "Bombirdier"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 290
+  },
+  "type": {
+    "one": "Flying",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Big Pecks",
+      "id": 145
+    },
+    "two": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "hidden": {
+      "name": "Rocky Payload",
+      "id": 276
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 103,
+    "def": 85,
+    "spatk": 60,
+    "spdef": 85,
+    "spd": 82,
+    "total": 485
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "42.9 kg (94.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Item Drop Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "bombardier": "military rank, responsible for dropping bombs",
+    "bird": "winged animal"
+  },
+  "pokedexEntries": {
+    "Bombirdier": [
+      {
+        "game": "scarlet",
+        "desc": "It gathers things up in an apron made from shed feathers added to the Pokémon’s chest feathers, then drops those things from high places for fun."
+      },
+      {
+        "game": "violet",
+        "desc": "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+      }
+    ]
+  }
+}

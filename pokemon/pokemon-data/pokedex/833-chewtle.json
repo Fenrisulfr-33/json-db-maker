@@ -1,0 +1,84 @@
+{
+  "_id": 833,
+  "key": "chewtle",
+  "name": {
+    "english": "Chewtle",
+    "spanish": "Chewtle",
+    "italian": "Chewtle",
+    "japanese": "カムカメ",
+    "chinese": "咬咬龟 ",
+    "korean": "",
+    "german": "Kamehaps",
+    "french": "Khélocrok"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 57,
+    "sword-shield": 42,
+    "isle-of-armor": 56
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Strong Jaw",
+      "id": 173
+    },
+    "two": {
+      "name": "Shell Armor",
+      "id": 75
+    },
+    "hidden": {
+      "name": "Swift Swim",
+      "id": 33
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 64,
+    "def": 50,
+    "spatk": 38,
+    "spdef": 38,
+    "spd": 44,
+    "total": 284
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "8.5 kg (18.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 284,
+  "generation": 8,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Snapping Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 57,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "chew": "",
+    "turtle": ""
+  },
+  "pokedexEntries": {
+    "Chewtle": [
+      {
+        "game": "sword",
+        "desc": "Apparently the itch of its teething impels it to snap its jaws at anything in front of it."
+      },
+      {
+        "game": "shield",
+        "desc": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go."
+      }
+    ]
+  }
+}

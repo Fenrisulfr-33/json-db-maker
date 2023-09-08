@@ -1,0 +1,82 @@
+{
+  "_id": 831,
+  "key": "wooloo",
+  "name": {
+    "english": "Wooloo",
+    "spanish": "Wooloo",
+    "italian": "Wooloo",
+    "japanese": "ウールー",
+    "chinese": "毛辫羊",
+    "korean": "",
+    "german": "Wolly",
+    "french": "Moumouton"
+  },
+  "pokedexNumber": {
+    "sword-shield": 34,
+    "crown-tundra": 3
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Fluffy",
+      "id": 218
+    },
+    "two": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "hidden": {
+      "name": "Bulletproof",
+      "id": 171
+    }
+  },
+  "baseStats": {
+    "hp": 42,
+    "atk": 40,
+    "def": 55,
+    "spatk": 40,
+    "spdef": 45,
+    "spd": 48,
+    "total": 270
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "6.0 kg (13.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 283,
+  "generation": 8,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Sheep Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 122,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "wool": "a sheep’s hair"
+  },
+  "pokedexEntries": {
+    "Wooloo": [
+      {
+        "game": "sword",
+        "desc": "Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed."
+      },
+      {
+        "game": "shield",
+        "desc": "If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+      }
+    ]
+  }
+}

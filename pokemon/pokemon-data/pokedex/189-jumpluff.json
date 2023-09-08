@@ -1,0 +1,138 @@
+{
+  "_id": 189,
+  "key": "jumpluff",
+  "name": {
+    "english": "Jumpluff",
+    "spanish": "Jumpluff",
+    "italian": "Jumpluff",
+    "japanese": "ワタッコ",
+    "chinese": "毽子棉",
+    "korean": "",
+    "german": "Papungha",
+    "french": "Cotovol"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 18,
+    "crystal": 69,
+    "gold-silver": 69
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Leaf Guard",
+      "id": 102
+    },
+    "hidden": {
+      "name": "Infiltrator",
+      "id": 151
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 55,
+    "def": 70,
+    "spatk": 55,
+    "spdef": 95,
+    "spd": 110,
+    "total": 460
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "3.0 kg (6.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 66,
+  "generation": 2,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "species": "Cottonweed Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 207,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "jump": "as in hop-skip-jump",
+    "fluff": "light downy material"
+  },
+  "pokedexEntries": {
+    "Jumpluff": [
+      {
+        "game": "gold",
+        "desc": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world."
+      },
+      {
+        "game": "silver",
+        "desc": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring."
+      },
+      {
+        "game": "crystal",
+        "desc": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world."
+      },
+      {
+        "game": "emerald",
+        "desc": "JUMPLUFF ride warm southern winds to cross the sea and fly to foreign lands. This POKéMON lands when it encounters cold air while it is floating."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Once it catches the wind, it deftly controls its cotton-puff spores--it can even float around the world."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+      },
+      {
+        "game": "x",
+        "desc": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+      },
+      {
+        "game": "y",
+        "desc": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+      }
+    ]
+  }
+}

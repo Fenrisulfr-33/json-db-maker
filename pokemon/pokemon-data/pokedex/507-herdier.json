@@ -1,0 +1,118 @@
+{
+  "_id": 507,
+  "key": "herdier",
+  "name": {
+    "english": "Herdier",
+    "spanish": "Herdier",
+    "italian": "Herdier",
+    "japanese": "ハーデリア",
+    "chinese": "哈约克",
+    "korean": "",
+    "german": "Terribark",
+    "french": "Ponchien"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 114
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Sand Rush",
+      "id": 146
+    },
+    "hidden": {
+      "name": "Scrappy",
+      "id": 113
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 80,
+    "def": 65,
+    "spatk": 35,
+    "spdef": 65,
+    "spd": 60,
+    "total": 370
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "14.7 kg (32.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 173,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Loyal Dog Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 130,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "herd": "to drive animals (e.g. sheep) into a group",
+    "terrier": "a breed of dog"
+  },
+  "pokedexEntries": {
+    "Herdier": [
+      {
+        "game": "black",
+        "desc": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives."
+      },
+      {
+        "game": "white",
+        "desc": "It loyally follows its Trainer’s orders. For ages, they have helped Trainers raise Pokémon."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives."
+      },
+      {
+        "game": "sun",
+        "desc": "Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed makes this a troublesome Pokémon to train."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon obeys its master’s orders faithfully. However, it refuses to listen to anything said by a person it doesn’t respect."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The longer its black fur grows, the harder and more impervious it gets. Claws and fangs can’t easily penetrate it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago."
+      },
+      {
+        "game": "sword",
+        "desc": "Herdier is a very smart and friendly Pokémon. So much so that there’s a theory that Herdier was the first Pokémon to partner with people."
+      },
+      {
+        "game": "shield",
+        "desc": "The black fur that covers this Pokémon’s body is dense and springy. Even sharp fangs bounce right off."
+      }
+    ]
+  }
+}

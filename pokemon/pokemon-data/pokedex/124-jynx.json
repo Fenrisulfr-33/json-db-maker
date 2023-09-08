@@ -1,0 +1,166 @@
+{
+  "_id": 124,
+  "key": "jynx",
+  "name": {
+    "english": "Jynx",
+    "spanish": "Jynx",
+    "italian": "Jynx",
+    "japanese": "ルージュラ",
+    "chinese": "迷唇姐",
+    "korean": "",
+    "german": "Rossana",
+    "french": "Lippoutou"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 14,
+    "crystal": 155,
+    "gold-silver": 155,
+    "yellow": 124,
+    "red-blue": 124
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Forewarn",
+      "id": 108
+    },
+    "hidden": {
+      "name": "Dry Skin",
+      "id": 87
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 50,
+    "def": 35,
+    "spatk": 115,
+    "spdef": 95,
+    "spd": 95,
+    "total": 455
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "40.6 kg (89.5 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 81,
+  "generation": 1,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Human Shape Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 159,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "jinx": "curse or bad luck"
+  },
+  "pokedexEntries": {
+    "Jynx": [
+      {
+        "game": "red-blue",
+        "desc": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
+      },
+      {
+        "game": "yellow",
+        "desc": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks."
+      },
+      {
+        "game": "gold",
+        "desc": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling."
+      },
+      {
+        "game": "silver",
+        "desc": "It speaks a language similar to that of humans. However, it seems to use dancing to communicate."
+      },
+      {
+        "game": "crystal",
+        "desc": "It has several different cry patterns, each of which seems to have its own meaning."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It speaks using a language that sounds human. Research is under way to determine what is being said."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
+      },
+      {
+        "game": "emerald",
+        "desc": "A JYNX sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It speaks a language similar to that of humans. However, it seems to use dancing to communicate."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+      },
+      {
+        "game": "x",
+        "desc": "It wiggles its hips as it walks. It can cause people to dance in unison with it."
+      },
+      {
+        "game": "y",
+        "desc": "It speaks using a language that sounds human. Research is under way to determine what is being said."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks."
+      },
+      {
+        "game": "sword",
+        "desc": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice."
+      },
+      {
+        "game": "shield",
+        "desc": "The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+      }
+    ]
+  }
+}

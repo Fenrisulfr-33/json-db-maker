@@ -1,0 +1,134 @@
+{
+  "_id": 353,
+  "key": "shuppet",
+  "name": {
+    "english": "Shuppet",
+    "spanish": "Shuppet",
+    "italian": "Shuppet",
+    "japanese": "カゲボウズ",
+    "chinese": "怨影娃娃",
+    "korean": "",
+    "german": "Shuppet",
+    "french": "Polichombr"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 298
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Insomnia",
+      "id": 15
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Cursed Body",
+      "id": 130
+    }
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 75,
+    "def": 35,
+    "spatk": 63,
+    "spdef": 33,
+    "spd": 45,
+    "total": 295
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "2.3 kg (5.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 120,
+  "generation": 3,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Puppet Pokémon",
+  "catchRate": 225,
+  "baseFriendship": 35,
+  "baseExp": 59,
+  "growthRate": "Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "shadow": "dark area created by blocking out light",
+    "puppet": "referring to ‘shadow puppet’, casting shadow shapes with one’s hands"
+  },
+  "pokedexEntries": {
+    "Shuppet": [
+      {
+        "game": "ruby",
+        "desc": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SHUPPET grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people."
+      },
+      {
+        "game": "emerald",
+        "desc": "This POKéMON roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night."
+      },
+      {
+        "game": "black-white",
+        "desc": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger."
+      },
+      {
+        "game": "x",
+        "desc": "It uses its horn to feed on envy and malice--or so it’s said. It’s very active at night."
+      },
+      {
+        "game": "y",
+        "desc": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person’s home."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It eats up emotions like malice, jealousy, and resentment, so some people are grateful for its presence."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”"
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "They love vengeful emotions and hang in rows under the eaves of houses where vengeful people live."
+      }
+    ]
+  }
+}

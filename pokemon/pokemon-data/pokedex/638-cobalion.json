@@ -1,0 +1,95 @@
+{
+  "_id": 638,
+  "key": "cobalion",
+  "name": {
+    "english": "Cobalion",
+    "spanish": "Cobalion",
+    "italian": "Cobalion",
+    "japanese": "コバルオン",
+    "chinese": "勾帕路翁",
+    "korean": "",
+    "german": "Kobalium",
+    "french": "Cobaltium"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 205
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Justified",
+      "id": 154
+    }
+  },
+  "baseStats": {
+    "hp": 91,
+    "atk": 90,
+    "def": 129,
+    "spatk": 90,
+    "spdef": 72,
+    "spd": 108,
+    "total": 580
+  },
+  "info": {
+    "height": "2.1 m (6′11″)",
+    "weight": "250.0 kg (551.2 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Iron Will Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "cobalt": "blueish-grey metal",
+    "lion": "large ferocious cat"
+  },
+  "pokedexEntries": {
+    "Cobalion": [
+      {
+        "game": "black",
+        "desc": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed."
+      },
+      {
+        "game": "white",
+        "desc": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon appears in a legend alongside Terrakion and Virizion, fighting against humans in defense of the Unova region’s Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "From the moment it’s born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes."
+      }
+    ]
+  }
+}

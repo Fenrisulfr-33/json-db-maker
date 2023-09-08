@@ -1,0 +1,160 @@
+{
+  "_id": 32,
+  "key": "nidoran♂",
+  "name": {
+    "english": "Nidoran♂",
+    "spanish": "Nidoran♂",
+    "italian": "Nidoran♂",
+    "japanese": "ニドラン♂",
+    "chinese": "尼多朗",
+    "korean": "",
+    "german": "Nidoran♂",
+    "french": "Nidoran♂"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 68,
+    "crystal": 98,
+    "gold-silver": 98,
+    "yellow": 32,
+    "red-blue": 32
+  },
+  "type": {
+    "one": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "hidden": {
+      "name": "Hustle",
+      "id": 55
+    }
+  },
+  "baseStats": {
+    "hp": 46,
+    "atk": 57,
+    "def": 40,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 50,
+    "total": 273
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "9.0 kg (19.8 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": 13,
+  "generation": 1,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "species": "Poison Pin Pokémon",
+  "catchRate": 235,
+  "baseFriendship": 50,
+  "baseExp": 55,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "nidoru": "Japanese for ‘needle’",
+    "rhino": "large African mammal",
+    "♂": "male symbol"
+  },
+  "pokedexEntries": {
+    "Nidoran-m": [
+      {
+        "game": "red-blue",
+        "desc": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
+      },
+      {
+        "game": "yellow",
+        "desc": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting."
+      },
+      {
+        "game": "gold",
+        "desc": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison."
+      },
+      {
+        "game": "silver",
+        "desc": "It raises its big ears to check its surroundings. It will strike first if it senses any danger."
+      },
+      {
+        "game": "crystal",
+        "desc": "It constantly moves its large ears in many directions in order to detect danger right away."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this POKéMON’s notice."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
+      },
+      {
+        "game": "emerald",
+        "desc": "The male NIDORAN has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this POKéMON’s notice."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It raises its big ears to check its surroundings. It will strike first if it senses any danger."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+      },
+      {
+        "game": "x",
+        "desc": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+      },
+      {
+        "game": "y",
+        "desc": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon’s notice."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting."
+      },
+      {
+        "game": "sword",
+        "desc": "The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears."
+      },
+      {
+        "game": "shield",
+        "desc": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection."
+      }
+    ]
+  }
+}

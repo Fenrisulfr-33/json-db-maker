@@ -1,0 +1,93 @@
+{
+  "_id": 541,
+  "key": "swadloon",
+  "name": {
+    "english": "Swadloon",
+    "spanish": "Swadloon",
+    "italian": "Swadloon",
+    "japanese": "クルマユ",
+    "chinese": "宝包茧",
+    "korean": "",
+    "german": "Folikon",
+    "french": "Couverdure"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Bug",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Leaf Guard",
+      "id": 102
+    },
+    "two": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 63,
+    "def": 90,
+    "spatk": 50,
+    "spdef": 80,
+    "spd": 42,
+    "total": 380
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "7.3 kg (16.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 186,
+  "generation": 5,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Leaf-Wrapped Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 133,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "swaddle": "to bind with strips of cloth",
+    "cocoon": "a pupal casing made by some insects"
+  },
+  "pokedexEntries": {
+    "Swadloon": [
+      {
+        "game": "black",
+        "desc": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life."
+      },
+      {
+        "game": "white",
+        "desc": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests."
+      }
+    ]
+  }
+}

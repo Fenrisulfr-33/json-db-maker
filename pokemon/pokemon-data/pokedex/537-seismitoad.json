@@ -1,0 +1,101 @@
+{
+  "_id": 537,
+  "key": "seismitoad",
+  "name": {
+    "english": "Seismitoad",
+    "spanish": "Seismitoad",
+    "italian": "Seismitoad",
+    "japanese": "ガマゲロゲ",
+    "chinese": "蟾蜍王",
+    "korean": "",
+    "german": "Branawarz",
+    "french": "Crapustule"
+  },
+  "pokedexNumber": {
+    "sword-shield": 134
+  },
+  "type": {
+    "one": "Water",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Poison Touch",
+      "id": 143
+    },
+    "hidden": {
+      "name": "Water Absorb",
+      "id": 11
+    }
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 95,
+    "def": 75,
+    "spatk": 85,
+    "spdef": 75,
+    "spd": 74,
+    "total": 509
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "62.0 kg (136.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 185,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Vibration Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 229,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "seismic": "of or relating to earthquakes",
+    "toad": "a species of amphibian"
+  },
+  "pokedexEntries": {
+    "Seismitoad": [
+      {
+        "game": "black",
+        "desc": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents."
+      },
+      {
+        "game": "white",
+        "desc": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "By putting power into its bumps, it creates vibrations and increases the power of its punches."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents."
+      },
+      {
+        "game": "sword",
+        "desc": "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages."
+      }
+    ]
+  }
+}

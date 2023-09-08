@@ -1,0 +1,79 @@
+{
+  "_id": 819,
+  "key": "skwovet",
+  "name": {
+    "english": "Skwovet",
+    "spanish": "Skwovet",
+    "italian": "Skwovet",
+    "japanese": "ホシガリス",
+    "chinese": "贪心栗鼠",
+    "korean": "",
+    "german": "Raffel",
+    "french": "Rongourmand"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 29,
+    "sword-shield": 24,
+    "isle-of-armor": 9,
+    "crown-tundra": 5
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cheek Pouch",
+      "id": 167
+    },
+    "hidden": {
+      "name": "Gluttony",
+      "id": 82
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 55,
+    "def": 55,
+    "spatk": 35,
+    "spdef": 35,
+    "spd": 25,
+    "total": 275
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.5 kg (5.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 277,
+  "generation": 8,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Cheeky Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 55,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "squirrel": "",
+    "covet": ""
+  },
+  "pokedexEntries": {
+    "Skwovet": [
+      {
+        "game": "sword",
+        "desc": "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries."
+      },
+      {
+        "game": "shield",
+        "desc": "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries."
+      }
+    ]
+  }
+}

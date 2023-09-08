@@ -1,0 +1,93 @@
+{
+  "_id": 581,
+  "key": "swanna",
+  "name": {
+    "english": "Swanna",
+    "spanish": "Swanna",
+    "italian": "Swanna",
+    "japanese": "スワンナ",
+    "chinese": "舞天鹅",
+    "korean": "",
+    "german": "Swaroness",
+    "french": "Lakmécygne"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Big Pecks",
+      "id": 145
+    },
+    "hidden": {
+      "name": "Hydration",
+      "id": 93
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 87,
+    "def": 63,
+    "spatk": 87,
+    "spdef": 63,
+    "spd": 98,
+    "total": 473
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "24.2 kg (53.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 202,
+  "generation": 5,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Flying"
+  ],
+  "species": "White Bird Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 166,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "swan": "a species of bird"
+  },
+  "pokedexEntries": {
+    "Swanna": [
+      {
+        "game": "black",
+        "desc": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock."
+      },
+      {
+        "game": "white",
+        "desc": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock."
+      }
+    ]
+  }
+}

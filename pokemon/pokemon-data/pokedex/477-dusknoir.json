@@ -1,0 +1,111 @@
+{
+  "_id": 477,
+  "key": "dusknoir",
+  "name": {
+    "english": "Dusknoir",
+    "spanish": "Dusknoir",
+    "italian": "Dusknoir",
+    "japanese": "ヨノワール",
+    "chinese": "黑夜魔灵",
+    "korean": "",
+    "german": "Zwirrfinst",
+    "french": "Noctunoir"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 160
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Frisk",
+      "id": 119
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 100,
+    "def": 135,
+    "spatk": 65,
+    "spdef": 135,
+    "spd": 45,
+    "total": 525
+  },
+  "info": {
+    "height": "2.2 m (7′03″)",
+    "weight": "106.6 kg (235.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 121,
+  "generation": 4,
+  "evs": {
+    "def": 1,
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Gripper Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 236,
+  "growthRate": "Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "dusk": "the partial darkness between day and night",
+    "noir": "French for ‘black’"
+  },
+  "pokedexEntries": {
+    "Dusknoir": [
+      {
+        "game": "diamond-pearl",
+        "desc": "The antenna on its head captures radio waves from the world of spirits that command it to take people there."
+      },
+      {
+        "game": "platinum",
+        "desc": "It is said to take lost spirits into its pliant body and guide them home."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "This feared Pokémon is said to travel to worlds unknown. Some even believe that it takes lost spirits along with it."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is said to take lost spirits into its pliant body and guide them home."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It is said to take lost spirits into its pliant body and guide them home."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The antenna on its head captures radio waves from the world of spirits that command it to take people there."
+      },
+      {
+        "game": "sword",
+        "desc": "At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own."
+      },
+      {
+        "game": "shield",
+        "desc": "With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "The antenna on its head captures radio waves from the world of spirits that command it to take people there."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely."
+      }
+    ]
+  }
+}

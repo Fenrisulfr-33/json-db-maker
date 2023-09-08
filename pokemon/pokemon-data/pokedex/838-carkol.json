@@ -1,0 +1,85 @@
+{
+  "_id": 838,
+  "key": "carkol",
+  "name": {
+    "english": "Carkol",
+    "spanish": "Carkol",
+    "italian": "Carkol",
+    "japanese": "トロッゴン",
+    "chinese": "大炭车",
+    "korean": "",
+    "german": "Wagong",
+    "french": "Wagomine"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 92,
+    "sword-shield": 162,
+    "crown-tundra": 177
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Steam Engine",
+      "id": 243
+    },
+    "two": {
+      "name": "Flame Body",
+      "id": 49
+    },
+    "hidden": {
+      "name": "Flash Fire",
+      "id": 18
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 60,
+    "def": 90,
+    "spatk": 60,
+    "spdef": 70,
+    "spd": 50,
+    "total": 410
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "78.0 kg (172.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 286,
+  "generation": 8,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Coal Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 144,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "carbon": "",
+    "coal": ""
+  },
+  "pokedexEntries": {
+    "Carkol": [
+      {
+        "game": "sword",
+        "desc": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region."
+      },
+      {
+        "game": "shield",
+        "desc": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit."
+      }
+    ]
+  }
+}

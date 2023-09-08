@@ -1,0 +1,111 @@
+{
+  "_id": 402,
+  "key": "kricketune",
+  "name": {
+    "english": "Kricketune",
+    "spanish": "Kricketune",
+    "italian": "Kricketune",
+    "japanese": "コロトック",
+    "chinese": "音箱蟀",
+    "korean": "",
+    "german": "Zirpeise",
+    "french": "Mélokrik"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 34,
+    "legends-arceus": 40
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "hidden": {
+      "name": "Technician",
+      "id": 101
+    }
+  },
+  "baseStats": {
+    "hp": 77,
+    "atk": 85,
+    "def": 51,
+    "spatk": 55,
+    "spdef": 51,
+    "spd": 65,
+    "total": 384
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "25.5 kg (56.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 133,
+  "generation": 4,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Cricket Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 134,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "cricket": "a species of insect",
+    "tune": "music"
+  },
+  "pokedexEntries": {
+    "Kricketune": [
+      {
+        "game": "diamond",
+        "desc": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib."
+      },
+      {
+        "game": "pearl",
+        "desc": "It signals its emotions with its melodies. Scientists are studying these melodic patterns."
+      },
+      {
+        "game": "platinum",
+        "desc": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It signals its emotions with its melodies. Scientists are studying these melodic patterns."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It signals its emotions with its melodies. Scientists are studying these melodic patterns."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It uses its cutlass-like arms to produce sound, the melody of which varies from individual to individual. It is a worthwhile endeavor to seek out one’s favorite tunes."
+      }
+    ]
+  }
+}

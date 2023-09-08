@@ -1,0 +1,122 @@
+{
+  "_id": 442,
+  "key": "spiritomb",
+  "name": {
+    "english": "Spiritomb",
+    "spanish": "Spiritomb",
+    "italian": "Spiritomb",
+    "japanese": "ミカルゲ",
+    "chinese": "花岩怪",
+    "korean": "",
+    "german": "Kryppuk",
+    "french": "Spiritomb"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 302,
+    "legends-arceus": 139,
+    "crown-tundra": 47
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Infiltrator",
+      "id": 151
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 92,
+    "def": 108,
+    "spatk": 92,
+    "spdef": 108,
+    "spd": 35,
+    "total": 485
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "108.0 kg (238.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "def": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Forbidden Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "spirit": "a ghost",
+    "tomb": "a burial chamber"
+  },
+  "pokedexEntries": {
+    "Spiritomb": [
+      {
+        "game": "diamond",
+        "desc": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone."
+      },
+      {
+        "game": "pearl",
+        "desc": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago."
+      },
+      {
+        "game": "sword",
+        "desc": "Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix."
+      },
+      {
+        "game": "shield",
+        "desc": "All Spiritomb’s mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It is a Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits."
+      }
+    ]
+  }
+}

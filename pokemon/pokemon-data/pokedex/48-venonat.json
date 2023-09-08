@@ -1,0 +1,151 @@
+{
+  "_id": 48,
+  "key": "venonat",
+  "name": {
+    "english": "Venonat",
+    "spanish": "Venonat",
+    "italian": "Venonat",
+    "japanese": "コンパン",
+    "chinese": "毛球",
+    "korean": "",
+    "german": "Bluzuk",
+    "french": "Mimitoss"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 256,
+    "crystal": 109,
+    "gold-silver": 109,
+    "yellow": 48,
+    "red-blue": 48
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "two": {
+      "name": "Tinted Lens",
+      "id": 110
+    },
+    "hidden": {
+      "name": "Run Away",
+      "id": 50
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 55,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 55,
+    "spd": 45,
+    "total": 305
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "30.0 kg (66.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 20,
+  "generation": 1,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Insect Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "venom": "poison",
+    "gnat": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Venonat": [
+      {
+        "game": "red-blue",
+        "desc": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night."
+      },
+      {
+        "game": "yellow",
+        "desc": "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes."
+      },
+      {
+        "game": "gold",
+        "desc": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness."
+      },
+      {
+        "game": "silver",
+        "desc": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light."
+      },
+      {
+        "game": "crystal",
+        "desc": "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+      },
+      {
+        "game": "x",
+        "desc": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+      },
+      {
+        "game": "y",
+        "desc": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its large eyes act as a radar. In a bright place, you can see that they are clusters of many tiny eyes."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+      }
+    ]
+  }
+}

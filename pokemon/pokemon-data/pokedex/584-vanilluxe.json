@@ -1,0 +1,119 @@
+{
+  "_id": 584,
+  "key": "vanilluxe",
+  "name": {
+    "english": "Vanilluxe",
+    "spanish": "Vanilluxe",
+    "italian": "Vanilluxe",
+    "japanese": "バイバニラ",
+    "chinese": "双倍多多冰",
+    "korean": "",
+    "german": "Gelatwino",
+    "french": "Sorbouboul"
+  },
+  "pokedexNumber": {
+    "sword-shield": 74,
+    "crown-tundra": 24
+  },
+  "type": {
+    "one": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Ice Body",
+      "id": 115
+    },
+    "two": {
+      "name": "Snow Warning",
+      "id": 117
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 95,
+    "def": 85,
+    "spatk": 110,
+    "spdef": 95,
+    "spd": 79,
+    "total": 535
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "57.5 kg (126.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 203,
+  "generation": 5,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Snowstorm Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 241,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "vanilla": "standard ice cream flavor",
+    "deluxe": "high quality"
+  },
+  "pokedexEntries": {
+    "Vanilluxe": [
+      {
+        "game": "black",
+        "desc": "Swallowing large amounts of water, they make snow clouds inside their bodies and attack their foes with violent blizzards."
+      },
+      {
+        "game": "white",
+        "desc": "If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards."
+      },
+      {
+        "game": "sun",
+        "desc": "Each of its two heads has a brain, and when they are in agreement, it attacks its enemies by exhaling a violent blizzard."
+      },
+      {
+        "game": "moon",
+        "desc": "Even if it loses one of its heads, it can live relatively problem-free. It makes snow clouds inside its body."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It blasts blizzards from its two mouths. It can create snow anywhere, so it gets a lot of love from skiers and snowboarders."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Vanilluxe is born when two Vanillish, half-melted by the day’s light, stick to each other and freeze together in the cold return of night."
+      },
+      {
+        "game": "sword",
+        "desc": "When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe."
+      },
+      {
+        "game": "shield",
+        "desc": "People believe this Pokémon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit."
+      }
+    ]
+  }
+}

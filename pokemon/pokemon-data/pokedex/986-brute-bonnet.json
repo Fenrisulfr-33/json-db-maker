@@ -1,0 +1,68 @@
+{
+  "_id": 986,
+  "key": "brute-bonnet",
+  "name": {
+    "english": "Brute-Bonnet"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 378
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Protosynthesis",
+      "id": 281
+    },
+    "hidden": {
+      "name": "Protosynthesis",
+      "id": 281
+    }
+  },
+  "baseStats": {
+    "hp": 111,
+    "atk": 127,
+    "def": 99,
+    "spatk": 79,
+    "spdef": 99,
+    "spd": 55,
+    "total": 570
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "21.0 kg (46.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "brute": "savage, beast",
+    "bonnet": "wide sun hat"
+  },
+  "pokedexEntries": {
+    "Brute-bonnet": [
+      {
+        "game": "scarlet",
+        "desc": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon."
+      },
+      {
+        "game": "violet",
+        "desc": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+      }
+    ]
+  }
+}

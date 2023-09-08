@@ -1,0 +1,118 @@
+{
+  "_id": 260,
+  "key": "swampert",
+  "name": {
+    "english": "Swampert",
+    "spanish": "Swampert",
+    "italian": "Swampert",
+    "japanese": "ラグラージ",
+    "chinese": "巨沼怪",
+    "korean": "",
+    "german": "Sumpex",
+    "french": "Laggron"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Damp",
+      "id": 6
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 110,
+    "def": 90,
+    "spatk": 85,
+    "spdef": 90,
+    "spd": 60,
+    "total": 535
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "102.0 kg (224.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 88,
+  "generation": 3,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "species": "Mud Fish Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 241,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "swamp": "boggy area",
+    "expert": "possessing special skill or knowledge"
+  },
+  "pokedexEntries": {
+    "Swampert": [
+      {
+        "game": "ruby",
+        "desc": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SWAMPERT predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nest on beautiful beaches."
+      },
+      {
+        "game": "emerald",
+        "desc": "If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its arms are hard as rock. With one swing, it can break a boulder into pieces."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms."
+      },
+      {
+        "game": "x",
+        "desc": "Its arms are hard as rock. With one swing, it can break a boulder into pieces."
+      },
+      {
+        "game": "y",
+        "desc": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms."
+      }
+    ]
+  }
+}

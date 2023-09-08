@@ -1,0 +1,72 @@
+{
+  "_id": 944,
+  "key": "shroodle",
+  "name": {
+    "english": "Shroodle"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 202
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Unburden",
+      "id": 84
+    },
+    "two": {
+      "name": "Pickpocket",
+      "id": 124
+    },
+    "hidden": {
+      "name": "Prankster",
+      "id": 158
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 35,
+    "spatk": 40,
+    "spdef": 35,
+    "spd": 75,
+    "total": 290
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "0.7 kg (1.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Toxic Mouse Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "shrew": "a small mouse-like rodent",
+    "doodle": "a rough drawing or sketch"
+  },
+  "pokedexEntries": {
+    "Shroodle": [
+      {
+        "game": "scarlet",
+        "desc": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire."
+      },
+      {
+        "game": "violet",
+        "desc": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+      }
+    ]
+  }
+}

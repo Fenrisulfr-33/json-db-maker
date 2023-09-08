@@ -1,0 +1,93 @@
+{
+  "_id": 542,
+  "key": "leavanny",
+  "name": {
+    "english": "Leavanny",
+    "spanish": "Leavanny",
+    "italian": "Leavanny",
+    "japanese": "ハハコモリ",
+    "chinese": "保姆虫",
+    "korean": "",
+    "german": "Matrifol",
+    "french": "Manternel"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Bug",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 103,
+    "def": 80,
+    "spatk": 70,
+    "spdef": 80,
+    "spd": 92,
+    "total": 500
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "20.5 kg (45.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 186,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Nurturing Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 225,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "leaves": "plant foliage",
+    "nanny": "carer of children"
+  },
+  "pokedexEntries": {
+    "Leavanny": [
+      {
+        "game": "black",
+        "desc": "Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk."
+      },
+      {
+        "game": "white",
+        "desc": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle."
+      }
+    ]
+  }
+}

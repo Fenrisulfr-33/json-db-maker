@@ -1,0 +1,167 @@
+{
+  "_id": 10,
+  "key": "caterpie",
+  "name": {
+    "english": "Caterpie",
+    "spanish": "Caterpie",
+    "italian": "Caterpie",
+    "japanese": "キャタピー",
+    "chinese": "绿毛虫",
+    "korean": "",
+    "german": "Raupy",
+    "french": "Chenipan"
+  },
+  "pokedexNumber": {
+    "sword-shield": 13,
+    "crystal": 24,
+    "gold-silver": 24,
+    "yellow": 10,
+    "red-blue": 10
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shield Dust",
+      "id": 19
+    },
+    "hidden": {
+      "name": "Run Away",
+      "id": 50
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 35,
+    "spatk": 20,
+    "spdef": 20,
+    "spd": 45,
+    "total": 195
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.9 kg (6.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 4,
+  "generation": 1,
+  "evs": {},
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Worm Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 39,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "caterpillar": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Caterpie": [
+      {
+        "game": "red-blue",
+        "desc": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+      },
+      {
+        "game": "yellow",
+        "desc": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself."
+      },
+      {
+        "game": "gold",
+        "desc": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies."
+      },
+      {
+        "game": "silver",
+        "desc": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage."
+      },
+      {
+        "game": "crystal",
+        "desc": "It crawls into foliage where it camouflages itself among leaves that are the same color as its body."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POKéMON releases a terrifically strong odor."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly."
+      },
+      {
+        "game": "x",
+        "desc": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies."
+      },
+      {
+        "game": "y",
+        "desc": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor."
+      },
+      {
+        "game": "sun",
+        "desc": "When attacked by bird Pokémon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey."
+      },
+      {
+        "game": "moon",
+        "desc": "It’s easy to catch, and it grows quickly, making it one of the top recommendations for novice Pokémon Trainers."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself."
+      },
+      {
+        "game": "sword",
+        "desc": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies."
+      },
+      {
+        "game": "shield",
+        "desc": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It releases a stench from its red antennae to repel enemies. It grows by molting repeatedly."
+      }
+    ]
+  }
+}

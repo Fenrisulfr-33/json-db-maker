@@ -1,0 +1,89 @@
+{
+  "_id": 732,
+  "key": "trumbeak",
+  "name": {
+    "english": "Trumbeak",
+    "spanish": "Trumbeak",
+    "italian": "Trumbeak",
+    "japanese": "ケララッパ",
+    "chinese": "喇叭啄鸟",
+    "korean": "",
+    "german": "Trompeck",
+    "french": "Piclairon"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Skill Link",
+      "id": 92
+    },
+    "hidden": {
+      "name": "Pickup",
+      "id": 53
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 85,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 50,
+    "spd": 75,
+    "total": 355
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "14.8 kg (32.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 253,
+  "generation": 7,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Bugle Beak Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 124,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "trumpet": "brass instrument",
+    "beak": "a bird’s bill"
+  },
+  "pokedexEntries": {
+    "Trumbeak": [
+      {
+        "game": "sun",
+        "desc": "It eats berries and stores their seeds in its beak. When it encounters enemies or prey, it fires off all the seeds in a burst."
+      },
+      {
+        "game": "moon",
+        "desc": "By bending its beak, it can produce a variety of calls and brand itself a noisy nuisance for its neighbors."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It can bend the tip of its beak to produce over a hundred different cries at will."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_id": 1004,
+  "key": "chi-yu",
+  "name": {
+    "english": "Chi-Yu"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 396
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beads of Ruin",
+      "id": 287
+    },
+    "hidden": {
+      "name": "Beads of Ruin",
+      "id": 287
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 80,
+    "def": 80,
+    "spatk": 135,
+    "spdef": 120,
+    "spd": 100,
+    "total": 570
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "4.9 kg (10.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ruinous Pokémon",
+  "catchRate": 6,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "jinyu": "Chinese for ‘goldfish’"
+  },
+  "pokedexEntries": {
+    "Chi-yu": [
+      {
+        "game": "scarlet",
+        "desc": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand."
+      },
+      {
+        "game": "violet",
+        "desc": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+      }
+    ]
+  }
+}

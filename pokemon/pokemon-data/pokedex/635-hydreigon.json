@@ -1,0 +1,98 @@
+{
+  "_id": 635,
+  "key": "hydreigon",
+  "name": {
+    "english": "Hydreigon",
+    "spanish": "Hydreigon",
+    "italian": "Hydreigon",
+    "japanese": "サザンドラ",
+    "chinese": "三首恶龙",
+    "korean": "",
+    "german": "Trikephalo",
+    "french": "Trioxhydre"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 372,
+    "sword-shield": 388,
+    "crown-tundra": 138
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 92,
+    "atk": 105,
+    "def": 90,
+    "spatk": 125,
+    "spdef": 90,
+    "spd": 98,
+    "total": 600
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "160.0 kg (352.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 222,
+  "generation": 5,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Brutal Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "drei": "german for ‘three’",
+    "hydra": "mythical multi-headed creature",
+    "dragon": "mythical fire-breathing creature"
+  },
+  "pokedexEntries": {
+    "Hydreigon": [
+      {
+        "game": "black",
+        "desc": "This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack."
+      },
+      {
+        "game": "white",
+        "desc": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"
+      },
+      {
+        "game": "sword",
+        "desc": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves."
+      },
+      {
+        "game": "shield",
+        "desc": "The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down."
+      }
+    ]
+  }
+}

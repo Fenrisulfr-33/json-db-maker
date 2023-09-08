@@ -1,0 +1,102 @@
+{
+  "_id": 532,
+  "key": "timburr",
+  "name": {
+    "english": "Timburr",
+    "spanish": "Timburr",
+    "italian": "Timburr",
+    "japanese": "ドッコラー",
+    "chinese": "搬运小匠",
+    "korean": "",
+    "german": "Praktibalk",
+    "french": "Charpenti"
+  },
+  "pokedexNumber": {
+    "sword-shield": 171,
+    "crown-tundra": 57
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "two": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 55,
+    "spatk": 25,
+    "spdef": 35,
+    "spd": 35,
+    "total": 305
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "12.5 kg (27.6 lbs)"
+  },
+  "gender": {
+    "male": "75%",
+    "female": "25%",
+    "genderless": false
+  },
+  "evolution": 184,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Muscular Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 70,
+  "baseExp": 61,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "timber": "wood"
+  },
+  "pokedexEntries": {
+    "Timburr": [
+      {
+        "game": "black",
+        "desc": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty."
+      },
+      {
+        "game": "white",
+        "desc": "These Pokémon appear at building sites and help out with construction. They always carry squared logs."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "These Pokémon appear at building sites and help out with construction. They always carry squared logs."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs."
+      },
+      {
+        "game": "sword",
+        "desc": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum."
+      },
+      {
+        "game": "shield",
+        "desc": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve."
+      }
+    ]
+  }
+}

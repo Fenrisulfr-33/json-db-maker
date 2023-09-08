@@ -1,0 +1,166 @@
+{
+  "_id": 6,
+  "key": "charizard",
+  "name": {
+    "english": "Charizard",
+    "spanish": "Charizard",
+    "italian": "Charizard",
+    "japanese": "リザードン",
+    "chinese": "喷火龙",
+    "korean": "",
+    "german": "Glurak",
+    "french": "Dracaufeu"
+  },
+  "pokedexNumber": {
+    "sword-shield": 380,
+    "crystal": 236,
+    "gold-silver": 236,
+    "yellow": 6,
+    "red-blue": 6
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Solar Power",
+      "id": 94
+    }
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spatk": 109,
+    "spdef": 85,
+    "spd": 100,
+    "total": 534
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "90.5 kg (199.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 2,
+  "generation": 1,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Flame Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 240,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "char": "to burn or singe",
+    "lizard": "a reptile"
+  },
+  "pokedexEntries": {
+    "Charizard": [
+      {
+        "game": "red-blue",
+        "desc": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
+      },
+      {
+        "game": "yellow",
+        "desc": "When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely."
+      },
+      {
+        "game": "gold",
+        "desc": "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a whitish-blue color."
+      },
+      {
+        "game": "silver",
+        "desc": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies."
+      },
+      {
+        "game": "crystal",
+        "desc": "It uses its wings to fly high. The temperature of its fire increases as it gains experience in battle."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "CHARIZARD flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its wings can carry this POKéMON close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames."
+      },
+      {
+        "game": "emerald",
+        "desc": "A CHARIZARD flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If CHARIZARD becomes furious, the flame at the tip of its tail flares up in a light blue shade."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Breathing intense, hot flames, it can melt almost anything. Its breath inflicts terrible pain on enemies."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles."
+      },
+      {
+        "game": "x",
+        "desc": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely."
+      },
+      {
+        "game": "y",
+        "desc": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "When this Pokémon expels a blast of superhot fire, the red flame at the tip of its tails burns more intensely."
+      },
+      {
+        "game": "sword",
+        "desc": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames."
+      },
+      {
+        "game": "shield",
+        "desc": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "This colossal, flame-winged figure of a Charizard was brought about by Gigantamax energy."
+      },
+      {
+        "game": "shield",
+        "desc": "The flame inside its body burns hotter than 3,600 degrees Fahrenheit. When Charizard roars, that temperature climbs even higher."
+      }
+    ]
+  }
+}

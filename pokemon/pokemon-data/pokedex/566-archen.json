@@ -1,0 +1,111 @@
+{
+  "_id": 566,
+  "key": "archen",
+  "name": {
+    "english": "Archen",
+    "spanish": "Archen",
+    "italian": "Archen",
+    "japanese": "アーケン",
+    "chinese": "始祖小鸟",
+    "korean": "",
+    "german": "Flapteryx",
+    "french": "Arkéapti"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 149
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Defeatist",
+      "id": 129
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 112,
+    "def": 45,
+    "spatk": 74,
+    "spdef": 45,
+    "spd": 70,
+    "total": 401
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "9.5 kg (20.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 196,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Flying",
+    "Water 3"
+  ],
+  "species": "First Bird Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 71,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "archaeopteryx": "a reptile-like fossil bird"
+  },
+  "pokedexEntries": {
+    "Archen": [
+      {
+        "game": "black",
+        "desc": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another."
+      },
+      {
+        "game": "white",
+        "desc": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another."
+      },
+      {
+        "game": "sun",
+        "desc": "It is the ancestor of all bird Pokémon. Archen itself could not actually fly but moved by hopping from treetop to treetop."
+      },
+      {
+        "game": "moon",
+        "desc": "To all appearances flightless, it was able to glide down from tall treetops to snag its prey."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Once thought to be the ancestor of all bird Pokémon, some of the latest research suggests that may not be the case."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Restored from a fossil, this ancient bird Pokémon has wings but can’t yet fly."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But it’s very good at jumping."
+      },
+      {
+        "game": "shield",
+        "desc": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon."
+      }
+    ]
+  }
+}

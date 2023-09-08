@@ -1,0 +1,101 @@
+{
+  "_id": 536,
+  "key": "palpitoad",
+  "name": {
+    "english": "Palpitoad",
+    "spanish": "Palpitoad",
+    "italian": "Palpitoad",
+    "japanese": "ガマガル",
+    "chinese": "蓝蟾蜍",
+    "korean": "",
+    "german": "Mebrana",
+    "french": "Batracné"
+  },
+  "pokedexNumber": {
+    "sword-shield": 133
+  },
+  "type": {
+    "one": "Water",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "hidden": {
+      "name": "Water Absorb",
+      "id": 11
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 65,
+    "def": 55,
+    "spatk": 65,
+    "spdef": 55,
+    "spd": 69,
+    "total": 384
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "17.0 kg (37.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 185,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Vibration Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 134,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "palpitation": "rapid pulsation",
+    "toad": "a species of amphibian"
+  },
+  "pokedexEntries": {
+    "Palpitoad": [
+      {
+        "game": "black",
+        "desc": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land."
+      },
+      {
+        "game": "white",
+        "desc": "It lives in the water and on land. It uses its long, sticky tongue to capture prey."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
+      },
+      {
+        "game": "sword",
+        "desc": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue."
+      },
+      {
+        "game": "shield",
+        "desc": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+      }
+    ]
+  }
+}

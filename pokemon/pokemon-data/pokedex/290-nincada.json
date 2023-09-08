@@ -1,0 +1,127 @@
+{
+  "_id": 290,
+  "key": "nincada",
+  "name": {
+    "english": "Nincada",
+    "spanish": "Nincada",
+    "italian": "Nincada",
+    "japanese": "ツチニン",
+    "chinese": "土居忍士",
+    "korean": "",
+    "german": "Nincada",
+    "french": "Ningale"
+  },
+  "pokedexNumber": {
+    "sword-shield": 104
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "hidden": {
+      "name": "Run Away",
+      "id": 50
+    }
+  },
+  "baseStats": {
+    "hp": 31,
+    "atk": 45,
+    "def": 90,
+    "spatk": 30,
+    "spdef": 30,
+    "spd": 40,
+    "total": 266
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "5.5 kg (12.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 100,
+  "generation": 3,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Trainee Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 53,
+  "growthRate": "Erratic",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "ninja": "stealthy martial art",
+    "cicada": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Nincada": [
+      {
+        "game": "ruby",
+        "desc": "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution."
+      },
+      {
+        "game": "sapphire",
+        "desc": "NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This POKéMON can’t withstand bright sunlight so avoids it."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead."
+      },
+      {
+        "game": "emerald",
+        "desc": "It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes."
+      },
+      {
+        "game": "x",
+        "desc": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead."
+      },
+      {
+        "game": "y",
+        "desc": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Nincada lives underground for many years in complete darkness. This Pokémon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Nincada lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This Pokémon can’t withstand bright sunlight so avoids it."
+      },
+      {
+        "game": "sword",
+        "desc": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead."
+      },
+      {
+        "game": "shield",
+        "desc": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes."
+      }
+    ]
+  }
+}

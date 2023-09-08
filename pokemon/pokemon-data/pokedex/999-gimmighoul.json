@@ -1,0 +1,78 @@
+{
+  "_id": 999,
+  "key": "gimmighoul",
+  "name": {
+    "english": "Gimmighoul"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 391
+  },
+  "type": {
+    "one": "Ghost",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Rattled",
+      "id": 155
+    },
+    "hidden": {
+      "name": "Rattled",
+      "id": 155
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 70,
+    "spatk": 75,
+    "spdef": 70,
+    "spd": 10,
+    "total": 300
+  },
+  "info": {
+    "height": "0.1 m (0′04″)",
+    "weight": "0.1 kg (0.2 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Coin Hunter Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "gimme": "a strong desire to gain money",
+    "ghoul": "a ghost"
+  },
+  "pokedexEntries": {
+    "Chest Form": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure."
+      },
+      {
+        "game": "violet",
+        "desc": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+      }
+    ],
+    "Roaming Form": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited."
+      },
+      {
+        "game": "violet",
+        "desc": "It wanders around, carrying an old coin on its back. It survives by draining the life-force from humans who try to pick up its coin."
+      }
+    ]
+  }
+}

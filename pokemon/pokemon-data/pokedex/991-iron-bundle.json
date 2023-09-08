@@ -1,0 +1,68 @@
+{
+  "_id": 991,
+  "key": "iron-bundle",
+  "name": {
+    "english": "Iron-Bundle"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 383
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Quark Drive",
+      "id": 282
+    },
+    "hidden": {
+      "name": "Quark Drive",
+      "id": 282
+    }
+  },
+  "baseStats": {
+    "hp": 56,
+    "atk": 80,
+    "def": 114,
+    "spatk": 124,
+    "spdef": 60,
+    "spd": 136,
+    "total": 570
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "11.0 kg (24.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "iron": "heavy/tough metal",
+    "bundle": "a package or gift"
+  },
+  "pokedexEntries": {
+    "Iron-bundle": [
+      {
+        "game": "scarlet",
+        "desc": "Its shape is similar to a robot featured in a paranormal magazine article. The robot was said to have been created by an ancient civilization."
+      },
+      {
+        "game": "violet",
+        "desc": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+      }
+    ]
+  }
+}

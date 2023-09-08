@@ -1,0 +1,126 @@
+{
+  "_id": 627,
+  "key": "rufflet",
+  "name": {
+    "english": "Rufflet",
+    "spanish": "Rufflet",
+    "italian": "Rufflet",
+    "japanese": "ワシボン",
+    "chinese": "毛头小鹰",
+    "korean": "",
+    "german": "Geronimatz",
+    "french": "Furaiglon"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 365,
+    "legends-arceus": 221,
+    "sword-shield": 281,
+    "isle-of-armor": 179
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Hustle",
+      "id": 55
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 83,
+    "def": 50,
+    "spatk": 37,
+    "spdef": 50,
+    "spd": 60,
+    "total": 350
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "10.5 kg (23.1 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": 220,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Eaglet Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 70,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ruffle": "to shake feathers",
+    "-let": "suffix meaning ‘small’"
+  },
+  "pokedexEntries": {
+    "Rufflet": [
+      {
+        "game": "black",
+        "desc": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is."
+      },
+      {
+        "game": "white",
+        "desc": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger."
+      },
+      {
+        "game": "sun",
+        "desc": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured."
+      },
+      {
+        "game": "moon",
+        "desc": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it’s a carnivore at heart."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance."
+      },
+      {
+        "game": "sword",
+        "desc": "If it spies a strong Pokémon, Rufflet can’t resist challenging it to a battle. But if Rufflet loses, it starts bawling."
+      },
+      {
+        "game": "shield",
+        "desc": "A combative Pokémon, it’s ready to pick a fight with anyone. It has talons that can crush hard berries."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": 990,
+  "key": "iron-treads",
+  "name": {
+    "english": "Iron-Treads"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 382
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Quark Drive",
+      "id": 282
+    },
+    "hidden": {
+      "name": "Quark Drive",
+      "id": 282
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 112,
+    "def": 120,
+    "spatk": 72,
+    "spdef": 70,
+    "spd": 106,
+    "total": 570
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "240.0 kg (529.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "iron": "heavy/tough metal",
+    "treads": "raised bumps on tyres/wheels"
+  },
+  "pokedexEntries": {
+    "Iron-treads": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens."
+      },
+      {
+        "game": "violet",
+        "desc": "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+      }
+    ]
+  }
+}

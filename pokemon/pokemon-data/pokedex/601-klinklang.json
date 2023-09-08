@@ -1,0 +1,102 @@
+{
+  "_id": 601,
+  "key": "klinklang",
+  "name": {
+    "english": "Klinklang",
+    "spanish": "Klinklang",
+    "italian": "Klinklang",
+    "japanese": "ギギギアル",
+    "chinese": "齿轮怪",
+    "korean": "",
+    "german": "Klikdiklak",
+    "french": "Cliticlic"
+  },
+  "pokedexNumber": {
+    "sword-shield": 115
+  },
+  "type": {
+    "one": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Plus",
+      "id": 57
+    },
+    "two": {
+      "name": "Minus",
+      "id": 58
+    },
+    "hidden": {
+      "name": "Clear Body",
+      "id": 29
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 100,
+    "def": 115,
+    "spatk": 70,
+    "spdef": 85,
+    "spd": 90,
+    "total": 520
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "81.0 kg (178.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 210,
+  "generation": 5,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Gear Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 234,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "clink": "sound of metal clashing",
+    "clang": "sound of metal clashing"
+  },
+  "pokedexEntries": {
+    "Klinklang": [
+      {
+        "game": "black",
+        "desc": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area."
+      },
+      {
+        "game": "white",
+        "desc": "The gear with the red core is rotated at high speed for a rapid energy charge."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The gear with the red core is rotated at high speed for a rapid energy charge."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area."
+      },
+      {
+        "game": "sword",
+        "desc": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy."
+      },
+      {
+        "game": "shield",
+        "desc": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature."
+      }
+    ]
+  }
+}

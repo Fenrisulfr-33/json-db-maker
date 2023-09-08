@@ -1,0 +1,143 @@
+{
+  "_id": 218,
+  "key": "slugma",
+  "name": {
+    "english": "Slugma",
+    "spanish": "Slugma",
+    "italian": "Slugma",
+    "japanese": "マグマッグ",
+    "chinese": "熔岩虫",
+    "korean": "",
+    "german": "Schneckmag",
+    "french": "Limagma"
+  },
+  "pokedexNumber": {
+    "crystal": 216,
+    "gold-silver": 216
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Magma Armor",
+      "id": 40
+    },
+    "two": {
+      "name": "Flame Body",
+      "id": 49
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 40,
+    "spatk": 70,
+    "spdef": 40,
+    "spd": 20,
+    "total": 250
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "35.0 kg (77.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 74,
+  "generation": 2,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Lava Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "slug": "snail-like terrestrial gastropod",
+    "magma": "the melted rock in a volcano"
+  },
+  "pokedexEntries": {
+    "Slugma": [
+      {
+        "game": "gold",
+        "desc": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden."
+      },
+      {
+        "game": "silver",
+        "desc": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places."
+      },
+      {
+        "game": "crystal",
+        "desc": "These group together in areas that are hotter than normal. If it cools off, its skin hardens."
+      },
+      {
+        "game": "ruby",
+        "desc": "Molten magma courses throughout SLUGMA’s circulatory system. If this POKéMON is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SLUGMA does not have any blood in its body. Instead, intensely hot magma circulates throughout this POKéMON’s body, carrying essential nutrients and oxygen to its organs."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden."
+      },
+      {
+        "game": "emerald",
+        "desc": "It is a species of POKéMON that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden."
+      },
+      {
+        "game": "x",
+        "desc": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places."
+      },
+      {
+        "game": "y",
+        "desc": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Molten magma courses throughout Slugma’s circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden."
+      }
+    ]
+  }
+}

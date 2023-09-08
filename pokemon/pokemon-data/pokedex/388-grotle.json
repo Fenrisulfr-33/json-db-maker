@@ -1,0 +1,112 @@
+{
+  "_id": 388,
+  "key": "grotle",
+  "name": {
+    "english": "Grotle",
+    "spanish": "Grotle",
+    "italian": "Grotle",
+    "japanese": "ハヤシガメ",
+    "chinese": "树林龟",
+    "korean": "",
+    "german": "Chelcarain",
+    "french": "Boskara"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 131
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Shell Armor",
+      "id": 75
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 89,
+    "def": 85,
+    "spatk": 55,
+    "spdef": 65,
+    "spd": 36,
+    "total": 405
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "97.0 kg (213.8 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 128,
+  "generation": 4,
+  "evs": {
+    "atk": 1,
+    "def": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Grove Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "grove": "a small wood or forest",
+    "turtle": "water-based reptile"
+  },
+  "pokedexEntries": {
+    "Grotle": [
+      {
+        "game": "diamond",
+        "desc": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell."
+      },
+      {
+        "game": "pearl",
+        "desc": "The shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back."
+      },
+      {
+        "game": "platinum",
+        "desc": "It knows where pure water wells up. It carries fellow Pokémon there on its back."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "A GROTLE that lives in the forest is said to have its own secret springwater."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It knows where pure water wells up. It carries fellow Pokémon there on its back."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It knows where pure water wells up. It carries fellow Pokémon there on its back."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe the trees on its shell."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Appears where there is clean spring water. The fruit that grows on the shrubs on its shell is sweet, nutritious, and truly delicious."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "_id": 614,
+  "key": "beartic",
+  "name": {
+    "english": "Beartic",
+    "spanish": "Beartic",
+    "italian": "Beartic",
+    "japanese": "ツンベアー",
+    "chinese": "冻原熊",
+    "korean": "",
+    "german": "Siberio",
+    "french": "Polagriffe"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 356,
+    "sword-shield": 280,
+    "crown-tundra": 122
+  },
+  "type": {
+    "one": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Snow Cloak",
+      "id": 81
+    },
+    "two": {
+      "name": "Slush Rush",
+      "id": 202
+    },
+    "hidden": {
+      "name": "Swift Swim",
+      "id": 33
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 130,
+    "def": 80,
+    "spatk": 70,
+    "spdef": 80,
+    "spd": 50,
+    "total": 505
+  },
+  "info": {
+    "height": "2.6 m (8′06″)",
+    "weight": "260.0 kg (573.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 215,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Freezing Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 177,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bear": "large, powerful mammal",
+    "arctic": "frozen region at the very top of the Earth"
+  },
+  "pokedexEntries": {
+    "Beartic": [
+      {
+        "game": "black",
+        "desc": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey."
+      },
+      {
+        "game": "white",
+        "desc": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat."
+      },
+      {
+        "game": "sword",
+        "desc": "It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel."
+      },
+      {
+        "game": "shield",
+        "desc": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice."
+      }
+    ]
+  }
+}

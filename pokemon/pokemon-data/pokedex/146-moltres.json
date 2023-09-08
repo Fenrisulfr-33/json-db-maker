@@ -1,0 +1,164 @@
+{
+  "_id": 146,
+  "key": "moltres",
+  "name": {
+    "english": "Moltres",
+    "spanish": "Moltres",
+    "italian": "Moltres",
+    "japanese": "ファイヤー",
+    "chinese": "火焰鸟",
+    "korean": "",
+    "german": "Lavados",
+    "french": "Sulfura"
+  },
+  "pokedexNumber": {
+    "crystal": 242,
+    "gold-silver": 242,
+    "yellow": 146,
+    "red-blue": 146
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Flame Body",
+      "id": 49
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "spatk": 125,
+    "spdef": 85,
+    "spd": 90,
+    "total": 580
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "66.0 kg (145.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 1,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Flame Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "molten": "liquified by heating",
+    "tres": "Spanish for three"
+  },
+  "pokedexEntries": {
+    "Moltres": [
+      {
+        "game": "red-blue",
+        "desc": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames."
+      },
+      {
+        "game": "yellow",
+        "desc": "A legendary bird POKéMON. As it flaps its flaming wings, even the night sky will turn red."
+      },
+      {
+        "game": "gold",
+        "desc": "This legendary POKéMON scatters embers with every flap of its wings. It is a thrilling sight to behold."
+      },
+      {
+        "game": "silver",
+        "desc": "This legendary bird POKéMON is said to bring early spring to the wintry lands it visits."
+      },
+      {
+        "game": "crystal",
+        "desc": "Legendary bird POKéMON. It is said to migrate from the south along with the spring."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "MOLTRES is a legendary bird POKéMON that has the ability to control fire. If this POKéMON is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."
+      },
+      {
+        "game": "fire-red",
+        "desc": "One of the legendary bird POKéMON. Those seeing it are overwhelmed by its orange wings that seem to be on fire."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It is said to be the legendary bird POKéMON of fire. Every flap of its wings creates a dazzling flare of flames."
+      },
+      {
+        "game": "emerald",
+        "desc": "MOLTRES is a legendary bird POKéMON that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "This legendary Pokémon scatters embers with every flap of its wings. It is a thrilling sight to behold."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "This legendary bird Pokémon is said to bring early spring to the wintry lands it visits."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring."
+      },
+      {
+        "game": "x",
+        "desc": "It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames."
+      },
+      {
+        "game": "y",
+        "desc": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow."
+      },
+      {
+        "game": "shield",
+        "desc": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is one of the legendary bird Pokémon. Its appearance is said to indicate the coming of spring."
+      }
+    ],
+    "Galarian Moltres": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon’s sinister, flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves."
+      },
+      {
+        "game": "shield",
+        "desc": "The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres."
+      }
+    ]
+  }
+}

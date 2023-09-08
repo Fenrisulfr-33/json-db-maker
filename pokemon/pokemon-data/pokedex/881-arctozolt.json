@@ -1,0 +1,83 @@
+{
+  "_id": 881,
+  "key": "arctozolt",
+  "name": {
+    "english": "Arctozolt",
+    "spanish": "Arctozolt",
+    "italian": "Arctozolt",
+    "japanese": "パッチルドン",
+    "chinese": "雷鸟海兽",
+    "korean": "",
+    "german": "Lecryodon",
+    "french": "Galvagla"
+  },
+  "pokedexNumber": {
+    "sword-shield": 375
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Volt Absorb",
+      "id": 10
+    },
+    "two": {
+      "name": "Static",
+      "id": 9
+    },
+    "hidden": {
+      "name": "Slush Rush",
+      "id": 202
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "spatk": 90,
+    "spdef": 80,
+    "spd": 55,
+    "total": 505
+  },
+  "info": {
+    "height": "2.3 m (7′07″)",
+    "weight": "150.0 kg (330.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Fossil Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 177,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "arctic": "icy region around the North Pole",
+    "volt": "unit of electricity"
+  },
+  "pokedexEntries": {
+    "Arctozolt": [
+      {
+        "game": "sword",
+        "desc": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+      }
+    ]
+  }
+}

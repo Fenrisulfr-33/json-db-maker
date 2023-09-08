@@ -1,0 +1,103 @@
+{
+  "_id": 534,
+  "key": "conkeldurr",
+  "name": {
+    "english": "Conkeldurr",
+    "spanish": "Conkeldurr",
+    "italian": "Conkeldurr",
+    "japanese": "ローブシン",
+    "chinese": "修建老匠",
+    "korean": "",
+    "german": "Meistagrif",
+    "french": "Bétochef"
+  },
+  "pokedexNumber": {
+    "sword-shield": 173,
+    "crown-tundra": 59
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "two": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 140,
+    "def": 95,
+    "spatk": 55,
+    "spdef": 65,
+    "spd": 45,
+    "total": 505
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "87.0 kg (191.8 lbs)"
+  },
+  "gender": {
+    "male": "75%",
+    "female": "25%",
+    "genderless": false
+  },
+  "evolution": 184,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Muscular Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 227,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "concrete": "stone-like material",
+    "elder": "older or senior person"
+  },
+  "pokedexEntries": {
+    "Conkeldurr": [
+      {
+        "game": "black",
+        "desc": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago."
+      },
+      {
+        "game": "white",
+        "desc": "They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."
+      },
+      {
+        "game": "sword",
+        "desc": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same."
+      },
+      {
+        "game": "shield",
+        "desc": "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists."
+      }
+    ]
+  }
+}

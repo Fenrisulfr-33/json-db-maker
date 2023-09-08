@@ -1,0 +1,217 @@
+{
+  "_id": 37,
+  "key": "vulpix",
+  "name": {
+    "english": "Vulpix",
+    "spanish": "Vulpix",
+    "italian": "Vulpix",
+    "japanese": "ロコン",
+    "chinese": "六尾",
+    "korean": "",
+    "german": "Vulpix",
+    "french": "Goupix"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 168,
+    "sword-shield": 68,
+    "crystal": 127,
+    "gold-silver": 127,
+    "yellow": 37,
+    "red-blue": 37
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "hidden": {
+      "name": "Drought",
+      "id": 70
+    }
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 41,
+    "def": 40,
+    "spatk": 50,
+    "spdef": 65,
+    "spd": 65,
+    "total": 299
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "9.9 kg (21.8 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 15,
+  "generation": 1,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fox Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 60,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "vulpine": "of or relating to foxes",
+    "six": "its number of tails"
+  },
+  "pokedexEntries": {
+    "Vulpix": [
+      {
+        "game": "red-blue",
+        "desc": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
+      },
+      {
+        "game": "yellow",
+        "desc": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails."
+      },
+      {
+        "game": "gold",
+        "desc": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly."
+      },
+      {
+        "game": "silver",
+        "desc": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes."
+      },
+      {
+        "game": "crystal",
+        "desc": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur."
+      },
+      {
+        "game": "ruby",
+        "desc": "At the time of its birth, VULPIX has one white tail. The tail separates into six if this POKéMON receives plenty of love from its TRAINER. The six tails become magnificently curled."
+      },
+      {
+        "game": "sapphire",
+        "desc": "Inside VULPIX’s body burns a flame that never goes out. During the daytime, when the temperatures rise, this POKéMON releases flames from its mouth to prevent its body from growing too hot."
+      },
+      {
+        "game": "fire-red",
+        "desc": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older."
+      },
+      {
+        "game": "emerald",
+        "desc": "It can freely control fire, making fiery orbs fly like will-o’-the-wisps. Just before evolution, its six tails grow hot as if on fire."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "As it develops, its single white tail gains color and splits into six. It is quite warm and cuddly."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes."
+      },
+      {
+        "game": "black-white",
+        "desc": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm."
+      },
+      {
+        "game": "x",
+        "desc": "When it is born, it has just one snow-white tail. The tail splits from its tip as it grows older."
+      },
+      {
+        "game": "y",
+        "desc": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Inside Vulpix’s body burns a flame that never goes out. During the daytime, when the temperatures rise, this Pokémon releases flames from its mouth to prevent its body from growing too hot."
+      },
+      {
+        "game": "sun",
+        "desc": "Its beautiful fur and tails have made it very popular. As it grows, its tails split to form more tails."
+      },
+      {
+        "game": "moon",
+        "desc": "From its mouth spew flames that seem to resemble the spirits of the deceased. Some people mistakenly think this fire is a ghost."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its beautiful tails have made it very popular. However, if it’s not brushed diligently, it will be a mass of tangles before you know it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It manipulates balls of fire to catch its prey. If you raise one from when it’s young, it will grow close to you like a puppy Pokémon."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Both its fur and its tails are beautiful. As it grows, the tails split and form more tails."
+      },
+      {
+        "game": "sword",
+        "desc": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted."
+      },
+      {
+        "game": "shield",
+        "desc": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six."
+      }
+    ],
+    "Alolan Vulpix": [
+      {
+        "game": "sun",
+        "desc": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo."
+      },
+      {
+        "game": "moon",
+        "desc": "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "If you carelessly approach it because it’s cute, the boss of the pack, Ninetales, will appear and freeze you."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their –58 degree Fahrenheit breath."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It looks like snow come to life, and the breath it exhales is –58 degrees Fahrenheit. Another name for it is Keokeo."
+      },
+      {
+        "game": "sword",
+        "desc": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice."
+      },
+      {
+        "game": "shield",
+        "desc": "If you observe its curly hairs through a microscope, you’ll see small ice particles springing up."
+      }
+    ]
+  }
+}

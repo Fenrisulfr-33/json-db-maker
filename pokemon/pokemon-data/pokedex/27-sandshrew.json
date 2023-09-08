@@ -1,0 +1,212 @@
+{
+  "_id": 27,
+  "key": "sandshrew",
+  "name": {
+    "english": "Sandshrew",
+    "spanish": "Sandshrew",
+    "italian": "Sandshrew",
+    "japanese": "サンド",
+    "chinese": "穿山鼠",
+    "korean": "",
+    "german": "Sandan",
+    "french": "Sabelette"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 168,
+    "crystal": 48,
+    "gold-silver": 48,
+    "yellow": 27,
+    "red-blue": 27
+  },
+  "type": {
+    "one": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Veil",
+      "id": 8
+    },
+    "hidden": {
+      "name": "Sand Rush",
+      "id": 146
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 85,
+    "spatk": 20,
+    "spdef": 30,
+    "spd": 40,
+    "total": 300
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "40.0 kg (88.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 11,
+  "generation": 1,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Mouse Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 60,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sand": "fine debris of rocks",
+    "shrew": "a rodent"
+  },
+  "pokedexEntries": {
+    "Sandshrew": [
+      {
+        "game": "red-blue",
+        "desc": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food."
+      },
+      {
+        "game": "yellow",
+        "desc": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew."
+      },
+      {
+        "game": "gold",
+        "desc": "If it fell from a great height, this POKéMON could save itself by rolling into a ball and bouncing."
+      },
+      {
+        "game": "silver",
+        "desc": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball."
+      },
+      {
+        "game": "crystal",
+        "desc": "It prefers dry, sandy places because it uses the sand to protect itself when threatened."
+      },
+      {
+        "game": "ruby",
+        "desc": "SANDSHREW’s body is configured to absorb water without waste, enabling it to survive in an arid desert. This POKéMON curls up to protect itself from its enemies."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SANDSHREW has a very dry hide that is extremely tough. The POKéMON can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Burrows deep underground in arid locations far from water. It only emerges to hunt for prey."
+      },
+      {
+        "game": "emerald",
+        "desc": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball."
+      },
+      {
+        "game": "black-white",
+        "desc": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks."
+      },
+      {
+        "game": "x",
+        "desc": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection."
+      },
+      {
+        "game": "y",
+        "desc": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Sandshrew’s body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep."
+      },
+      {
+        "game": "sun",
+        "desc": "It can roll its body into a ball. It moves through the desert by rolling at high speeds."
+      },
+      {
+        "game": "moon",
+        "desc": "It usually makes its home in deserts and arid zones, where rain does not fall. It digs holes to catch Bug-type Pokémon."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When its skin gets wrinkled from moisture, it heads for a volcano. It lies flat on a spot with a lot of geothermal heat and dries itself out."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew."
+      },
+      {
+        "game": "sword",
+        "desc": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body."
+      },
+      {
+        "game": "shield",
+        "desc": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall."
+      }
+    ],
+    "Alolan Sandshrew": [
+      {
+        "game": "sun",
+        "desc": "It lives on snowy mountains. Its steel shell is very hard—so much so, it can’t roll its body up into a ball."
+      },
+      {
+        "game": "moon",
+        "desc": "An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "After fleeing a volcanic eruption, it ended up moving to an area of snowy mountains. Its ice shell is as hard as steel."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its ice-covered body lets it slide across the ground with bullet-like speed, sending its enemies flying when it hits them."
+      },
+      {
+        "game": "sword",
+        "desc": "Life on mountains covered with deep snow has granted this Pokémon a body of ice that’s as hard as steel."
+      },
+      {
+        "game": "shield",
+        "desc": "It lives in snowy mountains on southern islands. When a blizzard rolls in, this Pokémon hunkers down in the snow to avoid getting blown away."
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_id": 937,
+  "key": "ceruledge",
+  "name": {
+    "english": "Ceruledge"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 167
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 80,
+    "spatk": 60,
+    "spdef": 100,
+    "spd": 85,
+    "total": 525
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "62.0 kg (136.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Fire Blades Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 20,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "cerulean": "a shade of blue",
+    "edge": "the sharpened side of a blade"
+  },
+  "pokedexEntries": {
+    "Ceruledge": [
+      {
+        "game": "scarlet",
+        "desc": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal."
+      },
+      {
+        "game": "violet",
+        "desc": "An old set of armor steeped in grudges caused this Pokémon’s evolution. Ceruledge cuts its enemies to pieces without mercy."
+      }
+    ]
+  }
+}

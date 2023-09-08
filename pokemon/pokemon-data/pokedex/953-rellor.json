@@ -1,0 +1,67 @@
+{
+  "_id": 953,
+  "key": "rellor",
+  "name": {
+    "english": "Rellor"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 254
+  },
+  "type": {
+    "one": "Bug",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "hidden": {
+      "name": "Shed Skin",
+      "id": 61
+    }
+  },
+  "baseStats": {
+    "hp": 41,
+    "atk": 50,
+    "def": 60,
+    "spatk": 31,
+    "spdef": 58,
+    "spd": 30,
+    "total": 270
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Rolling Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "roller": "move by turning on an axis; ‘rellor’ spelled backwards is ’roller’"
+  },
+  "pokedexEntries": {
+    "Rellor": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life."
+      },
+      {
+        "game": "violet",
+        "desc": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve."
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_id": 858,
+  "key": "hatterene",
+  "name": {
+    "english": "Hatterene",
+    "spanish": "Hatterene",
+    "italian": "Hatterene",
+    "japanese": "ブリムオン",
+    "chinese": "布莉姆温",
+    "korean": "",
+    "german": "Silembrim",
+    "french": "Sorcilence"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 284,
+    "sword-shield": 243,
+    "crown-tundra": 42
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Healer",
+      "id": 131
+    },
+    "two": {
+      "name": "Anticipation",
+      "id": 107
+    },
+    "hidden": {
+      "name": "Magic Bounce",
+      "id": 156
+    }
+  },
+  "baseStats": {
+    "hp": 57,
+    "atk": 90,
+    "def": 95,
+    "spatk": 136,
+    "spdef": 103,
+    "spd": 29,
+    "total": 510
+  },
+  "info": {
+    "height": "2.1 m (6′11″)",
+    "weight": "5.0 kg (11.0 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 294,
+  "generation": 8,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Silent Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 255,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "hat": "",
+    "serene": ""
+  },
+  "pokedexEntries": {
+    "Hatterene": [
+      {
+        "game": "sword",
+        "desc": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others."
+      },
+      {
+        "game": "shield",
+        "desc": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon can read the emotions of creatures over 30 miles away. The minute it senses hostility, it goes on the attack."
+      },
+      {
+        "game": "shield",
+        "desc": "Beams like lightning shoot down from its tentacles. It’s known to some as the Raging Goddess."
+      }
+    ]
+  }
+}

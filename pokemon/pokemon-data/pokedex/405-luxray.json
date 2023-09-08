@@ -1,0 +1,128 @@
+{
+  "_id": 405,
+  "key": "luxray",
+  "name": {
+    "english": "Luxray",
+    "spanish": "Luxray",
+    "italian": "Luxray",
+    "japanese": "レントラー",
+    "chinese": "伦琴猫",
+    "korean": "",
+    "german": "Luxtra",
+    "french": "Luxray"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 96,
+    "legends-arceus": 17,
+    "isle-of-armor": 27
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "two": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "hidden": {
+      "name": "Guts",
+      "id": 62
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 79,
+    "spatk": 95,
+    "spdef": 79,
+    "spd": 70,
+    "total": 523
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "42.0 kg (92.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 134,
+  "generation": 4,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Gleam Eyes Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 235,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "lux": "unit of brightness",
+    "x-ray": "electromagnetic radiation that can ‘see through’ certain objects"
+  },
+  "pokedexEntries": {
+    "Luxray": [
+      {
+        "game": "diamond",
+        "desc": "It has eyes that can see through anything. It spots and captures prey hiding behind objects."
+      },
+      {
+        "game": "pearl",
+        "desc": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall."
+      },
+      {
+        "game": "platinum",
+        "desc": "It can see clearly through walls to track down its prey and seek its lost young."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It can see clearly through walls to track down its prey and seek its lost young."
+      },
+      {
+        "game": "x",
+        "desc": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Luxray’s ability to see through objects comes in handy when it’s scouting for danger."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "When its eyes gleam gold, it can spot hiding prey—even those taking shelter behind a wall."
+      },
+      {
+        "game": "sword",
+        "desc": "Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick."
+      },
+      {
+        "game": "shield",
+        "desc": "Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It has eyes that can see through anything. It spots and captures prey hiding behind objects."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "When its eyes gleam gold, it can spot hiding prey—even those taking shelter behind a wall."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "They form packs, each having one male as leader. Legends say that when Luxray’s two eyes shimmer with gold, the Pokémon can see through anything."
+      }
+    ]
+  }
+}

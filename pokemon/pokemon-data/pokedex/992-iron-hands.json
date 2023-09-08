@@ -1,0 +1,68 @@
+{
+  "_id": 992,
+  "key": "iron-hands",
+  "name": {
+    "english": "Iron-Hands"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 384
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Quark Drive",
+      "id": 282
+    },
+    "hidden": {
+      "name": "Quark Drive",
+      "id": 282
+    }
+  },
+  "baseStats": {
+    "hp": 154,
+    "atk": 140,
+    "def": 108,
+    "spatk": 50,
+    "spdef": 68,
+    "spd": 50,
+    "total": 570
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "380.7 kg (839.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "iron": "heavy/tough metal",
+    "hands": "the ends of the arms"
+  },
+  "pokedexEntries": {
+    "Iron-hands": [
+      {
+        "game": "scarlet",
+        "desc": "It is very similar to a cyborg covered exclusively by a paranormal magazine. The cyborg was said to be the modified form of a certain athlete."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+      }
+    ]
+  }
+}

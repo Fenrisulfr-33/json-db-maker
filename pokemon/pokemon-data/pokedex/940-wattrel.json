@@ -1,0 +1,72 @@
+{
+  "_id": 940,
+  "key": "wattrel",
+  "name": {
+    "english": "Wattrel"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 177
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Wind Power",
+      "id": 277
+    },
+    "two": {
+      "name": "Volt Absorb",
+      "id": 10
+    },
+    "hidden": {
+      "name": "Competitive",
+      "id": 172
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 35,
+    "spatk": 55,
+    "spdef": 40,
+    "spd": 70,
+    "total": 280
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "3.6 kg (7.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Storm Petrel Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "watt": "unit of electrical power",
+    "petrel": "a type of seabird"
+  },
+  "pokedexEntries": {
+    "Wattrel": [
+      {
+        "game": "scarlet",
+        "desc": "When its wings catch the wind, the bones within produce electricity. This Pokémon dives into the ocean, catching prey by electrocuting them."
+      },
+      {
+        "game": "violet",
+        "desc": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+      }
+    ]
+  }
+}

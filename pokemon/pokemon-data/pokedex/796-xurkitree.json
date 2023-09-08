@@ -1,0 +1,79 @@
+{
+  "_id": 796,
+  "key": "xurkitree",
+  "name": {
+    "english": "Xurkitree",
+    "spanish": "Xurkitree",
+    "italian": "Xurkitree",
+    "japanese": "デンジュモク",
+    "chinese": "电束木",
+    "korean": "",
+    "german": "Voltriant",
+    "french": "Câblifère"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beast Boost",
+      "id": 224
+    }
+  },
+  "baseStats": {
+    "hp": 83,
+    "atk": 89,
+    "def": 71,
+    "spatk": 173,
+    "spdef": 71,
+    "spd": 83,
+    "total": 570
+  },
+  "info": {
+    "height": "3.8 m (12′06″)",
+    "weight": "100.0 kg (220.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Glowing Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "circuitry": "electric wiring"
+  },
+  "pokedexEntries": {
+    "Xurkitree": [
+      {
+        "game": "sun",
+        "desc": "One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses."
+      },
+      {
+        "game": "moon",
+        "desc": "It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground."
+      }
+    ]
+  }
+}

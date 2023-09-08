@@ -1,0 +1,83 @@
+{
+  "_id": 882,
+  "key": "dracovish",
+  "name": {
+    "english": "Dracovish",
+    "spanish": "Dracovish",
+    "italian": "Dracovish",
+    "japanese": "ウオノラゴン",
+    "chinese": "鳃鱼龙",
+    "korean": "",
+    "german": "Pescragon",
+    "french": "Hydragon"
+  },
+  "pokedexNumber": {
+    "sword-shield": 376
+  },
+  "type": {
+    "one": "Water",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Absorb",
+      "id": 11
+    },
+    "two": {
+      "name": "Strong Jaw",
+      "id": 173
+    },
+    "hidden": {
+      "name": "Sand Rush",
+      "id": 146
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 90,
+    "def": 100,
+    "spatk": 70,
+    "spdef": 80,
+    "spd": 75,
+    "total": 505
+  },
+  "info": {
+    "height": "2.3 m (7′07″)",
+    "weight": "215.0 kg (474.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Fossil Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 177,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "draco": "Latin for ‘dragon’",
+    "fish": "marine creature"
+  },
+  "pokedexEntries": {
+    "Dracovish": [
+      {
+        "game": "sword",
+        "desc": "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction."
+      },
+      {
+        "game": "shield",
+        "desc": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater."
+      }
+    ]
+  }
+}

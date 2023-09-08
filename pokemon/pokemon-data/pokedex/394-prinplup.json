@@ -1,0 +1,111 @@
+{
+  "_id": 394,
+  "key": "prinplup",
+  "name": {
+    "english": "Prinplup",
+    "spanish": "Prinplup",
+    "italian": "Prinplup",
+    "japanese": "ポッタイシ",
+    "chinese": "波皇子",
+    "korean": "",
+    "german": "Pliprin",
+    "french": "Prinplouf"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 162
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 64,
+    "atk": 66,
+    "def": 68,
+    "spatk": 81,
+    "spdef": 76,
+    "spd": 50,
+    "total": 405
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "23.0 kg (50.7 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 130,
+  "generation": 4,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Penguin Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "prince": "heir to a throne of an emperor or king",
+    "plup": "dripping water sound"
+  },
+  "pokedexEntries": {
+    "Prinplup": [
+      {
+        "game": "diamond",
+        "desc": "It lives alone, away from others. Apparently, every one of them believes it is the most important."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas."
+      },
+      {
+        "game": "platinum",
+        "desc": "Because every PRINPLUP considers itself to be the most important, they can never form a group."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Because every Prinplup considers itself to be the most important, they can never form a group."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It lives alone, away from others. Apparently, every one of them believes it is the most important."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It lives alone, away from others. Apparently, every one of them believes it is the most important."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It swims gracefully through the frigid sea and sings with a voice like the roaring tide. It has powerful, sturdy wings and dignity to match."
+      }
+    ]
+  }
+}

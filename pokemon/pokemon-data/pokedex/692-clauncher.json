@@ -1,0 +1,92 @@
+{
+  "_id": 692,
+  "key": "clauncher",
+  "name": {
+    "english": "Clauncher",
+    "spanish": "Clauncher",
+    "italian": "Clauncher",
+    "japanese": "ウデッポウ",
+    "chinese": "铁臂枪虾",
+    "korean": "",
+    "german": "Scampisto",
+    "french": "Flingouste"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 339,
+    "isle-of-armor": 196
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Mega Launcher",
+      "id": 178
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 53,
+    "def": 62,
+    "spatk": 58,
+    "spdef": 63,
+    "spd": 44,
+    "total": 330
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "8.3 kg (18.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 241,
+  "generation": 6,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "species": "Water Gun Pokémon",
+  "catchRate": 225,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "claw": "pincer, talon",
+    "launch": "throw, project"
+  },
+  "pokedexEntries": {
+    "Clauncher": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "They knock down flying prey by firing compressed water from their massive claws like shooting a pistol."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Through controlled explosions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its claws occasionally fall off, and it keeps a low profile until they grow back. The meat of its claws is so delicious!"
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it’s terrible at swimming straight."
+      },
+      {
+        "game": "sword",
+        "desc": "Clauncher’s claws can fall off during battle, but they’ll regenerate. The meat inside the claws is popular as a delicacy in Galar."
+      },
+      {
+        "game": "shield",
+        "desc": "By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies."
+      }
+    ]
+  }
+}

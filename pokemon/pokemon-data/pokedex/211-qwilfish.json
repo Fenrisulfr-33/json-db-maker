@@ -1,0 +1,153 @@
+{
+  "_id": 211,
+  "key": "qwilfish",
+  "name": {
+    "english": "Qwilfish",
+    "spanish": "Qwilfish",
+    "italian": "Qwilfish",
+    "japanese": "ハリーセン",
+    "chinese": "千针鱼",
+    "korean": "",
+    "german": "Baldorfish",
+    "french": "Qwilfish"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 331,
+    "legends-arceus": 84,
+    "sword-shield": 304,
+    "crystal": 163,
+    "gold-silver": 163
+  },
+  "type": {
+    "one": "Water",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "hidden": {
+      "name": "Intimidate",
+      "id": 22
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 95,
+    "def": 85,
+    "spatk": 55,
+    "spdef": 55,
+    "spd": 85,
+    "total": 440
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "3.9 kg (8.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Water 2"
+  ],
+  "species": "Balloon Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 88,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "quill": "sharp feather used for writing with ink",
+    "fish": "marine creature"
+  },
+  "pokedexEntries": {
+    "Qwilfish": [
+      {
+        "game": "gold",
+        "desc": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once."
+      },
+      {
+        "game": "silver",
+        "desc": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting."
+      },
+      {
+        "game": "crystal",
+        "desc": "When faced with a larger opponent, it swallows as much water as it can to match the opponent’s size."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging."
+      },
+      {
+        "game": "fire-red",
+        "desc": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once."
+      },
+      {
+        "game": "emerald",
+        "desc": "A QWILFISH uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer."
+      },
+      {
+        "game": "x",
+        "desc": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once."
+      },
+      {
+        "game": "y",
+        "desc": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging."
+      },
+      {
+        "game": "sword",
+        "desc": "When faced with a larger opponent, it swallows as much water as it can to match the opponent’s size."
+      },
+      {
+        "game": "shield",
+        "desc": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It shoots the poison spikes on its body in all directions. Its round form makes it a poor swimmer."
+      }
+    ],
+    "Hisuian Qwilfish": [
+      {
+        "game": "legends-arceus",
+        "desc": "Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions."
+      }
+    ]
+  }
+}

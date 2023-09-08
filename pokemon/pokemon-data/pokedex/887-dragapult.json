@@ -1,0 +1,85 @@
+{
+  "_id": 887,
+  "key": "dragapult",
+  "name": {
+    "english": "Dragapult",
+    "spanish": "Dragapult",
+    "italian": "Dragapult",
+    "japanese": "ドラパルト",
+    "chinese": "多龙巴鲁托",
+    "korean": "",
+    "german": "Katapuldra",
+    "french": "Lanssorien"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 307,
+    "sword-shield": 397,
+    "crown-tundra": 112
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Clear Body",
+      "id": 29
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Cursed Body",
+      "id": 130
+    }
+  },
+  "baseStats": {
+    "hp": 88,
+    "atk": 120,
+    "def": 75,
+    "spatk": 100,
+    "spdef": 75,
+    "spd": 142,
+    "total": 600
+  },
+  "info": {
+    "height": "3.0 m (9′10″)",
+    "weight": "50.0 kg (110.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 301,
+  "generation": 8,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Stealth Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 300,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "dragon": "",
+    "catapult": ""
+  },
+  "pokedexEntries": {
+    "Dragapult": [
+      {
+        "game": "sword",
+        "desc": "When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles."
+      },
+      {
+        "game": "shield",
+        "desc": "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds."
+      }
+    ]
+  }
+}

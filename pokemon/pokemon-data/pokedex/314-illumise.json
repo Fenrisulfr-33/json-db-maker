@@ -1,0 +1,120 @@
+{
+  "_id": 314,
+  "key": "illumise",
+  "name": {
+    "english": "Illumise",
+    "spanish": "Illumise",
+    "italian": "Illumise",
+    "japanese": "イルミーゼ",
+    "chinese": "甜甜萤",
+    "korean": "",
+    "german": "Illumise",
+    "french": "Lumivole"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Tinted Lens",
+      "id": 110
+    },
+    "hidden": {
+      "name": "Prankster",
+      "id": 158
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 47,
+    "def": 75,
+    "spatk": 73,
+    "spdef": 85,
+    "spd": 85,
+    "total": 430
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "17.7 kg (39.0 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Bug",
+    "Human-Like"
+  ],
+  "species": "Firefly Pokémon",
+  "catchRate": 150,
+  "baseFriendship": 50,
+  "baseExp": 151,
+  "growthRate": "Fluctuating",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "illuminate": "bring light to"
+  },
+  "pokedexEntries": {
+    "Illumise": [
+      {
+        "game": "ruby",
+        "desc": "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky."
+      },
+      {
+        "game": "sapphire",
+        "desc": "ILLUMISE leads a flight of illuminated VOLBEAT to draw signs in the night sky. This POKéMON is said to earn greater respect from its peers by composing more complex designs in the sky."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It guides VOLBEAT to draw signs in night skies. There are scientists that study the patterns it creates."
+      },
+      {
+        "game": "emerald",
+        "desc": "A nocturnal POKéMON that becomes active upon nightfall. It leads a VOLBEAT swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its fragrance attracts a swarm of VOLBEAT, so they draw over 200 patterns in the night sky."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+      },
+      {
+        "game": "x",
+        "desc": "Its fragrance attracts a swarm of Volbeat, so they draw over 200 patterns in the night sky."
+      },
+      {
+        "game": "y",
+        "desc": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+      }
+    ]
+  }
+}

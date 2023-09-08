@@ -1,0 +1,68 @@
+{
+  "_id": 1006,
+  "key": "iron-valiant",
+  "name": {
+    "english": "Iron-Valiant"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 398
+  },
+  "type": {
+    "one": "Fairy",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Quark Drive",
+      "id": 282
+    },
+    "hidden": {
+      "name": "Quark Drive",
+      "id": 282
+    }
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 130,
+    "def": 90,
+    "spatk": 120,
+    "spdef": 60,
+    "spd": 116,
+    "total": 590
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "35.0 kg (77.2 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Paradox Pokémon",
+  "catchRate": 10,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "iron": "heavy/tough metal",
+    "valiant": "full of courage"
+  },
+  "pokedexEntries": {
+    "Iron-valiant": [
+      {
+        "game": "scarlet",
+        "desc": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine."
+      },
+      {
+        "game": "violet",
+        "desc": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal."
+      }
+    ]
+  }
+}

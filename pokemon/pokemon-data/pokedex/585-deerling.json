@@ -1,0 +1,95 @@
+{
+  "_id": 585,
+  "key": "deerling",
+  "name": {
+    "english": "Deerling",
+    "spanish": "Deerling",
+    "italian": "Deerling",
+    "japanese": "シキジカ",
+    "chinese": "四季鹿",
+    "korean": "",
+    "german": "Sesokitz",
+    "french": "Vivaldaim"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 190
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Sap Sipper",
+      "id": 157
+    },
+    "hidden": {
+      "name": "Serene Grace",
+      "id": 32
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 50,
+    "spd": 75,
+    "total": 335
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "19.5 kg (43.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 204,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Season Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 67,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "deer": "a species of mammal with antlers",
+    "-ling": "suffix meaning ‘small’"
+  },
+  "pokedexEntries": {
+    "Deerling": [
+      {
+        "game": "black",
+        "desc": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass."
+      },
+      {
+        "game": "white",
+        "desc": "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons."
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "_id": 132,
+  "key": "ditto",
+  "name": {
+    "english": "Ditto",
+    "spanish": "Ditto",
+    "italian": "Ditto",
+    "japanese": "メタモン",
+    "chinese": "百变怪",
+    "korean": "",
+    "german": "Ditto",
+    "french": "Métamorph"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 212,
+    "sword-shield": 373,
+    "isle-of-armor": 207,
+    "crystal": 92,
+    "gold-silver": 92,
+    "yellow": 132,
+    "red-blue": 132
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Limber",
+      "id": 7
+    },
+    "hidden": {
+      "name": "Imposter",
+      "id": 150
+    }
+  },
+  "baseStats": {
+    "hp": 48,
+    "atk": 48,
+    "def": 48,
+    "spatk": 48,
+    "spdef": 48,
+    "spd": 48,
+    "total": 288
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "4.0 kg (8.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 1,
+  "evs": {},
+  "eggGroups": [
+    "Ditto"
+  ],
+  "species": "Transform Pokémon",
+  "catchRate": 35,
+  "baseFriendship": 50,
+  "baseExp": 101,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ditto": "a duplicate or copy"
+  },
+  "pokedexEntries": {
+    "Ditto": [
+      {
+        "game": "red-blue",
+        "desc": "Capable of copying an enemy’s genetic code to instantly transform itself into a duplicate of the enemy."
+      },
+      {
+        "game": "yellow",
+        "desc": "When it spots an enemy, its body transfigures into an almost perfect copy of its opponent."
+      },
+      {
+        "game": "gold",
+        "desc": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked."
+      },
+      {
+        "game": "silver",
+        "desc": "Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise."
+      },
+      {
+        "game": "crystal",
+        "desc": "When it encounters another DITTO, it will move faster than normal to duplicate that opponent exactly."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POKéMON manages to get details wrong."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It can freely recombine its own cellular structure to transform into other life-forms."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Capable of copying an opponent’s genetic code to instantly transform itself into a duplicate of the enemy."
+      },
+      {
+        "game": "emerald",
+        "desc": "A DITTO rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise."
+      },
+      {
+        "game": "black-white",
+        "desc": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes."
+      },
+      {
+        "game": "x",
+        "desc": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees."
+      },
+      {
+        "game": "y",
+        "desc": "It can freely recombine its own cellular structure to transform into other life-forms."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong."
+      },
+      {
+        "game": "sun",
+        "desc": "It can reorganize its cells to make itself into a duplicate of anything it sees. The quality of the duplicate depends on the individual."
+      },
+      {
+        "game": "moon",
+        "desc": "With its astonishing capacity for metamorphosis, it can get along with anything. It does not get along well with its fellow Ditto."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It transforms into whatever it sees. If the thing it’s transforming into isn’t right in front of it, Ditto relies on its memory—so sometimes it fails."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent."
+      },
+      {
+        "game": "sword",
+        "desc": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes."
+      },
+      {
+        "game": "shield",
+        "desc": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees."
+      }
+    ]
+  }
+}

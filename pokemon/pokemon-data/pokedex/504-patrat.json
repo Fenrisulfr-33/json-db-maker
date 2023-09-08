@@ -1,0 +1,92 @@
+{
+  "_id": 504,
+  "key": "patrat",
+  "name": {
+    "english": "Patrat",
+    "spanish": "Patrat",
+    "italian": "Patrat",
+    "japanese": "ミネズミ",
+    "chinese": "探探鼠",
+    "korean": "",
+    "german": "Nagelotz",
+    "french": "Ratentif"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "two": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "hidden": {
+      "name": "Analytic",
+      "id": 148
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 55,
+    "def": 39,
+    "spatk": 35,
+    "spdef": 39,
+    "spd": 42,
+    "total": 255
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "11.6 kg (25.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 172,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Scout Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 51,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "patrol": "to watch over an area",
+    "packrat": "American rodent"
+  },
+  "pokedexEntries": {
+    "Patrat": [
+      {
+        "game": "black",
+        "desc": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others."
+      },
+      {
+        "game": "white",
+        "desc": "Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind."
+      }
+    ]
+  }
+}

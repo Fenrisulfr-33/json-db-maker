@@ -1,0 +1,68 @@
+{
+  "_id": 1002,
+  "key": "chien-pao",
+  "name": {
+    "english": "Chien-Pao"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 394
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sword of Ruin",
+      "id": 285
+    },
+    "hidden": {
+      "name": "Sword of Ruin",
+      "id": 285
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 80,
+    "spatk": 90,
+    "spdef": 65,
+    "spd": 135,
+    "total": 570
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "152.2 kg (335.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ruinous Pokémon",
+  "catchRate": 6,
+  "baseFriendship": 0,
+  "growthRate": "Slow",
+  "eggCycles": 50,
+  "nameOrigin": {
+    "jian": "Chinese for ‘sword’",
+    "bao": "Chinese for ‘leopard’"
+  },
+  "pokedexEntries": {
+    "Chien-pao": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused."
+      },
+      {
+        "game": "violet",
+        "desc": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+      }
+    ]
+  }
+}

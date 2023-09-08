@@ -1,0 +1,89 @@
+{
+  "_id": 499,
+  "key": "pignite",
+  "name": {
+    "english": "Pignite",
+    "spanish": "Pignite",
+    "italian": "Pignite",
+    "japanese": "チャオブー",
+    "chinese": "炒炒猪",
+    "korean": "",
+    "german": "Ferkokel",
+    "french": "Grotichon"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fire",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Thick Fat",
+      "id": 47
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 93,
+    "def": 55,
+    "spatk": 70,
+    "spdef": 55,
+    "spd": 55,
+    "total": 418
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "55.5 kg (122.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 170,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fire Pig Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 146,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "pig": "farmyard animal",
+    "ignite": "to bring flame to"
+  },
+  "pokedexEntries": {
+    "Pignite": [
+      {
+        "game": "black",
+        "desc": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke."
+      },
+      {
+        "game": "white",
+        "desc": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke."
+      }
+    ]
+  }
+}

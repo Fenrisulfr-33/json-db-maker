@@ -1,0 +1,104 @@
+{
+  "_id": 575,
+  "key": "gothorita",
+  "name": {
+    "english": "Gothorita",
+    "spanish": "Gothorita",
+    "italian": "Gothorita",
+    "japanese": "ゴチミル",
+    "chinese": "哥德小童",
+    "korean": "",
+    "german": "Hypnomorba",
+    "french": "Mesmérella"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 235,
+    "sword-shield": 268,
+    "crown-tundra": 52
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "two": {
+      "name": "Competitive",
+      "id": 172
+    },
+    "hidden": {
+      "name": "Shadow Tag",
+      "id": 23
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 70,
+    "spatk": 75,
+    "spdef": 85,
+    "spd": 55,
+    "total": 390
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "18.0 kg (39.7 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 200,
+  "generation": 5,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Manipulate Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "baseExp": 137,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gothic": "gloomy, dark",
+    "señorita": "Spanish for ‘Miss’, referring to a woman"
+  },
+  "pokedexEntries": {
+    "Gothorita": [
+      {
+        "game": "black",
+        "desc": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner."
+      },
+      {
+        "game": "white",
+        "desc": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment."
+      },
+      {
+        "game": "shield",
+        "desc": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe."
+      }
+    ]
+  }
+}

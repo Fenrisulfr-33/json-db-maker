@@ -1,0 +1,127 @@
+{
+  "_id": 322,
+  "key": "numel",
+  "name": {
+    "english": "Numel",
+    "spanish": "Numel",
+    "italian": "Numel",
+    "japanese": "ドンメル",
+    "chinese": "呆火驼",
+    "korean": "",
+    "german": "Camaub",
+    "french": "Chamallot"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 191
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Simple",
+      "id": 86
+    },
+    "hidden": {
+      "name": "Own Tempo",
+      "id": 20
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 40,
+    "spatk": 65,
+    "spdef": 45,
+    "spd": 35,
+    "total": 305
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "24.0 kg (52.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 110,
+  "generation": 3,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Numb Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "numb": "lacking in feeling",
+    "camel": "hump-backed mammal commonly found in desert areas"
+  },
+  "pokedexEntries": {
+    "Numel": [
+      {
+        "game": "ruby",
+        "desc": "NUMEL is extremely dull witted - it doesn’t notice being hit. However, it can’t stand hunger for even a second. This POKéMON’s body is a seething cauldron of boiling magma."
+      },
+      {
+        "game": "sapphire",
+        "desc": "NUMEL stores magma of almost 2,200 degrees F within its body. If it gets wet, the magma cools and hardens. In that event, the POKéMON’s body grows heavy and its movements become sluggish."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it."
+      },
+      {
+        "game": "emerald",
+        "desc": "A NUMEL stores boiling magma in the hump on its back. It is a hardy POKéMON that can transport a 220-pound load. It has served humans at work since long ago."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "The flaming magma it stores in the hump on its back is the source of its tremendous power."
+      },
+      {
+        "game": "black-white",
+        "desc": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The magma in its body reaches 2,200 degrees F. Its hump gets smaller when it uses Fire-type moves."
+      },
+      {
+        "game": "x",
+        "desc": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement."
+      },
+      {
+        "game": "y",
+        "desc": "The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Numel is extremely dull witted—it doesn’t notice being hit. However, it can’t stand hunger for even a second. This Pokémon’s body is a seething cauldron of boiling magma."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing Numel down."
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "_id": 471,
+  "key": "glaceon",
+  "name": {
+    "english": "Glaceon",
+    "spanish": "Glaceon",
+    "italian": "Glaceon",
+    "japanese": "グレイシア",
+    "chinese": "冰伊布",
+    "korean": "",
+    "german": "Glaziola",
+    "french": "Givrali"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 186,
+    "legends-arceus": 32,
+    "sword-shield": 203,
+    "crown-tundra": 80
+  },
+  "type": {
+    "one": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Snow Cloak",
+      "id": 81
+    },
+    "hidden": {
+      "name": "Ice Body",
+      "id": 115
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 110,
+    "spatk": 130,
+    "spdef": 95,
+    "spd": 65,
+    "total": 525
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "25.9 kg (57.1 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 50,
+  "generation": 4,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fresh Snow Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 184,
+  "growthRate": "Medium Fast",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "glacier": "a mass of ice",
+    "eon": "long period of time (implying evolution)"
+  },
+  "pokedexEntries": {
+    "Glaceon": [
+      {
+        "game": "diamond-pearl",
+        "desc": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles."
+      },
+      {
+        "game": "platinum",
+        "desc": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It causes small ice crystals to form by lowering the temperature of the surrounding atmosphere."
+      },
+      {
+        "game": "black-white",
+        "desc": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire."
+      },
+      {
+        "game": "sun",
+        "desc": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust."
+      },
+      {
+        "game": "moon",
+        "desc": "It freezes its fur into icicles, spiky and sharp, and tackles its prey."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It protects itself by freezing its fur into sharp needles. It can drop its body temperature below –75 degrees Fahrenheit."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It can instantaneously freeze any moisture that’s around it, creating ice pellets to shoot at its prey."
+      },
+      {
+        "game": "sword",
+        "desc": "Any who become captivated by the beauty of the snowfall that Glaceon creates will be frozen before they know it."
+      },
+      {
+        "game": "shield",
+        "desc": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "As a defense mechanism, it can completely freeze its fur to make its hairs stand out like needles."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around."
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_id": 868,
+  "key": "milcery",
+  "name": {
+    "english": "Milcery",
+    "spanish": "Milcery",
+    "italian": "Milcery",
+    "japanese": "マホミル",
+    "chinese": "小仙奶",
+    "korean": "",
+    "german": "Hokumil",
+    "french": "Crèmy"
+  },
+  "pokedexNumber": {
+    "sword-shield": 185
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sweet Veil",
+      "id": 175
+    },
+    "hidden": {
+      "name": "Aroma Veil",
+      "id": 165
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 40,
+    "def": 40,
+    "spatk": 50,
+    "spdef": 61,
+    "spd": 34,
+    "total": 270
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "0.3 kg (0.7 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 298,
+  "generation": 8,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Cream Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 54,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "milk": "white liquid from cows",
+    "sorcery": "magic"
+  },
+  "pokedexEntries": {
+    "Milcery": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream."
+      },
+      {
+        "game": "shield",
+        "desc": "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+      }
+    ]
+  }
+}

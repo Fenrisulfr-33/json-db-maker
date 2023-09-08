@@ -1,0 +1,90 @@
+{
+  "_id": 854,
+  "key": "sinistea",
+  "name": {
+    "english": "Sinistea",
+    "spanish": "Sinistea",
+    "italian": "Sinistea",
+    "japanese": "ヤバチャ",
+    "chinese": "来悲茶",
+    "korean": "",
+    "german": "Fatalitee",
+    "french": "Théffroi"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 237,
+    "sword-shield": 335,
+    "crown-tundra": 132
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Weak Armor",
+      "id": 133
+    },
+    "hidden": {
+      "name": "Cursed Body",
+      "id": 130
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 45,
+    "spatk": 74,
+    "spdef": 54,
+    "spd": 50,
+    "total": 308
+  },
+  "info": {
+    "height": "0.1 m (0′04″)",
+    "weight": "0.2 kg (0.4 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 293,
+  "generation": 8,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Black Tea Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sinister": "",
+    "tea": ""
+  },
+  "pokedexEntries": {
+    "Antique Form": [
+      {
+        "game": "sword",
+        "desc": "The swirl pattern in this Pokémon’s body is its weakness. If it gets stirred, the swirl loses its shape, and Sinistea gets dizzy."
+      },
+      {
+        "game": "shield",
+        "desc": "It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting— it tastes so bad that it gets spat out immediately."
+      }
+    ],
+    "Phony Form": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea."
+      },
+      {
+        "game": "shield",
+        "desc": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation."
+      }
+    ]
+  }
+}

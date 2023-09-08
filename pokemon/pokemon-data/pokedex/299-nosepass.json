@@ -1,0 +1,150 @@
+{
+  "_id": 299,
+  "key": "nosepass",
+  "name": {
+    "english": "Nosepass",
+    "spanish": "Nosepass",
+    "italian": "Nosepass",
+    "japanese": "ノズパス",
+    "chinese": "朝北鼻",
+    "korean": "",
+    "german": "Nasgnet",
+    "french": "Tarinor"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 190
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "two": {
+      "name": "Magnet Pull",
+      "id": 42
+    },
+    "hidden": {
+      "name": "Sand Force",
+      "id": 159
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 135,
+    "spatk": 45,
+    "spdef": 90,
+    "spd": 30,
+    "total": 375
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "97.0 kg (213.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 168,
+  "generation": 3,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Compass Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 75,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "nose": "facial feature",
+    "compass": "instrument that determines direction"
+  },
+  "pokedexEntries": {
+    "Nosepass": [
+      {
+        "game": "ruby",
+        "desc": "NOSEPASS’s magnetic nose is always pointed to the north. If two of these POKéMON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another."
+      },
+      {
+        "game": "sapphire",
+        "desc": "NOSEPASS had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the POKéMON actually moves by a little over 3/8 of an inch every year."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "Its magnetic nose consistently faces north. Travelers check NOSEPASS to get their bearings."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "Its nose is a magnet. As a result, this Pokémon always keeps its face pointing north."
+      },
+      {
+        "game": "platinum",
+        "desc": "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "If two of these meet, they cannot get too close because their noses repel each other."
+      },
+      {
+        "game": "black-white",
+        "desc": "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Its magnetic nose always faces north and draws iron objects to its body to protect itself better."
+      },
+      {
+        "game": "x",
+        "desc": "Its magnetic nose always faces north and draws iron objects to its body to protect itself better."
+      },
+      {
+        "game": "y",
+        "desc": "Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Nosepass’s magnetic nose is always pointed to the north. If two of these Pokémon meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Nosepass had been said to be completely unmoving, with its magnetic nose pointed due north. However, close observation has revealed that the Pokémon actually moves by a little over 3/8 of an inch every year."
+      },
+      {
+        "game": "sun",
+        "desc": "The magnet in Nosepass’s nose provides an unerring compass, making it an excellent partner for Trainers going on a journey."
+      },
+      {
+        "game": "moon",
+        "desc": "It uses powerful magnetism to drag its prey toward it. It’s also been known to pull in metal, which it collects and uses to protect itself."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It moves less than an inch a year, but when it’s in a jam, it will spin and drill down into the ground in a split second."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its nose is a magnet. As a result, this Pokémon always keeps its face pointing north."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Once the people of Hisui discovered that its red nose always points north, they grew to rely on it greatly when traveling afar. The nose seems to work in a similar way to ancient compasses."
+      }
+    ]
+  }
+}

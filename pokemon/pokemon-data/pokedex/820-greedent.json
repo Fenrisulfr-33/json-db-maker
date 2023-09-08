@@ -1,0 +1,79 @@
+{
+  "_id": 820,
+  "key": "greedent",
+  "name": {
+    "english": "Greedent",
+    "spanish": "Greedent",
+    "italian": "Greedent",
+    "japanese": "ヨクバリス",
+    "chinese": "藏饱栗鼠",
+    "korean": "",
+    "german": "Schlaraffel",
+    "french": "Rongrigou"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 30,
+    "sword-shield": 25,
+    "isle-of-armor": 10,
+    "crown-tundra": 6
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cheek Pouch",
+      "id": 167
+    },
+    "hidden": {
+      "name": "Gluttony",
+      "id": 82
+    }
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 95,
+    "def": 95,
+    "spatk": 55,
+    "spdef": 75,
+    "spd": 20,
+    "total": 460
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "6.0 kg (13.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 277,
+  "generation": 8,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Greedy Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 161,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "greedy": "",
+    "rodent": ""
+  },
+  "pokedexEntries": {
+    "Greedent": [
+      {
+        "game": "sword",
+        "desc": "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss."
+      },
+      {
+        "game": "shield",
+        "desc": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells."
+      }
+    ]
+  }
+}

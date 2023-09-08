@@ -1,0 +1,131 @@
+{
+  "_id": 307,
+  "key": "meditite",
+  "name": {
+    "english": "Meditite",
+    "spanish": "Meditite",
+    "italian": "Meditite",
+    "japanese": "アサナン",
+    "chinese": "玛沙那",
+    "korean": "",
+    "german": "Meditie",
+    "french": "Méditikka"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 161
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pure Power",
+      "id": 74
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 40,
+    "def": 55,
+    "spatk": 40,
+    "spdef": 55,
+    "spd": 60,
+    "total": 280
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "11.2 kg (24.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 105,
+  "generation": 3,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Meditate Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 50,
+  "baseExp": 56,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "meditate": "to engage in thought or contemplation",
+    "-ite": "suffix meaning ‘closely related’"
+  },
+  "pokedexEntries": {
+    "Meditite": [
+      {
+        "game": "ruby",
+        "desc": "MEDITITE undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this POKéMON always loses its concentration and focus. As a result, its training never ends."
+      },
+      {
+        "game": "sapphire",
+        "desc": "MEDITITE heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this POKéMON’s training."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It never skips its daily yoga training. It heightens its inner strength through meditation."
+      },
+      {
+        "game": "emerald",
+        "desc": "It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly."
+      },
+      {
+        "game": "diamond",
+        "desc": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper."
+      },
+      {
+        "game": "pearl",
+        "desc": "It never misses its daily yoga workouts, and it heightens its spiritual power through meditation."
+      },
+      {
+        "game": "platinum",
+        "desc": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It meditates to heighten its inner energy and to float in the air. It eats one berry a day."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation."
+      },
+      {
+        "game": "x",
+        "desc": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation."
+      },
+      {
+        "game": "y",
+        "desc": "It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus. As a result, its training never ends."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It meditates in order to build up its mental energy. It’s said to eat just one Berry a day."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It never misses its daily yoga workouts, and it heightens its spiritual power through meditation."
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_id": 522,
+  "key": "blitzle",
+  "name": {
+    "english": "Blitzle",
+    "spanish": "Blitzle",
+    "italian": "Blitzle",
+    "japanese": "シママ",
+    "chinese": "斑斑马",
+    "korean": "",
+    "german": "Elezeba",
+    "french": "Zébibron"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Lightning Rod",
+      "id": 31
+    },
+    "two": {
+      "name": "Motor Drive",
+      "id": 78
+    },
+    "hidden": {
+      "name": "Sap Sipper",
+      "id": 157
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 60,
+    "def": 32,
+    "spatk": 50,
+    "spdef": 32,
+    "spd": 76,
+    "total": 295
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "29.8 kg (65.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 180,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Electrified Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 59,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "blitz": "a swift attack; German for ‘lightning’",
+    "little": "small"
+  },
+  "pokedexEntries": {
+    "Blitzle": [
+      {
+        "game": "black",
+        "desc": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another."
+      },
+      {
+        "game": "white",
+        "desc": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate."
+      }
+    ]
+  }
+}

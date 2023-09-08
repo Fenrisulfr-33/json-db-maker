@@ -1,0 +1,90 @@
+{
+  "_id": 677,
+  "key": "espurr",
+  "name": {
+    "english": "Espurr",
+    "spanish": "Espurr",
+    "italian": "Espurr",
+    "japanese": "ニャスパー",
+    "chinese": "妙喵",
+    "korean": "",
+    "german": "Psiau",
+    "french": "Psystigri"
+  },
+  "pokedexNumber": {
+    "sword-shield": 208
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Own Tempo",
+      "id": 20
+    }
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 48,
+    "def": 54,
+    "spatk": 63,
+    "spdef": 60,
+    "spd": 68,
+    "total": 355
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.5 kg (7.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 234,
+  "generation": 6,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Restraint Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 71,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ESP": "Extra Sensory Perception; psychic power",
+    "purr": "sound a cat makes when content"
+  },
+  "pokedexEntries": {
+    "Espurr": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power."
+      },
+      {
+        "game": "sword",
+        "desc": "Though Espurr’s expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power."
+      },
+      {
+        "game": "shield",
+        "desc": "There’s enough psychic power in Espurr to send a wrestler flying, but because this power can’t be controlled, Espurr finds it troublesome."
+      }
+    ]
+  }
+}

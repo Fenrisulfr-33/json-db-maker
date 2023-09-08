@@ -1,0 +1,72 @@
+{
+  "_id": 942,
+  "key": "maschiff",
+  "name": {
+    "english": "Maschiff"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 196
+  },
+  "type": {
+    "one": "Dark",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "hidden": {
+      "name": "Stakeout",
+      "id": 198
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 78,
+    "def": 60,
+    "spatk": 40,
+    "spdef": 51,
+    "spd": 51,
+    "total": 340
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "16.0 kg (35.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Rascal Pokémon",
+  "catchRate": 150,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "mastiff": "a breed of dog",
+    "mischief": "misbehaviour"
+  },
+  "pokedexEntries": {
+    "Maschiff": [
+      {
+        "game": "scarlet",
+        "desc": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff’s face."
+      },
+      {
+        "game": "violet",
+        "desc": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+      }
+    ]
+  }
+}

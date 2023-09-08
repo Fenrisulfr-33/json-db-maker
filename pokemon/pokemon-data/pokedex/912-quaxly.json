@@ -1,0 +1,67 @@
+{
+  "_id": 912,
+  "key": "quaxly",
+  "name": {
+    "english": "Quaxly"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 7
+  },
+  "type": {
+    "one": "Water",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Moxie",
+      "id": 153
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 65,
+    "def": 45,
+    "spatk": 50,
+    "spdef": 45,
+    "spd": 50,
+    "total": 310
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "6.1 kg (13.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Duckling Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "quack": "sound made by a duck"
+  },
+  "pokedexEntries": {
+    "Quaxly": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime."
+      },
+      {
+        "game": "violet",
+        "desc": "Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things."
+      }
+    ]
+  }
+}

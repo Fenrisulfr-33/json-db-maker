@@ -1,0 +1,84 @@
+{
+  "_id": 837,
+  "key": "rolycoly",
+  "name": {
+    "english": "Rolycoly",
+    "spanish": "Rolycoly",
+    "italian": "Rolycoly",
+    "japanese": "タンドン",
+    "chinese": "小炭仔",
+    "korean": "",
+    "german": "Klonkett",
+    "french": "Charbi"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 91,
+    "sword-shield": 161,
+    "crown-tundra": 176
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Steam Engine",
+      "id": 243
+    },
+    "two": {
+      "name": "Heatproof",
+      "id": 85
+    },
+    "hidden": {
+      "name": "Flash Fire",
+      "id": 18
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 40,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 50,
+    "spd": 30,
+    "total": 240
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "12.0 kg (26.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 286,
+  "generation": 8,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Coal Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 48,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "roly-poly": "round, plump",
+    "coal": "black substance used as fuel"
+  },
+  "pokedexEntries": {
+    "Rolycoly": [
+      {
+        "game": "sword",
+        "desc": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago."
+      },
+      {
+        "game": "shield",
+        "desc": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it."
+      }
+    ]
+  }
+}

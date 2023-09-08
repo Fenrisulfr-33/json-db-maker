@@ -1,0 +1,102 @@
+{
+  "_id": 678,
+  "key": "meowstic",
+  "name": {
+    "english": "Meowstic",
+    "spanish": "Meowstic",
+    "italian": "Meowstic",
+    "japanese": "ニャオニクス",
+    "chinese": "超能妙喵",
+    "korean": "",
+    "german": "Psiaugon",
+    "french": "Mistigrix"
+  },
+  "pokedexNumber": {
+    "sword-shield": 209
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Prankster",
+      "id": 158
+    }
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 48,
+    "def": 76,
+    "spatk": 83,
+    "spdef": 81,
+    "spd": 104,
+    "total": 466
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "8.5 kg (18.7 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 234,
+  "generation": 6,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Constraint Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 163,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "meow": "the sound a cat makes",
+    "mystic": "of or relating to the occult or psychics"
+  },
+  "pokedexEntries": {
+    "Meowstic": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense."
+      }
+    ],
+    "Male": [
+      {
+        "game": "sword",
+        "desc": "Revealing the eyelike patterns on the insides of its ears will unleash its psychic powers. It normally keeps the patterns hidden, however."
+      },
+      {
+        "game": "shield",
+        "desc": "The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power."
+      }
+    ],
+    "Female": [
+      {
+        "game": "sword",
+        "desc": "Females are a bit more selfish and aggressive than males. If they don’t get what they want, they will torment you with their psychic abilities."
+      },
+      {
+        "game": "shield",
+        "desc": "If it doesn’t hold back when it unleashes its psychic power, it can tear apart a tanker. Its unfriendliness is part of its charm."
+      }
+    ]
+  }
+}

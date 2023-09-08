@@ -1,0 +1,125 @@
+{
+  "_id": 434,
+  "key": "stunky",
+  "name": {
+    "english": "Stunky",
+    "spanish": "Stunky",
+    "italian": "Stunky",
+    "japanese": "スカンプー",
+    "chinese": "臭鼬噗",
+    "korean": "",
+    "german": "Skunkapuh",
+    "french": "Moufouette"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 226,
+    "legends-arceus": 110,
+    "sword-shield": 130
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Stench",
+      "id": 1
+    },
+    "two": {
+      "name": "Aftermath",
+      "id": 106
+    },
+    "hidden": {
+      "name": "Keen Eye",
+      "id": 51
+    }
+  },
+  "baseStats": {
+    "hp": 63,
+    "atk": 63,
+    "def": 47,
+    "spatk": 41,
+    "spdef": 41,
+    "spd": 74,
+    "total": 329
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "19.2 kg (42.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 150,
+  "generation": 4,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Skunk Pokémon",
+  "catchRate": 225,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "skunk": "rodent known for emitting a foul smell",
+    "stinky": "unpleasant smelling"
+  },
+  "pokedexEntries": {
+    "Stunky": [
+      {
+        "game": "diamond",
+        "desc": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours."
+      },
+      {
+        "game": "pearl",
+        "desc": "It sprays a nose-curling, stinky fluid from its rear to repel attackers."
+      },
+      {
+        "game": "platinum",
+        "desc": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours."
+      },
+      {
+        "game": "sword",
+        "desc": "From its rear, it sprays a foul-smelling liquid at opponents. It aims for their faces, and it can hit them from over 16 feet away."
+      },
+      {
+        "game": "shield",
+        "desc": "If it lifts its tail and points its rear at you, beware. It’s about to spray you with a fluid stinky enough to make you faint."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It sprays a nose-curling, stinky fluid from its rear to repel attackers."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss."
+      }
+    ]
+  }
+}

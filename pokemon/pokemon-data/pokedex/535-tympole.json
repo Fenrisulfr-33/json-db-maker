@@ -1,0 +1,102 @@
+{
+  "_id": 535,
+  "key": "tympole",
+  "name": {
+    "english": "Tympole",
+    "spanish": "Tympole",
+    "italian": "Tympole",
+    "japanese": "オタマロ",
+    "chinese": "圆蝌蚪",
+    "korean": "",
+    "german": "Schallquap",
+    "french": "Tritonde"
+  },
+  "pokedexNumber": {
+    "sword-shield": 132
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "hidden": {
+      "name": "Water Absorb",
+      "id": 11
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 40,
+    "spatk": 50,
+    "spdef": 40,
+    "spd": 64,
+    "total": 294
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "4.5 kg (9.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 185,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Tadpole Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 59,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tympani": "a type of drum",
+    "tadpole": "a baby frog/toad"
+  },
+  "pokedexEntries": {
+    "Tympole": [
+      {
+        "game": "black",
+        "desc": "They warn others of danger by vibrating their cheeks to create a high-pitched sound."
+      },
+      {
+        "game": "white",
+        "desc": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk."
+      },
+      {
+        "game": "sword",
+        "desc": "Graceful ripples running across the water’s surface are a sure sign that Tympole are singing in high-pitched voices below."
+      },
+      {
+        "game": "shield",
+        "desc": "It uses sound waves to communicate with others of its kind. People and other Pokémon species can’t hear its cries of warning."
+      }
+    ]
+  }
+}

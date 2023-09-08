@@ -1,0 +1,162 @@
+{
+  "_id": 373,
+  "key": "salamence",
+  "name": {
+    "english": "Salamence",
+    "spanish": "Salamence",
+    "italian": "Salamence",
+    "japanese": "ボーマンダ",
+    "chinese": "暴飞龙",
+    "korean": "",
+    "german": "Brutalanda",
+    "french": "Drattak"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 278,
+    "crown-tundra": 115
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "hidden": {
+      "name": "Moxie",
+      "id": 153
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 135,
+    "def": 80,
+    "spatk": 110,
+    "spdef": 80,
+    "spd": 100,
+    "total": 600
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "112.6 kg (248.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 126,
+  "generation": 3,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Dragon Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "salamander": "lizard-like amphibian",
+    "menace": "brutal, violent"
+  },
+  "pokedexEntries": {
+    "Salamence": [
+      {
+        "game": "ruby",
+        "desc": "SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON’s cells, causing it to sprout its magnificent wings."
+      },
+      {
+        "game": "sapphire",
+        "desc": "By evolving into SALAMENCE, this POKéMON finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire."
+      },
+      {
+        "game": "emerald",
+        "desc": "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out."
+      },
+      {
+        "game": "x",
+        "desc": "It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire."
+      },
+      {
+        "game": "y",
+        "desc": "It’s uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Salamence came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this Pokémon’s cells, causing it to sprout its magnificent wings."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "By evolving into Salamence, this Pokémon finally realizes its long-held dream of growing wings. To express its joy, it flies and wheels all over the sky while spouting flames from its mouth."
+      },
+      {
+        "game": "sun",
+        "desc": "When angered, it loses all sense of itself and destroys everything around it. The destruction will continue until Salamence has tired itself out."
+      },
+      {
+        "game": "moon",
+        "desc": "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up the fields it passes over."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Overjoyed at finally being able to fly, it flies all over the place and usually doesn’t land until it’s completely exhausted and needs to sleep."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart’s desire—wings."
+      },
+      {
+        "game": "sword",
+        "desc": "Salamence is an unusual Pokémon in that it was able to evolve a body with wings just by constantly wishing to be able to fly."
+      },
+      {
+        "game": "shield",
+        "desc": "While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out."
+      }
+    ],
+    "Mega Salamence": [
+      {
+        "game": "sun",
+        "desc": "Anyone standing in its path gets sliced right in two, while this Pokémon continues its flight without interruption."
+      },
+      {
+        "game": "moon",
+        "desc": "Mega Evolution fuels its brutality, and it may even turn on the Trainer who raised it. It’s been dubbed “the blood-soaked crescent.”"
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The stress of its two proud wings becoming misshapen and stuck together because of strong energy makes it go on a rampage."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features."
+      }
+    ]
+  }
+}

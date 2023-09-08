@@ -1,0 +1,111 @@
+{
+  "_id": 393,
+  "key": "piplup",
+  "name": {
+    "english": "Piplup",
+    "spanish": "Piplup",
+    "italian": "Piplup",
+    "japanese": "ポッチャマ",
+    "chinese": "波加曼",
+    "korean": "",
+    "german": "Plinfa",
+    "french": "Tiplouf"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 161
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 53,
+    "atk": 51,
+    "def": 53,
+    "spatk": 61,
+    "spdef": 56,
+    "spd": 40,
+    "total": 314
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "5.2 kg (11.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 130,
+  "generation": 4,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Penguin Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 63,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "pip": "to hatch from an egg",
+    "plup": "dripping water sound"
+  },
+  "pokedexEntries": {
+    "Piplup": [
+      {
+        "game": "diamond",
+        "desc": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
+      },
+      {
+        "game": "pearl",
+        "desc": "It lives along shores in northern countries. A skilled swimmer, it dives for over 10 minutes to hunt."
+      },
+      {
+        "game": "platinum",
+        "desc": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It lives along the shore in northern countries. A skilled swimmer, it dives for over 10 minutes while hunting."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Prefers cold climes and appears along coasts. It’s an adorable little thing—as cute as any child—but it’s also prideful, unwilling to accept handouts from people."
+      }
+    ]
+  }
+}

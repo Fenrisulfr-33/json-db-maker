@@ -1,0 +1,68 @@
+{
+  "_id": 906,
+  "key": "sprigatito",
+  "name": {
+    "english": "Sprigatito"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 1
+  },
+  "type": {
+    "one": "Grass",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Protean",
+      "id": 168
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 61,
+    "def": 54,
+    "spatk": 45,
+    "spdef": 45,
+    "spd": 65,
+    "total": 310
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "4.1 kg (9.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Grass Cat Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sprig": "small stem of a plant",
+    "gatito": "Spanish for ‘kitten’"
+  },
+  "pokedexEntries": {
+    "Sprigatito": [
+      {
+        "game": "scarlet",
+        "desc": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out."
+      },
+      {
+        "game": "violet",
+        "desc": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "_id": 446,
+  "key": "munchlax",
+  "name": {
+    "english": "Munchlax",
+    "spanish": "Munchlax",
+    "italian": "Munchlax",
+    "japanese": "ゴンベ",
+    "chinese": "小卡比兽",
+    "korean": "",
+    "german": "Mampfaxo",
+    "french": "Goinfrex"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 51,
+    "sword-shield": 260,
+    "crown-tundra": 172
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "two": {
+      "name": "Thick Fat",
+      "id": 47
+    },
+    "hidden": {
+      "name": "Gluttony",
+      "id": 82
+    }
+  },
+  "baseStats": {
+    "hp": 135,
+    "atk": 85,
+    "def": 40,
+    "spatk": 40,
+    "spdef": 85,
+    "spd": 5,
+    "total": 390
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "105.0 kg (231.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 155,
+  "generation": 4,
+  "evs": {},
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Big Eater Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 50,
+  "baseExp": 78,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "munch": "to eat",
+    "relax": "chill out, slacken"
+  },
+  "pokedexEntries": {
+    "Munchlax": [
+      {
+        "game": "diamond",
+        "desc": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing."
+      },
+      {
+        "game": "pearl",
+        "desc": "It hides food under its long body hair. However, it forgets it has hidden the food."
+      },
+      {
+        "game": "platinum",
+        "desc": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It hides food under its long body hair. However, it forgets it has hidden the food."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing."
+      },
+      {
+        "game": "sun",
+        "desc": "It needs to consume its own weight in food every day. As far as flavor is concerned, it’s indifferent."
+      },
+      {
+        "game": "moon",
+        "desc": "When it finds something that looks like it might be edible, it goes right ahead and swallows it whole. That’s why it gets fatter day by day."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It hides food under its long fur, but it sometimes forgets about it and causes a stinky disturbance."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten."
+      },
+      {
+        "game": "sword",
+        "desc": "Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless—it does not care."
+      },
+      {
+        "game": "shield",
+        "desc": "It stores food beneath its fur. It might share just one bite, but only if it really trusts you."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It wolfs down its weight in food once a day, swallowing it whole with almost no chewing."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It hides food under its long body hair. However, it forgets it has hidden the food."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost."
+      }
+    ]
+  }
+}

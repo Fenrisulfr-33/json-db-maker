@@ -1,0 +1,107 @@
+{
+  "_id": 480,
+  "key": "uxie",
+  "name": {
+    "english": "Uxie",
+    "spanish": "Uxie",
+    "italian": "Uxie",
+    "japanese": "ユクシー",
+    "chinese": "由克希",
+    "korean": "",
+    "german": "Selfe",
+    "french": "Créhelf"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 225
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 75,
+    "def": 130,
+    "spatk": 75,
+    "spdef": 130,
+    "spd": 95,
+    "total": 580
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.3 kg (0.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "def": 2,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Knowledge Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 140,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "you": "personal pronoun",
+    "pixie": "a small, often mischievous fairy"
+  },
+  "pokedexEntries": {
+    "Uxie": [
+      {
+        "game": "diamond",
+        "desc": "Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes."
+      },
+      {
+        "game": "pearl",
+        "desc": "It is said that its emergence gave humans the intelligence to improve their quality of life."
+      },
+      {
+        "game": "platinum",
+        "desc": "When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It is said that its emergence gave humans the intelligence to improve their quality of life."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Known as the Being of Knowledge, it is said that it can wipe out the memory of those who see its eyes."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It is said that its emergence gave humans the intelligence to improve their quality of life."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "A Pokémon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge."
+      }
+    ]
+  }
+}

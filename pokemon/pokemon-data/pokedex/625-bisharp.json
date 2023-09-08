@@ -1,0 +1,113 @@
+{
+  "_id": 625,
+  "key": "bisharp",
+  "name": {
+    "english": "Bisharp",
+    "spanish": "Bisharp",
+    "italian": "Bisharp",
+    "japanese": "キリキザン",
+    "chinese": "劈斩司令",
+    "korean": "",
+    "german": "Caesurio",
+    "french": "Scalproie"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 368,
+    "sword-shield": 247,
+    "isle-of-armor": 30
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Defiant",
+      "id": 128
+    },
+    "two": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "hidden": {
+      "name": "Pressure",
+      "id": 46
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "spatk": 60,
+    "spdef": 70,
+    "spd": 70,
+    "total": 490
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "70.0 kg (154.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 219,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Sword Blade Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 172,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bishop": "a chess piece",
+    "sharp": "pointed"
+  },
+  "pokedexEntries": {
+    "Bisharp": [
+      {
+        "game": "black",
+        "desc": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses."
+      },
+      {
+        "game": "white",
+        "desc": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "No matter how strong the Bisharp, it’s said that if the blade on its head is chipped, it will retire from its position as the boss."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It leads a group of Pawniard. Bisharp doesn’t even change its expression when it deals the finishing blow to an opponent."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it."
+      },
+      {
+        "game": "shield",
+        "desc": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found."
+      }
+    ]
+  }
+}

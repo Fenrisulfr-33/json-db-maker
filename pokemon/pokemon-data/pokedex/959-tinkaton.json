@@ -1,0 +1,72 @@
+{
+  "_id": 959,
+  "key": "tinkaton",
+  "name": {
+    "english": "Tinkaton"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 281
+  },
+  "type": {
+    "one": "Fairy",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Mold Breaker",
+      "id": 104
+    },
+    "two": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Pickpocket",
+      "id": 124
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 75,
+    "def": 77,
+    "spatk": 70,
+    "spdef": 105,
+    "spd": 94,
+    "total": 506
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "112.8 kg (248.7 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Hammer Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tinker": "casually modify or repair, especially a mechanical object",
+    "ton": "large weight"
+  },
+  "pokedexEntries": {
+    "Tinkaton": [
+      {
+        "game": "scarlet",
+        "desc": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight."
+      },
+      {
+        "game": "violet",
+        "desc": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home."
+      }
+    ]
+  }
+}

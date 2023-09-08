@@ -1,0 +1,81 @@
+{
+  "_id": 795,
+  "key": "pheromosa",
+  "name": {
+    "english": "Pheromosa",
+    "spanish": "Pheromosa",
+    "italian": "Pheromosa",
+    "japanese": "フェローチェ",
+    "chinese": "费洛美螂",
+    "korean": "",
+    "german": "Schabelle",
+    "french": "Cancrelove"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Bug",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beast Boost",
+      "id": 224
+    }
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 137,
+    "def": 37,
+    "spatk": 137,
+    "spdef": 37,
+    "spd": 151,
+    "total": 570
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "25.0 kg (55.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Lissome Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "pheromone": "attractive chemical secreted by animals",
+    "-osa": "Latin female suffix"
+  },
+  "pokedexEntries": {
+    "Pheromosa": [
+      {
+        "game": "sun",
+        "desc": "One of the dangerous Ultra Beasts, it has been spotted running across the land at terrific speeds."
+      },
+      {
+        "game": "moon",
+        "desc": "One of the Ultra Beasts. It refuses to touch anything, perhaps because it senses some uncleanness in this world."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+      }
+    ]
+  }
+}
