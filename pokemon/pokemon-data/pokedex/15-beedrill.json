@@ -41,8 +41,8 @@
     "total": 395
   },
   "info": {
-    "height": "1.4 m (4′07″)",
-    "weight": "40.5 kg (89.3 lbs)"
+    "height": "1.0 m (3′03″)",
+    "weight": "29.5 kg (65.0 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -141,12 +141,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "Its best attack involves flying around at high speed, striking with poison needles, then flying off."
-      }
-    ],
-    "Mega Beedrill": [
-      {
-        "game": "lets-go-pikachu-eevee",
-        "desc": "Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear."
       }
     ]
   }
