@@ -45,7 +45,7 @@
   },
   "info": {
     "height": "0.5 m (1′08″)",
-    "weight": "161.0 kg (354.9 lbs)"
+    "weight": "11.0 kg (24.3 lbs))"
   },
   "gender": {
     "male": "50%",
@@ -144,24 +144,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones."
-      }
-    ],
-    "Mega Sableye": [
-      {
-        "game": "sun",
-        "desc": "The jewel from its chest, which has grown gigantic due to the effects of Mega Evolution, can turn back any attack."
-      },
-      {
-        "game": "moon",
-        "desc": "Supporting a giant heavy jewel, it can’t change direction very nimbly and is vulnerable to attack from behind."
-      },
-      {
-        "game": "ultra-sun",
-        "desc": "Bathed in the energy of Mega Evolution, the gemstone on its chest expands, rips through its skin, and falls out."
-      },
-      {
-        "game": "ultra-moon",
-        "desc": "It blocks any and all attacks with its giant-sized gemstone. However, the stone’s a heavy burden, and it limits Mega Sableye’s movements."
       }
     ]
   }

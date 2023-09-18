@@ -45,8 +45,8 @@
     "total": 479
   },
   "info": {
-    "height": "2.2 m (7′03″)",
-    "weight": "50.5 kg (111.3 lbs)"
+    "height": "1.5 m (4′11″)",
+    "weight": "39.5 kg (87.1 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -143,12 +143,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees."
-      }
-    ],
-    "Mega Pidgeot": [
-      {
-        "game": "lets-go-pikachu-eevee",
-        "desc": "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting."
       }
     ]
   }

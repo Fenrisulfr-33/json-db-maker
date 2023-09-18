@@ -32,8 +32,8 @@
     "total": 600
   },
   "info": {
-    "height": "1.1 m (3′07″)",
-    "weight": "27.8 kg (61.3 lbs)"
+    "height": "0.7 m (2′04″)",
+    "weight": "8.8 kg (19.4 lbs)"
   },
   "gender": {
     "male": "",
@@ -52,7 +52,7 @@
   "species": "Jewel Pokémon",
   "catchRate": 3,
   "baseFriendship": 50,
-  "baseExp": 270,
+  "baseExp": 300,
   "growthRate": "Slow",
   "eggCycles": 25,
   "nameOrigin": {

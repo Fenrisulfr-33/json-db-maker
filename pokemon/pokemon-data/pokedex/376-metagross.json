@@ -38,8 +38,8 @@
     "total": 600
   },
   "info": {
-    "height": "2.5 m (8′02″)",
-    "weight": "942.9 kg (2078.7 lbs)"
+    "height": "1.6 m (5′03″)",
+    "weight": "550.0 kg (1212.5 lbs)"
   },
   "gender": {
     "male": "",
@@ -141,24 +141,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer."
-      }
-    ],
-    "Mega Metagross": [
-      {
-        "game": "sun",
-        "desc": "This form results from one Metagross, one Metang, and two Beldum linking up."
-      },
-      {
-        "game": "moon",
-        "desc": "Mega Evolution stimulated its brain. It emerged as a ruthless Pokémon that will clutch at any means of ensuring its victories."
-      },
-      {
-        "game": "ultra-sun",
-        "desc": "Its intellect surpasses its previous level, resulting in battles so cruel, they’ll make you want to cover your eyes."
-      },
-      {
-        "game": "ultra-moon",
-        "desc": "When it knows it can’t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion."
       }
     ]
   }

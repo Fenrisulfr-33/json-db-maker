@@ -47,7 +47,7 @@
   },
   "info": {
     "height": "1.6 m (5′03″)",
-    "weight": "70.5 kg (155.4 lbs)"
+    "weight": "78.5 kg (173.1 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -170,28 +170,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "Though usually dim-witted, it seems to become inspired if the Shellder on its tail bites down."
-      }
-    ],
-    "Mega Slowbro": [
-      {
-        "game": "sun",
-        "desc": "All the energy from Mega Evolution poured into the Shellder on its tail, leaving Slowpoke to be swallowed whole."
-      },
-      {
-        "game": "moon",
-        "desc": "When bathed in the energy of Mega Evolution, Shellder converts into impregnable armor. There is virtually no change in Slowpoke."
-      },
-      {
-        "game": "ultra-sun",
-        "desc": "Tremendous energy strengthened the power of the Shellder on its tail, but it doesn’t really affect Slowpoke."
-      },
-      {
-        "game": "ultra-moon",
-        "desc": "Having been swallowed whole by Shellder, Slowbro now has an iron defense. It’s pretty comfortable in there, too."
-      },
-      {
-        "game": "lets-go-pikachu-eevee",
-        "desc": "Under the influence of Shellder’s digestive fluids, Slowpoke has awakened, gaining a great deal of power—and a little motivation to boot."
       }
     ],
     "Galarian Slowbro": [

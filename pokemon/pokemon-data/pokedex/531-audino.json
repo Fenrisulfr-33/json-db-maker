@@ -41,8 +41,8 @@
     "total": 445
   },
   "info": {
-    "height": "1.5 m (4′11″)",
-    "weight": "32.0 kg (70.5 lbs)"
+    "height": "1.1 m (3′07″)",
+    "weight": "31.0 kg (68.3 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -51,7 +51,9 @@
   },
   "evolution": null,
   "generation": 5,
-  "evs": {},
+  "evs": {
+    "hp": 2
+  },
   "eggGroups": [
     "Fairy"
   ],

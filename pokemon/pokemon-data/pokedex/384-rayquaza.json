@@ -32,8 +32,8 @@
     "total": 680
   },
   "info": {
-    "height": "10.8 m (35′05″)",
-    "weight": "392.0 kg (864.2 lbs)"
+    "height": "7.0 m (23′00″)",
+    "weight": "206.5 kg (455.3 lbs)"
   },
   "gender": {
     "male": "",
@@ -52,7 +52,7 @@
   "species": "Sky High Pokémon",
   "catchRate": 3,
   "baseFriendship": 0,
-  "baseExp": 306,
+  "baseExp": 340,
   "growthRate": "Slow",
   "eggCycles": 120,
   "nameOrigin": {
