@@ -1,0 +1,53 @@
+{
+    "_id": 1014,
+    "key": "okidogi",
+    "name": {
+        "english": "Okidogi"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Poison",
+        "two": "Fight"
+    },
+    "abilities": {
+        "one": {
+            "name": "Toxic Chain",
+            "id": 0
+        },
+        "hidden": {
+            "name": "Guard Dog",
+            "id": 0
+        }
+    },
+    "baseStats": {
+        "hp": 88,
+        "atk": 128,
+        "def": 115,
+        "spatk": 58,
+        "spdef": 86,
+        "spd": 80
+    },
+    "info": {
+        "height": "1.8 m (5′11″)",
+        "weight": "92 kg (202.8 lbs)"
+    },
+    "gender": {
+        "male": "100%",
+        "female": "",
+        "genderless": false
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "def": 2
+    },
+    "eggGroups": [],
+    "species": "Retainer Pokémon",
+    "catchRate": 3,
+    "baseFriendship": 0,
+    "baseExp": 0,
+    "growthRate": "",
+    "eggCycles": 120,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}
