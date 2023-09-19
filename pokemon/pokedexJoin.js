@@ -16,12 +16,12 @@ const {
   const {
     replaceWrongMoveNames,
   } = require("./helperFunctions/replaceWrongMoveNames");
-  const {
-    changePokedexEntriesData,
-  } = require("./helperFunctions/changePokedexEntriesData");
-  const {
-    addPaldeaAdditionalPokemon,
-  } = require("./helperFunctions/addFormsToPokedex");
+  // const {
+  //   changePokedexEntriesData,
+  // } = require("./helperFunctions/changePokedexEntriesData");
+  // const {
+  //   addPaldeaAdditionalPokemon,
+  // } = require("./helperFunctions/addFormsToPokedex");
   const {
       addFormsTabToPokemon
   } = require('./helperFunctions/addFormsTabToPokemon');

@@ -1,4 +1,4 @@
-const { paldeanFormTabs } = require('../data/forms/paldeanForms/paldeanFormsArray');
+const { paldeanFormTabs } = require('../data/forms/paldean-forms/paldeanFormsArray');
 
 function addFormsTabToPokemon(pokemonId){
     const foundTab = paldeanFormTabs.find((formTab) => formTab.id === pokemonId);
