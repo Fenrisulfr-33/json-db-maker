@@ -16734,5 +16734,70 @@
         }
       ]
     }
+  },
+  {
+    "_id": 299,
+    "name": {
+      "english": "Hospitality"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "When a Pokémon with Hospitality enters a battle, it restores HP for an ally by 25%.",
+      "full": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP."
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  },
+  {
+    "_id": 300,
+    "name": {
+      "english": "Mind's Eye"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "Enables Normal & Fighting type moves to hit Ghost types. Accuracy cannot be lowered, ignores evasion.",
+      "full": "Mind's Eye enables the Pokémon with this Ability to hit Ghost-type Pokémon with damage-dealing Normal- and Fighting-type moves. It also prevents other Pokémon from lowering the Pokémon's accuracy and ignores changes to the opponents' evasion."
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  },
+  {
+    "_id": 301,
+    "name": {
+      "english": "Embody Aspect"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "Enables Normal & Fighting type moves to hit Ghost types. Accuracy cannot be lowered, ignores evasion.",
+      "full": "Upon Terastallizing, Ogerpon's Ability will change to Embody Aspect, and one of its stats is raised, depending on the mask: Teal Mask - Speed, Wellspring Mask - Sp Def., Hearthflame Mask - Attack, Cornerstone Mask - Defense."
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  },
+  {
+    "_id": 302,
+    "name": {
+      "english": "Toxic Chain"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "When useing a move, there is a 30% chance the target will become badly poisoned.",
+      "full": "If a Pokémon with this Ability uses a move, there is a 30% chance the target will become badly poisoned."
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  },
+  {
+    "_id": 303,
+    "name": {
+      "english": "Supersweet Syrup"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "Lowers opponents evasion first time when entering battle.",
+      "full": "The first time a Pokémon with this Ability enters battle, the opponents' evasiveness is lowered by one stage."
+    },
+    "description": {},
+    "pokemonWithAbility": {}
   }
 ]

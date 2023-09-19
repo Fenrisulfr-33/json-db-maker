@@ -1,0 +1,54 @@
+{
+    "_id": 1013,
+    "key": "sinistcha",
+    "name": {
+        "english": "Sinistcha"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Grass",
+        "two": "Ghost"
+    },
+    "abilities": {
+        "one": {
+            "name": "Hospitality",
+            "id": 299
+        },
+        "hidden": {
+            "name": "Heatproof",
+            "id": 85
+        }
+    },
+    "baseStats": {
+        "hp": 71,
+        "atk": 60,
+        "def": 106,
+        "spatk": 121,
+        "spdef": 80,
+        "spd": 70,
+        "total": 508
+    },
+    "info": {
+        "height": "0.2 m (0′08″)",
+        "weight": "2.2 kg (4.9 lbs)"
+    },
+    "gender": {
+        "male": "",
+        "female": "",
+        "genderless": true
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "spatk": 2
+    },
+    "eggGroups": [],
+    "species": "Matcha Pokémon",
+    "catchRate": 60,
+    "baseFriendship": 0,
+    "baseExp": 0,
+    "growthRate": "",
+    "eggCycles": 20,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

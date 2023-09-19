@@ -401,6 +401,15 @@ const scarletVioletDex = [
     1008,
 ];
 
+const theTealMaskDex = [
+    167,
+    168,
+    193,
+    469,
+    194,
+    195,
+]
+
 const otherAvailablePokemon = [
     4,
     5,
@@ -412,7 +421,6 @@ const otherAvailablePokemon = [
     52.1, // Alolan Meowth
     52.2, // Galarian Meowth
     53.1, // ALolan Meowth
-    
 ]
 
 module.exports = {

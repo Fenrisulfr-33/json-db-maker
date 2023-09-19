@@ -10,10 +10,10 @@ const platinumMoves = require('../data/moves/04-platinum-moves.json');
 const heartGoldSoulSilverMoves = require('../data/moves/04-heartgold-soulsilver-moves.json');
 const blackWhiteMoves = require('../data/moves/05-black-white-moves.json');
 const black2White2Moves = require('../data/moves/05-black-2-white-2-moves.json');
-const xyMoves = require('../data/moves/06-xy-moves.json');
-const omegaRubyAlphaSapphireMoves = require('../data/moves/06-omega-ruby-alpha-sapphire-moves.json');
-const sunMoonMoves = require('../data/moves/07.1-sun-moon-moves.json');
-const ultraSunUltraMoonMoves = require('../data/moves/07.1-ultra-sun-ultra-moon-moves.json');
+const xyMoves = require('../data/moves/06.1-xy-moves.json');
+const omegaRubyAlphaSapphireMoves = require('../data/moves/06.1-omega-ruby-alpha-sapphire-moves.json');
+const sunMoonMoves = require('../data/moves/07.2-sun-moon-moves.json');
+const ultraSunUltraMoonMoves = require('../data/moves/07.2-ultra-sun-ultra-moon-moves.json');
 const letsGoPikachuEeveeMoves = require('../data/moves/07-lets-go-pikcahu-eevee-moves.json');
 const swordShieldMoves = require('../data/moves/08.1-sword-shield-moves.json');
 const brilliantDiamondShiningPearlMoves = require('../data/moves/08-brilliant-diamond-shining-pearl-moves.json');
@@ -48,7 +48,7 @@ const movesByGame = [
 ]
 
 const writeMoves = (moves, monId, returnObj, game, length) => {
-    if (monId <= length) {
+    if (Math.floor(monId) <= length) {
         const foundMoves = moves.find((mon) => mon.id === monId);
         if (foundMoves) {
             returnObj[game] = foundMoves[game];

@@ -12,11 +12,11 @@
     "abilities": {
         "one": {
             "name": "Hospitality",
-            "id": 0
+            "id": 299
         },
         "hidden": {
             "name": "Heatproof",
-            "id": 0
+            "id": 85
         }
     },
     "baseStats": {
@@ -25,7 +25,8 @@
         "def": 106,
         "spatk": 121,
         "spdef": 80,
-        "spd": 70
+        "spd": 70,
+        "total": 508
     },
     "info": {
         "height": "0.2 m (0′08″)",

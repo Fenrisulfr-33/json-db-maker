@@ -12,15 +12,15 @@
     "abilities": {
         "one": {
             "name": "Supersweet Syrup",
-            "id": 0
+            "id": 303
         },
         "two": {
             "name": "Gluttony",
-            "id": 0
+            "id": 82
         },
         "hidden": {
             "name": "Sticky Hold",
-            "id": 0
+            "id": 60
         }
     },
     "baseStats": {
@@ -29,7 +29,8 @@
         "def": 110,
         "spatk": 95,
         "spdef": 80,
-        "spd": 40
+        "spd": 40,
+        "total": 485
     },
     "info": {
         "height": "0.4 m (1′04″)",

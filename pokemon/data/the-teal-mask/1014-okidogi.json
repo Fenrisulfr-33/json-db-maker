@@ -12,11 +12,11 @@
     "abilities": {
         "one": {
             "name": "Toxic Chain",
-            "id": 0
+            "id": 302
         },
         "hidden": {
             "name": "Guard Dog",
-            "id": 0
+            "id": 275
         }
     },
     "baseStats": {
@@ -25,7 +25,8 @@
         "def": 115,
         "spatk": 58,
         "spdef": 86,
-        "spd": 80
+        "spd": 80,
+        "total": 555
     },
     "info": {
         "height": "1.8 m (5′11″)",
