@@ -1,0 +1,16 @@
+{
+    "id": 901.1,
+    "name": "bloodmoon-ursaluna",
+    "scarlet-violet": {
+      "level-up": [
+        { "name": "Tail Whip", "lvl": 1 }
+      ],
+      "egg": [
+        "Acid Spray"
+      ],
+      "technical-machine": [
+        { "tm": 1, "name": "Take Down" }
+      ]
+    }
+  }
+  

@@ -36,7 +36,7 @@
   },
   "info": {
     "height": "0.3 m (1′00″)",
-    "weight": "2.3 kg (5.1 lbs)"
+    "weight": "2.8 kg (6.2 lbs)"
   },
   "gender": {
     "male": "",
@@ -44,9 +44,12 @@
     "genderless": true
   },
   "evolution": 0,
-  "evs": {},
+  "evs": {
+    "spd": 2
+  },
   "eggGroups": [
-    null
+    "Fairy",
+    "Field"
   ],
   "species": "Family Pokémon",
   "catchRate": 75,
@@ -66,16 +69,6 @@
       {
         "game": "violet",
         "desc": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
-      }
-    ],
-    "Family Of Three": [
-      {
-        "game": "scarlet",
-        "desc": "They build huge nests with many rooms that are used for different purposes, such as eating and sleeping."
-      },
-      {
-        "game": "violet",
-        "desc": "The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear."
       }
     ]
   }

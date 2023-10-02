@@ -1,4 +1,4 @@
-const moves = require('../data/moves/00-dnt-moves.json');
+const moves = require('../moves/00-dnt-moves.json');
 
 const badMoves = [
     "PoisonPowder",

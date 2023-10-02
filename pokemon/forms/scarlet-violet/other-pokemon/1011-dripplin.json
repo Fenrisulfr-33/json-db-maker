@@ -1,0 +1,58 @@
+{
+    "_id": 1011,
+    "key": "dipplin",
+    "name": {
+        "english": "Dipplin"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Grass",
+        "two": "Dragon"
+    },
+    "abilities": {
+        "one": {
+            "name": "Supersweet Syrup",
+            "id": 303
+        },
+        "two": {
+            "name": "Gluttony",
+            "id": 82
+        },
+        "hidden": {
+            "name": "Sticky Hold",
+            "id": 60
+        }
+    },
+    "baseStats": {
+        "hp": 80,
+        "atk": 80,
+        "def": 110,
+        "spatk": 95,
+        "spdef": 80,
+        "spd": 40,
+        "total": 485
+    },
+    "info": {
+        "height": "0.4 m (1′04″)",
+        "weight": "4.4 kg (9.7 lbs)"
+    },
+    "gender": {
+        "male": "50%",
+        "female": "50%",
+        "genderless": false
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "def": 2
+    },
+    "eggGroups": [],
+    "species": "",
+    "catchRate": 45,
+    "baseFriendship": 0,
+    "baseExp": 0,
+    "growthRate": "",
+    "eggCycles": 20,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

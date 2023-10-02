@@ -1,9 +1,13 @@
-const { paldeanFormTabs } = require('../data/forms/paldean-forms/paldeanFormsArray');
+const { formTabs } = require('../forms/formTabs');
 
 function addFormsTabToPokemon(pokemonId){
-    const foundTab = paldeanFormTabs.find((formTab) => formTab.id === Math.floor(pokemonId));
+    const foundTab = formTabs.find((formTab) => {
+        if (formTab.pokemonIds.includes(pokemonId)){
+            return formTab;
+        }
+    });
     if (foundTab) {
-        return foundTab.formTab;
+        return foundTab.tab;
     }
 }
 

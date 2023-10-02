@@ -3,13 +3,13 @@ const pokemonPath = require("path").join(__dirname, "./pokemon-data/pokedex");
 const {
   assignPokedexNumbers,
 } = require("./helperFunctions/assignPokedexNumbers.js");
-const {
-  reformatPokemonObject,
-} = require("./helperFunctions/reformatPokemonObject.js");
+// const {
+//   reformatPokemonObject,
+// } = require("./helperFunctions/reformatPokemonObject.js");
 const { addMovesToPokemon } = require("./helperFunctions/addMovesToPokemon.js");
-const {
-  reformatPokemonMoves,
-} = require("./helperFunctions/reformatPokemonMoves.js");
+// const {
+//   reformatPokemonMoves,
+// } = require("./helperFunctions/reformatPokemonMoves.js");
 const {
   addGameDropDownToPokemon,
 } = require("./helperFunctions/addGameDropDownToPokemon.js");
@@ -27,6 +27,7 @@ const {
 } = require('./helperFunctions/addFormsTabToPokemon.js');
 
 const addEvolutionObjectToPokemon = require('./helperFunctions/addEvolutionObjectToPokemon.js');
+const { returnPokemonModel, returnPokemonMovesModel } = require('./helperFunctions/returnObjectModels.js');
 
 const pokedexJoined = [];
 const errors = {};
@@ -48,10 +49,10 @@ require("fs")
      * 
      * TODO: The delete was there because of the old method. Look into if needed anymore.
      */
-    delete pokemon.moves;
+    // delete pokemon.moves;
     pokemon.moves = {};
     pokemon.moves = addMovesToPokemon(pokemon._id, pokemon.moves);
-    pokemon.moves = reformatPokemonMoves(pokemon.moves);
+    pokemon.moves = returnPokemonMovesModel(pokemon.moves);
     // There were move names with incorrect typing from the webscrape.
     // TODO: Write a function to go through moves jsons and fix these errors at the core.
     pokemon.moves = replaceWrongMoveNames(pokemon.moves, errors);
@@ -87,7 +88,7 @@ require("fs")
      */
     pokemon.evolution = addEvolutionObjectToPokemon(pokemon.evolution);
     // Reformat the pokemon object so they are all the same.
-    returnPokemon = reformatPokemonObject(pokemon)
+    returnPokemon = returnPokemonModel(pokemon)
     // Add pokemon to total pokedex.
     pokedexJoined.push(returnPokemon);
   });
