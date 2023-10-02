@@ -1,5 +1,5 @@
 {
-  "_id": 964,
+  "_id": 964.1,
   "key": "palafin",
   "name": {
     "english": "Palafin"
@@ -19,16 +19,16 @@
   },
   "baseStats": {
     "hp": 100,
-    "atk": 70,
-    "def": 72,
-    "spatk": 53,
-    "spdef": 62,
+    "atk": 160,
+    "def": 97,
+    "spatk": 106,
+    "spdef": 87,
     "spd": 100,
-    "total": 457
+    "total": 650
   },
   "info": {
-    "height": "1.3 m (4′03″)",
-    "weight": "60.2 kg (132.7 lbs)"
+    "height": "1.8 m (5′11″)",
+    "weight": "97.4 kg (214.7 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -41,12 +41,12 @@
   },
   "eggGroups": [
     "Field",
-    "Water 2"
+    "water 2"
   ],
-  "species": "Dolphin Pokémon",
+  "species": "Hero Pokémon",
   "catchRate": 45,
   "baseFriendship": 50,
-  "baseExp": 160,
+  "baseExp": 228,
   "growthRate": "Slow",
   "eggCycles": 40,
   "nameOrigin": {
@@ -54,14 +54,14 @@
     "fin": "wing-like appendage on fish or other sea creatures"
   },
   "pokedexEntries": {
-    "Zero Form": [
+    "Hero Form": [
       {
         "game": "scarlet",
-        "desc": "This Pokémon changes its appearance if it hears its allies calling for help. Palafin will never show anybody its moment of transformation."
+        "desc": "This Pokémon’s ancient genes have awakened. It is now so extraordinarily strong that it can easily lift a cruise ship with one fin."
       },
       {
         "game": "violet",
-        "desc": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
+        "desc": "This hero of the ocean swims at a speed of 50 knots and saves drowning people and Pokémon."
       }
     ]
   }

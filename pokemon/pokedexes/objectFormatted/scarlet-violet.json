@@ -44,6 +44,10 @@
     "pokemonId": 916
   },
   {
+    "dexNo": 11,
+    "pokemonId": 916.1
+  },
+  {
     "dexNo": 12,
     "pokemonId": 917
   },
@@ -288,6 +292,10 @@
     "pokemonId": 925
   },
   {
+    "dexNo": 72,
+    "pokemonId": 925.1
+  },
+  {
     "dexNo": 73,
     "pokemonId": 172
   },
@@ -450,6 +458,18 @@
   {
     "dexNo": 113,
     "pokemonId": 931
+  },
+  {
+    "dexNo": 113,
+    "pokemonId": 931.1
+  },
+  {
+    "dexNo": 113,
+    "pokemonId": 931.2
+  },
+  {
+    "dexNo": 113,
+    "pokemonId": 931.3
   },
   {
     "dexNo": 114,
@@ -890,6 +910,14 @@
   {
     "dexNo": 223,
     "pokemonId": 128.1
+  },
+  {
+    "dexNo": 223,
+    "pokemonId": 128.2
+  },
+  {
+    "dexNo": 223,
+    "pokemonId": 128.3
   },
   {
     "dexNo": 224,

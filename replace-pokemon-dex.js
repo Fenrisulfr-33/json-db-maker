@@ -1,5 +1,6 @@
 const { MongoClient } = require("mongodb");
-const nationalDex = require("./pokemon/pokemon-data/pokedexJoined.json");
+// const nationalDex = require("./pokemon/pokemon-data/pokedexJoined.json");
+const nationalDex = require("./pokemon/pokemon-data/2023-10-02-pokedex.json");
 // Replace the uri string with your MongoDB deployment's connection string.
 const uri = "mongodb+srv://archer_brendan:OdinRaven33@cluster0.spj8q.mongodb.net/pokemon?retryWrites=true&w=majority";
 const client = new MongoClient(uri);
