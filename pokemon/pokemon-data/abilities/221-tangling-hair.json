@@ -1,0 +1,22 @@
+{
+  "_id": 221,
+  "key": "tangling-hair",
+  "name": {
+    "english": "Tangling Hair"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "When this Pokémon takes regular damage from a contact move, the attacking Pokémon's Speed lowers by one stage.",
+    "full": "When this Pokémon takes regular damage from a contact move, the attacking Pokémon's Speed lowers by one stage."
+  },
+  "description": {
+    "sun-moon": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "ultra-sun-ultra-moon": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "sword-shield": "Contact with the Pokémon lowers the attacker’s Speed stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

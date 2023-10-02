@@ -1,0 +1,35 @@
+{
+  "_id": 663,
+  "key": "darkest-lariat",
+  "name": {
+    "english": "Darkest Lariat",
+    "japanese": "ＤＤラリアット",
+    "chinese": "ＤＤ金勾臂",
+    "korean": "DD래리어트",
+    "german": "Lariat Oscuro",
+    "french": "Dark Lariat",
+    "italian": "Darkest Lariat",
+    "spanish": "Braccioteso"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 85,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user swings both arms and hits the target.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+    "ultra-sun-ultra-moon": "The user swings both arms and hits the target.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+    "lets-go-pikachu-lets-go-eevee": "The user swings both arms and hits the target.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+    "sword-shield": "The user swings both arms and hits the target.\nThe target’s stat changes don’t affect this\nattack’s damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.",
+    "shortEffect": "Ignores the target's stat modifiers."
+  },
+  "priority": 0
+}

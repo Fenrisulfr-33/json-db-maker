@@ -1,0 +1,29 @@
+{
+  "_id": 186,
+  "key": "dark-aura",
+  "name": {
+    "english": "Dark Aura"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Strengthens dark moves to 1.33× their power for all friendly and opposing Pokémon.",
+    "full": "Strengthens dark moves for all friendly and opposing Pokémon."
+  },
+  "description": {
+    "x-y": "Powers up each Pokémon’s Dark-type moves.",
+    "omega-ruby-alpha-sapphire": "Powers up each Pokémon’s Dark-type moves.",
+    "sun-moon": "Powers up each Pokémon’s Dark-type moves.",
+    "ultra-sun-ultra-moon": "Powers up each Pokémon’s Dark-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up each Pokémon’s Dark-type moves.",
+    "sword-shield": "Powers up each Pokémon’s Dark-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Yveltal",
+        "id": 717
+      }
+    ],
+    "hidden": []
+  }
+}

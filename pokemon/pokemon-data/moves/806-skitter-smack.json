@@ -1,0 +1,32 @@
+{
+  "_id": 806,
+  "key": "skitter-smack",
+  "name": {
+    "english": "Skitter Smack",
+    "japanese": "はいよるいちげき",
+    "chinese": "爬擊",
+    "korean": "엄습하는일격",
+    "german": "Golpe Rastrero",
+    "french": "Krabbelkracher",
+    "italian": "Skitter Smack",
+    "spanish": "Strisciacolpo"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 70,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user skitters behind the target to attack. This also\nlowers the target’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

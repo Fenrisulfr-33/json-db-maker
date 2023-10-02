@@ -1,0 +1,86 @@
+{
+  "_id": 44,
+  "key": "rain-dish",
+  "name": {
+    "english": "Rain Dish"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Heals for 1/16 max HP after each turn during rain.",
+    "full": "This Pokémon heals for 1/16 of its maximum HP after each turn during rain."
+  },
+  "description": {
+    "ruby-sapphire": "Slight HP recovery in rain.",
+    "emerald": "Slight HP recovery in rain.",
+    "firered-leafgreen": "Slight HP recovery in rain.",
+    "diamond-pearl": "The Pokémon gradually recovers HP in rain.",
+    "platinum": "The Pokémon gradually recovers HP in rain.",
+    "heartgold-soulsilver": "The Pokémon gradually recovers HP in rain.",
+    "black-white": "The Pokémon gradually regains HP in rain.",
+    "black-2-white-2": "The Pokémon gradually regains HP in rain.",
+    "x-y": "The Pokémon gradually regains HP in rain.",
+    "omega-ruby-alpha-sapphire": "The Pokémon gradually regains HP in rain.",
+    "sun-moon": "The Pokémon gradually regains HP in rain.",
+    "ultra-sun-ultra-moon": "The Pokémon gradually regains HP in rain.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon gradually regains HP in rain.",
+    "sword-shield": "The Pokémon gradually regains HP in rain."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Lotad",
+        "id": 270
+      },
+      {
+        "name": "Lombre",
+        "id": 271
+      },
+      {
+        "name": "Ludicolo",
+        "id": 272
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Squirtle",
+        "id": 7
+      },
+      {
+        "name": "Wartortle",
+        "id": 8
+      },
+      {
+        "name": "Blastoise",
+        "id": 9
+      },
+      {
+        "name": "Tentacool",
+        "id": 72
+      },
+      {
+        "name": "Tentacruel",
+        "id": 73
+      },
+      {
+        "name": "Wingull",
+        "id": 278
+      },
+      {
+        "name": "Pelipper",
+        "id": 279
+      },
+      {
+        "name": "Surskit",
+        "id": 283
+      },
+      {
+        "name": "Morelull",
+        "id": 755
+      },
+      {
+        "name": "Shiinotic",
+        "id": 756
+      }
+    ]
+  }
+}

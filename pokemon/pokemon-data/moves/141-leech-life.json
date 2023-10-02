@@ -1,0 +1,47 @@
+{
+  "_id": 141,
+  "key": "leech-life",
+  "name": {
+    "english": "Leech Life",
+    "japanese": "きゅうけつ",
+    "chinese": "吸血",
+    "korean": "흡혈",
+    "german": "Chupavidas",
+    "french": "Blutsauger",
+    "italian": "Leech Life",
+    "spanish": "Sanguisuga"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 20,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Steals 1/2 of the\ndamage inflicted.",
+    "crystal": "Steals 1/2 of the\ndamage inflicted.",
+    "ruby-sapphire": "An attack that steals half\nthe damage inflicted.",
+    "emerald": "An attack that steals half\nthe damage inflicted.",
+    "firered-leafgreen": "An attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.",
+    "diamond-pearl": "A blood-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "platinum": "A blood-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "heartgold-soulsilver": "A blood-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "black-white": "The user drains the target’s blood.\nThe user’s HP is restored by half the\ndamage taken by the target.",
+    "black-2-white-2": "The user drains the target’s blood.\nThe user’s HP is restored by half the\ndamage taken by the target.",
+    "x-y": "The user drains the target’s blood.\nThe user’s HP is restored by half the\ndamage taken by the target.",
+    "omega-ruby-alpha-sapphire": "The user drains the target’s blood.\nThe user’s HP is restored by half the\ndamage taken by the target.",
+    "sun-moon": "The user drains the target’s blood. The user’s HP is\nrestored by half the damage taken by the target.",
+    "ultra-sun-ultra-moon": "The user drains the target’s blood. The user’s HP is\nrestored by half the damage taken by the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user drains the target’s blood. The user’s HP is\nrestored by half the damage taken by the target.",
+    "sword-shield": "The user drains the target’s blood. The user’s HP is\nrestored by half the damage taken by the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+    "shortEffect": "Drains half the damage inflicted to heal the user."
+  },
+  "priority": 0
+}

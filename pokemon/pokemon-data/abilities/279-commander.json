@@ -1,0 +1,24 @@
+{
+  "_id": 279,
+  "key": "commander",
+  "name": {
+    "english": "Commander"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Goes inside the mouth of an ally Dondozo if one is on the field.",
+    "full": "Goes inside the mouth of an ally Dondozo if one is on the field."
+  },
+  "description": {
+    "scarlet-violet": "When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tatsugiri",
+        "id": 978
+      }
+    ],
+    "hidden": []
+  }
+}

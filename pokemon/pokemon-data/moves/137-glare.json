@@ -1,0 +1,47 @@
+{
+  "_id": 137,
+  "key": "glare",
+  "name": {
+    "english": "Glare",
+    "japanese": "へびにらみ",
+    "chinese": "大蛇瞪眼",
+    "korean": "뱀눈초리",
+    "german": "Deslumbrar",
+    "french": "Schlangenblick",
+    "italian": "Glare",
+    "spanish": "Sguardo Feroce"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 30,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that may\ncause paralysis.",
+    "crystal": "A move that may\ncause paralysis.",
+    "ruby-sapphire": "Intimidates and frightens\nthe foe into paralysis.",
+    "emerald": "Intimidates and frightens\nthe foe into paralysis.",
+    "firered-leafgreen": "The user intimidates\nthe foe with the\ndesign on its belly\nto cause paralysis.",
+    "diamond-pearl": "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n",
+    "platinum": "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n",
+    "heartgold-soulsilver": "The user intimidates\nthe foe with the\npattern on its belly\nto cause paralysis.\n",
+    "black-white": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+    "black-2-white-2": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+    "x-y": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+    "omega-ruby-alpha-sapphire": "The user intimidates the target with the\npattern on its belly to cause paralysis.",
+    "sun-moon": "The user intimidates the target with the pattern on\nits belly to cause paralysis.",
+    "ultra-sun-ultra-moon": "The user intimidates the target with the pattern on\nits belly to cause paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user intimidates the target with the pattern on\nits belly to cause paralysis.",
+    "sword-shield": "The user intimidates the target with the pattern on\nits belly to cause paralysis."
+  },
+  "effect": {
+    "full": "Paralyzes the target.",
+    "shortEffect": "Paralyzes the target."
+  },
+  "priority": 0
+}

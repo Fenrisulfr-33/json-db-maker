@@ -1,0 +1,37 @@
+{
+  "_id": 594,
+  "key": "water-shuriken",
+  "name": {
+    "english": "Water Shuriken",
+    "japanese": "みずしゅりけん",
+    "chinese": "飛水手裡劍",
+    "korean": "물수리검",
+    "german": "Shuriken de Agua",
+    "french": "Wasser-Shuriken",
+    "italian": "Water Shuriken",
+    "spanish": "Acqualame"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 15,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user hits the target with throwing\nstars two to five times in a row.\nThis move always goes first.",
+    "omega-ruby-alpha-sapphire": "The user hits the target with throwing\nstars two to five times in a row.\nThis move always goes first.",
+    "sun-moon": "The user hits the target with throwing stars two to\nfive times in a row. This move always goes first.",
+    "ultra-sun-ultra-moon": "The user hits the target with throwing stars two to\nfive times in a row. This move always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user hits the target with throwing stars two to\nfive times in a row. This move always goes first.",
+    "sword-shield": "The user hits the target with throwing stars two to\nfive times in a row. This move always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times.",
+    "shortEffect": "Hits 2–5 times."
+  },
+  "priority": 1
+}

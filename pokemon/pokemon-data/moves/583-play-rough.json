@@ -1,0 +1,37 @@
+{
+  "_id": 583,
+  "key": "play-rough",
+  "name": {
+    "english": "Play Rough",
+    "japanese": "じゃれつく",
+    "chinese": "嬉戏",
+    "korean": "치근거리기",
+    "german": "Carantoña",
+    "french": "Knuddler",
+    "italian": "Play Rough",
+    "spanish": "Carineria"
+  },
+  "type": "Fairy",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 90,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user plays rough with the target\nand attacks it. This may also lower\nthe target’s Attack stat.",
+    "omega-ruby-alpha-sapphire": "The user plays rough with the target\nand attacks it. This may also lower\nthe target’s Attack stat.",
+    "sun-moon": "The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat.",
+    "ultra-sun-ultra-moon": "The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat.",
+    "sword-shield": "The user plays rough with the target and attacks it.\nThis may also lower the target’s Attack stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Attack by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Attack by one stage."
+  },
+  "priority": 0
+}

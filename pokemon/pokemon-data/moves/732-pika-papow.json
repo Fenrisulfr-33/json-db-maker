@@ -1,0 +1,33 @@
+{
+  "_id": 732,
+  "key": "pika-papow",
+  "name": {
+    "english": "Pika Papow",
+    "japanese": "ピカピカサンダー",
+    "chinese": "閃閃雷光",
+    "korean": "피카피카썬더",
+    "german": "Pikatormenta",
+    "french": "Pika-Flash",
+    "italian": "Pika Papow",
+    "spanish": "Pikasaetta"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The more Pikachu loves its Trainer, the greater the\nmove’s power. It never misses.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

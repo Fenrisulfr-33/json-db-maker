@@ -1,0 +1,47 @@
+{
+  "_id": 118,
+  "key": "metronome",
+  "name": {
+    "english": "Metronome",
+    "japanese": "ゆびをふる",
+    "chinese": "挥指功",
+    "korean": "손가락흔들기",
+    "german": "Metrónomo",
+    "french": "Metronom",
+    "italian": "Metronome",
+    "spanish": "Metronomo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Randomly uses any\nPOKéMON move.",
+    "crystal": "Randomly uses any\nPOKéMON move.",
+    "ruby-sapphire": "Waggles a finger to use any\nPOKéMON move at random.",
+    "emerald": "Waggles a finger to use any\nPOKéMON move at random.",
+    "firered-leafgreen": "Waggles a finger\nand stimulates the\nbrain into using any\nmove at random.",
+    "diamond-pearl": "The user waggles a\nfinger and stimulates\nthe brain into\nrandomly using nearly\nany move.",
+    "platinum": "The user waggles a\nfinger and stimulates\nthe brain into\nrandomly using nearly\nany move.",
+    "heartgold-soulsilver": "The user waggles a\nfinger and stimulates\nthe brain into\nrandomly using nearly\nany move.",
+    "black-white": "The user waggles a finger and stimulates\nits brain into randomly using nearly\nany move.",
+    "black-2-white-2": "The user waggles a finger and stimulates\nits brain into randomly using nearly\nany move.",
+    "x-y": "The user waggles a finger and stimulates\nits brain into randomly using nearly\nany move.",
+    "omega-ruby-alpha-sapphire": "The user waggles a finger and stimulates\nits brain into randomly using nearly\nany move.",
+    "sun-moon": "The user waggles a finger and stimulates its brain\ninto randomly using nearly any move.",
+    "ultra-sun-ultra-moon": "The user waggles a finger and stimulates its brain\ninto randomly using nearly any move.",
+    "lets-go-pikachu-lets-go-eevee": "The user waggles a finger and stimulates its brain\ninto randomly using nearly any move.",
+    "sword-shield": "The user waggles a finger and stimulates its brain\ninto randomly using nearly any move."
+  },
+  "effect": {
+    "full": "Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, assist, chatter, copycat, counter, covet, destiny bond, detect, endure, feint, focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, protect, quick guard, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, and wide guard will not be selected by this move.\n\nThis move cannot be copied by mimic or mirror move, nor selected by assist, metronome, or sleep talk.",
+    "shortEffect": "Randomly selects and uses any move in the game."
+  },
+  "priority": 0
+}

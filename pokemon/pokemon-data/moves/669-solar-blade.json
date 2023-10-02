@@ -1,0 +1,35 @@
+{
+  "_id": 669,
+  "key": "solar-blade",
+  "name": {
+    "english": "Solar Blade",
+    "japanese": "ソーラーブレード",
+    "chinese": "日光刃",
+    "korean": "솔라블레이드",
+    "german": "Cuchilla Solar",
+    "french": "Solarklinge",
+    "italian": "Solar Blade",
+    "spanish": "Lama Solare"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 125,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "In this two-turn attack, the user gathers light and\nfills a blade with the light’s energy, attacking the\ntarget on the next turn.",
+    "ultra-sun-ultra-moon": "In this two-turn attack, the user gathers light and\nfills a blade with the light’s energy, attacking the\ntarget on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "In this two-turn attack, the user gathers light and\nfills a blade with the light’s energy, attacking the\ntarget on the next turn.",
+    "sword-shield": "In this two-turn attack, the user gathers light and fills a\nblade with the light’s energy, attacking the target on the\nnext turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "Requires a turn to charge before attacking."
+  },
+  "priority": 0
+}

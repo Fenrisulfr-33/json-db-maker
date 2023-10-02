@@ -1,0 +1,35 @@
+{
+  "_id": 203,
+  "key": "long-reach",
+  "name": {
+    "english": "Long Reach"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon's moves do not make contact.",
+    "full": "A move used by this Pokémon will not make contact."
+  },
+  "description": {
+    "sun-moon": "The Pokémon uses its moves without making contact with the target.",
+    "ultra-sun-ultra-moon": "The Pokémon uses its moves without making contact with the target.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon uses its moves without making contact with the target.",
+    "sword-shield": "The Pokémon uses its moves without making contact with the target."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Rowlet",
+        "id": 722
+      },
+      {
+        "name": "Dartrix",
+        "id": 723
+      },
+      {
+        "name": "Decidueye",
+        "id": 724
+      }
+    ]
+  }
+}

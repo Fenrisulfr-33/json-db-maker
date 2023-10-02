@@ -1,0 +1,161 @@
+{
+  "_id": 26,
+  "key": "levitate",
+  "name": {
+    "english": "Levitate"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Evades ground moves.",
+    "full": "This Pokémon is immune to ground-type moves, spikes, toxic spikes, and arena trap. This ability is disabled during gravity or ingrain, or while holding an iron ball. This ability is not disabled during roost."
+  },
+  "description": {
+    "ruby-sapphire": "Not hit by GROUND attacks.",
+    "emerald": "Not hit by GROUND attacks.",
+    "firered-leafgreen": "Not hit by GROUND attacks.",
+    "diamond-pearl": "Gives full immunity to all Ground-type moves.",
+    "platinum": "Gives full immunity to all Ground-type moves.",
+    "heartgold-soulsilver": "Gives full immunity to all Ground-type moves.",
+    "black-white": "Gives full immunity to all Ground-type moves.",
+    "black-2-white-2": "Gives full immunity to all Ground-type moves.",
+    "x-y": "Gives full immunity to all Ground-type moves.",
+    "omega-ruby-alpha-sapphire": "Gives full immunity to all Ground-type moves.",
+    "sun-moon": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
+    "ultra-sun-ultra-moon": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
+    "sword-shield": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Gastly",
+        "id": 92
+      },
+      {
+        "name": "Haunter",
+        "id": 93
+      },
+      {
+        "name": "Koffing",
+        "id": 109
+      },
+      {
+        "name": "Weezing",
+        "id": 110
+      },
+      {
+        "name": "Misdreavus",
+        "id": 200
+      },
+      {
+        "name": "Unown",
+        "id": 201
+      },
+      {
+        "name": "Vibrava",
+        "id": 329
+      },
+      {
+        "name": "Flygon",
+        "id": 330
+      },
+      {
+        "name": "Lunatone",
+        "id": 337
+      },
+      {
+        "name": "Solrock",
+        "id": 338
+      },
+      {
+        "name": "Baltoy",
+        "id": 343
+      },
+      {
+        "name": "Claydol",
+        "id": 344
+      },
+      {
+        "name": "Duskull",
+        "id": 355
+      },
+      {
+        "name": "Chimecho",
+        "id": 358
+      },
+      {
+        "name": "Latias",
+        "id": 380
+      },
+      {
+        "name": "Latios",
+        "id": 381
+      },
+      {
+        "name": "Mismagius",
+        "id": 429
+      },
+      {
+        "name": "Chingling",
+        "id": 433
+      },
+      {
+        "name": "Bronzor",
+        "id": 436
+      },
+      {
+        "name": "Bronzong",
+        "id": 437
+      },
+      {
+        "name": "Carnivine",
+        "id": 455
+      },
+      {
+        "name": "Rotom",
+        "id": 479
+      },
+      {
+        "name": "Uxie",
+        "id": 480
+      },
+      {
+        "name": "Mesprit",
+        "id": 481
+      },
+      {
+        "name": "Azelf",
+        "id": 482
+      },
+      {
+        "name": "Cresselia",
+        "id": 488
+      },
+      {
+        "name": "Tynamo",
+        "id": 602
+      },
+      {
+        "name": "Eelektrik",
+        "id": 603
+      },
+      {
+        "name": "Eelektross",
+        "id": 604
+      },
+      {
+        "name": "Cryogonal",
+        "id": 615
+      },
+      {
+        "name": "Hydreigon",
+        "id": 635
+      },
+      {
+        "name": "Vikavolt",
+        "id": 738
+      }
+    ],
+    "hidden": []
+  }
+}

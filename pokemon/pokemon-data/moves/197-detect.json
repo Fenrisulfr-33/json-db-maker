@@ -1,0 +1,47 @@
+{
+  "_id": 197,
+  "key": "detect",
+  "name": {
+    "english": "Detect",
+    "japanese": "みきり",
+    "chinese": "先决",
+    "korean": "판별",
+    "german": "Detección",
+    "french": "Scanner",
+    "italian": "Detect",
+    "spanish": "Individua"
+  },
+  "type": "Fighting",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Evades attack that\nturn. It may fail.",
+    "crystal": "Evades attack that\nturn. It may fail.",
+    "ruby-sapphire": "Evades attack, but may fail\nif used in succession.",
+    "emerald": "Evades attack, but may fail\nif used in succession.",
+    "firered-leafgreen": "Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.",
+    "diamond-pearl": "It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession.",
+    "platinum": "It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession.",
+    "heartgold-soulsilver": "It enables the user\nto evade all attacks.\nIts chance of failing\nrises if it is used in\nsuccession.",
+    "black-white": "It enables the user to evade all attacks.\nIts chance of failing rises if it is used\nin succession.",
+    "black-2-white-2": "It enables the user to evade all attacks.\nIts chance of failing rises if it is used\nin succession.",
+    "x-y": "Enables the user to evade all attacks.\nIts chance of failing rises if it is used\nin succession.",
+    "omega-ruby-alpha-sapphire": "Enables the user to evade all attacks.\nIts chance of failing rises if it is used\nin succession.",
+    "sun-moon": "Enables the user to evade all attacks. Its chance of\nfailing rises if it is used in succession.",
+    "ultra-sun-ultra-moon": "Enables the user to evade all attacks. Its chance of\nfailing rises if it is used in succession.",
+    "lets-go-pikachu-lets-go-eevee": "Enables the user to evade all attacks. Its chance of\nfailing rises if it is used in succession.",
+    "sword-shield": "This move enables the user to protect itself from\nall attacks. Its chance of failing rises if it is used\nin succession."
+  },
+  "effect": {
+    "full": "No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nIf the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.\n\nlock on, mind reader, and no guard provide a (100 – accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.\n\nthunder during rain dance and blizzard during hail have a 30% chance to break through this move.\n\nThe following effects are not prevented by this move:\n\n* acupressure from an ally\n* curse's curse effect\n* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn\n* feint, which will also end this move's protection after it hits\n* imprison\n* perish song\n* shadow force\n* Moves that merely copy the user, such as transform or psych up\n\nThis move cannot be selected by assist or metronome.",
+    "shortEffect": "Prevents any moves from hitting the user this turn."
+  },
+  "priority": 4
+}

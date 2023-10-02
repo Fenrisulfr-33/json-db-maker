@@ -1,0 +1,16 @@
+{
+  "_id": 251,
+  "key": "screen-cleaner",
+  "name": {
+    "english": "Screen Cleaner"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

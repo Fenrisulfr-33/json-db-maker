@@ -1,0 +1,35 @@
+{
+  "_id": 716,
+  "key": "zing-zap",
+  "name": {
+    "english": "Zing Zap",
+    "japanese": "びりびりちくちく",
+    "chinese": "麻麻刺刺",
+    "korean": "찌리리따끔따끔",
+    "german": "Electropunzada",
+    "french": "Elektropikser",
+    "italian": "Zing Zap",
+    "spanish": "Elettropizzico"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "A strong electric blast crashes down on the target,\ngiving it an electric shock. This may also make the\ntarget flinch.",
+    "ultra-sun-ultra-moon": "A strong electric blast crashes down on the target,\ngiving it an electric shock. This may also make the\ntarget flinch.",
+    "lets-go-pikachu-lets-go-eevee": "A strong electric blast crashes down on the target,\ngiving it an electric shock. This may also make the\ntarget flinch.",
+    "sword-shield": "A strong electric blast crashes down on the target,\ngiving it an electric shock. This may also make the\ntarget flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

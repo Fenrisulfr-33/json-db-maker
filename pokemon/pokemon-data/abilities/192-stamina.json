@@ -1,0 +1,31 @@
+{
+  "_id": 192,
+  "key": "stamina",
+  "name": {
+    "english": "Stamina"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Raises this Pokémon's Defense by one stage when it takes damage from a move.",
+    "full": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
+  },
+  "description": {
+    "sun-moon": "Boosts the Defense stat when hit by an attack.",
+    "ultra-sun-ultra-moon": "Boosts the Defense stat when hit by an attack.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Defense stat when hit by an attack.",
+    "sword-shield": "Boosts the Defense stat when hit by an attack."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Mudbray",
+        "id": 749
+      },
+      {
+        "name": "Mudsdale",
+        "id": 750
+      }
+    ],
+    "hidden": []
+  }
+}

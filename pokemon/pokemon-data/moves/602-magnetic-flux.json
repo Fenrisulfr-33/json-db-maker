@@ -1,0 +1,37 @@
+{
+  "_id": 602,
+  "key": "magnetic-flux",
+  "name": {
+    "english": "Magnetic Flux",
+    "japanese": "じばそうさ",
+    "chinese": "磁場操控",
+    "korean": "자기장조작",
+    "german": "Aura Magnética",
+    "french": "Magnetregler",
+    "italian": "Magnetic Flux",
+    "spanish": "Controllo Polare"
+  },
+  "type": "Electric",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 6,
+  "target": "user-and-allies",
+  "changes": [],
+  "description": {
+    "x-y": "The user manipulates magnetic fields,\nwhich raises the Defense and Sp. Def stats\nof ally Pokémon with the Plus or Minus Ability.",
+    "omega-ruby-alpha-sapphire": "The user manipulates magnetic fields,\nwhich raises the Defense and Sp. Def stats\nof ally Pokémon with the Plus or Minus Ability.",
+    "sun-moon": "The user manipulates magnetic fields, which raises\nthe Defense and Sp. Def stats of ally Pokémon with\nthe Plus or Minus Ability.",
+    "ultra-sun-ultra-moon": "The user manipulates magnetic fields, which raises\nthe Defense and Sp. Def stats of ally Pokémon with\nthe Plus or Minus Ability.",
+    "lets-go-pikachu-lets-go-eevee": "The user manipulates magnetic fields, which raises\nthe Defense and Sp. Def stats of ally Pokémon with\nthe Plus or Minus Ability.",
+    "sword-shield": "The user manipulates magnetic fields, which raises\nthe Defense and Sp. Def stats of ally Pokémon with\nthe Plus or Minus Ability."
+  },
+  "effect": {
+    "full": "Raises the Defense and Special Defense of all friendly Pokémon with plus or minus by one stage.",
+    "shortEffect": "Raises the Defense and Special Defense of all friendly Pokémon with plus or minus by one stage."
+  },
+  "priority": 0
+}

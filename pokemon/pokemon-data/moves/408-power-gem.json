@@ -1,0 +1,42 @@
+{
+  "_id": 408,
+  "key": "power-gem",
+  "name": {
+    "english": "Power Gem",
+    "japanese": "パワージェム",
+    "chinese": "力量宝石",
+    "korean": "파워젬",
+    "german": "Joya de Luz",
+    "french": "Juwelenkraft",
+    "italian": "Power Gem",
+    "spanish": "Gemmoforza"
+  },
+  "type": "Rock",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user attacks with\na ray of light that\nsparkles as if it were\nmade of gemstones.\n",
+    "platinum": "The user attacks with\na ray of light that\nsparkles as if it were\nmade of gemstones.\n",
+    "heartgold-soulsilver": "The user attacks with\na ray of light that\nsparkles as if it were\nmade of gemstones.\n",
+    "black-white": "The user attacks with a ray of light that\nsparkles as if it were made of gemstones.",
+    "black-2-white-2": "The user attacks with a ray of light that\nsparkles as if it were made of gemstones.",
+    "x-y": "The user attacks with a ray of light that\nsparkles as if it were made of gemstones.",
+    "omega-ruby-alpha-sapphire": "The user attacks with a ray of light that\nsparkles as if it were made of gemstones.",
+    "sun-moon": "The user attacks with a ray of light that sparkles as\nif it were made of gemstones.",
+    "ultra-sun-ultra-moon": "The user attacks with a ray of light that sparkles as\nif it were made of gemstones.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a ray of light that sparkles as\nif it were made of gemstones.",
+    "sword-shield": "The user attacks with a ray of light that sparkles as\nif it were made of gemstones."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

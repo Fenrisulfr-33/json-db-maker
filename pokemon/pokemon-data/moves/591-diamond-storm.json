@@ -1,0 +1,37 @@
+{
+  "_id": 591,
+  "key": "diamond-storm",
+  "name": {
+    "english": "Diamond Storm",
+    "japanese": "ダイヤストーム",
+    "chinese": "鑽石風暴",
+    "korean": "다이아스톰",
+    "german": "Torm. Diamantes",
+    "french": "Diamantsturm",
+    "italian": "Diamond Storm",
+    "spanish": "Diamantempesta"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 6,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "x-y": "The user whips up a storm of diamonds\nto damage opposing Pokémon. This may\nalso raise the user’s Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user whips up a storm of diamonds\nto damage opposing Pokémon. This may\nalso raise the user’s Defense stat.",
+    "sun-moon": "The user whips up a storm of diamonds to damage\nopposing Pokémon. This may also sharply raise the\nuser’s Defense stat.",
+    "ultra-sun-ultra-moon": "The user whips up a storm of diamonds to damage\nopposing Pokémon. This may also sharply raise the\nuser’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user whips up a storm of diamonds to damage\nopposing Pokémon. This may also sharply raise the\nuser’s Defense stat.",
+    "sword-shield": "The user whips up a storm of diamonds to damage\nopposing Pokémon. This may also sharply raise the\nuser’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to raise the user's Defense by two stages for each target hit.",
+    "shortEffect": "Has a $effect_chance% chance to raise the user's Defense by two stages for each target hit."
+  },
+  "priority": 0
+}

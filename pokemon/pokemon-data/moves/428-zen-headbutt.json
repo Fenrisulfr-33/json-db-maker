@@ -1,0 +1,42 @@
+{
+  "_id": 428,
+  "key": "zen-headbutt",
+  "name": {
+    "english": "Zen Headbutt",
+    "japanese": "しねんのずつき",
+    "chinese": "意念头锤",
+    "korean": "사념의박치기",
+    "german": "Cabezazo Zen",
+    "french": "Zen-Kopfstoß",
+    "italian": "Zen Headbutt",
+    "spanish": "Cozzata Zen"
+  },
+  "type": "Psychic",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.",
+    "platinum": "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "The user focuses its\nwillpower to its head\nand rams the foe.\nIt may also make the\ntarget flinch.",
+    "black-white": "The user focuses its willpower to its head\nand attacks the target.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user focuses its willpower to its head\nand attacks the target.\nIt may also make the target flinch.",
+    "x-y": "The user focuses its willpower to its head\nand attacks the target.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user focuses its willpower to its head\nand attacks the target.\nThis may also make the target flinch.",
+    "sun-moon": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+    "ultra-sun-ultra-moon": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch.",
+    "sword-shield": "The user focuses its willpower to its head and\nattacks the target. This may also make the\ntarget flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

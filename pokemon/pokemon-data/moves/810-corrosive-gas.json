@@ -1,0 +1,32 @@
+{
+  "_id": 810,
+  "key": "corrosive-gas",
+  "name": {
+    "english": "Corrosive Gas",
+    "japanese": "ふしょくガス",
+    "chinese": "腐蝕氣體",
+    "korean": "부식가스",
+    "german": "Gas Corrosivo",
+    "french": "Korrosionsgas",
+    "italian": "Corrosive Gas",
+    "spanish": "Gas Corrosivo"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": null,
+  "pp": 40,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 8,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user surrounds everything around it with\nhighly acidic gas and melts away items they hold."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

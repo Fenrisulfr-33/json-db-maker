@@ -1,0 +1,45 @@
+{
+  "_id": 298,
+  "key": "teeter-dance",
+  "name": {
+    "english": "Teeter Dance",
+    "japanese": "フラフラダンス",
+    "chinese": "摇晃舞",
+    "korean": "흔들흔들댄스",
+    "german": "Danza Caos",
+    "french": "Taumeltanz",
+    "italian": "Teeter Dance",
+    "spanish": "Strampadanza"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Confuses all POKéMON on\nthe scene.",
+    "emerald": "Confuses all POKéMON on\nthe scene.",
+    "firered-leafgreen": "A wobbly dance\nthat confuses all\nthe POKéMON in\nbattle.",
+    "diamond-pearl": "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n",
+    "platinum": "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n",
+    "heartgold-soulsilver": "The user performs a\nwobbly dance that\nconfuses all the\nPokémon in battle.\n",
+    "black-white": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+    "black-2-white-2": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+    "x-y": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+    "omega-ruby-alpha-sapphire": "The user performs a wobbly dance that\nconfuses the Pokémon around it.",
+    "sun-moon": "The user performs a wobbly dance that confuses\nthe Pokémon around it.",
+    "ultra-sun-ultra-moon": "The user performs a wobbly dance that confuses\nthe Pokémon around it.",
+    "lets-go-pikachu-lets-go-eevee": "The user performs a wobbly dance that confuses\nthe Pokémon around it.",
+    "sword-shield": "The user performs a wobbly dance that confuses\nthe Pokémon around it."
+  },
+  "effect": {
+    "full": "Confuses all targets.",
+    "shortEffect": "Confuses the target."
+  },
+  "priority": 0
+}

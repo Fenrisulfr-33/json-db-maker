@@ -1,0 +1,384 @@
+[
+  {
+    "pokemonName": "Amoonguss",
+    "item": "Rocky Helmet",
+    "ability": "Regenerator",
+    "evs": {
+      "def": 180,
+      "spdef": 92
+    },
+    "ivs": {
+      "atk": 0,
+      "spd": 27
+    },
+    "teraType": "Water",
+    "nature": "Bold",
+    "moves": [
+      "Pollen Puff",
+      "Spore",
+      "Rage Powder",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Cresselia",
+    "item": "Safety Goggles",
+    "ability": "Levitate",
+    "evs": {
+      "def": 188,
+      "spdef": 76
+    },
+    "ivs": {
+      "atk": 0,
+      "spd": 0
+    },
+    "teraType": "Fairy",
+    "nature": "Sassy",
+    "moves": [
+      "Ice Beam",
+      "Trick Room",
+      "Lunar Blessing",
+      "Moonblast"
+    ]
+  },
+  {
+    "pokemonName": "Chien-Pao",
+    "item": "Focus Sash",
+    "ability": "Sword of Ruin",
+    "evs": {
+      "atk": 252,
+      "spd": 252
+    },
+    "teraType": "Ghost",
+    "nature": "Jolly",
+    "moves": [
+      "Sucker Punch",
+      "Ice Spinner",
+      "Sacred Sword",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Dragonite",
+    "item": "Choice Band",
+    "ability": "Inner Focus",
+    "evs": {
+      "atk": 252,
+      "def": 4,
+      "spdef": 4,
+      "spd": 52
+    },
+    "teraType": "Normal",
+    "nature": "Adamant",
+    "moves": [
+      "Extreme Speed",
+      "Stomping Tantrum",
+      "Outrage",
+      "Aerial Ace"
+    ]
+  },
+  {
+    "pokemonName": "Flutter Mane",
+    "item": "Choice Specs",
+    "ability": "Protosynthesis",
+    "evs": {
+      "def": 172,
+      "spatk": 36,
+      "spdef": 4,
+      "spd": 196
+    },
+    "ivs": {
+      "atk": 0
+    },
+    "teraType": "Fairy",
+    "nature": "Modest",
+    "moves": [
+      "Moonblast",
+      "Dazzling Gleam",
+      "Shadow Ball",
+      "Thunderbolt"
+    ]
+  },
+  {
+    "pokemonName": "Flutter Mane",
+    "item": "Booster Energy",
+    "ability": "Protosynthesis",
+    "evs": {
+      "def": 220,
+      "spatk": 36,
+      "spdef": 4,
+      "spd": 148
+    },
+    "ivs": {
+      "atk": 0
+    },
+    "teraType": "Fairy",
+    "nature": "Modest",
+    "moves": [
+      "Moonblast",
+      "Dazzling Gleam",
+      "Shadow Ball",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Gholdengo",
+    "item": "Leftovers",
+    "ability": "Good as Gold",
+    "evs": {
+      "def": 4,
+      "spatk": 132,
+      "spdef": 36,
+      "spd": 100
+    },
+    "ivs": {
+      "atk": 0
+    },
+    "teraType": "Water",
+    "nature": "Modest",
+    "moves": [
+      "Protect",
+      "Make It Rain",
+      "Shadow Ball",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "pokemonName": "Goodra-Hisui",
+    "item": "Leftovers",
+    "ability": "Shell Armor",
+    "evs": {
+      "atk": 4,
+      "def": 244,
+      "spdef": 4,
+      "spd": 4
+    },
+    "teraType": "Flying",
+    "nature": "Careful",
+    "moves": [
+      "Heavy Slam",
+      "Body Press",
+      "Acid Armor",
+      "Life Dew"
+    ]
+  },
+  {
+    "pokemonName": "Grimmsnarl",
+    "item": "Light Clay",
+    "ability": "Prankster",
+    "evs": {
+      "atk": 4,
+      "def": 212,
+      "spdef": 36,
+      "spd": 4
+    },
+    "teraType": "Ghost",
+    "nature": "Careful",
+    "moves": [
+      "Spirit Break",
+      "Reflect",
+      "Light Screen",
+      "Parting Shot"
+    ]
+  },
+  {
+    "pokemonName": "Heatran",
+    "item": "Sitrus Berry",
+    "ability": "Flash Fire",
+    "evs": {
+      "def": 4,
+      "spatk": 236,
+      "spdef": 4,
+      "spd": 76
+    },
+    "ivs": {
+      "atk": 0
+    },
+    "teraType": "Grass",
+    "nature": "Modest",
+    "moves": [
+      "Heat Wave",
+      "Tera Blast",
+      "Earth Power",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Heatran",
+    "item": "Assault Vest",
+    "ability": "Flash Fire",
+    "evs": {
+      "def": 4,
+      "spatk": 236,
+      "spdef": 12,
+      "spd": 76
+    },
+    "teraType": "Grass",
+    "nature": "Modest",
+    "moves": [
+      "Heat Wave",
+      "Heavy Slam",
+      "Earth Power",
+      "Tera Blast"
+    ]
+  },
+  {
+    "pokemonName": "Landorus-Therian",
+    "item": "Assault Vest",
+    "ability": "Intimidate",
+    "evs": {
+      "atk": 252,
+      "def": 4,
+      "spdef": 12,
+      "spd": 44
+    },
+    "teraType": "Flying",
+    "nature": "Adamant",
+    "moves": [
+      "Tera Blast",
+      "U-turn",
+      "Stomping Tantrum",
+      "Rock Slide"
+    ]
+  },
+  {
+    "pokemonName": "Iron Hands",
+    "item": "Assault Vest",
+    "ability": "Quark Drive",
+    "evs": {
+      "atk": 156,
+      "def": 4,
+      "spdef": 252,
+      "spd": 92
+    },
+    "teraType": "Grass",
+    "nature": "Adamant",
+    "moves": [
+      "Wild Charge",
+      "Drain Punch",
+      "Fake Out",
+      "Volt Switch"
+    ]
+  },
+  {
+    "pokemonName": "Rillaboom",
+    "item": "Assault Vest",
+    "ability": "Grassy Surge",
+    "evs": {
+      "atk": 252,
+      "def": 4,
+      "spdef": 12,
+      "spd": 12
+    },
+    "teraType": "Fire",
+    "nature": "Adamant",
+    "moves": [
+      "Wood Hammer",
+      "Fake Out",
+      "U-turn",
+      "Stomping Tantrum"
+    ]
+  },
+  {
+    "pokemonName": "Tornadus",
+    "item": "Mental Herb",
+    "ability": "Prankster",
+    "evs": {
+      "def": 4,
+      "spatk": 116,
+      "spdef": 116,
+      "spd": 20
+    },
+    "ivs": {
+      "atk": 0
+    },
+    "teraType": "Ghost",
+    "nature": "Modest",
+    "moves": [
+      "Bleakwind Storm",
+      "Tailwind",
+      "Taunt",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Thundurus",
+    "item": "Sitrus Berry",
+    "ability": "Prankster",
+    "evs": {
+      "def": 188,
+      "spatk": 4,
+      "spdef": 4,
+      "spd": 60
+    },
+    "ivs": {
+      "atk": 0
+    },
+    "teraType": "Ghost",
+    "nature": "Calm",
+    "moves": [
+      "Thunderbolt",
+      "Thunder Wave",
+      "Taunt",
+      "Eerie Impulse"
+    ]
+  },
+  {
+    "pokemonName": "Urshifu-Rapid-Strike",
+    "item": "Choice Scarf",
+    "ability": "Unseen Fist",
+    "evs": {
+      "atk": 252,
+      "def": 4,
+      "spdef": 4,
+      "spd": 220
+    },
+    "teraType": "Water",
+    "nature": "Adamant",
+    "moves": [
+      "Surging Strikes",
+      "Close Combat",
+      "Aqua Jet",
+      "U-turn"
+    ]
+  },
+  {
+    "pokemonName": "Ursaluna",
+    "item": "Flame Orb",
+    "ability": "Guts",
+    "evs": {
+      "atk": 252,
+      "spdef": 4
+    },
+    "ivs": {
+      "spd": 0
+    },
+    "teraType": "Ghost",
+    "nature": "Brave",
+    "moves": [
+      "Facade",
+      "Earthquake",
+      "Swords Dance",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Urshifu-Rapid-Strike",
+    "item": "Mystic Water",
+    "ability": "Unseen Fist",
+    "evs": {
+      "atk": 236,
+      "def": 4,
+      "spdef": 244,
+      "spd": 4
+    },
+    "teraType": "Water",
+    "nature": "Adamant",
+    "moves": [
+      "Surging Strikes",
+      "Close Combat",
+      "Aqua Jet",
+      "Protect"
+    ]
+  }
+]

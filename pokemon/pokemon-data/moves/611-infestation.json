@@ -1,0 +1,37 @@
+{
+  "_id": 611,
+  "key": "infestation",
+  "name": {
+    "english": "Infestation",
+    "japanese": "まとわりつく",
+    "chinese": "死纏爛打",
+    "korean": "엉겨붙기",
+    "german": "Acoso",
+    "french": "Plage",
+    "italian": "Infestation",
+    "spanish": "Assillo"
+  },
+  "type": "Bug",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 20,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The target is infested and attacked for\nfour to five turns.\nThe target can’t flee during this time.",
+    "omega-ruby-alpha-sapphire": "The target is infested and attacked for\nfour to five turns.\nThe target can’t flee during this time.",
+    "sun-moon": "The target is infested and attacked for four to five\nturns. The target can’t flee during this time.",
+    "ultra-sun-ultra-moon": "The target is infested and attacked for four to five\nturns. The target can’t flee during this time.",
+    "lets-go-pikachu-lets-go-eevee": "The target is infested and attacked for four to five\nturns. The target can’t flee during this time.",
+    "sword-shield": "The target is infested and attacked for four to five\nturns. The target can’t flee during this time."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+    "shortEffect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 184,
+  "key": "scary-face",
+  "name": {
+    "english": "Scary Face",
+    "japanese": "こわいかお",
+    "chinese": "鬼脸",
+    "korean": "겁나는얼굴",
+    "german": "Cara Susto",
+    "french": "Grimasse",
+    "italian": "Scary Face",
+    "spanish": "Visotruce"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Sharply reduces\nthe foe's SPEED.",
+    "crystal": "Sharply reduces\nthe foe's SPEED.",
+    "ruby-sapphire": "Frightens with a scary face\nto sharply reduce SPEED.",
+    "emerald": "Frightens with a scary face\nto sharply reduce SPEED.",
+    "firered-leafgreen": "Frightens the foe\nwith a scary face\nto sharply reduce\nits SPEED.",
+    "diamond-pearl": "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.",
+    "platinum": "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.",
+    "heartgold-soulsilver": "The user frightens\nthe foe with a scary\nface to sharply\nreduce its Speed\nstat.",
+    "black-white": "The user frightens the target with a scary\nface to harshly reduce its Speed stat.",
+    "black-2-white-2": "The user frightens the target with a scary\nface to harshly reduce its Speed stat.",
+    "x-y": "The user frightens the target with a scary\nface to harshly lower its Speed stat.",
+    "omega-ruby-alpha-sapphire": "The user frightens the target with a scary\nface to harshly lower its Speed stat.",
+    "sun-moon": "The user frightens the target with a scary face to\nharshly lower its Speed stat.",
+    "ultra-sun-ultra-moon": "The user frightens the target with a scary face to\nharshly lower its Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user frightens the target with a scary face to\nharshly lower its Speed stat.",
+    "sword-shield": "The user frightens the target with a scary face to\nharshly lower its Speed stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Speed by two stages.",
+    "shortEffect": "Lowers the target's Speed by two stages."
+  },
+  "priority": 0
+}

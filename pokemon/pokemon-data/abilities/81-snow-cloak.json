@@ -1,0 +1,75 @@
+{
+  "_id": 81,
+  "key": "snow-cloak",
+  "name": {
+    "english": "Snow Cloak"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Increases evasion to 1.25× during hail. Protects against hail damage.",
+    "full": "During hail, this Pokémon has 1.25× its evasion, and it does not take hail damage regardless of type. The evasion bonus does not count as a stat modifier. Overworld: If the lead Pokémon has this ability, the wild encounter rate is halved in snow."
+  },
+  "description": {
+    "diamond-pearl": "Raises evasion in a hailstorm.",
+    "platinum": "Raises evasion in a hailstorm.",
+    "heartgold-soulsilver": "Raises evasion in a hailstorm.",
+    "black-white": "Raises evasion in a hailstorm.",
+    "black-2-white-2": "Raises evasion in a hailstorm.",
+    "x-y": "Boosts evasion in a hailstorm.",
+    "omega-ruby-alpha-sapphire": "Boosts evasion in a hailstorm.",
+    "sun-moon": "Boosts evasion in a hailstorm.",
+    "ultra-sun-ultra-moon": "Boosts evasion in a hailstorm.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts evasion in a hailstorm.",
+    "sword-shield": "Boosts evasiveness in a hailstorm."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Swinub",
+        "id": 220
+      },
+      {
+        "name": "Piloswine",
+        "id": 221
+      },
+      {
+        "name": "Glaceon",
+        "id": 471
+      },
+      {
+        "name": "Mamoswine",
+        "id": 473
+      },
+      {
+        "name": "Froslass",
+        "id": 478
+      },
+      {
+        "name": "Vanillite",
+        "id": 582
+      },
+      {
+        "name": "Vanillish",
+        "id": 583
+      },
+      {
+        "name": "Cubchoo",
+        "id": 613
+      },
+      {
+        "name": "Beartic",
+        "id": 614
+      },
+      {
+        "name": "Cetoddle",
+        "id": 974
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Articuno",
+        "id": 144
+      }
+    ]
+  }
+}

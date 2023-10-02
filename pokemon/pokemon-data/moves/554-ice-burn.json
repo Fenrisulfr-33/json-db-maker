@@ -1,0 +1,39 @@
+{
+  "_id": 554,
+  "key": "ice-burn",
+  "name": {
+    "english": "Ice Burn",
+    "japanese": "コールドフレア",
+    "chinese": "寒冷闪光",
+    "korean": "콜드플레어",
+    "german": "Llama Gélida",
+    "french": "Frosthauch",
+    "italian": "Ice Burn",
+    "spanish": "Vampagelida"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 140,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "On the second turn, an ultracold,\nfreezing wind surrounds the target.\nThis may leave the target with a burn.",
+    "black-2-white-2": "On the second turn, an ultracold,\nfreezing wind surrounds the target.\nThis may leave the target with a burn.",
+    "x-y": "On the second turn, an ultracold,\nfreezing wind surrounds the target.\nThis may leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "On the second turn, an ultracold,\nfreezing wind surrounds the target.\nThis may leave the target with a burn.",
+    "sun-moon": "On the second turn, an ultracold, freezing wind\nsurrounds the target. This may leave the target with\na burn.",
+    "ultra-sun-ultra-moon": "On the second turn, an ultracold, freezing wind\nsurrounds the target. This may leave the target with\na burn.",
+    "lets-go-pikachu-lets-go-eevee": "On the second turn, an ultracold, freezing wind\nsurrounds the target. This may leave the target with\na burn.",
+    "sword-shield": "On the second turn, an ultracold, freezing wind\nsurrounds the target. This may leave the target with\na burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.  User charges for one turn before attacking.",
+    "shortEffect": "Requires a turn to charge before attacking.  Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

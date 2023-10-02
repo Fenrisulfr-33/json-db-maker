@@ -1,0 +1,47 @@
+{
+  "_id": 207,
+  "key": "swagger",
+  "name": {
+    "english": "Swagger",
+    "japanese": "いばる",
+    "chinese": "装腔作势",
+    "korean": "뽐내기",
+    "german": "Contoneo",
+    "french": "Angeberei",
+    "italian": "Swagger",
+    "spanish": "Bullo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Causes confusion\nand raises ATTACK.",
+    "crystal": "Causes confusion\nand raises ATTACK.",
+    "ruby-sapphire": "Confuses the foe, but also\nsharply raises ATTACK.",
+    "emerald": "Confuses the foe, but also\nsharply raises ATTACK.",
+    "firered-leafgreen": "A move that makes\nthe foe confused,\nbut also sharply\nraises its ATTACK.",
+    "diamond-pearl": "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.",
+    "platinum": "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.",
+    "heartgold-soulsilver": "The user enrages the\nfoe into confusion.\nHowever, it also\nsharply raises the\nfoe’s Attack stat.",
+    "black-white": "The user enrages and confuses the target.\nHowever, it also sharply raises the\ntarget’s Attack stat.",
+    "black-2-white-2": "The user enrages and confuses the target.\nHowever, it also sharply raises the\ntarget’s Attack stat.",
+    "x-y": "The user enrages and confuses the target.\nHowever, this also sharply raises the\ntarget’s Attack stat.",
+    "omega-ruby-alpha-sapphire": "The user enrages and confuses the target.\nHowever, this also sharply raises the\ntarget’s Attack stat.",
+    "sun-moon": "The user enrages and confuses the target. However,\nthis also sharply raises the target’s Attack stat.",
+    "ultra-sun-ultra-moon": "The user enrages and confuses the target. However,\nthis also sharply raises the target’s Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user enrages and confuses the target. However,\nthis also sharply raises the target’s Attack stat.",
+    "sword-shield": "The user enrages and confuses the target. However,\nthis also sharply raises the target’s Attack stat."
+  },
+  "effect": {
+    "full": "Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied.",
+    "shortEffect": "Raises the target's Attack by two stages and confuses the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,35 @@
+{
+  "_id": 709,
+  "key": "accelerock",
+  "name": {
+    "english": "Accelerock",
+    "japanese": "アクセルロック",
+    "chinese": "衝岩",
+    "korean": "액셀록",
+    "german": "Roca Veloz",
+    "french": "Turbofelsen",
+    "italian": "Accelerock",
+    "spanish": "Rocciarapida"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user smashes into the target at high speed.\nThis move always goes first.",
+    "ultra-sun-ultra-moon": "The user smashes into the target at high speed.\nThis move always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user smashes into the target at high speed.\nThis move always goes first.",
+    "sword-shield": "The user smashes into the target at high speed.\nThis move always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 1
+}

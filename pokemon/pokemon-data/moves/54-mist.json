@@ -1,0 +1,47 @@
+{
+  "_id": 54,
+  "key": "mist",
+  "name": {
+    "english": "Mist",
+    "japanese": "しろいきり",
+    "chinese": "白雾",
+    "korean": "흰안개",
+    "german": "Neblina",
+    "french": "Weißnebel",
+    "italian": "Mist",
+    "spanish": "Nebbia"
+  },
+  "type": "Ice",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "gold-silver": "Prevents stat\nreduction.",
+    "crystal": "Prevents stat\nreduction.",
+    "ruby-sapphire": "Creates a mist that stops\nreduction of abilities.",
+    "emerald": "Creates a mist that stops\nreduction of abilities.",
+    "firered-leafgreen": "The ally party is\nprotected by a\nmist that prevents\nstat reductions.",
+    "diamond-pearl": "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.",
+    "platinum": "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.",
+    "heartgold-soulsilver": "The user cloaks its\nbody with a white mist\nthat prevents any of\nits stats from being\ncut for five turns.",
+    "black-white": "The user cloaks its body with a white mist\nthat prevents any of its stats from being\ncut for five turns.",
+    "black-2-white-2": "The user cloaks its body with a white mist\nthat prevents any of its stats from being\ncut for five turns.",
+    "x-y": "The user cloaks itself and its allies in a\nwhite mist that prevents any of their stats\nfrom being lowered for five turns.",
+    "omega-ruby-alpha-sapphire": "The user cloaks itself and its allies in a\nwhite mist that prevents any of their stats\nfrom being lowered for five turns.",
+    "sun-moon": "The user cloaks itself and its allies in a white mist\nthat prevents any of their stats from being lowered\nfor five turns.",
+    "ultra-sun-ultra-moon": "The user cloaks itself and its allies in a white mist\nthat prevents any of their stats from being lowered\nfor five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user cloaks itself and its allies in a white mist\nthat prevents any of their stats from being lowered\nfor five turns.",
+    "sword-shield": "The user cloaks itself and its allies in a white mist\nthat prevents any of their stats from being lowered\nfor five turns."
+  },
+  "effect": {
+    "full": "Pokémon on the user's side of the field are immune to stat-lowering effects for five turns.\n\nguard swap, heart swap, and power swap may still be used.\n\ndefog used by an opponent will end this effect.",
+    "shortEffect": "Protects the user's stats from being changed by enemy moves."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 209,
+  "key": "spark",
+  "name": {
+    "english": "Spark",
+    "japanese": "スパーク",
+    "chinese": "闪电",
+    "korean": "스파크",
+    "german": "Chispa",
+    "french": "Funkensprung",
+    "italian": "Spark",
+    "spanish": "Scintilla"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause paralysis.",
+    "crystal": "An attack that may\ncause paralysis.",
+    "ruby-sapphire": "An electrified tackle that\nmay paralyze the foe.",
+    "emerald": "An electrified tackle that\nmay paralyze the foe.",
+    "firered-leafgreen": "An electrically\ncharged tackle that\nmay also paralyze\nthe foe.",
+    "diamond-pearl": "The user throws an\nelectrically charged\ntackle at the foe.\nIt may also leave the\ntarget paralyzed.",
+    "platinum": "The user throws an\nelectrically charged\ntackle at the foe.\nIt may also leave the\ntarget paralyzed.",
+    "heartgold-soulsilver": "The user throws an\nelectrically charged\ntackle at the foe.\nIt may also leave the\ntarget paralyzed.",
+    "black-white": "The user throws an electrically charged\ntackle at the target. It may also leave\nthe target with paralysis.",
+    "black-2-white-2": "The user throws an electrically charged\ntackle at the target. It may also leave\nthe target with paralysis.",
+    "x-y": "The user throws an electrically charged\ntackle at the target. This may also leave\nthe target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user throws an electrically charged\ntackle at the target. This may also leave\nthe target with paralysis.",
+    "sun-moon": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis.",
+    "ultra-sun-ultra-moon": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis.",
+    "sword-shield": "The user throws an electrically charged tackle at the\ntarget. This may also leave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

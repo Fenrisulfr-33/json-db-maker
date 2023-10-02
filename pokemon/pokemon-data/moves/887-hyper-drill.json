@@ -1,0 +1,17 @@
+{
+  "_id": 887,
+  "key": "hyper-drill",
+  "name": {
+    "english": "Hyper Drill"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

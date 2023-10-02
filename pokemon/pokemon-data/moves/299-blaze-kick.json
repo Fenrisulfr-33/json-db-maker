@@ -1,0 +1,45 @@
+{
+  "_id": 299,
+  "key": "blaze-kick",
+  "name": {
+    "english": "Blaze Kick",
+    "japanese": "ブレイズキック",
+    "chinese": "火焰踢",
+    "korean": "브레이즈킥",
+    "german": "Patada Ígnea",
+    "french": "Feuerfeger",
+    "italian": "Blaze Kick",
+    "spanish": "Calciardente"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 85,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A kick with a high critical-\nhit ratio. May cause a burn.",
+    "emerald": "A kick with a high critical-\nhit ratio. May cause a burn.",
+    "firered-leafgreen": "A fiery kick with a\nhigh critical-hit\nratio. It may also\nburn the foe.",
+    "diamond-pearl": "The user launches a\nkick with a high\ncritical-hit ratio.\nIt may also leave the\ntarget with a burn.",
+    "platinum": "The user launches a\nkick with a high\ncritical-hit ratio.\nIt may also leave the\ntarget with a burn.",
+    "heartgold-soulsilver": "The user launches a\nkick with a high\ncritical-hit ratio.\nIt may also leave the\ntarget with a burn.",
+    "black-white": "The user launches a kick that lands a\ncritical hit more easily.\nIt may also leave the target with a burn.",
+    "black-2-white-2": "The user launches a kick that lands a\ncritical hit more easily.\nIt may also leave the target with a burn.",
+    "x-y": "The user launches a kick that lands a\ncritical hit more easily.\nThis may also leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "The user launches a kick that lands a\ncritical hit more easily.\nThis may also leave the target with a burn.",
+    "sun-moon": "The user launches a kick that lands a critical hit\nmore easily. This may also leave the target with\na burn.",
+    "ultra-sun-ultra-moon": "The user launches a kick that lands a critical hit\nmore easily. This may also leave the target with\na burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user launches a kick that lands a critical hit\nmore easily. This may also leave the target with\na burn.",
+    "sword-shield": "The user launches a kick that lands a critical hit\nmore easily. This may also leave the target with\na burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has an increased chance for a critical hit and a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

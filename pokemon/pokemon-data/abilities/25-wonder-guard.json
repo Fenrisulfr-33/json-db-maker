@@ -1,0 +1,37 @@
+{
+  "_id": 25,
+  "key": "wonder-guard",
+  "name": {
+    "english": "Wonder Guard"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Protects against damaging moves that are not super effective.",
+    "full": "This Pokémon is immune to damaging moves that are not super effective against it. Moves that inflict fixed damage, such as night shade or seismic toss, are considered super effective if their types are. Damage not directly dealt by moves, such as damage from weather, a status ailment, or spikes, is not prevented. This ability cannot be copied with role play or traded away with skill swap, but it can be copied with trace, disabled with gastro acid, or changed with worry seed. This Pokémon can still use Role Play itself to lose this ability, but not Skill Swap. If this Pokémon has a substitute, this ability will block moves as usual and any moves not blocked will react to the Substitute as usual."
+  },
+  "description": {
+    "ruby-sapphire": "“Super effective” hits.",
+    "emerald": "“Super effective” hits.",
+    "firered-leafgreen": "“Super effective” hits.",
+    "diamond-pearl": "Only supereffective moves will hit.",
+    "platinum": "Only supereffective moves will hit.",
+    "heartgold-soulsilver": "Only supereffective moves will hit.",
+    "black-white": "Only supereffective moves will hit.",
+    "black-2-white-2": "Only supereffective moves will hit.",
+    "x-y": "Only supereffective moves will hit.",
+    "omega-ruby-alpha-sapphire": "Only supereffective moves will hit.",
+    "sun-moon": "Its mysterious power only lets supereffective moves hit the Pokémon.",
+    "ultra-sun-ultra-moon": "Its mysterious power only lets supereffective moves hit the Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "Its mysterious power only lets supereffective moves hit the Pokémon.",
+    "sword-shield": "Its mysterious power only lets supereffective moves hit the Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Shedinja",
+        "id": 292
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": 567,
+  "key": "trick-or-treat",
+  "name": {
+    "english": "Trick-or-Treat",
+    "japanese": "ハロウィン",
+    "chinese": "万圣夜狂欢",
+    "korean": "핼러윈",
+    "german": "Halloween",
+    "french": "Halloween",
+    "italian": "Trick-or-Treat",
+    "spanish": "Halloween"
+  },
+  "type": "Ghost",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user takes the target trick-or-treating.\nThis adds Ghost type to the target’s type.",
+    "omega-ruby-alpha-sapphire": "The user takes the target trick-or-treating.\nThis adds Ghost type to the target’s type.",
+    "sun-moon": "The user takes the target trick-or-treating.\nThis adds Ghost type to the target’s type.",
+    "ultra-sun-ultra-moon": "The user takes the target trick-or-treating.\nThis adds Ghost type to the target’s type.",
+    "lets-go-pikachu-lets-go-eevee": "The user takes the target trick-or-treating.\nThis adds Ghost type to the target’s type.",
+    "sword-shield": "The user takes the target trick-or-treating.\nThis adds Ghost type to the target’s type."
+  },
+  "effect": {
+    "full": "Adds ghost to the target's types.",
+    "shortEffect": "Adds ghost to the target's types."
+  },
+  "priority": 0
+}

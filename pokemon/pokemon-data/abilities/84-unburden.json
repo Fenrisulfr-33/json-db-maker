@@ -1,0 +1,95 @@
+{
+  "_id": 84,
+  "key": "unburden",
+  "name": {
+    "english": "Unburden"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Doubles Speed upon using or losing a held item.",
+    "full": "When this Pokémon uses or loses its held item, its Speed is doubled. If it gains another item or leaves battle, this bonus is lost. This includes when the Pokémon drops its item because of knock off. This bonus does not count as a stat modifier. There is no notification when this ability takes effect."
+  },
+  "description": {
+    "platinum": "Raises Speed if a held item is used.",
+    "diamond-pearl": "Raises Speed if a held item is used.",
+    "heartgold-soulsilver": "Raises Speed if a held item is used.",
+    "black-white": "Raises Speed if a held item is used.",
+    "black-2-white-2": "Raises Speed if a held item is used.",
+    "x-y": "Boosts the Speed stat if its held item is used or lost.",
+    "omega-ruby-alpha-sapphire": "Boosts the Speed stat if its held item is used or lost.",
+    "sun-moon": "Boosts the Speed stat if the Pokémon’s held item is  used or lost.",
+    "ultra-sun-ultra-moon": "Boosts the Speed stat if the Pokémon’s held item is  used or lost.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Speed stat if the Pokémon’s held item is used or lost.",
+    "sword-shield": "Boosts the Speed stat if the Pokémon’s held item is used or lost."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Drifloon",
+        "id": 425
+      },
+      {
+        "name": "Drifblim",
+        "id": 426
+      },
+      {
+        "name": "Purrloin",
+        "id": 509
+      },
+      {
+        "name": "Liepard",
+        "id": 510
+      },
+      {
+        "name": "Hawlucha",
+        "id": 701
+      },
+      {
+        "name": "Nickit",
+        "id": 827
+      },
+      {
+        "name": "Thievul",
+        "id": 828
+      },
+      {
+        "name": "Shroodle",
+        "id": 944
+      },
+      {
+        "name": "Grafaiai",
+        "id": 945
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Hitmonlee",
+        "id": 106
+      },
+      {
+        "name": "Treecko",
+        "id": 252
+      },
+      {
+        "name": "Grovyle",
+        "id": 253
+      },
+      {
+        "name": "Sceptile",
+        "id": 254
+      },
+      {
+        "name": "Accelgor",
+        "id": 617
+      },
+      {
+        "name": "Swirlix",
+        "id": 684
+      },
+      {
+        "name": "Slurpuff",
+        "id": 685
+      }
+    ]
+  }
+}

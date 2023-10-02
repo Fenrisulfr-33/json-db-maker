@@ -1,0 +1,61 @@
+{
+  "_id": 173,
+  "key": "strong-jaw",
+  "name": {
+    "english": "Strong Jaw"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Strengthens biting moves to 1.5× their power.",
+    "full": "Strengthens biting moves to 1.5× their power."
+  },
+  "description": {
+    "x-y": "The Pokémon’s strong jaw gives it tremendous biting power.",
+    "omega-ruby-alpha-sapphire": "The Pokémon’s strong jaw gives it tremendous biting power.",
+    "sun-moon": "The Pokémon’s strong jaw boosts the power of its biting moves.",
+    "ultra-sun-ultra-moon": "The Pokémon’s strong jaw boosts the power of its biting moves.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon’s strong jaw boosts the power of its biting moves.",
+    "sword-shield": "The Pokémon’s strong jaw boosts the power of its biting moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tyrunt",
+        "id": 696
+      },
+      {
+        "name": "Tyrantrum",
+        "id": 697
+      },
+      {
+        "name": "Yungoos",
+        "id": 734
+      },
+      {
+        "name": "Gumshoos",
+        "id": 735
+      },
+      {
+        "name": "Bruxish",
+        "id": 779
+      },
+      {
+        "name": "Chewtle",
+        "id": 833
+      },
+      {
+        "name": "Drednaw",
+        "id": 834
+      },
+      {
+        "name": "Boltund",
+        "id": 836
+      },
+      {
+        "name": "Dracovish",
+        "id": 882
+      }
+    ],
+    "hidden": []
+  }
+}

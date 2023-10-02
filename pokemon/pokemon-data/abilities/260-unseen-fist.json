@@ -1,0 +1,16 @@
+{
+  "_id": 260,
+  "key": "unseen-fist",
+  "name": {
+    "english": "Unseen Fist"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

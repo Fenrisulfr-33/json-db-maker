@@ -1,0 +1,42 @@
+{
+  "_id": 456,
+  "key": "heal-order",
+  "name": {
+    "english": "Heal Order",
+    "japanese": "かいふくしれい",
+    "chinese": "回复指令",
+    "korean": "회복지령",
+    "german": "Auxilio",
+    "french": "Heilbefehl",
+    "italian": "Heal Order",
+    "spanish": "Comandocura"
+  },
+  "type": "Bug",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user calls out\nits underlings to heal\nit. The user regains\nup to half of its\nmax HP.",
+    "platinum": "The user calls out\nits underlings to heal\nit. The user regains\nup to half of its\nmax HP.",
+    "heartgold-soulsilver": "The user calls out\nits underlings to heal\nit. The user regains\nup to half of its\nmax HP.",
+    "black-white": "The user calls out its underlings to\nheal it. The user regains up to half of its\nmax HP.",
+    "black-2-white-2": "The user calls out its underlings to\nheal it. The user regains up to half of its\nmax HP.",
+    "x-y": "The user calls out its underlings to\nheal it. The user regains up to half of its\nmax HP.",
+    "omega-ruby-alpha-sapphire": "The user calls out its underlings to\nheal it. The user regains up to half of its\nmax HP.",
+    "sun-moon": "The user calls out its underlings to heal it. The user\nregains up to half of its max HP.",
+    "ultra-sun-ultra-moon": "The user calls out its underlings to heal it. The user\nregains up to half of its max HP.",
+    "lets-go-pikachu-lets-go-eevee": "The user calls out its underlings to heal it. The user\nregains up to half of its max HP.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Heals the user for half its max HP.",
+    "shortEffect": "Heals the user by half its max HP."
+  },
+  "priority": 0
+}

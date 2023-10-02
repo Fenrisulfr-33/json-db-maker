@@ -1,0 +1,29 @@
+{
+  "_id": 783,
+  "key": "aura-wheel",
+  "name": {
+    "english": "Aura Wheel",
+    "japanese": "オーラぐるま",
+    "chinese": "氣場輪",
+    "korean": "오라휠",
+    "german": "Rueda Aural",
+    "french": "Aura-Rad",
+    "italian": "Aura Wheel",
+    "spanish": "Ruota d’Aura"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 110,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "Morpeko attacks and raises its Speed with the energy\nstored in its cheeks. This move’s type changes\ndepending on the user’s form."
+  },
+  "effect": {},
+  "priority": 0
+}

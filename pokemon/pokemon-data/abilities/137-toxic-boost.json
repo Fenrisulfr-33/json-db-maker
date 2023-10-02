@@ -1,0 +1,31 @@
+{
+  "_id": 137,
+  "key": "toxic-boost",
+  "name": {
+    "english": "Toxic Boost"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Increases Attack to 1.5× when poisoned.",
+    "full": "This Pokémon has 1.5× its Attack when poisoned."
+  },
+  "description": {
+    "black-white": "Powers up physical attacks when poisoned.",
+    "black-2-white-2": "Powers up physical attacks when poisoned.",
+    "x-y": "Powers up physical attacks when the Pokémon is poisoned.",
+    "omega-ruby-alpha-sapphire": "Powers up physical attacks when the Pokémon is poisoned.",
+    "sun-moon": "Powers up physical attacks when the Pokémon is poisoned.",
+    "ultra-sun-ultra-moon": "Powers up physical attacks when the Pokémon is poisoned.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up physical attacks when the Pokémon is poisoned.",
+    "sword-shield": "Powers up physical attacks when the Pokémon is poisoned."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Zangoose",
+        "id": 335
+      }
+    ]
+  }
+}

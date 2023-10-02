@@ -1,0 +1,45 @@
+{
+  "_id": 293,
+  "key": "camouflage",
+  "name": {
+    "english": "Camouflage",
+    "japanese": "ほごしょく",
+    "chinese": "保护色",
+    "korean": "보호색",
+    "german": "Camuflaje",
+    "french": "Tarnung",
+    "italian": "Camouflage",
+    "spanish": "Camuffamento"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Alters the POKéMON’s type\ndepending on the location.",
+    "emerald": "Alters the POKéMON’s type\ndepending on the location.",
+    "firered-leafgreen": "Alters the user’s\ntype depending on\nthe location’s\nterrain.",
+    "diamond-pearl": "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.",
+    "platinum": "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.",
+    "heartgold-soulsilver": "The user’s type is\nchanged depending on\nits environment, such\nas at water’s edge, in\ngrass, or in a cave.",
+    "black-white": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+    "black-2-white-2": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+    "x-y": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+    "omega-ruby-alpha-sapphire": "The user’s type is changed depending on\nits environment, such as at water’s edge,\nin grass, or in a cave.",
+    "sun-moon": "The user’s type is changed depending on its\nenvironment, such as at water’s edge, in grass, or in\na cave.",
+    "ultra-sun-ultra-moon": "The user’s type is changed depending on its\nenvironment, such as at water’s edge, in grass, or in\na cave.",
+    "lets-go-pikachu-lets-go-eevee": "The user’s type is changed depending on its\nenvironment, such as at water’s edge, in grass, or in\na cave.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "User's type changes according to the terrain.\n\nTerrain        | New type\n-------------- | --------------\nBuilding       | normal\nCave           | rock\nDesert         | ground\nGrass          | grass\nMountain       | rock\nOcean          | water\nPond           | water\nRoad           | ground\nSnow           | ice\nTall grass     | grass\n\nIn Pokémon Battle Revolution:\n\nTerrain        | New type\n-------------- | --------------\nCourtyard      | normal\nCrystal        | rock\nGateway        | water\nMagma          | rock\nMain Street    | normal\nNeon           | normal\nStargazer      | rock\nSunny Park     | grass\nSunset         | ground\nWaterfall      | grass\n",
+    "shortEffect": "User's type changes to match the terrain."
+  },
+  "priority": 0
+}

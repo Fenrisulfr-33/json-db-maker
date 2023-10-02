@@ -1,0 +1,47 @@
+{
+  "_id": 108,
+  "key": "smokescreen",
+  "name": {
+    "english": "Smokescreen",
+    "japanese": "えんまく",
+    "chinese": "烟幕",
+    "korean": "연막",
+    "german": "Pantalla de Humo",
+    "french": "Rauchwolke",
+    "italian": "Smokescreen",
+    "spanish": "Muro di Fumo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Lowers the foe's\naccuracy.",
+    "crystal": "Lowers the foe's\naccuracy.",
+    "ruby-sapphire": "Lowers the foe’s accuracy\nusing smoke, ink, etc.",
+    "emerald": "Lowers the foe’s accuracy\nusing smoke, ink, etc.",
+    "firered-leafgreen": "An obscuring cloud\nof smoke or ink\nreduces the foe’s\naccuracy.",
+    "diamond-pearl": "The user releases an\nobscuring cloud of\nsmoke or ink.\nIt reduces the foe’s\naccuracy.",
+    "platinum": "The user releases an\nobscuring cloud of\nsmoke or ink.\nIt reduces the foe’s\naccuracy.",
+    "heartgold-soulsilver": "The user releases an\nobscuring cloud of\nsmoke or ink.\nIt reduces the foe’s\naccuracy.",
+    "black-white": "The user releases an obscuring cloud\nof smoke or ink. It reduces the\ntarget’s accuracy.",
+    "black-2-white-2": "The user releases an obscuring cloud\nof smoke or ink. It reduces the\ntarget’s accuracy.",
+    "x-y": "The user releases an obscuring cloud\nof smoke or ink. This lowers the\ntarget’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user releases an obscuring cloud\nof smoke or ink. This lowers the\ntarget’s accuracy.",
+    "sun-moon": "The user releases an obscuring cloud of smoke or\nink. This lowers the target’s accuracy.",
+    "ultra-sun-ultra-moon": "The user releases an obscuring cloud of smoke or\nink. This lowers the target’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user releases an obscuring cloud of smoke or\nink. This lowers the target’s accuracy.",
+    "sword-shield": "The user releases an obscuring cloud of smoke or\nink. This lowers the target’s accuracy."
+  },
+  "effect": {
+    "full": "Lowers the target's accuracy by one stage.",
+    "shortEffect": "Lowers the target's accuracy by one stage."
+  },
+  "priority": 0
+}

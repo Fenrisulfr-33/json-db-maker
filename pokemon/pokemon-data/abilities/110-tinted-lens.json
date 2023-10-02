@@ -1,0 +1,75 @@
+{
+  "_id": 110,
+  "key": "tinted-lens",
+  "name": {
+    "english": "Tinted Lens"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Doubles damage inflicted with not-very-effective moves.",
+    "full": "This Pokémon deals twice as much damage with moves that are not very effective against the target."
+  },
+  "description": {
+    "diamond-pearl": "Powers up “not very effective” moves.",
+    "platinum": "Powers up “not very effective” moves.",
+    "heartgold-soulsilver": "Powers up “not very effective” moves.",
+    "black-white": "Powers up “not very effective” moves.",
+    "black-2-white-2": "Powers up “not very effective” moves.",
+    "x-y": "Powers up “not very effective” moves.",
+    "omega-ruby-alpha-sapphire": "Powers up “not very effective” moves.",
+    "sun-moon": "The Pokémon can use “not very effective” moves to deal regular damage. ",
+    "ultra-sun-ultra-moon": "The Pokémon can use “not very effective” moves to deal regular damage. ",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon can use “not very effective” moves to deal regular damage.",
+    "sword-shield": "The Pokémon can use “not very effective” moves to deal regular damage."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Venonat",
+        "id": 48
+      },
+      {
+        "name": "Venomoth",
+        "id": 49
+      },
+      {
+        "name": "Illumise",
+        "id": 314
+      },
+      {
+        "name": "Yanmega",
+        "id": 469
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Butterfree",
+        "id": 12
+      },
+      {
+        "name": "Hoothoot",
+        "id": 163
+      },
+      {
+        "name": "Noctowl",
+        "id": 164
+      },
+      {
+        "name": "Mothim",
+        "id": 414
+      },
+      {
+        "name": "Sigilyph",
+        "id": 561
+      },
+      {
+        "name": "Nymble",
+        "id": 919
+      },
+      {
+        "name": "Lokix",
+        "id": 920
+      }
+    ]
+  }
+}

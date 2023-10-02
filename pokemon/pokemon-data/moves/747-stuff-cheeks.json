@@ -1,0 +1,32 @@
+{
+  "_id": 747,
+  "key": "stuff-cheeks",
+  "name": {
+    "english": "Stuff Cheeks",
+    "japanese": "ほおばる",
+    "chinese": "大快朵頤",
+    "korean": "볼가득넣기",
+    "german": "Atiborramiento",
+    "french": "Backenstopfer",
+    "italian": "Stuff Cheeks",
+    "spanish": "Riempiguance"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user eats its held Berry, then sharply raises its\nDefense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then (if successful) removes major status effects from every Pokémon in the user's party.",
+    "shortEffect": "Cures the entire party of major status effects after inflicting damage."
+  },
+  "priority": 0
+}

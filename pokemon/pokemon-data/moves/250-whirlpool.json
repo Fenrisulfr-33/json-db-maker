@@ -1,0 +1,47 @@
+{
+  "_id": 250,
+  "key": "whirlpool",
+  "name": {
+    "english": "Whirlpool",
+    "japanese": "うずしお",
+    "chinese": "潮旋",
+    "korean": "바다회오리",
+    "german": "Torbellino",
+    "french": "Whirlpool",
+    "italian": "Whirlpool",
+    "spanish": "Mulinello"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 35,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Traps the foe for\n2-5 turns.",
+    "crystal": "Traps the foe for\n2-5 turns.",
+    "ruby-sapphire": "Traps and hurts the foe in\na whirlpool for 2 to 5 turns.",
+    "emerald": "Traps and hurts the foe in\na whirlpool for 2 to 5 turns.",
+    "firered-leafgreen": "The foe is trapped\nin a fast, vicious\nwhirlpool for two\nto five turns.",
+    "diamond-pearl": "The user traps the\nfoe inside a fast,\nvicious whirlpool that\nlasts for two to five\nturns.",
+    "platinum": "The user traps the\nfoe inside a fast,\nvicious whirlpool that\nlasts for two to five\nturns.",
+    "heartgold-soulsilver": "Traps the foe inside a\nwhirlpool that lasts\nfor two to five turns.\nThe user can pass\nthrough whirlpools.",
+    "black-white": "Traps foes in a violent swirling\nwhirlpool for four to five turns.",
+    "black-2-white-2": "Traps foes in a violent swirling\nwhirlpool for four to five turns.",
+    "x-y": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+    "omega-ruby-alpha-sapphire": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+    "sun-moon": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+    "ultra-sun-ultra-moon": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user traps the target in a violent swirling\nwhirlpool for four to five turns.",
+    "sword-shield": "The user traps the target in a violent swirling\nwhirlpool for four to five turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+    "shortEffect": "Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns."
+  },
+  "priority": 0
+}

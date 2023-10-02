@@ -1,0 +1,47 @@
+{
+  "_id": 157,
+  "key": "rock-slide",
+  "name": {
+    "english": "Rock Slide",
+    "japanese": "いわなだれ",
+    "chinese": "山崩地裂",
+    "korean": "스톤샤워",
+    "german": "Avalancha",
+    "french": "Steinhagel",
+    "italian": "Rock Slide",
+    "spanish": "Frana"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 75,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause flinching.",
+    "crystal": "An attack that may\ncause flinching.",
+    "ruby-sapphire": "Large boulders are hurled.\nMay cause flinching.",
+    "emerald": "Large boulders are hurled.\nMay cause flinching.",
+    "firered-leafgreen": "Large boulders are\nhurled at the foe.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.",
+    "platinum": "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "Large boulders are\nhurled at the foe to\ninflict damage.\nIt may also make the\ntarget flinch.",
+    "black-white": "Large boulders are hurled at the opposing\nteam to inflict damage. It may also make\nthe targets flinch.",
+    "black-2-white-2": "Large boulders are hurled at the opposing\nteam to inflict damage. It may also make\nthe targets flinch.",
+    "x-y": "Large boulders are hurled at the opposing\nPokémon to inflict damage. This may also make\nthe opposing Pokémon flinch.",
+    "omega-ruby-alpha-sapphire": "Large boulders are hurled at the opposing\nPokémon to inflict damage. This may also make\nthe opposing Pokémon flinch.",
+    "sun-moon": "Large boulders are hurled at the opposing Pokémon\nto inflict damage. This may also make the opposing\nPokémon flinch.",
+    "ultra-sun-ultra-moon": "Large boulders are hurled at the opposing Pokémon\nto inflict damage. This may also make the opposing\nPokémon flinch.",
+    "lets-go-pikachu-lets-go-eevee": "Large boulders are hurled at the opposing Pokémon\nto inflict damage. This may also make the opposing\nPokémon flinch.",
+    "sword-shield": "Large boulders are hurled at opposing Pokémon to\ninflict damage. This may also make the opposing\nPokémon flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

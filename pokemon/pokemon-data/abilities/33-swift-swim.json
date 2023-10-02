@@ -1,0 +1,206 @@
+{
+  "_id": 33,
+  "key": "swift-swim",
+  "name": {
+    "english": "Swift Swim"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Doubles Speed during rain.",
+    "full": "This Pokémon's Speed is doubled during rain. This bonus does not count as a stat modifier."
+  },
+  "description": {
+    "ruby-sapphire": "Raises SPEED in rain.",
+    "emerald": "Raises SPEED in rain.",
+    "firered-leafgreen": "Raises SPEED in rain.",
+    "diamond-pearl": "Boosts the Pokémon’s Speed in rain.",
+    "platinum": "Boosts the Pokémon’s Speed in rain.",
+    "heartgold-soulsilver": "Boosts the Pokémon’s Speed in rain.",
+    "black-white": "Boosts the Pokémon’s Speed in rain.",
+    "black-2-white-2": "Boosts the Pokémon’s Speed in rain.",
+    "x-y": "Boosts the Pokémon’s Speed stat in rain.",
+    "omega-ruby-alpha-sapphire": "Boosts the Pokémon’s Speed stat in rain.",
+    "sun-moon": "Boosts the Pokémon’s Speed stat in rain.",
+    "ultra-sun-ultra-moon": "Boosts the Pokémon’s Speed stat in rain.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Pokémon’s Speed stat in rain.",
+    "sword-shield": "Boosts the Pokémon’s Speed stat in rain."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Horsea",
+        "id": 116
+      },
+      {
+        "name": "Goldeen",
+        "id": 118
+      },
+      {
+        "name": "Seaking",
+        "id": 119
+      },
+      {
+        "name": "Magikarp",
+        "id": 129
+      },
+      {
+        "name": "Omanyte",
+        "id": 138
+      },
+      {
+        "name": "Omastar",
+        "id": 139
+      },
+      {
+        "name": "Kabuto",
+        "id": 140
+      },
+      {
+        "name": "Kabutops",
+        "id": 141
+      },
+      {
+        "name": "Qwilfish",
+        "id": 211
+      },
+      {
+        "name": "Mantine",
+        "id": 226
+      },
+      {
+        "name": "Kingdra",
+        "id": 230
+      },
+      {
+        "name": "Lotad",
+        "id": 270
+      },
+      {
+        "name": "Lombre",
+        "id": 271
+      },
+      {
+        "name": "Ludicolo",
+        "id": 272
+      },
+      {
+        "name": "Surskit",
+        "id": 283
+      },
+      {
+        "name": "Feebas",
+        "id": 349
+      },
+      {
+        "name": "Huntail",
+        "id": 367
+      },
+      {
+        "name": "Gorebyss",
+        "id": 368
+      },
+      {
+        "name": "Relicanth",
+        "id": 369
+      },
+      {
+        "name": "Luvdisc",
+        "id": 370
+      },
+      {
+        "name": "Buizel",
+        "id": 418
+      },
+      {
+        "name": "Floatzel",
+        "id": 419
+      },
+      {
+        "name": "Finneon",
+        "id": 456
+      },
+      {
+        "name": "Lumineon",
+        "id": 457
+      },
+      {
+        "name": "Mantyke",
+        "id": 458
+      },
+      {
+        "name": "Tympole",
+        "id": 535
+      },
+      {
+        "name": "Palpitoad",
+        "id": 536
+      },
+      {
+        "name": "Seismitoad",
+        "id": 537
+      },
+      {
+        "name": "Arrokuda",
+        "id": 846
+      },
+      {
+        "name": "Barraskewda",
+        "id": 847
+      },
+      {
+        "name": "Overqwil",
+        "id": 904
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Psyduck",
+        "id": 54
+      },
+      {
+        "name": "Golduck",
+        "id": 55
+      },
+      {
+        "name": "Poliwag",
+        "id": 60
+      },
+      {
+        "name": "Poliwhirl",
+        "id": 61
+      },
+      {
+        "name": "Poliwrath",
+        "id": 62
+      },
+      {
+        "name": "Anorith",
+        "id": 347
+      },
+      {
+        "name": "Armaldo",
+        "id": 348
+      },
+      {
+        "name": "Tirtouga",
+        "id": 564
+      },
+      {
+        "name": "Carracosta",
+        "id": 565
+      },
+      {
+        "name": "Beartic",
+        "id": 614
+      },
+      {
+        "name": "Chewtle",
+        "id": 833
+      },
+      {
+        "name": "Drednaw",
+        "id": 834
+      }
+    ]
+  }
+}

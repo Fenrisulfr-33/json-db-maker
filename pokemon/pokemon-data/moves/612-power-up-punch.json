@@ -1,0 +1,37 @@
+{
+  "_id": 612,
+  "key": "power-up-punch",
+  "name": {
+    "english": "Power-Up Punch",
+    "japanese": "グロウパンチ",
+    "chinese": "增強拳",
+    "korean": "그로우펀치",
+    "german": "Puño Incremento",
+    "french": "Steigerungshieb",
+    "italian": "Power-Up Punch",
+    "spanish": "Crescipugno"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "Striking opponents over and over makes\nthe user’s fists harder.\nHitting a target raises the Attack stat.",
+    "omega-ruby-alpha-sapphire": "Striking opponents over and over makes\nthe user’s fists harder.\nHitting a target raises the Attack stat.",
+    "sun-moon": "Striking opponents over and over makes the user’s\nfists harder. Hitting a target raises the Attack stat.",
+    "ultra-sun-ultra-moon": "Striking opponents over and over makes the user’s\nfists harder. Hitting a target raises the Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "Striking opponents over and over makes the user’s\nfists harder. Hitting a target raises the Attack stat.",
+    "sword-shield": "Striking opponents over and over makes the user’s\nfists harder. Hitting a target raises the Attack stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Raises the user's Attack by one stage.",
+    "shortEffect": "Raises the user's Attack by one stage after inflicting damage."
+  },
+  "priority": 0
+}

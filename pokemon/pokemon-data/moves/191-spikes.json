@@ -1,0 +1,47 @@
+{
+  "_id": 191,
+  "key": "spikes",
+  "name": {
+    "english": "Spikes",
+    "japanese": "まきびし",
+    "chinese": "满地星",
+    "korean": "압정뿌리기",
+    "german": "Púas",
+    "french": "Stachler",
+    "italian": "Spikes",
+    "spanish": "Punte"
+  },
+  "type": "Ground",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "opponents-field",
+  "changes": [],
+  "description": {
+    "gold-silver": "Hurts foes when\nthey switch out.",
+    "crystal": "Hurts foes when\nthey switch out.",
+    "ruby-sapphire": "Sets spikes that hurt a \nfoe switching out.",
+    "emerald": "Sets spikes that hurt a \nfoe switching in.",
+    "firered-leafgreen": "A trap of spikes is\nlaid around the\nfoe’s party to hurt\nfoes switching in.",
+    "diamond-pearl": "The user lays a trap\nof spikes at the\nfoe’s feet. The trap\nhurts foes that\nswitch into battle.",
+    "platinum": "The user lays a trap\nof spikes at the\nfoe’s feet. The trap\nhurts foes that\nswitch into battle.",
+    "heartgold-soulsilver": "The user lays a trap\nof spikes at the\nfoe’s feet. The trap\nhurts foes that\nswitch into battle.",
+    "black-white": "The user lays a trap of spikes at the\nopposing team’s feet. The trap hurts\nPokémon that switch into battle.",
+    "black-2-white-2": "The user lays a trap of spikes at the\nopposing team’s feet. The trap hurts\nPokémon that switch into battle.",
+    "x-y": "The user lays a trap of spikes at the\nopposing team’s feet. The trap hurts\nPokémon that switch into battle.",
+    "omega-ruby-alpha-sapphire": "The user lays a trap of spikes at the\nopposing team’s feet. The trap hurts\nPokémon that switch into battle.",
+    "sun-moon": "The user lays a trap of spikes at the opposing\nteam’s feet. The trap hurts Pokémon that switch\ninto battle.",
+    "ultra-sun-ultra-moon": "The user lays a trap of spikes at the opposing\nteam’s feet. The trap hurts Pokémon that switch\ninto battle.",
+    "lets-go-pikachu-lets-go-eevee": "The user lays a trap of spikes at the opposing\nteam’s feet. The trap hurts Pokémon that switch\ninto battle.",
+    "sword-shield": "The user lays a trap of spikes at the opposing\nteam’s feet. The trap hurts Pokémon that switch\ninto battle."
+  },
+  "effect": {
+    "full": "Scatters spikes around the opposing field, which damage opposing Pokémon that enter the field for 1/8 of their max HP.  Pokémon immune to ground moves are immune to this damage, except during gravity.  Up to three layers of spikes may be laid down, adding 1/16 to the damage done: two layers of spikes damage for 3/16 max HP, and three layers damage for 1/4 max HP.\n\nwonder guard does not block damage from this effect.\n\nrapid spin removes this effect from its user's side of the field.  defog removes this effect from its target's side of the field.",
+    "shortEffect": "Scatters Spikes, hurting opposing Pokémon that switch in."
+  },
+  "priority": 0
+}

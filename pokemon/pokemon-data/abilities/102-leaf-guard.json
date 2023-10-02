@@ -1,0 +1,111 @@
+{
+  "_id": 102,
+  "key": "leaf-guard",
+  "name": {
+    "english": "Leaf Guard"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Protects against major status ailments during strong sunlight.",
+    "full": "This Pokémon cannot be given a major status ailment during strong sunlight. This ability does not heal prior status ailments. rest will fail altogether with this ability in effect. yawn will immediately fail if used on this Pokémon during strong sunlight, and an already-used Yawn will fail if the weather turns to strong sunlight in the meantime."
+  },
+  "description": {
+    "diamond-pearl": "Prevents status problems in sunny weather.",
+    "platinum": "Prevents status problems in sunny weather.",
+    "heartgold-soulsilver": "Prevents problems with status in sunny weather.",
+    "black-white": "Prevents problems with status in sunny weather.",
+    "black-2-white-2": "Prevents problems with status in sunny weather.",
+    "x-y": "Prevents status conditions in sunny weather.",
+    "omega-ruby-alpha-sapphire": "Prevents status conditions in sunny weather.",
+    "sun-moon": "Prevents status conditions in sunny weather.",
+    "ultra-sun-ultra-moon": "Prevents status conditions in harsh sunlight.",
+    "lets-go-pikachu-lets-go-eevee": "Prevents status conditions in harsh sunlight.",
+    "sword-shield": "Prevents status conditions in harsh sunlight."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tangela",
+        "id": 114
+      },
+      {
+        "name": "Hoppip",
+        "id": 187
+      },
+      {
+        "name": "Skiploom",
+        "id": 188
+      },
+      {
+        "name": "Jumpluff",
+        "id": 189
+      },
+      {
+        "name": "Tangrowth",
+        "id": 465
+      },
+      {
+        "name": "Leafeon",
+        "id": 470
+      },
+      {
+        "name": "Swadloon",
+        "id": 541
+      },
+      {
+        "name": "Fomantis",
+        "id": 753
+      },
+      {
+        "name": "Lurantis",
+        "id": 754
+      },
+      {
+        "name": "Bounsweet",
+        "id": 761
+      },
+      {
+        "name": "Steenee",
+        "id": 762
+      },
+      {
+        "name": "Tsareena",
+        "id": 763
+      },
+      {
+        "name": "Zarude",
+        "id": 893
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Chikorita",
+        "id": 152
+      },
+      {
+        "name": "Bayleef",
+        "id": 153
+      },
+      {
+        "name": "Meganium",
+        "id": 154
+      },
+      {
+        "name": "Roselia",
+        "id": 315
+      },
+      {
+        "name": "Budew",
+        "id": 406
+      },
+      {
+        "name": "Petilil",
+        "id": 548
+      },
+      {
+        "name": "Lilligant",
+        "id": 549
+      }
+    ]
+  }
+}

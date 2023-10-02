@@ -1,0 +1,47 @@
+{
+  "_id": 172,
+  "key": "flame-wheel",
+  "name": {
+    "english": "Flame Wheel",
+    "japanese": "かえんぐるま",
+    "chinese": "火焰轮",
+    "korean": "화염자동차",
+    "german": "Rueda Fuego",
+    "french": "Flammenrad",
+    "italian": "Flame Wheel",
+    "spanish": "Ruotafuoco"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 25,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause a burn.",
+    "crystal": "An attack that may\ncause a burn.",
+    "ruby-sapphire": "A fiery charge attack that\nmay inflict a burn.",
+    "emerald": "A fiery charge attack that\nmay inflict a burn.",
+    "firered-leafgreen": "The user makes a\nfiery charge at the\nfoe. It may cause\na burn.",
+    "diamond-pearl": "The user cloaks\nitself in fire and\ncharges at the foe.\nIt may also leave the\ntarget with a burn.",
+    "platinum": "The user cloaks\nitself in fire and\ncharges at the foe.\nIt may also leave the\ntarget with a burn.",
+    "heartgold-soulsilver": "The user cloaks\nitself in fire and\ncharges at the foe.\nIt may also leave the\ntarget with a burn.",
+    "black-white": "The user cloaks itself in fire and\ncharges at the target.\nIt may also leave the target with a burn.",
+    "black-2-white-2": "The user cloaks itself in fire and\ncharges at the target.\nIt may also leave the target with a burn.",
+    "x-y": "The user cloaks itself in fire and\ncharges at the target.\nThis may also leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "The user cloaks itself in fire and\ncharges at the target.\nThis may also leave the target with a burn.",
+    "sun-moon": "The user cloaks itself in fire and charges at the\ntarget. This may also leave the target with a burn.",
+    "ultra-sun-ultra-moon": "The user cloaks itself in fire and charges at the\ntarget. This may also leave the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user cloaks itself in fire and charges at the\ntarget. This may also leave the target with a burn.",
+    "sword-shield": "The user cloaks itself in fire and charges at the\ntarget. This may also leave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves."
+  },
+  "priority": 0
+}

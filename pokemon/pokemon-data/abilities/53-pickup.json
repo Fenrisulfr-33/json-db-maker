@@ -1,0 +1,102 @@
+{
+  "_id": 53,
+  "key": "pickup",
+  "name": {
+    "english": "Pickup"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Picks up other Pokémon's used and Flung held items. May also pick up an item after battle.",
+    "full": "At the end of each turn, if another Pokémon consumed or Flung a held item that turn, this Pokémon picks up the item if it is not already holding one. After each battle, this Pokémon has a 10% chance of picking up an item if it is not already holding one. The air balloon and eject button cannot be picked up. The items that may be found vary by game, and, since Pokémon Emerald, by the Pokémon's level. This ability is checked after the battle ends, at which point any temporary ability changes have worn off."
+  },
+  "description": {
+    "ruby-sapphire": "May pick up items.",
+    "emerald": "May pick up items.",
+    "firered-leafgreen": "May pick up items.",
+    "diamond-pearl": "The Pokémon may pick up items.",
+    "platinum": "The Pokémon may pick up items.",
+    "heartgold-soulsilver": "The Pokémon may pick up items.",
+    "black-white": "The Pokémon may pick up items.",
+    "black-2-white-2": "The Pokémon may pick up items.",
+    "x-y": "The Pokémon may pick up items.",
+    "omega-ruby-alpha-sapphire": "The Pokémon may pick up items.",
+    "sun-moon": "The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too.",
+    "ultra-sun-ultra-moon": "The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too.",
+    "sword-shield": "The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Meowth",
+        "id": 52
+      },
+      {
+        "name": "Aipom",
+        "id": 190
+      },
+      {
+        "name": "Teddiursa",
+        "id": 216
+      },
+      {
+        "name": "Phanpy",
+        "id": 231
+      },
+      {
+        "name": "Zigzagoon",
+        "id": 263
+      },
+      {
+        "name": "Linoone",
+        "id": 264
+      },
+      {
+        "name": "Pachirisu",
+        "id": 417
+      },
+      {
+        "name": "Ambipom",
+        "id": 424
+      },
+      {
+        "name": "Munchlax",
+        "id": 446
+      },
+      {
+        "name": "Lillipup",
+        "id": 506
+      },
+      {
+        "name": "Bunnelby",
+        "id": 659
+      },
+      {
+        "name": "Diggersby",
+        "id": 660
+      },
+      {
+        "name": "Dedenne",
+        "id": 702
+      },
+      {
+        "name": "Tandemaus",
+        "id": 924
+      },
+      {
+        "name": "Greavard",
+        "id": 971
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Pikipek",
+        "id": 731
+      },
+      {
+        "name": "Trumbeak",
+        "id": 732
+      }
+    ]
+  }
+}

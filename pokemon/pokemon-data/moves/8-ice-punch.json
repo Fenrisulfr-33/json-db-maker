@@ -1,0 +1,47 @@
+{
+  "_id": 8,
+  "key": "ice-punch",
+  "name": {
+    "english": "Ice Punch",
+    "japanese": "れいとうパンチ",
+    "chinese": "急冻拳",
+    "korean": "냉동펀치",
+    "german": "Puño Hielo",
+    "french": "Eishieb",
+    "italian": "Ice Punch",
+    "spanish": "Gelopugno"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An icy punch. May\ncause freezing.",
+    "crystal": "An icy punch. May\ncause freezing.",
+    "ruby-sapphire": "An icy punch that may\nfreeze the foe.",
+    "emerald": "An icy punch that may\nfreeze the foe.",
+    "firered-leafgreen": "The foe is punched\nwith an icy fist.\nIt may leave the\nfoe frozen.",
+    "diamond-pearl": "The foe is punched\nwith an icy fist.\nIt may leave the\ntarget frozen.\n",
+    "platinum": "The foe is punched\nwith an icy fist.\nIt may leave the\ntarget frozen.\n",
+    "heartgold-soulsilver": "The foe is punched\nwith an icy fist.\nIt may leave the\ntarget frozen.\n",
+    "black-white": "The target is punched with an icy fist.\nIt may also leave the target frozen.",
+    "black-2-white-2": "The target is punched with an icy fist.\nIt may also leave the target frozen.",
+    "x-y": "The target is punched with an icy fist.\nThis may also leave the target frozen.",
+    "omega-ruby-alpha-sapphire": "The target is punched with an icy fist.\nThis may also leave the target frozen.",
+    "sun-moon": "The target is punched with an icy fist. This may also\nleave the target frozen.",
+    "ultra-sun-ultra-moon": "The target is punched with an icy fist. This may also\nleave the target frozen.",
+    "lets-go-pikachu-lets-go-eevee": "The target is punched with an icy fist. This may also\nleave the target frozen.",
+    "sword-shield": "The target is punched with an icy fist. This may also\nleave the target frozen."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.",
+    "shortEffect": "Has a $effect_chance% chance to freeze the target."
+  },
+  "priority": 0
+}

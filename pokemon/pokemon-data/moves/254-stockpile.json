@@ -1,0 +1,45 @@
+{
+  "_id": 254,
+  "key": "stockpile",
+  "name": {
+    "english": "Stockpile",
+    "japanese": "たくわえる",
+    "chinese": "储存",
+    "korean": "비축하기",
+    "german": "Reserva",
+    "french": "Horter",
+    "italian": "Stockpile",
+    "spanish": "Accumulo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Charges up power for up to\n3 turns.",
+    "emerald": "Charges up power for up to\n3 turns.",
+    "firered-leafgreen": "The user charges\nup power for use\nlater. It can be\nused three times.",
+    "diamond-pearl": "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.",
+    "platinum": "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.",
+    "heartgold-soulsilver": "The user charges\nup power, and raises\nboth its Defense and\nSp. Def. The move can\nbe used three times.",
+    "black-white": "The user charges up power and raises\nboth its Defense and Sp. Def. The move\ncan be used three times.",
+    "black-2-white-2": "The user charges up power and raises\nboth its Defense and Sp. Def. The move\ncan be used three times.",
+    "x-y": "The user charges up power and raises\nboth its Defense and Sp. Def stats.\nThe move can be used three times.",
+    "omega-ruby-alpha-sapphire": "The user charges up power and raises\nboth its Defense and Sp. Def stats.\nThe move can be used three times.",
+    "sun-moon": "The user charges up power and raises both its\nDefense and Sp. Def stats. The move can be used\nthree times.",
+    "ultra-sun-ultra-moon": "The user charges up power and raises both its\nDefense and Sp. Def stats. The move can be used\nthree times.",
+    "lets-go-pikachu-lets-go-eevee": "The user charges up power and raises both its\nDefense and Sp. Def stats. The move can be used\nthree times.",
+    "sword-shield": "The user charges up power and raises both its\nDefense and Sp. Def stats. The move can be used\nthree times."
+  },
+  "effect": {
+    "full": "Raises the user's Defense and Special Defense by one stage each.  Stores energy for use with spit up and swallow.  Up to three levels of energy can be stored, and all are lost if the user leaves the field.  Energy is still stored even if the stat boosts cannot be applied.\n\nIf the user uses baton pass, the stat boosts are passed as normal, but the stored energy is not.",
+    "shortEffect": "Stores energy up to three times for use with Spit Up and Swallow."
+  },
+  "priority": 0
+}

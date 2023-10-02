@@ -1,7 +1,7 @@
-const paldeanTauros = require("./paldean-tauros");
-const paldeanTaurosBlaze = require("./paldean-tauros-blaze");
+const paldeanTauros = require("./128.1-tauros");
+const paldeanTaurosBlaze = require("./128.2-tauros-blaze");
 const paldeanTaurosAqua = require("./paldean-tauros-aqua");
-const paldeanWooper = require("./paldean-wooper");
+const paldeanWooper = require("./194.1-wooper");
 const walkingWake = require("./1009-walking-wake");
 const ironLeaves = require("./1010-iron-leaves");
 

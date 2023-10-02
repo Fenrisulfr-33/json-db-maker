@@ -1,0 +1,34 @@
+{
+  "_id": 720,
+  "key": "mind-blown",
+  "name": {
+    "english": "Mind Blown",
+    "japanese": "ビックリヘッド",
+    "chinese": "驚爆大頭",
+    "korean": "깜짝헤드",
+    "german": "Cabeza Sorpresa",
+    "french": "Knallkopf",
+    "italian": "Mind Blown",
+    "spanish": "Sbalorditesta"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 150,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "The user attacks everything around it by causing its\nown head to explode. This also damages the user.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks everything around it by causing its\nown head to explode. This also damages the user.",
+    "sword-shield": "The user attacks everything around it by causing its\nown head to explode. This also damages the user."
+  },
+  "effect": {
+    "full": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up. The user still takes damage if the move is blocked by Protect or Substitute, misses, or if the target has Flash Fire.",
+    "shortEffect": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up."
+  },
+  "priority": 0
+}

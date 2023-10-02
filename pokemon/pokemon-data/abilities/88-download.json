@@ -1,0 +1,42 @@
+{
+  "_id": 88,
+  "key": "download",
+  "name": {
+    "english": "Download"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Raises the attack stat corresponding to the opponents' weaker defense one stage upon entering battle.",
+    "full": "When this Pokémon enters battle, its Attack or Special Attack, whichever corresponds to its opponents' weaker total defensive stat, rises one stage. In the event of a tie, Special Attack is raised. This ability also takes effect when acquired during a battle."
+  },
+  "description": {
+    "diamond-pearl": "Adjusts power according to the foe’s ability.",
+    "platinum": "Adjusts power according to the foe’s ability.",
+    "heartgold-soulsilver": "Adjusts power according to the foe’s ability.",
+    "black-white": "Adjusts power according to a foe’s defenses.",
+    "black-2-white-2": "Adjusts power according to a foe’s defenses.",
+    "x-y": "Adjusts power based on an opposing Pokémon’s stats.",
+    "omega-ruby-alpha-sapphire": "Adjusts power based on an opposing Pokémon’s stats.",
+    "sun-moon": "Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.",
+    "ultra-sun-ultra-moon": "Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.",
+    "lets-go-pikachu-lets-go-eevee": "Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.",
+    "sword-shield": "Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Porygon",
+        "id": 137
+      },
+      {
+        "name": "Porygon2",
+        "id": 233
+      },
+      {
+        "name": "Genesect",
+        "id": 649
+      }
+    ],
+    "hidden": []
+  }
+}

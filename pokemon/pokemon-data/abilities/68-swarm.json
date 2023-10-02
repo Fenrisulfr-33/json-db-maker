@@ -1,0 +1,158 @@
+{
+  "_id": 68,
+  "key": "swarm",
+  "name": {
+    "english": "Swarm"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Strengthens bug moves to inflict 1.5× damage at 1/3 max HP or less.",
+    "full": "When this Pokémon has 1/3 or less of its HP remaining, its bug-type moves inflict 1.5× as much regular damage. Overworld: If the lead Pokémon has this ability, the wild encounter rate is increased."
+  },
+  "description": {
+    "ruby-sapphire": "Ups BUG moves in a pinch.",
+    "emerald": "Ups BUG moves in a pinch.",
+    "firered-leafgreen": "Ups BUG moves in a pinch.",
+    "diamond-pearl": "Powers up Bug-type moves in a pinch.",
+    "platinum": "Powers up Bug-type moves in a pinch.",
+    "heartgold-soulsilver": "Powers up Bug-type moves in a pinch.",
+    "black-white": "Powers up Bug-type moves in a pinch.",
+    "black-2-white-2": "Powers up Bug-type moves in a pinch.",
+    "x-y": "Powers up Bug-type moves when the Pokémon is in trouble.",
+    "omega-ruby-alpha-sapphire": "Powers up Bug-type moves when the Pokémon is in trouble.",
+    "sun-moon": "Powers up Bug-type moves when the Pokémon’s HP is low.",
+    "ultra-sun-ultra-moon": "Powers up Bug-type moves when the Pokémon’s HP is low.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up Bug-type moves when the Pokémon’s HP is low.",
+    "sword-shield": "Powers up Bug-type moves when the Pokémon’s HP is low."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Beedrill",
+        "id": 15
+      },
+      {
+        "name": "Scyther",
+        "id": 123
+      },
+      {
+        "name": "Ledyba",
+        "id": 165
+      },
+      {
+        "name": "Ledian",
+        "id": 166
+      },
+      {
+        "name": "Spinarak",
+        "id": 167
+      },
+      {
+        "name": "Ariados",
+        "id": 168
+      },
+      {
+        "name": "Scizor",
+        "id": 212
+      },
+      {
+        "name": "Heracross",
+        "id": 214
+      },
+      {
+        "name": "Beautifly",
+        "id": 267
+      },
+      {
+        "name": "Volbeat",
+        "id": 313
+      },
+      {
+        "name": "Kricketune",
+        "id": 402
+      },
+      {
+        "name": "Mothim",
+        "id": 414
+      },
+      {
+        "name": "Sewaddle",
+        "id": 540
+      },
+      {
+        "name": "Leavanny",
+        "id": 542
+      },
+      {
+        "name": "Venipede",
+        "id": 543
+      },
+      {
+        "name": "Whirlipede",
+        "id": 544
+      },
+      {
+        "name": "Scolipede",
+        "id": 545
+      },
+      {
+        "name": "Karrablast",
+        "id": 588
+      },
+      {
+        "name": "Escavalier",
+        "id": 589
+      },
+      {
+        "name": "Durant",
+        "id": 632
+      },
+      {
+        "name": "Grubbin",
+        "id": 736
+      },
+      {
+        "name": "Blipbug",
+        "id": 824
+      },
+      {
+        "name": "Dottler",
+        "id": 825
+      },
+      {
+        "name": "Orbeetle",
+        "id": 826
+      },
+      {
+        "name": "Kleavor",
+        "id": 900
+      },
+      {
+        "name": "Nymble",
+        "id": 919
+      },
+      {
+        "name": "Lokix",
+        "id": 920
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Joltik",
+        "id": 595
+      },
+      {
+        "name": "Galvantula",
+        "id": 596
+      },
+      {
+        "name": "Larvesta",
+        "id": 636
+      },
+      {
+        "name": "Volcarona",
+        "id": 637
+      }
+    ]
+  }
+}

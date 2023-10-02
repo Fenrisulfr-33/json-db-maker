@@ -1,0 +1,72 @@
+{
+  "_id": 130,
+  "key": "cursed-body",
+  "name": {
+    "english": "Cursed Body"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Has a 30% chance of Disabling any move that hits the Pokémon.",
+    "full": "Moves that hit this Pokémon have a 30% chance of being Disabled afterward."
+  },
+  "description": {
+    "black-white": "May disable a move used on the Pokémon.",
+    "black-2-white-2": "May disable a move used on the Pokémon.",
+    "x-y": "May disable a move used on the Pokémon.",
+    "omega-ruby-alpha-sapphire": "May disable a move used on the Pokémon.",
+    "sun-moon": "May disable a move used on the Pokémon.",
+    "ultra-sun-ultra-moon": "May disable a move used on the Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "May disable a move used on the Pokémon.",
+    "sword-shield": "May disable a move used on the Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Gengar",
+        "id": 94
+      },
+      {
+        "name": "Frillish",
+        "id": 592
+      },
+      {
+        "name": "Jellicent",
+        "id": 593
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Shuppet",
+        "id": 353
+      },
+      {
+        "name": "Banette",
+        "id": 354
+      },
+      {
+        "name": "Froslass",
+        "id": 478
+      },
+      {
+        "name": "Sinistea",
+        "id": 854
+      },
+      {
+        "name": "Polteageist",
+        "id": 855
+      },
+      {
+        "name": "Dreepy",
+        "id": 885
+      },
+      {
+        "name": "Drakloak",
+        "id": 886
+      },
+      {
+        "name": "Dragapult",
+        "id": 887
+      }
+    ]
+  }
+}

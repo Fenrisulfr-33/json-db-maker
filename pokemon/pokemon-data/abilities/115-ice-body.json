@@ -1,0 +1,103 @@
+{
+  "_id": 115,
+  "key": "ice-body",
+  "name": {
+    "english": "Ice Body"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Heals for 1/16 max HP after each turn during hail. Protects against hail damage.",
+    "full": "This Pokémon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon regains HP in a hailstorm.",
+    "platinum": "The Pokémon regains HP in a hailstorm.",
+    "heartgold-soulsilver": "The Pokémon regains HP in a hailstorm.",
+    "black-white": "The Pokémon gradually regains HP in a hailstorm.",
+    "black-2-white-2": "The Pokémon gradually regains HP in a hailstorm.",
+    "x-y": "The Pokémon gradually regains HP in a hailstorm.",
+    "omega-ruby-alpha-sapphire": "The Pokémon gradually regains HP in a hailstorm.",
+    "sun-moon": "The Pokémon gradually regains HP in a hailstorm.",
+    "ultra-sun-ultra-moon": "The Pokémon gradually regains HP in a hailstorm.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon gradually regains HP in a hailstorm.",
+    "sword-shield": "The Pokémon gradually regains HP in a hailstorm."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Snorunt",
+        "id": 361
+      },
+      {
+        "name": "Glalie",
+        "id": 362
+      },
+      {
+        "name": "Spheal",
+        "id": 363
+      },
+      {
+        "name": "Sealeo",
+        "id": 364
+      },
+      {
+        "name": "Walrein",
+        "id": 365
+      },
+      {
+        "name": "Vanillite",
+        "id": 582
+      },
+      {
+        "name": "Vanillish",
+        "id": 583
+      },
+      {
+        "name": "Vanilluxe",
+        "id": 584
+      },
+      {
+        "name": "Bergmite",
+        "id": 712
+      },
+      {
+        "name": "Avalugg",
+        "id": 713
+      },
+      {
+        "name": "Arctovish",
+        "id": 883
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Seel",
+        "id": 86
+      },
+      {
+        "name": "Dewgong",
+        "id": 87
+      },
+      {
+        "name": "Regice",
+        "id": 378
+      },
+      {
+        "name": "Glaceon",
+        "id": 471
+      },
+      {
+        "name": "Frigibax",
+        "id": 996
+      },
+      {
+        "name": "Arctibax",
+        "id": 997
+      },
+      {
+        "name": "Baxcalibur",
+        "id": 998
+      }
+    ]
+  }
+}

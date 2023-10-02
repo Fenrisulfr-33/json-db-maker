@@ -1,0 +1,29 @@
+{
+  "_id": 786,
+  "key": "overdrive",
+  "name": {
+    "english": "Overdrive",
+    "japanese": "オーバードライブ",
+    "chinese": "破音",
+    "korean": "오버드라이브",
+    "german": "Amplificador",
+    "french": "Overdrive",
+    "italian": "Overdrive",
+    "spanish": "Overdrive"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks opposing Pokémon by twanging\na guitar or bass guitar, causing a huge echo and\nstrong vibration."
+  },
+  "effect": {},
+  "priority": 0
+}

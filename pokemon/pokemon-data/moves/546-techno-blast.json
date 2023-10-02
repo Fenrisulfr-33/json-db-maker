@@ -1,0 +1,39 @@
+{
+  "_id": 546,
+  "key": "techno-blast",
+  "name": {
+    "english": "Techno Blast",
+    "japanese": "テクノバスター",
+    "chinese": "破坏技术",
+    "korean": "테크노버스터",
+    "german": "Tecno Shock",
+    "french": "Techblaster",
+    "italian": "Techno Blast",
+    "spanish": "Tecnobotto"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 85,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user fires a beam of light at\nits target. The type changes depending\non the Drive the user holds.",
+    "black-2-white-2": "The user fires a beam of light at\nits target. The type changes depending\non the Drive the user holds.",
+    "x-y": "The user fires a beam of light at\nits target. The move’s type changes\ndepending on the Drive the user holds.",
+    "omega-ruby-alpha-sapphire": "The user fires a beam of light at\nits target. The move’s type changes\ndepending on the Drive the user holds.",
+    "sun-moon": "The user fires a beam of light at its target. The\nmove’s type changes depending on the Drive the\nuser holds.",
+    "ultra-sun-ultra-moon": "The user fires a beam of light at its target. The\nmove’s type changes depending on the Drive the\nuser holds.",
+    "lets-go-pikachu-lets-go-eevee": "The user fires a beam of light at its target. The\nmove’s type changes depending on the Drive the\nuser holds.",
+    "sword-shield": "The user fires a beam of light at its target. The\nmove’s type changes depending on the Drive the\nuser holds."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.\n\nNote: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates.",
+    "shortEffect": "If the user is holding a appropriate plate or drive, the damage inflicted will match it."
+  },
+  "priority": 0
+}

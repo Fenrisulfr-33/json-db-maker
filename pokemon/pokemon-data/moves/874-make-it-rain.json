@@ -1,0 +1,17 @@
+{
+  "_id": 874,
+  "key": "make-it-rain",
+  "name": {
+    "english": "Make It Rain"
+  },
+  "type": "Steel",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "All-opponents",
+  "changes": []
+}

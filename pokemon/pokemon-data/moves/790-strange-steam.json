@@ -1,0 +1,32 @@
+{
+  "_id": 790,
+  "key": "strange-steam",
+  "name": {
+    "english": "Strange Steam",
+    "japanese": "ワンダースチーム",
+    "chinese": "神奇蒸汽",
+    "korean": "원더스팀",
+    "german": "Cautivapor",
+    "french": "Wunderdampf",
+    "italian": "Strange Steam",
+    "spanish": "Vapore Incantato"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks the target by emitting steam.\nThis may also confuse the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

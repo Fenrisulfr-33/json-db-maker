@@ -1,0 +1,47 @@
+{
+  "_id": 188,
+  "key": "sludge-bomb",
+  "name": {
+    "english": "Sludge Bomb",
+    "japanese": "ヘドロばくだん",
+    "chinese": "臭泥爆弹",
+    "korean": "오물폭탄",
+    "german": "Bomba Lodo",
+    "french": "Matschbombe",
+    "italian": "Sludge Bomb",
+    "spanish": "Fangobomba"
+  },
+  "type": "Poison",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\npoison the foe.",
+    "crystal": "An attack that may\npoison the foe.",
+    "ruby-sapphire": "Sludge is hurled to inflict\ndamage. May also poison.",
+    "emerald": "Sludge is hurled to inflict\ndamage. May also poison.",
+    "firered-leafgreen": "Filthy sludge is\nhurled at the foe.\nIt may poison the\ntarget.",
+    "diamond-pearl": "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.",
+    "platinum": "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.",
+    "heartgold-soulsilver": "The user attacks by\nhurling filthy sludge\nat the foe.\nIt may also poison\nthe target.",
+    "black-white": "Unsanitary sludge is hurled at the target.\nIt may also poison the target.",
+    "black-2-white-2": "Unsanitary sludge is hurled at the target.\nIt may also poison the target.",
+    "x-y": "Unsanitary sludge is hurled at the target.\nThis may also poison the target.",
+    "omega-ruby-alpha-sapphire": "Unsanitary sludge is hurled at the target.\nThis may also poison the target.",
+    "sun-moon": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
+    "ultra-sun-ultra-moon": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
+    "lets-go-pikachu-lets-go-eevee": "Unsanitary sludge is hurled at the target. This may\nalso poison the target.",
+    "sword-shield": "Unsanitary sludge is hurled at the target. This may\nalso poison the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Has a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

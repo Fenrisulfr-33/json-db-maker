@@ -18,9 +18,9 @@ const letsGoPikachuEeveeMoves = require('../data/moves/07-lets-go-pikcahu-eevee-
 const swordShieldMoves = require('../data/moves/08.1-sword-shield-moves.json');
 const brilliantDiamondShiningPearlMoves = require('../data/moves/08-brilliant-diamond-shining-pearl-moves.json');
 const legendsArceusMoves = require('../data/moves/08-legends-arceus-moves.json');
-const scarletVioletMoves = require('../data/moves/09.1-scarlet-violet-moves.json');
-const scarletVioletFormsMoves = require('../data/moves/09-scarlet-violet-forms-moves.json');
 
+const scarletVioletMoves = require('../data/moves/09.2-scarlet-violet-moves.json');
+const scarletVioletFormsMoves = require('../data/moves/09-scarlet-violet-forms-moves.json');
 const concatScarletViolet = scarletVioletMoves.concat(scarletVioletFormsMoves);
 
 const movesByGame = [
@@ -44,7 +44,7 @@ const movesByGame = [
     { moves: swordShieldMoves, key: 'sword-shield', length: 905 },
     { moves: brilliantDiamondShiningPearlMoves, key: 'brilliant-diamond-shining-pearl', length: 905 },
     { moves: legendsArceusMoves, key: 'legends-arceus', length: 905 },
-    { moves: concatScarletViolet, key: 'scarlet-violet', length: 1010 },
+    { moves: concatScarletViolet, key: 'scarlet-violet', length: 1017 },
 ]
 
 const writeMoves = (moves, monId, returnObj, game, length) => {

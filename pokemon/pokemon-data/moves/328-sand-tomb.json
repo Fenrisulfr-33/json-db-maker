@@ -1,0 +1,45 @@
+{
+  "_id": 328,
+  "key": "sand-tomb",
+  "name": {
+    "english": "Sand Tomb",
+    "japanese": "すなじごく",
+    "chinese": "流沙地狱",
+    "korean": "모래지옥",
+    "german": "Bucle Arena",
+    "french": "Sandgrab",
+    "italian": "Sand Tomb",
+    "spanish": "Sabbiotomba"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 35,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user traps the target inside a harshly raging\nsandstorm for four to five turns.",
+    "ruby-sapphire": "Traps and hurts the foe in\nquicksand for 2 to 5 turns.",
+    "emerald": "Traps and hurts the foe in\nquicksand for 2 to 5 turns.",
+    "firered-leafgreen": "The foe is trapped\ninside a painful\nsandstorm for two\nto five turns.",
+    "diamond-pearl": "The user traps the\nfoe inside a harshly\nraging sandstorm for\ntwo to five turns.\n",
+    "platinum": "The user traps the\nfoe inside a harshly\nraging sandstorm for\ntwo to five turns.\n",
+    "heartgold-soulsilver": "The user traps the\nfoe inside a harshly\nraging sandstorm for\ntwo to five turns.\n",
+    "black-white": "The user traps the target inside a harshly\nraging sandstorm for four to five turns.",
+    "black-2-white-2": "The user traps the target inside a harshly\nraging sandstorm for four to five turns.",
+    "x-y": "The user traps the target inside a harshly\nraging sandstorm for four to five turns.",
+    "omega-ruby-alpha-sapphire": "The user traps the target inside a harshly\nraging sandstorm for four to five turns.",
+    "sun-moon": "The user traps the target inside a harshly raging\nsandstorm for four to five turns.",
+    "ultra-sun-ultra-moon": "The user traps the target inside a harshly raging\nsandstorm for four to five turns.",
+    "sword-shield": "The user traps the target inside a harshly raging\nsandstorm for four to five turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+    "shortEffect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+  },
+  "priority": 0
+}

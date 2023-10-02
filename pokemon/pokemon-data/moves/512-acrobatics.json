@@ -1,0 +1,39 @@
+{
+  "_id": 512,
+  "key": "acrobatics",
+  "name": {
+    "english": "Acrobatics",
+    "japanese": "アクロバット",
+    "chinese": "特技演员",
+    "korean": "애크러뱃",
+    "german": "Acróbata",
+    "french": "Akrobatik",
+    "italian": "Acrobatics",
+    "spanish": "Acrobazia"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 55,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+    "black-2-white-2": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+    "x-y": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+    "omega-ruby-alpha-sapphire": "The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.",
+    "sun-moon": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.",
+    "ultra-sun-ultra-moon": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.",
+    "lets-go-pikachu-lets-go-eevee": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage.",
+    "sword-shield": "The user nimbly strikes the target. If the user is not\nholding an item, this attack inflicts massive damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the user has no held item, this move has double power.",
+    "shortEffect": "Has double power if the user has no held item."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 13,
+  "key": "razor-wind",
+  "name": {
+    "english": "Razor Wind",
+    "japanese": "かまいたち",
+    "chinese": "旋风刀",
+    "korean": "칼바람",
+    "german": "Viento Cortante",
+    "french": "Klingensturm",
+    "italian": "Razor Wind",
+    "spanish": "Ventagliente"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "1st turn: Prepare\n2nd turn: Attack",
+    "crystal": "1st turn: Prepare\n2nd turn: Attack",
+    "ruby-sapphire": "A 2-turn move that strikes\nthe foe on the 2nd turn.",
+    "emerald": "A 2-turn move that strikes\nthe foe on the 2nd turn.",
+    "firered-leafgreen": "Blades of wind hit\nthe foe on the 2nd\nturn. It has a high\ncritical-hit ratio.",
+    "diamond-pearl": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+    "platinum": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "A two-turn attack.\nBlades of wind hit the\nfoe on the second\nturn. It has a high\ncritical-hit ratio.",
+    "black-white": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+    "black-2-white-2": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+    "x-y": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.",
+    "sun-moon": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+    "ultra-sun-ultra-moon": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+    "lets-go-pikachu-lets-go-eevee": "In this two-turn attack, blades of wind hit opposing\nPokémon on the second turn. Critical hits land\nmore easily.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.  User charges for one turn before attacking.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "Requires a turn to charge before attacking."
+  },
+  "priority": 0
+}

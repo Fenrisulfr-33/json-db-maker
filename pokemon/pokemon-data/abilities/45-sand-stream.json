@@ -1,0 +1,49 @@
+{
+  "_id": 45,
+  "key": "sand-stream",
+  "name": {
+    "english": "Sand Stream"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Summons a sandstorm that lasts indefinitely upon entering battle.",
+    "full": "The weather changes to a sandstorm when this Pokémon enters battle and does not end unless cancelled by another weather condition. If multiple Pokémon with this ability, drizzle, drought, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room. Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay. Overworld: If the lead Pokémon has this ability, the wild encounter rate is halved in a sandstorm."
+  },
+  "description": {
+    "ruby-sapphire": "Summons a sandstorm.",
+    "emerald": "Summons a sandstorm.",
+    "firered-leafgreen": "Summons a sandstorm.",
+    "diamond-pearl": "The Pokémon summons a sandstorm in battle.",
+    "platinum": "The Pokémon summons a sandstorm in battle.",
+    "heartgold-soulsilver": "The Pokémon summons a sandstorm in battle.",
+    "black-white": "The Pokémon summons a sandstorm in battle.",
+    "black-2-white-2": "The Pokémon summons a sandstorm in battle.",
+    "x-y": "The Pokémon summons a sandstorm in battle.",
+    "omega-ruby-alpha-sapphire": "The Pokémon summons a sandstorm in battle.",
+    "sun-moon": "The Pokémon summons a sandstorm when it enters a battle.",
+    "ultra-sun-ultra-moon": "The Pokémon summons a sandstorm when it enters a battle.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon summons a sandstorm when it enters a battle.",
+    "sword-shield": "The Pokémon summons a sandstorm when it enters a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tyranitar",
+        "id": 248
+      },
+      {
+        "name": "Hippopotas",
+        "id": 449
+      },
+      {
+        "name": "Hippowdon",
+        "id": 450
+      },
+      {
+        "name": "Gigalith",
+        "id": 526
+      }
+    ],
+    "hidden": []
+  }
+}

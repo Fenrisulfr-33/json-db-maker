@@ -1,0 +1,94 @@
+{
+  "_id": 15,
+  "key": "insomnia",
+  "name": {
+    "english": "Insomnia"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents sleep.",
+    "full": "This Pokémon cannot be asleep. This causes rest to fail altogether. If a Pokémon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle. This ability functions identically to vital spirit in battle."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents sleep.",
+    "emerald": "Prevents sleep.",
+    "firered-leafgreen": "Prevents sleep.",
+    "diamond-pearl": "Prevents the Pokémon from falling asleep.",
+    "platinum": "Prevents the Pokémon from falling asleep.",
+    "heartgold-soulsilver": "Prevents the Pokémon from falling asleep.",
+    "black-white": "Prevents the Pokémon from falling asleep.",
+    "black-2-white-2": "Prevents the Pokémon from falling asleep.",
+    "x-y": "Prevents the Pokémon from falling asleep.",
+    "omega-ruby-alpha-sapphire": "Prevents the Pokémon from falling asleep.",
+    "sun-moon": "The Pokémon is suffering from insomnia and cannot fall asleep.",
+    "ultra-sun-ultra-moon": "The Pokémon is suffering from insomnia and cannot fall asleep.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon is suffering from insomnia and cannot fall asleep.",
+    "sword-shield": "The Pokémon is suffering from insomnia and cannot fall asleep."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Drowzee",
+        "id": 96
+      },
+      {
+        "name": "Hypno",
+        "id": 97
+      },
+      {
+        "name": "Hoothoot",
+        "id": 163
+      },
+      {
+        "name": "Noctowl",
+        "id": 164
+      },
+      {
+        "name": "Spinarak",
+        "id": 167
+      },
+      {
+        "name": "Ariados",
+        "id": 168
+      },
+      {
+        "name": "Murkrow",
+        "id": 198
+      },
+      {
+        "name": "Shuppet",
+        "id": 353
+      },
+      {
+        "name": "Banette",
+        "id": 354
+      },
+      {
+        "name": "Honchkrow",
+        "id": 430
+      },
+      {
+        "name": "Tarountula",
+        "id": 917
+      },
+      {
+        "name": "Spidops",
+        "id": 918
+      },
+      {
+        "name": "Capsakid",
+        "id": 951
+      },
+      {
+        "name": "Scovillain",
+        "id": 952
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Delibird",
+        "id": 225
+      }
+    ]
+  }
+}

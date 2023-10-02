@@ -1,0 +1,47 @@
+{
+  "_id": 32,
+  "key": "horn-drill",
+  "name": {
+    "english": "Horn Drill",
+    "japanese": "つのドリル",
+    "chinese": "独角钻",
+    "korean": "뿔드릴",
+    "german": "Perforador",
+    "french": "Hornbohrer",
+    "italian": "Horn Drill",
+    "spanish": "Perforcorno"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 5,
+  "power": null,
+  "accuracy": 30,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A one-hit KO,\ndrill attack.",
+    "crystal": "A one-hit KO,\ndrill attack.",
+    "ruby-sapphire": "A one-hit KO attack that\nuses a horn like a drill.",
+    "emerald": "A one-hit KO attack that\nuses a horn like a drill.",
+    "firered-leafgreen": "The horn is rotated\nlike a drill to ram.\nThe foe will faint\nif it hits.",
+    "diamond-pearl": "The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits.",
+    "platinum": "The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits.",
+    "heartgold-soulsilver": "The foe is stabbed\nwith a horn rotating\nlike a drill.\nThe foe instantly\nfaints if it hits.",
+    "black-white": "The user stabs the target with a horn\nthat rotates like a drill.\nIf it hits, the target faints instantly.",
+    "black-2-white-2": "The user stabs the target with a horn\nthat rotates like a drill.\nIf it hits, the target faints instantly.",
+    "x-y": "The user stabs the target with a horn\nthat rotates like a drill. The target\nfaints instantly if this attack hits.",
+    "omega-ruby-alpha-sapphire": "The user stabs the target with a horn\nthat rotates like a drill. The target\nfaints instantly if this attack hits.",
+    "sun-moon": "The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits.",
+    "ultra-sun-ultra-moon": "The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits.",
+    "lets-go-pikachu-lets-go-eevee": "The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits.",
+    "sword-shield": "The user stabs the target with a horn that rotates\nlike a drill. The target faints instantly if this\nattack hits."
+  },
+  "effect": {
+    "full": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect.",
+    "shortEffect": "Causes a one-hit KO."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 243,
+  "key": "mirror-coat",
+  "name": {
+    "english": "Mirror Coat",
+    "japanese": "ミラーコート",
+    "chinese": "表面涂层",
+    "korean": "미러코트",
+    "german": "Manto Espejo",
+    "french": "Spiegelcape",
+    "italian": "Mirror Coat",
+    "spanish": "Specchiovelo"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "specific-move",
+  "changes": [],
+  "description": {
+    "gold-silver": "Counters a SPCL.\nATK. move double.",
+    "crystal": "Counters a SPCL.\nATK move double.",
+    "ruby-sapphire": "Counters the foe’s special\nattack at double the power.",
+    "emerald": "Counters the foe’s special\nattack at double the power.",
+    "firered-leafgreen": "A retaliation move\nthat pays back the\nfoe’s special attack\ndouble.",
+    "diamond-pearl": "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.",
+    "platinum": "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.",
+    "heartgold-soulsilver": "A retaliation move\nthat counters any\nspecial attack,\ninflicting double the\ndamage taken.",
+    "black-white": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+    "black-2-white-2": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+    "x-y": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+    "omega-ruby-alpha-sapphire": "A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.",
+    "sun-moon": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+    "ultra-sun-ultra-moon": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+    "lets-go-pikachu-lets-go-eevee": "A retaliation move that counters any special attack,\ninflicting double the damage taken.",
+    "sword-shield": "A retaliation move that counters any special attack,\ninflicting double the damage taken."
+  },
+  "effect": {
+    "full": "Targets the last opposing Pokémon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+    "shortEffect": "Inflicts twice the damage the user received from the last special hit it took."
+  },
+  "priority": -5
+}

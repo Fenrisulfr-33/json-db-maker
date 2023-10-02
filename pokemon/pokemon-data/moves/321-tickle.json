@@ -1,0 +1,45 @@
+{
+  "_id": 321,
+  "key": "tickle",
+  "name": {
+    "english": "Tickle",
+    "japanese": "くすぐる",
+    "chinese": "搔痒",
+    "korean": "간지르기",
+    "german": "Cosquillas",
+    "french": "Spaßkanone",
+    "italian": "Tickle",
+    "spanish": "Solletico"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Makes the foe laugh to\nlower ATTACK and DEFENSE.",
+    "emerald": "Makes the foe laugh to\nlower ATTACK and DEFENSE.",
+    "firered-leafgreen": "The foe is made to\nlaugh, reducing its\nATTACK and DEFENSE\nstats.",
+    "diamond-pearl": "The user tickles the\nfoe into laughing,\nreducing its Attack\nand Defense stats.\n",
+    "platinum": "The user tickles the\nfoe into laughing,\nreducing its Attack\nand Defense stats.\n",
+    "heartgold-soulsilver": "The user tickles the\nfoe into laughing,\nreducing its Attack\nand Defense stats.\n",
+    "black-white": "The user tickles the target into laughing,\nreducing its Attack and Defense stats.",
+    "black-2-white-2": "The user tickles the target into laughing,\nreducing its Attack and Defense stats.",
+    "x-y": "The user tickles the target into laughing,\nreducing its Attack and Defense stats.",
+    "omega-ruby-alpha-sapphire": "The user tickles the target into laughing,\nreducing its Attack and Defense stats.",
+    "sun-moon": "The user tickles the target into laughing, reducing its\nAttack and Defense stats.",
+    "ultra-sun-ultra-moon": "The user tickles the target into laughing, reducing its\nAttack and Defense stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user tickles the target into laughing, reducing its\nAttack and Defense stats.",
+    "sword-shield": "The user tickles the target into laughing, reducing its\nAttack and Defense stats."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack and Defense by one stage.",
+    "shortEffect": "Lowers the target's Attack and Defense by one stage."
+  },
+  "priority": 0
+}

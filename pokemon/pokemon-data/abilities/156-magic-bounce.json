@@ -1,0 +1,51 @@
+{
+  "_id": 156,
+  "key": "magic-bounce",
+  "name": {
+    "english": "Magic Bounce"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Reflects most non-damaging moves back at their user.",
+    "full": "When this Pokémon is targeted by a move flagged as being reflectable, the move is redirected to its user. All reflectable moves are non-damaging, and most non-damaging moves that target other Pokémon are reflectable. A move reflected by this ability or magic coat cannot be reflected back."
+  },
+  "description": {
+    "black-white": "Reflects status- changing moves.",
+    "black-2-white-2": "Reflects status- changing moves.",
+    "x-y": "Reflects status moves.",
+    "omega-ruby-alpha-sapphire": "Reflects status moves.",
+    "sun-moon": "Reflects status moves, instead of getting hit by them.",
+    "ultra-sun-ultra-moon": "Reflects status moves, instead of getting hit by them.",
+    "lets-go-pikachu-lets-go-eevee": "Reflects status moves instead of getting hit by them.",
+    "sword-shield": "Reflects status moves instead of getting hit by them."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Natu",
+        "id": 177
+      },
+      {
+        "name": "Xatu",
+        "id": 178
+      },
+      {
+        "name": "Espeon",
+        "id": 196
+      },
+      {
+        "name": "Hatenna",
+        "id": 856
+      },
+      {
+        "name": "Hattrem",
+        "id": 857
+      },
+      {
+        "name": "Hatterene",
+        "id": 858
+      }
+    ]
+  }
+}

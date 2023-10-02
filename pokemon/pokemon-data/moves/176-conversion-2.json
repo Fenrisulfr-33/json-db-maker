@@ -1,0 +1,47 @@
+{
+  "_id": 176,
+  "key": "conversion-2",
+  "name": {
+    "english": "Conversion 2",
+    "japanese": "テクスチャー２",
+    "chinese": "变性II",
+    "korean": "텍스처2",
+    "german": "Conversión2",
+    "french": "Umwandlung2",
+    "italian": "Conversion 2",
+    "spanish": "Conversione2"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "The user's type is\nmade resistant.",
+    "crystal": "The user's type is\nmade resistant.",
+    "ruby-sapphire": "Makes the user resistant\nto the last attack’s type.",
+    "emerald": "Makes the user resistant\nto the last attack’s type.",
+    "firered-leafgreen": "The user changes\ntype to make itself\nresistant to the\nlast attack it took.",
+    "diamond-pearl": "The user changes its\ntype to make itself\nresistant to the type\nof the attack it\nlast took.",
+    "platinum": "The user changes its\ntype to make itself\nresistant to the type\nof the attack it\nlast took.",
+    "heartgold-soulsilver": "The user changes its\ntype to make itself\nresistant to the type\nof the attack it\nlast took.",
+    "black-white": "The user changes its type to make itself\nresistant to the type of the attack the\nopponent used last.",
+    "black-2-white-2": "The user changes its type to make itself\nresistant to the type of the attack the\nopponent used last.",
+    "x-y": "The user changes its type to make itself\nresistant to the type of the attack the\nopponent used last.",
+    "omega-ruby-alpha-sapphire": "The user changes its type to make itself\nresistant to the type of the attack the\nopponent used last.",
+    "sun-moon": "The user changes its type to make itself resistant to\nthe type of the attack the opponent used last.",
+    "ultra-sun-ultra-moon": "The user changes its type to make itself resistant to\nthe type of the attack the opponent used last.",
+    "lets-go-pikachu-lets-go-eevee": "The user changes its type to make itself resistant to\nthe type of the attack the opponent used last.",
+    "sword-shield": "The user changes its type to make itself resistant to\nthe type of the attack the target used last."
+  },
+  "effect": {
+    "full": "Changes the user's type to a type either resistant or immune to the last damaging move that hit it.  The new type is selected at random and cannot be a type the user already is.  If there is no eligible new type, this move will fail.",
+    "shortEffect": "Changes the user's type to a random type either resistant or immune to the last move used against it."
+  },
+  "priority": 0
+}

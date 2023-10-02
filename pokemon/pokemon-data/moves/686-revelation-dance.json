@@ -1,0 +1,35 @@
+{
+  "_id": 686,
+  "key": "revelation-dance",
+  "name": {
+    "english": "Revelation Dance",
+    "japanese": "めざめるダンス",
+    "chinese": "覺醒之舞",
+    "korean": "잠재댄스",
+    "german": "Danza Despertar",
+    "french": "Wecktanz",
+    "italian": "Revelation Dance",
+    "spanish": "Mutadanza"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user attacks the target by dancing very hard.\nThe user’s type determines the type of this move.",
+    "ultra-sun-ultra-moon": "The user attacks the target by dancing very hard.\nThe user’s type determines the type of this move.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target by dancing very hard.\nThe user’s type determines the type of this move.",
+    "sword-shield": "The user attacks the target by dancing very hard.\nThe user’s type determines the type of this move."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  This move's type matches the user's first type, if any; otherwise, it's typeless.",
+    "shortEffect": "Has the same type as the user."
+  },
+  "priority": 0
+}

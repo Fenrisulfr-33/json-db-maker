@@ -1,0 +1,31 @@
+{
+  "_id": 195,
+  "key": "water-compaction",
+  "name": {
+    "english": "Water Compaction"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Raises this Pokémon's Defense by two stages when it's hit by a Water move.",
+    "full": "Raises this Pokémon's Defense by two stages when it's hit by a Water move."
+  },
+  "description": {
+    "sun-moon": "Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.",
+    "ultra-sun-ultra-moon": "Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.",
+    "sword-shield": "Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Sandygast",
+        "id": 769
+      },
+      {
+        "name": "Palossand",
+        "id": 770
+      }
+    ],
+    "hidden": []
+  }
+}

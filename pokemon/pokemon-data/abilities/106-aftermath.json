@@ -1,0 +1,63 @@
+{
+  "_id": 106,
+  "key": "aftermath",
+  "name": {
+    "english": "Aftermath"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Damages the attacker for 1/4 its max HP when knocked out by a contact move.",
+    "full": "When this Pokémon is knocked out by a move that makes contact, the move's user takes 1/4 its maximum HP in damage."
+  },
+  "description": {
+    "diamond-pearl": "Damages the foe landing the finishing hit.",
+    "platinum": "Damages the foe landing the finishing hit.",
+    "heartgold-soulsilver": "Damages the foe landing the finishing hit.",
+    "black-white": "Damages the attacker landing the finishing hit.",
+    "black-2-white-2": "Damages the attacker landing the finishing hit.",
+    "x-y": "Damages the attacker landing the finishing hit.",
+    "omega-ruby-alpha-sapphire": "Damages the attacker landing the finishing hit.",
+    "sun-moon": "Damages the attacker if it contacts the Pokémon with a finishing hit.",
+    "ultra-sun-ultra-moon": "Damages the attacker if it contacts the Pokémon with a finishing hit.",
+    "lets-go-pikachu-lets-go-eevee": "Damages the attacker if it contacts the Pokémon with a finishing hit.",
+    "sword-shield": "Damages the attacker if it contacts the Pokémon with a finishing hit."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Drifloon",
+        "id": 425
+      },
+      {
+        "name": "Drifblim",
+        "id": 426
+      },
+      {
+        "name": "Stunky",
+        "id": 434
+      },
+      {
+        "name": "Skuntank",
+        "id": 435
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Voltorb",
+        "id": 100
+      },
+      {
+        "name": "Electrode",
+        "id": 101
+      },
+      {
+        "name": "Trubbish",
+        "id": 568
+      },
+      {
+        "name": "Garbodor",
+        "id": 569
+      }
+    ]
+  }
+}

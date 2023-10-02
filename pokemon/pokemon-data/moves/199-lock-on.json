@@ -1,0 +1,47 @@
+{
+  "_id": 199,
+  "key": "lock-on",
+  "name": {
+    "english": "Lock-On",
+    "japanese": "ロックオン",
+    "chinese": "锁定",
+    "korean": "록온",
+    "german": "Fijar Blanco",
+    "french": "Zielschuss",
+    "italian": "Lock-On",
+    "spanish": "Localizza"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Ensures the next\nattack will hit.",
+    "crystal": "Ensures the next\nattack will hit.",
+    "ruby-sapphire": "Locks on to the foe to\nensure the next move hits.",
+    "emerald": "Locks on to the foe to\nensure the next move hits.",
+    "firered-leafgreen": "The user locks on\nto the foe, making\nthe next move sure\nto hit.",
+    "diamond-pearl": "The user takes sure\naim at the foe.\nIt ensures the next\nattack does not fail\nto hit the target.",
+    "platinum": "The user takes sure\naim at the foe.\nIt ensures the next\nattack does not fail\nto hit the target.",
+    "heartgold-soulsilver": "The user takes sure\naim at the foe.\nIt ensures the next\nattack does not fail\nto hit the target.",
+    "black-white": "The user takes sure aim at the target.\nIt ensures the next attack does not fail\nto hit the target.",
+    "black-2-white-2": "The user takes sure aim at the target.\nIt ensures the next attack does not fail\nto hit the target.",
+    "x-y": "The user takes sure aim at the target.\nThis ensures the next attack does not\nmiss the target.",
+    "omega-ruby-alpha-sapphire": "The user takes sure aim at the target.\nThis ensures the next attack does not\nmiss the target.",
+    "sun-moon": "The user takes sure aim at the target. This ensures\nthe next attack does not miss the target.",
+    "ultra-sun-ultra-moon": "The user takes sure aim at the target. This ensures\nthe next attack does not miss the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user takes sure aim at the target. This ensures\nthe next attack does not miss the target.",
+    "sword-shield": "The user takes sure aim at the target. This ensures\nthe next attack does not miss the target."
+  },
+  "effect": {
+    "full": "If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.\n\nOne-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pokémon that are off the field due to moves such as dig or fly.\n\nIf the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.\n\nThis effect is passed on by baton pass.",
+    "shortEffect": "Ensures that the user's next move will hit the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 23,
+  "key": "stomp",
+  "name": {
+    "english": "Stomp",
+    "japanese": "ふみつけ",
+    "chinese": "践踏",
+    "korean": "짓밟기",
+    "german": "Pisotón",
+    "french": "Stampfer",
+    "italian": "Stomp",
+    "spanish": "Pestone"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause flinching.",
+    "crystal": "An attack that may\ncause flinching.",
+    "ruby-sapphire": "Stomps the enemy with a big\nfoot. May cause flinching.",
+    "emerald": "Stomps the enemy with a big\nfoot. May cause flinching.",
+    "firered-leafgreen": "The foe is stomped\nwith a big foot.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "The foe is stomped\nwith a big foot.\nIt may also make the\ntarget flinch.\n",
+    "platinum": "The foe is stomped\nwith a big foot.\nIt may also make the\ntarget flinch.\n",
+    "heartgold-soulsilver": "The foe is stomped\nwith a big foot.\nIt may also make the\ntarget flinch.\n",
+    "black-white": "The target is stomped with a big foot.\nIt may also make the target flinch.",
+    "black-2-white-2": "The target is stomped with a big foot.\nIt may also make the target flinch.",
+    "x-y": "The target is stomped with a big foot.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The target is stomped with a big foot.\nThis may also make the target flinch.",
+    "sun-moon": "The target is stomped with a big foot. This may also\nmake the target flinch.",
+    "ultra-sun-ultra-moon": "The target is stomped with a big foot. This may also\nmake the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The target is stomped with a big foot. This may also\nmake the target flinch.",
+    "sword-shield": "The target is stomped with a big foot. This may also\nmake the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.\n\nPower is doubled against Pokémon that have used minimize since entering the field.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

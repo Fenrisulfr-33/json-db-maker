@@ -1,0 +1,135 @@
+{
+  "_id": 82,
+  "key": "gluttony",
+  "name": {
+    "english": "Gluttony"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP.",
+    "full": "This Pokémon eats any held Berry triggered by low HP when it falls below 50% of its HP, regardless of the Berry's usual threshold."
+  },
+  "description": {
+    "diamond-pearl": "Encourages the early use of a held Berry.",
+    "platinum": "Encourages the early use of a held Berry.",
+    "heartgold-soulsilver": "Encourages the early use of a held Berry.",
+    "black-white": "Encourages the early use of a held Berry.",
+    "black-2-white-2": "Encourages the early use of a held Berry.",
+    "x-y": "Makes the Pokémon use a held Berry earlier than usual.",
+    "omega-ruby-alpha-sapphire": "Makes the Pokémon use a held Berry earlier than usual.",
+    "sun-moon": "Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual.",
+    "ultra-sun-ultra-moon": "Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual.",
+    "lets-go-pikachu-lets-go-eevee": "Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual.",
+    "sword-shield": "Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Shuckle",
+        "id": 213
+      },
+      {
+        "name": "Zigzagoon",
+        "id": 263
+      },
+      {
+        "name": "Linoone",
+        "id": 264
+      },
+      {
+        "name": "Pansage",
+        "id": 511
+      },
+      {
+        "name": "Simisage",
+        "id": 512
+      },
+      {
+        "name": "Pansear",
+        "id": 513
+      },
+      {
+        "name": "Simisear",
+        "id": 514
+      },
+      {
+        "name": "Panpour",
+        "id": 515
+      },
+      {
+        "name": "Simipour",
+        "id": 516
+      },
+      {
+        "name": "Heatmor",
+        "id": 631
+      },
+      {
+        "name": "Applin",
+        "id": 840
+      },
+      {
+        "name": "Flapple",
+        "id": 841
+      },
+      {
+        "name": "Appletun",
+        "id": 842
+      },
+      {
+        "name": "Lechonk",
+        "id": 915
+      },
+      {
+        "name": "Oinkologne",
+        "id": 916
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Bellsprout",
+        "id": 69
+      },
+      {
+        "name": "Weepinbell",
+        "id": 70
+      },
+      {
+        "name": "Victreebel",
+        "id": 71
+      },
+      {
+        "name": "Snorlax",
+        "id": 143
+      },
+      {
+        "name": "Gulpin",
+        "id": 316
+      },
+      {
+        "name": "Swalot",
+        "id": 317
+      },
+      {
+        "name": "Spoink",
+        "id": 325
+      },
+      {
+        "name": "Grumpig",
+        "id": 326
+      },
+      {
+        "name": "Munchlax",
+        "id": 446
+      },
+      {
+        "name": "Skwovet",
+        "id": 819
+      },
+      {
+        "name": "Greedent",
+        "id": 820
+      }
+    ]
+  }
+}

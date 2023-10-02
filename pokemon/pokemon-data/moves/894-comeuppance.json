@@ -1,0 +1,17 @@
+{
+  "_id": 894,
+  "key": "comeuppance",
+  "name": {
+    "english": "Comeuppance"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 1,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Specific-move",
+  "changes": []
+}

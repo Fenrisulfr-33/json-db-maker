@@ -1,0 +1,110 @@
+{
+  "_id": 55,
+  "key": "hustle",
+  "name": {
+    "english": "Hustle"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×.",
+    "full": "This Pokémon's physical moves do 1.5× as much regular damage, but have 0.8× their usual accuracy. Special moves are unaffected. Moves that do set damage, such as seismic toss, have their accuracy affected, but not their damage. Overworld: If the lead Pokémon has this ability, higher-levelled Pokémon have their encounter rate increased."
+  },
+  "description": {
+    "ruby-sapphire": "Trades accuracy for power.",
+    "emerald": "Trades accuracy for power.",
+    "firered-leafgreen": "Trades accuracy for power.",
+    "diamond-pearl": "Boosts the Attack stat, but lowers accuracy.",
+    "platinum": "Boosts the Attack stat, but lowers accuracy.",
+    "heartgold-soulsilver": "Boosts the Attack stat, but lowers accuracy.",
+    "black-white": "Boosts the Attack stat, but lowers accuracy.",
+    "black-2-white-2": "Boosts the Attack stat, but lowers accuracy.",
+    "x-y": "Boosts the Attack stat, but lowers accuracy.",
+    "omega-ruby-alpha-sapphire": "Boosts the Attack stat, but lowers accuracy.",
+    "sun-moon": "Boosts the Attack stat, but lowers accuracy.",
+    "ultra-sun-ultra-moon": "Boosts the Attack stat, but lowers accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Attack stat, but lowers accuracy.",
+    "sword-shield": "Boosts the Attack stat, but lowers accuracy."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Togepi",
+        "id": 175
+      },
+      {
+        "name": "Togetic",
+        "id": 176
+      },
+      {
+        "name": "Corsola",
+        "id": 222
+      },
+      {
+        "name": "Remoraid",
+        "id": 223
+      },
+      {
+        "name": "Delibird",
+        "id": 225
+      },
+      {
+        "name": "Togekiss",
+        "id": 468
+      },
+      {
+        "name": "Darumaka",
+        "id": 554
+      },
+      {
+        "name": "Durant",
+        "id": 632
+      },
+      {
+        "name": "Deino",
+        "id": 633
+      },
+      {
+        "name": "Zweilous",
+        "id": 634
+      },
+      {
+        "name": "Dracozolt",
+        "id": 880
+      },
+      {
+        "name": "Squawkabilly",
+        "id": 931
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Rattata",
+        "id": 19
+      },
+      {
+        "name": "Raticate",
+        "id": 20
+      },
+      {
+        "name": "Nidorina",
+        "id": 30
+      },
+      {
+        "name": "Nidorino",
+        "id": 33
+      },
+      {
+        "name": "Combee",
+        "id": 415
+      },
+      {
+        "name": "Rufflet",
+        "id": 627
+      },
+      {
+        "name": "Flapple",
+        "id": 841
+      }
+    ]
+  }
+}

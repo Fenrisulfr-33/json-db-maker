@@ -1,0 +1,32 @@
+{
+  "_id": 809,
+  "key": "poltergeist",
+  "name": {
+    "english": "Poltergeist",
+    "japanese": "ポルターガイスト",
+    "chinese": "靈騷",
+    "korean": "폴터가이스트",
+    "german": "Poltergeist",
+    "french": "Poltergeist",
+    "italian": "Poltergeist",
+    "spanish": "Poltergeist"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 110,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks the target by controlling the target’s\nitem. The move fails if the target doesn’t have an item."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

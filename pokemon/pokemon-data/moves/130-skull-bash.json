@@ -1,0 +1,47 @@
+{
+  "_id": 130,
+  "key": "skull-bash",
+  "name": {
+    "english": "Skull Bash",
+    "japanese": "ロケットずつき",
+    "chinese": "火箭头槌",
+    "korean": "로케트박치기",
+    "german": "Cabezazo",
+    "french": "Schädelwumme",
+    "italian": "Skull Bash",
+    "spanish": "Capocciata"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 130,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "1st turn: Prepare\n2nd turn: Attack",
+    "crystal": "1st turn: Prepare\n2nd turn: Attack",
+    "ruby-sapphire": "Tucks in the head, then\nattacks on the next turn.",
+    "emerald": "Tucks in the head, then\nattacks on the next turn.",
+    "firered-leafgreen": "The user raises its\nDEFENSE in the 1st\nturn, then attacks\nin the 2nd turn.",
+    "diamond-pearl": "The user tucks in its\nhead to raise its\nDefense in the first\nturn, then rams the\nfoe on the next turn.",
+    "platinum": "The user tucks in its\nhead to raise its\nDefense in the first\nturn, then rams the\nfoe on the next turn.",
+    "heartgold-soulsilver": "The user tucks in its\nhead to raise its\nDefense in the first\nturn, then rams the\nfoe on the next turn.",
+    "black-white": "The user tucks in its head to raise its\nDefense in the first turn, then\nrams the target on the next turn.",
+    "black-2-white-2": "The user tucks in its head to raise its\nDefense in the first turn, then\nrams the target on the next turn.",
+    "x-y": "The user tucks in its head to raise its\nDefense in the first turn, then\nrams the target on the next turn.",
+    "omega-ruby-alpha-sapphire": "The user tucks in its head to raise its\nDefense in the first turn, then\nrams the target on the next turn.",
+    "sun-moon": "The user tucks in its head to raise its Defense\nstat on the first turn, then rams the target on the\nnext turn.",
+    "ultra-sun-ultra-moon": "The user tucks in its head to raise its Defense\nstat on the first turn, then rams the target on the\nnext turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user tucks in its head to raise its Defense\nstat on the first turn, then rams the target on the\nnext turn.",
+    "sword-shield": "The user tucks in its head to raise its Defense\nstat on the first turn, then rams the target on the\nnext turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Raises the user's Defense by one stage.  User then charges for one turn before attacking.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "Raises the user's Defense by one stage.  User charges for one turn before attacking."
+  },
+  "priority": 0
+}

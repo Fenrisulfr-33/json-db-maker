@@ -1,0 +1,47 @@
+{
+  "_id": 147,
+  "key": "spore",
+  "name": {
+    "english": "Spore",
+    "japanese": "キノコのほうし",
+    "chinese": "蘑菇孢子",
+    "korean": "버섯포자",
+    "german": "Espora",
+    "french": "Pilzspore",
+    "italian": "Spore",
+    "spanish": "Spora"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "omega-ruby-alpha-sapphire": "The user scatters bursts of spores\nthat induce sleep.",
+    "gold-silver": "A move that\ninduces sleep.",
+    "crystal": "A move that\ninduces sleep.",
+    "ruby-sapphire": "Scatters a cloud of spores\nthat always induce sleep.",
+    "emerald": "Scatters a cloud of spores\nthat always induce sleep.",
+    "firered-leafgreen": "The user scatters\nbursts of fine\nspores that induce\nsleep.",
+    "diamond-pearl": "The user scatters\nbursts of spores\nthat induce sleep.\n\n",
+    "platinum": "The user scatters\nbursts of spores\nthat induce sleep.\n\n",
+    "heartgold-soulsilver": "The user scatters\nbursts of spores\nthat induce sleep.\n\n",
+    "black-white": "The user scatters bursts of spores\nthat induce sleep.",
+    "black-2-white-2": "The user scatters bursts of spores\nthat induce sleep.",
+    "x-y": "The user scatters bursts of spores\nthat induce sleep.",
+    "sun-moon": "The user scatters bursts of spores that\ninduce sleep.",
+    "ultra-sun-ultra-moon": "The user scatters bursts of spores that\ninduce sleep.",
+    "lets-go-pikachu-lets-go-eevee": "The user scatters bursts of spores that\ninduce sleep.",
+    "sword-shield": "The user scatters bursts of spores that\ninduce sleep."
+  },
+  "effect": {
+    "full": "Puts the target to sleep.",
+    "shortEffect": "Puts the target to sleep."
+  },
+  "priority": 0
+}

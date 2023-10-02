@@ -1,0 +1,47 @@
+{
+  "_id": 133,
+  "key": "amnesia",
+  "name": {
+    "english": "Amnesia",
+    "japanese": "ドわすれ",
+    "chinese": "瞬间失忆",
+    "korean": "망각술",
+    "german": "Amnesia",
+    "french": "Amnesie",
+    "italian": "Amnesia",
+    "spanish": "Amnesia"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "crystal": "Sharply raises the\nuser's SPCL.DEF.",
+    "ruby-sapphire": "Forgets about something\nand sharply raises SP. DEF.",
+    "emerald": "Forgets about something\nand sharply raises SP. DEF.",
+    "firered-leafgreen": "Forgets about\nsomething and\nsharply raises\nSP. DEF.",
+    "gold-silver": "Sharply raises the\nuser's SPCL.DEF.",
+    "diamond-pearl": "The user temporarily\nempties its mind to\nforget its concerns.\nIt sharply raises the\nuser’s Sp. Def stat.",
+    "platinum": "The user temporarily\nempties its mind to\nforget its concerns.\nIt sharply raises the\nuser’s Sp. Def stat.",
+    "heartgold-soulsilver": "The user temporarily\nempties its mind to\nforget its concerns.\nIt sharply raises the\nuser’s Sp. Def stat.",
+    "black-white": "The user temporarily empties its mind to\nforget its concerns.\nIt sharply raises the user’s Sp. Def stat.",
+    "black-2-white-2": "The user temporarily empties its mind to\nforget its concerns.\nIt sharply raises the user’s Sp. Def stat.",
+    "x-y": "The user temporarily empties its mind to\nforget its concerns.\nThis sharply raises the user’s Sp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user temporarily empties its mind to\nforget its concerns.\nThis sharply raises the user’s Sp. Def stat.",
+    "sun-moon": "The user temporarily empties its mind to forget its\nconcerns. This sharply raises the user’s Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The user temporarily empties its mind to forget its\nconcerns. This sharply raises the user’s Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user temporarily empties its mind to forget its\nconcerns. This sharply raises the user’s Sp. Def stat.",
+    "sword-shield": "The user temporarily empties its mind to forget its\nconcerns. This sharply raises the user’s Sp. Def stat."
+  },
+  "effect": {
+    "full": "Raises the user's Special Defense by two stages.",
+    "shortEffect": "Raises the user's Special Defense by two stages."
+  },
+  "priority": 0
+}

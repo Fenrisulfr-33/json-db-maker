@@ -1,0 +1,134 @@
+{
+  "_id": 75,
+  "key": "shell-armor",
+  "name": {
+    "english": "Shell Armor"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Protects against critical hits.",
+    "full": "Moves cannot score critical hits against this Pokémon. This ability functions identically to battle armor."
+  },
+  "description": {
+    "ruby-sapphire": "Blocks critical hits.",
+    "emerald": "Blocks critical hits.",
+    "firered-leafgreen": "Blocks critical hits.",
+    "diamond-pearl": "The Pokémon is protected against critical hits.",
+    "platinum": "The Pokémon is protected against critical hits.",
+    "heartgold-soulsilver": "The Pokémon is protected against critical hits.",
+    "black-white": "The Pokémon is protected against critical hits.",
+    "black-2-white-2": "The Pokémon is protected against critical hits.",
+    "x-y": "Protects the Pokémon from critical hits.",
+    "omega-ruby-alpha-sapphire": "Protects the Pokémon from critical hits.",
+    "sun-moon": "A hard shell protects the Pokémon from critical hits.",
+    "ultra-sun-ultra-moon": "A hard shell protects the Pokémon from critical hits.",
+    "lets-go-pikachu-lets-go-eevee": "A hard shell protects the Pokémon from critical hits.",
+    "sword-shield": "A hard shell protects the Pokémon from critical hits."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Shellder",
+        "id": 90
+      },
+      {
+        "name": "Cloyster",
+        "id": 91
+      },
+      {
+        "name": "Krabby",
+        "id": 98
+      },
+      {
+        "name": "Kingler",
+        "id": 99
+      },
+      {
+        "name": "Lapras",
+        "id": 131
+      },
+      {
+        "name": "Omanyte",
+        "id": 138
+      },
+      {
+        "name": "Omastar",
+        "id": 139
+      },
+      {
+        "name": "Corphish",
+        "id": 341
+      },
+      {
+        "name": "Crawdaunt",
+        "id": 342
+      },
+      {
+        "name": "Clamperl",
+        "id": 366
+      },
+      {
+        "name": "Dwebble",
+        "id": 557
+      },
+      {
+        "name": "Crustle",
+        "id": 558
+      },
+      {
+        "name": "Escavalier",
+        "id": 589
+      },
+      {
+        "name": "Shelmet",
+        "id": 616
+      },
+      {
+        "name": "Turtonator",
+        "id": 776
+      },
+      {
+        "name": "Chewtle",
+        "id": 833
+      },
+      {
+        "name": "Drednaw",
+        "id": 834
+      },
+      {
+        "name": "Klawf",
+        "id": 950
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Torkoal",
+        "id": 324
+      },
+      {
+        "name": "Turtwig",
+        "id": 387
+      },
+      {
+        "name": "Grotle",
+        "id": 388
+      },
+      {
+        "name": "Torterra",
+        "id": 389
+      },
+      {
+        "name": "Oshawott",
+        "id": 501
+      },
+      {
+        "name": "Dewott",
+        "id": 502
+      },
+      {
+        "name": "Samurott",
+        "id": 503
+      }
+    ]
+  }
+}

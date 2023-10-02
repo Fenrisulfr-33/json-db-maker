@@ -1,0 +1,35 @@
+{
+  "_id": 717,
+  "key": "natures-madness",
+  "name": {
+    "english": "Nature's Madness",
+    "japanese": "しぜんのいかり",
+    "chinese": "自然之怒",
+    "korean": "자연의분노",
+    "german": "Furia Natural",
+    "french": "Naturzorn",
+    "italian": "Nature’s Madness",
+    "spanish": "Ira della Natura"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user hits the target with the force of nature.\nIt halves the target’s HP.",
+    "ultra-sun-ultra-moon": "The user hits the target with the force of nature.\nIt halves the target’s HP.",
+    "lets-go-pikachu-lets-go-eevee": "The user hits the target with the force of nature.\nIt halves the target’s HP.",
+    "sword-shield": "The user hits the target with the force of nature.\nIt halves the target’s HP."
+  },
+  "effect": {
+    "full": "Inflicts typeless damage equal to half the target's remaining HP.",
+    "shortEffect": "Inflicts damage equal to half the target's HP."
+  },
+  "priority": 0
+}

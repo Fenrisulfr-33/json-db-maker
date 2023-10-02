@@ -1,0 +1,47 @@
+{
+  "_id": 15,
+  "key": "cut",
+  "name": {
+    "english": "Cut",
+    "japanese": "いあいぎり",
+    "chinese": "一字斩",
+    "korean": "풀베기",
+    "german": "Corte",
+    "french": "Zerschneider",
+    "italian": "Cut",
+    "spanish": "Taglio"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 30,
+  "power": 50,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Cuts using claws,\nscythes, etc.",
+    "crystal": "Cuts using claws,\nscythes, etc.",
+    "ruby-sapphire": "Cuts the foe with sharp\nscythes, claws, etc.",
+    "emerald": "Cuts the foe with sharp\nscythes, claws, etc.",
+    "firered-leafgreen": "A basic attack.\nIt can be used to\ncut down thin trees\nand grass.",
+    "diamond-pearl": "The foe is cut with a\nscythe or a claw.\nIt can also be used\nto cut down thin\ntrees.",
+    "platinum": "The foe is cut with a\nscythe or a claw.\nIt can also be used\nto cut down thin\ntrees.",
+    "heartgold-soulsilver": "The foe is cut with a\nscythe or a claw.\nIt can also be used\nto cut down thin\ntrees.",
+    "black-white": "The target is cut with a scythe or a claw.\nIt can also be used to cut down\nthin trees.",
+    "black-2-white-2": "The target is cut with a scythe or a claw.\nIt can also be used to cut down\nthin trees.",
+    "x-y": "The target is cut with a scythe or claw.\nThis can also be used to cut down thin trees.",
+    "omega-ruby-alpha-sapphire": "The target is cut with a scythe or claw.\nThis can also be used to cut down thin trees.",
+    "sun-moon": "The target is cut with a scythe or claw.",
+    "ultra-sun-ultra-moon": "The target is cut with a scythe or claw.",
+    "lets-go-pikachu-lets-go-eevee": "The target is cut with a scythe or claw.",
+    "sword-shield": "The target is cut with a scythe or claw."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

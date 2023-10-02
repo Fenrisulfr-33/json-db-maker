@@ -1,0 +1,37 @@
+{
+  "_id": 562,
+  "key": "belch",
+  "name": {
+    "english": "Belch",
+    "japanese": "ゲップ",
+    "chinese": "打嗝",
+    "korean": "트림",
+    "german": "Eructo",
+    "french": "Rülpser",
+    "italian": "Belch",
+    "spanish": "Rutto"
+  },
+  "type": "Poison",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 120,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user lets out a damaging belch\nat the target. The user must eat a held\nBerry to use this move.",
+    "omega-ruby-alpha-sapphire": "The user lets out a damaging belch\nat the target. The user must eat a held\nBerry to use this move.",
+    "sun-moon": "The user lets out a damaging belch at the target.\nThe user must eat a held Berry to use this move.",
+    "ultra-sun-ultra-moon": "The user lets out a damaging belch at the target.\nThe user must eat a held Berry to use this move.",
+    "lets-go-pikachu-lets-go-eevee": "The user lets out a damaging belch at the target.\nThe user must eat a held Berry to use this move.",
+    "sword-shield": "The user lets out a damaging belch at the target.\nThe user must eat a held Berry to use this move."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Can only be used if the user has eaten a berry since the beginning of the battle.\n\nAfter the user eats a berry, it may use this move any number of times until the end of the battle, even if it switches out.  Eating a held berry, eating a berry via bug bite or pluck, or being the target of a Flung berry will enable this move.  Feeding a Pokémon a berry from the bag or using natural gift will not.\n\nIf the trainer chooses this move when it cannot be used, the choice is rejected outright and the trainer must choose another move.",
+    "shortEffect": "Can only be used after the user has eaten a berry."
+  },
+  "priority": 0
+}

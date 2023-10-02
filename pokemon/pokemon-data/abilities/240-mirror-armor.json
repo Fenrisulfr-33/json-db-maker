@@ -1,0 +1,21 @@
+{
+  "_id": 240,
+  "key": "mirror-armor",
+  "name": {
+    "english": "Mirror Armor"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Bounces back only the stat-lowering effects that the Pokémon receives."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Corviknight",
+        "id": 823
+      }
+    ]
+  }
+}

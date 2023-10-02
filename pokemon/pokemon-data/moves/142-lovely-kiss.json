@@ -1,0 +1,47 @@
+{
+  "_id": 142,
+  "key": "lovely-kiss",
+  "name": {
+    "english": "Lovely Kiss",
+    "japanese": "あくまのキッス",
+    "chinese": "恶魔之吻",
+    "korean": "악마의키스",
+    "german": "Beso Amoroso",
+    "french": "Todeskuss",
+    "italian": "Lovely Kiss",
+    "spanish": "Demonbacio"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": null,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "May cause the foe\nto fall asleep.",
+    "crystal": "May cause the foe\nto fall asleep.",
+    "ruby-sapphire": "Demands a kiss with a scary\nface that induces sleep.",
+    "emerald": "Demands a kiss with a scary\nface that induces sleep.",
+    "firered-leafgreen": "The user forces a\nkiss on the foe\nwith a scary face\nthat induces sleep.",
+    "diamond-pearl": "With a scary face,\nthe user forces a\nkiss on the foe.\nIt may make the\ntarget fall asleep.",
+    "platinum": "With a scary face,\nthe user forces a\nkiss on the foe.\nIt may make the\ntarget fall asleep.",
+    "heartgold-soulsilver": "With a scary face, the\nuser tries to force a\nkiss on the foe. If it\nsucceeds, the target\nfalls asleep.",
+    "black-white": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+    "black-2-white-2": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+    "x-y": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+    "omega-ruby-alpha-sapphire": "With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.",
+    "sun-moon": "With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep.",
+    "ultra-sun-ultra-moon": "With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep.",
+    "lets-go-pikachu-lets-go-eevee": "With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep.",
+    "sword-shield": "With a scary face, the user tries to force a kiss on\nthe target. If it succeeds, the target falls asleep."
+  },
+  "effect": {
+    "full": "Puts the target to sleep.",
+    "shortEffect": "Puts the target to sleep."
+  },
+  "priority": 0
+}

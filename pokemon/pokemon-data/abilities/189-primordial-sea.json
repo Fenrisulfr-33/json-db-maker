@@ -1,0 +1,23 @@
+{
+  "_id": 189,
+  "key": "primordial-sea",
+  "name": {
+    "english": "Primordial Sea"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Creates heavy rain, which has all the properties of Rain Dance, cannot be replaced, and causes damaging Fire moves to fail.",
+    "full": "When this Pokémon enters battle or gains this ability, the weather becomes heavy rain. Heavy rain has all the properties of rain dance and also causes damaging Fire moves to fail. Heavy rain ends when this Pokémon leaves battle or loses this ability, or when this ability is nullified. The weather cannot otherwise be changed except by the effects of delta stream and desolate land. air lock and cloud nine will prevent the effects of heavy rain, including allowing Fire moves to work, but will not allow the weather to be changed."
+  },
+  "description": {
+    "omega-ruby-alpha-sapphire": "Affects weather and nullifies any Fire-type attacks.",
+    "sun-moon": "The Pokémon changes the weather to nullify Fire-type attacks.",
+    "ultra-sun-ultra-moon": "The Pokémon changes the weather to nullify Fire-type attacks.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon changes the weather to nullify Fire-type attacks.",
+    "sword-shield": "The Pokémon changes the weather to nullify Fire-type attacks."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

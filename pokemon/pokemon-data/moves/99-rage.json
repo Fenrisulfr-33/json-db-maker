@@ -1,0 +1,47 @@
+{
+  "_id": 99,
+  "key": "rage",
+  "name": {
+    "english": "Rage",
+    "japanese": "いかり",
+    "chinese": "愤怒",
+    "korean": "분노",
+    "german": "Furia",
+    "french": "Raserei",
+    "italian": "Rage",
+    "spanish": "Ira"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 20,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Raises ATTACK if\nthe user is hit.",
+    "crystal": "Raises ATTACK if\nthe user is hit.",
+    "ruby-sapphire": "Raises the user’s ATTACK\nevery time it is hit.",
+    "emerald": "Raises the user’s ATTACK\nevery time it is hit.",
+    "firered-leafgreen": "An attack that\nbecomes stronger\neach time the user\nis hit in battle.",
+    "diamond-pearl": "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n",
+    "platinum": "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n",
+    "heartgold-soulsilver": "While this move is in\nuse, it gains attack\npower each time the\nuser is hit in battle.\n",
+    "black-white": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+    "black-2-white-2": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+    "x-y": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+    "omega-ruby-alpha-sapphire": "As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.",
+    "sun-moon": "As long as this move is in use, the power of rage\nraises the Attack stat each time the user is hit\nin battle.",
+    "ultra-sun-ultra-moon": "As long as this move is in use, the power of rage\nraises the Attack stat each time the user is hit\nin battle.",
+    "lets-go-pikachu-lets-go-eevee": "As long as this move is in use, the power of rage\nraises the Attack stat each time the user is hit\nin battle.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action, its Attack raises by one stage.",
+    "shortEffect": "If the user is hit after using this move, its Attack rises by one stage."
+  },
+  "priority": 0
+}

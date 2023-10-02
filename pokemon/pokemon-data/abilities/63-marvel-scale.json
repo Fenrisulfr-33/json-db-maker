@@ -1,0 +1,46 @@
+{
+  "_id": 63,
+  "key": "marvel-scale",
+  "name": {
+    "english": "Marvel Scale"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Increases Defense to 1.5× with a major status ailment.",
+    "full": "Whenever this Pokémon has a major status ailment, it has 1.5× its Defense. This bonus does not count as a stat modifier."
+  },
+  "description": {
+    "ruby-sapphire": "Ups DEFENSE if suffering.",
+    "emerald": "Ups DEFENSE if suffering.",
+    "firered-leafgreen": "Ups DEFENSE if suffering.",
+    "diamond-pearl": "Boosts Defense if there is a status problem.",
+    "platinum": "Boosts Defense if there is a status problem.",
+    "heartgold-soulsilver": "Ups Defense if there is a status problem.",
+    "black-white": "Ups Defense if there is a status problem.",
+    "black-2-white-2": "Ups Defense if there is a status problem.",
+    "x-y": "Boosts the Defense stat if the Pokémon has a status condition.",
+    "omega-ruby-alpha-sapphire": "Boosts the Defense stat if the Pokémon has a status condition.",
+    "sun-moon": "The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.",
+    "ultra-sun-ultra-moon": "The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.",
+    "sword-shield": "The Pokémon’s marvelous scales boost the Defense stat if it has a status condition."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Milotic",
+        "id": 350
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Dratini",
+        "id": 147
+      },
+      {
+        "name": "Dragonair",
+        "id": 148
+      }
+    ]
+  }
+}

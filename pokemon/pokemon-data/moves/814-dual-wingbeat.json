@@ -1,0 +1,32 @@
+{
+  "_id": 814,
+  "key": "dual-wingbeat",
+  "name": {
+    "english": "Dual Wingbeat",
+    "japanese": "ダブルウイング",
+    "chinese": "雙翼",
+    "korean": "더블윙",
+    "german": "Ala Bis",
+    "french": "Doppelflügel",
+    "italian": "Dual Wingbeat",
+    "spanish": "Doppia Ala"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 40,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user slams the target with its wings.\nThe target is hit twice in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

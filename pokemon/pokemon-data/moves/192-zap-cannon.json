@@ -1,0 +1,47 @@
+{
+  "_id": 192,
+  "key": "zap-cannon",
+  "name": {
+    "english": "Zap Cannon",
+    "japanese": "でんじほう",
+    "chinese": "电磁炮",
+    "korean": "전자포",
+    "german": "Electrocañón",
+    "french": "Blitzkanone",
+    "italian": "Zap Cannon",
+    "spanish": "Falcecannone"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 50,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that\nalways paralyzes.",
+    "crystal": "An attack that\nalways paralyzes.",
+    "ruby-sapphire": "Powerful and sure to cause\nparalysis, but inaccurate.",
+    "emerald": "Powerful and sure to cause\nparalysis, but inaccurate.",
+    "firered-leafgreen": "An electric blast is\nfired like a cannon\nto inflict damage\nand paralyze.",
+    "diamond-pearl": "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.",
+    "platinum": "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.",
+    "heartgold-soulsilver": "The user fires an\nelectric blast like a\ncannon to inflict\ndamage and cause\nparalysis.",
+    "black-white": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+    "black-2-white-2": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+    "x-y": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+    "omega-ruby-alpha-sapphire": "The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.",
+    "sun-moon": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.",
+    "ultra-sun-ultra-moon": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis.",
+    "sword-shield": "The user fires an electric blast like a cannon to inflict\ndamage and cause paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

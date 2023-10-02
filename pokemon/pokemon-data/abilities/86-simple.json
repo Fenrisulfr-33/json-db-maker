@@ -1,0 +1,51 @@
+{
+  "_id": 86,
+  "key": "simple",
+  "name": {
+    "english": "Simple"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Doubles the Pokémon's stat modifiers. These doubled modifiers are still capped at -6 or 6 stages.",
+    "full": "Each stage of this Pokémon's stat modifiers acts as two stages. These doubled stages are still limited to a minimum of -6 and a maximum of 6. This Pokémon can still accumulate less than -3 or more than 3 stages of stat modifiers, even though the extra ones have no effect after doubling."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon is prone to wild stat changes.",
+    "platinum": "The Pokémon is prone to wild stat changes.",
+    "heartgold-soulsilver": "The Pokémon is prone to wild stat changes.",
+    "black-white": "The Pokémon is prone to wild stat changes.",
+    "black-2-white-2": "The Pokémon is prone to wild stat changes.",
+    "x-y": "The Pokémon is prone to wild stat changes.",
+    "omega-ruby-alpha-sapphire": "The Pokémon is prone to wild stat changes.",
+    "sun-moon": "The stat changes the Pokémon receives are doubled.",
+    "ultra-sun-ultra-moon": "The stat changes the Pokémon receives are doubled.",
+    "lets-go-pikachu-lets-go-eevee": "The stat changes the Pokémon receives are doubled.",
+    "sword-shield": "The stat changes the Pokémon receives are doubled."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Numel",
+        "id": 322
+      },
+      {
+        "name": "Bidoof",
+        "id": 399
+      },
+      {
+        "name": "Bibarel",
+        "id": 400
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Woobat",
+        "id": 527
+      },
+      {
+        "name": "Swoobat",
+        "id": 528
+      }
+    ]
+  }
+}

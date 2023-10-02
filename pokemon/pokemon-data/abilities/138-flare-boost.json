@@ -1,0 +1,35 @@
+{
+  "_id": 138,
+  "key": "flare-boost",
+  "name": {
+    "english": "Flare Boost"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Increases Special Attack to 1.5× when burned.",
+    "full": "This Pokémon has 1.5× its Special Attack when burned."
+  },
+  "description": {
+    "black-white": "Powers up special attacks when burned.",
+    "black-2-white-2": "Powers up special attacks when burned.",
+    "x-y": "Powers up special attacks when the Pokémon is burned.",
+    "omega-ruby-alpha-sapphire": "Powers up special attacks when the Pokémon is burned.",
+    "sun-moon": "Powers up special attacks when the Pokémon is burned.",
+    "ultra-sun-ultra-moon": "Powers up special attacks when the Pokémon is burned.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up special attacks when the Pokémon is burned.",
+    "sword-shield": "Powers up special attacks when the Pokémon is burned."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Drifloon",
+        "id": 425
+      },
+      {
+        "name": "Drifblim",
+        "id": 426
+      }
+    ]
+  }
+}

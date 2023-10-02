@@ -1,0 +1,47 @@
+{
+  "_id": 89,
+  "key": "earthquake",
+  "name": {
+    "english": "Earthquake",
+    "japanese": "じしん",
+    "chinese": "地震",
+    "korean": "지진",
+    "german": "Terremoto",
+    "french": "Erdbeben",
+    "italian": "Earthquake",
+    "spanish": "Terremoto"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Tough but useless\nvs. flying foes.",
+    "crystal": "Tough but useless\nvs. flying foes.",
+    "ruby-sapphire": "A powerful quake, but has\nno effect on flying foes.",
+    "emerald": "A powerful quake, but has\nno effect on flying foes.",
+    "firered-leafgreen": "An earthquake that\nstrikes all POKéMON\nin battle excluding\nthe user.",
+    "diamond-pearl": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+    "platinum": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+    "heartgold-soulsilver": "The user sets off an\nearthquake that hits\nall the Pokémon in\nthe battle.\n",
+    "black-white": "The user sets off an earthquake that\nstrikes those around it.",
+    "black-2-white-2": "The user sets off an earthquake that\nstrikes those around it.",
+    "x-y": "The user sets off an earthquake that\nstrikes every Pokémon around it.\n",
+    "omega-ruby-alpha-sapphire": "The user sets off an earthquake that\nstrikes every Pokémon around it.\n",
+    "sun-moon": "The user sets off an earthquake that strikes every\nPokémon around it.",
+    "ultra-sun-ultra-moon": "The user sets off an earthquake that strikes every\nPokémon around it.",
+    "lets-go-pikachu-lets-go-eevee": "The user sets off an earthquake that strikes every\nPokémon around it.",
+    "sword-shield": "The user sets off an earthquake that strikes every\nPokémon around it."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.\n\nIf the target is in the first turn of dig, this move will hit with double power.",
+    "shortEffect": "Inflicts regular damage and can hit Dig users."
+  },
+  "priority": 0
+}

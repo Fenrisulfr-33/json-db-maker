@@ -1,0 +1,29 @@
+{
+  "_id": 781,
+  "key": "behemoth-blade",
+  "name": {
+    "english": "Behemoth Blade",
+    "japanese": "きょじゅうざん",
+    "chinese": "巨獸斬",
+    "korean": "거수참",
+    "german": "Tajo Supremo",
+    "french": "Gigantenhieb",
+    "italian": "Behemoth Blade",
+    "spanish": "Taglio Maestoso"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user becomes a gigantic sword and cuts the target.\nThis move deals twice the damage if the target\nis Dynamaxed."
+  },
+  "effect": {},
+  "priority": 0
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 271,
+  "key": "trick",
+  "name": {
+    "english": "Trick",
+    "japanese": "トリック",
+    "chinese": "骗术",
+    "korean": "트릭",
+    "german": "Truco",
+    "french": "Trickbetrug",
+    "italian": "Trick",
+    "spanish": "Raggiro"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Tricks the foe into trading\nheld items.",
+    "emerald": "Tricks the foe into trading\nheld items.",
+    "firered-leafgreen": "A move that tricks\nthe foe into\ntrading held items\nwith the user.",
+    "diamond-pearl": "The user catches the\nfoe off guard and\nswaps the foe’s held\nitem with its own.\n",
+    "platinum": "The user catches the\nfoe off guard and\nswaps the foe’s held\nitem with its own.\n",
+    "heartgold-soulsilver": "The user catches the\nfoe off guard and\nswaps the foe’s held\nitem with its own.\n",
+    "black-white": "The user catches the target off guard\nand swaps its held item with its own.",
+    "black-2-white-2": "The user catches the target off guard\nand swaps its held item with its own.",
+    "x-y": "The user catches the target off guard\nand swaps its held item with its own.",
+    "omega-ruby-alpha-sapphire": "The user catches the target off guard\nand swaps its held item with its own.",
+    "sun-moon": "The user catches the target off guard and swaps its\nheld item with its own.",
+    "ultra-sun-ultra-moon": "The user catches the target off guard and swaps its\nheld item with its own.",
+    "lets-go-pikachu-lets-go-eevee": "The user catches the target off guard and swaps its\nheld item with its own.",
+    "sword-shield": "The user catches the target off guard and swaps its\nheld item with its own."
+  },
+  "effect": {
+    "full": "User and target permanently swap held items.  Works even if one of the Pokémon isn't holding anything.  If either Pokémon is holding mail, this move will fail.\n\nIf either Pokémon has multitype or sticky hold, this move will fail.\n\nIf this move results in a Pokémon obtaining choice band, choice scarf, or choice specs, and that Pokémon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pokémon had a choice item before this move was used.  If the first of the two Pokémon gains a choice item, it may select whatever choice move it wishes next turn.\n\nNeither the user nor the target can recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+    "shortEffect": "User and target swap items."
+  },
+  "priority": 0
+}

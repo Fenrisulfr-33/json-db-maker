@@ -1,0 +1,39 @@
+{
+  "_id": 514,
+  "key": "retaliate",
+  "name": {
+    "english": "Retaliate",
+    "japanese": "かたきうち",
+    "chinese": "讨敌",
+    "korean": "원수갚기",
+    "german": "Represalia",
+    "french": "Heimzahlung",
+    "italian": "Retaliate",
+    "spanish": "Nemesi"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis attack’s damage increases.",
+    "black-2-white-2": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis attack’s damage increases.",
+    "x-y": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis move becomes more powerful.",
+    "omega-ruby-alpha-sapphire": "The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis move becomes more powerful.",
+    "sun-moon": "The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move’s power\nis increased.",
+    "ultra-sun-ultra-moon": "The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move’s power\nis increased.",
+    "lets-go-pikachu-lets-go-eevee": "The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move’s power\nis increased.",
+    "sword-shield": "The user gets revenge for a fainted ally. If an ally\nfainted in the previous turn, this move’s power\nis increased."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If a friendly Pokémon fainted on the previous turn, this move has double power.",
+    "shortEffect": "Has double power if a friendly Pokémon fainted last turn."
+  },
+  "priority": 0
+}

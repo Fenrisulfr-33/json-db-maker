@@ -1,0 +1,37 @@
+{
+  "_id": 564,
+  "key": "sticky-web",
+  "name": {
+    "english": "Sticky Web",
+    "japanese": "ねばねばネット",
+    "chinese": "粘网",
+    "korean": "끈적끈적네트",
+    "german": "Red Viscosa",
+    "french": "Klebenetz",
+    "italian": "Sticky Web",
+    "spanish": "Rete Vischiosa"
+  },
+  "type": "Bug",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "opponents-field",
+  "changes": [],
+  "description": {
+    "x-y": "The user weaves a sticky net around\nthe opposing team, which lowers their\nSpeed stat upon switching into battle.",
+    "omega-ruby-alpha-sapphire": "The user weaves a sticky net around\nthe opposing team, which lowers their\nSpeed stat upon switching into battle.",
+    "sun-moon": "The user weaves a sticky net around the opposing\nteam, which lowers their Speed stat upon switching\ninto battle.",
+    "ultra-sun-ultra-moon": "The user weaves a sticky net around the opposing\nteam, which lowers their Speed stat upon switching\ninto battle.",
+    "lets-go-pikachu-lets-go-eevee": "The user weaves a sticky net around the opposing\nteam, which lowers their Speed stat upon switching\ninto battle.",
+    "sword-shield": "The user weaves a sticky net around the opposing\nteam, which lowers their Speed stats upon switching\ninto battle."
+  },
+  "effect": {
+    "full": "Shoots a web over the opponents' side of the field, which lowers the Speed of any opposing Pokémon that enters the field by one stage.\n\nPokémon in the air, such as flying-types and those with levitate, are unaffected.  rapid spin removes Sticky Web from the user's side of the field; defog removes it from both sides.",
+    "shortEffect": "Covers the opposing field, lowering opponents' Speed by one stage upon switching in."
+  },
+  "priority": 0
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 500,
+  "key": "stored-power",
+  "name": {
+    "english": "Stored Power",
+    "japanese": "アシストパワー",
+    "chinese": "协助力量",
+    "korean": "어시스트파워",
+    "german": "Poder Reserva",
+    "french": "Kraftvorrat",
+    "italian": "Stored Power",
+    "spanish": "Veicolaforza"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 20,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks the target with stored\npower. The more the user’s stats are\nraised, the greater the damage.",
+    "black-2-white-2": "The user attacks the target with stored\npower. The more the user’s stats are\nraised, the greater the damage.",
+    "x-y": "The user attacks the target with stored\npower. The more the user’s stats are\nraised, the greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with stored\npower. The more the user’s stats are\nraised, the greater the move’s power.",
+    "sun-moon": "The user attacks the target with stored power. The\nmore the user’s stats are raised, the greater the\nmove’s power.",
+    "ultra-sun-ultra-moon": "The user attacks the target with stored power. The\nmore the user’s stats are raised, the greater the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with stored power. The\nmore the user’s stats are raised, the greater the\nmove’s power.",
+    "sword-shield": "The user attacks the target with stored power.\nThe more the user’s stats are raised, the greater\nthe move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6, this move's power is 31×.",
+    "shortEffect": "Power is higher the more the user's stats have been raised, to a maximum of 31×."
+  },
+  "priority": 0
+}

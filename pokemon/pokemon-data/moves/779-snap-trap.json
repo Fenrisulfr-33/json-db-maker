@@ -1,0 +1,32 @@
+{
+  "_id": 779,
+  "key": "snap-trap",
+  "name": {
+    "english": "Snap Trap",
+    "japanese": "トラバサミ",
+    "chinese": "捕獸夾",
+    "korean": "집게덫",
+    "german": "Cepo",
+    "french": "Fangeisen",
+    "italian": "Snap Trap",
+    "spanish": "Tagliola"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 35,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user snares the target in a snap trap for four to\nfive turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+    "shortEffect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+  },
+  "priority": 0
+}

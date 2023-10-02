@@ -1,0 +1,17 @@
+{
+  "_id": 857,
+  "key": "jet-punch",
+  "name": {
+    "english": "Jet Punch"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

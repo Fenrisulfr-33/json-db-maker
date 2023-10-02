@@ -1,0 +1,35 @@
+{
+  "_id": 660,
+  "key": "first-impression",
+  "name": {
+    "english": "First Impression",
+    "japanese": "であいがしら",
+    "chinese": "迎頭一擊",
+    "korean": "만나자마자",
+    "german": "Escaramuza",
+    "french": "Überrumpler",
+    "italian": "First Impression",
+    "spanish": "Schermaglia"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "Although this move has great power, it only works\nthe first turn the user is in battle.",
+    "ultra-sun-ultra-moon": "Although this move has great power, it only works\nthe first turn the user is in battle.",
+    "lets-go-pikachu-lets-go-eevee": "Although this move has great power, it only works\nthe first turn the user is in battle.",
+    "sword-shield": "Although this move has great power, it only works\nthe first turn each time the user enters battle."
+  },
+  "effect": {
+    "full": "Inflicts regular damage. Can only be used on the user's first turn after entering the field.",
+    "shortEffect": "Can only be used as the first move after the user enters battle."
+  },
+  "priority": 2
+}

@@ -1,0 +1,26 @@
+{
+  "_id": 161,
+  "key": "zen-mode",
+  "name": {
+    "english": "Zen Mode"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Changes darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise.",
+    "full": "This Pokémon switches between Standard Mode and Zen Mode after each turn depending on its HP. Below 50% of its maximum HP, it switches to Zen Mode, and at 50% or above, it switches to Standard Mode. This Pokémon returns to Standard Mode upon leaving battle or losing this ability. This ability has no effect if this Pokémon is not a darmanitan."
+  },
+  "description": {
+    "black-white": "Changes the Pokémon’s shape when HP is halved.",
+    "black-2-white-2": "Changes the Pokémon’s shape when HP is halved.",
+    "x-y": "Changes the Pokémon’s shape when HP is half or less.",
+    "omega-ruby-alpha-sapphire": "Changes the Pokémon’s shape when HP is half or less.",
+    "sun-moon": "Changes the Pokémon’s shape when HP is half or less.",
+    "ultra-sun-ultra-moon": "Changes the Pokémon’s shape when HP is half or less.",
+    "lets-go-pikachu-lets-go-eevee": "Changes the Pokémon’s shape when HP is half or less.",
+    "sword-shield": "Changes the Pokémon’s shape when HP is half or less."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

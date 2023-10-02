@@ -1,0 +1,17 @@
+{
+  "_id": 865,
+  "key": "triple-dive",
+  "name": {
+    "english": "Triple Dive"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 30,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

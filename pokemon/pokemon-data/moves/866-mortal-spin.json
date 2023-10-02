@@ -1,0 +1,17 @@
+{
+  "_id": 866,
+  "key": "mortal-spin",
+  "name": {
+    "english": "Mortal Spin"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 30,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "All-opponents",
+  "changes": []
+}

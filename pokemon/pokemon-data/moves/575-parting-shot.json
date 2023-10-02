@@ -1,0 +1,37 @@
+{
+  "_id": 575,
+  "key": "parting-shot",
+  "name": {
+    "english": "Parting Shot",
+    "japanese": "すてゼリフ",
+    "chinese": "放狠话",
+    "korean": "막말내뱉기",
+    "german": "Última Palabra",
+    "french": "Abgangstirade",
+    "italian": "Parting Shot",
+    "spanish": "Monito"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "With a parting threat, the user lowers\nthe target’s Attack and Sp. Atk stats.\nThen it switches with a party Pokémon.",
+    "omega-ruby-alpha-sapphire": "With a parting threat, the user lowers\nthe target’s Attack and Sp. Atk stats.\nThen it switches with a party Pokémon.",
+    "sun-moon": "With a parting threat, the user lowers the target’s\nAttack and Sp. Atk stats. Then it switches with a\nparty Pokémon.",
+    "ultra-sun-ultra-moon": "With a parting threat, the user lowers the target’s\nAttack and Sp. Atk stats. Then it switches with a\nparty Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "With a parting threat, the user lowers the target’s\nAttack and Sp. Atk stats. Then it switches with a\nparty Pokémon.",
+    "sword-shield": "With a parting threat, the user lowers the target’s\nAttack and Sp. Atk stats. Then it switches with a\nparty Pokémon."
+  },
+  "effect": {
+    "full": "Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out.",
+    "shortEffect": "Lowers all targets' Attack and Special Attack by one stage.  Makes the user switch out."
+  },
+  "priority": 0
+}

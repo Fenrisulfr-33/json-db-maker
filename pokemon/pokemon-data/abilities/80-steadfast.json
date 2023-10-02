@@ -1,0 +1,79 @@
+{
+  "_id": 80,
+  "key": "steadfast",
+  "name": {
+    "english": "Steadfast"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Raises Speed one stage upon flinching.",
+    "full": "Whenever this Pokémon flinches, its Speed rises one stage."
+  },
+  "description": {
+    "diamond-pearl": "Raises Speed each time the Pokémon flinches.",
+    "platinum": "Raises Speed each time the Pokémon flinches.",
+    "heartgold-soulsilver": "Raises Speed each time the Pokémon flinches.",
+    "black-white": "Raises Speed each time the Pokémon flinches.",
+    "black-2-white-2": "Raises Speed each time the Pokémon flinches.",
+    "x-y": "Boosts the Speed stat each time the Pokémon flinches.",
+    "omega-ruby-alpha-sapphire": "Boosts the Speed stat each time the Pokémon flinches.",
+    "sun-moon": "The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.",
+    "ultra-sun-ultra-moon": "The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.",
+    "sword-shield": "The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tyrogue",
+        "id": 236
+      },
+      {
+        "name": "Riolu",
+        "id": 447
+      },
+      {
+        "name": "Lucario",
+        "id": 448
+      },
+      {
+        "name": "Gallade",
+        "id": 475
+      },
+      {
+        "name": "Dubwool",
+        "id": 832
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Machop",
+        "id": 66
+      },
+      {
+        "name": "Machoke",
+        "id": 67
+      },
+      {
+        "name": "Machamp",
+        "id": 68
+      },
+      {
+        "name": "Scyther",
+        "id": 123
+      },
+      {
+        "name": "Hitmontop",
+        "id": 237
+      },
+      {
+        "name": "Rockruff",
+        "id": 744
+      },
+      {
+        "name": "Kleavor",
+        "id": 900
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 389,
+  "key": "sucker-punch",
+  "name": {
+    "english": "Sucker Punch",
+    "japanese": "ふいうち",
+    "chinese": "突袭",
+    "korean": "기습",
+    "german": "Golpe Bajo",
+    "french": "Tiefschlag",
+    "italian": "Sucker Punch",
+    "spanish": "Sbigoattacco"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 5,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.",
+    "platinum": "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.",
+    "heartgold-soulsilver": "This move enables the\nuser to attack first.\nIt fails if the foe is\nnot readying an\nattack, however.",
+    "black-white": "This move enables the user to attack\nfirst. It fails if the target is not\nreadying an attack, however.",
+    "black-2-white-2": "This move enables the user to attack\nfirst. It fails if the target is not\nreadying an attack, however.",
+    "x-y": "This move enables the user to attack\nfirst. This move fails if the target is not\nreadying an attack.",
+    "omega-ruby-alpha-sapphire": "This move enables the user to attack\nfirst. This move fails if the target is not\nreadying an attack.",
+    "sun-moon": "This move enables the user to attack first. This move\nfails if the target is not readying an attack.",
+    "ultra-sun-ultra-moon": "This move enables the user to attack first. This move\nfails if the target is not readying an attack.",
+    "lets-go-pikachu-lets-go-eevee": "This move enables the user to attack first. This move\nfails if the target is not readying an attack.",
+    "sword-shield": "This move enables the user to attack first. This move\nfails if the target is not readying an attack."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target has not selected a damaging move this turn, or if the target has already acted this turn, this move will fail.\n\nThis move is not affected by iron fist.",
+    "shortEffect": "Only works if the target is about to use a damaging move."
+  },
+  "priority": 1
+}

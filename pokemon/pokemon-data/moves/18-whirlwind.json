@@ -1,0 +1,47 @@
+{
+  "_id": 18,
+  "key": "whirlwind",
+  "name": {
+    "english": "Whirlwind",
+    "japanese": "ふきとばし",
+    "chinese": "旋风",
+    "korean": "날려버리기",
+    "german": "Remolino",
+    "french": "Wirbelwind",
+    "italian": "Whirlwind",
+    "spanish": "Turbine"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Blows away the foe\n& ends battle.",
+    "crystal": "Blows away the foe\n& ends battle.",
+    "ruby-sapphire": "Blows away the foe with\nwind and ends the battle.",
+    "emerald": "Blows away the foe with\nwind and ends the battle.",
+    "firered-leafgreen": "The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.",
+    "diamond-pearl": "The foe is blown away,\nto be replaced by\nanother Pokémon\nin its party. In the\nwild, the battle ends.",
+    "platinum": "The foe is blown away,\nto be replaced by\nanother Pokémon\nin its party. In the\nwild, the battle ends.",
+    "heartgold-soulsilver": "The foe is blown away,\nto be replaced by\nanother Pokémon\nin its party. In the\nwild, the battle ends.",
+    "black-white": "The target is blown away, to be replaced\nby another Pokémon in its party. In the\nwild, the battle ends.",
+    "black-2-white-2": "The target is blown away and switched.\nIn the wild, a battle against a single\nPokémon ends.",
+    "x-y": "The target is blown away, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+    "omega-ruby-alpha-sapphire": "The target is blown away, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+    "sun-moon": "The target is blown away, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+    "ultra-sun-ultra-moon": "The target is blown away, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The target is blown away, and a different Pokémon is\ndragged out.",
+    "sword-shield": "The target is blown away, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon."
+  },
+  "effect": {
+    "full": "Switches the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pokémon with suction cups or under the effect of ingrain.",
+    "shortEffect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+  },
+  "priority": -6
+}

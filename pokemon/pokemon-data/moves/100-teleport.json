@@ -1,0 +1,47 @@
+{
+  "_id": 100,
+  "key": "teleport",
+  "name": {
+    "english": "Teleport",
+    "japanese": "テレポート",
+    "chinese": "瞬间移动",
+    "korean": "순간이동",
+    "german": "Teletransporte",
+    "french": "Teleport",
+    "italian": "Teleport",
+    "spanish": "Teletrasporto"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move for fleeing\nfrom battle.",
+    "crystal": "A move for fleeing\nfrom battle.",
+    "ruby-sapphire": "A psychic move for fleeing\nfrom battle instantly.",
+    "emerald": "A psychic move for fleeing\nfrom battle instantly.",
+    "firered-leafgreen": "Use it to flee from\nany wild POKéMON.\nAlso warps to the\nlast POKé CENTER.",
+    "diamond-pearl": "Use it to flee from\nany wild Pokémon.\nIt may also be used\nto warp to the last\nPoké Center visited.",
+    "platinum": "Use it to flee from\nany wild Pokémon.\nIt may also be used\nto warp to the last\nPoké Center visited.",
+    "heartgold-soulsilver": "Use it to flee from\nany wild Pokémon.\nIt can also warp to\nthe last Pokémon\nCenter visited.",
+    "black-white": "Use it to flee from any wild Pokémon.\nIt can also warp to the last Pokémon\nCenter visited.",
+    "black-2-white-2": "Use it to flee from any wild Pokémon.\nIt can also warp to the last Pokémon\nCenter visited.",
+    "x-y": "Use it to flee from any wild Pokémon.\nIt can also warp to the last Pokémon\nCenter visited.",
+    "omega-ruby-alpha-sapphire": "Use it to flee from any wild Pokémon.\nIt can also warp to the last Pokémon\nCenter visited.",
+    "sun-moon": "Use it to flee from any wild Pokémon.",
+    "ultra-sun-ultra-moon": "Use it to flee from any wild Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The user switches places with a different Pokémon\ninstantly, using telekinetic power.",
+    "sword-shield": "The user switches places with a party Pokémon in\nwaiting, if any. If a wild Pokémon uses this move,\nit flees."
+  },
+  "effect": {
+    "full": "Does nothing.  Wild battles end immediately.",
+    "shortEffect": "Immediately ends wild battles.  No effect otherwise."
+  },
+  "priority": -6
+}

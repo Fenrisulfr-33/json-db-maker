@@ -1,0 +1,45 @@
+{
+  "_id": 305,
+  "key": "poison-fang",
+  "name": {
+    "english": "Poison Fang",
+    "japanese": "どくどくのキバ",
+    "chinese": "毒液牙",
+    "korean": "독엄니",
+    "german": "Colmillo Veneno",
+    "french": "Giftzahn",
+    "italian": "Poison Fang",
+    "spanish": "Velenodenti"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A sharp-fanged attack.\nMay badly poison the foe.",
+    "emerald": "A sharp-fanged attack.\nMay badly poison the foe.",
+    "firered-leafgreen": "The foe is bitten\nwith toxic fangs.\nIt may also badly\npoison the foe.",
+    "diamond-pearl": "The user bites the\nfoe with toxic fangs.\nIt may also leave the\nfoe badly poisoned.\n",
+    "platinum": "The user bites the\nfoe with toxic fangs.\nIt may also leave the\nfoe badly poisoned.\n",
+    "heartgold-soulsilver": "The user bites the\nfoe with toxic fangs.\nIt may also leave the\nfoe badly poisoned.\n",
+    "black-white": "The user bites the target with toxic\nfangs. It may also leave the target\nbadly poisoned.",
+    "black-2-white-2": "The user bites the target with toxic\nfangs. It may also leave the target\nbadly poisoned.",
+    "x-y": "The user bites the target with toxic\nfangs. This may also leave the target\nbadly poisoned.",
+    "omega-ruby-alpha-sapphire": "The user bites the target with toxic\nfangs. This may also leave the target\nbadly poisoned.",
+    "sun-moon": "The user bites the target with toxic fangs. This may\nalso leave the target badly poisoned.",
+    "ultra-sun-ultra-moon": "The user bites the target with toxic fangs. This may\nalso leave the target badly poisoned.",
+    "lets-go-pikachu-lets-go-eevee": "The user bites the target with toxic fangs. This may\nalso leave the target badly poisoned.",
+    "sword-shield": "The user bites the target with toxic fangs. This may\nalso leave the target badly poisoned."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to badly poison the target.",
+    "shortEffect": "Has a $effect_chance% chance to badly poison the target."
+  },
+  "priority": 0
+}

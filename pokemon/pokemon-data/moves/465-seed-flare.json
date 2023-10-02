@@ -1,0 +1,42 @@
+{
+  "_id": 465,
+  "key": "seed-flare",
+  "name": {
+    "english": "Seed Flare",
+    "japanese": "シードフレア",
+    "chinese": "种子闪光",
+    "korean": "시드플레어",
+    "german": "Fogonazo",
+    "french": "Schocksamen",
+    "italian": "Seed Flare",
+    "spanish": "Infuriaseme"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user generates\na shock wave from\nwithin its body.\nIt may also lower the\ntarget’s Sp. Def.",
+    "platinum": "The user generates\na shock wave from\nwithin its body.\nIt may also lower the\ntarget’s Sp. Def.",
+    "heartgold-soulsilver": "The user generates\na shock wave from\nwithin its body.\nIt may also lower the\ntarget’s Sp. Def.",
+    "black-white": "The user emits a shock wave from\nits body to attack its target. It may\nharshly lower the target’s Sp. Def.",
+    "black-2-white-2": "The user emits a shock wave from\nits body to attack its target. It may\nharshly lower the target’s Sp. Def.",
+    "x-y": "The user emits a shock wave from\nits body to attack its target. This may\nalso harshly lower the target’s Sp. Def.",
+    "omega-ruby-alpha-sapphire": "The user emits a shock wave from\nits body to attack its target. This may\nalso harshly lower the target’s Sp. Def.",
+    "sun-moon": "The user emits a shock wave from its body to attack\nits target. This may also harshly lower the target’s\nSp. Def stat.",
+    "ultra-sun-ultra-moon": "The user emits a shock wave from its body to attack\nits target. This may also harshly lower the target’s\nSp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user emits a shock wave from its body to attack\nits target. This may also harshly lower the target’s\nSp. Def stat.",
+    "sword-shield": "The user emits a shock wave from its body to attack\nits target. This may also harshly lower the target’s\nSp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by two stages.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by two stages."
+  },
+  "priority": 0
+}

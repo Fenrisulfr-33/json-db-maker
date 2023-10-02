@@ -1,0 +1,34 @@
+{
+  "_id": 723,
+  "key": "light-that-burns-the-sky",
+  "name": {
+    "english": "Light That Burns the Sky",
+    "japanese": "てんこがすめつぼうのひかり",
+    "chinese": "焚天滅世熾光爆",
+    "korean": "하늘을태우는멸망의빛",
+    "german": "Fotodestrucción Apocalíptica",
+    "french": "Licht des Erlöschens",
+    "italian": "Light That Burns the Sky",
+    "spanish": "Fotodistruzione Apocalittica"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 1,
+  "power": 200,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "This attack inflicts Attack or Sp. Atk damage—\nwhichever stat is higher for the user, Necrozma. \nThis move ignores the target’s Ability.",
+    "lets-go-pikachu-lets-go-eevee": "This attack inflicts Attack or Sp. Atk damage—\nwhichever stat is higher for the user, Necrozma.\nThis move ignores the target’s Ability.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts damage using either Attack or Special Attack stat, whichever is higher. Determining which stat is used takes into account stat changes but not held items or abilities.",
+    "shortEffect": "Inflicts damage using either Attack or Special Attack stat, whichever is higher."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 128,
+  "key": "clamp",
+  "name": {
+    "english": "Clamp",
+    "japanese": "からではさむ",
+    "chinese": "夹壳",
+    "korean": "껍질끼우기",
+    "german": "Tenaza",
+    "french": "Schnapper",
+    "italian": "Clamp",
+    "spanish": "Tenaglia"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 35,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Traps the foe for\n2-5 turns.",
+    "crystal": "Traps the foe for\n2-5 turns.",
+    "ruby-sapphire": "Traps and squeezes the\nfoe for 2 to 5 turns.",
+    "emerald": "Traps and squeezes the\nfoe for 2 to 5 turns.",
+    "firered-leafgreen": "The foe is clamped\nand squeezed by\nthe user’s shell for\ntwo to five turns.",
+    "diamond-pearl": "The foe is clamped\nand squeezed by\nthe user’s very thick\nand sturdy shell for\ntwo to five turns.",
+    "platinum": "The foe is clamped\nand squeezed by\nthe user’s very thick\nand sturdy shell for\ntwo to five turns.",
+    "heartgold-soulsilver": "The foe is clamped\nand squeezed by\nthe user’s very thick\nand sturdy shell for\ntwo to five turns.",
+    "black-white": "The target is clamped and squeezed by\nthe user’s very thick and sturdy shell for\nfour to five turns.",
+    "black-2-white-2": "The target is clamped and squeezed by\nthe user’s very thick and sturdy shell for\nfour to five turns.",
+    "x-y": "The target is clamped and squeezed by\nthe user’s very thick and sturdy shell for\nfour to five turns.",
+    "omega-ruby-alpha-sapphire": "The target is clamped and squeezed by\nthe user’s very thick and sturdy shell for\nfour to five turns.",
+    "sun-moon": "The target is clamped and squeezed by the user’s\nvery thick and sturdy shell for four to five turns.",
+    "ultra-sun-ultra-moon": "The target is clamped and squeezed by the user’s\nvery thick and sturdy shell for four to five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The target is clamped and squeezed by the user’s\nvery thick and sturdy shell for four to five turns.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+    "shortEffect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+  },
+  "priority": 0
+}

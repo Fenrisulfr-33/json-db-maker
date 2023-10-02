@@ -1,0 +1,37 @@
+{
+  "_id": 599,
+  "key": "venom-drench",
+  "name": {
+    "english": "Venom Drench",
+    "japanese": "ベノムトラップ",
+    "chinese": "毒液陷阱",
+    "korean": "베놈트랩",
+    "german": "Trampa Venenosa",
+    "french": "Giftfalle",
+    "italian": "Venom Drench",
+    "spanish": "Velenotrappola"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 6,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "x-y": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack,\nSp. Atk, and Speed stats of a poisoned target.",
+    "omega-ruby-alpha-sapphire": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack,\nSp. Atk, and Speed stats of a poisoned target.",
+    "sun-moon": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target.",
+    "ultra-sun-ultra-moon": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target.",
+    "lets-go-pikachu-lets-go-eevee": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target.",
+    "sword-shield": "Opposing Pokémon are drenched in an odd\npoisonous liquid. This lowers the Attack, Sp. Atk, and\nSpeed stats of a poisoned target."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned.",
+    "shortEffect": "Lowers the target's Attack, Special Attack, and Speed by one stage if it is poisoned."
+  },
+  "priority": 0
+}

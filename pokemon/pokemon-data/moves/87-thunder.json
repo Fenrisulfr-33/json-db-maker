@@ -1,0 +1,47 @@
+{
+  "_id": 87,
+  "key": "thunder",
+  "name": {
+    "english": "Thunder",
+    "japanese": "かみなり",
+    "chinese": "打雷",
+    "korean": "번개",
+    "german": "Trueno",
+    "french": "Donner",
+    "italian": "Thunder",
+    "spanish": "Tuono"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 110,
+  "accuracy": 70,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause paralysis.",
+    "crystal": "An attack that may\ncause paralysis.",
+    "ruby-sapphire": "A lightning attack that may\ncause paralysis.",
+    "emerald": "A lightning attack that may\ncause paralysis.",
+    "firered-leafgreen": "A brutal lightning\nattack that may\nalso leave the foe\nparalyzed.",
+    "diamond-pearl": "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.",
+    "platinum": "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.",
+    "heartgold-soulsilver": "A wicked thunderbolt\nis dropped on the foe\nto inflict damage.\nIt may also leave the\ntarget paralyzed.",
+    "black-white": "A wicked thunderbolt is dropped\non the target to inflict damage. It may\nalso leave the target with paralysis.",
+    "black-2-white-2": "A wicked thunderbolt is dropped\non the target to inflict damage. It may\nalso leave the target with paralysis.",
+    "x-y": "A wicked thunderbolt is dropped\non the target to inflict damage.\nThis may also leave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "A wicked thunderbolt is dropped\non the target to inflict damage.\nThis may also leave the target with paralysis.",
+    "sun-moon": "A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+    "ultra-sun-ultra-moon": "A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+    "sword-shield": "A wicked thunderbolt is dropped on the target to\ninflict damage. This may also leave the target\nwith paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.\n\nDuring rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.\n\nDuring sunny day, this move has 50% accuracy.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

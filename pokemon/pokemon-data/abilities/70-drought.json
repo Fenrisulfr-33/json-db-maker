@@ -1,0 +1,50 @@
+{
+  "_id": 70,
+  "key": "drought",
+  "name": {
+    "english": "Drought"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Summons strong sunlight that lasts indefinitely upon entering battle.",
+    "full": "The weather changes to strong sunlight when this Pokémon enters battle and does not end unless cancelled by another weather condition. If multiple Pokémon with this ability, drizzle, sand stream, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room. Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay."
+  },
+  "description": {
+    "ruby-sapphire": "Summons sunlight in battle.",
+    "emerald": "Summons sunlight in battle.",
+    "firered-leafgreen": "Summons sunlight in battle.",
+    "diamond-pearl": "The Pokémon makes it sunny if it is in battle.",
+    "platinum": "The Pokémon makes it sunny if it is in battle.",
+    "heartgold-soulsilver": "The Pokémon makes it sunny if it is in battle.",
+    "black-white": "Turns the sunlight harsh if it is in battle.",
+    "black-2-white-2": "Turns the sunlight harsh if it is in battle.",
+    "x-y": "Turns the sunlight harsh when the Pokémon enters a battle.",
+    "omega-ruby-alpha-sapphire": "Turns the sunlight harsh when the Pokémon enters a battle.",
+    "sun-moon": "Turns the sunlight harsh when the Pokémon enters a battle.",
+    "ultra-sun-ultra-moon": "Turns the sunlight harsh when the Pokémon enters a battle.",
+    "lets-go-pikachu-lets-go-eevee": "Turns the sunlight harsh when the Pokémon enters a battle.",
+    "sword-shield": "Turns the sunlight harsh when the Pokémon enters a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Torkoal",
+        "id": 324
+      },
+      {
+        "name": "Groudon",
+        "id": 383
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Vulpix",
+        "id": 37
+      },
+      {
+        "name": "Ninetales",
+        "id": 38
+      }
+    ]
+  }
+}

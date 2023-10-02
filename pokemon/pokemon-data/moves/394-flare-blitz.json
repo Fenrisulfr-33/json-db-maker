@@ -1,0 +1,42 @@
+{
+  "_id": 394,
+  "key": "flare-blitz",
+  "name": {
+    "english": "Flare Blitz",
+    "japanese": "フレアドライブ",
+    "chinese": "爆炎电击",
+    "korean": "플레어드라이브",
+    "german": "Envite Ígneo",
+    "french": "Flammenblitz",
+    "italian": "Flare Blitz",
+    "spanish": "Fuococarica"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user cloaks\nitself in fire and\ncharges at the foe.\nThe user sustains\nserious damage, too.",
+    "platinum": "The user cloaks\nitself in fire and\ncharges at the foe.\nThe user sustains\nserious damage, too.",
+    "heartgold-soulsilver": "The user cloaks\nitself in fire and\ncharges at the foe.\nThe user sustains\nserious damage, too.",
+    "black-white": "The user cloaks itself in fire and charges\nat the target. The user sustains serious\ndamage and may leave the target burned.",
+    "black-2-white-2": "The user cloaks itself in fire and charges\nat the target. The user sustains serious\ndamage and may leave the target burned.",
+    "x-y": "The user cloaks itself in fire and charges the target.\nThis also damages the user quite a lot.\nThis may leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "The user cloaks itself in fire and charges the target.\nThis also damages the user quite a lot.\nThis may leave the target with a burn.",
+    "sun-moon": "The user cloaks itself in fire and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with a burn.",
+    "ultra-sun-ultra-moon": "The user cloaks itself in fire and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user cloaks itself in fire and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with a burn.",
+    "sword-shield": "The user cloaks itself in fire and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a $effect_chance% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw.",
+    "shortEffect": "User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

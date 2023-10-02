@@ -1,0 +1,35 @@
+{
+  "_id": 711,
+  "key": "prismatic-laser",
+  "name": {
+    "english": "Prismatic Laser",
+    "japanese": "プリズムレーザー",
+    "chinese": "稜鏡鐳射",
+    "korean": "프리즘레이저",
+    "german": "Láser Prisma",
+    "french": "Prisma-Laser",
+    "italian": "Prismatic Laser",
+    "spanish": "Prismalaser"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 160,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn.",
+    "ultra-sun-ultra-moon": "The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn.",
+    "sword-shield": "The user shoots powerful lasers using the power of\na prism. The user can’t move on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "shortEffect": "User foregoes its next turn to recharge."
+  },
+  "priority": 0
+}

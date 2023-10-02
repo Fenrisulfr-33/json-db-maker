@@ -1,0 +1,22 @@
+{
+  "_id": 208,
+  "key": "schooling",
+  "name": {
+    "english": "Schooling"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Wishiwashi becomes Schooling Form when its HP is 25% or higher.",
+    "full": "If this Pokémon is a wishiwashi and level 20 or above, then when it enters battle and at the start of each turn, it becomes Schooling Form if its HP is 25% or higher and Solo Form otherwise. This ability cannot be replaced, copied, or nullified."
+  },
+  "description": {
+    "sun-moon": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low.",
+    "ultra-sun-ultra-moon": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low.",
+    "lets-go-pikachu-lets-go-eevee": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low.",
+    "sword-shield": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

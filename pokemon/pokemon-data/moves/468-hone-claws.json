@@ -1,0 +1,39 @@
+{
+  "_id": 468,
+  "key": "hone-claws",
+  "name": {
+    "english": "Hone Claws",
+    "japanese": "つめとぎ",
+    "chinese": "磨爪子",
+    "korean": "손톱갈기",
+    "german": "Afilagarras",
+    "french": "Klauenwetzer",
+    "italian": "Hone Claws",
+    "spanish": "Unghiaguzze"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 5,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "black-white": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+    "black-2-white-2": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+    "x-y": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+    "omega-ruby-alpha-sapphire": "The user sharpens its claws to\nboost its Attack stat and accuracy.",
+    "sun-moon": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
+    "ultra-sun-ultra-moon": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user sharpens its claws to boost its Attack stat\nand accuracy.",
+    "sword-shield": "The user sharpens its claws to boost its Attack stat\nand accuracy."
+  },
+  "effect": {
+    "full": "Raises the user's Attack and accuracy by one stage.",
+    "shortEffect": "Raises the user's Attack and accuracy by one stage."
+  },
+  "priority": 0
+}

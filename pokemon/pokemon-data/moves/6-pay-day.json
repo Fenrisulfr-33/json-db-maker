@@ -1,0 +1,47 @@
+{
+  "_id": 6,
+  "key": "pay-day",
+  "name": {
+    "english": "Pay Day",
+    "japanese": "ネコにこばん",
+    "chinese": "聚宝功",
+    "korean": "고양이돈받기",
+    "german": "Día de Pago",
+    "french": "Zahltag",
+    "italian": "Pay Day",
+    "spanish": "Giornopaga"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 20,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Throws coins. Gets\nthem back later.",
+    "crystal": "Throws coins. Gets\nthem back later.",
+    "ruby-sapphire": "Throws coins at the foe.\nMoney is recovered after.",
+    "emerald": "Throws coins at the foe.\nMoney is recovered after.",
+    "firered-leafgreen": "Numerous coins are\nhurled at the foe.\nMoney is earned\nafter battle.",
+    "diamond-pearl": "Numerous coins are\nhurled at the foe to\ninflict damage.\nMoney is earned\nafter battle.",
+    "platinum": "Numerous coins are\nhurled at the foe to\ninflict damage.\nMoney is earned\nafter battle.",
+    "heartgold-soulsilver": "Numerous coins are\nhurled at the foe to\ninflict damage.\nMoney is earned\nafter battle.",
+    "black-white": "Numerous coins are hurled at the\ntarget to inflict damage.\nMoney is earned after the battle.",
+    "black-2-white-2": "Numerous coins are hurled at the\ntarget to inflict damage.\nMoney is earned after the battle.",
+    "x-y": "Numerous coins are hurled at the\ntarget to inflict damage.\nMoney is earned after the battle.",
+    "omega-ruby-alpha-sapphire": "Numerous coins are hurled at the\ntarget to inflict damage.\nMoney is earned after the battle.",
+    "sun-moon": "Numerous coins are hurled at the target to inflict\ndamage. Money is earned after the battle.",
+    "ultra-sun-ultra-moon": "Numerous coins are hurled at the target to inflict\ndamage. Money is earned after the battle.",
+    "lets-go-pikachu-lets-go-eevee": "Numerous coins are hurled at the target to inflict\ndamage. Money is earned after the battle.",
+    "sword-shield": "Numerous coins are hurled at the target to inflict\ndamage. Money is earned after the battle."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used.",
+    "shortEffect": "Scatters money on the ground worth five times the user's level."
+  },
+  "priority": 0
+}

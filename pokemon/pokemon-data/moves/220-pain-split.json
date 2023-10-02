@@ -1,0 +1,47 @@
+{
+  "_id": 220,
+  "key": "pain-split",
+  "name": {
+    "english": "Pain Split",
+    "japanese": "いたみわけ",
+    "chinese": "分享痛楚",
+    "korean": "아픔나누기",
+    "german": "Divide Dolor",
+    "french": "Leidteiler",
+    "italian": "Pain Split",
+    "spanish": "Malcomune"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Adds user & foe's\nHPs. Shares total.",
+    "crystal": "Adds user & foe's\nHPs. Shares total.",
+    "ruby-sapphire": "Adds the user and foe’s HP,\nthen shares them equally.",
+    "emerald": "Adds the user and foe’s HP,\nthen shares them equally.",
+    "firered-leafgreen": "The user adds its\nHP to the foe’s HP,\nthen equally shares\nthe total HP.",
+    "diamond-pearl": "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.",
+    "platinum": "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.",
+    "heartgold-soulsilver": "The user adds its HP\nto the foe’s HP, then\nequally shares the\ncombined HP with the\nfoe.",
+    "black-white": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+    "black-2-white-2": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+    "x-y": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+    "omega-ruby-alpha-sapphire": "The user adds its HP to the target’s HP,\nthen equally shares the combined HP\nwith the target.",
+    "sun-moon": "The user adds its HP to the target’s HP, then equally\nshares the combined HP with the target.",
+    "ultra-sun-ultra-moon": "The user adds its HP to the target’s HP, then equally\nshares the combined HP with the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user adds its HP to the target’s HP, then equally\nshares the combined HP with the target.",
+    "sword-shield": "The user adds its HP to the target’s HP, then equally\nshares the combined HP with the target."
+  },
+  "effect": {
+    "full": "Changes the user's and target's remaining HP to the average of their current remaining HP.  Ignores accuracy and evasion modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.\n\nThis effect fails against a substitute.",
+    "shortEffect": "Sets the user's and targets's HP to the average of their current HP."
+  },
+  "priority": 0
+}

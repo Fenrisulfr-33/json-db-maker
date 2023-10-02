@@ -1,0 +1,45 @@
+{
+  "_id": 297,
+  "key": "feather-dance",
+  "name": {
+    "english": "Feather Dance",
+    "japanese": "フェザーダンス",
+    "chinese": "羽毛舞",
+    "korean": "깃털댄스",
+    "german": "Danza Pluma",
+    "french": "Daunenreigen",
+    "italian": "Feather Dance",
+    "spanish": "Danzadipiume"
+  },
+  "type": "Flying",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Envelops the foe with down\nto sharply reduce ATTACK.",
+    "emerald": "Envelops the foe with down\nto sharply reduce ATTACK.",
+    "firered-leafgreen": "The foe is covered\nwith a mass of down\nthat sharply cuts\nthe ATTACK stat.",
+    "diamond-pearl": "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.",
+    "platinum": "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.",
+    "heartgold-soulsilver": "The user covers the\nfoe with a mass of\ndown that sharply\nlowers the Attack\nstat.",
+    "black-white": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+    "black-2-white-2": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+    "x-y": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+    "omega-ruby-alpha-sapphire": "The user covers the target’s body with a\nmass of down that harshly lowers its\nAttack stat.",
+    "sun-moon": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.",
+    "ultra-sun-ultra-moon": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat.",
+    "sword-shield": "The user covers the target’s body with a mass of\ndown that harshly lowers its Attack stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack by two stages.",
+    "shortEffect": "Lowers the target's Attack by two stages."
+  },
+  "priority": 0
+}

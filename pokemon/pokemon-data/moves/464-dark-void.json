@@ -1,0 +1,42 @@
+{
+  "_id": 464,
+  "key": "dark-void",
+  "name": {
+    "english": "Dark Void",
+    "japanese": "ダークホール",
+    "chinese": "黑洞",
+    "korean": "다크홀",
+    "german": "Brecha Negra",
+    "french": "Schlummerort",
+    "italian": "Dark Void",
+    "spanish": "Vuototetro"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 4,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The foe is dragged\ninto a world of total\ndarkness that puts it\nto sleep.\n",
+    "platinum": "The foe is dragged\ninto a world of total\ndarkness that puts it\nto sleep.\n",
+    "heartgold-soulsilver": "The foe is dragged\ninto a world of total\ndarkness that puts it\nto sleep.\n",
+    "black-white": "Opposing Pokémon are dragged into\na world of total darkness that makes\nthem sleep.",
+    "black-2-white-2": "Opposing Pokémon are dragged into\na world of total darkness that makes\nthem sleep.",
+    "x-y": "Opposing Pokémon are dragged into\na world of total darkness that makes\nthem sleep.",
+    "omega-ruby-alpha-sapphire": "Opposing Pokémon are dragged into\na world of total darkness that makes\nthem sleep.",
+    "sun-moon": "Opposing Pokémon are dragged into a world of total\ndarkness that makes them sleep.",
+    "ultra-sun-ultra-moon": "Opposing Pokémon are dragged into a world of total\ndarkness that makes them sleep.",
+    "lets-go-pikachu-lets-go-eevee": "Opposing Pokémon are dragged into a world of total\ndarkness that makes them sleep.",
+    "sword-shield": "Opposing Pokémon are dragged into a world of total\ndarkness that makes them sleep."
+  },
+  "effect": {
+    "full": "Puts the target to sleep.",
+    "shortEffect": "Puts the target to sleep."
+  },
+  "priority": 0
+}

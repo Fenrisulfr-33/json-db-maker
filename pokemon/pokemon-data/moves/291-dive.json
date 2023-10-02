@@ -1,0 +1,45 @@
+{
+  "_id": 291,
+  "key": "dive",
+  "name": {
+    "english": "Dive",
+    "japanese": "ダイビング",
+    "chinese": "潜水",
+    "korean": "다이빙",
+    "german": "Buceo",
+    "french": "Taucher",
+    "italian": "Dive",
+    "spanish": "Sub"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Dives underwater the first\nturn and strikes next turn.",
+    "emerald": "Dives underwater the first\nturn and strikes next turn.",
+    "firered-leafgreen": "The user dives\nunderwater on the\nfirst turn and\nstrikes next turn.",
+    "diamond-pearl": "A two-turn attack.\nThe user dives\nunderwater on the\nfirst turn, then hits\non the next turn.",
+    "platinum": "A two-turn attack.\nThe user dives\nunderwater on the\nfirst turn, then hits\non the next turn.",
+    "heartgold-soulsilver": "A two-turn attack.\nThe user dives\nunderwater on the\nfirst turn, then hits\non the next turn.",
+    "black-white": "Diving on the first turn, the user floats\nup and attacks on the second turn.\nIt can be used to dive deep in the ocean.",
+    "black-2-white-2": "Diving on the first turn, the user floats\nup and attacks on the second turn.\nIt can be used to dive deep in the ocean.",
+    "x-y": "Diving on the first turn, the user floats\nup and attacks on the next turn.",
+    "omega-ruby-alpha-sapphire": "Diving on the first turn, the user floats up\nand attacks on the next turn.\nIt can be used to dive deep in the ocean.",
+    "sun-moon": "Diving on the first turn, the user floats up and\nattacks on the next turn.",
+    "ultra-sun-ultra-moon": "Diving on the first turn, the user floats up and\nattacks on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "Diving on the first turn, the user floats up and\nattacks on the next turn.",
+    "sword-shield": "Diving on the first turn, the user floats up and\nattacks on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User dives underwater for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, surf, and whirlpool still hit the user normally, and their power is doubled if appropriate.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User dives underwater, dodging all attacks, and hits next turn."
+  },
+  "priority": 0
+}

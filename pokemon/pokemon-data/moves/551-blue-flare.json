@@ -1,0 +1,39 @@
+{
+  "_id": 551,
+  "key": "blue-flare",
+  "name": {
+    "english": "Blue Flare",
+    "japanese": "あおいほのお",
+    "chinese": "青炎",
+    "korean": "푸른불꽃",
+    "german": "Llama Azul",
+    "french": "Blauflammen",
+    "italian": "Blue Flare",
+    "spanish": "Fuocoblu"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 130,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by engulfing the target\nin an intense, yet beautiful, blue flame.\nIt may leave the target with a burn.",
+    "black-2-white-2": "The user attacks by engulfing the target\nin an intense, yet beautiful, blue flame.\nIt may leave the target with a burn.",
+    "x-y": "The user attacks by engulfing the target\nin an intense, yet beautiful, blue flame.\nThis may also leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "The user attacks by engulfing the target\nin an intense, yet beautiful, blue flame.\nThis may also leave the target with a burn.",
+    "sun-moon": "The user attacks by engulfing the target in an\nintense, yet beautiful, blue flame. This may also leave\nthe target with a burn.",
+    "ultra-sun-ultra-moon": "The user attacks by engulfing the target in an\nintense, yet beautiful, blue flame. This may also leave\nthe target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by engulfing the target in an\nintense, yet beautiful, blue flame. This may also leave\nthe target with a burn.",
+    "sword-shield": "The user attacks by engulfing the target in an\nintense, yet beautiful, blue flame. This may also leave\nthe target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

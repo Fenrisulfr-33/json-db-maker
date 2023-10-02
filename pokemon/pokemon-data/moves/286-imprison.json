@@ -1,0 +1,45 @@
+{
+  "_id": 286,
+  "key": "imprison",
+  "name": {
+    "english": "Imprison",
+    "japanese": "ふういん",
+    "chinese": "封印",
+    "korean": "봉인",
+    "german": "Sellar",
+    "french": "Begrenzer",
+    "italian": "Imprison",
+    "spanish": "Esclusiva"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Prevents foes from using\nmoves known by the user.",
+    "emerald": "Prevents foes from using\nmoves known by the user.",
+    "firered-leafgreen": "Prevents foes from\nusing any move\nthat is also known\nby the user.",
+    "diamond-pearl": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+    "platinum": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+    "heartgold-soulsilver": "If the foe knows any\nmove also known by\nthe user, the foe\nis prevented\nfrom using it.",
+    "black-white": "If the opponents know any move also known\nby the user, the opponents are prevented\nfrom using it.",
+    "black-2-white-2": "If the opponents know any move also known\nby the user, the opponents are prevented\nfrom using it.",
+    "x-y": "If opposing Pokémon know any move\nalso known by the user,\nthey are prevented from using it.",
+    "omega-ruby-alpha-sapphire": "If opposing Pokémon know any move\nalso known by the user,\nthey are prevented from using it.",
+    "sun-moon": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+    "ultra-sun-ultra-moon": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+    "lets-go-pikachu-lets-go-eevee": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it.",
+    "sword-shield": "If opposing Pokémon know any move also known by\nthe user, they are prevented from using it."
+  },
+  "effect": {
+    "full": "Prevents any Pokémon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field, these moves become restricted.  If no opposing Pokémon knows any of the user's moves when this move is used, this move will fail.",
+    "shortEffect": "Prevents the target from using any moves that the user also knows."
+  },
+  "priority": 0
+}

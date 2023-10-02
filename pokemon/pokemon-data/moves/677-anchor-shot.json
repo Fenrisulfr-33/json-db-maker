@@ -1,0 +1,35 @@
+{
+  "_id": 677,
+  "key": "anchor-shot",
+  "name": {
+    "english": "Anchor Shot",
+    "japanese": "アンカーショット",
+    "chinese": "擲錨",
+    "korean": "앵커숏",
+    "german": "Anclaje",
+    "french": "Ankerschuss",
+    "italian": "Anchor Shot",
+    "spanish": "Colpo d’Ancora"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user entangles the target with its anchor chain\nwhile attacking. The target becomes unable to flee.",
+    "ultra-sun-ultra-moon": "The user entangles the target with its anchor chain\nwhile attacking. The target becomes unable to flee.",
+    "lets-go-pikachu-lets-go-eevee": "The user entangles the target with its anchor chain\nwhile attacking. The target becomes unable to flee.",
+    "sword-shield": "The user entangles the target with its anchor chain\nwhile attacking. The target becomes unable to flee."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Traps the target.",
+    "shortEffect": "Traps the target."
+  },
+  "priority": 0
+}

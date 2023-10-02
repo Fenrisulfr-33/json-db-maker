@@ -1,0 +1,63 @@
+{
+  "_id": 91,
+  "key": "adaptability",
+  "name": {
+    "english": "Adaptability"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Increases the same-type attack bonus from 1.5× to 2×.",
+    "full": "This Pokémon inflicts twice as much damage with moves whose types match its own, rather than the usual same-type attack bonus of 1.5×."
+  },
+  "description": {
+    "diamond-pearl": "Powers up moves of the same type.",
+    "platinum": "Powers up moves of the same type.",
+    "heartgold-soulsilver": "Powers up moves of the same type.",
+    "black-white": "Powers up moves of the same type.",
+    "black-2-white-2": "Powers up moves of the same type.",
+    "x-y": "Powers up moves of the same type as the Pokémon.",
+    "omega-ruby-alpha-sapphire": "Powers up moves of the same type as the Pokémon.",
+    "sun-moon": "Powers up moves of the same type as the Pokémon.",
+    "ultra-sun-ultra-moon": "Powers up moves of the same type as the Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up moves of the same type as the Pokémon.",
+    "sword-shield": "Powers up moves of the same type as the Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Eevee",
+        "id": 133
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Corphish",
+        "id": 341
+      },
+      {
+        "name": "Crawdaunt",
+        "id": 342
+      },
+      {
+        "name": "Feebas",
+        "id": 349
+      },
+      {
+        "name": "Skrelp",
+        "id": 690
+      },
+      {
+        "name": "Dragalge",
+        "id": 691
+      },
+      {
+        "name": "Yungoos",
+        "id": 734
+      },
+      {
+        "name": "Gumshoos",
+        "id": 735
+      }
+    ]
+  }
+}

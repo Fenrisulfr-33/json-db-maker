@@ -1,0 +1,45 @@
+{
+  "_id": 274,
+  "key": "assist",
+  "name": {
+    "english": "Assist",
+    "japanese": "ねこのて",
+    "chinese": "协助",
+    "korean": "조수",
+    "german": "Ayuda",
+    "french": "Zuschuss",
+    "italian": "Assist",
+    "spanish": "Assistente"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks randomly with one\nof the partner’s moves.",
+    "emerald": "Attacks randomly with one\nof the partner’s moves.",
+    "firered-leafgreen": "The user randomly\npicks and uses a\nmove of an allied\nPOKéMON.",
+    "diamond-pearl": "The user hurriedly\nand randomly uses a\nmove among those\nknown by other\nPokémon in the party.",
+    "platinum": "The user hurriedly\nand randomly uses a\nmove among those\nknown by other\nPokémon in the party.",
+    "heartgold-soulsilver": "The user hurriedly\nand randomly uses a\nmove among those\nknown by other\nPokémon in the party.",
+    "black-white": "The user hurriedly and randomly uses a\nmove among those known by other\nPokémon in the party.",
+    "black-2-white-2": "The user hurriedly and randomly uses a\nmove among those known by other\nPokémon in the party.",
+    "x-y": "The user hurriedly and randomly\nuses a move among those known\nby other Pokémon in the party.",
+    "omega-ruby-alpha-sapphire": "The user hurriedly and randomly\nuses a move among those known\nby other Pokémon in the party.",
+    "sun-moon": "The user hurriedly and randomly uses a move among\nthose known by ally Pokémon.",
+    "ultra-sun-ultra-moon": "The user hurriedly and randomly uses a move among\nthose known by ally Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The user hurriedly and randomly uses a move among\nthose known by ally Pokémon.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Uses a move from another Pokémon in the user's party, both selected at random.  Moves from fainted Pokémon can be used.  If there are no eligible Pokémon or moves, this move will fail.\n\nThis move will not select assist, chatter, circle throw, copycat, counter, covet, destiny bond, detect, dig, dive, dragon tail, endure, feint, fly focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, phantom force protect, quick guard, roar shadow force, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, whirlwind, or wide guard.\n\nThis move cannot be copied by mirror move, nor selected by metronome or sleep talk.",
+    "shortEffect": "Randomly selects and uses one of the trainer's other Pokémon's moves."
+  },
+  "priority": 0
+}

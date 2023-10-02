@@ -1,0 +1,32 @@
+{
+  "_id": 758,
+  "key": "max-flutterby",
+  "name": {
+    "english": "Max Flutterby",
+    "japanese": "ダイワーム",
+    "chinese": "極巨蟲蠱",
+    "korean": "다이웜",
+    "german": "Maxinsecto",
+    "french": "Dyna-Schwarm",
+    "italian": "Max Flutterby",
+    "spanish": "Dynainsetto"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 10,
+  "accuracy": null,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon-me-first",
+  "changes": [],
+  "description": {
+    "sword-shield": "This is a Bug-type attack Dynamax Pokémon use.\nThis lowers the target’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

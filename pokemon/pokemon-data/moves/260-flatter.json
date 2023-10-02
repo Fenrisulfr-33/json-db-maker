@@ -1,0 +1,45 @@
+{
+  "_id": 260,
+  "key": "flatter",
+  "name": {
+    "english": "Flatter",
+    "japanese": "おだてる",
+    "chinese": "煽惑",
+    "korean": "부추기기",
+    "german": "Camelo",
+    "french": "Schmeichler",
+    "italian": "Flatter",
+    "spanish": "Adulazione"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Confuses the foe, but\nraises its SP. ATK.",
+    "emerald": "Confuses the foe, but\nraises its SP. ATK.",
+    "firered-leafgreen": "Flattery is used to\nconfuse the foe,\nbut its SP. ATK\nalso rises.",
+    "diamond-pearl": "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.",
+    "platinum": "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.",
+    "heartgold-soulsilver": "Flattery is used to\nconfuse the foe.\nHowever, it also\nraises the target’s\nSp. Atk stat.",
+    "black-white": "Flattery is used to confuse the target.\nHowever, it also raises the target’s\nSp. Atk stat.",
+    "black-2-white-2": "Flattery is used to confuse the target.\nHowever, it also raises the target’s\nSp. Atk stat.",
+    "x-y": "Flattery is used to confuse the target.\nHowever, this also raises the target’s\nSp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "Flattery is used to confuse the target.\nHowever, this also raises the target’s\nSp. Atk stat.",
+    "sun-moon": "Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat.",
+    "ultra-sun-ultra-moon": "Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat.",
+    "sword-shield": "Flattery is used to confuse the target. However,\nthis also raises the target’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Raises the target's Special Attack by one stage, then confuses it.",
+    "shortEffect": "Raises the target's Special Attack by one stage and confuses the target."
+  },
+  "priority": 0
+}

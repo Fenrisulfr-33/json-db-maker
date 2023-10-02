@@ -1,0 +1,47 @@
+{
+  "_id": 238,
+  "key": "cross-chop",
+  "name": {
+    "english": "Cross Chop",
+    "japanese": "クロスチョップ",
+    "chinese": "十字切",
+    "korean": "크로스촙",
+    "german": "Tajo Cruzado",
+    "french": "Kreuzhieb",
+    "italian": "Cross Chop",
+    "spanish": "Incrocolpo"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 100,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Has a high criti­\ncal hit ratio.",
+    "crystal": "Has a high criti­\ncal hit ratio.",
+    "ruby-sapphire": "A double-chopping attack.\nHigh critical-hit ratio.",
+    "emerald": "A double-chopping attack.\nHigh critical-hit ratio.",
+    "firered-leafgreen": "The foe is hit with\ndouble chops.\nIt has a high\ncritical-hit ratio.",
+    "diamond-pearl": "The user delivers a\ndouble chop with its\nforearms crossed.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "The user delivers a\ndouble chop with its\nforearms crossed.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "The user delivers a\ndouble chop with its\nforearms crossed.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "The user delivers a double chop with its\nforearms crossed.\nCritical hits land more easily.",
+    "black-2-white-2": "The user delivers a double chop with its\nforearms crossed.\nCritical hits land more easily.",
+    "x-y": "The user delivers a double chop with its\nforearms crossed.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user delivers a double chop with its\nforearms crossed.\nCritical hits land more easily.",
+    "sun-moon": "The user delivers a double chop with its forearms\ncrossed. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user delivers a double chop with its forearms\ncrossed. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user delivers a double chop with its forearms\ncrossed. Critical hits land more easily.",
+    "sword-shield": "The user delivers a double chop with its forearms\ncrossed. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

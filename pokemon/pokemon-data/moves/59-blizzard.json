@@ -1,0 +1,47 @@
+{
+  "_id": 59,
+  "key": "blizzard",
+  "name": {
+    "english": "Blizzard",
+    "japanese": "ふぶき",
+    "chinese": "暴风雪",
+    "korean": "눈보라",
+    "german": "Ventisca",
+    "french": "Blizzard",
+    "italian": "Blizzard",
+    "spanish": "Bora"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 110,
+  "accuracy": 70,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nfreeze the foe.",
+    "crystal": "An attack that may\nfreeze the foe.",
+    "ruby-sapphire": "Hits the foe with an icy\nstorm that may freeze it.",
+    "emerald": "Hits the foe with an icy\nstorm that may freeze it.",
+    "firered-leafgreen": "The foe is blasted\nwith a blizzard.\nIt may freeze the\nfoe solid.",
+    "diamond-pearl": "A howling blizzard is\nsummoned to strike\nthe foe.\nIt may also freeze\nthe target solid.",
+    "platinum": "A howling blizzard is\nsummoned to strike\nthe foe.\nIt may also freeze\nthe target solid.",
+    "heartgold-soulsilver": "A howling blizzard is\nsummoned to strike\nthe foe.\nIt may also freeze\nthe target solid.",
+    "black-white": "A howling blizzard is summoned to strike\nthe opposing team. It may also freeze\nthem solid.",
+    "black-2-white-2": "A howling blizzard is summoned to strike\nthe opposing team. It may also freeze\nthem solid.",
+    "x-y": "A howling blizzard is summoned to strike\nopposing Pokémon. This may also leave\nthe opposing Pokémon frozen.",
+    "omega-ruby-alpha-sapphire": "A howling blizzard is summoned to strike\nopposing Pokémon. This may also leave\nthe opposing Pokémon frozen.",
+    "sun-moon": "A howling blizzard is summoned to strike opposing\nPokémon. This may also leave the opposing\nPokémon frozen.",
+    "ultra-sun-ultra-moon": "A howling blizzard is summoned to strike opposing\nPokémon. This may also leave the opposing\nPokémon frozen.",
+    "lets-go-pikachu-lets-go-eevee": "A howling blizzard is summoned to strike opposing\nPokémon. This may also leave the opposing\nPokémon frozen.",
+    "sword-shield": "A howling blizzard is summoned to strike opposing\nPokémon. This may also leave the opposing\nPokémon frozen."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.\n\nDuring hail, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.",
+    "shortEffect": "Has a $effect_chance% chance to freeze the target."
+  },
+  "priority": 0
+}

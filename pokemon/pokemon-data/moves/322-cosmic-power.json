@@ -1,0 +1,45 @@
+{
+  "_id": 322,
+  "key": "cosmic-power",
+  "name": {
+    "english": "Cosmic Power",
+    "japanese": "コスモパワー",
+    "chinese": "无限能量",
+    "korean": "코스믹파워",
+    "german": "Masa Cósmica",
+    "french": "Kosmik-Kraft",
+    "italian": "Cosmic Power",
+    "spanish": "Cosmoforza"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Raises DEFENSE and SP. DEF\nwith a mystic power.",
+    "emerald": "Raises DEFENSE and SP. DEF\nwith a mystic power.",
+    "firered-leafgreen": "The user absorbs a\nmystic power to\nraise its DEFENSE\nand SP. DEF.",
+    "diamond-pearl": "The user absorbs a\nmystical power from\nspace to raise its\nDefense and Sp. Def\nstats.",
+    "platinum": "The user absorbs a\nmystical power from\nspace to raise its\nDefense and Sp. Def\nstats.",
+    "heartgold-soulsilver": "The user absorbs a\nmystical power from\nspace to raise its\nDefense and Sp. Def\nstats.",
+    "black-white": "The user absorbs a mystical power from\nspace to raise its Defense and\nSp. Def stats.",
+    "black-2-white-2": "The user absorbs a mystical power from\nspace to raise its Defense and\nSp. Def stats.",
+    "x-y": "The user absorbs a mystical power from\nspace to raise its Defense and\nSp. Def stats.",
+    "omega-ruby-alpha-sapphire": "The user absorbs a mystical power from\nspace to raise its Defense and\nSp. Def stats.",
+    "sun-moon": "The user absorbs a mystical power from space to\nraise its Defense and Sp. Def stats.",
+    "ultra-sun-ultra-moon": "The user absorbs a mystical power from space to\nraise its Defense and Sp. Def stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user absorbs a mystical power from space to\nraise its Defense and Sp. Def stats.",
+    "sword-shield": "The user absorbs a mystical power from space to\nraise its Defense and Sp. Def stats."
+  },
+  "effect": {
+    "full": "Raises the user's Defense and Special Defense by one stage.",
+    "shortEffect": "Raises the user's Defense and Special Defense by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 330,
+  "key": "muddy-water",
+  "name": {
+    "english": "Muddy Water",
+    "japanese": "だくりゅう",
+    "chinese": "浊流",
+    "korean": "탁류",
+    "german": "Agua Lodosa",
+    "french": "Lehmbrühe",
+    "italian": "Muddy Water",
+    "spanish": "Fanghiglia"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 3,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks with muddy water.\nMay lower accuracy.",
+    "emerald": "Attacks with muddy water.\nMay lower accuracy.",
+    "firered-leafgreen": "The user attacks\nwith muddy water.\nIt may also lower\nthe foe’s accuracy.",
+    "diamond-pearl": "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.",
+    "platinum": "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.",
+    "heartgold-soulsilver": "The user attacks by\nshooting out muddy\nwater.\nIt may also lower the\nfoe’s accuracy.",
+    "black-white": "The user attacks by shooting muddy water\nat the opposing team.\nIt may also lower the targets’ accuracy.",
+    "black-2-white-2": "The user attacks by shooting muddy water\nat the opposing team.\nIt may also lower the targets’ accuracy.",
+    "x-y": "The user attacks by shooting muddy water\nat the opposing Pokémon.\nThis may also lower their accuracy.",
+    "omega-ruby-alpha-sapphire": "The user attacks by shooting muddy water\nat the opposing Pokémon.\nThis may also lower their accuracy.",
+    "sun-moon": "The user attacks by shooting muddy water at the\nopposing Pokémon. This may also lower\ntheir accuracy.",
+    "ultra-sun-ultra-moon": "The user attacks by shooting muddy water at the\nopposing Pokémon. This may also lower\ntheir accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by shooting muddy water at the\nopposing Pokémon. This may also lower\ntheir accuracy.",
+    "sword-shield": "The user attacks by shooting muddy water at opposing\nPokémon. This may also lower their accuracy."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+  },
+  "priority": 0
+}

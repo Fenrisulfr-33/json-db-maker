@@ -1,0 +1,47 @@
+{
+  "_id": 138,
+  "key": "dream-eater",
+  "name": {
+    "english": "Dream Eater",
+    "japanese": "ゆめくい",
+    "chinese": "食梦",
+    "korean": "꿈먹기",
+    "german": "Comesueños",
+    "french": "Traumfresser",
+    "italian": "Dream Eater",
+    "spanish": "Mangiasogni"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Steals HP from a\nsleeping victim.",
+    "crystal": "Steals HP from a\nsleeping victim.",
+    "ruby-sapphire": "Takes one half the damage\ninflicted on a sleeping foe.",
+    "emerald": "Takes one half the damage\ninflicted on a sleeping foe.",
+    "firered-leafgreen": "Absorbs half the\ndamage it inflicted\non a sleeping foe\nto restore HP.",
+    "diamond-pearl": "An attack that works\nonly on a sleeping\nfoe. It absorbs half\nthe damage caused to\nheal the user’s HP.",
+    "platinum": "An attack that works\nonly on a sleeping\nfoe. It absorbs half\nthe damage caused to\nheal the user’s HP.",
+    "heartgold-soulsilver": "An attack that works\nonly on a sleeping\nfoe. It absorbs half\nthe damage caused to\nheal the user’s HP.",
+    "black-white": "The user eats the dreams of a sleeping\ntarget. It absorbs half the damage\ncaused to heal the user’s HP.",
+    "black-2-white-2": "The user eats the dreams of a sleeping\ntarget. It absorbs half the damage\ncaused to heal the user’s HP.",
+    "x-y": "The user eats the dreams of a sleeping\ntarget. It absorbs half the damage\ncaused to heal its own HP.",
+    "omega-ruby-alpha-sapphire": "The user eats the dreams of a sleeping\ntarget. It absorbs half the damage\ncaused to heal its own HP.",
+    "sun-moon": "The user eats the dreams of a sleeping target. It\nabsorbs half the damage caused to heal its own HP.",
+    "ultra-sun-ultra-moon": "The user eats the dreams of a sleeping target. It\nabsorbs half the damage caused to heal its own HP.",
+    "lets-go-pikachu-lets-go-eevee": "The user eats the dreams of a sleeping target. It\nabsorbs half the damage caused to heal its own HP.",
+    "sword-shield": "The user eats the dreams of a sleeping target.\nThe user’s HP is restored by half the damage taken by\nthe target."
+  },
+  "effect": {
+    "full": "Fails if not used on a sleeping Pokémon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+    "shortEffect": "Only works on sleeping Pokémon.  Drains half the damage inflicted to heal the user."
+  },
+  "priority": 0
+}

@@ -1,0 +1,35 @@
+{
+  "_id": 676,
+  "key": "pollen-puff",
+  "name": {
+    "english": "Pollen Puff",
+    "japanese": "かふんだんご",
+    "chinese": "花粉團",
+    "korean": "꽃가루경단",
+    "german": "Bola de Polen",
+    "french": "Pollenknödel",
+    "italian": "Pollen Puff",
+    "spanish": "Sferapolline"
+  },
+  "type": "Bug",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user attacks the enemy with a pollen puff that\nexplodes. If the target is an ally, it gives the ally a\npollen puff that restores its HP instead.",
+    "ultra-sun-ultra-moon": "The user attacks the enemy with a pollen puff that\nexplodes. If the target is an ally, it gives the ally a\npollen puff that restores its HP instead.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the enemy with a pollen puff that\nexplodes. If the target is an ally, it gives the ally a\npollen puff that restores its HP instead.",
+    "sword-shield": "The user attacks the enemy with a pollen puff that\nexplodes. If the target is an ally, it gives the ally a\npollen puff that restores its HP instead."
+  },
+  "effect": {
+    "full": "If the target is an opponent, inflicts regular damage.  If the target is an ally, heals the target for 50% of its max HP.",
+    "shortEffect": "Damages opponents, but heals allies for 50% of their max HP."
+  },
+  "priority": 0
+}

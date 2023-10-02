@@ -1,0 +1,100 @@
+{
+  "_id": 155,
+  "key": "rattled",
+  "name": {
+    "english": "Rattled"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Raises Speed one stage upon being hit by a dark, ghost, or bug move.",
+    "full": "This Pokémon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move."
+  },
+  "description": {
+    "black-white": "Some move types scare it and boost its Speed.",
+    "black-2-white-2": "Some move types scare it and boost its Speed.",
+    "x-y": "Some move types scare it and boost its Speed stat.",
+    "omega-ruby-alpha-sapphire": "Some move types scare it and boost its Speed stat.",
+    "sun-moon": "Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat.",
+    "ultra-sun-ultra-moon": "Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat.",
+    "sword-shield": "Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Toxel",
+        "id": 848
+      },
+      {
+        "name": "Wiglett",
+        "id": 960
+      },
+      {
+        "name": "Wugtrio",
+        "id": 961
+      },
+      {
+        "name": "Gimmighoul",
+        "id": 999
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Magikarp",
+        "id": 129
+      },
+      {
+        "name": "Ledyba",
+        "id": 165
+      },
+      {
+        "name": "Sudowoodo",
+        "id": 185
+      },
+      {
+        "name": "Dunsparce",
+        "id": 206
+      },
+      {
+        "name": "Snubbull",
+        "id": 209
+      },
+      {
+        "name": "Granbull",
+        "id": 210
+      },
+      {
+        "name": "Poochyena",
+        "id": 261
+      },
+      {
+        "name": "Whismur",
+        "id": 293
+      },
+      {
+        "name": "Clamperl",
+        "id": 366
+      },
+      {
+        "name": "Bonsly",
+        "id": 438
+      },
+      {
+        "name": "Cubchoo",
+        "id": 613
+      },
+      {
+        "name": "Yamper",
+        "id": 835
+      },
+      {
+        "name": "Dudunsparce",
+        "id": 982
+      },
+      {
+        "name": "Gimmighoul",
+        "id": 999
+      }
+    ]
+  }
+}

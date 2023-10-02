@@ -1,0 +1,47 @@
+{
+  "_id": 62,
+  "key": "aurora-beam",
+  "name": {
+    "english": "Aurora Beam",
+    "japanese": "オーロラビーム",
+    "chinese": "极光束",
+    "korean": "오로라빔",
+    "german": "Rayo Aurora",
+    "french": "Aurorastrahl",
+    "italian": "Aurora Beam",
+    "spanish": "Raggiaurora"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nlower ATTACK.",
+    "crystal": "An attack that may\nlower ATTACK.",
+    "ruby-sapphire": "Fires a rainbow-colored\nbeam that may lower ATTACK.",
+    "emerald": "Fires a rainbow-colored\nbeam that may lower ATTACK.",
+    "firered-leafgreen": "A rainbow-colored\nattack beam.\nIt may lower the\nfoe’s ATTACK stat.",
+    "diamond-pearl": "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.",
+    "platinum": "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.",
+    "heartgold-soulsilver": "The foe is hit with a\nrainbow-colored beam.\nIt may also lower the\ntarget’s Attack\nstat.",
+    "black-white": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+    "black-2-white-2": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+    "x-y": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+    "omega-ruby-alpha-sapphire": "The target is hit with a rainbow-colored\nbeam. This may also lower the target’s\nAttack stat.",
+    "sun-moon": "The target is hit with a rainbow-colored beam.\nThis may also lower the target’s Attack stat.",
+    "ultra-sun-ultra-moon": "The target is hit with a rainbow-colored beam.\nThis may also lower the target’s Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit with a rainbow-colored beam.\nThis may also lower the target’s Attack stat.",
+    "sword-shield": "The target is hit with a rainbow-colored beam.\nThis may also lower the target’s Attack stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Attack by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Attack by one stage."
+  },
+  "priority": 0
+}

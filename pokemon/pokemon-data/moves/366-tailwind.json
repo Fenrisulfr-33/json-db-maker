@@ -1,0 +1,42 @@
+{
+  "_id": 366,
+  "key": "tailwind",
+  "name": {
+    "english": "Tailwind",
+    "japanese": "おいかぜ",
+    "chinese": "顺风",
+    "korean": "순풍",
+    "german": "Viento Afín",
+    "french": "Rückenwind",
+    "italian": "Tailwind",
+    "spanish": "Ventoincoda"
+  },
+  "type": "Flying",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user whips up a\nturbulent whirlwind\nthat ups the Speed\nof all party Pokémon\nfor three turns.",
+    "platinum": "The user whips up a\nturbulent whirlwind\nthat ups the Speed\nof all party Pokémon\nfor three turns.",
+    "heartgold-soulsilver": "The user whips up a\nturbulent whirlwind\nthat ups the Speed\nof all party Pokémon\nfor three turns.",
+    "black-white": "The user whips up a turbulent whirlwind\nthat ups the Speed of all party Pokémon\nfor four turns.",
+    "black-2-white-2": "The user whips up a turbulent whirlwind\nthat ups the Speed of all party Pokémon\nfor four turns.",
+    "x-y": "The user whips up a turbulent whirlwind\nthat ups the Speed stat of the user and\nits allies for four turns.",
+    "omega-ruby-alpha-sapphire": "The user whips up a turbulent whirlwind\nthat ups the Speed stat of the user and\nits allies for four turns.",
+    "sun-moon": "The user whips up a turbulent whirlwind that ups\nthe Speed stat of the user and its allies for\nfour turns.",
+    "ultra-sun-ultra-moon": "The user whips up a turbulent whirlwind that ups\nthe Speed stat of the user and its allies for\nfour turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user whips up a turbulent whirlwind that ups\nthe Speed stat of the user and its allies for\nfour turns.",
+    "sword-shield": "The user whips up a turbulent whirlwind that ups\nthe Speed stats of the user and its allies for\nfour turns."
+  },
+  "effect": {
+    "full": "For the next three turns, all Pokémon on the user's side of the field have their original Speed doubled.  This effect remains if the user leaves the field.",
+    "shortEffect": "For three turns, friendly Pokémon have doubled Speed."
+  },
+  "priority": 0
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 511,
+  "key": "quash",
+  "name": {
+    "english": "Quash",
+    "japanese": "さきおくり",
+    "chinese": "延后",
+    "korean": "순서미루기",
+    "german": "Último Lugar",
+    "french": "Verzögerung",
+    "italian": "Quash",
+    "spanish": "Spintone"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user suppresses the target and\nmakes its move go last.",
+    "black-2-white-2": "The user suppresses the target and\nmakes its move go last.",
+    "x-y": "The user suppresses the target and\nmakes its move go last.",
+    "omega-ruby-alpha-sapphire": "The user suppresses the target and\nmakes its move go last.",
+    "sun-moon": "The user suppresses the target and makes its move\ngo last.",
+    "ultra-sun-ultra-moon": "The user suppresses the target and makes its move\ngo last.",
+    "lets-go-pikachu-lets-go-eevee": "The user suppresses the target and makes its move\ngo last.",
+    "sword-shield": "The user suppresses the target and makes its move\ngo last."
+  },
+  "effect": {
+    "full": "Forces the target to act last this turn, regardless of Speed or move priority.  If the target has already acted this turn, this move will fail.",
+    "shortEffect": "Makes the target act last this turn."
+  },
+  "priority": 0
+}

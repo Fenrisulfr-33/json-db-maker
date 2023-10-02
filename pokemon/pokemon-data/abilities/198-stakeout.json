@@ -1,0 +1,56 @@
+{
+  "_id": 198,
+  "key": "stakeout",
+  "name": {
+    "english": "Stakeout"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon's moves have double power against Pokémon that switched in this turn.",
+    "full": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+  },
+  "description": {
+    "sun-moon": "Doubles the damage dealt to the target’s replacement if the target switches out.",
+    "ultra-sun-ultra-moon": "Doubles the damage dealt to the target’s replacement if the target switches out.",
+    "lets-go-pikachu-lets-go-eevee": "Doubles the damage dealt to the target’s replacement if the target switches out.",
+    "sword-shield": "Doubles the damage dealt to the target’s replacement if the target switches out."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Yungoos",
+        "id": 734
+      },
+      {
+        "name": "Gumshoos",
+        "id": 735
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Nickit",
+        "id": 827
+      },
+      {
+        "name": "Thievul",
+        "id": 828
+      },
+      {
+        "name": "Tarountula",
+        "id": 917
+      },
+      {
+        "name": "Spidops",
+        "id": 918
+      },
+      {
+        "name": "Maschiff",
+        "id": 942
+      },
+      {
+        "name": "Mabosstiff",
+        "id": 943
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": 149,
+  "key": "illusion",
+  "name": {
+    "english": "Illusion"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.",
+    "full": "This Pokémon, upon being sent out, appears to have the species, nickname, and Poké Ball of the last Pokémon in the party that is able to battle. This illusion breaks upon being hit by a damaging move. Other damage, e.g. from weather or spikes, does not break the illusion, nor does damage done to a substitute. If the party order becomes temporarily shuffled around as Pokémon are switched out in battle, this ability chooses the last Pokémon according to that shuffled order."
+  },
+  "description": {
+    "black-white": "Comes out disguised as the Pokémon in back.",
+    "black-2-white-2": "Comes out disguised as the Pokémon in back.",
+    "x-y": "Comes out disguised as the Pokémon in the party’s last spot.",
+    "omega-ruby-alpha-sapphire": "Comes out disguised as the Pokémon in the party’s last spot.",
+    "sun-moon": "Comes out disguised as the Pokémon in the party’s last spot.",
+    "ultra-sun-ultra-moon": "Comes out disguised as the Pokémon in the party’s last spot.",
+    "lets-go-pikachu-lets-go-eevee": "Comes out disguised as the Pokémon in the party’s last spot.",
+    "sword-shield": "Comes out disguised as the Pokémon in the party’s last spot."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Zorua",
+        "id": 570
+      },
+      {
+        "name": "Zoroark",
+        "id": 571
+      }
+    ],
+    "hidden": []
+  }
+}

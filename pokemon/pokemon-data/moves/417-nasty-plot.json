@@ -1,0 +1,42 @@
+{
+  "_id": 417,
+  "key": "nasty-plot",
+  "name": {
+    "english": "Nasty Plot",
+    "japanese": "わるだくみ",
+    "chinese": "诡计",
+    "korean": "나쁜음모",
+    "german": "Maquinación",
+    "french": "Ränkeschmied",
+    "italian": "Nasty Plot",
+    "spanish": "Congiura"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.",
+    "platinum": "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.",
+    "heartgold-soulsilver": "The user stimulates\nits brain by thinking\nbad thoughts.\nIt sharply raises the\nuser’s Sp. Atk.",
+    "black-white": "The user stimulates its brain by thinking\nbad thoughts.\nIt sharply raises the user’s Sp. Atk.",
+    "black-2-white-2": "The user stimulates its brain by thinking\nbad thoughts.\nIt sharply raises the user’s Sp. Atk.",
+    "x-y": "The user stimulates its brain by thinking\nbad thoughts.\nThis sharply raises the user’s Sp. Atk.",
+    "omega-ruby-alpha-sapphire": "The user stimulates its brain by thinking\nbad thoughts.\nThis sharply raises the user’s Sp. Atk.",
+    "sun-moon": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat.",
+    "sword-shield": "The user stimulates its brain by thinking bad\nthoughts. This sharply raises the user’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Raises the user's Special Attack by two stages.",
+    "shortEffect": "Raises the user's Special Attack by two stages."
+  },
+  "priority": 0
+}

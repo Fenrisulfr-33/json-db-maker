@@ -1,0 +1,39 @@
+{
+  "_id": 550,
+  "key": "bolt-strike",
+  "name": {
+    "english": "Bolt Strike",
+    "japanese": "らいげき",
+    "chinese": "雷击",
+    "korean": "뇌격",
+    "german": "Ataque Fulgor",
+    "french": "Blitzschlag",
+    "italian": "Bolt Strike",
+    "spanish": "Lucesiluro"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 130,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user charges its target, surrounding\nitself with a great amount of electricity.\nIt may leave the target with paralysis.",
+    "black-2-white-2": "The user charges its target, surrounding\nitself with a great amount of electricity.\nIt may leave the target with paralysis.",
+    "x-y": "The user surrounds itself with a great amount\nof electricity and charges its target.\nThis may also leave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user surrounds itself with a great amount\nof electricity and charges its target.\nThis may also leave the target with paralysis.",
+    "sun-moon": "The user surrounds itself with a great amount of\nelectricity and charges its target. This may also\nleave the target with paralysis.",
+    "ultra-sun-ultra-moon": "The user surrounds itself with a great amount of\nelectricity and charges its target. This may also\nleave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user surrounds itself with a great amount of\nelectricity and charges its target. This may also\nleave the target with paralysis.",
+    "sword-shield": "The user surrounds itself with a great amount of\nelectricity and charges its target. This may also\nleave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

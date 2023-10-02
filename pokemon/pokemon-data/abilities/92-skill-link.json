@@ -1,0 +1,67 @@
+{
+  "_id": 92,
+  "key": "skill-link",
+  "name": {
+    "english": "Skill Link"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Extends two-to-five-hit moves and triple kick to their full length every time.",
+    "full": "This Pokémon always hits five times with two-to-five-hit moves, such as icicle spear. It also bypasses the accuracy checks on triple kick's second and third hits."
+  },
+  "description": {
+    "diamond-pearl": "Increases the frequency of multi-strike moves.",
+    "platinum": "Increases the frequency of multi-strike moves.",
+    "heartgold-soulsilver": "Increases the frequency of multi-strike moves.",
+    "black-white": "Increases the frequency of multi-strike moves.",
+    "black-2-white-2": "Increases the frequency of multi-strike moves.",
+    "x-y": "Increases the number of times multi-strike moves hit.",
+    "omega-ruby-alpha-sapphire": "Increases the number of times multi-strike moves hit.",
+    "sun-moon": "Maximizes the number of times multi-strike moves hit.",
+    "ultra-sun-ultra-moon": "Maximizes the number of times multi-strike moves hit.",
+    "lets-go-pikachu-lets-go-eevee": "Maximizes the number of times multistrike moves hit.",
+    "sword-shield": "Maximizes the number of times multistrike moves hit."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Shellder",
+        "id": 90
+      },
+      {
+        "name": "Cloyster",
+        "id": 91
+      },
+      {
+        "name": "Pikipek",
+        "id": 731
+      },
+      {
+        "name": "Trumbeak",
+        "id": 732
+      },
+      {
+        "name": "Toucannon",
+        "id": 733
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Aipom",
+        "id": 190
+      },
+      {
+        "name": "Ambipom",
+        "id": 424
+      },
+      {
+        "name": "Minccino",
+        "id": 572
+      },
+      {
+        "name": "Cinccino",
+        "id": 573
+      }
+    ]
+  }
+}

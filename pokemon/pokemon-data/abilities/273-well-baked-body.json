@@ -1,0 +1,24 @@
+{
+  "_id": 273,
+  "key": "well-baked-body",
+  "name": {
+    "english": "Well-Baked Body"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Immune to Fire-type moves, and Defense is sharply boosted.",
+    "full": "Immune to Fire-type moves, and Defense is sharply boosted."
+  },
+  "description": {
+    "scarlet-violet": "The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Dachsbun",
+        "id": 927
+      }
+    ],
+    "hidden": []
+  }
+}

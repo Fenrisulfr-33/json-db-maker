@@ -1,0 +1,37 @@
+{
+  "_id": 581,
+  "key": "misty-terrain",
+  "name": {
+    "english": "Misty Terrain",
+    "japanese": "ミストフィールド",
+    "chinese": "薄雾场地",
+    "korean": "미스트필드",
+    "german": "Campo de Niebla",
+    "french": "Nebelfeld",
+    "italian": "Misty Terrain",
+    "spanish": "Campo Nebbioso"
+  },
+  "type": "Fairy",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "x-y": "The user covers the ground under everyone’s feet\nwith mist for five turns. This protects Pokémon\non the ground from status conditions.",
+    "omega-ruby-alpha-sapphire": "The user covers the ground under everyone’s feet\nwith mist for five turns. This protects Pokémon\non the ground from status conditions.",
+    "sun-moon": "This protects Pokémon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+    "ultra-sun-ultra-moon": "This protects Pokémon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "This protects Pokémon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns.",
+    "sword-shield": "This protects Pokémon on the ground from status\nconditions and halves damage from Dragon-type\nmoves for five turns."
+  },
+  "effect": {
+    "full": "For five turns, protects all Pokémon on the ground from major status ailments and confusion and weakens dragon moves used against them to 0.5× their power.\n\nChanges nature power to moonblast.",
+    "shortEffect": "For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming dragon moves."
+  },
+  "priority": 0
+}

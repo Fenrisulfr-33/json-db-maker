@@ -1,0 +1,17 @@
+{
+  "_id": 868,
+  "key": "fillet-away",
+  "name": {
+    "english": "Fillet Away"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": 0,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 9,
+  "target": "User",
+  "changes": []
+}

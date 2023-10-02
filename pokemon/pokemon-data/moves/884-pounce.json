@@ -1,0 +1,17 @@
+{
+  "_id": 884,
+  "key": "pounce",
+  "name": {
+    "english": "Pounce"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

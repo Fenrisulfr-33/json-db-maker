@@ -1,0 +1,47 @@
+{
+  "_id": 4,
+  "key": "comet-punch",
+  "name": {
+    "english": "Comet Punch",
+    "japanese": "れんぞくパンチ",
+    "chinese": "连续拳",
+    "korean": "연속펀치",
+    "german": "Puño Cometa",
+    "french": "Kometenhieb",
+    "italian": "Comet Punch",
+    "spanish": "Cometapugno"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 18,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Repeatedly punches\n2-5 times.",
+    "crystal": "Repeatedly punches\n2-5 times.",
+    "ruby-sapphire": "Repeatedly punches the foe\n2 to 5 times.",
+    "emerald": "Repeatedly punches the foe\n2 to 5 times.",
+    "firered-leafgreen": "The foe is hit with\na flurry of punches\nthat strike two to\nfive times.",
+    "diamond-pearl": "The foe is hit with\na flurry of punches\nthat strike two to\nfive times in a row.\n",
+    "platinum": "The foe is hit with\na flurry of punches\nthat strike two to\nfive times in a row.\n",
+    "heartgold-soulsilver": "The foe is hit with\na flurry of punches\nthat strike two to\nfive times in a row.\n",
+    "black-white": "The target is hit with a flurry of punches\nthat strike two to five times in a row.",
+    "black-2-white-2": "The target is hit with a flurry of punches\nthat strike two to five times in a row.",
+    "x-y": "The target is hit with a flurry of punches\nthat strike two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "The target is hit with a flurry of punches\nthat strike two to five times in a row.",
+    "sun-moon": "The target is hit with a flurry of punches that strike\ntwo to five times in a row.",
+    "ultra-sun-ultra-moon": "The target is hit with a flurry of punches that strike\ntwo to five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit with a flurry of punches that strike\ntwo to five times in a row.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 39,
+  "key": "tail-whip",
+  "name": {
+    "english": "Tail Whip",
+    "japanese": "しっぽをふる",
+    "chinese": "摇尾巴",
+    "korean": "꼬리흔들기",
+    "german": "Látigo",
+    "french": "Rutenschlag",
+    "italian": "Tail Whip",
+    "spanish": "Colpocoda"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 30,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "Lowers the foe's\nDEFENSE.",
+    "crystal": "Lowers the foe's\nDEFENSE.",
+    "ruby-sapphire": "Wags the tail to lower the\nfoe’s DEFENSE.",
+    "emerald": "Wags the tail to lower the\nfoe’s DEFENSE.",
+    "firered-leafgreen": "The user wags its\ntail cutely, making\nthe foe lower its\nDEFENSE stat.",
+    "diamond-pearl": "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.",
+    "platinum": "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.",
+    "heartgold-soulsilver": "The user wags its tail\ncutely, making the\nfoe less wary.\nThe target’s Defense\nstat is lowered.",
+    "black-white": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+    "black-2-white-2": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+    "x-y": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.",
+    "sun-moon": "The user wags its tail cutely, making opposing\nPokémon less wary and lowering their Defense stat.",
+    "ultra-sun-ultra-moon": "The user wags its tail cutely, making opposing\nPokémon less wary and lowering their Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user wags its tail cutely, making opposing\nPokémon less wary and lowering their Defense stat.",
+    "sword-shield": "The user wags its tail cutely, making opposing\nPokémon less wary and lowering their Defense stats."
+  },
+  "effect": {
+    "full": "Lowers the target's Defense by one stage.",
+    "shortEffect": "Lowers the target's Defense by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 112,
+  "key": "barrier",
+  "name": {
+    "english": "Barrier",
+    "japanese": "バリアー",
+    "chinese": "障碍",
+    "korean": "배리어",
+    "german": "Barrera",
+    "french": "Barriere",
+    "italian": "Barrier",
+    "spanish": "Barriera"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Sharply increases\nuser's DEFENSE.",
+    "crystal": "Sharply increases\nuser's DEFENSE.",
+    "ruby-sapphire": "Creates a barrier that\nsharply raises DEFENSE.",
+    "emerald": "Creates a barrier that\nsharply raises DEFENSE.",
+    "firered-leafgreen": "The user creates a\nsturdy wall that\nsharply raises its\nDEFENSE stat.",
+    "diamond-pearl": "The user throws up a\nsturdy wall that\nsharply raises its\nDefense stat.\n",
+    "platinum": "The user throws up a\nsturdy wall that\nsharply raises its\nDefense stat.\n",
+    "heartgold-soulsilver": "The user throws up a\nsturdy wall that\nsharply raises its\nDefense stat.\n",
+    "black-white": "The user throws up a sturdy wall that\nsharply raises its Defense stat.",
+    "black-2-white-2": "The user throws up a sturdy wall that\nsharply raises its Defense stat.",
+    "x-y": "The user throws up a sturdy wall that\nsharply raises its Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user throws up a sturdy wall that\nsharply raises its Defense stat.",
+    "sun-moon": "The user throws up a sturdy wall that sharply raises\nits Defense stat.",
+    "ultra-sun-ultra-moon": "The user throws up a sturdy wall that sharply raises\nits Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user throws up a sturdy wall that sharply raises\nits Defense stat.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Raises the user's Defense by two stages.",
+    "shortEffect": "Raises the user's Defense by two stages."
+  },
+  "priority": 0
+}

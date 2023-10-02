@@ -1,0 +1,27 @@
+{
+  "_id": 228,
+  "key": "misty-surge",
+  "name": {
+    "english": "Misty Surge"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "When this Pokémon enters battle, it changes the terrain to Misty Terrain.",
+    "full": "When this Pokémon enters battle, it changes the terrain to misty terrain."
+  },
+  "description": {
+    "sun-moon": "Turns the ground into Misty Terrain when the Pokémon enters a battle.",
+    "ultra-sun-ultra-moon": "Turns the ground into Misty Terrain when the Pokémon enters a battle.",
+    "lets-go-pikachu-lets-go-eevee": "Turns the ground into Misty Terrain when the Pokémon enters a battle.",
+    "sword-shield": "Turns the ground into Misty Terrain when the Pokémon enters a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tapu Fini",
+        "id": 788
+      }
+    ],
+    "hidden": []
+  }
+}

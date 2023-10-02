@@ -1,0 +1,88 @@
+{
+  "_id": 145,
+  "key": "big-pecks",
+  "name": {
+    "english": "Big Pecks"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Protects against Defense drops.",
+    "full": "This Pokémon's Defense cannot be lowered by other Pokémon. This Pokémon can still be passed negative Defense modifiers through heart swap or guard swap."
+  },
+  "description": {
+    "black-white": "Protects the Pokémon from Defense-lowering attacks.",
+    "black-2-white-2": "Protects the Pokémon from Defense-lowering attacks.",
+    "x-y": "Protects the Pokémon from Defense-lowering attacks.",
+    "omega-ruby-alpha-sapphire": "Protects the Pokémon from Defense-lowering attacks.",
+    "sun-moon": "Protects the Pokémon from Defense-lowering effects.",
+    "ultra-sun-ultra-moon": "Protects the Pokémon from Defense-lowering effects.",
+    "lets-go-pikachu-lets-go-eevee": "Protects the Pokémon from Defense-lowering effects.",
+    "sword-shield": "Protects the Pokémon from Defense-lowering effects."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Pidove",
+        "id": 519
+      },
+      {
+        "name": "Tranquill",
+        "id": 520
+      },
+      {
+        "name": "Unfezant",
+        "id": 521
+      },
+      {
+        "name": "Ducklett",
+        "id": 580
+      },
+      {
+        "name": "Swanna",
+        "id": 581
+      },
+      {
+        "name": "Vullaby",
+        "id": 629
+      },
+      {
+        "name": "Mandibuzz",
+        "id": 630
+      },
+      {
+        "name": "Fletchling",
+        "id": 661
+      },
+      {
+        "name": "Bombirdier",
+        "id": 962
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Pidgey",
+        "id": 16
+      },
+      {
+        "name": "Pidgeotto",
+        "id": 17
+      },
+      {
+        "name": "Pidgeot",
+        "id": 18
+      },
+      {
+        "name": "Chatot",
+        "id": 441
+      },
+      {
+        "name": "Rookidee",
+        "id": 821
+      },
+      {
+        "name": "Corvisquire",
+        "id": 822
+      }
+    ]
+  }
+}

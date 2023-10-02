@@ -1,0 +1,47 @@
+{
+  "_id": 158,
+  "key": "hyper-fang",
+  "name": {
+    "english": "Hyper Fang",
+    "japanese": "ひっさつまえば",
+    "chinese": "必杀门牙",
+    "korean": "필살앞니",
+    "german": "Hipercolmillo",
+    "french": "Hyperzahn",
+    "italian": "Hyper Fang",
+    "spanish": "Iperzanna"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause flinching.",
+    "crystal": "An attack that may\ncause flinching.",
+    "ruby-sapphire": "Attacks with sharp fangs.\nMay cause flinching.",
+    "emerald": "Attacks with sharp fangs.\nMay cause flinching.",
+    "firered-leafgreen": "The foe is attacked\nwith sharp fangs.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.",
+    "platinum": "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "The user bites hard\non the foe with its\nsharp front fangs.\nIt may also make the\ntarget flinch.",
+    "black-white": "The user bites hard on the target\nwith its sharp front fangs.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user bites hard on the target\nwith its sharp front fangs.\nIt may also make the target flinch.",
+    "x-y": "The user bites hard on the target\nwith its sharp front fangs.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user bites hard on the target\nwith its sharp front fangs.\nThis may also make the target flinch.",
+    "sun-moon": "The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch.",
+    "ultra-sun-ultra-moon": "The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch.",
+    "sword-shield": "The user bites hard on the target with its sharp\nfront fangs. This may also make the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

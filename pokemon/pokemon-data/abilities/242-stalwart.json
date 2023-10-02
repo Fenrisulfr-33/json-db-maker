@@ -1,0 +1,21 @@
+{
+  "_id": 242,
+  "key": "stalwart",
+  "name": {
+    "english": "Stalwart"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Duraludon",
+        "id": 884
+      }
+    ]
+  }
+}

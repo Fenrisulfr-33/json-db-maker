@@ -1,0 +1,35 @@
+{
+  "_id": 671,
+  "key": "spotlight",
+  "name": {
+    "english": "Spotlight",
+    "japanese": "スポットライト",
+    "chinese": "聚光燈",
+    "korean": "스포트라이트",
+    "german": "Foco",
+    "french": "Rampenlicht",
+    "italian": "Spotlight",
+    "spanish": "Riflettore"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user shines a spotlight on the target so that\nonly the target will be attacked during the turn.",
+    "ultra-sun-ultra-moon": "The user shines a spotlight on the target so that\nonly the target will be attacked during the turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user shines a spotlight on the target so that\nonly the target will be attacked during the turn.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "For the duration of the turn, if the target is also a valid target for a move used by one of its opponents, that move will target it instead.",
+    "shortEffect": "Forces the target's opponents to aim at the target for the rest of the turn."
+  },
+  "priority": 3
+}

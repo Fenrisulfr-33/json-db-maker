@@ -1,0 +1,16 @@
+{
+  "_id": 259,
+  "key": "quick-draw",
+  "name": {
+    "english": "Quick Draw"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Enables the Pokémon to move first occasionally."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

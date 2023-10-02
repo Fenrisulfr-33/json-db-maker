@@ -1,0 +1,17 @@
+{
+  "_id": 892,
+  "key": "double-shock",
+  "name": {
+    "english": "Double Shock"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

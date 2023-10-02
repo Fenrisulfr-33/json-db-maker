@@ -1,0 +1,53 @@
+{
+  "_id": 36,
+  "key": "trace",
+  "name": {
+    "english": "Trace"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Copies an opponent's ability upon entering battle.",
+    "full": "When this Pokémon enters battle, it copies a random opponent's ability. This ability cannot copy flower gift, forecast, illusion, imposter, multitype, trace, wonder guard, or zen mode."
+  },
+  "description": {
+    "ruby-sapphire": "Copies special ability.",
+    "emerald": "Copies special ability.",
+    "firered-leafgreen": "Copies special ability.",
+    "diamond-pearl": "The Pokémon copies the foe’s ability.",
+    "platinum": "The Pokémon copies the foe’s ability.",
+    "heartgold-soulsilver": "The Pokémon copies the foe’s ability.",
+    "black-white": "The Pokémon copies a foe’s Ability.",
+    "black-2-white-2": "The Pokémon copies a foe’s Ability.",
+    "x-y": "The Pokémon copies an opposing Pokémon’s Ability.",
+    "omega-ruby-alpha-sapphire": "The Pokémon copies an opposing Pokémon’s Ability.",
+    "sun-moon": "When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability.",
+    "ultra-sun-ultra-moon": "When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability.",
+    "lets-go-pikachu-lets-go-eevee": "When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability.",
+    "sword-shield": "When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Porygon",
+        "id": 137
+      },
+      {
+        "name": "Porygon2",
+        "id": 233
+      },
+      {
+        "name": "Ralts",
+        "id": 280
+      },
+      {
+        "name": "Kirlia",
+        "id": 281
+      },
+      {
+        "name": "Gardevoir",
+        "id": 282
+      }
+    ],
+    "hidden": []
+  }
+}

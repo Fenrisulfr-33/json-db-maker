@@ -1,0 +1,53 @@
+{
+  "_id": 21,
+  "key": "suction-cups",
+  "name": {
+    "english": "Suction Cups"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents being forced out of battle by other Pokémon's moves.",
+    "full": "This Pokémon cannot be forced out of battle by moves such as whirlwind. dragon tail and circle throw still inflict damage against this Pokémon. Overworld: If the lead Pokémon has this ability, the success rate while fishing is increased."
+  },
+  "description": {
+    "ruby-sapphire": "Firmly anchors the body.",
+    "emerald": "Firmly anchors the body.",
+    "firered-leafgreen": "Firmly anchors the body.",
+    "diamond-pearl": "Negates moves that force switching out.",
+    "platinum": "Negates moves that force switching out.",
+    "heartgold-soulsilver": "Negates foes’ moves that force switching out.",
+    "black-white": "Negates all moves that force switching out.",
+    "black-2-white-2": "Negates all moves that force switching out.",
+    "x-y": "Negates all moves and items that force switching out.",
+    "omega-ruby-alpha-sapphire": "Negates all moves and items that force switching out.",
+    "sun-moon": "This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.",
+    "ultra-sun-ultra-moon": "This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.",
+    "lets-go-pikachu-lets-go-eevee": "This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.",
+    "sword-shield": "This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Octillery",
+        "id": 224
+      },
+      {
+        "name": "Lileep",
+        "id": 345
+      },
+      {
+        "name": "Cradily",
+        "id": 346
+      },
+      {
+        "name": "Inkay",
+        "id": 686
+      },
+      {
+        "name": "Malamar",
+        "id": 687
+      }
+    ],
+    "hidden": []
+  }
+}

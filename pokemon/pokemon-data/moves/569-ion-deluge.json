@@ -1,0 +1,37 @@
+{
+  "_id": 569,
+  "key": "ion-deluge",
+  "name": {
+    "english": "Ion Deluge",
+    "japanese": "プラズマシャワー",
+    "chinese": "电浆阵雨",
+    "korean": "플라스마샤워",
+    "german": "Cortina Plasma",
+    "french": "Plasmaschauer",
+    "italian": "Ion Deluge",
+    "spanish": "Pioggiaplasma"
+  },
+  "type": "Electric",
+  "category": "Status",
+  "contest": null,
+  "pp": 25,
+  "power": null,
+  "accuracy": 25,
+  "contact": null,
+  "generation": 6,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "x-y": "The user disperses electrically charged\nparticles, which changes Normal-type\nmoves to Electric-type moves.",
+    "omega-ruby-alpha-sapphire": "The user disperses electrically charged\nparticles, which changes Normal-type\nmoves to Electric-type moves.",
+    "sun-moon": "The user disperses electrically charged particles,\nwhich changes Normal-type moves to\nElectric-type moves.",
+    "ultra-sun-ultra-moon": "The user disperses electrically charged particles,\nwhich changes Normal-type moves to\nElectric-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "The user disperses electrically charged particles,\nwhich changes Normal-type moves to\nElectric-type moves.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Changes all Pokémon's normal moves to electric moves for the rest of the turn.",
+    "shortEffect": "Changes all normal moves to electric moves for the rest of the turn."
+  },
+  "priority": 1
+}

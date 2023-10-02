@@ -1,0 +1,45 @@
+{
+  "_id": 336,
+  "key": "howl",
+  "name": {
+    "english": "Howl",
+    "japanese": "とおぼえ",
+    "chinese": "长嚎",
+    "korean": "멀리짖음",
+    "german": "Aullido",
+    "french": "Jauler",
+    "italian": "Howl",
+    "spanish": "Gridodilotta"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 40,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user-and-allies",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Howls to raise the spirit\nand boosts ATTACK.",
+    "emerald": "Howls to raise the spirit\nand boosts ATTACK.",
+    "firered-leafgreen": "The user howls to\nraise its spirit and\nboost its ATTACK\nstat.",
+    "diamond-pearl": "The user howls loudly\nto raise its spirit,\nboosting its Attack\nstat.\n",
+    "platinum": "The user howls loudly\nto raise its spirit,\nboosting its Attack\nstat.\n",
+    "heartgold-soulsilver": "The user howls loudly\nto raise its spirit,\nboosting its Attack\nstat.\n",
+    "black-white": "The user howls loudly to raise its spirit,\nboosting its Attack stat.",
+    "black-2-white-2": "The user howls loudly to raise its spirit,\nboosting its Attack stat.",
+    "x-y": "The user howls loudly to raise its spirit,\nwhich raises its Attack stat.",
+    "omega-ruby-alpha-sapphire": "The user howls loudly to raise its spirit,\nwhich raises its Attack stat.",
+    "sun-moon": "The user howls loudly to raise its spirit, which raises\nits Attack stat.",
+    "ultra-sun-ultra-moon": "The user howls loudly to raise its spirit, which raises\nits Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user howls loudly to raise its spirit, which raises\nits Attack stat.",
+    "sword-shield": "The user howls loudly to raise the spirit of itself and\nallies. This raises their Attack stats."
+  },
+  "effect": {
+    "full": "Raises the user's Attack by one stage.",
+    "shortEffect": "Raises the user's Attack by one stage."
+  },
+  "priority": 0
+}

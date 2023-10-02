@@ -1,0 +1,47 @@
+{
+  "_id": 20,
+  "key": "bind",
+  "name": {
+    "english": "Bind",
+    "japanese": "しめつける",
+    "chinese": "绑紧",
+    "korean": "조이기",
+    "german": "Atadura",
+    "french": "Klammergriff",
+    "italian": "Bind",
+    "spanish": "Legatutto"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 15,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Binds the target\nfor 2-5 turns.",
+    "crystal": "Binds the target\nfor 2-5 turns.",
+    "ruby-sapphire": "Binds and squeezes the foe\nfor 2 to 5 turns.",
+    "emerald": "Binds and squeezes the foe\nfor 2 to 5 turns.",
+    "firered-leafgreen": "A long body or\ntentacles are used\nto bind the foe for\ntwo to five turns.",
+    "diamond-pearl": "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.",
+    "platinum": "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.",
+    "heartgold-soulsilver": "A long body or\ntentacles are used\nto bind and squeeze\nthe foe for two to\nfive turns.",
+    "black-white": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+    "black-2-white-2": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+    "x-y": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+    "omega-ruby-alpha-sapphire": "Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.",
+    "sun-moon": "Things such as long bodies or tentacles are used to\nbind and squeeze the target for four to five turns.",
+    "ultra-sun-ultra-moon": "Things such as long bodies or tentacles are used to\nbind and squeeze the target for four to five turns.",
+    "lets-go-pikachu-lets-go-eevee": "Things such as long bodies or tentacles are used to\nbind and squeeze the target for four to five turns.",
+    "sword-shield": "Things such as long bodies or tentacles are used to\nbind and squeeze the target for four to five turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+    "shortEffect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+  },
+  "priority": 0
+}

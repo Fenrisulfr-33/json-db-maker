@@ -1,0 +1,42 @@
+{
+  "_id": 413,
+  "key": "brave-bird",
+  "name": {
+    "english": "Brave Bird",
+    "japanese": "ブレイブバード",
+    "chinese": "神鸟特攻",
+    "korean": "브레이브버드",
+    "german": "Pájaro Osado",
+    "french": "Sturzflug",
+    "italian": "Brave Bird",
+    "spanish": "Baldeali"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user tucks in\nits wings and charges\nfrom a low altitude.\nThe user also takes\nserious damage.",
+    "platinum": "The user tucks in\nits wings and charges\nfrom a low altitude.\nThe user also takes\nserious damage.",
+    "heartgold-soulsilver": "The user tucks in\nits wings and charges\nfrom a low altitude.\nThe user also takes\nserious damage.",
+    "black-white": "The user tucks in its wings and charges\nfrom a low altitude.\nThe user also takes serious damage.",
+    "black-2-white-2": "The user tucks in its wings and charges\nfrom a low altitude.\nThe user also takes serious damage.",
+    "x-y": "The user tucks in its wings and charges\nfrom a low altitude.\nThis also damages the user quite a lot.",
+    "omega-ruby-alpha-sapphire": "The user tucks in its wings and charges\nfrom a low altitude.\nThis also damages the user quite a lot.",
+    "sun-moon": "The user tucks in its wings and charges from a low\naltitude. This also damages the user quite a lot.",
+    "ultra-sun-ultra-moon": "The user tucks in its wings and charges from a low\naltitude. This also damages the user quite a lot.",
+    "lets-go-pikachu-lets-go-eevee": "The user tucks in its wings and charges from a low\naltitude. This also damages the user quite a lot.",
+    "sword-shield": "The user tucks in its wings and charges from a low\naltitude. This also damages the user quite a lot."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/3 the damage inflicted in recoil."
+  },
+  "priority": 0
+}

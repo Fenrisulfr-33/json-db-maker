@@ -1,0 +1,42 @@
+{
+  "_id": 446,
+  "key": "stealth-rock",
+  "name": {
+    "english": "Stealth Rock",
+    "japanese": "ステルスロック",
+    "chinese": "隐形岩",
+    "korean": "스텔스록",
+    "german": "Trampa Rocas",
+    "french": "Tarnsteine",
+    "italian": "Stealth Rock",
+    "spanish": "Levitoroccia"
+  },
+  "type": "Rock",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "opponents-field",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.",
+    "platinum": "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.",
+    "heartgold-soulsilver": "The user lays a trap\nof levitating stones\naround the foe. The\ntrap hurts foes that\nswitch into battle.",
+    "black-white": "The user lays a trap of levitating stones\naround the opponent’s team. The trap\nhurts opponents that switch into battle.",
+    "black-2-white-2": "The user lays a trap of levitating stones\naround the opponent’s team. The trap\nhurts opponents that switch into battle.",
+    "x-y": "The user lays a trap of levitating stones\naround the opposing team. The trap hurts\nopposing Pokémon that switch into battle.",
+    "omega-ruby-alpha-sapphire": "The user lays a trap of levitating stones\naround the opposing team. The trap hurts\nopposing Pokémon that switch into battle.",
+    "sun-moon": "The user lays a trap of levitating stones around the\nopposing team. The trap hurts opposing Pokémon\nthat switch into battle.",
+    "ultra-sun-ultra-moon": "The user lays a trap of levitating stones around the\nopposing team. The trap hurts opposing Pokémon\nthat switch into battle.",
+    "lets-go-pikachu-lets-go-eevee": "The user lays a trap of levitating stones around the\nopposing team. The trap hurts opposing Pokémon\nthat switch into battle.",
+    "sword-shield": "The user lays a trap of levitating stones around the\nopposing team. The trap hurts opposing Pokémon\nthat switch into battle."
+  },
+  "effect": {
+    "full": "Spreads sharp rocks around the opposing field, damaging any Pokémon that enters the field for 1/8 its max HP.  This damage is affected by the entering Pokémon's susceptibility to rock moves.\n\nrapid spin removes this effect from its user's side of the field.",
+    "shortEffect": "Causes damage when opposing Pokémon switch in."
+  },
+  "priority": 0
+}

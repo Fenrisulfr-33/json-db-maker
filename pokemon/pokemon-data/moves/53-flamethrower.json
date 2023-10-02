@@ -1,0 +1,47 @@
+{
+  "_id": 53,
+  "key": "flamethrower",
+  "name": {
+    "english": "Flamethrower",
+    "japanese": "かえんほうしゃ",
+    "chinese": "喷射火焰",
+    "korean": "화염방사",
+    "german": "Lanzallamas",
+    "french": "Flammenwurf",
+    "italian": "Flamethrower",
+    "spanish": "Lanciafiamme"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ninflict a burn.",
+    "crystal": "An attack that may\ninflict a burn.",
+    "ruby-sapphire": "A powerful fire attack that\nmay inflict a burn.",
+    "emerald": "A powerful fire attack that\nmay inflict a burn.",
+    "firered-leafgreen": "The foe is scorched\nwith intense flames.\nThe foe may suffer\na burn.",
+    "diamond-pearl": "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.",
+    "platinum": "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.",
+    "heartgold-soulsilver": "The foe is scorched\nwith an intense blast\nof fire. The target\nmay also be left with\na burn.",
+    "black-white": "The target is scorched with an intense\nblast of fire. It may also leave the target\nwith a burn.",
+    "black-2-white-2": "The target is scorched with an intense\nblast of fire. It may also leave the target\nwith a burn.",
+    "x-y": "The target is scorched with an intense\nblast of fire. This may also leave the target\nwith a burn.",
+    "omega-ruby-alpha-sapphire": "The target is scorched with an intense\nblast of fire. This may also leave the target\nwith a burn.",
+    "sun-moon": "The target is scorched with an intense blast of fire.\nThis may also leave the target with a burn.",
+    "ultra-sun-ultra-moon": "The target is scorched with an intense blast of fire.\nThis may also leave the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is scorched with an intense blast of fire.\nThis may also leave the target with a burn.",
+    "sword-shield": "The target is scorched with an intense blast of fire.\nThis may also leave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

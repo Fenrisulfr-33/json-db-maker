@@ -1,0 +1,17 @@
+{
+  "_id": 840,
+  "key": "esper-wing",
+  "name": {
+    "english": "Esper Wing"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

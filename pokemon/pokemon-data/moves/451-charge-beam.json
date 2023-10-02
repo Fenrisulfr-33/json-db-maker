@@ -1,0 +1,42 @@
+{
+  "_id": 451,
+  "key": "charge-beam",
+  "name": {
+    "english": "Charge Beam",
+    "japanese": "チャージビーム",
+    "chinese": "充电光束",
+    "korean": "차지빔",
+    "german": "Rayo Carga",
+    "french": "Ladestrahl",
+    "italian": "Charge Beam",
+    "spanish": "Raggioscossa"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 50,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.",
+    "platinum": "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.",
+    "heartgold-soulsilver": "The user fires a\nconcentrated bundle\nof electricity. It may\nalso raise the user’s\nSp. Atk stat.",
+    "black-white": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+    "black-2-white-2": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+    "x-y": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.",
+    "sun-moon": "The user attacks with an electric charge. The user\nmay use any remaining electricity to raise its\nSp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user attacks with an electric charge. The user\nmay use any remaining electricity to raise its\nSp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with an electric charge. The user\nmay use any remaining electricity to raise its\nSp. Atk stat.",
+    "sword-shield": "The user attacks the target with an electric charge. The\nuser may use any remaining electricity to raise its\nSp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to raise the user's Special Attack by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to raise the user's Special Attack by one stage."
+  },
+  "priority": 0
+}

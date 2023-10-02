@@ -1,0 +1,37 @@
+{
+  "_id": 577,
+  "key": "draining-kiss",
+  "name": {
+    "english": "Draining Kiss",
+    "japanese": "ドレインキッス",
+    "chinese": "吸收之吻",
+    "korean": "드레인키스",
+    "german": "Beso Drenaje",
+    "french": "Diebeskuss",
+    "italian": "Draining Kiss",
+    "spanish": "Assorbibacio"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user steals the target’s energy with a kiss.\nThe user’s HP is restored by over half\nof the damage taken by the target.",
+    "omega-ruby-alpha-sapphire": "The user steals the target’s energy with a kiss.\nThe user’s HP is restored by over half\nof the damage taken by the target.",
+    "sun-moon": "The user steals the target’s HP with a kiss. The\nuser’s HP is restored by over half of the damage\ntaken by the target.",
+    "ultra-sun-ultra-moon": "The user steals the target’s HP with a kiss. The\nuser’s HP is restored by over half of the damage\ntaken by the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user steals the target’s HP with a kiss. The\nuser’s HP is restored by over half of the damage\ntaken by the target.",
+    "sword-shield": "The user steals the target’s HP with a kiss. The\nuser’s HP is restored by over half of the damage\ntaken by the target."
+  },
+  "effect": {
+    "full": "Deals regular damage.  Drains 75% of the damage inflicted to heal the user.",
+    "shortEffect": "Drains 75% of the damage inflicted to heal the user."
+  },
+  "priority": 0
+}

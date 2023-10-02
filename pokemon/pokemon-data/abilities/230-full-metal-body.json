@@ -1,0 +1,27 @@
+{
+  "_id": 230,
+  "key": "full-metal-body",
+  "name": {
+    "english": "Full Metal Body"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Other Pokémon cannot lower this Pokémon's stats.",
+    "full": "This Pokémon's stats cannot be lowered by other Pokémon's moves or abilities. This effect only applies to normal stat modifications and not more exotic effects such as topsy turvy or power swap. This Ability is not bypassed by mold breaker, teravolt, or turboblaze."
+  },
+  "description": {
+    "sun-moon": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.",
+    "ultra-sun-ultra-moon": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.",
+    "lets-go-pikachu-lets-go-eevee": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.",
+    "sword-shield": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Solgaleo",
+        "id": 791
+      }
+    ],
+    "hidden": []
+  }
+}

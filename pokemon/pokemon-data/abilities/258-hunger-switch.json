@@ -1,0 +1,16 @@
+{
+  "_id": 258,
+  "key": "hunger-switch",
+  "name": {
+    "english": "Hunger Switch"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

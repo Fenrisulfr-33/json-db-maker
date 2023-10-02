@@ -1,0 +1,31 @@
+{
+  "_id": 150,
+  "key": "imposter",
+  "name": {
+    "english": "Imposter"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Transforms upon entering battle.",
+    "full": "This Pokémon transforms into a random opponent upon entering battle. This effect is identical to the move transform."
+  },
+  "description": {
+    "black-white": "It transforms itself into the Pokémon it is facing.",
+    "black-2-white-2": "It transforms itself into the Pokémon it is facing.",
+    "x-y": "The Pokémon transforms itself into the Pokémon it’s facing.",
+    "omega-ruby-alpha-sapphire": "The Pokémon transforms itself into the Pokémon it’s facing.",
+    "sun-moon": "The Pokémon transforms itself into the Pokémon it’s facing.",
+    "ultra-sun-ultra-moon": "The Pokémon transforms itself into the Pokémon it’s facing.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon transforms itself into the Pokémon it’s facing.",
+    "sword-shield": "The Pokémon transforms itself into the Pokémon it’s facing."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Ditto",
+        "id": 132
+      }
+    ]
+  }
+}

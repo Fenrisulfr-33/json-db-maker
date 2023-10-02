@@ -1,0 +1,47 @@
+{
+  "_id": 77,
+  "key": "poison-powder",
+  "name": {
+    "english": "Poison Powder",
+    "japanese": "どくのこな",
+    "chinese": "毒粉末",
+    "korean": "독가루",
+    "german": "Polvo Veneno",
+    "french": "Giftpuder",
+    "italian": "Poison Powder",
+    "spanish": "Velenpolvere"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 35,
+  "power": null,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that may\npoison the foe.",
+    "crystal": "A move that may\npoison the foe.",
+    "ruby-sapphire": "Scatters a toxic powder\nthat may poison the foe.",
+    "emerald": "Scatters a toxic powder\nthat may poison the foe.",
+    "firered-leafgreen": "A cloud of toxic\ndust is scattered.\nIt may poison the\nfoe.",
+    "diamond-pearl": "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.",
+    "platinum": "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.",
+    "heartgold-soulsilver": "A cloud of poisonous\ndust is scattered on\nthe foe.\nIt may poison the\ntarget.",
+    "black-white": "The user scatters a cloud of poisonous\ndust on the target. It may poison\nthe target.",
+    "black-2-white-2": "The user scatters a cloud of poisonous\ndust on the target. It may poison\nthe target.",
+    "x-y": "The user scatters a cloud of poisonous\ndust on the target. This may also poison\nthe target.",
+    "omega-ruby-alpha-sapphire": "The user scatters a cloud of poisonous\ndust on the target. This may also poison\nthe target.",
+    "sun-moon": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+    "ultra-sun-ultra-moon": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user scatters a cloud of poisonous dust that\npoisons the target.",
+    "sword-shield": "The user scatters a cloud of poisonous dust that\npoisons the target."
+  },
+  "effect": {
+    "full": "Poisons the target.",
+    "shortEffect": "Poisons the target."
+  },
+  "priority": 0
+}

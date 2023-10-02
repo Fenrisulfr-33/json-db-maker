@@ -1,0 +1,39 @@
+{
+  "_id": 542,
+  "key": "hurricane",
+  "name": {
+    "english": "Hurricane",
+    "japanese": "ぼうふう",
+    "chinese": "暴风",
+    "korean": "폭풍",
+    "german": "Vendaval",
+    "french": "Orkan",
+    "italian": "Hurricane",
+    "spanish": "Tifone"
+  },
+  "type": "Flying",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 120,
+  "accuracy": 70,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by wrapping its opponent\nin a fierce wind that flies up into the sky.\nIt may also confuse the target.",
+    "black-2-white-2": "The user attacks by wrapping its opponent\nin a fierce wind that flies up into the sky.\nIt may also confuse the target.",
+    "x-y": "The user attacks by wrapping its opponent\nin a fierce wind that flies up into the sky.\nThis may also confuse the target.",
+    "omega-ruby-alpha-sapphire": "The user attacks by wrapping its opponent\nin a fierce wind that flies up into the sky.\nThis may also confuse the target.",
+    "sun-moon": "The user attacks by wrapping its opponent in a\nfierce wind that flies up into the sky. This may also\nconfuse the target.",
+    "ultra-sun-ultra-moon": "The user attacks by wrapping its opponent in a\nfierce wind that flies up into the sky. This may also\nconfuse the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by wrapping its opponent in a\nfierce wind that flies up into the sky. This may also\nconfuse the target.",
+    "sword-shield": "The user attacks by wrapping its opponent in a\nfierce wind that flies up into the sky. This may also\nconfuse the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.\n\nThis move can hit Pokémon under the effect of bounce, fly, or sky drop.\n\nDuring rain dance, this move has 100% accuracy.  During sunny day, this move has 50% accuracy.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

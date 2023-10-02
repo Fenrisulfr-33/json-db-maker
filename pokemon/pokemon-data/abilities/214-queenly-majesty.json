@@ -1,0 +1,27 @@
+{
+  "_id": 214,
+  "key": "queenly-majesty",
+  "name": {
+    "english": "Queenly Majesty"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Opposing Pokémon cannot use priority attacks.",
+    "full": "When an opposing Pokémon attempts to use a move that targets this Pokémon or an ally, and that move has priority, it will fail."
+  },
+  "description": {
+    "sun-moon": "Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves.",
+    "ultra-sun-ultra-moon": "Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves.",
+    "lets-go-pikachu-lets-go-eevee": "Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves.",
+    "sword-shield": "Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tsareena",
+        "id": 763
+      }
+    ],
+    "hidden": []
+  }
+}

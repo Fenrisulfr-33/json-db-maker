@@ -1,0 +1,29 @@
+{
+  "_id": 753,
+  "key": "octolock",
+  "name": {
+    "english": "Octolock",
+    "japanese": "たこがため",
+    "chinese": "蛸固",
+    "korean": "문어굳히기",
+    "german": "Octopresa",
+    "french": "Octoklammer",
+    "italian": "Octolock",
+    "spanish": "Tentacolock"
+  },
+  "type": "Fighting",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user locks the target in and prevents it from\nfleeing. This move also lowers the target’s Defense\nand Sp. Def every turn."
+  },
+  "effect": {},
+  "priority": 0
+}

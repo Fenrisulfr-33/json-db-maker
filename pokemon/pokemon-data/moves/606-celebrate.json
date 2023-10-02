@@ -1,0 +1,37 @@
+{
+  "_id": 606,
+  "key": "celebrate",
+  "name": {
+    "english": "Celebrate",
+    "japanese": "おいわい",
+    "chinese": "慶祝",
+    "korean": "축하",
+    "german": "Celebración",
+    "french": "Ehrentag",
+    "italian": "Celebrate",
+    "spanish": "Auguri"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 40,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 6,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "x-y": "The Pokémon congratulates\nyou on your special day!",
+    "omega-ruby-alpha-sapphire": "The Pokémon congratulates\nyou on your special day!",
+    "sun-moon": "The Pokémon congratulates you on your special day!",
+    "ultra-sun-ultra-moon": "The Pokémon congratulates you on your special day!",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon congratulates you on your special day!",
+    "sword-shield": "The Pokémon congratulates you on your special day!"
+  },
+  "effect": {
+    "full": "Does nothing.",
+    "shortEffect": "Does nothing."
+  },
+  "priority": 0
+}

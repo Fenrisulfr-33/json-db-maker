@@ -1,0 +1,47 @@
+{
+  "_id": 80,
+  "key": "petal-dance",
+  "name": {
+    "english": "Petal Dance",
+    "japanese": "はなびらのまい",
+    "chinese": "花之舞",
+    "korean": "꽃잎댄스",
+    "german": "Danza Pétalo",
+    "french": "Blättertanz",
+    "italian": "Petal Dance",
+    "spanish": "Petalodanza"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "random-opponent",
+  "changes": [],
+  "description": {
+    "gold-silver": "Works 2-3 turns\nand confuses user.",
+    "crystal": "Works 2-3 turns\nand confuses user.",
+    "ruby-sapphire": "A rampage of 2 to 3 turns\nthat confuses the user.",
+    "emerald": "A rampage of 2 to 3 turns\nthat confuses the user.",
+    "firered-leafgreen": "The user attacks\nwith petals for two\nto three turns,\nthen gets confused.",
+    "diamond-pearl": "The user attacks by\nscattering petals for\ntwo to three turns.\nThe user then\nbecomes confused.",
+    "platinum": "The user attacks by\nscattering petals for\ntwo to three turns.\nThe user then\nbecomes confused.",
+    "heartgold-soulsilver": "The user attacks by\nscattering petals for\ntwo to three turns.\nThe user then\nbecomes confused.",
+    "black-white": "The user attacks the target by scattering\npetals for two to three turns.\nThe user then becomes confused.",
+    "black-2-white-2": "The user attacks the target by scattering\npetals for two to three turns.\nThe user then becomes confused.",
+    "x-y": "The user attacks the target by scattering\npetals for two to three turns.\nThe user then becomes confused.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target by scattering\npetals for two to three turns.\nThe user then becomes confused.",
+    "sun-moon": "The user attacks the target by scattering petals for\ntwo to three turns. The user then becomes confused.",
+    "ultra-sun-ultra-moon": "The user attacks the target by scattering petals for\ntwo to three turns. The user then becomes confused.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target by scattering petals for\ntwo to three turns. The user then becomes confused.",
+    "sword-shield": "The user attacks the target by scattering petals for\ntwo to three turns. The user then becomes confused."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+    "shortEffect": "Hits every turn for 2-3 turns, then confuses the user."
+  },
+  "priority": 0
+}

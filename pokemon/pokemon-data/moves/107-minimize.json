@@ -1,0 +1,47 @@
+{
+  "_id": 107,
+  "key": "minimize",
+  "name": {
+    "english": "Minimize",
+    "japanese": "ちいさくなる",
+    "chinese": "缩小",
+    "korean": "작아지기",
+    "german": "Reducción",
+    "french": "Komprimator",
+    "italian": "Minimize",
+    "spanish": "Minimizzato"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Heightens evasive­\nness.",
+    "crystal": "Heightens evasive­\nness.",
+    "ruby-sapphire": "Minimizes the user’s size\nto raise evasiveness.",
+    "emerald": "Minimizes the user’s size\nto raise evasiveness.",
+    "firered-leafgreen": "The user compresses\nall the cells in its\nbody to raise its\nevasiveness.",
+    "diamond-pearl": "The user compresses\nits body to make\nitself look smaller.\nThe user’s evasion\nstat is boosted.",
+    "platinum": "The user compresses\nits body to make\nitself look smaller.\nThe user’s evasion\nstat is boosted.",
+    "heartgold-soulsilver": "The user compresses\nits body to make\nitself look smaller.\nThe user’s evasion\nstat is boosted.",
+    "black-white": "The user compresses its body\nto make itself look smaller,\nwhich sharply raises its evasiveness.",
+    "black-2-white-2": "The user compresses its body\nto make itself look smaller,\nwhich sharply raises its evasiveness.",
+    "x-y": "The user compresses its body\nto make itself look smaller,\nwhich sharply raises its evasiveness.",
+    "omega-ruby-alpha-sapphire": "The user compresses its body\nto make itself look smaller,\nwhich sharply raises its evasiveness.",
+    "sun-moon": "The user compresses its body to make itself look\nsmaller, which sharply raises its evasiveness.",
+    "ultra-sun-ultra-moon": "The user compresses its body to make itself look\nsmaller, which sharply raises its evasiveness.",
+    "lets-go-pikachu-lets-go-eevee": "The user compresses its body to make itself look\nsmaller, which sharply raises its evasiveness.",
+    "sword-shield": "The user compresses its body to make itself look\nsmaller, which sharply raises its evasiveness."
+  },
+  "effect": {
+    "full": "Raises the user's evasion by two stages.\n\nstomp and steamroller have double power against Pokémon that have used this move since entering the field.",
+    "shortEffect": "Raises the user's evasion by two stages."
+  },
+  "priority": 0
+}

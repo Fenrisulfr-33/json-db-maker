@@ -1,0 +1,31 @@
+{
+  "_id": 199,
+  "key": "water-bubble",
+  "name": {
+    "english": "Water Bubble"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Halves damage from Fire moves, doubles damage of Water moves, and prevents burns.",
+    "full": "When this Pokémon is hit by a Fire move, the damage is halved. When this Pokémon uses a Water move, the power is doubled. This Pokémon cannot be burned, and if it becomes burned, the burn is immediately cured."
+  },
+  "description": {
+    "sun-moon": "Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.",
+    "ultra-sun-ultra-moon": "Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.",
+    "lets-go-pikachu-lets-go-eevee": "Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.",
+    "sword-shield": "Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Dewpider",
+        "id": 751
+      },
+      {
+        "name": "Araquanid",
+        "id": 752
+      }
+    ],
+    "hidden": []
+  }
+}

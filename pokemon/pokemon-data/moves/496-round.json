@@ -1,0 +1,39 @@
+{
+  "_id": 496,
+  "key": "round",
+  "name": {
+    "english": "Round",
+    "japanese": "りんしょう",
+    "chinese": "轮唱",
+    "korean": "돌림노래",
+    "german": "Canon",
+    "french": "Kanon",
+    "italian": "Round",
+    "spanish": "Coro"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+    "black-2-white-2": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+    "x-y": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.",
+    "sun-moon": "The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack.",
+    "ultra-sun-ultra-moon": "The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack.",
+    "sword-shield": "The user attacks the target with a song. Others can\njoin in the Round to increase the power of\nthe attack."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If round has already been used this turn, this move's power is doubled.  After this move is used, any other Pokémon using it this turn will immediately do so (in the order they would otherwise act), regardless of Speed or priority.  Pokémon using other moves will then continue to act as usual.",
+    "shortEffect": "Has double power if it's used more than once per turn."
+  },
+  "priority": 0
+}

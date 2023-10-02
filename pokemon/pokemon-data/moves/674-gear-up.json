@@ -1,0 +1,35 @@
+{
+  "_id": 674,
+  "key": "gear-up",
+  "name": {
+    "english": "Gear Up",
+    "japanese": "アシストギア",
+    "chinese": "輔助齒輪",
+    "korean": "어시스트기어",
+    "german": "Piñón Auxiliar",
+    "french": "Hilfsmechanik",
+    "italian": "Gear Up",
+    "spanish": "Marciainpiù"
+  },
+  "type": "Steel",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "user-and-allies",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user engages its gears to raise the Attack and\nSp. Atk stats of ally Pokémon with the Plus or\nMinus Ability.",
+    "ultra-sun-ultra-moon": "The user engages its gears to raise the Attack and\nSp. Atk stats of ally Pokémon with the Plus or\nMinus Ability.",
+    "lets-go-pikachu-lets-go-eevee": "The user engages its gears to raise the Attack and\nSp. Atk stats of ally Pokémon with the Plus or\nMinus Ability.",
+    "sword-shield": "The user engages its gears to raise the Attack and\nSp. Atk stats of ally Pokémon with the Plus or\nMinus Ability."
+  },
+  "effect": {
+    "full": "Raises the Attack and Special Attack of all friendly Pokémon with plus or minus by one stage.",
+    "shortEffect": "Raises the Attack and Special Attack of all friendly Pokémon with plus or minus by one stage."
+  },
+  "priority": 0
+}

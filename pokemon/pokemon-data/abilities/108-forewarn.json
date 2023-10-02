@@ -1,0 +1,54 @@
+{
+  "_id": 108,
+  "key": "forewarn",
+  "name": {
+    "english": "Forewarn"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Reveals the opponents' strongest move upon entering battle.",
+    "full": "When this Pokémon enters battle, it reveals the move with the highest base power known by any opposing Pokémon to all participating trainers. In the event of a tie, one is chosen at random. Moves without a listed base power are assigned one as follows: Power | Moves ----: | -----  160 | One-hit KO moves: fissure, guillotine, horn drill, and sheer cold  120 | Counter moves: counter, metal burst, and mirror coat  80 | Variable power or set damage: crush grip, dragon rage, electro ball, endeavor, final gambit, flail, frustration, grass knot, gyro ball, heat crash, heavy slam, hidden power, low kick, natural gift, night shade, psywave, return, reversal, seismic toss, sonic boom, trump card, and wring out   0 | Any such move not listed "
+  },
+  "description": {
+    "diamond-pearl": "Determines what moves the foe has.",
+    "platinum": "Determines what moves the foe has.",
+    "heartgold-soulsilver": "Determines what moves the foe has.",
+    "black-white": "Determines what moves a foe has.",
+    "black-2-white-2": "Determines what moves a foe has.",
+    "x-y": "Determines what moves an opposing Pokémon has.",
+    "omega-ruby-alpha-sapphire": "Determines what moves an opposing Pokémon has.",
+    "sun-moon": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",
+    "ultra-sun-ultra-moon": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",
+    "lets-go-pikachu-lets-go-eevee": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",
+    "sword-shield": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Drowzee",
+        "id": 96
+      },
+      {
+        "name": "Hypno",
+        "id": 97
+      },
+      {
+        "name": "Jynx",
+        "id": 124
+      },
+      {
+        "name": "Smoochum",
+        "id": 238
+      },
+      {
+        "name": "Munna",
+        "id": 517
+      },
+      {
+        "name": "Musharna",
+        "id": 518
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "_id": 67,
+  "key": "torrent",
+  "name": {
+    "english": "Torrent"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Strengthens water moves to inflict 1.5× damage at 1/3 max HP or less.",
+    "full": "When this Pokémon has 1/3 or less of its HP remaining, its water-type moves inflict 1.5× as much regular damage."
+  },
+  "description": {
+    "ruby-sapphire": "Ups WATER moves in a pinch.",
+    "emerald": "Ups WATER moves in a pinch.",
+    "firered-leafgreen": "Ups WATER moves in a pinch.",
+    "diamond-pearl": "Powers up Water-type moves in a pinch.",
+    "platinum": "Powers up Water-type moves in a pinch.",
+    "heartgold-soulsilver": "Powers up Water-type moves in a pinch.",
+    "black-white": "Powers up Water-type moves in a pinch.",
+    "black-2-white-2": "Powers up Water-type moves in a pinch.",
+    "x-y": "Powers up Water-type moves when the Pokémon is in trouble.",
+    "omega-ruby-alpha-sapphire": "Powers up Water-type moves when the Pokémon is in trouble.",
+    "sun-moon": "Powers up Water-type moves when the Pokémon’s HP is low.",
+    "ultra-sun-ultra-moon": "Powers up Water-type moves when the Pokémon’s HP is low.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up Water-type moves when the Pokémon’s HP is low.",
+    "sword-shield": "Powers up Water-type moves when the Pokémon’s HP is low."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Squirtle",
+        "id": 7
+      },
+      {
+        "name": "Wartortle",
+        "id": 8
+      },
+      {
+        "name": "Blastoise",
+        "id": 9
+      },
+      {
+        "name": "Totodile",
+        "id": 158
+      },
+      {
+        "name": "Croconaw",
+        "id": 159
+      },
+      {
+        "name": "Feraligatr",
+        "id": 160
+      },
+      {
+        "name": "Mudkip",
+        "id": 258
+      },
+      {
+        "name": "Marshtomp",
+        "id": 259
+      },
+      {
+        "name": "Swampert",
+        "id": 260
+      },
+      {
+        "name": "Piplup",
+        "id": 393
+      },
+      {
+        "name": "Prinplup",
+        "id": 394
+      },
+      {
+        "name": "Empoleon",
+        "id": 395
+      },
+      {
+        "name": "Oshawott",
+        "id": 501
+      },
+      {
+        "name": "Dewott",
+        "id": 502
+      },
+      {
+        "name": "Samurott",
+        "id": 503
+      },
+      {
+        "name": "Froakie",
+        "id": 656
+      },
+      {
+        "name": "Frogadier",
+        "id": 657
+      },
+      {
+        "name": "Greninja",
+        "id": 658
+      },
+      {
+        "name": "Popplio",
+        "id": 728
+      },
+      {
+        "name": "Brionne",
+        "id": 729
+      },
+      {
+        "name": "Primarina",
+        "id": 730
+      },
+      {
+        "name": "Sobble",
+        "id": 816
+      },
+      {
+        "name": "Drizzile",
+        "id": 817
+      },
+      {
+        "name": "Inteleon",
+        "id": 818
+      },
+      {
+        "name": "Quaxly",
+        "id": 912
+      },
+      {
+        "name": "Quaxwell",
+        "id": 913
+      },
+      {
+        "name": "Quaquaval",
+        "id": 914
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Panpour",
+        "id": 515
+      },
+      {
+        "name": "Simipour",
+        "id": 516
+      }
+    ]
+  }
+}

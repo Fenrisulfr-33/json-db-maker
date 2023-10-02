@@ -1,0 +1,47 @@
+{
+  "_id": 76,
+  "key": "solar-beam",
+  "name": {
+    "english": "Solar Beam",
+    "japanese": "ソーラービーム",
+    "chinese": "阳光烈焰",
+    "korean": "솔라빔",
+    "german": "Rayo Solar",
+    "french": "Solarstrahl",
+    "italian": "Solar Beam",
+    "spanish": "Solarraggio"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "1st turn: Prepare\n2nd turn: Attack",
+    "crystal": "1st turn: Prepare\n2nd turn: Attack",
+    "ruby-sapphire": "Absorbs light in one turn,\nthen attacks next turn.",
+    "emerald": "Absorbs light in one turn,\nthen attacks next turn.",
+    "firered-leafgreen": "A 2-turn move that\nblasts the foe with\nabsorbed energy in\nthe 2nd turn.",
+    "diamond-pearl": "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.",
+    "platinum": "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.",
+    "heartgold-soulsilver": "A two-turn attack.\nThe user gathers\nlight, then blasts a\nbundled beam on the\nsecond turn.",
+    "black-white": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nsecond turn.",
+    "black-2-white-2": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nsecond turn.",
+    "x-y": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nnext turn.",
+    "omega-ruby-alpha-sapphire": "A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nnext turn.",
+    "sun-moon": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.",
+    "ultra-sun-ultra-moon": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn.",
+    "sword-shield": "In this two-turn attack, the user gathers light, then\nblasts a bundled beam on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "Requires a turn to charge before attacking."
+  },
+  "priority": 0
+}

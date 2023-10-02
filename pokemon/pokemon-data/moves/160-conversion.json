@@ -1,0 +1,47 @@
+{
+  "_id": 160,
+  "key": "conversion",
+  "name": {
+    "english": "Conversion",
+    "japanese": "テクスチャー",
+    "chinese": "变性",
+    "korean": "텍스처",
+    "german": "Conversión",
+    "french": "Umwandlung",
+    "italian": "Conversion",
+    "spanish": "Conversione"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Change user's type\nto a move's type.",
+    "crystal": "Change user's type\nto a move's type.",
+    "ruby-sapphire": "Changes the user’s type\ninto an own move’s type.",
+    "emerald": "Changes the user’s type\ninto a known move’s type.",
+    "firered-leafgreen": "The user changes\nits type to match\nthe type of one of\nits moves.",
+    "diamond-pearl": "The user changes its\ntype to become the\nsame type as one of\nits moves.\n",
+    "platinum": "The user changes its\ntype to become the\nsame type as one of\nits moves.\n",
+    "heartgold-soulsilver": "The user changes its\ntype to become the\nsame type as one of\nits moves.\n",
+    "black-white": "The user changes its type to become the\nsame type as one of its moves.",
+    "black-2-white-2": "The user changes its type to become the\nsame type as one of its moves.",
+    "x-y": "The user changes its type to become the\nsame type as the move at the top of the\nlist of moves it knows.",
+    "omega-ruby-alpha-sapphire": "The user changes its type to become the\nsame type as the move at the top of the\nlist of moves it knows.",
+    "sun-moon": "The user changes its type to become the same type\nas the move at the top of the list of moves it knows.",
+    "ultra-sun-ultra-moon": "The user changes its type to become the same type\nas the move at the top of the list of moves it knows.",
+    "lets-go-pikachu-lets-go-eevee": "The user changes its type to become the same type\nas the move at the top of the list of moves it knows.",
+    "sword-shield": "The user changes its type to become the same type\nas the move at the top of the list of moves it knows."
+  },
+  "effect": {
+    "full": "User's type changes to the type of one of its moves, selected at random.  hidden power and weather ball are treated as normal.  Only moves with a different type are eligible, and curse is never eligible.  If the user has no suitable moves, this move will fail.",
+    "shortEffect": "User's type changes to the type of one of its moves at random."
+  },
+  "priority": 0
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 534,
+  "key": "razor-shell",
+  "name": {
+    "english": "Razor Shell",
+    "japanese": "シェルブレード",
+    "chinese": "贝壳刀",
+    "korean": "셸블레이드",
+    "german": "Concha Filo",
+    "french": "Kalkklinge",
+    "italian": "Razor Shell",
+    "spanish": "Conchilama"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 75,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user cuts its target with sharp\nshells. This attack may also lower the\ntarget’s Defense stat.",
+    "black-2-white-2": "The user cuts its target with sharp\nshells. This attack may also lower the\ntarget’s Defense stat.",
+    "x-y": "The user cuts its target with sharp\nshells. This may also lower\nthe target’s Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user cuts its target with sharp\nshells. This may also lower\nthe target’s Defense stat.",
+    "sun-moon": "The user cuts its target with sharp shells. This may\nalso lower the target’s Defense stat.",
+    "ultra-sun-ultra-moon": "The user cuts its target with sharp shells. This may\nalso lower the target’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user cuts its target with sharp shells. This may\nalso lower the target’s Defense stat.",
+    "sword-shield": "The user cuts its target with sharp shells. This may\nalso lower the target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,17 @@
+{
+  "_id": 889,
+  "key": "rage-fist",
+  "name": {
+    "english": "Rage Fist"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

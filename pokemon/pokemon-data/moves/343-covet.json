@@ -1,0 +1,45 @@
+{
+  "_id": 343,
+  "key": "covet",
+  "name": {
+    "english": "Covet",
+    "japanese": "ほしがる",
+    "chinese": "渴望",
+    "korean": "탐내다",
+    "german": "Antojo",
+    "french": "Bezirzer",
+    "italian": "Covet",
+    "spanish": "Supplica"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 40,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Cutely begs to obtain an\nitem held by the foe.",
+    "emerald": "Cutely begs to obtain an\nitem held by the foe.",
+    "firered-leafgreen": "A cutely executed\nattack that also\nsteals the foe’s\nhold item.",
+    "diamond-pearl": "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n",
+    "platinum": "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n",
+    "heartgold-soulsilver": "The user endearingly\napproaches the foe,\nthen steals the item\nthe foe is holding.\n",
+    "black-white": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+    "black-2-white-2": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+    "x-y": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+    "omega-ruby-alpha-sapphire": "The user endearingly approaches\nthe target, then steals the target’s\nheld item.",
+    "sun-moon": "The user endearingly approaches the target, then\nsteals the target’s held item.",
+    "ultra-sun-ultra-moon": "The user endearingly approaches the target, then\nsteals the target’s held item.",
+    "lets-go-pikachu-lets-go-eevee": "The user endearingly approaches the target, then\nsteals the target’s held item.",
+    "sword-shield": "The user endearingly approaches the target, then\nsteals the target’s held item."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPokémon with sticky hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+    "shortEffect": "Takes the target's item."
+  },
+  "priority": 0
+}

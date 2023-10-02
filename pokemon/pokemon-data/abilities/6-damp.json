@@ -1,0 +1,114 @@
+{
+  "_id": 6,
+  "key": "damp",
+  "name": {
+    "english": "Damp"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents self destruct, explosion, and aftermath from working while the Pokémon is in battle.",
+    "full": "While this Pokémon is in battle, self destruct and explosion will fail and aftermath will not take effect."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents self-destruction.",
+    "emerald": "Prevents self-destruction.",
+    "firered-leafgreen": "Prevents self-destruction.",
+    "diamond-pearl": "Prevents combatants from self destructing.",
+    "platinum": "Prevents combatants from self destructing.",
+    "heartgold-soulsilver": "Prevents combatants from self-destructing.",
+    "black-white": "Prevents the use of self-destructing moves.",
+    "black-2-white-2": "Prevents the use of self-destructing moves.",
+    "x-y": "Prevents the use of self-destructing moves.",
+    "omega-ruby-alpha-sapphire": "Prevents the use of self-destructing moves.",
+    "sun-moon": "Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.",
+    "ultra-sun-ultra-moon": "Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.",
+    "lets-go-pikachu-lets-go-eevee": "Prevents the use of explosive moves, such as Self-Destruct, by dampening its surroundings.",
+    "sword-shield": "Prevents the use of explosive moves, such as Self-Destruct, by dampening its surroundings."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Psyduck",
+        "id": 54
+      },
+      {
+        "name": "Golduck",
+        "id": 55
+      },
+      {
+        "name": "Poliwag",
+        "id": 60
+      },
+      {
+        "name": "Poliwhirl",
+        "id": 61
+      },
+      {
+        "name": "Poliwrath",
+        "id": 62
+      },
+      {
+        "name": "Politoed",
+        "id": 186
+      },
+      {
+        "name": "Wooper",
+        "id": 194
+      },
+      {
+        "name": "Quagsire",
+        "id": 195
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Paras",
+        "id": 46
+      },
+      {
+        "name": "Parasect",
+        "id": 47
+      },
+      {
+        "name": "Horsea",
+        "id": 116
+      },
+      {
+        "name": "Seadra",
+        "id": 117
+      },
+      {
+        "name": "Kingdra",
+        "id": 230
+      },
+      {
+        "name": "Mudkip",
+        "id": 258
+      },
+      {
+        "name": "Marshtomp",
+        "id": 259
+      },
+      {
+        "name": "Swampert",
+        "id": 260
+      },
+      {
+        "name": "Frillish",
+        "id": 592
+      },
+      {
+        "name": "Jellicent",
+        "id": 593
+      },
+      {
+        "name": "Tadbulb",
+        "id": 938
+      },
+      {
+        "name": "Bellibolt",
+        "id": 939
+      }
+    ]
+  }
+}

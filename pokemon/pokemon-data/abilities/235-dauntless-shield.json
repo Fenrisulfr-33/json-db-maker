@@ -1,0 +1,21 @@
+{
+  "_id": 235,
+  "key": "dauntless-shield",
+  "name": {
+    "english": "Dauntless Shield"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Boosts the Pokémon’s Defense stat when the Pokémon enters a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Zamazenta",
+        "id": 889
+      }
+    ],
+    "hidden": []
+  }
+}

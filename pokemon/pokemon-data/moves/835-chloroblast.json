@@ -1,0 +1,17 @@
+{
+  "_id": 835,
+  "key": "chloroblast",
+  "name": {
+    "english": "Chloroblast"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 150,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

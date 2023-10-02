@@ -1,0 +1,17 @@
+{
+  "_id": 836,
+  "key": "mountain-gale",
+  "name": {
+    "english": "Mountain Gale"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

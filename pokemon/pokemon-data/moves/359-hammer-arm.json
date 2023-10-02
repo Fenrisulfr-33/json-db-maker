@@ -1,0 +1,42 @@
+{
+  "_id": 359,
+  "key": "hammer-arm",
+  "name": {
+    "english": "Hammer Arm",
+    "japanese": "アームハンマー",
+    "chinese": "臂力拳",
+    "korean": "암해머",
+    "german": "Machada",
+    "french": "Hammerarm",
+    "italian": "Hammer Arm",
+    "spanish": "Martelpugno"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 100,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user swings and\nhits with its strong\nand heavy fist.\nIt lowers the user’s\nSpeed, however.",
+    "platinum": "The user swings and\nhits with its strong\nand heavy fist.\nIt lowers the user’s\nSpeed, however.",
+    "heartgold-soulsilver": "The user swings and\nhits with its strong\nand heavy fist.\nIt lowers the user’s\nSpeed, however.",
+    "black-white": "The user swings and hits with its strong\nand heavy fist.\nIt lowers the user’s Speed, however.",
+    "black-2-white-2": "The user swings and hits with its strong\nand heavy fist.\nIt lowers the user’s Speed, however.",
+    "x-y": "The user swings and hits with its strong\nand heavy fist.\nIt lowers the user’s Speed, however.",
+    "omega-ruby-alpha-sapphire": "The user swings and hits with its strong\nand heavy fist.\nIt lowers the user’s Speed, however.",
+    "sun-moon": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+    "ultra-sun-ultra-moon": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+    "lets-go-pikachu-lets-go-eevee": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+    "sword-shield": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Speed by one stage.",
+    "shortEffect": "Lowers user's Speed by one stage."
+  },
+  "priority": 0
+}

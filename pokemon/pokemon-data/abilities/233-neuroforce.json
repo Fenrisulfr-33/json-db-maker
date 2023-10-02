@@ -1,0 +1,21 @@
+{
+  "_id": 233,
+  "key": "neuroforce",
+  "name": {
+    "english": "Neuroforce"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Increases super-effective damage dealt to 1.25×.",
+    "full": "Increases super-effective damage dealt to 1.25×."
+  },
+  "description": {
+    "ultra-sun-ultra-moon": "Powers up moves that are super effective.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up moves that are super effective.",
+    "sword-shield": "Powers up moves that are super effective."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

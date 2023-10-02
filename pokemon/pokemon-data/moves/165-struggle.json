@@ -1,0 +1,47 @@
+{
+  "_id": 165,
+  "key": "struggle",
+  "name": {
+    "english": "Struggle",
+    "japanese": "わるあがき",
+    "chinese": "挣扎",
+    "korean": "발버둥",
+    "german": "Forcejeo",
+    "french": "Verzweifler",
+    "italian": "Struggle",
+    "spanish": "Scontro"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": null,
+  "power": 50,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "random-opponent",
+  "changes": [],
+  "description": {
+    "gold-silver": "Used only if all\nPP are exhausted.",
+    "crystal": "Used only if all\nPP are exhausted.",
+    "ruby-sapphire": "Used only if all PP are gone.\nAlso hurts the user a little.",
+    "emerald": "Used only if all PP are gone.\nAlso hurts the user a little.",
+    "firered-leafgreen": "An attack that is\nused only if there\nis no PP. It also\nhurts the user.",
+    "diamond-pearl": "An attack that is\nused in desperation\nonly if the user has\nno PP. It also hurts\nthe user slightly.",
+    "platinum": "An attack that is\nused in desperation\nonly if the user has\nno PP. It also hurts\nthe user slightly.",
+    "heartgold-soulsilver": "An attack that is\nused in desperation\nonly if the user has\nno PP. It also hurts\nthe user slightly.",
+    "black-white": "An attack that is used in desperation\nonly if the user has no PP. It also hurts\nthe user slightly.",
+    "black-2-white-2": "An attack that is used in desperation\nonly if the user has no PP. It also hurts\nthe user slightly.",
+    "x-y": "An attack that is used in desperation\nonly if the user has no PP. This also\ndamages the user a little.",
+    "omega-ruby-alpha-sapphire": "An attack that is used in desperation\nonly if the user has no PP. This also\ndamages the user a little.",
+    "sun-moon": "This attack is used in desperation only if the user\nhas no PP. It also damages the user a little.",
+    "ultra-sun-ultra-moon": "This attack is used in desperation only if the user\nhas no PP. It also damages the user a little.",
+    "lets-go-pikachu-lets-go-eevee": "This attack is used in desperation only if the user\nhas no PP. It also damages the user a little.",
+    "sword-shield": "This attack is used in desperation only if the user\nhas no PP. It also damages the user a little."
+  },
+  "effect": {
+    "full": "Inflicts typeless regular damage.  User takes 1/4 its max HP in recoil.  Ignores accuracy and evasion modifiers.\n\nThis move is used automatically when a Pokémon cannot use any other move legally, e.g., due to having no PP remaining or being under the effect of both encore and torment at the same time.\n\nThis move's recoil is not treated as recoil for the purposes of anything that affects recoil, such as the ability rock head.  It also is not prevented by magic guard.\n\nThis move cannot be copied by mimic, mirror move, or sketch, nor selected by assist or metronome, nor forced by encore.",
+    "shortEffect": "User takes 1/4 its max HP in recoil."
+  },
+  "priority": 0
+}

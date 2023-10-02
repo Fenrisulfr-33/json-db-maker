@@ -1,0 +1,42 @@
+{
+  "_id": 395,
+  "key": "force-palm",
+  "name": {
+    "english": "Force Palm",
+    "japanese": "はっけい",
+    "chinese": "发劲",
+    "korean": "발경",
+    "german": "Palmeo",
+    "french": "Kraftwelle",
+    "italian": "Force Palm",
+    "spanish": "Palmoforza"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n",
+    "platinum": "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n",
+    "heartgold-soulsilver": "The foe is attacked\nwith a shock wave.\nIt may also leave the\ntarget paralyzed.\n",
+    "black-white": "The target is attacked with a shock wave.\nIt may also leave the target\nwith paralysis.",
+    "black-2-white-2": "The target is attacked with a shock wave.\nIt may also leave the target\nwith paralysis.",
+    "x-y": "The target is attacked with a shock wave.\nThis may also leave the target\nwith paralysis.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a shock wave.\nThis may also leave the target\nwith paralysis.",
+    "sun-moon": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis.",
+    "ultra-sun-ultra-moon": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis.",
+    "sword-shield": "The target is attacked with a shock wave. This may\nalso leave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

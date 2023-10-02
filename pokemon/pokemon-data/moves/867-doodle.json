@@ -1,0 +1,17 @@
+{
+  "_id": 867,
+  "key": "doodle",
+  "name": {
+    "english": "Doodle"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": 0,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

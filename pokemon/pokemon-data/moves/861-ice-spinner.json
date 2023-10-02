@@ -1,0 +1,17 @@
+{
+  "_id": 861,
+  "key": "ice-spinner",
+  "name": {
+    "english": "Ice Spinner"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

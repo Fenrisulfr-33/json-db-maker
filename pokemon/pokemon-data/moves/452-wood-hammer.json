@@ -1,0 +1,42 @@
+{
+  "_id": 452,
+  "key": "wood-hammer",
+  "name": {
+    "english": "Wood Hammer",
+    "japanese": "ウッドハンマー",
+    "chinese": "木槌",
+    "korean": "우드해머",
+    "german": "Mazazo",
+    "french": "Holzhammer",
+    "italian": "Wood Hammer",
+    "spanish": "Mazzuolegno"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user slams its\nrugged body into the\nfoe to attack. The\nuser also sustains\nserious damage.",
+    "platinum": "The user slams its\nrugged body into the\nfoe to attack. The\nuser also sustains\nserious damage.",
+    "heartgold-soulsilver": "The user slams its\nrugged body into the\nfoe to attack. The\nuser also sustains\nserious damage.",
+    "black-white": "The user slams its rugged body into the\ntarget to attack. The user also sustains\nserious damage.",
+    "black-2-white-2": "The user slams its rugged body into the\ntarget to attack. The user also sustains\nserious damage.",
+    "x-y": "The user slams its rugged body into the\ntarget to attack. This also damages\nthe user quite a lot.",
+    "omega-ruby-alpha-sapphire": "The user slams its rugged body into the\ntarget to attack. This also damages\nthe user quite a lot.",
+    "sun-moon": "The user slams its rugged body into the target to\nattack. This also damages the user quite a lot.",
+    "ultra-sun-ultra-moon": "The user slams its rugged body into the target to\nattack. This also damages the user quite a lot.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams its rugged body into the target to\nattack. This also damages the user quite a lot.",
+    "sword-shield": "The user slams its rugged body into the target to\nattack. This also damages the user quite a lot."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/3 the damage inflicted in recoil."
+  },
+  "priority": 0
+}

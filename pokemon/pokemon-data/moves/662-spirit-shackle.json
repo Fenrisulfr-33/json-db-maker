@@ -1,0 +1,35 @@
+{
+  "_id": 662,
+  "key": "spirit-shackle",
+  "name": {
+    "english": "Spirit Shackle",
+    "japanese": "かげぬい",
+    "chinese": "縫影",
+    "korean": "그림자꿰매기",
+    "german": "Puntada Sombría",
+    "french": "Schattenfessel",
+    "italian": "Spirit Shackle",
+    "spanish": "Cucitura d’Ombra"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user attacks while simultaneously stitching the\ntarget’s shadow to the ground to prevent the target\nfrom escaping.",
+    "ultra-sun-ultra-moon": "The user attacks while simultaneously stitching the\ntarget’s shadow to the ground to prevent the target\nfrom escaping.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks while simultaneously stitching the\ntarget’s shadow to the ground to prevent the target\nfrom escaping.",
+    "sword-shield": "The user attacks while simultaneously stitching the\ntarget’s shadow to the ground to prevent the target\nfrom escaping."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Traps the target.",
+    "shortEffect": "Traps the target."
+  },
+  "priority": 0
+}

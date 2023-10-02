@@ -1,0 +1,45 @@
+{
+  "_id": 333,
+  "key": "icicle-spear",
+  "name": {
+    "english": "Icicle Spear",
+    "japanese": "つららばり",
+    "chinese": "冰针",
+    "korean": "고드름침",
+    "german": "Carámbano",
+    "french": "Eisspeer",
+    "italian": "Icicle Spear",
+    "spanish": "Gelolancia"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 30,
+  "power": 25,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks the foe by firing\n2 to 5 icicles in a row.",
+    "emerald": "Attacks the foe by firing\n2 to 5 icicles in a row.",
+    "firered-leafgreen": "Sharp icicles are\nfired at the foe.\nIt strikes two to\nfive times.",
+    "diamond-pearl": "The user launches\nsharp icicles at the\nfoe. It strikes two\nto five times in a\nrow.",
+    "platinum": "The user launches\nsharp icicles at the\nfoe. It strikes two\nto five times in a\nrow.",
+    "heartgold-soulsilver": "The user launches\nsharp icicles at the\nfoe. It strikes two\nto five times in a\nrow.",
+    "black-white": "The user launches sharp icicles at the\ntarget. It strikes two to five times in\na row.",
+    "black-2-white-2": "The user launches sharp icicles at the\ntarget. It strikes two to five times in\na row.",
+    "x-y": "The user launches sharp icicles at the\ntarget two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "The user launches sharp icicles at the\ntarget two to five times in a row.",
+    "sun-moon": "The user launches sharp icicles at the target two to\nfive times in a row.",
+    "ultra-sun-ultra-moon": "The user launches sharp icicles at the target two to\nfive times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The user launches sharp icicles at the target two to\nfive times in a row.",
+    "sword-shield": "The user launches sharp icicles at the target two to\nfive times in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 48,
+  "key": "supersonic",
+  "name": {
+    "english": "Supersonic",
+    "japanese": "ちょうおんぱ",
+    "chinese": "超音波",
+    "korean": "초음파",
+    "german": "Supersónico",
+    "french": "Superschall",
+    "italian": "Supersonic",
+    "spanish": "Supersuono"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 55,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Sound waves that\ncause confusion.",
+    "crystal": "Sound waves that\ncause confusion.",
+    "ruby-sapphire": "Emits bizarre sound waves\nthat may confuse the foe.",
+    "emerald": "Emits bizarre sound waves\nthat may confuse the foe.",
+    "firered-leafgreen": "The user generates\nodd sound waves.\nIt may confuse the\nfoe.",
+    "diamond-pearl": "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.",
+    "platinum": "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.",
+    "heartgold-soulsilver": "The user generates\nodd sound waves from\nits body.\nIt may confuse the\ntarget.",
+    "black-white": "The user generates odd sound waves from\nits body. It may confuse the target.",
+    "black-2-white-2": "The user generates odd sound waves from\nits body. It may confuse the target.",
+    "x-y": "The user generates odd sound waves from\nits body that confuse the target.",
+    "omega-ruby-alpha-sapphire": "The user generates odd sound waves from\nits body that confuse the target.",
+    "sun-moon": "The user generates odd sound waves from its body\nthat confuse the target.",
+    "ultra-sun-ultra-moon": "The user generates odd sound waves from its body\nthat confuse the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user generates odd sound waves from its body\nthat confuse the target.",
+    "sword-shield": "The user generates odd sound waves from its body\nthat confuse the target."
+  },
+  "effect": {
+    "full": "Confuses the target.",
+    "shortEffect": "Confuses the target."
+  },
+  "priority": 0
+}

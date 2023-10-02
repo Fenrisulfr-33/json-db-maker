@@ -1,0 +1,39 @@
+{
+  "_id": 506,
+  "key": "hex",
+  "name": {
+    "english": "Hex",
+    "japanese": "たたりめ",
+    "chinese": "厄运临头",
+    "korean": "병상첨병",
+    "german": "Infortunio",
+    "french": "Bürde",
+    "italian": "Hex",
+    "spanish": "Sciagura"
+  },
+  "type": "Ghost",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "This relentless attack does massive\ndamage to a target affected\nby status problems.",
+    "black-2-white-2": "This relentless attack does massive\ndamage to a target affected\nby status problems.",
+    "x-y": "This relentless attack does massive\ndamage to a target affected\nby status conditions.",
+    "omega-ruby-alpha-sapphire": "This relentless attack does massive\ndamage to a target affected\nby status conditions.",
+    "sun-moon": "This relentless attack does massive damage to a\ntarget affected by status conditions.",
+    "ultra-sun-ultra-moon": "This relentless attack does massive damage to a\ntarget affected by status conditions.",
+    "lets-go-pikachu-lets-go-eevee": "This relentless attack does massive damage to a\ntarget affected by status conditions.",
+    "sword-shield": "This relentless attack does massive damage to a\ntarget affected by status conditions."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target has a major status ailment, this move has double power.",
+    "shortEffect": "Has double power if the target has a major status ailment."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 14,
+  "key": "swords-dance",
+  "name": {
+    "english": "Swords Dance",
+    "japanese": "つるぎのまい",
+    "chinese": "剑舞",
+    "korean": "칼춤",
+    "german": "Danza Espada",
+    "french": "Schwerttanz",
+    "italian": "Swords Dance",
+    "spanish": "Danzaspada"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "A dance that in­\ncreases ATTACK.",
+    "crystal": "A dance that in­\ncreases ATTACK.",
+    "ruby-sapphire": "A fighting dance that\nsharply raises ATTACK.",
+    "emerald": "A fighting dance that\nsharply raises ATTACK.",
+    "firered-leafgreen": "A frenetic dance of\nfighting. It sharply\nraises the ATTACK\nstat.",
+    "diamond-pearl": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+    "platinum": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+    "heartgold-soulsilver": "A frenetic dance to\nuplift the fighting\nspirit. It sharply\nraises the user’s\nAttack stat.",
+    "black-white": "A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.",
+    "black-2-white-2": "A frenetic dance to uplift the fighting\nspirit. It sharply raises the user’s\nAttack stat.",
+    "x-y": "A frenetic dance to uplift the fighting\nspirit. This sharply raises the user’s\nAttack stat.",
+    "omega-ruby-alpha-sapphire": "A frenetic dance to uplift the fighting\nspirit. This sharply raises the user’s\nAttack stat.",
+    "sun-moon": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+    "ultra-sun-ultra-moon": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat.",
+    "sword-shield": "A frenetic dance to uplift the fighting spirit.\nThis sharply raises the user’s Attack stat."
+  },
+  "effect": {
+    "full": "Raises the user's Attack by two stages.",
+    "shortEffect": "Raises the user's Attack by two stages."
+  },
+  "priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 398,
+  "key": "poison-jab",
+  "name": {
+    "english": "Poison Jab",
+    "japanese": "どくづき",
+    "chinese": "毒刺",
+    "korean": "독찌르기",
+    "german": "Puya Nociva",
+    "french": "Gifthieb",
+    "italian": "Poison Jab",
+    "spanish": "Velenpuntura"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 20,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.",
+    "platinum": "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.",
+    "heartgold-soulsilver": "The foe is stabbed\nwith a tentacle or\narm steeped in\npoison. It may also\npoison the foe.",
+    "black-white": "The target is stabbed with a tentacle or\narm steeped in poison. It may also\npoison the target.",
+    "black-2-white-2": "The target is stabbed with a tentacle or\narm steeped in poison. It may also\npoison the target.",
+    "x-y": "The target is stabbed with a tentacle or\narm steeped in poison. This may also\npoison the target.",
+    "omega-ruby-alpha-sapphire": "The target is stabbed with a tentacle or\narm steeped in poison. This may also\npoison the target.",
+    "sun-moon": "The target is stabbed with a tentacle or arm steeped\nin poison. This may also poison the target.",
+    "ultra-sun-ultra-moon": "The target is stabbed with a tentacle or arm steeped\nin poison. This may also poison the target.",
+    "lets-go-pikachu-lets-go-eevee": "The target is stabbed with a tentacle, arm, or the like\nsteeped in poison. This may also poison the target.",
+    "sword-shield": "The target is stabbed with a tentacle, arm, or the like\nsteeped in poison. This may also poison the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Has a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

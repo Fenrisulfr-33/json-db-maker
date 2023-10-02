@@ -1,0 +1,47 @@
+{
+  "_id": 212,
+  "key": "mean-look",
+  "name": {
+    "english": "Mean Look",
+    "japanese": "くろいまなざし",
+    "chinese": "黑色眼光",
+    "korean": "검은눈빛",
+    "german": "Mal de Ojo",
+    "french": "Horrorblick",
+    "italian": "Mean Look",
+    "spanish": "Malosguardo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Prevents fleeing\nor switching.",
+    "crystal": "Prevents fleeing\nor switching.",
+    "ruby-sapphire": "Fixes the foe with a mean\nlook that prevents escape.",
+    "emerald": "Fixes the foe with a mean\nlook that prevents escape.",
+    "firered-leafgreen": "The foe is fixed\nwith a mean look\nthat prevents it\nfrom escaping.",
+    "diamond-pearl": "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.",
+    "platinum": "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.",
+    "heartgold-soulsilver": "The user affixes the\nfoe with a dark,\narresting look.\nThe target becomes\nunable to flee.",
+    "black-white": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+    "black-2-white-2": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+    "x-y": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+    "omega-ruby-alpha-sapphire": "The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.",
+    "sun-moon": "The user pins the target with a dark, arresting look.\nThe target becomes unable to flee.",
+    "ultra-sun-ultra-moon": "The user pins the target with a dark, arresting look.\nThe target becomes unable to flee.",
+    "lets-go-pikachu-lets-go-eevee": "The user pins the target with a dark, arresting look.\nThe target becomes unable to flee.",
+    "sword-shield": "The user pins the target with a dark, arresting look.\nThe target becomes unable to flee."
+  },
+  "effect": {
+    "full": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using baton pass, u turn, or a shed shell.\n\nBoth the user and the target pass on this effect with baton pass.",
+    "shortEffect": "Prevents the target from leaving battle."
+  },
+  "priority": 0
+}

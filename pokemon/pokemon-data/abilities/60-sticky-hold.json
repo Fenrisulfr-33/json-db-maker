@@ -1,0 +1,65 @@
+{
+  "_id": 60,
+  "key": "sticky-hold",
+  "name": {
+    "english": "Sticky Hold"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents a held item from being removed by other Pokémon.",
+    "full": "This Pokémon's hold item cannot be removed by other Pokémon. Damaging moves that would remove this Pokémon's item can still inflict damage against this Pokémon, e.g. knock off or pluck. This Pokémon can still use moves that involve the loss of its own item, e.g. fling or trick. Overworld: If the lead Pokémon has this ability, the encounter rate while fishing is increased."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents item theft.",
+    "emerald": "Prevents item theft.",
+    "firered-leafgreen": "Prevents item theft.",
+    "diamond-pearl": "Protects the Pokémon from item theft.",
+    "platinum": "Protects the Pokémon from item theft.",
+    "heartgold-soulsilver": "Protects the Pokémon from item theft.",
+    "black-white": "Protects the Pokémon from item theft.",
+    "black-2-white-2": "Protects the Pokémon from item theft.",
+    "x-y": "Protects the Pokémon from item theft.",
+    "omega-ruby-alpha-sapphire": "Protects the Pokémon from item theft.",
+    "sun-moon": "Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.",
+    "ultra-sun-ultra-moon": "Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.",
+    "sword-shield": "Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Grimer",
+        "id": 88
+      },
+      {
+        "name": "Muk",
+        "id": 89
+      },
+      {
+        "name": "Gulpin",
+        "id": 316
+      },
+      {
+        "name": "Swalot",
+        "id": 317
+      },
+      {
+        "name": "Shellos",
+        "id": 422
+      },
+      {
+        "name": "Gastrodon",
+        "id": 423
+      },
+      {
+        "name": "Trubbish",
+        "id": 568
+      },
+      {
+        "name": "Accelgor",
+        "id": 617
+      }
+    ],
+    "hidden": []
+  }
+}

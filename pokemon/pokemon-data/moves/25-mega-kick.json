@@ -1,0 +1,47 @@
+{
+  "_id": 25,
+  "key": "mega-kick",
+  "name": {
+    "english": "Mega Kick",
+    "japanese": "メガトンキック",
+    "chinese": "百万吨飞腿",
+    "korean": "메가톤킥",
+    "german": "Megapatada",
+    "french": "Megakick",
+    "italian": "Mega Kick",
+    "spanish": "Megacalcio"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A powerful kicking\nattack.",
+    "crystal": "A powerful kicking\nattack.",
+    "ruby-sapphire": "An extremely powerful kick\nwith intense force.",
+    "emerald": "An extremely powerful kick\nwith intense force.",
+    "firered-leafgreen": "The foe is attacked\nby a kick fired\nwith muscle-packed\npower.",
+    "diamond-pearl": "The foe is attacked\nby a kick launched\nwith muscle-packed\npower.\n",
+    "platinum": "The foe is attacked\nby a kick launched\nwith muscle-packed\npower.\n",
+    "heartgold-soulsilver": "The foe is attacked\nby a kick launched\nwith muscle-packed\npower.\n",
+    "black-white": "The target is attacked by a kick launched\nwith muscle-packed power.",
+    "black-2-white-2": "The target is attacked by a kick launched\nwith muscle-packed power.",
+    "x-y": "The target is attacked by a kick launched\nwith muscle-packed power.",
+    "omega-ruby-alpha-sapphire": "The target is attacked by a kick launched\nwith muscle-packed power.",
+    "sun-moon": "The target is attacked by a kick launched with\nmuscle-packed power.",
+    "ultra-sun-ultra-moon": "The target is attacked by a kick launched with\nmuscle-packed power.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked by a kick launched with\nmuscle-packed power.",
+    "sword-shield": "The target is attacked by a kick launched with\nmuscle-packed power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

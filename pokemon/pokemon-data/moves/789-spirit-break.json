@@ -1,0 +1,32 @@
+{
+  "_id": 789,
+  "key": "spirit-break",
+  "name": {
+    "english": "Spirit Break",
+    "japanese": "ソウルクラッシュ",
+    "chinese": "靈魂衝擊",
+    "korean": "소울크래시",
+    "german": "Choque Anímico",
+    "french": "Seelenbruch",
+    "italian": "Spirit Break",
+    "spanish": "Frantumanima"
+  },
+  "type": "Fairy",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks the target with so much force that it\ncould break the target’s spirit. This also lowers the\ntarget’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Attack by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Attack by one stage."
+  },
+  "priority": 0
+}

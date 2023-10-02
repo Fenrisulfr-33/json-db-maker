@@ -1,0 +1,39 @@
+{
+  "_id": 497,
+  "key": "echoed-voice",
+  "name": {
+    "english": "Echoed Voice",
+    "japanese": "エコーボイス",
+    "chinese": "回音",
+    "korean": "에코보이스",
+    "german": "Eco Voz",
+    "french": "Widerhall",
+    "italian": "Echoed Voice",
+    "spanish": "Echeggiavoce"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks the target with an\nechoing voice. If this move is used\nevery turn, it does greater damage.",
+    "black-2-white-2": "The user attacks the target with an\nechoing voice. If this move is used\nevery turn, it does greater damage.",
+    "x-y": "The user attacks the target with an\nechoing voice. If this move is used\nevery turn, it does greater damage.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with an\nechoing voice. If this move is used\nevery turn, it does greater damage.",
+    "sun-moon": "The user attacks the target with an echoing voice.\nIf this move is used every turn, its power\nis increased.",
+    "ultra-sun-ultra-moon": "The user attacks the target with an echoing voice.\nIf this move is used every turn, its power\nis increased.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with an echoing voice.\nIf this move is used every turn, its power\nis increased.",
+    "sword-shield": "The user attacks the target with an echoing voice.\nIf this move is used every turn, its power\nis increased."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If any friendly Pokémon used this move earlier this turn or on the previous turn, that use's power is added to this move's power, to a maximum of 200.",
+    "shortEffect": "Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200."
+  },
+  "priority": 0
+}

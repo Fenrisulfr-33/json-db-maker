@@ -1,0 +1,47 @@
+{
+  "_id": 111,
+  "key": "defense-curl",
+  "name": {
+    "english": "Defense Curl",
+    "japanese": "まるくなる",
+    "chinese": "防卫卷",
+    "korean": "웅크리기",
+    "german": "Rizo Defensa",
+    "french": "Einigler",
+    "italian": "Defense Curl",
+    "spanish": "Ricciolscudo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 40,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Heightens the\nuser's DEFENSE.",
+    "crystal": "Heightens the\nuser's DEFENSE.",
+    "ruby-sapphire": "Curls up to conceal weak\nspots and raise DEFENSE.",
+    "emerald": "Curls up to conceal weak\nspots and raise DEFENSE.",
+    "firered-leafgreen": "The user curls up\nto conceal weak\nspots and raise its\nDEFENSE stat.",
+    "diamond-pearl": "The user curls up to\nconceal weak spots\nand raise its Defense\nstat.\n",
+    "platinum": "The user curls up to\nconceal weak spots\nand raise its Defense\nstat.\n",
+    "heartgold-soulsilver": "The user curls up to\nconceal weak spots\nand raise its Defense\nstat.\n",
+    "black-white": "The user curls up to conceal weak spots\nand raise its Defense stat.",
+    "black-2-white-2": "The user curls up to conceal weak spots\nand raise its Defense stat.",
+    "x-y": "The user curls up to conceal weak spots\nand raise its Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user curls up to conceal weak spots\nand raise its Defense stat.",
+    "sun-moon": "The user curls up to conceal weak spots and raise\nits Defense stat.",
+    "ultra-sun-ultra-moon": "The user curls up to conceal weak spots and raise\nits Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user curls up to conceal weak spots and raise\nits Defense stat.",
+    "sword-shield": "The user curls up to conceal weak spots and raise\nits Defense stat."
+  },
+  "effect": {
+    "full": "Raises user's Defense by one stage.\n\nAfter this move is used, the power of ice ball and rollout are doubled until the user leaves the field.",
+    "shortEffect": "Raises user's Defense by one stage."
+  },
+  "priority": 0
+}

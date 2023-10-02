@@ -1,0 +1,42 @@
+{
+  "_id": 382,
+  "key": "me-first",
+  "name": {
+    "english": "Me First",
+    "japanese": "さきどり",
+    "chinese": "先抢先赢",
+    "korean": "선취",
+    "german": "Yo Primero",
+    "french": "Egotrip",
+    "italian": "Me First",
+    "spanish": "Precedenza"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon-me-first",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user tries to cut\nahead of the foe to\nsteal and use the\nfoe’s intended move\nwith greater power.",
+    "platinum": "The user tries to cut\nahead of the foe to\nsteal and use the\nfoe’s intended move\nwith greater power.",
+    "heartgold-soulsilver": "The user tries to cut\nahead of the foe to\nsteal and use the\nfoe’s intended move\nwith greater power.",
+    "black-white": "The user tries to cut ahead of the target\nto steal and use the target’s intended\nmove with greater power.",
+    "black-2-white-2": "The user tries to cut ahead of the target\nto steal and use the target’s intended\nmove with greater power.",
+    "x-y": "The user cuts ahead of the target to steal and\nuse the target’s intended move with greater power.\nThis move fails if it isn’t used first.",
+    "omega-ruby-alpha-sapphire": "The user cuts ahead of the target to steal and\nuse the target’s intended move with greater power.\nThis move fails if it isn’t used first.",
+    "sun-moon": "The user cuts ahead of the target to copy and use\nthe target’s intended move with greater power.\nThis move fails if it isn’t used first.",
+    "ultra-sun-ultra-moon": "The user cuts ahead of the target to copy and use\nthe target’s intended move with greater power.\nThis move fails if it isn’t used first.",
+    "lets-go-pikachu-lets-go-eevee": "The user cuts ahead of the target to copy and use\nthe target’s intended move with greater power.\nThis move fails if it isn’t used first.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power.\n\nIf the target moves before the user, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
+    "shortEffect": "Uses the target's move against it before it attacks, with power increased by half."
+  },
+  "priority": 0
+}

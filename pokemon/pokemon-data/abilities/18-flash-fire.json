@@ -1,0 +1,134 @@
+{
+  "_id": 18,
+  "key": "flash-fire",
+  "name": {
+    "english": "Flash Fire"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Protects against fire moves. Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle.",
+    "full": "This Pokémon is immune to fire-type moves. Once this Pokémon has been hit by a Fire move, its own Fire moves will inflict 1.5× as much damage until it leaves battle. This ability has no effect while the Pokémon is frozen. The Fire damage bonus is retained even if the Pokémon is frozen and thawed or the ability is lost or disabled. Fire moves will ignore this Pokémon's substitute. This ability takes effect even on non-damaging moves, i.e. will o wisp."
+  },
+  "description": {
+    "ruby-sapphire": "Powers up if hit by fire.",
+    "emerald": "Powers up if hit by fire.",
+    "firered-leafgreen": "Powers up if hit by fire.",
+    "diamond-pearl": "Powers up Fire-type moves if hit by a fire move.",
+    "platinum": "Powers up Fire-type moves if hit by a fire move.",
+    "heartgold-soulsilver": "It powers up Fire-type moves if it’s hit by one.",
+    "black-white": "It powers up Fire-type moves if it’s hit by one.",
+    "black-2-white-2": "It powers up Fire-type moves if it’s hit by one.",
+    "x-y": "Powers up the Pokémon’s Fire- type moves if it’s hit by one.",
+    "omega-ruby-alpha-sapphire": "Powers up the Pokémon’s Fire-type moves if it’s hit by one.",
+    "sun-moon": "Powers up the Pokémon’s Fire-type moves if it’s hit by one.",
+    "ultra-sun-ultra-moon": "Powers up the Pokémon’s Fire-type moves if it’s hit by one.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up the Pokémon’s Fire-type moves if it’s hit by one.",
+    "sword-shield": "Powers up the Pokémon’s Fire-type moves if it’s hit by one."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Vulpix",
+        "id": 37
+      },
+      {
+        "name": "Ninetales",
+        "id": 38
+      },
+      {
+        "name": "Growlithe",
+        "id": 58
+      },
+      {
+        "name": "Arcanine",
+        "id": 59
+      },
+      {
+        "name": "Ponyta",
+        "id": 77
+      },
+      {
+        "name": "Rapidash",
+        "id": 78
+      },
+      {
+        "name": "Flareon",
+        "id": 136
+      },
+      {
+        "name": "Houndour",
+        "id": 228
+      },
+      {
+        "name": "Houndoom",
+        "id": 229
+      },
+      {
+        "name": "Heatran",
+        "id": 485
+      },
+      {
+        "name": "Litwick",
+        "id": 607
+      },
+      {
+        "name": "Lampent",
+        "id": 608
+      },
+      {
+        "name": "Chandelure",
+        "id": 609
+      },
+      {
+        "name": "Heatmor",
+        "id": 631
+      },
+      {
+        "name": "Sizzlipede",
+        "id": 850
+      },
+      {
+        "name": "Centiskorch",
+        "id": 851
+      },
+      {
+        "name": "Charcadet",
+        "id": 935
+      },
+      {
+        "name": "Armarouge",
+        "id": 936
+      },
+      {
+        "name": "Ceruledge",
+        "id": 937
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Cyndaquil",
+        "id": 155
+      },
+      {
+        "name": "Quilava",
+        "id": 156
+      },
+      {
+        "name": "Typhlosion",
+        "id": 157
+      },
+      {
+        "name": "Rolycoly",
+        "id": 837
+      },
+      {
+        "name": "Carkol",
+        "id": 838
+      },
+      {
+        "name": "Coalossal",
+        "id": 839
+      }
+    ]
+  }
+}

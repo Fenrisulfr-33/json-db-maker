@@ -1,0 +1,37 @@
+{
+  "_id": 570,
+  "key": "parabolic-charge",
+  "name": {
+    "english": "Parabolic Charge",
+    "japanese": "パラボラチャージ",
+    "chinese": "抛物线充电",
+    "korean": "파라볼라차지",
+    "german": "Carga Parábola",
+    "french": "Parabolladung",
+    "italian": "Parabolic Charge",
+    "spanish": "Caricaparabola"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user attacks everything around it.\nThe user’s HP is restored by half\nthe damage taken by those hit.",
+    "omega-ruby-alpha-sapphire": "The user attacks everything around it.\nThe user’s HP is restored by half\nthe damage taken by those hit.",
+    "sun-moon": "The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit.",
+    "ultra-sun-ultra-moon": "The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit.",
+    "sword-shield": "The user attacks everything around it. The user’s HP\nis restored by half the damage taken by those hit."
+  },
+  "effect": {
+    "full": "Heals the user for half the total damage dealt to all targets.",
+    "shortEffect": "Heals the user for half the total damage dealt to all targets."
+  },
+  "priority": 0
+}

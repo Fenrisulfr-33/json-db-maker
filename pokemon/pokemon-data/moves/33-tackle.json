@@ -1,0 +1,47 @@
+{
+  "_id": 33,
+  "key": "tackle",
+  "name": {
+    "english": "Tackle",
+    "japanese": "たいあたり",
+    "chinese": "冲击",
+    "korean": "몸통박치기",
+    "german": "Placaje",
+    "french": "Tackle",
+    "italian": "Tackle",
+    "spanish": "Azione"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 35,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A full-body charge\nattack.",
+    "crystal": "A full-body charge\nattack.",
+    "ruby-sapphire": "Charges the foe with a full-\nbody tackle.",
+    "emerald": "Charges the foe with a full-\nbody tackle.",
+    "firered-leafgreen": "A physical attack\nin which the user\ncharges, full body,\ninto the foe.",
+    "diamond-pearl": "A physical attack\nin which the user\ncharges and slams\ninto the foe with\nits whole body.",
+    "platinum": "A physical attack\nin which the user\ncharges and slams\ninto the foe with\nits whole body.",
+    "heartgold-soulsilver": "A physical attack\nin which the user\ncharges and slams\ninto the foe with\nits whole body.",
+    "black-white": "A physical attack in which the user\ncharges and slams into the target\nwith its whole body.",
+    "black-2-white-2": "A physical attack in which the user\ncharges and slams into the target\nwith its whole body.",
+    "x-y": "A physical attack in which the user\ncharges and slams into the target\nwith its whole body.",
+    "omega-ruby-alpha-sapphire": "A physical attack in which the user\ncharges and slams into the target\nwith its whole body.",
+    "sun-moon": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+    "ultra-sun-ultra-moon": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+    "lets-go-pikachu-lets-go-eevee": "A physical attack in which the user charges and\nslams into the target with its whole body.",
+    "sword-shield": "A physical attack in which the user charges and\nslams into the target with its whole body."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

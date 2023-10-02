@@ -1,0 +1,17 @@
+{
+  "_id": 848,
+  "key": "sandsear-storm",
+  "name": {
+    "english": "Sandsear Storm"
+  },
+  "type": "Ground",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 8,
+  "target": "All-opponents",
+  "changes": []
+}

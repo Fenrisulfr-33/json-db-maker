@@ -1,0 +1,32 @@
+{
+  "_id": 808,
+  "key": "lash-out",
+  "name": {
+    "english": "Lash Out",
+    "japanese": "うっぷんばらし",
+    "chinese": "洩憤",
+    "korean": "분풀이",
+    "german": "Desahogo",
+    "french": "Frustventil",
+    "italian": "Lash Out",
+    "spanish": "Sfogarabbia"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user lashes out to vent its frustration toward\nthe target. If the user’s stats were lowered during this\nturn, the power of this move is doubled."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

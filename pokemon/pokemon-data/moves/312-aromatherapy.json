@@ -1,0 +1,45 @@
+{
+  "_id": 312,
+  "key": "aromatherapy",
+  "name": {
+    "english": "Aromatherapy",
+    "japanese": "アロマセラピー",
+    "chinese": "芳香治疗",
+    "korean": "아로마테라피",
+    "german": "Aromaterapia",
+    "french": "Aromakur",
+    "italian": "Aromatherapy",
+    "spanish": "Aromaterapia"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user-and-allies",
+  "changes": [],
+  "description": {
+    "emerald": "Heals all status problems\nwith a soothing scent.",
+    "ruby-sapphire": "Heals all status problems\nwith a soothing scent.",
+    "firered-leafgreen": "A soothing scent is\nreleased to heal\nall status problems\nin the user’s party.",
+    "diamond-pearl": "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.",
+    "platinum": "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.",
+    "heartgold-soulsilver": "The user releases a\nsoothing scent that\nheals all status\nproblems affecting\nthe user’s party.",
+    "black-white": "The user releases a soothing scent that\nheals all status problems affecting\nthe user’s party.",
+    "black-2-white-2": "The user releases a soothing scent that\nheals all status problems affecting\nthe user’s party.",
+    "x-y": "The user releases a soothing scent that\nheals all status conditions affecting\nthe user’s party.",
+    "omega-ruby-alpha-sapphire": "The user releases a soothing scent that\nheals all status conditions affecting\nthe user’s party.",
+    "sun-moon": "The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party.",
+    "ultra-sun-ultra-moon": "The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party.",
+    "lets-go-pikachu-lets-go-eevee": "The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party.",
+    "sword-shield": "The user releases a soothing scent that heals all\nstatus conditions affecting the user’s party."
+  },
+  "effect": {
+    "full": "Removes major status effects and confusion from every Pokémon in the user's party.",
+    "shortEffect": "Cures the entire party of major status effects."
+  },
+  "priority": 0
+}

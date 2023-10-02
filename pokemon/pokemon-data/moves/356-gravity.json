@@ -1,0 +1,42 @@
+{
+  "_id": 356,
+  "key": "gravity",
+  "name": {
+    "english": "Gravity",
+    "japanese": "じゅうりょく",
+    "chinese": "重力",
+    "korean": "중력",
+    "german": "Gravedad",
+    "french": "Erdanziehung",
+    "italian": "Gravity",
+    "spanish": "Gravità"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "Gravity is intensified\nfor five turns, making\nmoves involving flying\nunusable and\nnegating Levitation.",
+    "platinum": "Gravity is intensified\nfor five turns, making\nmoves involving flying\nunusable and\nnegating Levitation.",
+    "heartgold-soulsilver": "Gravity is intensified\nfor five turns, making\nmoves involving flying\nunusable and\nnegating Levitation.",
+    "black-white": "Gravity is intensified for five turns,\nmaking moves involving flying unusable\nand negating Levitate.",
+    "black-2-white-2": "Gravity is intensified for five turns,\nmaking moves involving flying unusable\nand negating Levitate.",
+    "x-y": "Gravity is intensified for five turns,\nmaking moves involving flying unusable\nand negating Levitate.",
+    "omega-ruby-alpha-sapphire": "Gravity is intensified for five turns,\nmaking moves involving flying unusable\nand negating Levitate.",
+    "sun-moon": "Enables Flying-type Pokémon or Pokémon with the\nLevitate Ability to be hit by Ground-type moves.\nFlying moves can’t be used.",
+    "ultra-sun-ultra-moon": "Enables Flying-type Pokémon or Pokémon with the\nLevitate Ability to be hit by Ground-type moves.\nFlying moves can’t be used.",
+    "lets-go-pikachu-lets-go-eevee": "Enables Flying-type Pokémon or Pokémon with the\nLevitate Ability to be hit by Ground-type moves.\nFlying moves can’t be used.",
+    "sword-shield": "This move enables Flying-type Pokémon or Pokémon\nwith the Levitate Ability to be hit by Ground-type\nmoves. Moves that involve flying can’t be used."
+  },
+  "effect": {
+    "full": "For five turns (including this one), all immunities to ground moves are disabled.  For the duration of this effect, the evasion of every Pokémon on the field is lowered by two stages.  Cancels the effects of bounce, fly, and sky drop.\n\nSpecifically, flying Pokémon and those with levitate or that have used magnet rise are no longer immune to ground attacks, arena trap, spikes, or toxic spikes.\n\nbounce, fly, sky drop, high jump kick, jump kick, and splash cannot be used while this move is in effect.\n\n*Bug*: If this move is used during a double or triple battle while Pokémon are under the effect of sky drop, Sky Drop's effect is not correctly canceled on its target, and it remains high in the air indefinitely.  As Sky Drop prevents the target from acting, the only way to subsequently remove it from the field is to faint it.",
+    "shortEffect": "Disables moves and immunities that involve flying or levitating for five turns."
+  },
+  "priority": 0
+}

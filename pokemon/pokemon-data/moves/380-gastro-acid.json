@@ -1,0 +1,42 @@
+{
+  "_id": 380,
+  "key": "gastro-acid",
+  "name": {
+    "english": "Gastro Acid",
+    "japanese": "いえき",
+    "chinese": "胃液",
+    "korean": "위액",
+    "german": "Bilis",
+    "french": "Magensäfte",
+    "italian": "Gastro Acid",
+    "spanish": "Gastroacido"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user hurls up its\nstomach acids on\nthe foe. The fluid\neliminates the effect\nof the foe’s ability.",
+    "platinum": "The user hurls up its\nstomach acids on\nthe foe. The fluid\neliminates the effect\nof the foe’s ability.",
+    "heartgold-soulsilver": "The user hurls up its\nstomach acids on\nthe foe. The fluid\neliminates the effect\nof the foe’s ability.",
+    "black-white": "The user hurls up its stomach acids on\nthe target. The fluid eliminates the effect\nof the target’s Ability.",
+    "black-2-white-2": "The user hurls up its stomach acids on\nthe target. The fluid eliminates the effect\nof the target’s Ability.",
+    "x-y": "The user hurls up its stomach acids on\nthe target. The fluid eliminates the effect\nof the target’s Ability.",
+    "omega-ruby-alpha-sapphire": "The user hurls up its stomach acids on\nthe target. The fluid eliminates the effect\nof the target’s Ability.",
+    "sun-moon": "The user hurls up its stomach acids on the target.\nThe fluid eliminates the effect of the target’s Ability.",
+    "ultra-sun-ultra-moon": "The user hurls up its stomach acids on the target.\nThe fluid eliminates the effect of the target’s Ability.",
+    "lets-go-pikachu-lets-go-eevee": "The user hurls up its stomach acids on the target.\nThe fluid eliminates the effect of the target’s Ability.",
+    "sword-shield": "The user hurls up its stomach acids on the target.\nThe fluid eliminates the effect of the target’s Ability."
+  },
+  "effect": {
+    "full": "The target's ability is disabled as long as it remains on the field.\n\nThis effect is passed on by baton pass.",
+    "shortEffect": "Nullifies target's ability until it leaves battle."
+  },
+  "priority": 0
+}

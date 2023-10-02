@@ -1,0 +1,45 @@
+{
+  "_id": 309,
+  "key": "meteor-mash",
+  "name": {
+    "english": "Meteor Mash",
+    "japanese": "コメットパンチ",
+    "chinese": "流星拳",
+    "korean": "코멧펀치",
+    "german": "Puño Meteoro",
+    "french": "Sternenhieb",
+    "italian": "Meteor Mash",
+    "spanish": "Meteorpugno"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Fires a meteor-like punch.\nMay raise ATTACK.",
+    "emerald": "Fires a meteor-like punch.\nMay raise ATTACK.",
+    "firered-leafgreen": "The foe is hit with\na hard, fast punch.\nIt may also raise\nthe user’s ATTACK.",
+    "diamond-pearl": "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.",
+    "platinum": "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.",
+    "heartgold-soulsilver": "The foe is hit with a\nhard punch fired\nlike a meteor.\nIt may also raise\nthe user’s Attack.",
+    "black-white": "The target is hit with a hard punch fired\nlike a meteor. It may also raise\nthe user’s Attack.",
+    "black-2-white-2": "The target is hit with a hard punch fired\nlike a meteor. It may also raise\nthe user’s Attack.",
+    "x-y": "The target is hit with a hard punch fired\nlike a meteor. This may also raise\nthe user’s Attack stat.",
+    "omega-ruby-alpha-sapphire": "The target is hit with a hard punch fired\nlike a meteor. This may also raise\nthe user’s Attack stat.",
+    "sun-moon": "The target is hit with a hard punch fired like a\nmeteor. This may also raise the user’s Attack stat.",
+    "ultra-sun-ultra-moon": "The target is hit with a hard punch fired like a\nmeteor. This may also raise the user’s Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit with a hard punch fired like a\nmeteor. This may also raise the user’s Attack stat.",
+    "sword-shield": "The target is hit with a hard punch fired like a\nmeteor. This may also raise the user’s Attack stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage. Has a $effect_chance% chance to raise the user's Attack one stage.",
+    "shortEffect": "Has a $effect_chance% chance to raise the user's Attack by one stage."
+  },
+  "priority": 0
+}

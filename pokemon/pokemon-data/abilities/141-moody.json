@@ -1,0 +1,59 @@
+{
+  "_id": 141,
+  "key": "moody",
+  "name": {
+    "english": "Moody"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Raises a random stat two stages and lowers another one stage after each turn.",
+    "full": "After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage. If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively."
+  },
+  "description": {
+    "black-white": "Raises one stat and lowers another.",
+    "black-2-white-2": "Raises one stat and lowers another.",
+    "x-y": "Raises one stat and lowers another.",
+    "omega-ruby-alpha-sapphire": "Raises one stat and lowers another.",
+    "sun-moon": "Raises one stat sharply and lowers another every turn.",
+    "ultra-sun-ultra-moon": "Raises one stat sharply and lowers another every turn.",
+    "lets-go-pikachu-lets-go-eevee": "Raises one stat sharply and lowers another every turn.",
+    "sword-shield": "Raises one stat sharply and lowers another every turn."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Remoraid",
+        "id": 223
+      },
+      {
+        "name": "Octillery",
+        "id": 224
+      },
+      {
+        "name": "Smeargle",
+        "id": 235
+      },
+      {
+        "name": "Snorunt",
+        "id": 361
+      },
+      {
+        "name": "Glalie",
+        "id": 362
+      },
+      {
+        "name": "Bidoof",
+        "id": 399
+      },
+      {
+        "name": "Bibarel",
+        "id": 400
+      },
+      {
+        "name": "Scovillain",
+        "id": 952
+      }
+    ]
+  }
+}

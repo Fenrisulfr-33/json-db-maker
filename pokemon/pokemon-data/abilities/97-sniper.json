@@ -1,0 +1,99 @@
+{
+  "_id": 97,
+  "key": "sniper",
+  "name": {
+    "english": "Sniper"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Strengthens critical hits to inflict 3× damage rather than 2×.",
+    "full": "This Pokémon inflicts triple damage with critical hits, rather than the usual double damage."
+  },
+  "description": {
+    "diamond-pearl": "Powers up moves if they become critical hits.",
+    "platinum": "Powers up moves if they become critical hits.",
+    "heartgold-soulsilver": "Powers up moves if they become critical hits.",
+    "black-white": "Powers up moves if they become critical hits.",
+    "black-2-white-2": "Powers up moves if they become critical hits.",
+    "x-y": "Powers up moves if they become critical hits.",
+    "omega-ruby-alpha-sapphire": "Powers up moves if they become critical hits.",
+    "sun-moon": "Powers up moves if they become critical hits when attacking.",
+    "ultra-sun-ultra-moon": "Powers up moves if they become critical hits when attacking.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up moves if they become critical hits when attacking.",
+    "sword-shield": "Powers up moves if they become critical hits when attacking."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Horsea",
+        "id": 116
+      },
+      {
+        "name": "Seadra",
+        "id": 117
+      },
+      {
+        "name": "Remoraid",
+        "id": 223
+      },
+      {
+        "name": "Octillery",
+        "id": 224
+      },
+      {
+        "name": "Kingdra",
+        "id": 230
+      },
+      {
+        "name": "Skorupi",
+        "id": 451
+      },
+      {
+        "name": "Drapion",
+        "id": 452
+      },
+      {
+        "name": "Binacle",
+        "id": 688
+      },
+      {
+        "name": "Barbaracle",
+        "id": 689
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Beedrill",
+        "id": 15
+      },
+      {
+        "name": "Spearow",
+        "id": 21
+      },
+      {
+        "name": "Fearow",
+        "id": 22
+      },
+      {
+        "name": "Spinarak",
+        "id": 167
+      },
+      {
+        "name": "Ariados",
+        "id": 168
+      },
+      {
+        "name": "Sobble",
+        "id": 816
+      },
+      {
+        "name": "Drizzile",
+        "id": 817
+      },
+      {
+        "name": "Inteleon",
+        "id": 818
+      }
+    ]
+  }
+}

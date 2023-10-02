@@ -1,0 +1,45 @@
+{
+  "_id": 272,
+  "key": "role-play",
+  "name": {
+    "english": "Role Play",
+    "japanese": "なりきり",
+    "chinese": "角色扮演",
+    "korean": "역할",
+    "german": "Imitación",
+    "french": "Rollenspiel",
+    "italian": "Role Play",
+    "spanish": "Giocodiruolo"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Mimics the target and\ncopies its special ability.",
+    "emerald": "Mimics the target and\ncopies its special ability.",
+    "firered-leafgreen": "The user mimics the\nfoe completely and\ncopies the foe’s\nability.",
+    "diamond-pearl": "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n",
+    "platinum": "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n",
+    "heartgold-soulsilver": "The user mimics the\nfoe completely,\ncopying the foe’s\nnatural ability.\n",
+    "black-white": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+    "black-2-white-2": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+    "x-y": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+    "omega-ruby-alpha-sapphire": "The user mimics the target completely,\ncopying the target’s natural Ability.",
+    "sun-moon": "The user mimics the target completely, copying the\ntarget’s natural Ability.",
+    "ultra-sun-ultra-moon": "The user mimics the target completely, copying the\ntarget’s natural Ability.",
+    "lets-go-pikachu-lets-go-eevee": "The user mimics the target completely, copying the\ntarget’s natural Ability.",
+    "sword-shield": "The user mimics the target completely, copying the\ntarget’s Ability."
+  },
+  "effect": {
+    "full": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.\n\nThis move cannot be copied by mirror move.",
+    "shortEffect": "Copies the target's ability."
+  },
+  "priority": 0
+}

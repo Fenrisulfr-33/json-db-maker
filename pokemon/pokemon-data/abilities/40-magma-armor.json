@@ -1,0 +1,45 @@
+{
+  "_id": 40,
+  "key": "magma-armor",
+  "name": {
+    "english": "Magma Armor"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents freezing.",
+    "full": "This Pokémon cannot be frozen. If a Pokémon is frozen and acquires this ability, it will immediately thaw out; this includes when regaining a lost ability upon leaving battle. Overworld: If any Pokémon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly. This effect does not stack if multiple Pokémon have this ability or flame body."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents freezing.",
+    "emerald": "Prevents freezing.",
+    "firered-leafgreen": "Prevents freezing.",
+    "diamond-pearl": "Prevents the Pokémon from becoming frozen.",
+    "platinum": "Prevents the Pokémon from becoming frozen.",
+    "heartgold-soulsilver": "Prevents the Pokémon from becoming frozen.",
+    "black-white": "Prevents the Pokémon from becoming frozen.",
+    "black-2-white-2": "Prevents the Pokémon from becoming frozen.",
+    "x-y": "Prevents the Pokémon from becoming frozen.",
+    "omega-ruby-alpha-sapphire": "Prevents the Pokémon from becoming frozen.",
+    "sun-moon": "The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen.",
+    "ultra-sun-ultra-moon": "The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen.",
+    "sword-shield": "The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Slugma",
+        "id": 218
+      },
+      {
+        "name": "Magcargo",
+        "id": 219
+      },
+      {
+        "name": "Camerupt",
+        "id": 323
+      }
+    ],
+    "hidden": []
+  }
+}

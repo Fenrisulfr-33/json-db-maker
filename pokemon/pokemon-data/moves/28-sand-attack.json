@@ -1,0 +1,47 @@
+{
+  "_id": 28,
+  "key": "sand-attack",
+  "name": {
+    "english": "Sand Attack",
+    "japanese": "すなかけ",
+    "chinese": "飞沙脚",
+    "korean": "모래뿌리기",
+    "german": "Ataque Arena",
+    "french": "Sandwirbel",
+    "italian": "Sand Attack",
+    "spanish": "Turbosabbia"
+  },
+  "type": "Ground",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Reduces accuracy\nby throwing sand.",
+    "crystal": "Reduces accuracy\nby throwing sand.",
+    "ruby-sapphire": "Reduces the foe’s accuracy\nby hurling sand in its face.",
+    "emerald": "Reduces the foe’s accuracy\nby hurling sand in its face.",
+    "firered-leafgreen": "A lot of sand is\nhurled in the foe’s\nface, reducing its\naccuracy.",
+    "diamond-pearl": "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n",
+    "platinum": "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n",
+    "heartgold-soulsilver": "Sand is hurled in the\nfoe’s face, reducing\nits accuracy.\n\n",
+    "black-white": "Sand is hurled in the target’s face,\nreducing its accuracy.",
+    "black-2-white-2": "Sand is hurled in the target’s face,\nreducing its accuracy.",
+    "x-y": "Sand is hurled in the target’s face,\nreducing the target’s accuracy.",
+    "omega-ruby-alpha-sapphire": "Sand is hurled in the target’s face,\nreducing the target’s accuracy.",
+    "sun-moon": "Sand is hurled in the target’s face, reducing the\ntarget’s accuracy.",
+    "ultra-sun-ultra-moon": "Sand is hurled in the target’s face, reducing the\ntarget’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "Sand is hurled in the target’s face, reducing the\ntarget’s accuracy.",
+    "sword-shield": "Sand is hurled in the target’s face, reducing the\ntarget’s accuracy."
+  },
+  "effect": {
+    "full": "Lowers the target's accuracy by one stage.",
+    "shortEffect": "Lowers the target's accuracy by one stage."
+  },
+  "priority": 0
+}

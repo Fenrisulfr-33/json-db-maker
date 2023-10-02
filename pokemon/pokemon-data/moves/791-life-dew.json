@@ -1,0 +1,29 @@
+{
+  "_id": 791,
+  "key": "life-dew",
+  "name": {
+    "english": "Life Dew",
+    "japanese": "いのちのしずく",
+    "chinese": "生命水滴",
+    "korean": "생명의물방울",
+    "german": "Gota Vital",
+    "french": "Lebenstropfen",
+    "italian": "Life Dew",
+    "spanish": "Goccia Vitale"
+  },
+  "type": "Water",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "user-and-allies",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user scatters mysterious water around and restores\nthe HP of itself and its ally Pokémon in the battle."
+  },
+  "effect": {},
+  "priority": 0
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 287,
+  "key": "refresh",
+  "name": {
+    "english": "Refresh",
+    "japanese": "リフレッシュ",
+    "chinese": "清新",
+    "korean": "리프레쉬",
+    "german": "Alivio",
+    "french": "Heilung",
+    "italian": "Refresh",
+    "spanish": "Rinfrescata"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Heals poisoning, paralysis,\nor a burn.",
+    "emerald": "Heals poisoning, paralysis,\nor a burn.",
+    "firered-leafgreen": "A self-healing move\nthat cures the user\nof a poisoning,\nburn, or paralysis.",
+    "diamond-pearl": "The user rests\nto cure itself of a\npoisoning, burn, or\nparalysis.\n",
+    "platinum": "The user rests\nto cure itself of a\npoisoning, burn, or\nparalysis.\n",
+    "heartgold-soulsilver": "The user rests\nto cure itself of a\npoisoning, burn, or\nparalysis.\n",
+    "black-white": "The user rests to cure itself of a\npoisoning, burn, or paralysis.",
+    "black-2-white-2": "The user rests to cure itself of a\npoisoning, burn, or paralysis.",
+    "x-y": "The user rests to cure itself of a\npoisoning, burn, or paralysis.",
+    "omega-ruby-alpha-sapphire": "The user rests to cure itself of a\npoisoning, burn, or paralysis.",
+    "sun-moon": "The user rests to cure itself of poisoning, a burn,\nor paralysis.",
+    "ultra-sun-ultra-moon": "The user rests to cure itself of poisoning, a burn,\nor paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user rests to cure itself of poisoning, a burn,\nor paralysis.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Removes a burn, paralysis, or poison from the user.",
+    "shortEffect": "Cleanses the user of a burn, paralysis, or poison."
+  },
+  "priority": 0
+}

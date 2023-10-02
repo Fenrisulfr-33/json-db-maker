@@ -1,0 +1,71 @@
+{
+  "_id": 107,
+  "key": "anticipation",
+  "name": {
+    "english": "Anticipation"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Notifies all trainers upon entering battle if an opponent has a super-effective move, self destruct, explosion, or a one-hit KO move.",
+    "full": "When this Pokémon enters battle, if one of its opponents has a move that is super effective against it, self destruct, explosion, or a one-hit knockout move, all participating trainers are notified. The move itself is not revealed; only that there is such a move. Moves that inflict typeless damage, such as future sight, and moves of variable type, such as hidden power, count as their listed types. counter, metal burst, mirror coat, and one-hit KO moves to which this Pokémon is immune do not trigger this ability."
+  },
+  "description": {
+    "diamond-pearl": "Senses the foe’s dangerous moves.",
+    "platinum": "Senses the foe’s dangerous moves.",
+    "heartgold-soulsilver": "Senses the foe’s dangerous moves.",
+    "black-white": "Senses a foe’s dangerous moves.",
+    "black-2-white-2": "Senses a foe’s dangerous moves.",
+    "x-y": "Senses an opposing Pokémon’s dangerous moves.",
+    "omega-ruby-alpha-sapphire": "Senses an opposing Pokémon’s dangerous moves.",
+    "sun-moon": "The Pokémon can sense an opposing Pokémon’s dangerous moves.",
+    "ultra-sun-ultra-moon": "The Pokémon can sense an opposing Pokémon’s dangerous moves.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon can sense an opposing Pokémon’s dangerous moves.",
+    "sword-shield": "The Pokémon can sense an opposing Pokémon’s dangerous moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Barboach",
+        "id": 339
+      },
+      {
+        "name": "Whiscash",
+        "id": 340
+      },
+      {
+        "name": "Croagunk",
+        "id": 453
+      },
+      {
+        "name": "Toxicroak",
+        "id": 454
+      },
+      {
+        "name": "Hatenna",
+        "id": 856
+      },
+      {
+        "name": "Hattrem",
+        "id": 857
+      },
+      {
+        "name": "Hatterene",
+        "id": 858
+      },
+      {
+        "name": "Flittle",
+        "id": 955
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Eevee",
+        "id": 133
+      },
+      {
+        "name": "Ferrothorn",
+        "id": 598
+      }
+    ]
+  }
+}

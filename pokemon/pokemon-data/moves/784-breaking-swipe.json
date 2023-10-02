@@ -1,0 +1,32 @@
+{
+  "_id": 784,
+  "key": "breaking-swipe",
+  "name": {
+    "english": "Breaking Swipe",
+    "japanese": "ワイドブレイカー",
+    "chinese": "廣域破壞",
+    "korean": "와이드브레이커",
+    "german": "Vasto Impacto",
+    "french": "Breitseite",
+    "italian": "Breaking Swipe",
+    "spanish": "Vastoimpatto"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user swings its tough tail wildly and attacks\nopposing Pokémon. This also lowers their Attack stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Lowers the target's Attack by one stage.",
+    "shortEffect": "Lowers the target's Attack by one stage after inflicting damage."
+  },
+  "priority": 0
+}

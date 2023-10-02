@@ -1,0 +1,21 @@
+{
+  "_id": 249,
+  "key": "power-spot",
+  "name": {
+    "english": "Power Spot"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Just being next to the Pokémon powers up moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Stonjourner",
+        "id": 874
+      }
+    ],
+    "hidden": []
+  }
+}

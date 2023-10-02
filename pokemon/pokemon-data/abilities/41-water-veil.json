@@ -1,0 +1,90 @@
+{
+  "_id": 41,
+  "key": "water-veil",
+  "name": {
+    "english": "Water Veil"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents burns.",
+    "full": "This Pokémon cannot be burned. If a Pokémon is burned and acquires this ability, its burn is healed; this includes when regaining a lost ability upon leaving battle."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents burns.",
+    "emerald": "Prevents burns.",
+    "firered-leafgreen": "Prevents burns.",
+    "diamond-pearl": "Prevents the Pokémon from getting a burn.",
+    "platinum": "Prevents the Pokémon from getting a burn.",
+    "heartgold-soulsilver": "Prevents the Pokémon from getting a burn.",
+    "black-white": "Prevents the Pokémon from getting a burn.",
+    "black-2-white-2": "Prevents the Pokémon from getting a burn.",
+    "x-y": "Prevents the Pokémon from getting a burn.",
+    "omega-ruby-alpha-sapphire": "Prevents the Pokémon from getting a burn.",
+    "sun-moon": "The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn.",
+    "ultra-sun-ultra-moon": "The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn.",
+    "sword-shield": "The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Goldeen",
+        "id": 118
+      },
+      {
+        "name": "Seaking",
+        "id": 119
+      },
+      {
+        "name": "Wailmer",
+        "id": 320
+      },
+      {
+        "name": "Wailord",
+        "id": 321
+      },
+      {
+        "name": "Finizen",
+        "id": 963
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Mantine",
+        "id": 226
+      },
+      {
+        "name": "Huntail",
+        "id": 367
+      },
+      {
+        "name": "Buizel",
+        "id": 418
+      },
+      {
+        "name": "Floatzel",
+        "id": 419
+      },
+      {
+        "name": "Finneon",
+        "id": 456
+      },
+      {
+        "name": "Lumineon",
+        "id": 457
+      },
+      {
+        "name": "Mantyke",
+        "id": 458
+      },
+      {
+        "name": "Finizen",
+        "id": 963
+      },
+      {
+        "name": "Dondozo",
+        "id": 977
+      }
+    ]
+  }
+}

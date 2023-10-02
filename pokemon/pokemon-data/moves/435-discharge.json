@@ -1,0 +1,42 @@
+{
+  "_id": 435,
+  "key": "discharge",
+  "name": {
+    "english": "Discharge",
+    "japanese": "ほうでん",
+    "chinese": "放电",
+    "korean": "방전",
+    "german": "Chispazo",
+    "french": "Ladungsstoß",
+    "italian": "Discharge",
+    "spanish": "Scarica"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.",
+    "platinum": "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.",
+    "heartgold-soulsilver": "A flare of electricity\nis loosed to strike\nall Pokémon in battle.\nIt may also cause\nparalysis.",
+    "black-white": "A flare of electricity is loosed to strike\nthe area around the user.\nIt may also cause paralysis.",
+    "black-2-white-2": "A flare of electricity is loosed to strike\nthe area around the user.\nIt may also cause paralysis.",
+    "x-y": "The user strikes everything around it\nby letting loose a flare of electricity.\nThis may also cause paralysis.",
+    "omega-ruby-alpha-sapphire": "The user strikes everything around it\nby letting loose a flare of electricity.\nThis may also cause paralysis.",
+    "sun-moon": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.",
+    "ultra-sun-ultra-moon": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis.",
+    "sword-shield": "The user strikes everything around it by letting loose\na flare of electricity. This may also cause paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

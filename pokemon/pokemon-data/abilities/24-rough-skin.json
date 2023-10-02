@@ -1,0 +1,58 @@
+{
+  "_id": 24,
+  "key": "rough-skin",
+  "name": {
+    "english": "Rough Skin"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Damages attacking Pokémon for 1/8 their max HP on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user takes 1/8 of its maximum HP in damage. This ability functions identically to iron barbs."
+  },
+  "description": {
+    "ruby-sapphire": "Hurts to touch.",
+    "emerald": "Hurts to touch.",
+    "firered-leafgreen": "Hurts to touch.",
+    "diamond-pearl": "Inflicts damage to the foe on contact.",
+    "platinum": "Inflicts damage to the foe on contact.",
+    "heartgold-soulsilver": "Inflicts damage to the foe on contact.",
+    "black-white": "Inflicts damage to the attacker on contact.",
+    "black-2-white-2": "Inflicts damage to the attacker on contact.",
+    "x-y": "Inflicts damage to the attacker on contact.",
+    "omega-ruby-alpha-sapphire": "Inflicts damage to the attacker on contact.",
+    "sun-moon": "This Pokémon inflicts damage with its rough skin to the attacker on contact.",
+    "ultra-sun-ultra-moon": "This Pokémon inflicts damage with its rough skin to the attacker on contact.",
+    "lets-go-pikachu-lets-go-eevee": "This Pokémon inflicts damage with its rough skin to the attacker on contact.",
+    "sword-shield": "This Pokémon inflicts damage with its rough skin to the attacker on contact."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Carvanha",
+        "id": 318
+      },
+      {
+        "name": "Sharpedo",
+        "id": 319
+      },
+      {
+        "name": "Druddigon",
+        "id": 621
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Gible",
+        "id": 443
+      },
+      {
+        "name": "Gabite",
+        "id": 444
+      },
+      {
+        "name": "Garchomp",
+        "id": 445
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 436,
+  "key": "lava-plume",
+  "name": {
+    "english": "Lava Plume",
+    "japanese": "ふんえん",
+    "chinese": "喷烟",
+    "korean": "분연",
+    "german": "Humareda",
+    "french": "Flammensturm",
+    "italian": "Lava Plume",
+    "spanish": "Lavasbuffo"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "An inferno of scarlet\nflames washes over\nall Pokémon in battle.\nIt may also inflict\nburns.",
+    "platinum": "An inferno of scarlet\nflames washes over\nall Pokémon in battle.\nIt may also inflict\nburns.",
+    "heartgold-soulsilver": "An inferno of scarlet\nflames washes over\nall Pokémon in battle.\nIt may also inflict\nburns.",
+    "black-white": "An inferno of scarlet flames torches\neverything around the user. It may\nleave targets with a burn.",
+    "black-2-white-2": "An inferno of scarlet flames torches\neverything around the user. It may\nleave targets with a burn.",
+    "x-y": "The user torches everything around it\nwith an inferno of scarlet flames.\nThis may also leave those hit with a burn.",
+    "omega-ruby-alpha-sapphire": "The user torches everything around it\nwith an inferno of scarlet flames.\nThis may also leave those hit with a burn.",
+    "sun-moon": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
+    "ultra-sun-ultra-moon": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
+    "sword-shield": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

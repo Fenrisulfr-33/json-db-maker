@@ -1,0 +1,39 @@
+{
+  "_id": 480,
+  "key": "storm-throw",
+  "name": {
+    "english": "Storm Throw",
+    "japanese": "やまあらし",
+    "chinese": "山岚",
+    "korean": "업어후리기",
+    "german": "Llave Corsé",
+    "french": "Bergsturm",
+    "italian": "Storm Throw",
+    "spanish": "Tempestretta"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+    "black-2-white-2": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+    "x-y": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+    "omega-ruby-alpha-sapphire": "The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.",
+    "sun-moon": "The user strikes the target with a fierce blow. This\nattack always results in a critical hit.",
+    "ultra-sun-ultra-moon": "The user strikes the target with a fierce blow. This\nattack always results in a critical hit.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes the target with a fierce blow. This\nattack always results in a critical hit.",
+    "sword-shield": "The user strikes the target with a fierce blow. This\nattack always results in a critical hit."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Always scores a critical hit.",
+    "shortEffect": "Always scores a critical hit."
+  },
+  "priority": 0
+}

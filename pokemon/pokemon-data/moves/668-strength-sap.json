@@ -1,0 +1,35 @@
+{
+  "_id": 668,
+  "key": "strength-sap",
+  "name": {
+    "english": "Strength Sap",
+    "japanese": "ちからをすいとる",
+    "chinese": "吸取力量",
+    "korean": "힘흡수",
+    "german": "Absorbefuerza",
+    "french": "Kraftabsorber",
+    "italian": "Strength Sap",
+    "spanish": "Assorbiforza"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user restores its HP by the same amount as the\ntarget’s Attack stat. It also lowers the target’s\nAttack stat.",
+    "ultra-sun-ultra-moon": "The user restores its HP by the same amount as the\ntarget’s Attack stat. It also lowers the target’s\nAttack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user restores its HP by the same amount as the\ntarget’s Attack stat. It also lowers the target’s\nAttack stat.",
+    "sword-shield": "The user restores its HP by the same amount as the\ntarget’s Attack stat. It also lowers the target’s\nAttack stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack by one stage.  Heals the user by the target's current Attack, including modifiers, but not including this move's Attack-lowering effect.\n\nIf the target's Attack is already at -6, this move will fail.  In any other situation that would prevent a stat modification, the healing will still succeed.",
+    "shortEffect": "Heals the user by the target's current Attack stat and lowers the target's Attack by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 487,
+  "key": "soak",
+  "name": {
+    "english": "Soak",
+    "japanese": "みずびたし",
+    "chinese": "浸水",
+    "korean": "물붓기",
+    "german": "Anegar",
+    "french": "Überflutung",
+    "italian": "Soak",
+    "spanish": "Inondazione"
+  },
+  "type": "Water",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user shoots a torrent of water\nat the target and changes\nthe target’s type to Water.",
+    "black-2-white-2": "The user shoots a torrent of water\nat the target and changes\nthe target’s type to Water.",
+    "x-y": "The user shoots a torrent of water\nat the target and changes\nthe target’s type to Water.",
+    "omega-ruby-alpha-sapphire": "The user shoots a torrent of water\nat the target and changes\nthe target’s type to Water.",
+    "sun-moon": "The user shoots a torrent of water at the target and\nchanges the target’s type to Water.",
+    "ultra-sun-ultra-moon": "The user shoots a torrent of water at the target and\nchanges the target’s type to Water.",
+    "lets-go-pikachu-lets-go-eevee": "The user shoots a torrent of water at the target and\nchanges the target’s type to Water.",
+    "sword-shield": "The user shoots a torrent of water at the target and\nchanges the target’s type to Water."
+  },
+  "effect": {
+    "full": "Changes the target to pure water-type until it leaves the field.  If the target has multitype, this move will fail.",
+    "shortEffect": "Changes the target's type to Water."
+  },
+  "priority": 0
+}

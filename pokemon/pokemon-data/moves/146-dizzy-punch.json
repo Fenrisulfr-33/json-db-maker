@@ -1,0 +1,47 @@
+{
+  "_id": 146,
+  "key": "dizzy-punch",
+  "name": {
+    "english": "Dizzy Punch",
+    "japanese": "ピヨピヨパンチ",
+    "chinese": "迷昏拳",
+    "korean": "잼잼펀치",
+    "german": "Puño Mareo",
+    "french": "Irrschlag",
+    "italian": "Dizzy Punch",
+    "spanish": "Stordipugno"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause confusion.",
+    "crystal": "An attack that may\ncause confusion.",
+    "ruby-sapphire": "A rhythmic punch that may\nconfuse the foe.",
+    "emerald": "A rhythmic punch that may\nconfuse the foe.",
+    "firered-leafgreen": "The foe is hit with\na rhythmic punch\nthat may leave it\nconfused.",
+    "diamond-pearl": "The foe is hit with a\nrhythmically launched\npunch that may also\nleave it confused.\n",
+    "platinum": "The foe is hit with\nrhythmically launched\npunches that may also\nleave it confused.\n",
+    "heartgold-soulsilver": "The foe is hit with\nrhythmically launched\npunches that may also\nleave it confused.\n",
+    "black-white": "The target is hit with rhythmically\nlaunched punches that may also\nleave it confused.",
+    "black-2-white-2": "The target is hit with rhythmically\nlaunched punches that may also\nleave it confused.",
+    "x-y": "The target is hit with rhythmically\nlaunched punches. This may also\nleave the target confused.",
+    "omega-ruby-alpha-sapphire": "The target is hit with rhythmically\nlaunched punches. This may also\nleave the target confused.",
+    "sun-moon": "The target is hit with rhythmically launched\npunches. This may also leave the target confused.",
+    "ultra-sun-ultra-moon": "The target is hit with rhythmically launched\npunches. This may also leave the target confused.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit with rhythmically launched\npunches. This may also leave the target confused.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

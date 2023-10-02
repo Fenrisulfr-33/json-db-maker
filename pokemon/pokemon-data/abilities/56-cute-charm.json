@@ -1,0 +1,90 @@
+{
+  "_id": 56,
+  "key": "cute-charm",
+  "name": {
+    "english": "Cute Charm"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Has a 30% chance of infatuating attacking Pokémon on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being infatuated. Overworld: If the first Pokémon in the party has this ability, any wild Pokémon whose species can be either gender has a 2/3 chance of being set to the opposite gender, and a 1/3 chance of having a random gender as usual."
+  },
+  "description": {
+    "ruby-sapphire": "Infatuates on contact.",
+    "emerald": "Infatuates on contact.",
+    "firered-leafgreen": "Infatuates on contact.",
+    "diamond-pearl": "Contact with the Pokémon may cause infatuation.",
+    "platinum": "Contact with the Pokémon may cause infatuation.",
+    "heartgold-soulsilver": "Contact with the Pokémon may cause infatuation.",
+    "black-white": "Contact with the Pokémon may cause infatuation.",
+    "black-2-white-2": "Contact with the Pokémon may cause infatuation.",
+    "x-y": "Contact with the Pokémon may cause infatuation.",
+    "omega-ruby-alpha-sapphire": "Contact with the Pokémon may cause infatuation.",
+    "sun-moon": "Contact with the Pokémon may cause infatuation.",
+    "ultra-sun-ultra-moon": "Contact with the Pokémon may cause infatuation.",
+    "lets-go-pikachu-lets-go-eevee": "Contact with the Pokémon may cause infatuation.",
+    "sword-shield": "Contact with the Pokémon may cause infatuation."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Clefairy",
+        "id": 35
+      },
+      {
+        "name": "Clefable",
+        "id": 36
+      },
+      {
+        "name": "Jigglypuff",
+        "id": 39
+      },
+      {
+        "name": "Wigglytuff",
+        "id": 40
+      },
+      {
+        "name": "Cleffa",
+        "id": 173
+      },
+      {
+        "name": "Igglybuff",
+        "id": 174
+      },
+      {
+        "name": "Skitty",
+        "id": 300
+      },
+      {
+        "name": "Delcatty",
+        "id": 301
+      },
+      {
+        "name": "Lopunny",
+        "id": 428
+      },
+      {
+        "name": "Minccino",
+        "id": 572
+      },
+      {
+        "name": "Cinccino",
+        "id": 573
+      },
+      {
+        "name": "Sylveon",
+        "id": 700
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Milotic",
+        "id": 350
+      },
+      {
+        "name": "Stufful",
+        "id": 759
+      }
+    ]
+  }
+}

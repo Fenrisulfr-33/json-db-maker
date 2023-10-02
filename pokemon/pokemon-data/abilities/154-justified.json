@@ -1,0 +1,60 @@
+{
+  "_id": 154,
+  "key": "justified",
+  "name": {
+    "english": "Justified"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Raises Attack one stage upon taking damage from a dark move.",
+    "full": "Whenever a dark-type move hits this Pokémon, its Attack rises one stage. The move is not negated in any way."
+  },
+  "description": {
+    "black-white": "Raises Attack when hit by a Dark-type move.",
+    "black-2-white-2": "Raises Attack when hit by a Dark-type move.",
+    "x-y": "Boosts the Attack stat when it’s hit by a Dark-type move.",
+    "omega-ruby-alpha-sapphire": "Boosts the Attack stat when it’s hit by a Dark-type move.",
+    "sun-moon": "Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice.",
+    "ultra-sun-ultra-moon": "Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice.",
+    "lets-go-pikachu-lets-go-eevee": "Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice.",
+    "sword-shield": "Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Cobalion",
+        "id": 638
+      },
+      {
+        "name": "Terrakion",
+        "id": 639
+      },
+      {
+        "name": "Virizion",
+        "id": 640
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Growlithe",
+        "id": 58
+      },
+      {
+        "name": "Arcanine",
+        "id": 59
+      },
+      {
+        "name": "Absol",
+        "id": 359
+      },
+      {
+        "name": "Lucario",
+        "id": 448
+      },
+      {
+        "name": "Gallade",
+        "id": 475
+      }
+    ]
+  }
+}

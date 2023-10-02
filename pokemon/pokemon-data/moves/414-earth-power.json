@@ -1,0 +1,42 @@
+{
+  "_id": 414,
+  "key": "earth-power",
+  "name": {
+    "english": "Earth Power",
+    "japanese": "だいちのちから",
+    "chinese": "大地之力",
+    "korean": "대지의힘",
+    "german": "Tierra Viva",
+    "french": "Erdkräfte",
+    "italian": "Earth Power",
+    "spanish": "Geoforza"
+  },
+  "type": "Ground",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
+    "platinum": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
+    "heartgold-soulsilver": "The user makes the\nground under the foe\nerupt with power.\nIt may also lower the\ntarget’s Sp. Def.",
+    "black-white": "The user makes the ground under\nthe target erupt with power.\nIt may also lower the target’s Sp. Def.",
+    "black-2-white-2": "The user makes the ground under\nthe target erupt with power.\nIt may also lower the target’s Sp. Def.",
+    "x-y": "The user makes the ground under\nthe target erupt with power.\nThis may also lower the target’s Sp. Def.",
+    "omega-ruby-alpha-sapphire": "The user makes the ground under\nthe target erupt with power.\nThis may also lower the target’s Sp. Def.",
+    "sun-moon": "The user makes the ground under the target erupt\nwith power. This may also lower the target’s \nSp. Def stat.",
+    "ultra-sun-ultra-moon": "The user makes the ground under the target erupt\nwith power. This may also lower the target’s \nSp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user makes the ground under the target erupt\nwith power. This may also lower the target’s\nSp. Def stat.",
+    "sword-shield": "The user makes the ground under the target erupt\nwith power. This may also lower the target’s\nSp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

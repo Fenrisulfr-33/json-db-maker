@@ -1,0 +1,47 @@
+{
+  "_id": 113,
+  "key": "light-screen",
+  "name": {
+    "english": "Light Screen",
+    "japanese": "ひかりのかべ",
+    "chinese": "光墙",
+    "korean": "빛의장막",
+    "german": "Pantalla de Luz",
+    "french": "Lichtschild",
+    "italian": "Light Screen",
+    "spanish": "Schermoluce"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "gold-silver": "Ups SPCL.DEF with\na wall of light.",
+    "crystal": "Ups SPCL.DEF with\na wall of light.",
+    "ruby-sapphire": "Creates a wall of light that\nlowers SP. ATK damage.",
+    "emerald": "Creates a wall of light that\nlowers SP. ATK damage.",
+    "firered-leafgreen": "A wall of light\ncuts damage from\nSP. ATK attacks\nfor five turns.",
+    "diamond-pearl": "A wondrous wall of\nlight is put up to\nsuppress damage from\nspecial attacks for\nfive turns.",
+    "platinum": "A wondrous wall of\nlight is put up to\nsuppress damage from\nspecial attacks for\nfive turns.",
+    "heartgold-soulsilver": "A wondrous wall of\nlight is put up to\nsuppress damage from\nspecial attacks for\nfive turns.",
+    "black-white": "A wondrous wall of light is put up to\nsuppress damage from special attacks\nfor five turns.",
+    "black-2-white-2": "A wondrous wall of light is put up to\nsuppress damage from special attacks\nfor five turns.",
+    "x-y": "A wondrous wall of light is put up to\nreduce damage from special attacks\nfor five turns.",
+    "omega-ruby-alpha-sapphire": "A wondrous wall of light is put up to\nreduce damage from special attacks\nfor five turns.",
+    "sun-moon": "A wondrous wall of light is put up to reduce damage\nfrom special attacks for five turns.",
+    "ultra-sun-ultra-moon": "A wondrous wall of light is put up to reduce damage\nfrom special attacks for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "A wondrous wall of light is put up to reduce damage\nfrom special attacks for five turns.",
+    "sword-shield": "A wondrous wall of light is put up to reduce damage\nfrom special attacks for five turns."
+  },
+  "effect": {
+    "full": "Erects a barrier around the user's side of the field that reduces damage from special attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.\n\nIf the user is holding light clay, the barrier lasts for eight turns.\n\nbrick break or defog used by an opponent will destroy the barrier.",
+    "shortEffect": "Reduces damage from special attacks by 50% for five turns."
+  },
+  "priority": 0
+}

@@ -1,0 +1,21 @@
+{
+  "_id": 234,
+  "key": "intrepid-sword",
+  "name": {
+    "english": "Intrepid Sword"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Boosts the Pokémon’s Attack stat when the Pokémon enters a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Zacian",
+        "id": 888
+      }
+    ],
+    "hidden": []
+  }
+}

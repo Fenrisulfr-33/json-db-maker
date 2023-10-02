@@ -1,0 +1,32 @@
+{
+  "_id": 780,
+  "key": "pyro-ball",
+  "name": {
+    "english": "Pyro Ball",
+    "japanese": "かえんボール",
+    "chinese": "火焰球",
+    "korean": "화염볼",
+    "german": "Balón Ígneo",
+    "french": "Feuerball",
+    "italian": "Pyro Ball",
+    "spanish": "Palla Infuocata"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks by igniting a small stone and launching\nit as a fiery ball at the target. This may also leave the\ntarget with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

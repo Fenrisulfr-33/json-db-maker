@@ -1,0 +1,47 @@
+{
+  "_id": 34,
+  "key": "body-slam",
+  "name": {
+    "english": "Body Slam",
+    "japanese": "のしかかり",
+    "chinese": "泰山压顶",
+    "korean": "누르기",
+    "german": "Golpe Cuerpo",
+    "french": "Bodyslam",
+    "italian": "Body Slam",
+    "spanish": "Corposcontro"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 85,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause paralysis.",
+    "crystal": "An attack that may\ncause paralysis.",
+    "ruby-sapphire": "A full-body slam that may\ncause paralysis.",
+    "emerald": "A full-body slam that may\ncause paralysis.",
+    "firered-leafgreen": "The user drops its\nfull body on the\nfoe. It may leave\nthe foe paralyzed.",
+    "diamond-pearl": "The user drops onto\nthe foe with its full\nbody weight.\nIt may leave the foe\nparalyzed.",
+    "platinum": "The user drops onto\nthe foe with its full\nbody weight.\nIt may leave the foe\nparalyzed.",
+    "heartgold-soulsilver": "The user drops onto\nthe foe with its full\nbody weight.\nIt may leave the foe\nparalyzed.",
+    "black-white": "The user drops onto the target\nwith its full body weight. It may also\nleave the target with paralysis.",
+    "black-2-white-2": "The user drops onto the target\nwith its full body weight. It may also\nleave the target with paralysis.",
+    "x-y": "The user drops onto the target\nwith its full body weight. This may also\nleave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user drops onto the target\nwith its full body weight. This may also\nleave the target with paralysis.",
+    "sun-moon": "The user drops onto the target with its full body\nweight. This may also leave the target with paralysis.",
+    "ultra-sun-ultra-moon": "The user drops onto the target with its full body\nweight. This may also leave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user drops onto the target with its full body\nweight. This may also leave the target with paralysis.",
+    "sword-shield": "The user drops onto the target with its full body\nweight. This may also leave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

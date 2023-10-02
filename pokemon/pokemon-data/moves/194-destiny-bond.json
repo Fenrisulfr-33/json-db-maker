@@ -1,0 +1,47 @@
+{
+  "_id": 194,
+  "key": "destiny-bond",
+  "name": {
+    "english": "Destiny Bond",
+    "japanese": "みちづれ",
+    "chinese": "同命",
+    "korean": "길동무",
+    "german": "Mismo Destino",
+    "french": "Abgangsbund",
+    "italian": "Destiny Bond",
+    "spanish": "Destinobbligato"
+  },
+  "type": "Ghost",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "The foe faints if\nthe user does.",
+    "crystal": "The foe faints if\nthe user does.",
+    "ruby-sapphire": "If the user faints, the foe\nis also made to faint.",
+    "emerald": "If the user faints, the foe\nis also made to faint.",
+    "firered-leafgreen": "If the user faints,\nthe foe delivering\nthe final hit also\nfaints.",
+    "diamond-pearl": "When this move is\nused, if the user\nfaints, the foe that\nlanded the knockout\nhit also faints.",
+    "platinum": "When this move is\nused, if the user\nfaints, the foe that\nlanded the knockout\nhit also faints.",
+    "heartgold-soulsilver": "When this move is\nused, if the user\nfaints, the foe that\nlanded the knockout\nhit also faints.",
+    "black-white": "When this move is used, if the user faints,\nthe Pokémon that landed the knockout\nhit also faints.",
+    "black-2-white-2": "When this move is used, if the user faints,\nthe Pokémon that landed the knockout\nhit also faints.",
+    "x-y": "When this move is used, if the user faints,\nthe Pokémon that landed the knockout\nhit also faints.",
+    "omega-ruby-alpha-sapphire": "When this move is used, if the user faints,\nthe Pokémon that landed the knockout\nhit also faints.",
+    "sun-moon": "After using this move, if the user faints, the\nPokémon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+    "ultra-sun-ultra-moon": "After using this move, if the user faints, the\nPokémon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+    "lets-go-pikachu-lets-go-eevee": "After using this move, if the user faints, the\nPokémon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession.",
+    "sword-shield": "After using this move, if the user faints, the\nPokémon that landed the knockout hit also faints.\nIts chance of failing rises if it is used in succession."
+  },
+  "effect": {
+    "full": "If the user faints before its next move, the Pokémon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+    "shortEffect": "If the user faints this turn, the target automatically will, too."
+  },
+  "priority": 0
+}

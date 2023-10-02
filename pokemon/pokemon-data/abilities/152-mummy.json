@@ -1,0 +1,35 @@
+{
+  "_id": 152,
+  "key": "mummy",
+  "name": {
+    "english": "Mummy"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Changes attacking Pokémon's abilities to Mummy on contact.",
+    "full": "Whenever a contact move hits this Pokémon, the attacking Pokémon's ability changes to Mummy. multitype is unaffected. If a Pokémon with moxie knocks this Pokémon out, the former's ability will change without taking effect."
+  },
+  "description": {
+    "black-white": "Contact with this Pokémon spreads this Ability.",
+    "black-2-white-2": "Contact with this Pokémon spreads this Ability.",
+    "x-y": "Contact with the Pokémon spreads this Ability.",
+    "omega-ruby-alpha-sapphire": "Contact with the Pokémon spreads this Ability.",
+    "sun-moon": "Contact with the Pokémon changes the attacker’s Ability to Mummy.",
+    "ultra-sun-ultra-moon": "Contact with the Pokémon changes the attacker’s Ability to Mummy.",
+    "lets-go-pikachu-lets-go-eevee": "Contact with the Pokémon changes the attacker’s Ability to Mummy.",
+    "sword-shield": "Contact with the Pokémon changes the attacker’s Ability to Mummy."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Yamask",
+        "id": 562
+      },
+      {
+        "name": "Cofagrigus",
+        "id": 563
+      }
+    ],
+    "hidden": []
+  }
+}

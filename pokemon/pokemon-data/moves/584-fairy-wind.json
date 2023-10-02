@@ -1,0 +1,37 @@
+{
+  "_id": 584,
+  "key": "fairy-wind",
+  "name": {
+    "english": "Fairy Wind",
+    "japanese": "ようせいのかぜ",
+    "chinese": "妖精之风",
+    "korean": "요정의바람",
+    "german": "Viento Feérico",
+    "french": "Feenbrise",
+    "italian": "Fairy Wind",
+    "spanish": "Vento di Fata"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user stirs up a fairy wind\nand strikes the target with it.",
+    "omega-ruby-alpha-sapphire": "The user stirs up a fairy wind\nand strikes the target with it.",
+    "sun-moon": "The user stirs up a fairy wind and strikes the target\nwith it.",
+    "ultra-sun-ultra-moon": "The user stirs up a fairy wind and strikes the target\nwith it.",
+    "lets-go-pikachu-lets-go-eevee": "The user stirs up a fairy wind and strikes the target\nwith it.",
+    "sword-shield": "The user stirs up a fairy wind and strikes the target\nwith it."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

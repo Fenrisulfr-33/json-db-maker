@@ -1,0 +1,68 @@
+{
+  "_id": 131,
+  "key": "healer",
+  "name": {
+    "english": "Healer"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.",
+    "full": "Friendly Pokémon next to this Pokémon in double and triple battles each have a 30% chance of being cured of any major status ailment after each turn."
+  },
+  "description": {
+    "black-white": "May heal an ally’s status conditions.",
+    "black-2-white-2": "May heal an ally’s status conditions.",
+    "x-y": "Sometimes heals an ally’s status condition.",
+    "omega-ruby-alpha-sapphire": "Sometimes heals an ally’s status condition.",
+    "sun-moon": "Sometimes heals an ally’s status condition.",
+    "ultra-sun-ultra-moon": "Sometimes heals an ally’s status condition.",
+    "lets-go-pikachu-lets-go-eevee": "Sometimes heals an ally’s status condition.",
+    "sword-shield": "Sometimes heals an ally’s status condition."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Audino",
+        "id": 531
+      },
+      {
+        "name": "Alomomola",
+        "id": 594
+      },
+      {
+        "name": "Spritzee",
+        "id": 682
+      },
+      {
+        "name": "Aromatisse",
+        "id": 683
+      },
+      {
+        "name": "Hatenna",
+        "id": 856
+      },
+      {
+        "name": "Hattrem",
+        "id": 857
+      },
+      {
+        "name": "Hatterene",
+        "id": 858
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Chansey",
+        "id": 113
+      },
+      {
+        "name": "Bellossom",
+        "id": 182
+      },
+      {
+        "name": "Blissey",
+        "id": 242
+      }
+    ]
+  }
+}

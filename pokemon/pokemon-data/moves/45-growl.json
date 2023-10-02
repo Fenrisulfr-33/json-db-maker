@@ -1,0 +1,47 @@
+{
+  "_id": 45,
+  "key": "growl",
+  "name": {
+    "english": "Growl",
+    "japanese": "なきごえ",
+    "chinese": "嚎叫",
+    "korean": "울음소리",
+    "german": "Gruñido",
+    "french": "Heuler",
+    "italian": "Growl",
+    "spanish": "Ruggito"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 40,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "Reduces the foe's\nATTACK.",
+    "crystal": "Reduces the foe's\nATTACK.",
+    "ruby-sapphire": "Growls cutely to reduce the\nfoe’s ATTACK.",
+    "emerald": "Growls cutely to reduce the\nfoe’s ATTACK.",
+    "firered-leafgreen": "The user growls in\na cute way, making\nthe foe lower its\nATTACK stat.",
+    "diamond-pearl": "The user growls in an\nendearing way, making\nthe foe less wary.\nThe target’s Attack\nstat is lowered.",
+    "platinum": "The user growls in an\nendearing way, making\nthe foe less wary.\nThe target’s Attack\nstat is lowered.",
+    "heartgold-soulsilver": "The user growls in an\nendearing way, making\nthe foe less wary.\nThe target’s Attack\nstat is lowered.",
+    "black-white": "The user growls in an endearing way,\nmaking the opposing team less wary.\nThe foes’ Attack stats are lowered.",
+    "black-2-white-2": "The user growls in an endearing way,\nmaking the opposing team less wary.\nThe foes’ Attack stats are lowered.",
+    "x-y": "The user growls in an endearing way,\nmaking opposing Pokémon less wary.\nThis lowers their Attack stats.",
+    "omega-ruby-alpha-sapphire": "The user growls in an endearing way,\nmaking opposing Pokémon less wary.\nThis lowers their Attack stats.",
+    "sun-moon": "The user growls in an endearing way, making\nopposing Pokémon less wary. This lowers their\nAttack stat.",
+    "ultra-sun-ultra-moon": "The user growls in an endearing way, making\nopposing Pokémon less wary. This lowers their\nAttack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user growls in an endearing way, making\nopposing Pokémon less wary. This lowers their\nAttack stat.",
+    "sword-shield": "The user growls in an endearing way, making\nopposing Pokémon less wary. This lowers their\nAttack stats."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack by one stage.",
+    "shortEffect": "Lowers the target's Attack by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,17 @@
+{
+  "_id": 890,
+  "key": "armor-cannon",
+  "name": {
+    "english": "Armor Cannon"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

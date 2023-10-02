@@ -1,0 +1,37 @@
+{
+  "_id": 596,
+  "key": "spiky-shield",
+  "name": {
+    "english": "Spiky Shield",
+    "japanese": "ニードルガード",
+    "chinese": "尖刺防守",
+    "korean": "니들가드",
+    "german": "Barrera Espinosa",
+    "french": "Schutzstacheln",
+    "italian": "Spiky Shield",
+    "spanish": "Agodifesa"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 6,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "x-y": "In addition to protecting the user from attacks,\nthis move also damages any attacker who\nmakes direct contact.",
+    "omega-ruby-alpha-sapphire": "In addition to protecting the user from attacks,\nthis move also damages any attacker who\nmakes direct contact.",
+    "sun-moon": "In addition to protecting the user from attacks, this\nmove also damages any attacker who makes\ndirect contact.",
+    "ultra-sun-ultra-moon": "In addition to protecting the user from attacks, this\nmove also damages any attacker who makes\ndirect contact.",
+    "lets-go-pikachu-lets-go-eevee": "In addition to protecting the user from attacks, this\nmove also damages any attacker who makes\ndirect contact.",
+    "sword-shield": "In addition to protecting the user from attacks, this\nmove also damages any attacker that makes\ndirect contact."
+  },
+  "effect": {
+    "full": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.",
+    "shortEffect": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP."
+  },
+  "priority": 4
+}

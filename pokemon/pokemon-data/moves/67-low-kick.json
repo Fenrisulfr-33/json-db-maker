@@ -1,0 +1,47 @@
+{
+  "_id": 67,
+  "key": "low-kick",
+  "name": {
+    "english": "Low Kick",
+    "japanese": "けたぐり",
+    "chinese": "下踢",
+    "korean": "안다리걸기",
+    "german": "Patada Baja",
+    "french": "Fußkick",
+    "italian": "Low Kick",
+    "spanish": "Colpo Basso"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause flinching.",
+    "crystal": "An attack that may\ncause flinching.",
+    "ruby-sapphire": "A kick that inflicts more\ndamage on heavier foes.",
+    "emerald": "A kick that inflicts more\ndamage on heavier foes.",
+    "firered-leafgreen": "A low, tripping kick\nthat inflicts more\ndamage on heavier\nfoes.",
+    "diamond-pearl": "A powerful low kick\nthat makes the foe\nfall over. It inflicts\ngreater damage on\nheavier foes.",
+    "platinum": "A powerful low kick\nthat makes the foe\nfall over. It inflicts\ngreater damage on\nheavier foes.",
+    "heartgold-soulsilver": "A powerful low kick\nthat makes the foe\nfall over. It inflicts\ngreater damage on\nheavier foes.",
+    "black-white": "A powerful low kick that makes the target\nfall over. It inflicts greater damage on\nheavier targets.",
+    "black-2-white-2": "A powerful low kick that makes the target\nfall over. It inflicts greater damage on\nheavier targets.",
+    "x-y": "A powerful low kick that makes the target\nfall over. The heavier the target,\nthe greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "A powerful low kick that makes the target\nfall over. The heavier the target,\nthe greater the move’s power.",
+    "sun-moon": "A powerful low kick that makes the target fall over.\nThe heavier the target, the greater the\nmove’s power.",
+    "ultra-sun-ultra-moon": "A powerful low kick that makes the target fall over.\nThe heavier the target, the greater the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "A powerful low kick that makes the target fall over.\nThe heavier the target, the greater the\nmove’s power.",
+    "sword-shield": "A powerful low kick that makes the target fall over.\nThe heavier the target, the greater the move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.\n\nTarget's weight | Power\n--------------- | ----:\nUp to 10kg      |    20\nUp to 25kg      |    40\nUp to 50kg      |    60\nUp to 100kg     |    80\nUp to 200kg     |   100\nAbove 200kg     |   120\n",
+    "shortEffect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+  },
+  "priority": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_id": 165,
+  "key": "aroma-veil",
+  "name": {
+    "english": "Aroma Veil"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Protects allies against moves that affect their mental state.",
+    "full": "Protects allies against moves that affect their mental state."
+  },
+  "description": {
+    "x-y": "Protects allies from attacks that limit their move choices.",
+    "omega-ruby-alpha-sapphire": "Protects allies from attacks that limit their move choices.",
+    "sun-moon": "Protects itself and its allies from attacks that limit their move choices.",
+    "ultra-sun-ultra-moon": "Protects itself and its allies from attacks that limit their move choices.",
+    "lets-go-pikachu-lets-go-eevee": "Protects itself and its allies from attacks that limit their move choices.",
+    "sword-shield": "Protects itself and its allies from attacks that limit their move choices."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Lechonk",
+        "id": 915
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Spritzee",
+        "id": 682
+      },
+      {
+        "name": "Aromatisse",
+        "id": 683
+      },
+      {
+        "name": "Milcery",
+        "id": 868
+      },
+      {
+        "name": "Alcremie",
+        "id": 869
+      },
+      {
+        "name": "Dachsbun",
+        "id": 927
+      }
+    ]
+  }
+}

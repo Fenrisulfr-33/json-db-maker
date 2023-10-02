@@ -1,0 +1,47 @@
+{
+  "_id": 57,
+  "key": "surf",
+  "name": {
+    "english": "Surf",
+    "japanese": "なみのり",
+    "chinese": "冲浪",
+    "korean": "파도타기",
+    "german": "Surf",
+    "french": "Surfer",
+    "italian": "Surf",
+    "spanish": "Surf"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A strong water-\ntype attack.",
+    "crystal": "A strong water-\ntype attack.",
+    "ruby-sapphire": "Creates a huge wave, then\ncrashes it down on the foe.",
+    "emerald": "Creates a huge wave, then\ncrashes it down on the foe.",
+    "firered-leafgreen": "A big wave crashes\ndown on the foe.\nCan also be used\nfor crossing water.",
+    "diamond-pearl": "It swamps the entire\nbattlefield with a\ngiant wave.\nIt can also be used\nfor crossing water.",
+    "platinum": "It swamps the entire\nbattlefield with a\ngiant wave.\nIt can also be used\nfor crossing water.",
+    "heartgold-soulsilver": "It swamps the entire\nbattlefield with a\ngiant wave.\nIt can also be used\nfor crossing water.",
+    "black-white": "It swamps the area around the user\nwith a giant wave.\nIt can also be used for crossing water.",
+    "black-2-white-2": "It swamps the area around the user\nwith a giant wave.\nIt can also be used for crossing water.",
+    "x-y": "The user attacks everything around it by\nswamping its surroundings with a giant wave.\nThis can also be used for crossing water.",
+    "omega-ruby-alpha-sapphire": "The user attacks everything around it by\nswamping its surroundings with a giant wave.\nThis can also be used for crossing water.",
+    "sun-moon": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
+    "ultra-sun-ultra-moon": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks everything around it by swamping\nits surroundings with a giant wave.",
+    "sword-shield": "The user attacks everything around it by swamping\nits surroundings with a giant wave."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+    "shortEffect": "Inflicts regular damage and can hit Dive users."
+  },
+  "priority": 0
+}

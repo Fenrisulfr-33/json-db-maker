@@ -1,0 +1,29 @@
+{
+  "_id": 755,
+  "key": "fishious-rend",
+  "name": {
+    "english": "Fishious Rend",
+    "japanese": "エラがみ",
+    "chinese": "鰓咬",
+    "korean": "아가미물기",
+    "german": "Branquibocado",
+    "french": "Kiemenbiss",
+    "italian": "Fishious Rend",
+    "spanish": "Branchiomorso"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 85,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user rends the target with its hard gills.\nIf the user attacks before the target, the power of this\nmove is doubled."
+  },
+  "effect": {},
+  "priority": 0
+}

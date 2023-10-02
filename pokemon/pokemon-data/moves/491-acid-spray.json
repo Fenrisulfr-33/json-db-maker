@@ -1,0 +1,39 @@
+{
+  "_id": 491,
+  "key": "acid-spray",
+  "name": {
+    "english": "Acid Spray",
+    "japanese": "アシッドボム",
+    "chinese": "酸液炸弹",
+    "korean": "애시드봄",
+    "german": "Bomba Ácida",
+    "french": "Säurespeier",
+    "italian": "Acid Spray",
+    "spanish": "Acidobomba"
+  },
+  "type": "Poison",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user spits fluid that works to melt\nthe target. This harshly reduces\nthe target’s Sp. Def stat.",
+    "black-2-white-2": "The user spits fluid that works to melt\nthe target. This harshly reduces\nthe target’s Sp. Def stat.",
+    "x-y": "The user spits fluid that works to melt\nthe target. This harshly lowers\nthe target’s Sp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user spits fluid that works to melt\nthe target. This harshly lowers\nthe target’s Sp. Def stat.",
+    "sun-moon": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat.",
+    "sword-shield": "The user spits fluid that works to melt the target.\nThis harshly lowers the target’s Sp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Lowers the target's Special Defense by two stages.",
+    "shortEffect": "Lowers the target's Special Defense by two stages."
+  },
+  "priority": 0
+}

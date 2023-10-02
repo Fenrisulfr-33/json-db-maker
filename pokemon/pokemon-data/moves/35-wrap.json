@@ -1,0 +1,47 @@
+{
+  "_id": 35,
+  "key": "wrap",
+  "name": {
+    "english": "Wrap",
+    "japanese": "まきつく",
+    "chinese": "捆绑",
+    "korean": "김밥말이",
+    "german": "Constricción",
+    "french": "Wickel",
+    "italian": "Wrap",
+    "spanish": "Avvolgibotta"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 15,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Squeezes the foe\nfor 2-5 turns.",
+    "crystal": "Squeezes the foe\nfor 2-5 turns.",
+    "ruby-sapphire": "Wraps and squeezes the foe\n2 to 5 times with vines, etc.",
+    "emerald": "Wraps and squeezes the foe\n2 to 5 times with vines, etc.",
+    "firered-leafgreen": "A long body or\nvines are used to\nwrap the foe for\ntwo to five turns.",
+    "diamond-pearl": "A long body or vines\nare used to wrap and\nsqueeze the foe for\ntwo to five turns.\n",
+    "platinum": "A long body or vines\nare used to wrap and\nsqueeze the foe for\ntwo to five turns.\n",
+    "heartgold-soulsilver": "A long body or vines\nare used to wrap and\nsqueeze the foe for\ntwo to five turns.\n",
+    "black-white": "A long body or vines are used to wrap and\nsqueeze the target for four to five turns.",
+    "black-2-white-2": "A long body or vines are used to wrap and\nsqueeze the target for four to five turns.",
+    "x-y": "A long body or vines are used to wrap and\nsqueeze the target for four to five turns.",
+    "omega-ruby-alpha-sapphire": "A long body or vines are used to wrap and\nsqueeze the target for four to five turns.",
+    "sun-moon": "A long body, vines, or the like are used to wrap and \nsqueeze the target for four to five turns.",
+    "ultra-sun-ultra-moon": "A long body, vines, or the like are used to wrap and \nsqueeze the target for four to five turns.",
+    "lets-go-pikachu-lets-go-eevee": "A long body, vines, or the like are used to wrap and\nsqueeze the target for four to five turns.",
+    "sword-shield": "A long body, vines, or the like are used to wrap and\nsqueeze the target for four to five turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+    "shortEffect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+  },
+  "priority": 0
+}

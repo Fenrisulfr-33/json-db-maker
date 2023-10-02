@@ -1,0 +1,45 @@
+{
+  "_id": 294,
+  "key": "tail-glow",
+  "name": {
+    "english": "Tail Glow",
+    "japanese": "ほたるび",
+    "chinese": "萤火",
+    "korean": "반딧불",
+    "german": "Ráfaga",
+    "french": "Schweifglanz",
+    "italian": "Tail Glow",
+    "spanish": "Codadiluce"
+  },
+  "type": "Bug",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Flashes a light that sharply\nraises SP. ATK.",
+    "emerald": "Flashes a light that sharply\nraises SP. ATK.",
+    "firered-leafgreen": "The user flashes a\nlight that sharply\nraises its SP. ATK\nstat.",
+    "diamond-pearl": "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.",
+    "platinum": "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.",
+    "heartgold-soulsilver": "The user stares at\nflashing lights to\nfocus its mind,\nsharply raising its\nSp. Atk stat.",
+    "black-white": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+    "black-2-white-2": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+    "x-y": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.",
+    "sun-moon": "The user stares at flashing lights to focus its mind,\ndrastically raising its Sp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user stares at flashing lights to focus its mind,\ndrastically raising its Sp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user stares at flashing lights to focus its mind,\ndrastically raising its Sp. Atk stat.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Raises the user's Special Attack by three stages.",
+    "shortEffect": "Raises the user's Special Attack by three stages."
+  },
+  "priority": 0
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 340,
+  "key": "bounce",
+  "name": {
+    "english": "Bounce",
+    "japanese": "とびはねる",
+    "chinese": "飞跳",
+    "korean": "뛰어오르다",
+    "german": "Bote",
+    "french": "Sprungfeder",
+    "italian": "Bounce",
+    "spanish": "Rimbalzo"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 5,
+  "power": 85,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Bounces up, then down the\nnext turn. May paralyze.",
+    "emerald": "Bounces up, then down the\nnext turn. May paralyze.",
+    "firered-leafgreen": "The user bounces\non the foe on the\n2nd turn. It may\nparalyze the foe.",
+    "diamond-pearl": "The user bounces up\nhigh, then drops on\nthe foe on the second\nturn. It may also\nparalyze the foe.",
+    "platinum": "The user bounces up\nhigh, then drops on\nthe foe on the second\nturn. It may also\nparalyze the foe.",
+    "heartgold-soulsilver": "The user bounces up\nhigh, then drops on\nthe foe on the second\nturn. It may also\nparalyze the foe.",
+    "black-white": "The user bounces up high, then drops on\nthe target on the second turn. It may\nalso leave the target with paralysis.",
+    "black-2-white-2": "The user bounces up high, then drops on\nthe target on the second turn. It may\nalso leave the target with paralysis.",
+    "x-y": "The user bounces up high, then drops on\nthe target on the second turn. This may\nalso leave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user bounces up high, then drops on\nthe target on the second turn. This may\nalso leave the target with paralysis.",
+    "sun-moon": "The user bounces up high, then drops on the target\non the second turn. This may also leave the target\nwith paralysis.",
+    "ultra-sun-ultra-moon": "The user bounces up high, then drops on the target\non the second turn. This may also leave the target\nwith paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user bounces up high, then drops on the target\non the second turn. This may also leave the target\nwith paralysis.",
+    "sword-shield": "The user bounces up high, then drops on the target\non the second turn. This may also leave the target\nwith paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a $effect_chance% chance to paralyze the target.\n\nDuring the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User bounces high into the air, dodging all attacks, and hits next turn."
+  },
+  "priority": 0
+}

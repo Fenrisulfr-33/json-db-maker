@@ -1,0 +1,45 @@
+{
+  "_id": 302,
+  "key": "needle-arm",
+  "name": {
+    "english": "Needle Arm",
+    "japanese": "ニードルアーム",
+    "chinese": "针叶暗器",
+    "korean": "바늘팔",
+    "german": "Brazo Pincho",
+    "french": "Nietenranke",
+    "italian": "Needle Arm",
+    "spanish": "Pugnospine"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks with thorny arms.\nMay cause flinching.",
+    "emerald": "Attacks with thorny arms.\nMay cause flinching.",
+    "firered-leafgreen": "An attack using\nthorny arms.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.",
+    "platinum": "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "The user attacks by\nwildly swinging its\nthorny arms.\nIt may also make the\ntarget flinch.",
+    "black-white": "The user attacks by wildly swinging its\nthorny arms. It may also make the\ntarget flinch.",
+    "black-2-white-2": "The user attacks by wildly swinging its\nthorny arms. It may also make the\ntarget flinch.",
+    "x-y": "The user attacks by wildly swinging its\nthorny arms. This may also make the\ntarget flinch.",
+    "omega-ruby-alpha-sapphire": "The user attacks by wildly swinging its\nthorny arms. This may also make the\ntarget flinch.",
+    "sun-moon": "The user attacks by wildly swinging its thorny arms.\nThis may also make the target flinch.",
+    "ultra-sun-ultra-moon": "The user attacks by wildly swinging its thorny arms.\nThis may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by wildly swinging its thorny arms.\nThis may also make the target flinch.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

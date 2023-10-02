@@ -1,0 +1,45 @@
+{
+  "_id": 313,
+  "key": "fake-tears",
+  "name": {
+    "english": "Fake Tears",
+    "japanese": "うそなき",
+    "chinese": "假哭",
+    "korean": "거짓울음",
+    "german": "Llanto Falso",
+    "french": "Trugträne",
+    "italian": "Fake Tears",
+    "spanish": "Falselacrime"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Feigns crying to sharply\nlower the foe’s SP. DEF.",
+    "emerald": "Feigns crying to sharply\nlower the foe’s SP. DEF.",
+    "firered-leafgreen": "The user feigns\ncrying to sharply\nlower the foe’s\nSP. DEF stat.",
+    "diamond-pearl": "The user feigns\ncrying to make the\nfoe feel flustered,\nsharply lowering its\nSp. Def stat.",
+    "platinum": "The user feigns\ncrying to make the\nfoe feel flustered,\nsharply lowering its\nSp. Def stat.",
+    "heartgold-soulsilver": "The user feigns\ncrying to make the\nfoe feel flustered,\nsharply lowering its\nSp. Def stat.",
+    "black-white": "The user feigns crying to fluster\nthe target, harshly lowering its\nSp. Def stat.",
+    "black-2-white-2": "The user feigns crying to fluster\nthe target, harshly lowering its\nSp. Def stat.",
+    "x-y": "The user feigns crying to fluster\nthe target, harshly lowering its\nSp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user feigns crying to fluster\nthe target, harshly lowering its\nSp. Def stat.",
+    "sun-moon": "The user feigns crying to fluster the target, harshly\nlowering its Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The user feigns crying to fluster the target, harshly\nlowering its Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user feigns crying to fluster the target, harshly\nlowering its Sp. Def stat.",
+    "sword-shield": "The user feigns crying to fluster the target, harshly\nlowering its Sp. Def stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Special Defense by two stages.",
+    "shortEffect": "Lowers the target's Special Defense by two stages."
+  },
+  "priority": 0
+}

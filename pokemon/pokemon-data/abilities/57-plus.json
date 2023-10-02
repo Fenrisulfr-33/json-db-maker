@@ -1,0 +1,66 @@
+{
+  "_id": 57,
+  "key": "plus",
+  "name": {
+    "english": "Plus"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Increases Special Attack to 1.5× when a friendly Pokémon has plus or minus.",
+    "full": "This Pokémon has 1.5× its Special Attack if any friendly Pokémon has plus or minus. This bonus does not count as a stat modifier. If either ability is disabled by gastro acid, both lose their effect."
+  },
+  "description": {
+    "ruby-sapphire": "Powers up with MINUS.",
+    "emerald": "Powers up with MINUS.",
+    "firered-leafgreen": "Powers up with MINUS.",
+    "diamond-pearl": "Boosts Sp. Atk if another Pokémon has Minus.",
+    "platinum": "Boosts Sp. Atk if another Pokémon has Minus.",
+    "heartgold-soulsilver": "Ups Sp. Atk if another Pokémon has Minus.",
+    "black-white": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
+    "black-2-white-2": "Ups Sp. Atk if another Pokémon has Plus or Minus.",
+    "x-y": "Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.",
+    "omega-ruby-alpha-sapphire": "Boosts the Sp. Atk stat if another Pokémon has Plus or Minus.",
+    "sun-moon": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
+    "ultra-sun-ultra-moon": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.",
+    "sword-shield": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Plusle",
+        "id": 311
+      },
+      {
+        "name": "Klink",
+        "id": 599
+      },
+      {
+        "name": "Klang",
+        "id": 600
+      },
+      {
+        "name": "Klinklang",
+        "id": 601
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Mareep",
+        "id": 179
+      },
+      {
+        "name": "Flaaffy",
+        "id": 180
+      },
+      {
+        "name": "Ampharos",
+        "id": 181
+      },
+      {
+        "name": "Dedenne",
+        "id": 702
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_id": 269,
+  "key": "seed-sower",
+  "name": {
+    "english": "Seed Sower"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "",
+    "full": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack."
+  },
+  "description": {
+    "scarlet-violet": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Arboliva",
+        "id": 930
+      }
+    ],
+    "hidden": []
+  }
+}

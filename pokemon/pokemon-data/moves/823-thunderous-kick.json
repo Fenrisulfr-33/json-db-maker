@@ -1,0 +1,32 @@
+{
+  "_id": 823,
+  "key": "thunderous-kick",
+  "name": {
+    "english": "Thunderous Kick",
+    "japanese": "らいめいげり",
+    "chinese": "雷鳴蹴擊",
+    "korean": "천둥차기",
+    "german": "Patada Relámpago",
+    "french": "Donnernder Tritt",
+    "italian": "Thunderous Kick",
+    "spanish": "Calcio Tonante"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user overwhelms the target with lightning-like\nmovement before delivering a kick. This also lowers\nthe target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

@@ -1,0 +1,29 @@
+{
+  "_id": 236,
+  "key": "libero",
+  "name": {
+    "english": "Libero"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Changes the Pokémon’s type to the type of the move it’s about to use."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Scorbunny",
+        "id": 813
+      },
+      {
+        "name": "Raboot",
+        "id": 814
+      },
+      {
+        "name": "Cinderace",
+        "id": 815
+      }
+    ]
+  }
+}

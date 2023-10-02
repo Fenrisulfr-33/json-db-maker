@@ -1,0 +1,39 @@
+{
+  "_id": 498,
+  "key": "chip-away",
+  "name": {
+    "english": "Chip Away",
+    "japanese": "なしくずし",
+    "chinese": "循序渐进",
+    "korean": "야금야금",
+    "german": "Guardia Baja",
+    "french": "Zermürben",
+    "italian": "Chip Away",
+    "spanish": "Insidia"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "Looking for an opening, the user strikes\ncontinually. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "black-2-white-2": "Looking for an opening, the user strikes\ncontinually. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "x-y": "Looking for an opening, the user strikes\nconsistently. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "omega-ruby-alpha-sapphire": "Looking for an opening, the user strikes\nconsistently. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "sun-moon": "Looking for an opening, the user strikes consistently.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+    "ultra-sun-ultra-moon": "Looking for an opening, the user strikes consistently.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+    "lets-go-pikachu-lets-go-eevee": "Looking for an opening, the user strikes consistently.\nThe target’s stat changes don’t affect this\nattack’s damage.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.",
+    "shortEffect": "Ignores the target's stat modifiers."
+  },
+  "priority": 0
+}

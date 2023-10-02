@@ -1,0 +1,47 @@
+{
+  "_id": 30,
+  "key": "horn-attack",
+  "name": {
+    "english": "Horn Attack",
+    "japanese": "つのでつく",
+    "chinese": "角撞",
+    "korean": "뿔찌르기",
+    "german": "Cornada",
+    "french": "Hornattacke",
+    "italian": "Horn Attack",
+    "spanish": "Incornata"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 25,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack using a\nhorn to jab.",
+    "crystal": "An attack using a\nhorn to jab.",
+    "ruby-sapphire": "Jabs the foe with sharp\nhorns.",
+    "emerald": "Jabs the foe with sharp\nhorns.",
+    "firered-leafgreen": "The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.",
+    "diamond-pearl": "The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.\n",
+    "platinum": "The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.\n",
+    "heartgold-soulsilver": "The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.\n",
+    "black-white": "The target is jabbed with a sharply\npointed horn to inflict damage.",
+    "black-2-white-2": "The target is jabbed with a sharply\npointed horn to inflict damage.",
+    "x-y": "The target is jabbed with a sharply\npointed horn to inflict damage.",
+    "omega-ruby-alpha-sapphire": "The target is jabbed with a sharply\npointed horn to inflict damage.",
+    "sun-moon": "The target is jabbed with a sharply pointed horn to\ninflict damage.",
+    "ultra-sun-ultra-moon": "The target is jabbed with a sharply pointed horn to\ninflict damage.",
+    "lets-go-pikachu-lets-go-eevee": "The target is jabbed with a sharply pointed horn to\ninflict damage.",
+    "sword-shield": "The target is jabbed with a sharply pointed horn to\ninflict damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

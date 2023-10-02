@@ -1,0 +1,47 @@
+{
+  "_id": 61,
+  "key": "bubble-beam",
+  "name": {
+    "english": "Bubble Beam",
+    "japanese": "バブルこうせん",
+    "chinese": "泡沫光线",
+    "korean": "거품광선",
+    "german": "Rayo Burbuja",
+    "french": "Blubbstrahl",
+    "italian": "Bubble Beam",
+    "spanish": "Bollaraggio"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nlower SPEED.",
+    "crystal": "An attack that may\nlower SPEED.",
+    "ruby-sapphire": "Forcefully sprays bubbles\nthat may lower SPEED.",
+    "emerald": "Forcefully sprays bubbles\nthat may lower SPEED.",
+    "firered-leafgreen": "A spray of bubbles\nstrikes the foe.\nIt may lower the\nfoe’s SPEED stat.",
+    "diamond-pearl": "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.",
+    "platinum": "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.",
+    "heartgold-soulsilver": "A spray of bubbles is\nforcefully ejected\nat the foe.\nIt may also lower the\ntarget’s Speed stat.",
+    "black-white": "A spray of bubbles is forcefully ejected\nat the opposing team. It may also lower\ntheir Speed stats.",
+    "black-2-white-2": "A spray of bubbles is forcefully ejected\nat the opposing team. It may also lower\ntheir Speed stats.",
+    "x-y": "A spray of bubbles is forcefully ejected\nat the target. This may also lower\nits Speed stat.",
+    "omega-ruby-alpha-sapphire": "A spray of bubbles is forcefully ejected\nat the target. This may also lower\nits Speed stat.",
+    "sun-moon": "A spray of bubbles is forcefully ejected at the\ntarget. This may also lower its Speed stat.",
+    "ultra-sun-ultra-moon": "A spray of bubbles is forcefully ejected at the\ntarget. This may also lower its Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "A spray of bubbles is forcefully ejected at the\ntarget. This may also lower its Speed stat.",
+    "sword-shield": "A spray of bubbles is forcefully ejected at the\ntarget. This may also lower the target’s Speed stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

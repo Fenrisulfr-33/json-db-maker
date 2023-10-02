@@ -1,0 +1,45 @@
+{
+  "_id": 280,
+  "key": "brick-break",
+  "name": {
+    "english": "Brick Break",
+    "japanese": "かわらわり",
+    "chinese": "劈瓦",
+    "korean": "깨트리다",
+    "german": "Demolición",
+    "french": "Durchbruch",
+    "italian": "Brick Break",
+    "spanish": "Breccia"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Destroys barriers such as\nREFLECT and causes damage.",
+    "emerald": "Destroys barriers such as\nREFLECT and causes damage.",
+    "firered-leafgreen": "An attack that also\nbreaks any barrier\nlike LIGHT SCREEN\nand REFLECT.",
+    "diamond-pearl": "The user attacks with\ntough fists, etc. It\ncan also break any\nbarrier such as Light\nScreen and Reflect.",
+    "platinum": "The user attacks with\ntough fists, etc. It\ncan also break any\nbarrier such as Light\nScreen and Reflect.",
+    "heartgold-soulsilver": "The user attacks with\ntough fists, etc. It\ncan also break any\nbarrier such as Light\nScreen and Reflect.",
+    "black-white": "The user attacks with a swift chop. It\ncan also break any barrier such as Light\nScreen and Reflect.",
+    "black-2-white-2": "The user attacks with a swift chop. It\ncan also break any barrier such as Light\nScreen and Reflect.",
+    "x-y": "The user attacks with a swift chop. It\ncan also break barriers, such as Light\nScreen and Reflect.",
+    "omega-ruby-alpha-sapphire": "The user attacks with a swift chop. It\ncan also break barriers, such as Light\nScreen and Reflect.",
+    "sun-moon": "The user attacks with a swift chop. It can also break\nbarriers, such as Light Screen and Reflect.",
+    "ultra-sun-ultra-moon": "The user attacks with a swift chop. It can also break\nbarriers, such as Light Screen and Reflect.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a swift chop. It can also break\nbarriers, such as Light Screen and Reflect.",
+    "sword-shield": "The user attacks with a swift chop. It can also break\nbarriers, such as Light Screen and Reflect."
+  },
+  "effect": {
+    "full": "Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage.",
+    "shortEffect": "Destroys Reflect and Light Screen."
+  },
+  "priority": 0
+}

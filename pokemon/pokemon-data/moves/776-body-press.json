@@ -1,0 +1,29 @@
+{
+  "_id": 776,
+  "key": "body-press",
+  "name": {
+    "english": "Body Press",
+    "japanese": "ボディプレス",
+    "chinese": "撲擊",
+    "korean": "바디프레스",
+    "german": "Plancha Corporal",
+    "french": "Body Press",
+    "italian": "Body Press",
+    "spanish": "Schiacciacorpo"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks by slamming its body into the target.\nThe higher the user’s Defense, the more damage it can\ninflict on the target."
+  },
+  "effect": {},
+  "priority": 0
+}

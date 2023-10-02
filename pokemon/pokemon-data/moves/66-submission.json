@@ -1,0 +1,47 @@
+{
+  "_id": 66,
+  "key": "submission",
+  "name": {
+    "english": "Submission",
+    "japanese": "じごくぐるま",
+    "chinese": "地狱滚动",
+    "korean": "지옥의바퀴",
+    "german": "Sumisión",
+    "french": "Überroller",
+    "italian": "Submission",
+    "spanish": "Sottomissione"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 25,
+  "power": 80,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that al­\nso hurts the user.",
+    "crystal": "An attack that al­\nso hurts the user.",
+    "ruby-sapphire": "A reckless body slam that\nalso hurts the user.",
+    "emerald": "A reckless body slam that\nalso hurts the user.",
+    "firered-leafgreen": "A reckless, full-\nbody throw attack\nthat also hurts the\nuser a little.",
+    "diamond-pearl": "The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly.",
+    "platinum": "The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly.",
+    "heartgold-soulsilver": "The user grabs the\nfoe and recklessly\ndives for the ground.\nIt also hurts the\nuser slightly.",
+    "black-white": "The user grabs the target and recklessly\ndives for the ground. It also hurts the\nuser slightly.",
+    "black-2-white-2": "The user grabs the target and recklessly\ndives for the ground. It also hurts the\nuser slightly.",
+    "x-y": "The user grabs the target and recklessly\ndives for the ground. This also damages\nthe user a little.",
+    "omega-ruby-alpha-sapphire": "The user grabs the target and recklessly\ndives for the ground. This also damages\nthe user a little.",
+    "sun-moon": "The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little.",
+    "ultra-sun-ultra-moon": "The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little.",
+    "lets-go-pikachu-lets-go-eevee": "The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little.",
+    "sword-shield": "The user grabs the target and recklessly dives for\nthe ground. This also damages the user a little."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/4 the damage it inflicts in recoil."
+  },
+  "priority": 0
+}

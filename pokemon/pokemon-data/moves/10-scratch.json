@@ -1,0 +1,47 @@
+{
+  "_id": 10,
+  "key": "scratch",
+  "name": {
+    "english": "Scratch",
+    "japanese": "ひっかく",
+    "chinese": "利爪",
+    "korean": "할퀴기",
+    "german": "Arañazo",
+    "french": "Kratzer",
+    "italian": "Scratch",
+    "spanish": "Graffio"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 35,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Scratches with\nsharp claws.",
+    "crystal": "Scratches with\nsharp claws.",
+    "ruby-sapphire": "Scratches the foe with\nsharp claws.",
+    "emerald": "Scratches the foe with\nsharp claws.",
+    "firered-leafgreen": "Hard, pointed, and\nsharp claws rake\nthe foe.",
+    "diamond-pearl": "Hard, pointed, and\nsharp claws rake the\nfoe to inflict damage.\n\n",
+    "platinum": "Hard, pointed, and\nsharp claws rake the\nfoe to inflict damage.\n\n",
+    "heartgold-soulsilver": "Hard, pointed, and\nsharp claws rake the\nfoe to inflict damage.\n\n",
+    "black-white": "Hard, pointed, and sharp claws rake\nthe target to inflict damage.",
+    "black-2-white-2": "Hard, pointed, and sharp claws rake\nthe target to inflict damage.",
+    "x-y": "Hard, pointed, sharp claws rake\nthe target to inflict damage.",
+    "omega-ruby-alpha-sapphire": "Hard, pointed, sharp claws rake\nthe target to inflict damage.",
+    "sun-moon": "Hard, pointed, sharp claws rake the target to\ninflict damage.",
+    "ultra-sun-ultra-moon": "Hard, pointed, sharp claws rake the target to\ninflict damage.",
+    "lets-go-pikachu-lets-go-eevee": "Hard, pointed, sharp claws rake the target to\ninflict damage.",
+    "sword-shield": "Hard, pointed, sharp claws rake the target to\ninflict damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

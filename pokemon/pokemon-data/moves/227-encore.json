@@ -1,0 +1,47 @@
+{
+  "_id": 227,
+  "key": "encore",
+  "name": {
+    "english": "Encore",
+    "japanese": "アンコール",
+    "chinese": "再来一次",
+    "korean": "앵콜",
+    "german": "Otra Vez",
+    "french": "Zugabe",
+    "italian": "Encore",
+    "spanish": "Ripeti"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 5,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Makes the foe re­\npeat 2-6 times.",
+    "crystal": "Makes the foe re­\npeat 2-6 times.",
+    "ruby-sapphire": "Makes the foe repeat its\nlast move over 2 to 6 turns.",
+    "emerald": "Makes the foe repeat its\nlast move over 2 to 6 turns.",
+    "firered-leafgreen": "Makes the foe use\nthe move it last\nused repeatedly for\ntwo to six turns.",
+    "diamond-pearl": "The user compels the\nfoe to keep using\nonly the move it last\nused for two to six\nturns.",
+    "platinum": "The user compels the\nfoe to keep using\nonly the move it last\nused for three to\nseven turns.",
+    "heartgold-soulsilver": "The user compels the\nfoe to keep using\nonly the move it last\nused for three to\nseven turns.",
+    "black-white": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+    "black-2-white-2": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+    "x-y": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+    "omega-ruby-alpha-sapphire": "The user compels the target\nto keep using only the move\nit last used for three turns.",
+    "sun-moon": "The user compels the target to keep using the move\nit encored for three turns.",
+    "ultra-sun-ultra-moon": "The user compels the target to keep using the move\nit encored for three turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user compels the target to keep using the move\nit encored for three turns.",
+    "sword-shield": "The user compels the target to keep using the move\nit encored for three turns."
+  },
+  "effect": {
+    "full": "The next 4–8 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+    "shortEffect": "Forces the target to repeat its last used move every turn for 2 to 6 turns."
+  },
+  "priority": 0
+}

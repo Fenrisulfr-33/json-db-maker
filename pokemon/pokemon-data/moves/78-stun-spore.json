@@ -1,0 +1,47 @@
+{
+  "_id": 78,
+  "key": "stun-spore",
+  "name": {
+    "english": "Stun Spore",
+    "japanese": "しびれごな",
+    "chinese": "麻痹粉",
+    "korean": "저리가루",
+    "german": "Paralizador",
+    "french": "Stachelspore",
+    "italian": "Stun Spore",
+    "spanish": "Paralizzante"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 30,
+  "power": null,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that may\nparalyze the foe.",
+    "crystal": "A move that may\nparalyze the foe.",
+    "ruby-sapphire": "Scatters a powder that may\nparalyze the foe.",
+    "emerald": "Scatters a powder that may\nparalyze the foe.",
+    "firered-leafgreen": "Paralyzing dust is\nscattered wildly.\nIt may paralyze\nthe foe.",
+    "diamond-pearl": "The user scatters a\ncloud of paralyzing\npowder.\nIt may paralyze the\ntarget.",
+    "platinum": "The user scatters a\ncloud of paralyzing\npowder.\nIt may paralyze the\ntarget.",
+    "heartgold-soulsilver": "The user scatters a\ncloud of paralyzing\npowder.\nIt may paralyze the\ntarget.",
+    "black-white": "The user scatters a cloud of paralyzing\npowder. It may leave the target\nwith paralysis.",
+    "black-2-white-2": "The user scatters a cloud of paralyzing\npowder. It may leave the target\nwith paralysis.",
+    "x-y": "The user scatters a cloud of numbing\npowder that paralyzes the target.",
+    "omega-ruby-alpha-sapphire": "The user scatters a cloud of numbing\npowder that paralyzes the target.",
+    "sun-moon": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+    "ultra-sun-ultra-moon": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user scatters a cloud of numbing powder that\nparalyzes the target.",
+    "sword-shield": "The user scatters a cloud of numbing powder that\nparalyzes the target."
+  },
+  "effect": {
+    "full": "Paralyzes the target.",
+    "shortEffect": "Paralyzes the target."
+  },
+  "priority": 0
+}

@@ -14,7 +14,7 @@ const scrapePokemonMoves = async (
   length
 ) => {
   // This allows you to enter the last dex number, easier for input.
-  if (i === length + 1) {
+  if (i > length - 1) {
     // if (i > 904) {
     console.log("Errors", errors);
     // Create saveData in json format
@@ -497,7 +497,7 @@ scrapePokemonMoves(
   0,
   {},
   [],
-  1010
+  1017
 );
 
 // Gen 8 ------------------------------------------

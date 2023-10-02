@@ -1,0 +1,39 @@
+{
+  "_id": 539,
+  "key": "night-daze",
+  "name": {
+    "english": "Night Daze",
+    "japanese": "ナイトバースト",
+    "chinese": "黑夜爆裂",
+    "korean": "나이트버스트",
+    "german": "Pulso Noche",
+    "french": "Nachtflut",
+    "italian": "Night Daze",
+    "spanish": "Urtoscuro"
+  },
+  "type": "Dark",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 85,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user lets loose a pitch-black shock\nwave at its target. It may also lower the\ntarget’s accuracy.",
+    "black-2-white-2": "The user lets loose a pitch-black shock\nwave at its target. It may also lower the\ntarget’s accuracy.",
+    "x-y": "The user lets loose a pitch-black shock\nwave at its target. This may also lower the\ntarget’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user lets loose a pitch-black shock\nwave at its target. This may also lower the\ntarget’s accuracy.",
+    "sun-moon": "The user lets loose a pitch-black shock wave at its\ntarget. This may also lower the target’s accuracy.",
+    "ultra-sun-ultra-moon": "The user lets loose a pitch-black shock wave at its\ntarget. This may also lower the target’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user lets loose a pitch-black shock wave at its\ntarget. This may also lower the target’s accuracy.",
+    "sword-shield": "The user lets loose a pitch-black shock wave at its\ntarget. This may also lower the target’s accuracy."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+  },
+  "priority": 0
+}

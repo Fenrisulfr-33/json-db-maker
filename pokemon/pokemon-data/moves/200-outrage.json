@@ -1,0 +1,47 @@
+{
+  "_id": 200,
+  "key": "outrage",
+  "name": {
+    "english": "Outrage",
+    "japanese": "げきりん",
+    "chinese": "龙鳞之怒",
+    "korean": "역린",
+    "german": "Enfado",
+    "french": "Wutanfall",
+    "italian": "Outrage",
+    "spanish": "Oltraggio"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "random-opponent",
+  "changes": [],
+  "description": {
+    "gold-silver": "Works 2-3 turns\nand confuses user.",
+    "crystal": "Works 2-3 turns\nand confuses user.",
+    "ruby-sapphire": "A rampage of 2 to 3 turns\nthat confuses the user.",
+    "emerald": "A rampage of 2 to 3 turns\nthat confuses the user.",
+    "firered-leafgreen": "The user thrashes\nabout for two to\nthree turns, then\nbecomes confused.",
+    "diamond-pearl": "The user rampages\nand attacks for two\nto three turns.\nHowever, it then\nbecomes confused.",
+    "platinum": "The user rampages\nand attacks for two\nto three turns.\nHowever, it then\nbecomes confused.",
+    "heartgold-soulsilver": "The user rampages\nand attacks for two\nto three turns.\nHowever, it then\nbecomes confused.",
+    "black-white": "The user rampages and attacks for two\nto three turns.\nIt then becomes confused, however.",
+    "black-2-white-2": "The user rampages and attacks for two\nto three turns.\nIt then becomes confused, however.",
+    "x-y": "The user rampages and attacks for two\nto three turns.\nThe user then becomes confused.",
+    "omega-ruby-alpha-sapphire": "The user rampages and attacks for two\nto three turns.\nThe user then becomes confused.",
+    "sun-moon": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+    "ultra-sun-ultra-moon": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon rampages and attacks for two to\nthree turns. It then becomes confused.",
+    "sword-shield": "The user rampages and attacks for two to three\nturns. The user then becomes confused."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+    "shortEffect": "Hits every turn for 2-3 turns, then confuses the user."
+  },
+  "priority": 0
+}

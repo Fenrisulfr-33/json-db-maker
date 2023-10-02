@@ -1,0 +1,42 @@
+{
+  "_id": 442,
+  "key": "iron-head",
+  "name": {
+    "english": "Iron Head",
+    "japanese": "アイアンヘッド",
+    "chinese": "铁头",
+    "korean": "아이언헤드",
+    "german": "Cabeza de Hierro",
+    "french": "Eisenschädel",
+    "italian": "Iron Head",
+    "spanish": "Metaltestata"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.",
+    "platinum": "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "The foe slams the\ntarget with its\nsteel-hard head.\nIt may also make the\ntarget flinch.",
+    "black-white": "The user slams the target\nwith its steel-hard head.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user slams the target\nwith its steel-hard head.\nIt may also make the target flinch.",
+    "x-y": "The user slams the target\nwith its steel-hard head.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user slams the target\nwith its steel-hard head.\nThis may also make the target flinch.",
+    "sun-moon": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+    "ultra-sun-ultra-moon": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams the target with its steel-hard head.\nThis may also make the target flinch.",
+    "sword-shield": "The user slams the target with its steel-hard head.\nThis may also make the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

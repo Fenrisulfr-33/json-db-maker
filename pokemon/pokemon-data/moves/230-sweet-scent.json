@@ -1,0 +1,47 @@
+{
+  "_id": 230,
+  "key": "sweet-scent",
+  "name": {
+    "english": "Sweet Scent",
+    "japanese": "あまいかおり",
+    "chinese": "甜气",
+    "korean": "달콤한향기",
+    "german": "Dulce Aroma",
+    "french": "Lockduft",
+    "italian": "Sweet Scent",
+    "spanish": "Profumino"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "Reduces the foe's\nevasiveness.",
+    "crystal": "Reduces the foe's\nevasiveness.",
+    "ruby-sapphire": "Allures the foe to reduce\nevasiveness.",
+    "emerald": "Allures the foe to reduce\nevasiveness.",
+    "firered-leafgreen": "Allures the foe to\nreduce evasiveness.\nIt also attracts\nwild POKéMON.",
+    "diamond-pearl": "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.",
+    "platinum": "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.",
+    "heartgold-soulsilver": "A sweet scent that\nlowers the foe’s\nevasiveness. It also\nlures wild Pokémon\nif used in grass, etc.",
+    "black-white": "A sweet scent that lowers the opposing\nteam’s evasiveness. It also lures wild\nPokémon if used in grass, etc.",
+    "black-2-white-2": "A sweet scent that lowers the opposing\nteam’s evasiveness. It also lures wild\nPokémon if used in grass, etc.",
+    "x-y": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness. This also lures wild\nPokémon if used in places such as tall grass.",
+    "omega-ruby-alpha-sapphire": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness. This also lures wild\nPokémon if used in places such as tall grass.",
+    "sun-moon": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness.",
+    "ultra-sun-ultra-moon": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness.",
+    "lets-go-pikachu-lets-go-eevee": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness.",
+    "sword-shield": "A sweet scent that harshly lowers opposing\nPokémon’s evasiveness."
+  },
+  "effect": {
+    "full": "Lowers the target's evasion by one stage.",
+    "shortEffect": "Lowers the target's evasion by one stage."
+  },
+  "priority": 0
+}

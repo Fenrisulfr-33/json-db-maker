@@ -1,0 +1,42 @@
+{
+  "_id": 387,
+  "key": "last-resort",
+  "name": {
+    "english": "Last Resort",
+    "japanese": "とっておき",
+    "chinese": "珍藏",
+    "korean": "뒀다쓰기",
+    "german": "Última Baza",
+    "french": "Zuflucht",
+    "italian": "Last Resort",
+    "spanish": "Ultimascelta"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 5,
+  "power": 140,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.",
+    "platinum": "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.",
+    "heartgold-soulsilver": "This move can be used\nonly after the user\nhas used all the\nother moves it knows\nin the battle.",
+    "black-white": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+    "black-2-white-2": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+    "x-y": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+    "omega-ruby-alpha-sapphire": "This move can be used only after the user\nhas used all the other moves it knows\nin the battle.",
+    "sun-moon": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+    "ultra-sun-ultra-moon": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+    "lets-go-pikachu-lets-go-eevee": "This move can be used only after the user has used\nall the other moves it knows in the battle.",
+    "sword-shield": "This move can be used only after the user has used\nall the other moves it knows in the battle."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  This move can only be used if each of the user's other moves has been used at least once since the user entered the field.  If this is the user's only move, this move will fail.",
+    "shortEffect": "Can only be used after all of the user's other moves have been used."
+  },
+  "priority": 0
+}

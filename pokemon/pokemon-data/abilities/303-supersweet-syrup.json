@@ -1,0 +1,14 @@
+{
+  "_id": 303,
+  "key": "supersweet-syrup",
+  "name": {
+    "english": "Supersweet Syrup"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Lowers opponents evasion first time when entering battle.",
+    "full": "The first time a Pokémon with this Ability enters battle, the opponents' evasiveness is lowered by one stage."
+  },
+  "description": {},
+  "pokemonWithAbility": {}
+}

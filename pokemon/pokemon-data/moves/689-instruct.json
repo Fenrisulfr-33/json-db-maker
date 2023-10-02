@@ -1,0 +1,35 @@
+{
+  "_id": 689,
+  "key": "instruct",
+  "name": {
+    "english": "Instruct",
+    "japanese": "さいはい",
+    "chinese": "號令",
+    "korean": "지휘",
+    "german": "Mandato",
+    "french": "Kommando",
+    "italian": "Instruct",
+    "spanish": "Imposizione"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user instructs the target to use the target’s last\nmove again.",
+    "ultra-sun-ultra-moon": "The user instructs the target to use the target’s last\nmove again.",
+    "lets-go-pikachu-lets-go-eevee": "The user instructs the target to use the target’s last\nmove again.",
+    "sword-shield": "The user instructs the target to use the target’s last\nmove again."
+  },
+  "effect": {
+    "full": "The target immediately uses its most recently-used move.  This is independent of the target's normal action for the turn (i.e., it may end up moving twice), but otherwise functions as usual, including deduction of PP.  This effect works for disabled moves and ignores torment.",
+    "shortEffect": "Forces the target to repeat its last used move."
+  },
+  "priority": 0
+}

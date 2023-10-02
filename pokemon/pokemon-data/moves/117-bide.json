@@ -1,0 +1,47 @@
+{
+  "_id": 117,
+  "key": "bide",
+  "name": {
+    "english": "Bide",
+    "japanese": "がまん",
+    "chinese": "忍忍",
+    "korean": "참기",
+    "german": "Venganza",
+    "french": "Geduld",
+    "italian": "Bide",
+    "spanish": "Pazienza"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Waits 2-3 turns &\nhits back double.",
+    "crystal": "Waits 2-3 turns &\nhits back double.",
+    "ruby-sapphire": "Endures attack for 2\nturns to retaliate double.",
+    "emerald": "Endures attack for 2\nturns to retaliate double.",
+    "firered-leafgreen": "The user endures\nattacks for two\nturns, then strikes\nback double.",
+    "diamond-pearl": "The user endures\nattacks for two\nturns, then strikes\nback to cause double\nthe damage taken.",
+    "platinum": "The user endures\nattacks for two\nturns, then strikes\nback to cause double\nthe damage taken.",
+    "heartgold-soulsilver": "The user endures\nattacks for two\nturns, then strikes\nback to cause double\nthe damage taken.",
+    "black-white": "The user endures attacks for two\nturns, then strikes back to cause\ndouble the damage taken.",
+    "black-2-white-2": "The user endures attacks for two\nturns, then strikes back to cause\ndouble the damage taken.",
+    "x-y": "The user endures attacks for two\nturns, then strikes back to cause\ndouble the damage taken.",
+    "omega-ruby-alpha-sapphire": "The user endures attacks for two\nturns, then strikes back to cause\ndouble the damage taken.",
+    "sun-moon": "The user endures attacks for two turns, then strikes\nback to cause double the damage taken.",
+    "ultra-sun-ultra-moon": "The user endures attacks for two turns, then strikes\nback to cause double the damage taken.",
+    "lets-go-pikachu-lets-go-eevee": "The user endures attacks for two turns, then strikes\nback to cause double the damage taken.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pokémon to hit it.  Damage inflicted is typeless.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User waits for two turns, then hits back for twice the damage it took."
+  },
+  "priority": 1
+}

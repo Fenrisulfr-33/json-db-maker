@@ -1,0 +1,42 @@
+{
+  "_id": 457,
+  "key": "head-smash",
+  "name": {
+    "english": "Head Smash",
+    "japanese": "もろはのずつき",
+    "chinese": "双刃头锤",
+    "korean": "양날박치기",
+    "german": "Testarazo",
+    "french": "Kopfstoß",
+    "italian": "Head Smash",
+    "spanish": "Zuccata"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user delivers a\nlife-endangering head\nbutt at full power.\nThe user also takes\nterrible damage.",
+    "platinum": "The user delivers a\nlife-endangering head\nbutt at full power.\nThe user also takes\nterrible damage.",
+    "heartgold-soulsilver": "The user delivers a\nlife-endangering\nattack at full power.\nThe user also takes\nterrible damage.",
+    "black-white": "The user attacks the target with a\nhazardous, full-power headbutt.\nThe user also takes terrible damage.",
+    "black-2-white-2": "The user attacks the target with a\nhazardous, full-power headbutt.\nThe user also takes terrible damage.",
+    "x-y": "The user attacks the target with a\nhazardous, full-power headbutt.\nThis also damages the user terribly.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with a\nhazardous, full-power headbutt.\nThis also damages the user terribly.",
+    "sun-moon": "The user attacks the target with a hazardous,\nfull-power headbutt. This also damages the\nuser terribly.",
+    "ultra-sun-ultra-moon": "The user attacks the target with a hazardous,\nfull-power headbutt. This also damages the\nuser terribly.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with a hazardous,\nfull-power headbutt. This also damages the\nuser terribly.",
+    "sword-shield": "The user attacks the target with a hazardous,\nfull-power headbutt. This also damages the\nuser terribly."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/2 the damage inflicted in recoil."
+  },
+  "priority": 0
+}

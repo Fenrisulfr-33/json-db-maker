@@ -1,0 +1,47 @@
+{
+  "_id": 239,
+  "key": "twister",
+  "name": {
+    "english": "Twister",
+    "japanese": "たつまき",
+    "chinese": "龙卷风",
+    "korean": "회오리",
+    "german": "Ciclón",
+    "french": "Windhose",
+    "italian": "Twister",
+    "spanish": "Tornado"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "Whips up a tornado\nto attack.",
+    "crystal": "Whips up a tornado\nto attack.",
+    "ruby-sapphire": "Whips up a vicious twister\nto tear at the foe.",
+    "emerald": "Whips up a vicious twister\nto tear at the foe.",
+    "firered-leafgreen": "A vicious twister\nattacks the foe.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "The user whips up a\nvicious twister to\ntear at the foe.\nIt may also make the\nfoe flinch.",
+    "platinum": "The user whips up a\nvicious twister to\ntear at the foe.\nIt may also make the\nfoe flinch.",
+    "heartgold-soulsilver": "The user whips up a\nvicious tornado to\ntear at the foe.\nIt may also make the\nfoe flinch.",
+    "black-white": "The user whips up a vicious tornado\nto tear at the opposing team.\nIt may also make targets flinch.",
+    "black-2-white-2": "The user whips up a vicious tornado\nto tear at the opposing team.\nIt may also make targets flinch.",
+    "x-y": "The user whips up a vicious tornado\nto tear at the opposing Pokémon.\nThis may also make them flinch.",
+    "omega-ruby-alpha-sapphire": "The user whips up a vicious tornado\nto tear at the opposing Pokémon.\nThis may also make them flinch.",
+    "sun-moon": "The user whips up a vicious tornado to tear at the\nopposing Pokémon. This may also make them flinch.",
+    "ultra-sun-ultra-moon": "The user whips up a vicious tornado to tear at the\nopposing Pokémon. This may also make them flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user whips up a vicious tornado to tear at the\nopposing Pokémon. This may also make them flinch.",
+    "sword-shield": "The user whips up a vicious tornado to tear at opposing\nPokémon. This may also make them flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make each target flinch.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

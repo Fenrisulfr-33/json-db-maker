@@ -1,0 +1,39 @@
+{
+  "_id": 553,
+  "key": "freeze-shock",
+  "name": {
+    "english": "Freeze Shock",
+    "japanese": "フリーズボルト",
+    "chinese": "冻结伏特",
+    "korean": "프리즈볼트",
+    "german": "Rayo Gélido",
+    "french": "Frostvolt",
+    "italian": "Freeze Shock",
+    "spanish": "Elettrogelo"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 140,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "On the second turn, the user hits the\ntarget with electrically charged ice.\nIt may leave the target with paralysis.",
+    "black-2-white-2": "On the second turn, the user hits the\ntarget with electrically charged ice.\nIt may leave the target with paralysis.",
+    "x-y": "On the second turn, the user hits the\ntarget with electrically charged ice.\nThis may also leave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "On the second turn, the user hits the\ntarget with electrically charged ice.\nThis may also leave the target with paralysis.",
+    "sun-moon": "On the second turn, the user hits the target with\nelectrically charged ice. This may also leave the\ntarget with paralysis.",
+    "ultra-sun-ultra-moon": "On the second turn, the user hits the target with\nelectrically charged ice. This may also leave the\ntarget with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "On the second turn, the user hits the target with\nelectrically charged ice. This may also leave the\ntarget with paralysis.",
+    "sword-shield": "On the second turn, the user hits the target with\nelectrically charged ice. This may also leave the\ntarget with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.  User charges for one turn before attacking.",
+    "shortEffect": "Requires a turn to charge before attacking.  Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

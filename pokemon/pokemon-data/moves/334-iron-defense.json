@@ -1,0 +1,45 @@
+{
+  "_id": 334,
+  "key": "iron-defense",
+  "name": {
+    "english": "Iron Defense",
+    "japanese": "てっぺき",
+    "chinese": "铁壁",
+    "korean": "철벽",
+    "german": "Defensa Férrea",
+    "french": "Eisenabwehr",
+    "italian": "Iron Defense",
+    "spanish": "Ferroscudo"
+  },
+  "type": "Steel",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Hardens the body’s surface\nto sharply raise DEFENSE.",
+    "emerald": "Hardens the body’s surface\nto sharply raise DEFENSE.",
+    "firered-leafgreen": "The user hardens\nits body’s surface\nto sharply raise its\nDEFENSE stat.",
+    "diamond-pearl": "The user hardens\nits body’s surface\nlike iron, sharply\nraising its Defense\nstat.",
+    "platinum": "The user hardens\nits body’s surface\nlike iron, sharply\nraising its Defense\nstat.",
+    "heartgold-soulsilver": "The user hardens\nits body’s surface\nlike iron, sharply\nraising its Defense\nstat.",
+    "black-white": "The user hardens its body’s surface\nlike iron, sharply raising its\nDefense stat.",
+    "black-2-white-2": "The user hardens its body’s surface\nlike iron, sharply raising its\nDefense stat.",
+    "x-y": "The user hardens its body’s surface\nlike iron, sharply raising its\nDefense stat.",
+    "omega-ruby-alpha-sapphire": "The user hardens its body’s surface\nlike iron, sharply raising its\nDefense stat.",
+    "sun-moon": "The user hardens its body’s surface like iron,\nsharply raising its Defense stat.",
+    "ultra-sun-ultra-moon": "The user hardens its body’s surface like iron,\nsharply raising its Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user hardens its body’s surface like iron,\nsharply raising its Defense stat.",
+    "sword-shield": "The user hardens its body’s surface like iron,\nsharply raising its Defense stat."
+  },
+  "effect": {
+    "full": "Raises the user's Defense by two stages.",
+    "shortEffect": "Raises the user's Defense by two stages."
+  },
+  "priority": 0
+}

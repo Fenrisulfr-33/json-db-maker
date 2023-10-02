@@ -1,0 +1,47 @@
+{
+  "_id": 19,
+  "key": "fly",
+  "name": {
+    "english": "Fly",
+    "japanese": "そらをとぶ",
+    "chinese": "飞翔",
+    "korean": "공중날기",
+    "german": "Vuelo",
+    "french": "Fliegen",
+    "italian": "Fly",
+    "spanish": "Volo"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 90,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "1st turn: Fly\n2nd turn: Attack",
+    "crystal": "1st turn: Fly\n2nd turn: Attack",
+    "ruby-sapphire": "Flies up on the first turn,\nthen strikes the next turn.",
+    "emerald": "Flies up on the first turn,\nthen strikes the next turn.",
+    "firered-leafgreen": "A 2-turn move that\nhits on the 2nd\nturn. Use it to fly\nto any known town.",
+    "diamond-pearl": "The user soars, then\nstrikes on the second\nturn. It can also be\nused for flying to\nany familiar town.",
+    "platinum": "The user soars, then\nstrikes on the second\nturn. It can also be\nused for flying to\nany familiar town.",
+    "heartgold-soulsilver": "The user soars, then\nstrikes on the second\nturn. It can also be\nused for flying to\nany familiar town.",
+    "black-white": "The user soars, then strikes its target\non the second turn. It can also be\nused for flying to any familiar town.",
+    "black-2-white-2": "The user soars, then strikes its target\non the second turn. It can also be\nused for flying to any familiar town.",
+    "x-y": "The user soars and then strikes\nits target on the next turn. This can\nalso be used to fly to any familiar town.",
+    "omega-ruby-alpha-sapphire": "The user soars and then strikes\nits target on the next turn. This can\nalso be used to fly to any familiar town.",
+    "sun-moon": "The user soars and then strikes its target on the\nnext turn.",
+    "ultra-sun-ultra-moon": "The user soars and then strikes its target on the\nnext turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user flies up into the sky and then\nstrikes its target on the next turn.",
+    "sword-shield": "The user flies up into the sky and then strikes its target\non the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, gust, hurricane, sky uppercut, smack down, thunder, twister, and whirlwind still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User flies high into the air, dodging all attacks, and hits next turn."
+  },
+  "priority": 0
+}

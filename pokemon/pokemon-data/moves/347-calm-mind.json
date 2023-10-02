@@ -1,0 +1,45 @@
+{
+  "_id": 347,
+  "key": "calm-mind",
+  "name": {
+    "english": "Calm Mind",
+    "japanese": "めいそう",
+    "chinese": "冥想",
+    "korean": "명상",
+    "german": "Paz Mental",
+    "french": "Gedankengut",
+    "italian": "Calm Mind",
+    "spanish": "Calmamente"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Raises SP. ATK and SP. DEF\nby focusing the mind.",
+    "emerald": "Raises SP. ATK and SP. DEF\nby focusing the mind.",
+    "firered-leafgreen": "The user focuses\nits mind to raise\nthe SP. ATK and\nSP. DEF stats.",
+    "diamond-pearl": "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.",
+    "platinum": "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.",
+    "heartgold-soulsilver": "The user quietly\nfocuses its mind and\ncalms its spirit to\nraise its Sp. Atk and\nSp. Def stats.",
+    "black-white": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+    "black-2-white-2": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+    "x-y": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+    "omega-ruby-alpha-sapphire": "The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.",
+    "sun-moon": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
+    "ultra-sun-ultra-moon": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats.",
+    "sword-shield": "The user quietly focuses its mind and calms its\nspirit to raise its Sp. Atk and Sp. Def stats."
+  },
+  "effect": {
+    "full": "Raises the user's Special Attack and Special Defense by one stage each.",
+    "shortEffect": "Raises the user's Special Attack and Special Defense by one stage."
+  },
+  "priority": 0
+}

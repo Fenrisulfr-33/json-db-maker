@@ -1,0 +1,45 @@
+{
+  "_id": 339,
+  "key": "bulk-up",
+  "name": {
+    "english": "Bulk Up",
+    "japanese": "ビルドアップ",
+    "chinese": "健美",
+    "korean": "벌크업",
+    "german": "Corpulencia",
+    "french": "Protzer",
+    "italian": "Bulk Up",
+    "spanish": "Granfisico"
+  },
+  "type": "Fighting",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "emerald": "Bulks up the body to boost\nboth ATTACK and DEFENSE.",
+    "ruby-sapphire": "Bulks up the body to boost\nboth ATTACK and DEFENSE.",
+    "firered-leafgreen": "The user bulks up\nits body to boost\nboth its ATTACK and\nDEFENSE stats.",
+    "diamond-pearl": "The user tenses its\nmuscles to bulk up\nits body, boosting\nboth its Attack and\nDefense stats.",
+    "platinum": "The user tenses its\nmuscles to bulk up\nits body, boosting\nboth its Attack and\nDefense stats.",
+    "heartgold-soulsilver": "The user tenses its\nmuscles to bulk up\nits body, boosting\nboth its Attack and\nDefense stats.",
+    "black-white": "The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.",
+    "black-2-white-2": "The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.",
+    "x-y": "The user tenses its muscles to bulk up\nits body, raising both its Attack and\nDefense stats.",
+    "omega-ruby-alpha-sapphire": "The user tenses its muscles to bulk up\nits body, raising both its Attack and\nDefense stats.",
+    "sun-moon": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats.",
+    "ultra-sun-ultra-moon": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats.",
+    "sword-shield": "The user tenses its muscles to bulk up its body,\nraising both its Attack and Defense stats."
+  },
+  "effect": {
+    "full": "Raises the user's Attack and Defense by one stage each.",
+    "shortEffect": "Raises the user's Attack and Defense by one stage."
+  },
+  "priority": 0
+}

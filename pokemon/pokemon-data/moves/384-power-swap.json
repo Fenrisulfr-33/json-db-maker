@@ -1,0 +1,42 @@
+{
+  "_id": 384,
+  "key": "power-swap",
+  "name": {
+    "english": "Power Swap",
+    "japanese": "パワースワップ",
+    "chinese": "力量交换",
+    "korean": "파워스웹",
+    "german": "Cambiafuerza",
+    "french": "Krafttausch",
+    "italian": "Power Swap",
+    "spanish": "Barattoforza"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user employs its\npsychic power to\nswitch changes to\nits Attack and\nSp. Atk with the foe.",
+    "platinum": "The user employs its\npsychic power to\nswitch changes to\nits Attack and\nSp. Atk with the foe.",
+    "heartgold-soulsilver": "The user employs its\npsychic power to\nswitch changes to\nits Attack and\nSp. Atk with the foe.",
+    "black-white": "The user employs its psychic power to\nswitch changes to its Attack and\nSp. Atk with the target.",
+    "black-2-white-2": "The user employs its psychic power to\nswitch changes to its Attack and\nSp. Atk with the target.",
+    "x-y": "The user employs its psychic power to\nswitch changes to its Attack and\nSp. Atk stats with the target.",
+    "omega-ruby-alpha-sapphire": "The user employs its psychic power to\nswitch changes to its Attack and\nSp. Atk stats with the target.",
+    "sun-moon": "The user employs its psychic power to switch\nchanges to its Attack and Sp. Atk stats with\nthe target.",
+    "ultra-sun-ultra-moon": "The user employs its psychic power to switch\nchanges to its Attack and Sp. Atk stats with\nthe target.",
+    "lets-go-pikachu-lets-go-eevee": "The user employs its psychic power to switch\nchanges to its Attack and Sp. Atk stats with\nthe target.",
+    "sword-shield": "The user employs its psychic power to switch\nchanges to its Attack and Sp. Atk stats with\nthe target."
+  },
+  "effect": {
+    "full": "User swaps its Attack and Special Attack stat modifiers modifiers with the target.",
+    "shortEffect": "User swaps Attack and Special Attack changes with the target."
+  },
+  "priority": 0
+}

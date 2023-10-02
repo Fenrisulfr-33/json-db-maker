@@ -1,0 +1,45 @@
+{
+  "_id": 335,
+  "key": "block",
+  "name": {
+    "english": "Block",
+    "japanese": "とおせんぼう",
+    "chinese": "挡路",
+    "korean": "블록",
+    "german": "Bloqueo",
+    "french": "Rückentzug",
+    "italian": "Block",
+    "spanish": "Blocco"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Blocks the foe’s way to\nprevent escape.",
+    "emerald": "Blocks the foe’s way to\nprevent escape.",
+    "firered-leafgreen": "The user blocks the\nfoe’s way with arms\nspread wide to\nprevent escape.",
+    "diamond-pearl": "The user blocks the\nfoe’s way with arms\nspread wide to\nprevent escape.\n",
+    "platinum": "The user blocks the\nfoe’s way with arms\nspread wide to\nprevent escape.\n",
+    "heartgold-soulsilver": "The user blocks the\nfoe’s way with arms\nspread wide to\nprevent escape.\n",
+    "black-white": "The user blocks the target’s way with arms\nspread wide to prevent escape.",
+    "black-2-white-2": "The user blocks the target’s way with arms\nspread wide to prevent escape.",
+    "x-y": "The user blocks the target’s way with arms\nspread wide to prevent escape.",
+    "omega-ruby-alpha-sapphire": "The user blocks the target’s way with arms\nspread wide to prevent escape.",
+    "sun-moon": "The user blocks the target’s way with arms spread\nwide to prevent escape.",
+    "ultra-sun-ultra-moon": "The user blocks the target’s way with arms spread\nwide to prevent escape.",
+    "lets-go-pikachu-lets-go-eevee": "The user blocks the target’s way with arms spread\nwide to prevent escape.",
+    "sword-shield": "The user blocks the target’s way with arms spread\nwide to prevent escape."
+  },
+  "effect": {
+    "full": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using baton pass, u turn, or a shed shell.\n\nBoth the user and the target pass on this effect with baton pass.",
+    "shortEffect": "Prevents the target from leaving battle."
+  },
+  "priority": 0
+}

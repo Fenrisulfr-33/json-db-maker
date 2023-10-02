@@ -1,0 +1,37 @@
+{
+  "_id": 578,
+  "key": "crafty-shield",
+  "name": {
+    "english": "Crafty Shield",
+    "japanese": "トリックガード",
+    "chinese": "狡猾防御",
+    "korean": "트릭가드",
+    "german": "Truco Defensa",
+    "french": "Trickschutz",
+    "italian": "Crafty Shield",
+    "spanish": "Truccodifesa"
+  },
+  "type": "Fairy",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "x-y": "The user protects itself and its allies from\nstatus moves with a mysterious power.\nThis does not stop moves that do damage.",
+    "omega-ruby-alpha-sapphire": "The user protects itself and its allies from\nstatus moves with a mysterious power.\nThis does not stop moves that do damage.",
+    "sun-moon": "The user protects itself and its allies from status\nmoves with a mysterious power. This does not stop\nmoves that do damage.",
+    "ultra-sun-ultra-moon": "The user protects itself and its allies from status\nmoves with a mysterious power. This does not stop\nmoves that do damage.",
+    "lets-go-pikachu-lets-go-eevee": "The user protects itself and its allies from status\nmoves with a mysterious power. This does not stop\nmoves that do damage.",
+    "sword-shield": "The user protects itself and its allies from status\nmoves with a mysterious power. This does not stop\nmoves that do damage."
+  },
+  "effect": {
+    "full": "Protects all friendly Pokémon from non-damaging moves for the rest of the turn.\n\nUnlike other blocking moves, this move may be used consecutively without its chance of success falling.",
+    "shortEffect": "Protects all friendly Pokémon from non-damaging moves."
+  },
+  "priority": 3
+}

@@ -1,0 +1,32 @@
+{
+  "_id": 272,
+  "key": "purifying-salt",
+  "name": {
+    "english": "Purifying Salt"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "",
+    "full": "Protects from status conditions and halves damage from Ghost-type moves."
+  },
+  "description": {
+    "scarlet-violet": "The Pokémon’s pure salt protects it from status conditions and halves the damage taken from Ghost-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Nacli",
+        "id": 932
+      },
+      {
+        "name": "Naclstack",
+        "id": 933
+      },
+      {
+        "name": "Garganacl",
+        "id": 934
+      }
+    ],
+    "hidden": []
+  }
+}

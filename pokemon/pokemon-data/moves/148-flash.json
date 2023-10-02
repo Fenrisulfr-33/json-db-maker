@@ -1,0 +1,47 @@
+{
+  "_id": 148,
+  "key": "flash",
+  "name": {
+    "english": "Flash",
+    "japanese": "フラッシュ",
+    "chinese": "闪光",
+    "korean": "플래시",
+    "german": "Destello",
+    "french": "Blitz",
+    "italian": "Flash",
+    "spanish": "Flash"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Blinds the foe to\nreduce accuracy.",
+    "crystal": "Blinds the foe to\nreduce accuracy.",
+    "ruby-sapphire": "Looses a powerful blast of\nlight that cuts accuracy.",
+    "emerald": "Looses a powerful blast of\nlight that cuts accuracy.",
+    "firered-leafgreen": "A blast of light\nthat cuts the foe’s\naccuracy. It also\nilluminates caves.",
+    "diamond-pearl": "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.",
+    "platinum": "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.",
+    "heartgold-soulsilver": "The user flashes a\nlight that cuts the\nfoe’s accuracy.\nIt can also be used\nto illuminate caves.",
+    "black-white": "The user flashes a bright light that cuts\nthe target’s accuracy.\nIt can also be used to illuminate caves.",
+    "black-2-white-2": "The user flashes a bright light that cuts\nthe target’s accuracy.\nIt can also be used to illuminate caves.",
+    "x-y": "The user flashes a bright light that cuts\nthe target’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user flashes a bright light that cuts the\ntarget’s accuracy.\nIt can also be used to illuminate dark caves.",
+    "sun-moon": "The user flashes a bright light that cuts the\ntarget’s accuracy.",
+    "ultra-sun-ultra-moon": "The user flashes a bright light that cuts the\ntarget’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user flashes a bright light that cuts the\ntarget’s accuracy.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Lowers the target's accuracy by one stage.",
+    "shortEffect": "Lowers the target's accuracy by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_id": 224,
+  "key": "beast-boost",
+  "name": {
+    "english": "Beast Boost"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon.",
+    "full": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+  },
+  "description": {
+    "sun-moon": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
+    "ultra-sun-ultra-moon": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
+    "sword-shield": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Nihilego",
+        "id": 793
+      },
+      {
+        "name": "Buzzwole",
+        "id": 794
+      },
+      {
+        "name": "Pheromosa",
+        "id": 795
+      },
+      {
+        "name": "Xurkitree",
+        "id": 796
+      },
+      {
+        "name": "Celesteela",
+        "id": 797
+      },
+      {
+        "name": "Kartana",
+        "id": 798
+      },
+      {
+        "name": "Guzzlord",
+        "id": 799
+      },
+      {
+        "name": "Poipole",
+        "id": 803
+      },
+      {
+        "name": "Naganadel",
+        "id": 804
+      },
+      {
+        "name": "Stakataka",
+        "id": 805
+      },
+      {
+        "name": "Blacephalon",
+        "id": 806
+      }
+    ],
+    "hidden": []
+  }
+}

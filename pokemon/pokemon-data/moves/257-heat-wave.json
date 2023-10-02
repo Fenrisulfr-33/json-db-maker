@@ -1,0 +1,45 @@
+{
+  "_id": 257,
+  "key": "heat-wave",
+  "name": {
+    "english": "Heat Wave",
+    "japanese": "ねっぷう",
+    "chinese": "热风",
+    "korean": "열풍",
+    "german": "Onda Ígnea",
+    "french": "Hitzewelle",
+    "italian": "Heat Wave",
+    "spanish": "Ondacalda"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 95,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Exhales a hot breath on the\nfoe. May inflict a burn.",
+    "emerald": "Exhales a hot breath on the\nfoe. May inflict a burn.",
+    "firered-leafgreen": "The user exhales a\nheated breath to\nattack. It may also\ninflict a burn.",
+    "diamond-pearl": "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.",
+    "platinum": "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.",
+    "heartgold-soulsilver": "The user exhales a\nheated breath on the\nfoe to attack. It may\nalso leave the target\nwith a burn.",
+    "black-white": "The user attacks by exhaling hot breath\non the opposing team. It may also leave\ntargets with a burn.",
+    "black-2-white-2": "The user attacks by exhaling hot breath\non the opposing team. It may also leave\ntargets with a burn.",
+    "x-y": "The user attacks by exhaling hot breath\non the opposing Pokémon. This may also leave\nthose Pokémon with a burn.",
+    "omega-ruby-alpha-sapphire": "The user attacks by exhaling hot breath\non the opposing Pokémon. This may also leave\nthose Pokémon with a burn.",
+    "sun-moon": "The user attacks by exhaling hot breath on the\nopposing Pokémon. This may also leave those\nPokémon with a burn.",
+    "ultra-sun-ultra-moon": "The user attacks by exhaling hot breath on the\nopposing Pokémon. This may also leave those\nPokémon with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by exhaling hot breath on the\nopposing Pokémon. This may also leave those\nPokémon with a burn.",
+    "sword-shield": "The user attacks by exhaling hot breath on opposing\nPokémon. This may also leave those Pokémon with\na burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

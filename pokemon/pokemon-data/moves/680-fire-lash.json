@@ -1,0 +1,35 @@
+{
+  "_id": 680,
+  "key": "fire-lash",
+  "name": {
+    "english": "Fire Lash",
+    "japanese": "ほのおのムチ",
+    "chinese": "火焰鞭",
+    "korean": "불꽃채찍",
+    "german": "Látigo Ígneo",
+    "french": "Feuerpeitsche",
+    "italian": "Fire Lash",
+    "spanish": "Frusta di Fuoco"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user strikes the target with a burning lash. This\nalso lowers the target’s Defense stat.",
+    "ultra-sun-ultra-moon": "The user strikes the target with a burning lash. This\nalso lowers the target’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes the target with a burning lash. This\nalso lowers the target’s Defense stat.",
+    "sword-shield": "The user strikes the target with a burning lash. This\nalso lowers the target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Lowers the target's Defense by one stage.",
+    "shortEffect": "Lowers the target's Defense by one stage after inflicting damage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,35 @@
+{
+  "_id": 661,
+  "key": "baneful-bunker",
+  "name": {
+    "english": "Baneful Bunker",
+    "japanese": "トーチカ",
+    "chinese": "碉堡",
+    "korean": "토치카",
+    "german": "Búnker",
+    "french": "Bunker",
+    "italian": "Baneful Bunker",
+    "spanish": "Fortino"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "sun-moon": "In addition to protecting the user from attacks, this\nmove also poisons any attacker that makes\ndirect contact.",
+    "ultra-sun-ultra-moon": "In addition to protecting the user from attacks, this\nmove also poisons any attacker that makes\ndirect contact.",
+    "lets-go-pikachu-lets-go-eevee": "In addition to protecting the user from attacks, this\nmove also poisons any attacker that makes\ndirect contact.",
+    "sword-shield": "In addition to protecting the user from attacks, this\nmove also poisons any attacker that makes\ndirect contact."
+  },
+  "effect": {
+    "full": "Grants the user protection for the rest of the turn.  If a Pokémon attempts to use a move that makes contact with the user, that Pokémon will be poisoned.  This move's chance of success halves every time it's used consecutively with any other protection move.",
+    "shortEffect": "Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it."
+  },
+  "priority": 4
+}

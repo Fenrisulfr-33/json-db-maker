@@ -1,0 +1,47 @@
+{
+  "_id": 237,
+  "key": "hidden-power",
+  "name": {
+    "english": "Hidden Power",
+    "japanese": "めざめるパワー",
+    "chinese": "催醒",
+    "korean": "잠재파워",
+    "german": "Poder Oculto",
+    "french": "Kraftreserve",
+    "italian": "Hidden Power",
+    "spanish": "Introforza"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "The power varies\nwith the POKéMON.",
+    "crystal": "The power varies\nwith the POKéMON.",
+    "ruby-sapphire": "The effectiveness varies\nwith the user.",
+    "emerald": "The effectiveness varies\nwith the user.",
+    "firered-leafgreen": "An attack that\nvaries in type and\nintensity depending\non the user.",
+    "diamond-pearl": "A unique attack that\nvaries in type and\nintensity depending\non the Pokémon using\nit.",
+    "platinum": "A unique attack that\nvaries in type and\nintensity depending\non the Pokémon using\nit.",
+    "heartgold-soulsilver": "A unique attack that\nvaries in type and\nintensity depending\non the Pokémon using\nit.",
+    "black-white": "A unique attack that varies in type and\nintensity depending on the Pokémon\nusing it.",
+    "black-2-white-2": "A unique attack that varies in type and\nintensity depending on the Pokémon\nusing it.",
+    "x-y": "A unique attack that varies in type\ndepending on the Pokémon using it.\n",
+    "omega-ruby-alpha-sapphire": "A unique attack that varies in type\ndepending on the Pokémon using it.\n",
+    "sun-moon": "A unique attack that varies in type depending on the\nPokémon using it.",
+    "ultra-sun-ultra-moon": "A unique attack that varies in type depending on the\nPokémon using it.",
+    "lets-go-pikachu-lets-go-eevee": "A unique attack that varies in type depending on the\nPokémon using it.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power and type are determined by the user's IVs.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
+    "shortEffect": "Power and type depend upon user's IVs.  Power can range from 30 to 70."
+  },
+  "priority": 0
+}

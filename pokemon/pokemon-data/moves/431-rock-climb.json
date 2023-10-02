@@ -1,0 +1,42 @@
+{
+  "_id": 431,
+  "key": "rock-climb",
+  "name": {
+    "english": "Rock Climb",
+    "japanese": "ロッククライム",
+    "chinese": "攀登岩石",
+    "korean": "락클라임",
+    "german": "Treparrocas",
+    "french": "Kraxler",
+    "italian": "Rock Climb",
+    "spanish": "Scalaroccia"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 90,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "A charging attack\nthat may also leave\nthe foe confused.\nIt can also be used\nto scale rocky walls.",
+    "platinum": "A charging attack\nthat may also leave\nthe foe confused.\nIt can also be used\nto scale rocky walls.",
+    "heartgold-soulsilver": "A charging attack\nthat may also leave\nthe foe confused.\nIt can also be used\nto scale rocky walls.",
+    "black-white": "The user attacks the target by smashing\ninto it with incredible force.\nIt may also confuse the target.",
+    "black-2-white-2": "The user attacks the target by smashing\ninto it with incredible force.\nIt may also confuse the target.",
+    "x-y": "The user attacks the target by smashing\ninto it with incredible force.\nThis may also confuse the target.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target by smashing\ninto it with incredible force.\nThis may also confuse the target.",
+    "sun-moon": "The user attacks the target by smashing into it with\nincredible force. This may also confuse the target.",
+    "ultra-sun-ultra-moon": "The user attacks the target by smashing into it with\nincredible force. This may also confuse the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target by smashing into it with\nincredible force. This may also confuse the target.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

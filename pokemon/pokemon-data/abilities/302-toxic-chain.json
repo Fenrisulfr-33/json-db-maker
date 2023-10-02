@@ -1,0 +1,14 @@
+{
+  "_id": 302,
+  "key": "toxic-chain",
+  "name": {
+    "english": "Toxic Chain"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "When useing a move, there is a 30% chance the target will become badly poisoned.",
+    "full": "If a Pokémon with this Ability uses a move, there is a 30% chance the target will become badly poisoned."
+  },
+  "description": {},
+  "pokemonWithAbility": {}
+}

@@ -1,0 +1,24 @@
+{
+  "_id": 276,
+  "key": "rocky-payload",
+  "name": {
+    "english": "Rocky Payload"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Rocky Payload increases the power of Rock-type moves used by this Pokémon by 50%.",
+    "full": "Rocky Payload increases the power of Rock-type moves used by this Pokémon by 50%."
+  },
+  "description": {
+    "scarlet-violet": "Powers up Rock-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Bombirdier",
+        "id": 962
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 168,
+  "key": "thief",
+  "name": {
+    "english": "Thief",
+    "japanese": "どろぼう",
+    "chinese": "小偷",
+    "korean": "도둑질",
+    "german": "Ladrón",
+    "french": "Raub",
+    "italian": "Thief",
+    "spanish": "Furto"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nsteal a held item.",
+    "crystal": "An attack that may\nsteal a held item.",
+    "ruby-sapphire": "While attacking, it may\nsteal the foe’s held item.",
+    "emerald": "While attacking, it may\nsteal the foe’s held item.",
+    "firered-leafgreen": "An attack that may\ntake the foe’s held\nitem if the user\nisn’t holding one.",
+    "diamond-pearl": "The user attacks and\nsteals the foe’s held\nitem simultaneously.\nIt can’t steal if the\nuser holds an item.",
+    "platinum": "The user attacks and\nsteals the foe’s held\nitem simultaneously.\nIt can’t steal if the\nuser holds an item.",
+    "heartgold-soulsilver": "The user attacks and\nsteals the foe’s held\nitem simultaneously.\nIt can’t steal if the\nuser holds an item.",
+    "black-white": "The user attacks and steals the target’s\nheld item simultaneously.\nIt can’t steal if the user holds an item.",
+    "black-2-white-2": "The user attacks and steals the target’s\nheld item simultaneously.\nIt can’t steal if the user holds an item.",
+    "x-y": "The user attacks and steals the target’s\nheld item simultaneously. The user can’t\nsteal anything if it already holds an item.",
+    "omega-ruby-alpha-sapphire": "The user attacks and steals the target’s\nheld item simultaneously. The user can’t\nsteal anything if it already holds an item.",
+    "sun-moon": "The user attacks and steals the target’s held item\nsimultaneously. The user can’t steal anything if it\nalready holds an item.",
+    "ultra-sun-ultra-moon": "The user attacks and steals the target’s held item\nsimultaneously. The user can’t steal anything if it\nalready holds an item.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks and steals the target’s held item\nsimultaneously. The user can’t steal anything if it\nalready holds an item.",
+    "sword-shield": "The user attacks and steals the target’s held item\nsimultaneously. The user can’t steal anything if it\nalready holds an item."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPokémon with sticky hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+    "shortEffect": "Takes the target's item."
+  },
+  "priority": 0
+}

@@ -1,0 +1,142 @@
+{
+  "_id": 8,
+  "key": "sand-veil",
+  "name": {
+    "english": "Sand Veil"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Increases evasion to 1.25× during a sandstorm. Protects against sandstorm damage.",
+    "full": "During a sandstorm, this Pokémon has 1.25× its evasion, and it does not take sandstorm damage regardless of type. The evasion bonus does not count as a stat modifier. Overworld: If the lead Pokémon has this ability, the wild encounter rate is halved in a sandstorm."
+  },
+  "description": {
+    "ruby-sapphire": "Ups evasion in a sandstorm.",
+    "emerald": "Ups evasion in a sandstorm.",
+    "firered-leafgreen": "Ups evasion in a sandstorm.",
+    "diamond-pearl": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "platinum": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "heartgold-soulsilver": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "black-white": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "black-2-white-2": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "x-y": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "omega-ruby-alpha-sapphire": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "sun-moon": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "ultra-sun-ultra-moon": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Pokémon’s evasion in a sandstorm.",
+    "sword-shield": "Boosts the Pokémon’s evasiveness in a sandstorm."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Sandshrew",
+        "id": 27
+      },
+      {
+        "name": "Sandslash",
+        "id": 28
+      },
+      {
+        "name": "Diglett",
+        "id": 50
+      },
+      {
+        "name": "Dugtrio",
+        "id": 51
+      },
+      {
+        "name": "Gligar",
+        "id": 207
+      },
+      {
+        "name": "Cacnea",
+        "id": 331
+      },
+      {
+        "name": "Cacturne",
+        "id": 332
+      },
+      {
+        "name": "Gible",
+        "id": 443
+      },
+      {
+        "name": "Gabite",
+        "id": 444
+      },
+      {
+        "name": "Garchomp",
+        "id": 445
+      },
+      {
+        "name": "Gliscor",
+        "id": 472
+      },
+      {
+        "name": "Helioptile",
+        "id": 694
+      },
+      {
+        "name": "Heliolisk",
+        "id": 695
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Geodude",
+        "id": 74
+      },
+      {
+        "name": "Graveler",
+        "id": 75
+      },
+      {
+        "name": "Golem",
+        "id": 76
+      },
+      {
+        "name": "Phanpy",
+        "id": 231
+      },
+      {
+        "name": "Donphan",
+        "id": 232
+      },
+      {
+        "name": "Larvitar",
+        "id": 246
+      },
+      {
+        "name": "Stunfisk",
+        "id": 618
+      },
+      {
+        "name": "Sandygast",
+        "id": 769
+      },
+      {
+        "name": "Palossand",
+        "id": 770
+      },
+      {
+        "name": "Silicobra",
+        "id": 843
+      },
+      {
+        "name": "Sandaconda",
+        "id": 844
+      },
+      {
+        "name": "Wiglett",
+        "id": 960
+      },
+      {
+        "name": "Wugtrio",
+        "id": 961
+      },
+      {
+        "name": "Orthworm",
+        "id": 968
+      }
+    ]
+  }
+}

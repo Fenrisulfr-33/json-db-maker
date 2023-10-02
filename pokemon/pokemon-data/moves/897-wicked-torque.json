@@ -1,0 +1,17 @@
+{
+  "_id": 897,
+  "key": "wicked-torque",
+  "name": {
+    "english": "Wicked Torque"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

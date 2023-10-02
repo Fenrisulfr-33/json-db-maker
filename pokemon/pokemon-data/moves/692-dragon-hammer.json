@@ -1,0 +1,35 @@
+{
+  "_id": 692,
+  "key": "dragon-hammer",
+  "name": {
+    "english": "Dragon Hammer",
+    "japanese": "ドラゴンハンマー",
+    "chinese": "龍錘",
+    "korean": "드래곤해머",
+    "german": "Martillo Dragón",
+    "french": "Drachenhammer",
+    "italian": "Dragon Hammer",
+    "spanish": "Marteldrago"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user uses its body like a hammer to attack the\ntarget and inflict damage.",
+    "ultra-sun-ultra-moon": "The user uses its body like a hammer to attack the\ntarget and inflict damage.",
+    "lets-go-pikachu-lets-go-eevee": "The user uses its body like a hammer to attack the\ntarget and inflict damage.",
+    "sword-shield": "The user uses its body like a hammer to attack the\ntarget and inflict damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

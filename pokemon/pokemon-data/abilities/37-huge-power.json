@@ -1,0 +1,54 @@
+{
+  "_id": 37,
+  "key": "huge-power",
+  "name": {
+    "english": "Huge Power"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Doubles Attack in battle.",
+    "full": "This Pokémon's Attack is doubled while in battle. This bonus does not count as a stat modifier. This ability functions identically to pure power."
+  },
+  "description": {
+    "ruby-sapphire": "Raises ATTACK.",
+    "emerald": "Raises ATTACK.",
+    "firered-leafgreen": "Raises ATTACK.",
+    "diamond-pearl": "Raises the Pokémon’s Attack stat.",
+    "platinum": "Raises the Pokémon’s Attack stat.",
+    "heartgold-soulsilver": "Raises the Pokémon’s Attack stat.",
+    "black-white": "Raises the Pokémon’s Attack stat.",
+    "black-2-white-2": "Raises the Pokémon’s Attack stat.",
+    "x-y": "Boosts the Pokémon’s Attack stat.",
+    "omega-ruby-alpha-sapphire": "Boosts the Pokémon’s Attack stat.",
+    "sun-moon": "Doubles the Pokémon’s Attack stat.",
+    "ultra-sun-ultra-moon": "Doubles the Pokémon’s Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "Doubles the Pokémon’s Attack stat.",
+    "sword-shield": "Doubles the Pokémon’s Attack stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Marill",
+        "id": 183
+      },
+      {
+        "name": "Azumarill",
+        "id": 184
+      },
+      {
+        "name": "Azurill",
+        "id": 298
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Bunnelby",
+        "id": 659
+      },
+      {
+        "name": "Diggersby",
+        "id": 660
+      }
+    ]
+  }
+}

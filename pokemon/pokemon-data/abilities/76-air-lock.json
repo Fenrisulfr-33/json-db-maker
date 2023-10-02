@@ -1,0 +1,37 @@
+{
+  "_id": 76,
+  "key": "air-lock",
+  "name": {
+    "english": "Air Lock"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Negates all effects of weather, but does not prevent the weather itself.",
+    "full": "While this Pokémon is in battle, weather can still be in play, but will not have any of its effects. This ability functions identically to cloud nine."
+  },
+  "description": {
+    "ruby-sapphire": "Negates weather effects.",
+    "emerald": "Negates weather effects.",
+    "firered-leafgreen": "Negates weather effects.",
+    "diamond-pearl": "Eliminates the effects of weather.",
+    "platinum": "Eliminates the effects of weather.",
+    "heartgold-soulsilver": "Eliminates the effects of weather.",
+    "black-white": "Eliminates the effects of weather.",
+    "black-2-white-2": "Eliminates the effects of weather.",
+    "x-y": "Eliminates the effects of weather.",
+    "omega-ruby-alpha-sapphire": "Eliminates the effects of weather.",
+    "sun-moon": "Eliminates the effects of weather.",
+    "ultra-sun-ultra-moon": "Eliminates the effects of weather.",
+    "lets-go-pikachu-lets-go-eevee": "Eliminates the effects of weather.",
+    "sword-shield": "Eliminates the effects of weather."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Rayquaza",
+        "id": 384
+      }
+    ],
+    "hidden": []
+  }
+}

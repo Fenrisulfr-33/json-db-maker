@@ -1,0 +1,45 @@
+{
+  "_id": 263,
+  "key": "facade",
+  "name": {
+    "english": "Facade",
+    "japanese": "からげんき",
+    "chinese": "假勇敢",
+    "korean": "객기",
+    "german": "Imagen",
+    "french": "Fassade",
+    "italian": "Facade",
+    "spanish": "Facciata"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 20,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Boosts ATTACK when burned,\nparalyzed, or poisoned.",
+    "emerald": "Boosts ATTACK when burned,\nparalyzed, or poisoned.",
+    "firered-leafgreen": "An attack that is\nboosted if user is\nburned, poisoned,\nor paralyzed.",
+    "diamond-pearl": "An attack move that\ndoubles its power if\nthe user is poisoned,\nparalyzed, or has a\nburn.",
+    "platinum": "An attack move that\ndoubles its power if\nthe user is poisoned,\nparalyzed, or has a\nburn.",
+    "heartgold-soulsilver": "An attack move that\ndoubles its power if\nthe user is poisoned,\nparalyzed, or has a\nburn.",
+    "black-white": "An attack move that doubles its power if\nthe user is poisoned, burned, or\nhas paralysis.",
+    "black-2-white-2": "An attack move that doubles its power if\nthe user is poisoned, burned, or\nhas paralysis.",
+    "x-y": "An attack move that doubles its power if\nthe user is poisoned, burned, or\nhas paralysis.",
+    "omega-ruby-alpha-sapphire": "An attack move that doubles its power if\nthe user is poisoned, burned, or\nhas paralysis.",
+    "sun-moon": "This attack move doubles its power if the user is\npoisoned, burned, or paralyzed.",
+    "ultra-sun-ultra-moon": "This attack move doubles its power if the user is\npoisoned, burned, or paralyzed.",
+    "lets-go-pikachu-lets-go-eevee": "This attack move doubles its power if the user is\npoisoned, burned, or paralyzed.",
+    "sword-shield": "This attack move doubles its power if the user is\npoisoned, burned, or paralyzed."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the user is burned, paralyzed, or poisoned, this move has double power.",
+    "shortEffect": "Power doubles if user is burned, paralyzed, or poisoned."
+  },
+  "priority": 0
+}

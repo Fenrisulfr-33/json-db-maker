@@ -1,0 +1,47 @@
+{
+  "_id": 221,
+  "key": "sacred-fire",
+  "name": {
+    "english": "Sacred Fire",
+    "japanese": "せいなるほのお",
+    "chinese": "圣之火",
+    "korean": "성스러운불꽃",
+    "german": "Fuego Sagrado",
+    "french": "Läuterfeuer",
+    "italian": "Sacred Fire",
+    "spanish": "Magifuoco"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 100,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ninflict a burn.",
+    "crystal": "An attack that may\ninflict a burn.",
+    "ruby-sapphire": "A mystical fire attack that\nmay inflict a burn.",
+    "emerald": "A mystical fire attack that\nmay inflict a burn.",
+    "firered-leafgreen": "A mystical and\npowerful fire\nattack that may\ninflict a burn.",
+    "diamond-pearl": "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.",
+    "platinum": "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.",
+    "heartgold-soulsilver": "The foe is razed with\na mystical fire of\ngreat intensity.\nIt may also leave the\ntarget with a burn.",
+    "black-white": "The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.",
+    "black-2-white-2": "The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.",
+    "x-y": "The target is razed with a mystical fire\nof great intensity. This may also leave the\ntarget with a burn.",
+    "omega-ruby-alpha-sapphire": "The target is razed with a mystical fire\nof great intensity. This may also leave the\ntarget with a burn.",
+    "sun-moon": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.",
+    "ultra-sun-ultra-moon": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn.",
+    "sword-shield": "The target is razed with a mystical fire of great\nintensity. This may also leave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves."
+  },
+  "priority": 0
+}

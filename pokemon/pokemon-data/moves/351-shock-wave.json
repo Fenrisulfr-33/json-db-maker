@@ -1,0 +1,45 @@
+{
+  "_id": 351,
+  "key": "shock-wave",
+  "name": {
+    "english": "Shock Wave",
+    "japanese": "でんげきは",
+    "chinese": "电击波",
+    "korean": "전격파",
+    "german": "Onda Voltio",
+    "french": "Schockwelle",
+    "italian": "Shock Wave",
+    "spanish": "Ondashock"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 60,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A fast and unavoidable\nelectric attack.",
+    "emerald": "A fast and unavoidable\nelectric attack.",
+    "firered-leafgreen": "A rapid jolt of\nelectricity strikes\nthe foe. It can’t\nbe evaded.",
+    "diamond-pearl": "The user strikes the\nfoe with a quick jolt\nof electricity.\nThis attack cannot be\nevaded.",
+    "platinum": "The user strikes the\nfoe with a quick jolt\nof electricity.\nThis attack cannot be\nevaded.",
+    "heartgold-soulsilver": "The user strikes the\nfoe with a quick jolt\nof electricity.\nThis attack cannot be\nevaded.",
+    "black-white": "The user strikes the target with a quick\njolt of electricity.\nThis attack cannot be evaded.",
+    "black-2-white-2": "The user strikes the target with a quick\njolt of electricity.\nThis attack cannot be evaded.",
+    "x-y": "The user strikes the target with a quick\njolt of electricity.\nThis attack never misses.",
+    "omega-ruby-alpha-sapphire": "The user strikes the target with a quick\njolt of electricity.\nThis attack never misses.",
+    "sun-moon": "The user strikes the target with a quick jolt of\nelectricity. This attack never misses.",
+    "ultra-sun-ultra-moon": "The user strikes the target with a quick jolt of\nelectricity. This attack never misses.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes the target with a quick jolt of\nelectricity. This attack never misses.",
+    "sword-shield": "The user strikes the target with a quick jolt of\nelectricity. This attack never misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

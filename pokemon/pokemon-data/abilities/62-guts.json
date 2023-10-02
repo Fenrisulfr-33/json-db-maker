@@ -1,0 +1,130 @@
+{
+  "_id": 62,
+  "key": "guts",
+  "name": {
+    "english": "Guts"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Increases Attack to 1.5× with a major status ailment.",
+    "full": "Whenever this Pokémon is asleep, burned, paralyzed, or poisoned, it has 1.5× its Attack. This Pokémon is not affected by the usual Attack cut from a burn. This bonus does not count as a stat modifier."
+  },
+  "description": {
+    "ruby-sapphire": "Ups ATTACK if suffering.",
+    "emerald": "Ups ATTACK if suffering.",
+    "firered-leafgreen": "Ups ATTACK if suffering.",
+    "diamond-pearl": "Boosts Attack if there is a status problem.",
+    "platinum": "Boosts Attack if there is a status problem.",
+    "heartgold-soulsilver": "Boosts Attack if there is a status problem.",
+    "black-white": "Boosts Attack if there is a status problem.",
+    "black-2-white-2": "Boosts Attack if there is a status problem.",
+    "x-y": "Boosts the Attack stat if the Pokémon has a status condition.",
+    "omega-ruby-alpha-sapphire": "Boosts the Attack stat if the Pokémon has a status condition.",
+    "sun-moon": "It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.",
+    "ultra-sun-ultra-moon": "It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.",
+    "sword-shield": "It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Rattata",
+        "id": 19
+      },
+      {
+        "name": "Raticate",
+        "id": 20
+      },
+      {
+        "name": "Machop",
+        "id": 66
+      },
+      {
+        "name": "Machoke",
+        "id": 67
+      },
+      {
+        "name": "Machamp",
+        "id": 68
+      },
+      {
+        "name": "Heracross",
+        "id": 214
+      },
+      {
+        "name": "Ursaring",
+        "id": 217
+      },
+      {
+        "name": "Tyrogue",
+        "id": 236
+      },
+      {
+        "name": "Larvitar",
+        "id": 246
+      },
+      {
+        "name": "Taillow",
+        "id": 276
+      },
+      {
+        "name": "Swellow",
+        "id": 277
+      },
+      {
+        "name": "Makuhita",
+        "id": 296
+      },
+      {
+        "name": "Hariyama",
+        "id": 297
+      },
+      {
+        "name": "Timburr",
+        "id": 532
+      },
+      {
+        "name": "Gurdurr",
+        "id": 533
+      },
+      {
+        "name": "Conkeldurr",
+        "id": 534
+      },
+      {
+        "name": "Throh",
+        "id": 538
+      },
+      {
+        "name": "Obstagoon",
+        "id": 862
+      },
+      {
+        "name": "Ursaluna",
+        "id": 901
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Flareon",
+        "id": 136
+      },
+      {
+        "name": "Shinx",
+        "id": 403
+      },
+      {
+        "name": "Luxio",
+        "id": 404
+      },
+      {
+        "name": "Luxray",
+        "id": 405
+      },
+      {
+        "name": "Squawkabilly",
+        "id": 931
+      }
+    ]
+  }
+}

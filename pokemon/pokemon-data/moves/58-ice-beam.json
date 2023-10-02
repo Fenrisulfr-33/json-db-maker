@@ -1,0 +1,47 @@
+{
+  "_id": 58,
+  "key": "ice-beam",
+  "name": {
+    "english": "Ice Beam",
+    "japanese": "れいとうビーム",
+    "chinese": "急冻光线",
+    "korean": "냉동빔",
+    "german": "Rayo Hielo",
+    "french": "Eisstrahl",
+    "italian": "Ice Beam",
+    "spanish": "Geloraggio"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nfreeze the foe.",
+    "crystal": "An attack that may\nfreeze the foe.",
+    "ruby-sapphire": "Blasts the foe with an icy\nbeam that may freeze it.",
+    "emerald": "Blasts the foe with an icy\nbeam that may freeze it.",
+    "firered-leafgreen": "The foe is struck\nwith an icy beam.\nIt may freeze the\nfoe solid.",
+    "diamond-pearl": "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.",
+    "platinum": "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.",
+    "heartgold-soulsilver": "The foe is struck\nwith an icy-cold\nbeam of energy.\nIt may also freeze\nthe target solid.",
+    "black-white": "The target is struck with an icy-cold\nbeam of energy.\nIt may also freeze the target solid.",
+    "black-2-white-2": "The target is struck with an icy-cold\nbeam of energy.\nIt may also freeze the target solid.",
+    "x-y": "The target is struck with an icy-cold\nbeam of energy.\nThis may also leave the target frozen.",
+    "omega-ruby-alpha-sapphire": "The target is struck with an icy-cold\nbeam of energy.\nThis may also leave the target frozen.",
+    "sun-moon": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen.",
+    "ultra-sun-ultra-moon": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen.",
+    "lets-go-pikachu-lets-go-eevee": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen.",
+    "sword-shield": "The target is struck with an icy-cold beam of energy.\nThis may also leave the target frozen."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.",
+    "shortEffect": "Has a $effect_chance% chance to freeze the target."
+  },
+  "priority": 0
+}

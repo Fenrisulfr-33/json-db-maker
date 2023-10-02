@@ -1,0 +1,47 @@
+{
+  "_id": 36,
+  "key": "take-down",
+  "name": {
+    "english": "Take Down",
+    "japanese": "とっしん",
+    "chinese": "猛撞",
+    "korean": "돌진",
+    "german": "Derribo",
+    "french": "Bodycheck",
+    "italian": "Take Down",
+    "spanish": "Riduttore"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 90,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A tackle that also\nhurts the user.",
+    "crystal": "A tackle that also\nhurts the user.",
+    "ruby-sapphire": "A reckless charge attack\nthat also hurts the user.",
+    "emerald": "A reckless charge attack\nthat also hurts the user.",
+    "firered-leafgreen": "A reckless, full-\nbody charge attack\nthat also hurts the\nuser a little.",
+    "diamond-pearl": "A reckless, full-body\ncharge attack for\nslamming into the foe.\nIt also damages the\nuser a little.",
+    "platinum": "A reckless, full-body\ncharge attack for\nslamming into the foe.\nIt also damages the\nuser a little.",
+    "heartgold-soulsilver": "A reckless, full-body\ncharge attack for\nslamming into the foe.\nIt also damages the\nuser a little.",
+    "black-white": "A reckless, full-body charge attack for\nslamming into the target.\nIt also damages the user a little.",
+    "black-2-white-2": "A reckless, full-body charge attack for\nslamming into the target.\nIt also damages the user a little.",
+    "x-y": "A reckless, full-body charge attack for\nslamming into the target.\nThis also damages the user a little.",
+    "omega-ruby-alpha-sapphire": "A reckless, full-body charge attack for\nslamming into the target.\nThis also damages the user a little.",
+    "sun-moon": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+    "ultra-sun-ultra-moon": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+    "lets-go-pikachu-lets-go-eevee": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little.",
+    "sword-shield": "A reckless, full-body charge attack for slamming into\nthe target. This also damages the user a little."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/4 the damage it inflicts in recoil."
+  },
+  "priority": 0
+}

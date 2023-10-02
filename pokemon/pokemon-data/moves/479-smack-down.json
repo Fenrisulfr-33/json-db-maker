@@ -1,0 +1,39 @@
+{
+  "_id": 479,
+  "key": "smack-down",
+  "name": {
+    "english": "Smack Down",
+    "japanese": "うちおとす",
+    "chinese": "击落",
+    "korean": "떨어뜨리기",
+    "german": "Antiaéreo",
+    "french": "Katapult",
+    "italian": "Smack Down",
+    "spanish": "Abbattimento"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user throws a stone or projectile to\nattack an opponent. A flying Pokémon will\nfall to the ground when hit.",
+    "black-2-white-2": "The user throws a stone or projectile to\nattack an opponent. A flying Pokémon will\nfall to the ground when hit.",
+    "x-y": "The user throws a stone or similar projectile\nto attack an opponent. A flying Pokémon\nwill fall to the ground when it’s hit.",
+    "omega-ruby-alpha-sapphire": "The user throws a stone or similar projectile\nto attack an opponent. A flying Pokémon\nwill fall to the ground when it’s hit.",
+    "sun-moon": "The user throws a stone or similar projectile to\nattack an opponent. A flying Pokémon will fall to the\nground when it’s hit.",
+    "ultra-sun-ultra-moon": "The user throws a stone or similar projectile to\nattack an opponent. A flying Pokémon will fall to the\nground when it’s hit.",
+    "lets-go-pikachu-lets-go-eevee": "The user throws a stone or similar projectile to\nattack an opponent. A flying Pokémon will fall to the\nground when it’s hit.",
+    "sword-shield": "The user throws a stone or similar projectile to\nattack the target. A flying Pokémon will fall to the\nground when it’s hit."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Removes the target's immunity to ground-type damage.  This effect removes any existing Ground immunity due to levitate, magnet rise, or telekinesis, and causes the target's flying type to be ignored when it takes Ground damage.\n\nIf the target isn't immune to Ground damage, this move will fail.\n\nThis move can hit Pokémon under the effect of bounce, fly, or sky drop, and ends the effect of Bounce or Fly.",
+    "shortEffect": "Removes any immunity to Ground damage."
+  },
+  "priority": 0
+}

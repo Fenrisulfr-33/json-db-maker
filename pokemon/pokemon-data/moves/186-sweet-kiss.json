@@ -1,0 +1,47 @@
+{
+  "_id": 186,
+  "key": "sweet-kiss",
+  "name": {
+    "english": "Sweet Kiss",
+    "japanese": "てんしのキッス",
+    "chinese": "天使之吻",
+    "korean": "천사의키스",
+    "german": "Beso Dulce",
+    "french": "Bitterkuss",
+    "italian": "Sweet Kiss",
+    "spanish": "Dolcebacio"
+  },
+  "type": "Fairy",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that causes\nconfusion.",
+    "crystal": "A move that causes\nconfusion.",
+    "ruby-sapphire": "Demands a kiss with a cute\nlook. May cause confusion.",
+    "emerald": "Demands a kiss with a cute\nlook. May cause confusion.",
+    "firered-leafgreen": "The user kisses\nthe foe with sweet\ncuteness that\ncauses confusion.",
+    "diamond-pearl": "The user kisses the\nfoe with a sweet,\nangelic cuteness that\ncauses confusion.\n",
+    "platinum": "The user kisses the\nfoe with a sweet,\nangelic cuteness that\ncauses confusion.\n",
+    "heartgold-soulsilver": "The user kisses the\nfoe with a sweet,\nangelic cuteness that\ncauses confusion.\n",
+    "black-white": "The user kisses the target with a sweet,\nangelic cuteness that causes confusion.",
+    "black-2-white-2": "The user kisses the target with a sweet,\nangelic cuteness that causes confusion.",
+    "x-y": "The user kisses the target with a sweet,\nangelic cuteness that causes confusion.",
+    "omega-ruby-alpha-sapphire": "The user kisses the target with a sweet,\nangelic cuteness that causes confusion.",
+    "sun-moon": "The user kisses the target with a sweet, angelic\ncuteness that causes confusion.",
+    "ultra-sun-ultra-moon": "The user kisses the target with a sweet, angelic\ncuteness that causes confusion.",
+    "lets-go-pikachu-lets-go-eevee": "The user kisses the target with a sweet, angelic\ncuteness that causes confusion.",
+    "sword-shield": "The user kisses the target with a sweet, angelic\ncuteness that causes confusion."
+  },
+  "effect": {
+    "full": "Confuses the target.",
+    "shortEffect": "Confuses the target."
+  },
+  "priority": 0
+}

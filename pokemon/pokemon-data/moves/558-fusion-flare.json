@@ -1,0 +1,39 @@
+{
+  "_id": 558,
+  "key": "fusion-flare",
+  "name": {
+    "english": "Fusion Flare",
+    "japanese": "クロスフレイム",
+    "chinese": "十字交叉火焰",
+    "korean": "크로스플레임",
+    "german": "Llama Fusión",
+    "french": "Kreuzflamme",
+    "italian": "Fusion Flare",
+    "spanish": "Incrofiamma"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user brings down a giant flame.\nThis attack does greater damage when\ninfluenced by an enormous thunderbolt.",
+    "black-2-white-2": "The user brings down a giant flame.\nThis attack does greater damage when\ninfluenced by an enormous thunderbolt.",
+    "x-y": "The user brings down a giant flame.\nThis move is more powerful when\ninfluenced by an enormous thunderbolt.",
+    "omega-ruby-alpha-sapphire": "The user brings down a giant flame.\nThis move is more powerful when\ninfluenced by an enormous thunderbolt.",
+    "sun-moon": "The user brings down a giant flame. This move’s\npower is increased when influenced by an enormous\nlightning bolt.",
+    "ultra-sun-ultra-moon": "The user brings down a giant flame. This move’s\npower is increased when influenced by an enormous\nlightning bolt.",
+    "lets-go-pikachu-lets-go-eevee": "The user brings down a giant flame. This move’s\npower is increased when influenced by an enormous\nlightning bolt.",
+    "sword-shield": "The user brings down a giant flame. This move’s\npower is increased when influenced by an enormous\nlightning bolt."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If a friendly Pokémon used fusion bolt earlier this turn, this move has double power.",
+    "shortEffect": "With Fusion Bolt, inflicts double damage."
+  },
+  "priority": 0
+}

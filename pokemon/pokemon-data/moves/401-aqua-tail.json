@@ -1,0 +1,42 @@
+{
+  "_id": 401,
+  "key": "aqua-tail",
+  "name": {
+    "english": "Aqua Tail",
+    "japanese": "アクアテール",
+    "chinese": "水柱尾",
+    "korean": "아쿠아테일",
+    "german": "Acua Cola",
+    "french": "Nassschweif",
+    "italian": "Aqua Tail",
+    "spanish": "Idrondata"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user attacks by\nswinging its tail as if\nit were a vicious wave\nin a raging storm.\n",
+    "platinum": "The user attacks by\nswinging its tail as if\nit were a vicious wave\nin a raging storm.\n",
+    "heartgold-soulsilver": "The user attacks by\nswinging its tail as if\nit were a vicious wave\nin a raging storm.\n",
+    "black-white": "The user attacks by swinging its tail as if\nit were a vicious wave in a raging storm.",
+    "black-2-white-2": "The user attacks by swinging its tail as if\nit were a vicious wave in a raging storm.",
+    "x-y": "The user attacks by swinging its tail as if\nit were a vicious wave in a raging storm.",
+    "omega-ruby-alpha-sapphire": "The user attacks by swinging its tail as if\nit were a vicious wave in a raging storm.",
+    "sun-moon": "The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm.",
+    "ultra-sun-ultra-moon": "The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm.",
+    "sword-shield": "The user attacks by swinging its tail as if it were a\nvicious wave in a raging storm."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

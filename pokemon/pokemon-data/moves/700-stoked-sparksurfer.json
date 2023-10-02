@@ -1,0 +1,35 @@
+{
+  "_id": 700,
+  "key": "stoked-sparksurfer",
+  "name": {
+    "english": "Stoked Sparksurfer",
+    "japanese": "ライトニングサーフライド",
+    "chinese": "駕雷馭電戲衝浪",
+    "korean": "라이트닝서프라이드",
+    "german": "Surfeo Galvánico",
+    "french": "Blitz-Wellenritt",
+    "italian": "Stoked Sparksurfer",
+    "spanish": "Elettrosurf Folgorante"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 1,
+  "power": 175,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "After obtaining Z-Power, the user, Alolan Raichu,\nattacks the target with full force. This move leaves\nthe target with paralysis.",
+    "ultra-sun-ultra-moon": "After obtaining Z-Power, the user, Alolan Raichu,\nattacks the target with full force. This move leaves\nthe target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "After obtaining Z-Power, the user, Alolan Raichu,\nattacks the target with full force. This move leaves\nthe target with paralysis.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

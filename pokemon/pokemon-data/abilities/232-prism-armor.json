@@ -1,0 +1,27 @@
+{
+  "_id": 232,
+  "key": "prism-armor",
+  "name": {
+    "english": "Prism Armor"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Reduces super-effective damage to 0.75×.",
+    "full": "Super-effective damage this Pokémon takes is reduced to 0.75×. This Ability is not bypassed by mold breaker, teravolt, or turboblaze."
+  },
+  "description": {
+    "sun-moon": "Reduces the power of supereffective attacks taken.",
+    "ultra-sun-ultra-moon": "Reduces the power of supereffective attacks taken.",
+    "lets-go-pikachu-lets-go-eevee": "Reduces the power of supereffective attacks taken.",
+    "sword-shield": "Reduces the power of supereffective attacks taken."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Necrozma",
+        "id": 800
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": 252,
+  "key": "steely-spirit",
+  "name": {
+    "english": "Steely Spirit"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Powers up ally Pokémon’s Steel-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Perrserker",
+        "id": 863
+      }
+    ]
+  }
+}

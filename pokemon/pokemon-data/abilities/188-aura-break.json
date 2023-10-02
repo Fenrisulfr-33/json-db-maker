@@ -1,0 +1,24 @@
+{
+  "_id": 188,
+  "key": "aura-break",
+  "name": {
+    "english": "Aura Break"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Makes dark aura and fairy aura weaken moves of their respective types.",
+    "full": "While this Pokémon is on the field, dark aura and fairy aura weaken moves of their respective types to 2/3 their power, rather than strengthening them."
+  },
+  "description": {
+    "x-y": "The effects of “Aura” Abilities are reversed.",
+    "omega-ruby-alpha-sapphire": "The effects of “Aura” Abilities are reversed.",
+    "sun-moon": "The effects of “Aura” Abilities are reversed to lower the power of affected moves.",
+    "ultra-sun-ultra-moon": "The effects of “Aura” Abilities are reversed to lower the power of affected moves.",
+    "lets-go-pikachu-lets-go-eevee": "The effects of “Aura” Abilities are reversed to lower the power of affected moves.",
+    "sword-shield": "The effects of “Aura” Abilities are reversed to lower the power of affected moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

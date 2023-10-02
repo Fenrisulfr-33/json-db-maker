@@ -1,0 +1,39 @@
+{
+  "_id": 557,
+  "key": "v-create",
+  "name": {
+    "english": "V-create",
+    "japanese": "Ｖジェネレート",
+    "chinese": "胜利V热炎",
+    "korean": "V제너레이트",
+    "german": "V de Fuego",
+    "french": "V-Generator",
+    "italian": "V-create",
+    "spanish": "Generatore V"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 180,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "With a hot flame on its forehead, the user\nhurls itself at its target. It lowers the\nuser’s Defense, Sp. Def, and Speed stats.",
+    "black-2-white-2": "With a hot flame on its forehead, the user\nhurls itself at its target. It lowers the\nuser’s Defense, Sp. Def, and Speed stats.",
+    "x-y": "With a hot flame on its forehead, the user\nhurls itself at its target. This lowers the\nuser’s Defense, Sp. Def, and Speed stats.",
+    "omega-ruby-alpha-sapphire": "With a hot flame on its forehead, the user\nhurls itself at its target. This lowers the\nuser’s Defense, Sp. Def, and Speed stats.",
+    "sun-moon": "With a hot flame on its forehead, the user hurls itself\nat its target. This lowers the user’s Defense, Sp. Def,\nand Speed stats.",
+    "ultra-sun-ultra-moon": "With a hot flame on its forehead, the user hurls itself\nat its target. This lowers the user’s Defense, Sp. Def,\nand Speed stats.",
+    "lets-go-pikachu-lets-go-eevee": "With a hot flame on its forehead, the user hurls itself\nat its target. This lowers the user’s Defense, Sp. Def,\nand Speed stats.",
+    "sword-shield": "With a hot flame on its forehead, the user hurls itself\nat its target. This lowers the user’s Defense, Sp. Def,\nand Speed stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Lowers the user's Defense, Special Defense, and Speed by one stage each.",
+    "shortEffect": "Lowers the user's Defense, Special Defense, and Speed by one stage each."
+  },
+  "priority": 0
+}

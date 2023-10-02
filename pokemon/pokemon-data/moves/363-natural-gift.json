@@ -1,0 +1,42 @@
+{
+  "_id": 363,
+  "key": "natural-gift",
+  "name": {
+    "english": "Natural Gift",
+    "japanese": "しぜんのめぐみ",
+    "chinese": "自然之恩",
+    "korean": "자연의은혜",
+    "german": "Don Natural",
+    "french": "Beerenkräfte",
+    "italian": "Natural Gift",
+    "spanish": "Dononaturale"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.",
+    "platinum": "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.",
+    "heartgold-soulsilver": "The user draws power\nto attack by using\nits held Berry.\nThe Berry determines\nits type and power.",
+    "black-white": "The user draws power to attack by using\nits held Berry.\nThe Berry determines its type and power.",
+    "black-2-white-2": "The user draws power to attack by using\nits held Berry.\nThe Berry determines its type and power.",
+    "x-y": "The user draws power to attack by using\nits held Berry.\nThe Berry determines the move’s type and power.",
+    "omega-ruby-alpha-sapphire": "The user draws power to attack by using\nits held Berry.\nThe Berry determines the move’s type and power.",
+    "sun-moon": "The user draws power to attack by using its held\nBerry. The Berry determines the move’s type\nand power.",
+    "ultra-sun-ultra-moon": "The user draws power to attack by using its held\nBerry. The Berry determines the move’s type\nand power.",
+    "lets-go-pikachu-lets-go-eevee": "The user draws power to attack by using its held\nBerry. The Berry determines the move’s type\nand power.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power and type are determined by the user's held berry.  The berry is consumed.  If the user is not holding a berry, this move will fail.",
+    "shortEffect": "Power and type depend on the held berry."
+  },
+  "priority": 0
+}

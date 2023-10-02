@@ -1,0 +1,27 @@
+{
+  "_id": 220,
+  "key": "soul-heart",
+  "name": {
+    "english": "Soul-Heart"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon's Special Attack rises by one stage every time any Pokémon faints.",
+    "full": "This Pokémon's Special Attack rises by one stage every time any Pokémon faints."
+  },
+  "description": {
+    "sun-moon": "Boosts its Sp. Atk stat every time a Pokémon faints.",
+    "ultra-sun-ultra-moon": "Boosts its Sp. Atk stat every time a Pokémon faints.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts its Sp. Atk stat every time a Pokémon faints.",
+    "sword-shield": "Boosts its Sp. Atk stat every time a Pokémon faints."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Magearna",
+        "id": 801
+      }
+    ],
+    "hidden": []
+  }
+}

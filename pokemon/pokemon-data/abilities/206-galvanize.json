@@ -1,0 +1,22 @@
+{
+  "_id": 206,
+  "key": "galvanize",
+  "name": {
+    "english": "Galvanize"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon's Normal moves are Electric and have their power increased to 1.2×.",
+    "full": "When this Pokémon uses a Normal moves, that move is Electric its power is 1.2×."
+  },
+  "description": {
+    "sun-moon": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little.",
+    "ultra-sun-ultra-moon": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little.",
+    "lets-go-pikachu-lets-go-eevee": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little.",
+    "sword-shield": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

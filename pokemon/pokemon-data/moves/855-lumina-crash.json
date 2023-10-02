@@ -1,0 +1,17 @@
+{
+  "_id": 855,
+  "key": "lumina-crash",
+  "name": {
+    "english": "Lumina Crash"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

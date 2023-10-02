@@ -1,0 +1,45 @@
+{
+  "_id": 253,
+  "key": "uproar",
+  "name": {
+    "english": "Uproar",
+    "japanese": "さわぐ",
+    "chinese": "吵闹",
+    "korean": "소란피기",
+    "german": "Alboroto",
+    "french": "Aufruhr",
+    "italian": "Uproar",
+    "spanish": "Baraonda"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Cute",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "random-opponent",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Causes an uproar for 2 to 5\nturns and prevents sleep.",
+    "emerald": "Causes an uproar for 2 to 5\nturns and prevents sleep.",
+    "firered-leafgreen": "The user attacks in\nan uproar that\nprevents sleep for\ntwo to five turns.",
+    "diamond-pearl": "The user attacks in\nan uproar for two to\nfive turns. Over that\ntime, no one can fall\nasleep.",
+    "platinum": "The user attacks in\nan uproar for two to\nfive turns. Over that\ntime, no one can fall\nasleep.",
+    "heartgold-soulsilver": "The user attacks in\nan uproar for two to\nfive turns. Over that\ntime, no one can fall\nasleep.",
+    "black-white": "The user attacks in an uproar for\nthree turns. Over that time,\nno one can fall asleep.",
+    "black-2-white-2": "The user attacks in an uproar for\nthree turns. Over that time,\nno one can fall asleep.",
+    "x-y": "The user attacks in an uproar for\nthree turns. During that time,\nno one can fall asleep.",
+    "omega-ruby-alpha-sapphire": "The user attacks in an uproar for\nthree turns. During that time,\nno one can fall asleep.",
+    "sun-moon": "The user attacks in an uproar for three turns.\nDuring that time, no Pokémon can fall asleep.",
+    "ultra-sun-ultra-moon": "The user attacks in an uproar for three turns.\nDuring that time, no Pokémon can fall asleep.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks in an uproar for three turns.\nDuring that time, no Pokémon can fall asleep.",
+    "sword-shield": "The user attacks in an uproar for three turns.\nDuring that time, no Pokémon can fall asleep."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User is forced to use this move for 2–5 turns, selected at random.  All Pokémon on the field wake up, and none can fall to sleep until the lock-in ends.\n\nPokémon cannot use rest during this effect.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "Forced to use this move for several turns.  Pokémon cannot fall asleep in that time."
+  },
+  "priority": 0
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 314,
+  "key": "air-cutter",
+  "name": {
+    "english": "Air Cutter",
+    "japanese": "エアカッター",
+    "chinese": "破空斩",
+    "korean": "에어컷터",
+    "german": "Aire Afilado",
+    "french": "Windschnitt",
+    "italian": "Air Cutter",
+    "spanish": "Aerasoio"
+  },
+  "type": "Flying",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 25,
+  "power": 60,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 3,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Hacks with razorlike wind.\nHigh critical-hit ratio.",
+    "emerald": "Hacks with razorlike wind.\nHigh critical-hit ratio.",
+    "firered-leafgreen": "The foe is hit with\nrazor-like wind.\nIt has a high\ncritical-hit ratio.",
+    "diamond-pearl": "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "The user launches\nrazorlike wind to\nslash the foe.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "The user launches razor-like wind to\nslash the opposing team.\nCritical hits land more easily.",
+    "black-2-white-2": "The user launches razor-like wind to\nslash the opposing team.\nCritical hits land more easily.",
+    "x-y": "The user launches razor-like wind\nto slash the opposing Pokémon.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user launches razor-like wind\nto slash the opposing Pokémon.\nCritical hits land more easily.",
+    "sun-moon": "The user launches razor-like wind to slash the\nopposing Pokémon. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user launches razor-like wind to slash the\nopposing Pokémon. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user launches razor-like wind to slash the\nopposing Pokémon. Critical hits land more easily.",
+    "sword-shield": "The user launches razor-like wind to slash opposing\nPokémon. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

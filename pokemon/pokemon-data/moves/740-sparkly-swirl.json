@@ -1,0 +1,33 @@
+{
+  "_id": 740,
+  "key": "sparkly-swirl",
+  "name": {
+    "english": "Sparkly Swirl",
+    "japanese": "きらきらストーム",
+    "chinese": "亮亮風暴",
+    "korean": "반짝반짝스톰",
+    "german": "Sylveotornado",
+    "french": "Glitzersturm",
+    "italian": "Sparkly Swirl",
+    "spanish": "Sbrilluccibufera"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target by wrapping it with\na whirlwind of an overpowering scent. This also\nheals all status conditions of the user’s party.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

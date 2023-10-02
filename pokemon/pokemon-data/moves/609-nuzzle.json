@@ -1,0 +1,37 @@
+{
+  "_id": 609,
+  "key": "nuzzle",
+  "name": {
+    "english": "Nuzzle",
+    "japanese": "ほっぺすりすり",
+    "chinese": "蹭蹭臉頰",
+    "korean": "볼부비부비",
+    "german": "Moflete Estático",
+    "french": "Wangenrubbler",
+    "italian": "Nuzzle",
+    "spanish": "Elettrococcola"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 20,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user attacks by nuzzling its electrified\ncheeks against the target. This also leaves\nthe target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user attacks by nuzzling its electrified\ncheeks against the target. This also leaves\nthe target with paralysis.",
+    "sun-moon": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
+    "ultra-sun-ultra-moon": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis.",
+    "sword-shield": "The user attacks by nuzzling its electrified cheeks\nagainst the target. This also leaves the target\nwith paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

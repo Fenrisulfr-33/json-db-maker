@@ -1,0 +1,47 @@
+{
+  "_id": 190,
+  "key": "octazooka",
+  "name": {
+    "english": "Octazooka",
+    "japanese": "オクタンほう",
+    "chinese": "章鱼桶炮",
+    "korean": "대포무노포",
+    "german": "Pulpocañón",
+    "french": "Octazooka",
+    "italian": "Octazooka",
+    "spanish": "Octazooka"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 65,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nreduce accuracy.",
+    "crystal": "An attack that may\nreduce accuracy.",
+    "ruby-sapphire": "Fires a lump of ink to\ndamage and cut accuracy.",
+    "emerald": "Fires a lump of ink to\ndamage and cut accuracy.",
+    "firered-leafgreen": "Ink is blasted in\nthe foe’s face or\neyes to damage and\nlower accuracy.",
+    "diamond-pearl": "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.",
+    "platinum": "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.",
+    "heartgold-soulsilver": "The user attacks by\nspraying ink in the\nfoe’s face or eyes.\nIt may also lower the\ntarget’s accuracy.",
+    "black-white": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nIt may also lower the target’s accuracy.",
+    "black-2-white-2": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nIt may also lower the target’s accuracy.",
+    "x-y": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nThis may also lower the target’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user attacks by spraying ink in the\ntarget’s face or eyes.\nThis may also lower the target’s accuracy.",
+    "sun-moon": "The user attacks by spraying ink in the target’s face\nor eyes. This may also lower the target’s accuracy.",
+    "ultra-sun-ultra-moon": "The user attacks by spraying ink in the target’s face\nor eyes. This may also lower the target’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by spraying ink in the target’s face\nor eyes. This may also lower the target’s accuracy.",
+    "sword-shield": "The user attacks by spraying ink in the target’s face\nor eyes. This may also lower the target’s accuracy."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+  },
+  "priority": 0
+}

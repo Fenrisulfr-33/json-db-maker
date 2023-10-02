@@ -1,0 +1,17 @@
+{
+  "_id": 900,
+  "key": "magical-torque",
+  "name": {
+    "english": "Magical Torque"
+  },
+  "type": "Fairy",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

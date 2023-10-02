@@ -1,0 +1,22 @@
+{
+  "_id": 207,
+  "key": "surge-surfer",
+  "name": {
+    "english": "Surge Surfer"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Doubles this Pokémon's Speed on Electric Terrain.",
+    "full": "Doubles this Pokémon's Speed on Electric Terrain."
+  },
+  "description": {
+    "sun-moon": "Doubles the Pokémon’s Speed stat on Electric Terrain.",
+    "ultra-sun-ultra-moon": "Doubles the Pokémon’s Speed stat on Electric Terrain.",
+    "lets-go-pikachu-lets-go-eevee": "Doubles the Pokémon’s Speed stat on Electric Terrain.",
+    "sword-shield": "Doubles the Pokémon’s Speed stat on Electric Terrain."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

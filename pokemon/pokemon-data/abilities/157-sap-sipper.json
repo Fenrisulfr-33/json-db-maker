@@ -1,0 +1,104 @@
+{
+  "_id": 157,
+  "key": "sap-sipper",
+  "name": {
+    "english": "Sap Sipper"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Absorbs grass moves, raising Attack one stage.",
+    "full": "Whenever a grass-type move hits this Pokémon, its Attack rises one stage, negating any other effect on it."
+  },
+  "description": {
+    "black-white": "Boosts Attack when hit by a Grass-type move.",
+    "black-2-white-2": "Boosts Attack when hit by a Grass-type move.",
+    "x-y": "Boosts the Attack stat when hit by a Grass-type move.",
+    "omega-ruby-alpha-sapphire": "Boosts the Attack stat when hit by a Grass-type move.",
+    "sun-moon": "Boosts the Attack stat if hit by a Grass-type move, instead of taking damage.",
+    "ultra-sun-ultra-moon": "Boosts the Attack stat if hit by a Grass-type move, instead of taking damage.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Attack stat if hit by a Grass-type move instead of taking damage.",
+    "sword-shield": "Boosts the Attack stat if hit by a Grass-type move instead of taking damage."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Deerling",
+        "id": 585
+      },
+      {
+        "name": "Sawsbuck",
+        "id": 586
+      },
+      {
+        "name": "Bouffalant",
+        "id": 626
+      },
+      {
+        "name": "Skiddo",
+        "id": 672
+      },
+      {
+        "name": "Gogoat",
+        "id": 673
+      },
+      {
+        "name": "Goomy",
+        "id": 704
+      },
+      {
+        "name": "Sliggoo",
+        "id": 705
+      },
+      {
+        "name": "Goodra",
+        "id": 706
+      },
+      {
+        "name": "Drampa",
+        "id": 780
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Marill",
+        "id": 183
+      },
+      {
+        "name": "Azumarill",
+        "id": 184
+      },
+      {
+        "name": "Girafarig",
+        "id": 203
+      },
+      {
+        "name": "Stantler",
+        "id": 234
+      },
+      {
+        "name": "Miltank",
+        "id": 241
+      },
+      {
+        "name": "Azurill",
+        "id": 298
+      },
+      {
+        "name": "Blitzle",
+        "id": 522
+      },
+      {
+        "name": "Zebstrika",
+        "id": 523
+      },
+      {
+        "name": "Wyrdeer",
+        "id": 899
+      },
+      {
+        "name": "Farigiraf",
+        "id": 981
+      }
+    ]
+  }
+}

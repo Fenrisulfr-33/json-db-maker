@@ -1,0 +1,25 @@
+{
+  "_id": 239,
+  "key": "propeller-tail",
+  "name": {
+    "english": "Propeller Tail"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Arrokuda",
+        "id": 846
+      },
+      {
+        "name": "Barraskewda",
+        "id": 847
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 12,
+  "key": "guillotine",
+  "name": {
+    "english": "Guillotine",
+    "japanese": "ハサミギロチン",
+    "chinese": "剪刀断头台",
+    "korean": "가위자르기",
+    "german": "Guillotina",
+    "french": "Guillotine",
+    "italian": "Guillotine",
+    "spanish": "Ghigliottina"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 5,
+  "power": null,
+  "accuracy": 30,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A one-hit KO,\npincer attack.",
+    "crystal": "A one-hit KO,\npincer attack.",
+    "ruby-sapphire": "A powerful pincer attack\nthat may cause fainting.",
+    "emerald": "A powerful pincer attack\nthat may cause fainting.",
+    "firered-leafgreen": "A vicious tearing\nattack with pincers.\nThe foe will faint\nif it hits.",
+    "diamond-pearl": "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.",
+    "platinum": "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.",
+    "heartgold-soulsilver": "A vicious, tearing\nattack with pincers.\nThe foe will faint\ninstantly if this\nattack hits.",
+    "black-white": "A vicious, tearing attack with big pincers.\nThe target will faint instantly\nif this attack hits.",
+    "black-2-white-2": "A vicious, tearing attack with big pincers.\nThe target will faint instantly\nif this attack hits.",
+    "x-y": "A vicious, tearing attack with big pincers.\nThe target faints instantly if this attack hits.",
+    "omega-ruby-alpha-sapphire": "A vicious, tearing attack with big pincers.\nThe target faints instantly if this attack hits.",
+    "sun-moon": "A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits.",
+    "ultra-sun-ultra-moon": "A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits.",
+    "lets-go-pikachu-lets-go-eevee": "A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits.",
+    "sword-shield": "A vicious, tearing attack with big pincers. The target\nfaints instantly if this attack hits."
+  },
+  "effect": {
+    "full": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect.",
+    "shortEffect": "Causes a one-hit KO."
+  },
+  "priority": 0
+}

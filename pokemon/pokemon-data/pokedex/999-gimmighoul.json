@@ -20,15 +20,15 @@
   "baseStats": {
     "hp": 45,
     "atk": 30,
-    "def": 70,
+    "def": 25,
     "spatk": 75,
-    "spdef": 70,
-    "spd": 10,
+    "spdef": 45,
+    "spd": 80,
     "total": 300
   },
   "info": {
-    "height": "0.1 m (0′04″)",
-    "weight": "0.1 kg (0.2 lbs)"
+    "height": "0.3 m (1′00″)",
+    "weight": "5.0 kg (11.0 lbs)"
   },
   "gender": {
     "male": "",
@@ -38,7 +38,7 @@
   "evolution": 0,
   "evs": {},
   "eggGroups": [
-    null
+    "Undiscovered"
   ],
   "species": "Coin Hunter Pokémon",
   "catchRate": 45,

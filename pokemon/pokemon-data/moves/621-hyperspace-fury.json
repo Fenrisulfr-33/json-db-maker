@@ -1,0 +1,36 @@
+{
+  "_id": 621,
+  "key": "hyperspace-fury",
+  "name": {
+    "english": "Hyperspace Fury",
+    "japanese": "いじげんラッシュ",
+    "chinese": "異次元猛攻",
+    "korean": "다른차원러시",
+    "german": "Cerco Dimensión",
+    "french": "Dimensionswahn",
+    "italian": "Hyperspace Fury",
+    "spanish": "Urtodimensionale"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "omega-ruby-alpha-sapphire": "Using its many arms, the user unleashes a barrage of\nattacks that ignore the effects of moves like Protect\nand Detect. This attack lowers the user’s Defense.",
+    "sun-moon": "Using its many arms, the user unleashes a barrage of\nattacks that ignore the effects of moves like Protect\nand Detect. But the user’s Defense stat falls.",
+    "ultra-sun-ultra-moon": "Using its many arms, the user unleashes a barrage of\nattacks that ignore the effects of moves like Protect\nand Detect. But the user’s Defense stat falls.",
+    "lets-go-pikachu-lets-go-eevee": "Using its many arms, the user unleashes a barrage of\nattacks that ignore the effects of moves like Protect\nand Detect. But the user’s Defense stat falls.",
+    "sword-shield": "Using its many arms, the user unleashes a barrage of\nattacks that ignore the effects of moves like Protect\nand Detect. But the user’s Defense stat falls."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Bypasses and removes any protection effect on the target.",
+    "shortEffect": "Ignores and destroys protection effects."
+  },
+  "priority": 0
+}

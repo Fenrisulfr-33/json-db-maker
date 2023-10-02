@@ -1,0 +1,35 @@
+{
+  "_id": 706,
+  "key": "psychic-fangs",
+  "name": {
+    "english": "Psychic Fangs",
+    "japanese": "サイコファング",
+    "chinese": "精神之牙",
+    "korean": "사이코팽",
+    "german": "Psicocolmillo",
+    "french": "Psychobeißer",
+    "italian": "Psychic Fangs",
+    "spanish": "Psicozanna"
+  },
+  "type": "Psychic",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 85,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user bites the target with its psychic\ncapabilities. This can also destroy Light Screen\nand Reflect.",
+    "ultra-sun-ultra-moon": "The user bites the target with its psychic\ncapabilities. This can also destroy Light Screen\nand Reflect.",
+    "lets-go-pikachu-lets-go-eevee": "The user bites the target with its psychic\ncapabilities. This can also destroy Light Screen\nand Reflect.",
+    "sword-shield": "The user bites the target with its psychic\ncapabilities. This can also destroy Light Screen\nand Reflect."
+  },
+  "effect": {
+    "full": "Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage.",
+    "shortEffect": "Destroys Reflect and Light Screen."
+  },
+  "priority": 0
+}

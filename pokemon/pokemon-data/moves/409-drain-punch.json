@@ -1,0 +1,42 @@
+{
+  "_id": 409,
+  "key": "drain-punch",
+  "name": {
+    "english": "Drain Punch",
+    "japanese": "ドレインパンチ",
+    "chinese": "吸收拳",
+    "korean": "드레인펀치",
+    "german": "Puño Drenaje",
+    "french": "Ableithieb",
+    "italian": "Drain Punch",
+    "spanish": "Assorbipugno"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "An energy-draining\npunch. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "platinum": "An energy-draining\npunch. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "heartgold-soulsilver": "An energy-draining\npunch. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "black-white": "An energy-draining punch. The user’s\nHP is restored by half the damage taken\nby the target.",
+    "black-2-white-2": "An energy-draining punch. The user’s\nHP is restored by half the damage taken\nby the target.",
+    "x-y": "An energy-draining punch. The user’s\nHP is restored by half the damage taken\nby the target.",
+    "omega-ruby-alpha-sapphire": "An energy-draining punch. The user’s\nHP is restored by half the damage taken\nby the target.",
+    "sun-moon": "An energy-draining punch. The user’s HP is restored\nby half the damage taken by the target.",
+    "ultra-sun-ultra-moon": "An energy-draining punch. The user’s HP is restored\nby half the damage taken by the target.",
+    "lets-go-pikachu-lets-go-eevee": "An energy-draining punch. The user’s HP is restored\nby half the damage taken by the target.",
+    "sword-shield": "An energy-draining punch. The user’s HP is restored\nby half the damage taken by the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+    "shortEffect": "Drains half the damage inflicted to heal the user."
+  },
+  "priority": 0
+}

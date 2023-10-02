@@ -1,0 +1,45 @@
+{
+  "_id": 350,
+  "key": "rock-blast",
+  "name": {
+    "english": "Rock Blast",
+    "japanese": "ロックブラスト",
+    "chinese": "岩石爆破",
+    "korean": "락블레스트",
+    "german": "Pedrada",
+    "french": "Felswurf",
+    "italian": "Rock Blast",
+    "spanish": "Cadutamassi"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 25,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Hurls boulders at the foe\n2 to 5 times in a row.",
+    "emerald": "Hurls boulders at the foe\n2 to 5 times in a row.",
+    "firered-leafgreen": "The user hurls two\nto five hard rocks\nat the foe to\nattack.",
+    "diamond-pearl": "The user hurls hard\nrocks at the foe.\nTwo to five rocks are\nlaunched in quick\nsuccession.",
+    "platinum": "The user hurls hard\nrocks at the foe.\nTwo to five rocks are\nlaunched in quick\nsuccession.",
+    "heartgold-soulsilver": "The user hurls hard\nrocks at the foe.\nTwo to five rocks are\nlaunched in quick\nsuccession.",
+    "black-white": "The user hurls hard rocks at the target.\nTwo to five rocks are launched in quick\nsuccession.",
+    "black-2-white-2": "The user hurls hard rocks at the target.\nTwo to five rocks are launched in quick\nsuccession.",
+    "x-y": "The user hurls hard rocks at the target.\nTwo to five rocks are launched in a row.",
+    "omega-ruby-alpha-sapphire": "The user hurls hard rocks at the target.\nTwo to five rocks are launched in a row.",
+    "sun-moon": "The user hurls hard rocks at the target. Two to five\nrocks are launched in a row.",
+    "ultra-sun-ultra-moon": "The user hurls hard rocks at the target. Two to five\nrocks are launched in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The user hurls hard rocks at the target. Two to five\nrocks are launched in a row.",
+    "sword-shield": "The user hurls hard rocks at the target. Two to five\nrocks are launched in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

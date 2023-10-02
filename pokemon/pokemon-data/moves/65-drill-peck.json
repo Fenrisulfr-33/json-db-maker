@@ -1,0 +1,47 @@
+{
+  "_id": 65,
+  "key": "drill-peck",
+  "name": {
+    "english": "Drill Peck",
+    "japanese": "ドリルくちばし",
+    "chinese": "冲钻",
+    "korean": "회전부리",
+    "german": "Pico Taladro",
+    "french": "Bohrschnabel",
+    "italian": "Drill Peck",
+    "spanish": "Perforbecco"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A strong, spin­\nning-peck attack.",
+    "crystal": "A strong, spin­\nning-peck attack.",
+    "ruby-sapphire": "A corkscrewing attack with\nthe beak acting as a drill.",
+    "emerald": "A corkscrewing attack with\nthe beak acting as a drill.",
+    "firered-leafgreen": "A corkscrewing\nattack with the\nsharp beak acting\nas a drill.",
+    "diamond-pearl": "A corkscrewing\nattack with the\nsharp beak acting\nas a drill.\n",
+    "platinum": "A corkscrewing\nattack with the\nsharp beak acting\nas a drill.\n",
+    "heartgold-soulsilver": "A corkscrewing\nattack with the\nsharp beak acting\nas a drill.\n",
+    "black-white": "A corkscrewing attack with the\nsharp beak acting as a drill.",
+    "black-2-white-2": "A corkscrewing attack with the\nsharp beak acting as a drill.",
+    "x-y": "A corkscrewing attack with a\nsharp beak acting as a drill.",
+    "omega-ruby-alpha-sapphire": "A corkscrewing attack with a\nsharp beak acting as a drill.",
+    "sun-moon": "A corkscrewing attack with a sharp beak acting as\na drill.",
+    "ultra-sun-ultra-moon": "A corkscrewing attack with a sharp beak acting as\na drill.",
+    "lets-go-pikachu-lets-go-eevee": "A corkscrewing attack with a sharp beak acting as\na drill.",
+    "sword-shield": "A corkscrewing attack that strikes the target with a\nsharp beak acting as a drill."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

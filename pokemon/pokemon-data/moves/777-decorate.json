@@ -1,0 +1,29 @@
+{
+  "_id": 777,
+  "key": "decorate",
+  "name": {
+    "english": "Decorate",
+    "japanese": "デコレーション",
+    "chinese": "裝飾",
+    "korean": "데코레이션",
+    "german": "Decoración",
+    "french": "Verzierung",
+    "italian": "Decorate",
+    "spanish": "Decorazione"
+  },
+  "type": "Fairy",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user sharply raises the target’s Attack and Sp. Atk\nstats by decorating the target."
+  },
+  "effect": {},
+  "priority": 0
+}

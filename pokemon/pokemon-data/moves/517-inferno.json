@@ -1,0 +1,39 @@
+{
+  "_id": 517,
+  "key": "inferno",
+  "name": {
+    "english": "Inferno",
+    "japanese": "れんごく",
+    "chinese": "炼狱",
+    "korean": "연옥",
+    "german": "Infierno",
+    "french": "Inferno",
+    "italian": "Inferno",
+    "spanish": "Marchiatura"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 50,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by engulfing the target\nin an intense fire. It leaves the target\nwith a burn.",
+    "black-2-white-2": "The user attacks by engulfing the target\nin an intense fire. It leaves the target\nwith a burn.",
+    "x-y": "The user attacks by engulfing the target\nin an intense fire. This leaves the target\nwith a burn.",
+    "omega-ruby-alpha-sapphire": "The user attacks by engulfing the target\nin an intense fire. This leaves the target\nwith a burn.",
+    "sun-moon": "The user attacks by engulfing the target in an\nintense fire. This leaves the target with a burn.",
+    "ultra-sun-ultra-moon": "The user attacks by engulfing the target in an\nintense fire. This leaves the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by engulfing the target in an\nintense fire. This leaves the target with a burn.",
+    "sword-shield": "The user attacks by engulfing the target in an\nintense fire. This leaves the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,48 @@
+{
+  "_id": 218,
+  "key": "fluffy",
+  "name": {
+    "english": "Fluffy"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Damage from contact moves is halved. Damage from Fire moves is doubled.",
+    "full": "Damage from contact moves is halved. Damage from Fire moves is doubled."
+  },
+  "description": {
+    "sun-moon": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves.",
+    "ultra-sun-ultra-moon": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves.",
+    "sword-shield": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Stufful",
+        "id": 759
+      },
+      {
+        "name": "Bewear",
+        "id": 760
+      },
+      {
+        "name": "Wooloo",
+        "id": 831
+      },
+      {
+        "name": "Dubwool",
+        "id": 832
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Greavard",
+        "id": 971
+      },
+      {
+        "name": "Houndstone",
+        "id": 972
+      }
+    ]
+  }
+}

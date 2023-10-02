@@ -1,0 +1,42 @@
+{
+  "_id": 85,
+  "key": "heatproof",
+  "name": {
+    "english": "Heatproof"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Halves damage from fire moves and burns.",
+    "full": "This Pokémon takes half as much damage from fire-type moves and burns."
+  },
+  "description": {
+    "diamond-pearl": "Weakens the power of Fire-type moves.",
+    "platinum": "Weakens the power of Fire-type moves.",
+    "heartgold-soulsilver": "Weakens the power of Fire-type moves.",
+    "black-white": "Weakens the power of Fire-type moves.",
+    "black-2-white-2": "Weakens the power of Fire-type moves.",
+    "x-y": "Weakens the power of Fire-type moves.",
+    "omega-ruby-alpha-sapphire": "Weakens the power of Fire-type moves.",
+    "sun-moon": "The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.",
+    "ultra-sun-ultra-moon": "The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.",
+    "lets-go-pikachu-lets-go-eevee": "The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.",
+    "sword-shield": "The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Bronzor",
+        "id": 436
+      },
+      {
+        "name": "Bronzong",
+        "id": 437
+      },
+      {
+        "name": "Rolycoly",
+        "id": 837
+      }
+    ],
+    "hidden": []
+  }
+}

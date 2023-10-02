@@ -1,0 +1,35 @@
+{
+  "_id": 713,
+  "key": "sunsteel-strike",
+  "name": {
+    "english": "Sunsteel Strike",
+    "japanese": "メテオドライブ",
+    "chinese": "流星閃衝",
+    "korean": "메테오드라이브",
+    "german": "Meteoimpacto",
+    "french": "Stahlgestirn",
+    "italian": "Sunsteel Strike",
+    "spanish": "Astrocarica"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user slams into the target with the force of a\nmeteor. This move can be used on the target \nregardless of its Abilities.",
+    "ultra-sun-ultra-moon": "The user slams into the target with the force of a\nmeteor. This move can be used on the target \nregardless of its Abilities.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams into the target with the force of a\nmeteor. This move can be used on the target\nregardless of its Abilities.",
+    "sword-shield": "The user slams into the target with the force of a\nmeteor. This move can be used on the target\nregardless of its Abilities."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular, it hits through disguise",
+    "shortEffect": "Cannot be disrupted by abilities."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 134,
+  "key": "kinesis",
+  "name": {
+    "english": "Kinesis",
+    "japanese": "スプーンまげ",
+    "chinese": "折弯汤匙",
+    "korean": "숟가락휘기",
+    "german": "Kinético",
+    "french": "Psykraft",
+    "italian": "Kinesis",
+    "spanish": "Cinèsi"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 15,
+  "power": null,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Reduces the foe's\naccuracy.",
+    "crystal": "Reduces the foe's\naccuracy.",
+    "ruby-sapphire": "Distracts the foe.\nMay lower accuracy.",
+    "emerald": "Distracts the foe.\nMay lower accuracy.",
+    "firered-leafgreen": "The user distracts\nthe foe by bending\na spoon. It may\nlower accuracy.",
+    "diamond-pearl": "The user distracts\nthe foe by bending a\nspoon.\nIt may lower the\ntarget’s accuracy.",
+    "platinum": "The user distracts\nthe foe by bending a\nspoon.\nIt may lower the\ntarget’s accuracy.",
+    "heartgold-soulsilver": "The user distracts\nthe foe by bending a\nspoon.\nIt may lower the\ntarget’s accuracy.",
+    "black-white": "The user distracts the target\nby bending a spoon.\nIt lowers the target’s accuracy.",
+    "black-2-white-2": "The user distracts the target\nby bending a spoon.\nIt lowers the target’s accuracy.",
+    "x-y": "The user distracts the target\nby bending a spoon.\nThis lowers the target’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user distracts the target\nby bending a spoon.\nThis lowers the target’s accuracy.",
+    "sun-moon": "The user distracts the target by bending a spoon.\nThis lowers the target’s accuracy.",
+    "ultra-sun-ultra-moon": "The user distracts the target by bending a spoon.\nThis lowers the target’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user distracts the target by bending a spoon.\nThis lowers the target’s accuracy.",
+    "sword-shield": "The user distracts the target by bending a spoon.\nThis lowers the target’s accuracy."
+  },
+  "effect": {
+    "full": "Lowers the target's accuracy by one stage.",
+    "shortEffect": "Lowers the target's accuracy by one stage."
+  },
+  "priority": 0
+}

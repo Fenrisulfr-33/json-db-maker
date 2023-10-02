@@ -1,0 +1,47 @@
+{
+  "_id": 231,
+  "key": "iron-tail",
+  "name": {
+    "english": "Iron Tail",
+    "japanese": "アイアンテール",
+    "chinese": "铁尾",
+    "korean": "아이언테일",
+    "german": "Cola Férrea",
+    "french": "Eisenschweif",
+    "italian": "Iron Tail",
+    "spanish": "Codacciaio"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 100,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nreduce DEFENSE.",
+    "crystal": "An attack that may\nreduce DEFENSE.",
+    "ruby-sapphire": "Attacks with a rock-hard\ntail. May lower DEFENSE.",
+    "emerald": "Attacks with a rock-hard\ntail. May lower DEFENSE.",
+    "firered-leafgreen": "An attack with a\nsteel-hard tail.\nIt may lower the\nfoe’s DEFENSE stat.",
+    "diamond-pearl": "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.",
+    "platinum": "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.",
+    "heartgold-soulsilver": "The foe is slammed\nwith a steel-hard\ntail. It may also\nlower the target’s\nDefense stat.",
+    "black-white": "The target is slammed with a steel-hard\ntail. It may also lower the target’s\nDefense stat.",
+    "black-2-white-2": "The target is slammed with a steel-hard\ntail. It may also lower the target’s\nDefense stat.",
+    "x-y": "The target is slammed with a steel-hard\ntail. This may also lower the target’s\nDefense stat.",
+    "omega-ruby-alpha-sapphire": "The target is slammed with a steel-hard\ntail. This may also lower the target’s\nDefense stat.",
+    "sun-moon": "The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat.",
+    "ultra-sun-ultra-moon": "The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat.",
+    "sword-shield": "The target is slammed with a steel-hard tail.\nThis may also lower the target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
+  },
+  "priority": 0
+}

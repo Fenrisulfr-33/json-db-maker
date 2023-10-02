@@ -1,0 +1,47 @@
+{
+  "_id": 24,
+  "key": "double-kick",
+  "name": {
+    "english": "Double Kick",
+    "japanese": "にどげり",
+    "chinese": "连环腿",
+    "korean": "두번치기",
+    "german": "Doble Patada",
+    "french": "Doppelkick",
+    "italian": "Double Kick",
+    "spanish": "Doppiocalcio"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 30,
+  "power": 30,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A double kicking\nattack.",
+    "crystal": "A double kicking\nattack.",
+    "ruby-sapphire": "A double-kicking attack\nthat strikes the foe twice.",
+    "emerald": "A double-kicking attack\nthat strikes the foe twice.",
+    "firered-leafgreen": "Two legs are used\nto quickly kick the\nfoe twice in one\nturn.",
+    "diamond-pearl": "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n",
+    "platinum": "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n",
+    "heartgold-soulsilver": "The foe is quickly\nkicked twice in\nsuccession using both\nfeet.\n",
+    "black-white": "The target is quickly kicked twice in\nsuccession using both feet.",
+    "black-2-white-2": "The target is quickly kicked twice in\nsuccession using both feet.",
+    "x-y": "The target is quickly kicked twice in\nsuccession using both feet.",
+    "omega-ruby-alpha-sapphire": "The target is quickly kicked twice in\nsuccession using both feet.",
+    "sun-moon": "The target is quickly kicked twice in succession\nusing both feet.",
+    "ultra-sun-ultra-moon": "The target is quickly kicked twice in succession\nusing both feet.",
+    "lets-go-pikachu-lets-go-eevee": "The target is quickly kicked twice in succession\nusing both feet.",
+    "sword-shield": "The target is quickly kicked twice in succession\nusing both feet."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits twice in one turn.",
+    "shortEffect": "Hits twice in one turn."
+  },
+  "priority": 0
+}

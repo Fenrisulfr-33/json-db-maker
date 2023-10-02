@@ -1,0 +1,42 @@
+{
+  "_id": 371,
+  "key": "payback",
+  "name": {
+    "english": "Payback",
+    "japanese": "しっぺがえし",
+    "chinese": "报复",
+    "korean": "보복",
+    "german": "Vendetta",
+    "french": "Gegenstoß",
+    "italian": "Payback",
+    "spanish": "Rivincita"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "If the user can use\nthis attack after the\nfoe attacks, its\npower is doubled.\n",
+    "platinum": "If the user can use\nthis attack after the\nfoe attacks, its\npower is doubled.\n",
+    "heartgold-soulsilver": "If the user can use\nthis attack after the\nfoe attacks, its\npower is doubled.\n",
+    "black-white": "If the user moves after the target,\nthis attack’s power will be doubled.",
+    "black-2-white-2": "If the user moves after the target,\nthis attack’s power will be doubled.",
+    "x-y": "The user stores power, then attacks.\nIf the user moves after the target,\nthis attack’s power will be doubled.",
+    "omega-ruby-alpha-sapphire": "The user stores power, then attacks.\nIf the user moves after the target,\nthis attack’s power will be doubled.",
+    "sun-moon": "The user stores power, then attacks. If the user\nmoves after the target, this attack’s power will\nbe doubled.",
+    "ultra-sun-ultra-moon": "The user stores power, then attacks. If the user\nmoves after the target, this attack’s power will\nbe doubled.",
+    "lets-go-pikachu-lets-go-eevee": "The user stores power, then attacks. If the user\nmoves after the target, this attack’s power will\nbe doubled.",
+    "sword-shield": "The user stores power, then attacks. If the user\nmoves after the target, this attack’s power will\nbe doubled."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power.",
+    "shortEffect": "Power is doubled if the target has already moved this turn."
+  },
+  "priority": 0
+}

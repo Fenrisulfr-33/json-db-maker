@@ -1,0 +1,84 @@
+{
+  "_id": 128,
+  "key": "defiant",
+  "name": {
+    "english": "Defiant"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Raises Attack two stages upon having any stat lowered.",
+    "full": "When any of this Pokémon's stats are lowered, its Attack rises by two stages. If multiple stats are lowered at once, this ability takes effect with each stat lowered."
+  },
+  "description": {
+    "black-white": "When its stats are lowered its Attack increases.",
+    "black-2-white-2": "When its stats are lowered its Attack increases.",
+    "x-y": "Boosts the Pokémon’s Attack stat when its stats are lowered.",
+    "omega-ruby-alpha-sapphire": "Boosts the Pokémon’s Attack stat when its stats are lowered.",
+    "sun-moon": "Boosts the Pokémon’s Attack stat sharply when its stats are lowered.",
+    "ultra-sun-ultra-moon": "Boosts the Pokémon’s Attack stat sharply when its stats are lowered.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Pokémon’s Attack stat sharply when its stats are lowered.",
+    "sword-shield": "Boosts the Pokémon’s Attack stat sharply when its stats are lowered."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Pawniard",
+        "id": 624
+      },
+      {
+        "name": "Bisharp",
+        "id": 625
+      },
+      {
+        "name": "Kingambit",
+        "id": 983
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Mankey",
+        "id": 56
+      },
+      {
+        "name": "Primeape",
+        "id": 57
+      },
+      {
+        "name": "Piplup",
+        "id": 393
+      },
+      {
+        "name": "Prinplup",
+        "id": 394
+      },
+      {
+        "name": "Empoleon",
+        "id": 395
+      },
+      {
+        "name": "Purugly",
+        "id": 432
+      },
+      {
+        "name": "Braviary",
+        "id": 628
+      },
+      {
+        "name": "Passimian",
+        "id": 766
+      },
+      {
+        "name": "Obstagoon",
+        "id": 862
+      },
+      {
+        "name": "Falinks",
+        "id": 870
+      },
+      {
+        "name": "Annihilape",
+        "id": 979
+      }
+    ]
+  }
+}

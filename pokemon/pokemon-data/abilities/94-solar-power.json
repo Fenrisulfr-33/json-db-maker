@@ -1,0 +1,63 @@
+{
+  "_id": 94,
+  "key": "solar-power",
+  "name": {
+    "english": "Solar Power"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.",
+    "full": "During strong sunlight, this Pokémon has 1.5× its Special Attack but takes 1/8 of its maximum HP in damage after each turn."
+  },
+  "description": {
+    "diamond-pearl": "Boosts Sp. Atk, but lowers HP in sunshine.",
+    "platinum": "Boosts Sp. Atk, but lowers HP in sunshine.",
+    "heartgold-soulsilver": "Boosts Sp. Atk, but lowers HP in sunshine.",
+    "black-white": "In sunshine, Sp. Atk is boosted but HP decreases.",
+    "black-2-white-2": "In sunshine, Sp. Atk is boosted but HP decreases.",
+    "x-y": "Boosts the Sp. Atk stat in sunny weather, but HP decreases.",
+    "omega-ruby-alpha-sapphire": "Boosts the Sp. Atk stat in sunny weather, but HP decreases.",
+    "sun-moon": "Boosts the Sp. Atk stat in sunny weather, but HP decreases every turn.",
+    "ultra-sun-ultra-moon": "Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn.",
+    "sword-shield": "Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Sunkern",
+        "id": 191
+      },
+      {
+        "name": "Sunflora",
+        "id": 192
+      },
+      {
+        "name": "Tropius",
+        "id": 357
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Charmander",
+        "id": 4
+      },
+      {
+        "name": "Charmeleon",
+        "id": 5
+      },
+      {
+        "name": "Charizard",
+        "id": 6
+      },
+      {
+        "name": "Helioptile",
+        "id": 694
+      },
+      {
+        "name": "Heliolisk",
+        "id": 695
+      }
+    ]
+  }
+}

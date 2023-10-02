@@ -1,0 +1,47 @@
+{
+  "_id": 181,
+  "key": "powder-snow",
+  "name": {
+    "english": "Powder Snow",
+    "japanese": "こなゆき",
+    "chinese": "细雪",
+    "korean": "눈싸라기",
+    "german": "Nieve Polvo",
+    "french": "Pulverschnee",
+    "italian": "Powder Snow",
+    "spanish": "Polneve"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 25,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause freezing.",
+    "crystal": "An attack that may\ncause freezing.",
+    "ruby-sapphire": "Blasts the foe with a snowy\ngust. May cause freezing.",
+    "emerald": "Blasts the foe with a snowy\ngust. May cause freezing.",
+    "firered-leafgreen": "Blasts the foe with\na snowy gust.\nIt may cause\nfreezing.",
+    "diamond-pearl": "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.",
+    "platinum": "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.",
+    "heartgold-soulsilver": "The user attacks with\na chilling gust of\npowdery snow.\nIt may also freeze\nthe target.",
+    "black-white": "The user attacks with a chilling gust\nof powdery snow.\nIt may also freeze the targets.",
+    "black-2-white-2": "The user attacks with a chilling gust\nof powdery snow.\nIt may also freeze the targets.",
+    "x-y": "The user attacks with a chilling gust\nof powdery snow.\nThis may also freeze the opposing Pokémon.",
+    "omega-ruby-alpha-sapphire": "The user attacks with a chilling gust\nof powdery snow.\nThis may also freeze the opposing Pokémon.",
+    "sun-moon": "The user attacks with a chilling gust of powdery\nsnow. This may also freeze the opposing Pokémon.",
+    "ultra-sun-ultra-moon": "The user attacks with a chilling gust of powdery\nsnow. This may also freeze the opposing Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a chilling gust of powdery\nsnow. This may also freeze the opposing Pokémon.",
+    "sword-shield": "The user attacks with a chilling gust of powdery snow.\nThis may also freeze opposing Pokémon."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.",
+    "shortEffect": "Has a $effect_chance% chance to freeze the target."
+  },
+  "priority": 0
+}

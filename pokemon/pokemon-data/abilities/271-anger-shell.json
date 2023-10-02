@@ -1,0 +1,24 @@
+{
+  "_id": 271,
+  "key": "anger-shell",
+  "name": {
+    "english": "Anger Shell"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "",
+    "full": "When the Pokémon's HP drops below half, Anger Shell lowers its Defense and Special Defense but its Attack, Special Attack and Speed are raised."
+  },
+  "description": {
+    "scarlet-violet": "When an attack causes its HP to drop to half or less, the Pokémon gets angry. This lowers its Defense and Sp. Def stats but boosts its Attack, Sp. Atk, and Speed stats."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Klawf",
+        "id": 950
+      }
+    ],
+    "hidden": []
+  }
+}

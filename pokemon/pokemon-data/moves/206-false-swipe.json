@@ -1,0 +1,47 @@
+{
+  "_id": 206,
+  "key": "false-swipe",
+  "name": {
+    "english": "False Swipe",
+    "japanese": "みねうち",
+    "chinese": "刀背击打",
+    "korean": "칼등치기",
+    "german": "Falso Tortazo",
+    "french": "Trugschlag",
+    "italian": "False Swipe",
+    "spanish": "Falsofinale"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 40,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Leaves the foe\nwith at least 1HP.",
+    "crystal": "Leaves the foe\nwith at least 1HP.",
+    "ruby-sapphire": "An attack that leaves the\nfoe with at least 1 HP.",
+    "emerald": "An attack that leaves the\nfoe with at least 1 HP.",
+    "firered-leafgreen": "A restrained attack\nthat always leaves\nthe foe with at\nleast 1 HP.",
+    "diamond-pearl": "A restrained attack\nthat prevents the\nfoe from fainting.\nThe target is left\nwith at least 1 HP.",
+    "platinum": "A restrained attack\nthat prevents the\nfoe from fainting.\nThe target is left\nwith at least 1 HP.",
+    "heartgold-soulsilver": "A restrained attack\nthat prevents the\nfoe from fainting.\nThe target is left\nwith at least 1 HP.",
+    "black-white": "A restrained attack that prevents the\ntarget from fainting.\nThe target is left with at least 1 HP.",
+    "black-2-white-2": "A restrained attack that prevents the\ntarget from fainting.\nThe target is left with at least 1 HP.",
+    "x-y": "A restrained attack that prevents the\ntarget from fainting.\nThe target is left with at least 1 HP.",
+    "omega-ruby-alpha-sapphire": "A restrained attack that prevents the\ntarget from fainting.\nThe target is left with at least 1 HP.",
+    "sun-moon": "A restrained attack that prevents the target from\nfainting. The target is left with at least 1 HP.",
+    "ultra-sun-ultra-moon": "A restrained attack that prevents the target from\nfainting. The target is left with at least 1 HP.",
+    "lets-go-pikachu-lets-go-eevee": "A restrained attack that prevents the target from\nfainting. The target is left with at least 1 HP.",
+    "sword-shield": "A restrained attack that prevents the target from\nfainting. The target is left with at least 1 HP."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Will not reduce the target's HP below 1.",
+    "shortEffect": "Cannot lower the target's HP below 1."
+  },
+  "priority": 0
+}

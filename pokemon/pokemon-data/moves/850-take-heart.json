@@ -1,0 +1,17 @@
+{
+  "_id": 850,
+  "key": "take-heart",
+  "name": {
+    "english": "Take Heart"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": 0,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "All-allies",
+  "changes": []
+}

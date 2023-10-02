@@ -1,0 +1,37 @@
+{
+  "_id": 610,
+  "key": "hold-back",
+  "name": {
+    "english": "Hold Back",
+    "japanese": "てかげん",
+    "chinese": "手下留情",
+    "korean": "적당히손봐주기",
+    "german": "Clemencia",
+    "french": "Zurückhaltung",
+    "italian": "Hold Back",
+    "spanish": "Riguardo"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 40,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user holds back when it attacks\nand the target is left with at least 1 HP.",
+    "omega-ruby-alpha-sapphire": "The user holds back when it attacks\nand the target is left with at least 1 HP.",
+    "sun-moon": "The user holds back when it attacks, and the target\nis left with at least 1 HP.",
+    "ultra-sun-ultra-moon": "The user holds back when it attacks, and the target\nis left with at least 1 HP.",
+    "lets-go-pikachu-lets-go-eevee": "The user holds back when it attacks, and the target\nis left with at least 1 HP.",
+    "sword-shield": "The user holds back when it attacks, and the target\nis left with at least 1 HP."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Will not reduce the target's HP below 1.",
+    "shortEffect": "Cannot lower the target's HP below 1."
+  },
+  "priority": 0
+}

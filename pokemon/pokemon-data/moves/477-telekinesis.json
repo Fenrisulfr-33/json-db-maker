@@ -1,0 +1,39 @@
+{
+  "_id": 477,
+  "key": "telekinesis",
+  "name": {
+    "english": "Telekinesis",
+    "japanese": "テレキネシス",
+    "chinese": "心灵传动术",
+    "korean": "텔레키네시스",
+    "german": "Telequinesis",
+    "french": "Telekinese",
+    "italian": "Telekinesis",
+    "spanish": "Telecinesi"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user makes the target float with its\npsychic power. The target is easier to\nhit for three turns.",
+    "black-2-white-2": "The user makes the target float with its\npsychic power. The target is easier to\nhit for three turns.",
+    "x-y": "The user makes the target float with its\npsychic power. The target is easier to\nhit for three turns.",
+    "omega-ruby-alpha-sapphire": "The user makes the target float with its\npsychic power. The target is easier to\nhit for three turns.",
+    "sun-moon": "The user makes the target float with its psychic\npower. The target is easier to hit for three turns.",
+    "ultra-sun-ultra-moon": "The user makes the target float with its psychic\npower. The target is easier to hit for three turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user makes the target float with its psychic\npower. The target is easier to hit for three turns.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "For three turns (including this one), moves used against the target have 100% accuracy, but the target is immune to ground damage.  Accuracy of one-hit KO moves is exempt from this effect.\n\nThis effect is removed by gravity.  If Gravity is already in effect, this move will fail.",
+    "shortEffect": "Moves have 100% accuracy against the target for three turns."
+  },
+  "priority": 0
+}

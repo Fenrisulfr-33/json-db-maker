@@ -1,0 +1,37 @@
+{
+  "_id": 563,
+  "key": "rototiller",
+  "name": {
+    "english": "Rototiller",
+    "japanese": "たがやす",
+    "chinese": "耕地",
+    "korean": "일구기",
+    "german": "Fertilizante",
+    "french": "Pflüger",
+    "italian": "Rototiller",
+    "spanish": "Aracampo"
+  },
+  "type": "Ground",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "all-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "Tilling the soil, the user makes it easier\nfor plants to grow. This raises the Attack\nand Sp. Atk stats of Grass-type Pokémon.",
+    "omega-ruby-alpha-sapphire": "Tilling the soil, the user makes it easier\nfor plants to grow. This raises the Attack\nand Sp. Atk stats of Grass-type Pokémon.",
+    "sun-moon": "Tilling the soil, the user makes it easier for plants to\ngrow. This raises the Attack and Sp. Atk stats of\nGrass-type Pokémon.",
+    "ultra-sun-ultra-moon": "Tilling the soil, the user makes it easier for plants to\ngrow. This raises the Attack and Sp. Atk stats of\nGrass-type Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "Tilling the soil, the user makes it easier for plants to\ngrow. This raises the Attack and Sp. Atk stats of\nGrass-type Pokémon.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Raises the Attack and Special Attack of all grass Pokémon in battle.",
+    "shortEffect": "Raises the Attack and Special Attack of all grass Pokémon in battle."
+  },
+  "priority": 0
+}

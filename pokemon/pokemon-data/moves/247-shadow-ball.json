@@ -1,0 +1,47 @@
+{
+  "_id": 247,
+  "key": "shadow-ball",
+  "name": {
+    "english": "Shadow Ball",
+    "japanese": "シャドーボール",
+    "chinese": "影子球",
+    "korean": "섀도볼",
+    "german": "Bola Sombra",
+    "french": "Spukball",
+    "italian": "Shadow Ball",
+    "spanish": "Palla Ombra"
+  },
+  "type": "Ghost",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nlower SPCL.DEF.",
+    "crystal": "An attack that may\nlower SPCL.DEF.",
+    "ruby-sapphire": "Hurls a black blob that may\nlower the foe’s SP. DEF.",
+    "emerald": "Hurls a black blob that may\nlower the foe’s SP. DEF.",
+    "firered-leafgreen": "A shadowy blob is\nhurled at the foe.\nMay also lower the\nfoe’s SP. DEF.",
+    "diamond-pearl": "The user hurls a\nshadowy blob at the\nfoe. It may also\nlower the foe’s\nSp. Def stat.",
+    "platinum": "The user hurls a\nshadowy blob at the\nfoe. It may also\nlower the foe’s\nSp. Def stat.",
+    "heartgold-soulsilver": "The user hurls a\nshadowy blob at the\nfoe. It may also\nlower the foe’s\nSp. Def stat.",
+    "black-white": "The user hurls a shadowy blob at the\ntarget. It may also lower the target’s\nSp. Def stat.",
+    "black-2-white-2": "The user hurls a shadowy blob at the\ntarget. It may also lower the target’s\nSp. Def stat.",
+    "x-y": "The user hurls a shadowy blob at the\ntarget. This may also lower the target’s\nSp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user hurls a shadowy blob at the\ntarget. This may also lower the target’s\nSp. Def stat.",
+    "sun-moon": "The user hurls a shadowy blob at the target.\nThis may also lower the target’s Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The user hurls a shadowy blob at the target.\nThis may also lower the target’s Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user hurls a shadowy blob at the target.\nThis may also lower the target’s Sp. Def stat.",
+    "sword-shield": "The user hurls a shadowy blob at the target.\nThis may also lower the target’s Sp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

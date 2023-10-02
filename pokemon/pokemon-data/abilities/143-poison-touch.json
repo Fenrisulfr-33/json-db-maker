@@ -1,0 +1,64 @@
+{
+  "_id": 143,
+  "key": "poison-touch",
+  "name": {
+    "english": "Poison Touch"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Has a 30% chance of poisoning target Pokémon upon contact.",
+    "full": "This Pokémon's contact moves have a 30% chance of poisoning the target with each hit. This counts as an extra effect for the purposes of shield dust. This ability takes effect before mummy."
+  },
+  "description": {
+    "black-white": "May poison targets when a Pokémon makes contact.",
+    "black-2-white-2": "May poison targets when a Pokémon makes contact.",
+    "x-y": "May poison a target when the Pokémon makes contact.",
+    "omega-ruby-alpha-sapphire": "May poison a target when the Pokémon makes contact.",
+    "sun-moon": "May poison a target when the Pokémon makes contact.",
+    "ultra-sun-ultra-moon": "May poison a target when the Pokémon makes contact.",
+    "lets-go-pikachu-lets-go-eevee": "May poison a target when the Pokémon makes contact.",
+    "sword-shield": "May poison a target when the Pokémon makes contact."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Seismitoad",
+        "id": 537
+      },
+      {
+        "name": "Skrelp",
+        "id": 690
+      },
+      {
+        "name": "Dragalge",
+        "id": 691
+      },
+      {
+        "name": "Grafaiai",
+        "id": 945
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Grimer",
+        "id": 88
+      },
+      {
+        "name": "Muk",
+        "id": 89
+      },
+      {
+        "name": "Croagunk",
+        "id": 453
+      },
+      {
+        "name": "Toxicroak",
+        "id": 454
+      },
+      {
+        "name": "Sneasler",
+        "id": 903
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 411,
+  "key": "focus-blast",
+  "name": {
+    "english": "Focus Blast",
+    "japanese": "きあいだま",
+    "chinese": "集气弹",
+    "korean": "기합구슬",
+    "german": "Onda Certera",
+    "french": "Fokusstoß",
+    "italian": "Focus Blast",
+    "spanish": "Focalcolpo"
+  },
+  "type": "Fighting",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 70,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.",
+    "platinum": "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.",
+    "heartgold-soulsilver": "The user heightens\nits mental focus and\nunleashes its power.\nIt may also lower the\ntarget’s Sp. Def.",
+    "black-white": "The user heightens its mental focus and\nunleashes its power.\nIt may also lower the target’s Sp. Def.",
+    "black-2-white-2": "The user heightens its mental focus and\nunleashes its power.\nIt may also lower the target’s Sp. Def.",
+    "x-y": "The user heightens its mental focus and\nunleashes its power.\nThis may also lower the target’s Sp. Def.",
+    "omega-ruby-alpha-sapphire": "The user heightens its mental focus and\nunleashes its power.\nThis may also lower the target’s Sp. Def.",
+    "sun-moon": "The user heightens its mental focus and unleashes\nits power. This may also lower the target’s \nSp. Def stat.",
+    "ultra-sun-ultra-moon": "The user heightens its mental focus and unleashes\nits power. This may also lower the target’s \nSp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user heightens its mental focus and unleashes\nits power. This may also lower the target’s\nSp. Def stat.",
+    "sword-shield": "The user heightens its mental focus and unleashes\nits power. This may also lower the target’s\nSp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 2,
+  "key": "karate-chop",
+  "name": {
+    "english": "Karate Chop",
+    "japanese": "からてチョップ",
+    "chinese": "手刀",
+    "korean": "태권당수",
+    "german": "Golpe Kárate",
+    "french": "Karateschlag",
+    "italian": "Karate Chop",
+    "spanish": "Colpokarate"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 25,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Has a high criti­\ncal hit ratio.",
+    "crystal": "Has a high criti­\ncal hit ratio.",
+    "ruby-sapphire": "A chopping attack with a\nhigh critical-hit ratio.",
+    "emerald": "A chopping attack with a\nhigh critical-hit ratio.",
+    "firered-leafgreen": "The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.",
+    "diamond-pearl": "The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.\n",
+    "platinum": "The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.\n",
+    "heartgold-soulsilver": "The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.\n",
+    "black-white": "The target is attacked with a sharp chop.\nCritical hits land more easily.",
+    "black-2-white-2": "The target is attacked with a sharp chop.\nCritical hits land more easily.",
+    "x-y": "The target is attacked with a sharp chop.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a sharp chop.\nCritical hits land more easily.",
+    "sun-moon": "The target is attacked with a sharp chop. Critical\nhits land more easily.",
+    "ultra-sun-ultra-moon": "The target is attacked with a sharp chop. Critical\nhits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with a sharp chop. Critical\nhits land more easily.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

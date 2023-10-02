@@ -1,0 +1,47 @@
+{
+  "_id": 219,
+  "key": "safeguard",
+  "name": {
+    "english": "Safeguard",
+    "japanese": "しんぴのまもり",
+    "chinese": "神秘护身",
+    "korean": "신비의부적",
+    "german": "Velo Sagrado",
+    "french": "Bodyguard",
+    "italian": "Safeguard",
+    "spanish": "Salvaguardia"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 25,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "gold-silver": "Prevents all\nstatus problems.",
+    "crystal": "Prevents all\nstatus problems.",
+    "ruby-sapphire": "A mystical force prevents\nall status problems.",
+    "emerald": "A mystical force prevents\nall status problems.",
+    "firered-leafgreen": "It protects the\nuser’s party from\nall status problems\nfor five turns.",
+    "diamond-pearl": "The user creates a\nprotective field that\nprevents status\nproblems for five\nturns.",
+    "platinum": "The user creates a\nprotective field that\nprevents status\nproblems for five\nturns.",
+    "heartgold-soulsilver": "The user creates a\nprotective field that\nprevents status\nproblems for five\nturns.",
+    "black-white": "The user creates a protective field that\nprevents status problems for five turns.",
+    "black-2-white-2": "The user creates a protective field that\nprevents status problems for five turns.",
+    "x-y": "The user creates a protective field\nthat prevents status conditions\nfor five turns.",
+    "omega-ruby-alpha-sapphire": "The user creates a protective field\nthat prevents status conditions\nfor five turns.",
+    "sun-moon": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+    "ultra-sun-ultra-moon": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user creates a protective field that prevents\nstatus conditions for five turns.",
+    "sword-shield": "The user creates a protective field that prevents\nstatus conditions for five turns."
+  },
+  "effect": {
+    "full": "Protects Pokémon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+    "shortEffect": "Protects the user's field from major status ailments and confusion for five turns."
+  },
+  "priority": 0
+}

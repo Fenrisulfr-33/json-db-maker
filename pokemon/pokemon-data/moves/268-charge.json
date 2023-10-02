@@ -1,0 +1,45 @@
+{
+  "_id": 268,
+  "key": "charge",
+  "name": {
+    "english": "Charge",
+    "japanese": "じゅうでん",
+    "chinese": "充电",
+    "korean": "충전",
+    "german": "Carga",
+    "french": "Ladevorgang",
+    "italian": "Charge",
+    "spanish": "Sottocarica"
+  },
+  "type": "Electric",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Charges power to boost the\nelectric move used next.",
+    "emerald": "Charges power to boost the\nelectric move used next.",
+    "firered-leafgreen": "The user charges\npower to boost the\nELECTRIC move it\nuses next.",
+    "diamond-pearl": "The user boosts the\npower of the Electric\nmove it uses next.\nIt also raises the\nuser’s Sp. Def stat.",
+    "platinum": "The user boosts the\npower of the Electric\nmove it uses next.\nIt also raises the\nuser’s Sp. Def stat.",
+    "heartgold-soulsilver": "The user boosts the\npower of the Electric\nmove it uses next.\nIt also raises the\nuser’s Sp. Def stat.",
+    "black-white": "The user boosts the power of the Electric\nmove it uses on the next turn. It also\nraises the user’s Sp. Def stat.",
+    "black-2-white-2": "The user boosts the power of the Electric\nmove it uses on the next turn. It also\nraises the user’s Sp. Def stat.",
+    "x-y": "The user boosts the power of the Electric\nmove it uses on the next turn. This also\nraises the user’s Sp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user boosts the power of the Electric\nmove it uses on the next turn. This also\nraises the user’s Sp. Def stat.",
+    "sun-moon": "The user boosts the power of the Electric move it\nuses on the next turn. This also raises the user’s\nSp. Def stat.",
+    "ultra-sun-ultra-moon": "The user boosts the power of the Electric move it\nuses on the next turn. This also raises the user’s\nSp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user boosts the power of the Electric move it\nuses on the next turn. This also raises the user’s\nSp. Def stat.",
+    "sword-shield": "The user boosts the power of the Electric move it\nuses on the next turn. This also raises the user’s\nSp. Def stat."
+  },
+  "effect": {
+    "full": "Raises the user's Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled.",
+    "shortEffect": "Raises the user's Special Defense by one stage.  User's Electric moves have doubled power next turn."
+  },
+  "priority": 0
+}

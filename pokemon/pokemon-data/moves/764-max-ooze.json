@@ -1,0 +1,32 @@
+{
+  "_id": 764,
+  "key": "max-ooze",
+  "name": {
+    "english": "Max Ooze",
+    "japanese": "ダイアシッド",
+    "chinese": "極巨酸毒",
+    "korean": "다이애시드",
+    "german": "Maxiácido",
+    "french": "Dyna-Giftschwall",
+    "italian": "Max Ooze",
+    "spanish": "Dynacorrosione"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 10,
+  "accuracy": null,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon-me-first",
+  "changes": [],
+  "description": {
+    "sword-shield": "This is a Poison-type attack Dynamax Pokémon use.\nThis raises ally Pokémon’s Sp. Atk stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

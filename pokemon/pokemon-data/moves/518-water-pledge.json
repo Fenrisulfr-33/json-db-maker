@@ -1,0 +1,39 @@
+{
+  "_id": 518,
+  "key": "water-pledge",
+  "name": {
+    "english": "Water Pledge",
+    "japanese": "みずのちかい",
+    "chinese": "水的誓约",
+    "korean": "물의맹세",
+    "german": "Voto Agua",
+    "french": "Wassersäulen",
+    "italian": "Water Pledge",
+    "spanish": "Acquapatto"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+    "black-2-white-2": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+    "x-y": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+    "omega-ruby-alpha-sapphire": "A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.",
+    "sun-moon": "A column of water strikes the target. When combined\nwith its fire equivalent, its power increases and a\nrainbow appears.",
+    "ultra-sun-ultra-moon": "A column of water strikes the target. When combined\nwith its fire equivalent, its power increases and a\nrainbow appears.",
+    "lets-go-pikachu-lets-go-eevee": "A column of water strikes the target. When combined\nwith its fire equivalent, its power increases and a\nrainbow appears.",
+    "sword-shield": "A column of water hits the target. When used with\nits fire equivalent, its power increases and a\nrainbow appears."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If a friendly Pokémon used grass pledge earlier this turn, all opposing Pokémon have halved Speed for four turns (including this one).",
+    "shortEffect": "With Grass Pledge, halves opposing Pokémon's Speed for four turns."
+  },
+  "priority": 0
+}

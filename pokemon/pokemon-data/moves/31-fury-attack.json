@@ -1,0 +1,47 @@
+{
+  "_id": 31,
+  "key": "fury-attack",
+  "name": {
+    "english": "Fury Attack",
+    "japanese": "みだれづき",
+    "chinese": "疯狂攻击",
+    "korean": "마구찌르기",
+    "german": "Ataque Furia",
+    "french": "Furienschlag",
+    "italian": "Fury Attack",
+    "spanish": "Furia"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 15,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Jabs the target\n2-5 times.",
+    "crystal": "Jabs the target\n2-5 times.",
+    "ruby-sapphire": "Jabs the foe 2 to 5 times\nwith sharp horns, etc.",
+    "emerald": "Jabs the foe 2 to 5 times\nwith sharp horns, etc.",
+    "firered-leafgreen": "The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times.",
+    "diamond-pearl": "The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times in a row.\n",
+    "platinum": "The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times in a row.\n",
+    "heartgold-soulsilver": "The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times in a row.\n",
+    "black-white": "The target is jabbed repeatedly with a\nhorn or beak two to five times in a row.",
+    "black-2-white-2": "The target is jabbed repeatedly with a\nhorn or beak two to five times in a row.",
+    "x-y": "The target is jabbed repeatedly with a\nhorn or beak two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "The target is jabbed repeatedly with a\nhorn or beak two to five times in a row.",
+    "sun-moon": "The target is jabbed repeatedly with a horn or beak\ntwo to five times in a row.",
+    "ultra-sun-ultra-moon": "The target is jabbed repeatedly with a horn or beak\ntwo to five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The target is jabbed repeatedly with a horn or beak\ntwo to five times in a row.",
+    "sword-shield": "The target is jabbed repeatedly with a horn or beak\ntwo to five times in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

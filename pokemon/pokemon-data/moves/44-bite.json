@@ -1,0 +1,47 @@
+{
+  "_id": 44,
+  "key": "bite",
+  "name": {
+    "english": "Bite",
+    "japanese": "かみつく",
+    "chinese": "咬咬",
+    "korean": "물기",
+    "german": "Mordisco",
+    "french": "Biss",
+    "italian": "Bite",
+    "spanish": "Morso"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 25,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause flinching.",
+    "crystal": "An attack that may\ncause flinching.",
+    "ruby-sapphire": "Bites with vicious fangs.\nMay cause flinching.",
+    "emerald": "Bites with vicious fangs.\nMay cause flinching.",
+    "firered-leafgreen": "The user bites with\nvicious fangs.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n",
+    "platinum": "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n",
+    "heartgold-soulsilver": "The foe is bitten with\nviciously sharp fangs.\nIt may make the\ntarget flinch.\n",
+    "black-white": "The target is bitten\nwith viciously sharp fangs.\nIt may make the target flinch.",
+    "black-2-white-2": "The target is bitten\nwith viciously sharp fangs.\nIt may make the target flinch.",
+    "x-y": "The target is bitten\nwith viciously sharp fangs.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The target is bitten\nwith viciously sharp fangs.\nThis may also make the target flinch.",
+    "sun-moon": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.",
+    "ultra-sun-ultra-moon": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch.",
+    "sword-shield": "The target is bitten with viciously sharp fangs.\nThis may also make the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

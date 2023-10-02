@@ -1,0 +1,42 @@
+{
+  "_id": 368,
+  "key": "metal-burst",
+  "name": {
+    "english": "Metal Burst",
+    "japanese": "メタルバースト",
+    "chinese": "合金爆裂",
+    "korean": "메탈버스트",
+    "german": "Represión Metal",
+    "french": "Metallstoß",
+    "italian": "Metal Burst",
+    "spanish": "Metalscoppio"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "specific-move",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user retaliates\nagainst the foe that\nlast inflicted damage\non it with much\ngreater power.",
+    "platinum": "The user retaliates\nagainst the foe that\nlast inflicted damage\non it with much\ngreater power.",
+    "heartgold-soulsilver": "The user retaliates\nagainst the foe that\nlast inflicted damage\non it with much\ngreater power.",
+    "black-white": "The user retaliates with much greater\npower against the target\nthat last inflicted damage on it.",
+    "black-2-white-2": "The user retaliates with much greater\npower against the target\nthat last inflicted damage on it.",
+    "x-y": "The user retaliates with much greater\npower against the target\nthat last inflicted damage on it.",
+    "omega-ruby-alpha-sapphire": "The user retaliates with much greater\npower against the opponent\nthat last inflicted damage on it.",
+    "sun-moon": "The user retaliates with much greater force against\nthe opponent that last inflicted damage on it.",
+    "ultra-sun-ultra-moon": "The user retaliates with much greater force against\nthe opponent that last inflicted damage on it.",
+    "lets-go-pikachu-lets-go-eevee": "The user retaliates with much greater force against\nthe opponent that last inflicted damage on it.",
+    "sword-shield": "The user retaliates with much greater force against\nthe opponent that last inflicted damage on it."
+  },
+  "effect": {
+    "full": "Targets the last opposing Pokémon to hit the user with a damaging move this turn.  Inflicts 1.5× the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.",
+    "shortEffect": "Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage."
+  },
+  "priority": 0
+}

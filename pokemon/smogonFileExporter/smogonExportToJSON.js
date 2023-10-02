@@ -88,7 +88,7 @@ const smogonExportToJSON = (string, isVgc) => {
 }
 // This function reformats EVs/Ivs so that the data can be in either an array or object form.
 const reformatEffortValues = (evs) => {
-    const evsAry = [];
+    const returnEvs = {};
     const newEvs = evs.split('/');
     const stats = ['Hp', 'Atk', 'Def', 'SpA', 'SpD', 'Spe'];
     newEvs.forEach((ev) => {
@@ -96,11 +96,20 @@ const reformatEffortValues = (evs) => {
         stats.forEach((stat) => {
             if (noGap.includes(stat)) {
                 const statValue = noGap.replace(stat, '');
-                evsAry.push([stat, Number(statValue)])
+                if (stat === 'Spe'){
+                    returnEvs.spd = Number(statValue);
+                } else if (stat === 'SpA'){
+                    returnEvs.spatk = Number(statValue);
+                } else if (stat === 'SpD'){
+                    returnEvs.spdef = Number(statValue);
+                } else {
+                    returnEvs[stat.toLowerCase()] = Number(statValue);
+                }
+                
             }
         })
     })
-    return evsAry;
+    return returnEvs;
 }
 // This function takes in the file name and removes .json documents where the return data is saved.
 const getFolders = (files) => {
@@ -119,7 +128,7 @@ const saveJsonData = (saveRoute, array) => {
         if (error) {
             console.log(error);
         }
-        console.log("JSON data is saved.");
+        console.log(`JSON data is saved ${saveRoute}`);
     });
     return;
 }

@@ -1,0 +1,47 @@
+{
+  "_id": 162,
+  "key": "super-fang",
+  "name": {
+    "english": "Super Fang",
+    "japanese": "いかりのまえば",
+    "chinese": "愤怒之牙",
+    "korean": "분노의앞니",
+    "german": "Superdiente",
+    "french": "Superzahn",
+    "italian": "Super Fang",
+    "spanish": "Superzanna"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": null,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Cuts the foe's HP\nby 1/2.",
+    "crystal": "Cuts the foe's HP\nby 1/2.",
+    "ruby-sapphire": "Attacks with sharp fangs\nand cuts half the foe’s HP.",
+    "emerald": "Attacks with sharp fangs\nand cuts half the foe’s HP.",
+    "firered-leafgreen": "The user attacks\nwith sharp fangs\nand halves the\nfoe’s HP.",
+    "diamond-pearl": "The user chomps hard\non the foe with its\nsharp front fangs.\nIt cuts the target’s\nHP to half.",
+    "platinum": "The user chomps hard\non the foe with its\nsharp front fangs.\nIt cuts the target’s\nHP to half.",
+    "heartgold-soulsilver": "The user chomps hard\non the foe with its\nsharp front fangs.\nIt cuts the target’s\nHP to half.",
+    "black-white": "The user chomps hard on the\ntarget with its sharp front fangs.\nIt cuts the target’s HP to half.",
+    "black-2-white-2": "The user chomps hard on the\ntarget with its sharp front fangs.\nIt cuts the target’s HP to half.",
+    "x-y": "The user chomps hard on the\ntarget with its sharp front fangs.\nThis cuts the target’s HP in half.",
+    "omega-ruby-alpha-sapphire": "The user chomps hard on the\ntarget with its sharp front fangs.\nThis cuts the target’s HP in half.",
+    "sun-moon": "The user chomps hard on the target with its sharp\nfront fangs. This cuts the target’s HP in half.",
+    "ultra-sun-ultra-moon": "The user chomps hard on the target with its sharp\nfront fangs. This cuts the target’s HP in half.",
+    "lets-go-pikachu-lets-go-eevee": "The user chomps hard on the target with its sharp\nfront fangs. This cuts the target’s HP in half.",
+    "sword-shield": "The user chomps hard on the target with its sharp\nfront fangs. This cuts the target’s HP in half."
+  },
+  "effect": {
+    "full": "Inflicts typeless damage equal to half the target's remaining HP.",
+    "shortEffect": "Inflicts damage equal to half the target's HP."
+  },
+  "priority": 0
+}

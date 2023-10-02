@@ -1,0 +1,39 @@
+{
+  "_id": 490,
+  "key": "low-sweep",
+  "name": {
+    "english": "Low Sweep",
+    "japanese": "ローキック",
+    "chinese": "低空踢",
+    "korean": "로킥",
+    "german": "Puntapié",
+    "french": "Fußtritt",
+    "italian": "Low Sweep",
+    "spanish": "Calciobasso"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks the target’s legs\nswiftly, reducing the target’s\nSpeed stat.",
+    "black-2-white-2": "The user attacks the target’s legs\nswiftly, reducing the target’s\nSpeed stat.",
+    "x-y": "The user makes a swift attack on the target’s legs,\nwhich lowers the target’s Speed stat.",
+    "omega-ruby-alpha-sapphire": "The user makes a swift attack on the target’s legs,\nwhich lowers the target’s Speed stat.",
+    "sun-moon": "The user makes a swift attack on the target’s legs,\nwhich lowers the target’s Speed stat.",
+    "ultra-sun-ultra-moon": "The user makes a swift attack on the target’s legs,\nwhich lowers the target’s Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user makes a swift attack on the target’s legs,\nwhich lowers the target’s Speed stat.",
+    "sword-shield": "The user makes a swift attack on the target’s legs,\nwhich lowers the target’s Speed stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Speed by one stage.",
+    "shortEffect": "Lowers the target's Speed by one stage."
+  },
+  "priority": 0
+}

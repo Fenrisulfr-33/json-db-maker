@@ -1,0 +1,47 @@
+{
+  "_id": 17,
+  "key": "wing-attack",
+  "name": {
+    "english": "Wing Attack",
+    "japanese": "つばさでうつ",
+    "chinese": "翅膀攻击",
+    "korean": "날개치기",
+    "german": "Ataque Ala",
+    "french": "Flügelschlag",
+    "italian": "Wing Attack",
+    "spanish": "Attacco d’Ala"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 35,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Strikes the target\nwith wings.",
+    "crystal": "Strikes the target\nwith wings.",
+    "ruby-sapphire": "Strikes the foe with wings\nspread wide.",
+    "emerald": "Strikes the foe with wings\nspread wide.",
+    "firered-leafgreen": "The foe is struck\nwith large, imposing\nwings spread wide.",
+    "diamond-pearl": "The foe is struck\nwith large, imposing\nwings spread wide\nto inflict damage.\n",
+    "platinum": "The foe is struck\nwith large, imposing\nwings spread wide\nto inflict damage.\n",
+    "heartgold-soulsilver": "The foe is struck\nwith large, imposing\nwings spread wide\nto inflict damage.\n",
+    "black-white": "The target is struck with large, imposing\nwings spread wide to inflict damage.",
+    "black-2-white-2": "The target is struck with large, imposing\nwings spread wide to inflict damage.",
+    "x-y": "The target is struck with large, imposing\nwings spread wide to inflict damage.",
+    "omega-ruby-alpha-sapphire": "The target is struck with large, imposing\nwings spread wide to inflict damage.",
+    "sun-moon": "The target is struck with large, imposing wings\nspread wide to inflict damage.",
+    "ultra-sun-ultra-moon": "The target is struck with large, imposing wings\nspread wide to inflict damage.",
+    "lets-go-pikachu-lets-go-eevee": "The target is struck with large, imposing wings\nspread wide to inflict damage.",
+    "sword-shield": "The target is struck with large, imposing wings\nspread wide to inflict damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

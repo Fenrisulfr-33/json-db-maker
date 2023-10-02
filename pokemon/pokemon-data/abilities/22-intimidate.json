@@ -1,0 +1,174 @@
+{
+  "_id": 22,
+  "key": "intimidate",
+  "name": {
+    "english": "Intimidate"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Lowers opponents' Attack one stage upon entering battle.",
+    "full": "When this Pokémon enters battle, the opponent's Attack is lowered by one stage. In a double battle, both opponents are affected. This ability also takes effect when acquired during a battle, but will not take effect again if lost and reobtained without leaving battle. This ability has no effect on an opponent that has a substitute. Overworld: If the first Pokémon in the party has this ability, any random encounter with a Pokémon five or more levels lower than it has a 50% chance of being skipped."
+  },
+  "description": {
+    "ruby-sapphire": "Lowers the foe’s ATTACK.",
+    "emerald": "Lowers the foe’s ATTACK.",
+    "firered-leafgreen": "Lowers the foe’s ATTACK.",
+    "diamond-pearl": "Lowers the foe’s Attack stat.",
+    "platinum": "Lowers the foe’s Attack stat.",
+    "heartgold-soulsilver": "Lowers the foe’s Attack stat.",
+    "black-white": "Lowers the foe’s Attack stat.",
+    "black-2-white-2": "Lowers the foe’s Attack stat.",
+    "x-y": "Lowers the opposing Pokémon’s Attack stat.",
+    "omega-ruby-alpha-sapphire": "Lowers the opposing Pokémon’s Attack stat.",
+    "sun-moon": "The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat.",
+    "ultra-sun-ultra-moon": "The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat.",
+    "sword-shield": "The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Ekans",
+        "id": 23
+      },
+      {
+        "name": "Arbok",
+        "id": 24
+      },
+      {
+        "name": "Growlithe",
+        "id": 58
+      },
+      {
+        "name": "Arcanine",
+        "id": 59
+      },
+      {
+        "name": "Tauros",
+        "id": 128
+      },
+      {
+        "name": "Gyarados",
+        "id": 130
+      },
+      {
+        "name": "Snubbull",
+        "id": 209
+      },
+      {
+        "name": "Granbull",
+        "id": 210
+      },
+      {
+        "name": "Stantler",
+        "id": 234
+      },
+      {
+        "name": "Hitmontop",
+        "id": 237
+      },
+      {
+        "name": "Mightyena",
+        "id": 262
+      },
+      {
+        "name": "Masquerain",
+        "id": 284
+      },
+      {
+        "name": "Mawile",
+        "id": 303
+      },
+      {
+        "name": "Salamence",
+        "id": 373
+      },
+      {
+        "name": "Staravia",
+        "id": 397
+      },
+      {
+        "name": "Staraptor",
+        "id": 398
+      },
+      {
+        "name": "Shinx",
+        "id": 403
+      },
+      {
+        "name": "Luxio",
+        "id": 404
+      },
+      {
+        "name": "Luxray",
+        "id": 405
+      },
+      {
+        "name": "Herdier",
+        "id": 507
+      },
+      {
+        "name": "Stoutland",
+        "id": 508
+      },
+      {
+        "name": "Sandile",
+        "id": 551
+      },
+      {
+        "name": "Krokorok",
+        "id": 552
+      },
+      {
+        "name": "Krookodile",
+        "id": 553
+      },
+      {
+        "name": "Wyrdeer",
+        "id": 899
+      },
+      {
+        "name": "Squawkabilly",
+        "id": 931
+      },
+      {
+        "name": "Maschiff",
+        "id": 942
+      },
+      {
+        "name": "Mabosstiff",
+        "id": 943
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Qwilfish",
+        "id": 211
+      },
+      {
+        "name": "Scraggy",
+        "id": 559
+      },
+      {
+        "name": "Scrafty",
+        "id": 560
+      },
+      {
+        "name": "Litten",
+        "id": 725
+      },
+      {
+        "name": "Torracat",
+        "id": 726
+      },
+      {
+        "name": "Incineroar",
+        "id": 727
+      },
+      {
+        "name": "Overqwil",
+        "id": 904
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": 289,
+  "key": "hadron-engine",
+  "name": {
+    "english": "Hadron Engine"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Creates an Electric Terrain when entering battle",
+    "full": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active."
+  },
+  "description": {
+    "scarlet-violet": "Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Miraidon",
+        "id": 1008
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Miraidon",
+        "id": 1008
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "_id": 93,
+  "key": "hydration",
+  "name": {
+    "english": "Hydration"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Cures any major status ailment after each turn during rain.",
+    "full": "This Pokémon is cured of any major status ailment after each turn during rain."
+  },
+  "description": {
+    "diamond-pearl": "Heals status problems if it is raining.",
+    "platinum": "Heals status problems if it is raining.",
+    "heartgold-soulsilver": "Heals status problems if it is raining.",
+    "black-white": "Heals status problems if it is raining.",
+    "black-2-white-2": "Heals status problems if it is raining.",
+    "x-y": "Heals status conditions if it’s raining.",
+    "omega-ruby-alpha-sapphire": "Heals status conditions if it’s raining.",
+    "sun-moon": "Heals status conditions if it’s raining.",
+    "ultra-sun-ultra-moon": "Heals status conditions if it’s raining.",
+    "lets-go-pikachu-lets-go-eevee": "Heals status conditions if it’s raining.",
+    "sword-shield": "Heals status conditions if it’s raining."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Seel",
+        "id": 86
+      },
+      {
+        "name": "Dewgong",
+        "id": 87
+      },
+      {
+        "name": "Wingull",
+        "id": 278
+      },
+      {
+        "name": "Phione",
+        "id": 489
+      },
+      {
+        "name": "Manaphy",
+        "id": 490
+      },
+      {
+        "name": "Tympole",
+        "id": 535
+      },
+      {
+        "name": "Palpitoad",
+        "id": 536
+      },
+      {
+        "name": "Alomomola",
+        "id": 594
+      },
+      {
+        "name": "Shelmet",
+        "id": 616
+      },
+      {
+        "name": "Accelgor",
+        "id": 617
+      },
+      {
+        "name": "Goomy",
+        "id": 704
+      },
+      {
+        "name": "Sliggoo",
+        "id": 705
+      },
+      {
+        "name": "Goodra",
+        "id": 706
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Lapras",
+        "id": 131
+      },
+      {
+        "name": "Vaporeon",
+        "id": 134
+      },
+      {
+        "name": "Smoochum",
+        "id": 238
+      },
+      {
+        "name": "Barboach",
+        "id": 339
+      },
+      {
+        "name": "Whiscash",
+        "id": 340
+      },
+      {
+        "name": "Gorebyss",
+        "id": 368
+      },
+      {
+        "name": "Luvdisc",
+        "id": 370
+      },
+      {
+        "name": "Ducklett",
+        "id": 580
+      },
+      {
+        "name": "Swanna",
+        "id": 581
+      }
+    ]
+  }
+}

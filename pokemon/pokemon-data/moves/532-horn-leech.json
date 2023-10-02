@@ -1,0 +1,39 @@
+{
+  "_id": 532,
+  "key": "horn-leech",
+  "name": {
+    "english": "Horn Leech",
+    "japanese": "ウッドホーン",
+    "chinese": "木角",
+    "korean": "우드호른",
+    "german": "Asta Drenaje",
+    "french": "Holzgeweih",
+    "italian": "Horn Leech",
+    "spanish": "Legnicorno"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user drains the target’s energy with\nits horns. The user’s HP is restored\nby half the damage taken by the target.",
+    "black-2-white-2": "The user drains the target’s energy with\nits horns. The user’s HP is restored\nby half the damage taken by the target.",
+    "x-y": "The user drains the target’s energy with\nits horns. The user’s HP is restored\nby half the damage taken by the target.",
+    "omega-ruby-alpha-sapphire": "The user drains the target’s energy with\nits horns. The user’s HP is restored\nby half the damage taken by the target.",
+    "sun-moon": "The user drains the target’s energy with its horns.\nThe user’s HP is restored by half the damage taken\nby the target.",
+    "ultra-sun-ultra-moon": "The user drains the target’s energy with its horns.\nThe user’s HP is restored by half the damage taken\nby the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user drains the target’s energy with its horns.\nThe user’s HP is restored by half the damage taken\nby the target.",
+    "sword-shield": "The user drains the target’s energy with its horns.\nThe user’s HP is restored by half the damage taken\nby the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+    "shortEffect": "Drains half the damage inflicted to heal the user."
+  },
+  "priority": 0
+}

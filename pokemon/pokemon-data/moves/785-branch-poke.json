@@ -1,0 +1,32 @@
+{
+  "_id": 785,
+  "key": "branch-poke",
+  "name": {
+    "english": "Branch Poke",
+    "japanese": "えだづき",
+    "chinese": "木枝突刺",
+    "korean": "가지찌르기",
+    "german": "Punzada Rama",
+    "french": "Zweigstoß",
+    "italian": "Branch Poke",
+    "spanish": "Ramostoccata"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 40,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks the target by poking it with a sharply\npointed branch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

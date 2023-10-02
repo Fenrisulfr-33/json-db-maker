@@ -1,0 +1,42 @@
+{
+  "_id": 429,
+  "key": "mirror-shot",
+  "name": {
+    "english": "Mirror Shot",
+    "japanese": "ミラーショット",
+    "chinese": "镜光射击",
+    "korean": "미러숏",
+    "german": "Disparo Espejo",
+    "french": "Spiegelsalve",
+    "italian": "Mirror Shot",
+    "spanish": "Cristalcolpo"
+  },
+  "type": "Steel",
+  "category": "Special",
+  "contest": "Cute",
+  "pp": 10,
+  "power": 65,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user looses a\nflash of energy from\nits polished body.\nIt may also lower the\ntarget’s accuracy.",
+    "platinum": "The user looses a\nflash of energy from\nits polished body.\nIt may also lower the\ntarget’s accuracy.",
+    "heartgold-soulsilver": "The user looses a\nflash of energy from\nits polished body.\nIt may also lower the\ntarget’s accuracy.",
+    "black-white": "The user looses a flash of energy at\nthe target from its polished body.\nIt may also lower the target’s accuracy.",
+    "black-2-white-2": "The user looses a flash of energy at\nthe target from its polished body.\nIt may also lower the target’s accuracy.",
+    "x-y": "The user lets loose a flash of energy at\nthe target from its polished body.\nThis may also lower the target’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user lets loose a flash of energy at\nthe target from its polished body.\nThis may also lower the target’s accuracy.",
+    "sun-moon": "The user lets loose a flash of energy at the target\nfrom its polished body. This may also lower the\ntarget’s accuracy.",
+    "ultra-sun-ultra-moon": "The user lets loose a flash of energy at the target\nfrom its polished body. This may also lower the\ntarget’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user lets loose a flash of energy at the target\nfrom its polished body. This may also lower the\ntarget’s accuracy.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+  },
+  "priority": 0
+}

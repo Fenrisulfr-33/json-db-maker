@@ -1,0 +1,198 @@
+{
+  "_id": 5,
+  "key": "sturdy",
+  "name": {
+    "english": "Sturdy"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents being KOed from full HP, leaving 1 HP instead. Protects against the one-hit KO moves regardless of HP.",
+    "full": "When this Pokémon is at full HP, any hit that would knock it out will instead leave it with 1 HP. Regardless of its current HP, it is also immune to the one-hit KO moves: fissure, guillotine, horn drill, and sheer cold. If this Pokémon is holding a focus sash, this ability takes precedence and the item will not be consumed."
+  },
+  "description": {
+    "ruby-sapphire": "Negates 1-hit KO attacks.",
+    "emerald": "Negates 1-hit KO attacks.",
+    "firered-leafgreen": "Negates 1-hit KO attacks.",
+    "diamond-pearl": "The Pokémon is protected against 1-hit KO attacks.",
+    "platinum": "The Pokémon is protected against 1-hit KO attacks.",
+    "heartgold-soulsilver": "It is protected against 1-hit KO attacks.",
+    "black-white": "It cannot be knocked out with one hit.",
+    "black-2-white-2": "It cannot be knocked out with one hit.",
+    "x-y": "It cannot be knocked out with one hit.",
+    "omega-ruby-alpha-sapphire": "It cannot be knocked out with one hit.",
+    "sun-moon": "It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either.",
+    "ultra-sun-ultra-moon": "It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either.",
+    "lets-go-pikachu-lets-go-eevee": "It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either.",
+    "sword-shield": "It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Geodude",
+        "id": 74
+      },
+      {
+        "name": "Graveler",
+        "id": 75
+      },
+      {
+        "name": "Golem",
+        "id": 76
+      },
+      {
+        "name": "Magnemite",
+        "id": 81
+      },
+      {
+        "name": "Magneton",
+        "id": 82
+      },
+      {
+        "name": "Onix",
+        "id": 95
+      },
+      {
+        "name": "Sudowoodo",
+        "id": 185
+      },
+      {
+        "name": "Pineco",
+        "id": 204
+      },
+      {
+        "name": "Forretress",
+        "id": 205
+      },
+      {
+        "name": "Steelix",
+        "id": 208
+      },
+      {
+        "name": "Shuckle",
+        "id": 213
+      },
+      {
+        "name": "Skarmory",
+        "id": 227
+      },
+      {
+        "name": "Donphan",
+        "id": 232
+      },
+      {
+        "name": "Nosepass",
+        "id": 299
+      },
+      {
+        "name": "Aron",
+        "id": 304
+      },
+      {
+        "name": "Lairon",
+        "id": 305
+      },
+      {
+        "name": "Aggron",
+        "id": 306
+      },
+      {
+        "name": "Shieldon",
+        "id": 410
+      },
+      {
+        "name": "Bastiodon",
+        "id": 411
+      },
+      {
+        "name": "Bonsly",
+        "id": 438
+      },
+      {
+        "name": "Magnezone",
+        "id": 462
+      },
+      {
+        "name": "Probopass",
+        "id": 476
+      },
+      {
+        "name": "Roggenrola",
+        "id": 524
+      },
+      {
+        "name": "Boldore",
+        "id": 525
+      },
+      {
+        "name": "Gigalith",
+        "id": 526
+      },
+      {
+        "name": "Sawk",
+        "id": 539
+      },
+      {
+        "name": "Dwebble",
+        "id": 557
+      },
+      {
+        "name": "Crustle",
+        "id": 558
+      },
+      {
+        "name": "Tirtouga",
+        "id": 564
+      },
+      {
+        "name": "Carracosta",
+        "id": 565
+      },
+      {
+        "name": "Cosmoem",
+        "id": 790
+      },
+      {
+        "name": "Nacli",
+        "id": 932
+      },
+      {
+        "name": "Naclstack",
+        "id": 933
+      },
+      {
+        "name": "Garganacl",
+        "id": 934
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Relicanth",
+        "id": 369
+      },
+      {
+        "name": "Regirock",
+        "id": 377
+      },
+      {
+        "name": "Tyrunt",
+        "id": 696
+      },
+      {
+        "name": "Carbink",
+        "id": 703
+      },
+      {
+        "name": "Bergmite",
+        "id": 712
+      },
+      {
+        "name": "Avalugg",
+        "id": 713
+      },
+      {
+        "name": "Togedemaru",
+        "id": 777
+      }
+    ]
+  }
+}

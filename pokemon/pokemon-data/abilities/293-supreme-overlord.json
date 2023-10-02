@@ -1,0 +1,24 @@
+{
+  "_id": 293,
+  "key": "supreme-overlord",
+  "name": {
+    "english": "Supreme Overlord"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Attack and Special Attack are boosted for each party Pokémon that has been defeated.",
+    "full": "Attack and Special Attack are boosted for each party Pokémon that has been defeated."
+  },
+  "description": {
+    "scarlet-violet": "When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Kingambit",
+        "id": 983
+      }
+    ],
+    "hidden": []
+  }
+}

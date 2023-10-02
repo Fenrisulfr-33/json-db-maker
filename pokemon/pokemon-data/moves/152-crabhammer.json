@@ -1,0 +1,47 @@
+{
+  "_id": 152,
+  "key": "crabhammer",
+  "name": {
+    "english": "Crabhammer",
+    "japanese": "クラブハンマー",
+    "chinese": "螃蟹拳",
+    "korean": "찝게햄머",
+    "german": "Martillazo",
+    "french": "Krabbhammer",
+    "italian": "Crabhammer",
+    "spanish": "Martellata"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 100,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Has a high criti­\ncal hit ratio.",
+    "crystal": "Has a high criti­\ncal hit ratio.",
+    "ruby-sapphire": "Hammers with a pincer. Has a\nhigh critical-hit ratio.",
+    "emerald": "Hammers with a pincer. Has a\nhigh critical-hit ratio.",
+    "firered-leafgreen": "A large pincer is\nused to hammer the\nfoe. It has a high\ncritical-hit ratio.",
+    "diamond-pearl": "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n",
+    "platinum": "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n",
+    "heartgold-soulsilver": "The foe is hammered\nwith a large pincer.\nThis move has a high\ncritical-hit ratio.\n",
+    "black-white": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+    "black-2-white-2": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+    "x-y": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The target is hammered with a large pincer.\nCritical hits land more easily.",
+    "sun-moon": "The target is hammered with a large pincer. Critical\nhits land more easily.",
+    "ultra-sun-ultra-moon": "The target is hammered with a large pincer. Critical\nhits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hammered with a large pincer. Critical\nhits land more easily.",
+    "sword-shield": "The target is hammered with a large pincer. Critical\nhits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

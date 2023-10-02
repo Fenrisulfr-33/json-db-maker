@@ -1,0 +1,47 @@
+{
+  "_id": 55,
+  "key": "water-gun",
+  "name": {
+    "english": "Water Gun",
+    "japanese": "みずでっぽう",
+    "chinese": "水枪",
+    "korean": "물대포",
+    "german": "Pistola Agua",
+    "french": "Aquaknarre",
+    "italian": "Water Gun",
+    "spanish": "Pistolacqua"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Cute",
+  "pp": 25,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Squirts water to\nattack.",
+    "crystal": "Squirts water to\nattack.",
+    "ruby-sapphire": "Squirts water to attack\nthe foe.",
+    "emerald": "Squirts water to attack\nthe foe.",
+    "firered-leafgreen": "The foe is struck\nwith a lot of water\nexpelled forcibly\nfrom the mouth.",
+    "diamond-pearl": "The foe is blasted\nwith a forceful shot\nof water.\n\n",
+    "platinum": "The foe is blasted\nwith a forceful shot\nof water.\n\n",
+    "heartgold-soulsilver": "The foe is blasted\nwith a forceful shot\nof water.\n\n",
+    "black-white": "The target is blasted with a\nforceful shot of water.",
+    "black-2-white-2": "The target is blasted with a\nforceful shot of water.",
+    "x-y": "The target is blasted with a\nforceful shot of water.",
+    "omega-ruby-alpha-sapphire": "The target is blasted with a\nforceful shot of water.",
+    "sun-moon": "The target is blasted with a forceful shot of water.",
+    "ultra-sun-ultra-moon": "The target is blasted with a forceful shot of water.",
+    "lets-go-pikachu-lets-go-eevee": "The target is blasted with a forceful shot of water.",
+    "sword-shield": "The target is blasted with a forceful shot of water."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

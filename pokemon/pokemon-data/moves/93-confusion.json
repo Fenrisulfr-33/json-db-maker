@@ -1,0 +1,47 @@
+{
+  "_id": 93,
+  "key": "confusion",
+  "name": {
+    "english": "Confusion",
+    "japanese": "ねんりき",
+    "chinese": "念力",
+    "korean": "염동력",
+    "german": "Confusión",
+    "french": "Konfusion",
+    "italian": "Confusion",
+    "spanish": "Confusione"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 25,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause confusion.",
+    "crystal": "An attack that may\ncause confusion.",
+    "ruby-sapphire": "A psychic attack that may\ncause confusion.",
+    "emerald": "A psychic attack that may\ncause confusion.",
+    "firered-leafgreen": "A weak telekinetic\nattack that may\nalso leave the foe\nconfused.",
+    "diamond-pearl": "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.",
+    "platinum": "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.",
+    "heartgold-soulsilver": "The foe is hit by a\nweak telekinetic\nforce. It may also\nleave the foe\nconfused.",
+    "black-white": "The target is hit by a weak telekinetic\nforce. It may also leave the\ntarget confused.",
+    "black-2-white-2": "The target is hit by a weak telekinetic\nforce. It may also leave the\ntarget confused.",
+    "x-y": "The target is hit by a weak telekinetic\nforce. This may also confuse the target.",
+    "omega-ruby-alpha-sapphire": "The target is hit by a weak telekinetic\nforce. This may also confuse the target.",
+    "sun-moon": "The target is hit by a weak telekinetic force.\nThis may also confuse the target.",
+    "ultra-sun-ultra-moon": "The target is hit by a weak telekinetic force.\nThis may also confuse the target.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit by a weak telekinetic force.\nThis may also confuse the target.",
+    "sword-shield": "The target is hit by a weak telekinetic force.\nThis may also confuse the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 241,
+  "key": "sunny-day",
+  "name": {
+    "english": "Sunny Day",
+    "japanese": "にほんばれ",
+    "chinese": "大晴天",
+    "korean": "쾌청",
+    "german": "Día Soleado",
+    "french": "Sonnentag",
+    "italian": "Sunny Day",
+    "spanish": "Giornodisole"
+  },
+  "type": "Fire",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "gold-silver": "Boosts fire-type\nmoves for 5 turns.",
+    "crystal": "Boosts fire-type\nmoves for 5 turns.",
+    "ruby-sapphire": "Boosts the power of FIRE-\ntype moves for 5 turns.",
+    "emerald": "Boosts the power of FIRE-\ntype moves for 5 turns.",
+    "firered-leafgreen": "The sun blazes for\nfive turns, powering\nup FIRE-type\nmoves.",
+    "diamond-pearl": "The user intensifies\nthe sun for five\nturns, powering up\nFire-type moves.\n",
+    "platinum": "The user intensifies\nthe sun for five\nturns, powering up\nFire-type moves.\n",
+    "heartgold-soulsilver": "The user intensifies\nthe sun for five\nturns, powering up\nFire-type moves.\n",
+    "black-white": "The user intensifies the sun for\nfive turns, powering up\nFire-type moves.",
+    "black-2-white-2": "The user intensifies the sun for\nfive turns, powering up\nFire-type moves.",
+    "x-y": "The user intensifies the sun\nfor five turns, powering up\nFire-type moves.",
+    "omega-ruby-alpha-sapphire": "The user intensifies the sun\nfor five turns, powering up\nFire-type moves.",
+    "sun-moon": "The user intensifies the sun for five turns, powering\nup Fire-type moves. It lowers the power of\nWater-type moves.",
+    "ultra-sun-ultra-moon": "The user intensifies the sun for five turns, powering\nup Fire-type moves. It lowers the power of\nWater-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "The user intensifies the sun for five turns, powering\nup Fire-type moves. It lowers the power of\nWater-type moves.",
+    "sword-shield": "The user intensifies the sun for five turns, powering\nup Fire-type moves. It lowers the power of\nWater-type moves."
+  },
+  "effect": {
+    "full": "Changes the weather to sunshine for five turns, during which fire moves inflict 50% extra damage, and water moves inflict half damage.\n\nIf the user is holding heat rock, this effect lasts for eight turns.\n\nPokémon cannot become frozen.\n\nthunder has 50% accuracy.\n\nsolar beam skips its charge turn.\n\nmoonlight, morning sun, and synthesis heal 2/3 of the user's max HP.\n\nPokémon with chlorophyll have doubled original Speed.\n\nPokémon with forecast become fire.\n\nPokémon with leaf guard are not affected by major status effects.\n\nPokémon with flower gift change form; every Pokémon on their side of the field have their original Attack and Special Attack increased by 50%.\n\nPokémon with dry skin lose 1/8 max HP at the end of each turn.\n\nPokémon with solar power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn.",
+    "shortEffect": "Changes the weather to sunny for five turns."
+  },
+  "priority": 0
+}

@@ -1,0 +1,41 @@
+{
+  "_id": 74,
+  "key": "pure-power",
+  "name": {
+    "english": "Pure Power"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Doubles Attack in battle.",
+    "full": "This Pokémon's Attack is doubled in battle. This bonus does not count as a stat modifier. This ability functions identically to huge power."
+  },
+  "description": {
+    "ruby-sapphire": "Raises ATTACK.",
+    "emerald": "Raises ATTACK.",
+    "firered-leafgreen": "Raises ATTACK.",
+    "diamond-pearl": "Boosts the power of physical attacks.",
+    "platinum": "Boosts the power of physical attacks.",
+    "heartgold-soulsilver": "Boosts the power of physical attacks.",
+    "black-white": "Raises the Pokémon’s Attack stat.",
+    "black-2-white-2": "Raises the Pokémon’s Attack stat.",
+    "x-y": "Boosts the Pokémon’s Attack stat.",
+    "omega-ruby-alpha-sapphire": "Boosts the Pokémon’s Attack stat.",
+    "sun-moon": "Using its pure power, the Pokémon doubles its Attack stat.",
+    "ultra-sun-ultra-moon": "Using its pure power, the Pokémon doubles its Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "Using its pure power, the Pokémon doubles its Attack stat.",
+    "sword-shield": "Using its pure power, the Pokémon doubles its Attack stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Meditite",
+        "id": 307
+      },
+      {
+        "name": "Medicham",
+        "id": 308
+      }
+    ],
+    "hidden": []
+  }
+}

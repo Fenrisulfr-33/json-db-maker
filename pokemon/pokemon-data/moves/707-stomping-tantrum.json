@@ -1,0 +1,35 @@
+{
+  "_id": 707,
+  "key": "stomping-tantrum",
+  "name": {
+    "english": "Stomping Tantrum",
+    "japanese": "じだんだ",
+    "chinese": "跺腳",
+    "korean": "분함의발구르기",
+    "german": "Pataleta",
+    "french": "Fruststampfer",
+    "italian": "Stomping Tantrum",
+    "spanish": "Battipiedi"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "Driven by frustration, the user attacks the target. If\nthe user’s previous move has failed, the power of\nthis move doubles.",
+    "ultra-sun-ultra-moon": "Driven by frustration, the user attacks the target. If\nthe user’s previous move has failed, the power of\nthis move doubles.",
+    "lets-go-pikachu-lets-go-eevee": "Driven by frustration, the user attacks the target. If\nthe user’s previous move has failed, the power of\nthis move doubles.",
+    "sword-shield": "Driven by frustration, the user attacks the target.\nIf the user’s previous move has failed, the power of\nthis move doubles."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e., produced the message \"But it failed!\") or was ineffective due to types.",
+    "shortEffect": "Has double power if the user's last move failed."
+  },
+  "priority": 0
+}

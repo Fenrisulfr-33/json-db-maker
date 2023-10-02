@@ -1,0 +1,42 @@
+{
+  "_id": 448,
+  "key": "chatter",
+  "name": {
+    "english": "Chatter",
+    "japanese": "おしゃべり",
+    "chinese": "喋喋不休",
+    "korean": "수다",
+    "german": "Cháchara",
+    "french": "Geschwätz",
+    "italian": "Chatter",
+    "spanish": "Schiamazzo"
+  },
+  "type": "Flying",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe.",
+    "platinum": "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe.",
+    "heartgold-soulsilver": "The user attacks\nusing a sound wave\nbased on words it has\nlearned. It may also\nconfuse the foe.",
+    "black-white": "The user attacks using a sound wave\nbased on words it has learned.\nIt may also confuse the target.",
+    "black-2-white-2": "The user attacks using a sound wave\nbased on words it has learned.\nIt may also confuse the target.",
+    "x-y": "The user attacks using a sound wave\nbased on words it has learned.\nThis confuses the target.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with\nsound waves of deafening chatter.\nThis confuses the target.",
+    "sun-moon": "The user attacks the target with sound waves of\ndeafening chatter. This confuses the target.",
+    "ultra-sun-ultra-moon": "The user attacks the target with sound waves of\ndeafening chatter. This confuses the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with sound waves of\ndeafening chatter. This confuses the target.",
+    "sword-shield": "The user attacks the target with sound waves of\ndeafening chatter. This confuses the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has either a 1%, 11%, or 31% chance to confuse the target, based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot, this move will not cause confusion.\n\nThis move cannot be copied by mimic, mirror move, or sketch, nor selected by assist, metronome, or sleep talk.",
+    "shortEffect": "Has a higher chance to confuse the target when the recorded sound is louder."
+  },
+  "priority": 0
+}

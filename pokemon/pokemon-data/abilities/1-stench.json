@@ -1,0 +1,70 @@
+{
+  "_id": 1,
+  "key": "stench",
+  "name": {
+    "english": "Stench"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Has a 10% chance of making target Pokémon flinch with each hit.",
+    "full": "This Pokémon's damaging moves have a 10% chance to make the target flinch with each hit if they do not already cause flinching as a secondary effect. This ability does not stack with a held item. Overworld: The wild encounter rate is halved while this Pokémon is first in the party."
+  },
+  "description": {
+    "ruby-sapphire": "Helps repel wild POKéMON.",
+    "emerald": "Helps repel wild POKéMON.",
+    "firered-leafgreen": "Helps repel wild POKéMON.",
+    "diamond-pearl": "The stench helps keep wild Pokémon away.",
+    "platinum": "The stench helps keep wild Pokémon away.",
+    "heartgold-soulsilver": "The stench helps keep wild Pokémon away.",
+    "black-white": "The stench may cause the target to flinch.",
+    "black-2-white-2": "The stench may cause the target to flinch.",
+    "x-y": "The stench may cause the target to flinch.",
+    "omega-ruby-alpha-sapphire": "The stench may cause the target to flinch.",
+    "sun-moon": "By releasing stench when attacking, this Pokémon may cause the target to flinch.",
+    "ultra-sun-ultra-moon": "By releasing stench when attacking, this Pokémon may cause the target to flinch.",
+    "lets-go-pikachu-lets-go-eevee": "By releasing stench when attacking, this Pokémon may cause the target to flinch.",
+    "sword-shield": "By releasing stench when attacking, this Pokémon may cause the target to flinch."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Grimer",
+        "id": 88
+      },
+      {
+        "name": "Muk",
+        "id": 89
+      },
+      {
+        "name": "Stunky",
+        "id": 434
+      },
+      {
+        "name": "Skuntank",
+        "id": 435
+      },
+      {
+        "name": "Trubbish",
+        "id": 568
+      },
+      {
+        "name": "Garbodor",
+        "id": 569
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Gloom",
+        "id": 44
+      },
+      {
+        "name": "Koffing",
+        "id": 109
+      },
+      {
+        "name": "Weezing",
+        "id": 110
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 469,
+  "key": "wide-guard",
+  "name": {
+    "english": "Wide Guard",
+    "japanese": "ワイドガード",
+    "chinese": "全体防御",
+    "korean": "와이드가드",
+    "german": "Vastaguardia",
+    "french": "Rundumschutz",
+    "italian": "Wide Guard",
+    "spanish": "Bodyguard"
+  },
+  "type": "Rock",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 5,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "black-white": "The user and its allies are protected from\nwide-ranging attacks for one turn. If used\nin succession, its chance of failing rises.",
+    "black-2-white-2": "The user and its allies are protected from\nwide-ranging attacks for one turn. If used\nin succession, its chance of failing rises.",
+    "x-y": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+    "omega-ruby-alpha-sapphire": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+    "sun-moon": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+    "ultra-sun-ultra-moon": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user and its allies are protected from\nwide-ranging attacks for one turn.",
+    "sword-shield": "The user and its allies are protected from\nwide-ranging attacks for one turn."
+  },
+  "effect": {
+    "full": "Moves with multiple targets will not hit friendly Pokémon for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nThis move cannot be selected by assist or metronome.",
+    "shortEffect": "Prevents any multi-target moves from hitting friendly Pokémon this turn."
+  },
+  "priority": 3
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 461,
+  "key": "lunar-dance",
+  "name": {
+    "english": "Lunar Dance",
+    "japanese": "みかづきのまい",
+    "chinese": "新月舞",
+    "korean": "초승달춤",
+    "german": "Danza Lunar",
+    "french": "Lunartanz",
+    "italian": "Lunar Dance",
+    "spanish": "Lunardanza"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its status and\nHP fully restored.",
+    "platinum": "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its status and\nHP fully restored.",
+    "heartgold-soulsilver": "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its status and\nHP fully restored.",
+    "black-white": "The user faints. In return, the Pokémon\ntaking its place will have its status and\nHP fully restored.",
+    "black-2-white-2": "The user faints. In return, the Pokémon\ntaking its place will have its status and\nHP fully restored.",
+    "x-y": "The user faints. In return, the Pokémon\ntaking its place will have its status and\nHP fully restored.",
+    "omega-ruby-alpha-sapphire": "The user faints. In return, the Pokémon\ntaking its place will have its status and\nHP fully restored.",
+    "sun-moon": "The user faints. In return, the Pokémon taking its\nplace will have its status and HP fully restored.",
+    "ultra-sun-ultra-moon": "The user faints. In return, the Pokémon taking its\nplace will have its status and HP fully restored.",
+    "lets-go-pikachu-lets-go-eevee": "The user faints. In return, the Pokémon taking its\nplace will have its status and HP fully restored.",
+    "sword-shield": "The user faints. In return, the Pokémon taking its\nplace will have its status and HP fully restored."
+  },
+  "effect": {
+    "full": "User faints.  Its replacement's HP and PP are fully restored, and any major status effect is removed.",
+    "shortEffect": "User faints, and its replacement is fully healed."
+  },
+  "priority": 0
+}

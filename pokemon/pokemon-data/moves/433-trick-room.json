@@ -1,0 +1,42 @@
+{
+  "_id": 433,
+  "key": "trick-room",
+  "name": {
+    "english": "Trick Room",
+    "japanese": "トリックルーム",
+    "chinese": "骗术空间",
+    "korean": "트릭룸",
+    "german": "Espacio Raro",
+    "french": "Bizarroraum",
+    "italian": "Trick Room",
+    "spanish": "Distortozona"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+    "platinum": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+    "heartgold-soulsilver": "The user creates a\nbizarre area in which\nslower Pokémon get\nto move first for five\nturns.",
+    "black-white": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+    "black-2-white-2": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+    "x-y": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+    "omega-ruby-alpha-sapphire": "The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.",
+    "sun-moon": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+    "ultra-sun-ultra-moon": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns.",
+    "sword-shield": "The user creates a bizarre area in which slower\nPokémon get to move first for five turns."
+  },
+  "effect": {
+    "full": "For five turns (including this one), slower Pokémon will act before faster Pokémon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPokémon holding full incense, lagging tail, or quick claw and Pokémon with stall ignore this effect.",
+    "shortEffect": "For five turns, slower Pokémon will act before faster Pokémon."
+  },
+  "priority": -7
+}

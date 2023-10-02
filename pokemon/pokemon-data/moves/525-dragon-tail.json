@@ -1,0 +1,39 @@
+{
+  "_id": 525,
+  "key": "dragon-tail",
+  "name": {
+    "english": "Dragon Tail",
+    "japanese": "ドラゴンテール",
+    "chinese": "龙尾",
+    "korean": "드래곤테일",
+    "german": "Cola Dragón",
+    "french": "Drachenrute",
+    "italian": "Dragon Tail",
+    "spanish": "Codadrago"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 60,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user knocks away the target and\ndrags out another Pokémon in its party.\nIn the wild, the battle ends.",
+    "black-2-white-2": "The target is knocked away and switched.\nIn the wild, a battle against a single\nPokémon ends.",
+    "x-y": "The target is knocked away, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+    "omega-ruby-alpha-sapphire": "The target is knocked away, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+    "sun-moon": "The target is knocked away, and a different Pokémon\nis dragged out. In the wild, this ends a battle against\na single Pokémon.",
+    "ultra-sun-ultra-moon": "The target is knocked away, and a different Pokémon\nis dragged out. In the wild, this ends a battle against\na single Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The target is knocked away, and a different Pokémon\nis dragged out.",
+    "sword-shield": "The target is knocked away, and a different Pokémon\nis dragged out. In the wild, this ends a battle against\na single Pokémon."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then switches the target out for another of its trainer's Pokémon, selected at random.\n\nIf the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pokémon, it will not be switched out.  If the target is a wild Pokémon, the battle ends instead.",
+    "shortEffect": "Ends wild battles.  Forces trainers to switch Pokémon."
+  },
+  "priority": -6
+}

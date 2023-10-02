@@ -1,0 +1,47 @@
+{
+  "_id": 127,
+  "key": "waterfall",
+  "name": {
+    "english": "Waterfall",
+    "japanese": "たきのぼり",
+    "chinese": "鱼跃龙门",
+    "korean": "폭포오르기",
+    "german": "Cascada",
+    "french": "Kaskade",
+    "italian": "Waterfall",
+    "spanish": "Cascata"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An aquatic charge\nattack.",
+    "crystal": "An aquatic charge\nattack.",
+    "ruby-sapphire": "Charges the foe with speed\nto climb waterfalls.",
+    "emerald": "Charges the foe with speed\nto climb waterfalls.",
+    "firered-leafgreen": "A powerful charge\nattack. It can also\nbe used to climb\na waterfall.",
+    "diamond-pearl": "The user charges the\nfoe at an awesome\nspeed.\nIt can also be used\nto climb a waterfall.",
+    "platinum": "The user charges the\nfoe at an awesome\nspeed.\nIt can also be used\nto climb a waterfall.",
+    "heartgold-soulsilver": "The user charges at\nthe foe rapidly, and\nmay make it flinch.\nIt can also be used\nto climb a waterfall.",
+    "black-white": "The user charges at the target\nand may make it flinch.\nIt can also be used to climb a waterfall.",
+    "black-2-white-2": "The user charges at the target\nand may make it flinch.\nIt can also be used to climb a waterfall.",
+    "x-y": "The user charges at the target and may make it\nflinch. This can also be used to climb a waterfall.",
+    "omega-ruby-alpha-sapphire": "The user charges at the target and may make it\nflinch. This can also be used to climb a waterfall.",
+    "sun-moon": "The user charges at the target and may make\nit flinch.",
+    "ultra-sun-ultra-moon": "The user charges at the target and may make\nit flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user charges at the target and may make\nit flinch.",
+    "sword-shield": "The user charges at the target and may make\nit flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

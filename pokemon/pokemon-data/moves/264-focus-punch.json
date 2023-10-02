@@ -1,0 +1,45 @@
+{
+  "_id": 264,
+  "key": "focus-punch",
+  "name": {
+    "english": "Focus Punch",
+    "japanese": "きあいパンチ",
+    "chinese": "集中猛击",
+    "korean": "힘껏펀치",
+    "german": "Puño Certero",
+    "french": "Power-Punch",
+    "italian": "Focus Punch",
+    "spanish": "Centripugno"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 150,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A powerful loyalty attack.\nThe user flinches if hit.",
+    "emerald": "A powerful loyalty attack.\nThe user flinches if hit.",
+    "firered-leafgreen": "An attack that is\nexecuted last.\nThe user flinches\nif hit beforehand.",
+    "diamond-pearl": "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.",
+    "platinum": "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.",
+    "heartgold-soulsilver": "The user focuses its\nmind before launching\na punch. It will fail\nif the user is hit\nbefore it is used.",
+    "black-white": "The user focuses its mind before\nlaunching a punch. It will fail if the user\nis hit before it is used.",
+    "black-2-white-2": "The user focuses its mind before\nlaunching a punch. It will fail if the user\nis hit before it is used.",
+    "x-y": "The user focuses its mind before\nlaunching a punch. This move fails\nif the user is hit before it is used.",
+    "omega-ruby-alpha-sapphire": "The user focuses its mind before\nlaunching a punch. This move fails\nif the user is hit before it is used.",
+    "sun-moon": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+    "ultra-sun-ultra-moon": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+    "lets-go-pikachu-lets-go-eevee": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used.",
+    "sword-shield": "The user focuses its mind before launching a punch.\nThis move fails if the user is hit before it is used."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
+    "shortEffect": "If the user takes damage before attacking, the attack is canceled."
+  },
+  "priority": -3
+}

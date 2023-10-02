@@ -1,0 +1,39 @@
+{
+  "_id": 530,
+  "key": "dual-chop",
+  "name": {
+    "english": "Dual Chop",
+    "japanese": "ダブルチョップ",
+    "chinese": "双重劈",
+    "korean": "더블촙",
+    "german": "Golpe Bis",
+    "french": "Doppelhieb",
+    "italian": "Dual Chop",
+    "spanish": "Doppiocolpo"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 40,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks its target by hitting\nit with brutal strikes.\nThe target is hit twice in a row.",
+    "black-2-white-2": "The user attacks its target by hitting\nit with brutal strikes.\nThe target is hit twice in a row.",
+    "x-y": "The user attacks its target by hitting\nit with brutal strikes.\nThe target is hit twice in a row.",
+    "omega-ruby-alpha-sapphire": "The user attacks its target by hitting\nit with brutal strikes.\nThe target is hit twice in a row.",
+    "sun-moon": "The user attacks its target by hitting it with brutal\nstrikes. The target is hit twice in a row.",
+    "ultra-sun-ultra-moon": "The user attacks its target by hitting it with brutal\nstrikes. The target is hit twice in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks its target by hitting it with brutal\nstrikes. The target is hit twice in a row.",
+    "sword-shield": "The user attacks its target by hitting it with brutal\nstrikes. The target is hit twice in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits twice in one turn.",
+    "shortEffect": "Hits twice in one turn."
+  },
+  "priority": 0
+}

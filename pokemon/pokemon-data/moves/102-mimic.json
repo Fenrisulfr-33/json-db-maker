@@ -1,0 +1,47 @@
+{
+  "_id": 102,
+  "key": "mimic",
+  "name": {
+    "english": "Mimic",
+    "japanese": "ものまね",
+    "chinese": "模仿",
+    "korean": "흉내내기",
+    "german": "Mimético",
+    "french": "Mimikry",
+    "italian": "Mimic",
+    "spanish": "Mimica"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Copies a move used\nby the foe.",
+    "crystal": "Copies a move used\nby the foe.",
+    "ruby-sapphire": "Copies a move used by the\nfoe during one battle.",
+    "emerald": "Copies a move used by the\nfoe during one battle.",
+    "firered-leafgreen": "The user copies the\nmove last used by\nthe foe for the\nrest of the battle.",
+    "diamond-pearl": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+    "platinum": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+    "heartgold-soulsilver": "The user copies the\nmove last used by\nthe foe. The move can\nbe used for the rest\nof the battle.",
+    "black-white": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+    "black-2-white-2": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+    "x-y": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+    "omega-ruby-alpha-sapphire": "The user copies the target’s last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.",
+    "sun-moon": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+    "ultra-sun-ultra-moon": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+    "lets-go-pikachu-lets-go-eevee": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out.",
+    "sword-shield": "The user copies the target’s last move. The move\ncan be used during battle until the Pokémon is\nswitched out."
+  },
+  "effect": {
+    "full": "This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail.  This effect vanishes when the user leaves the field.\n\nIf chatter, metronome, mimic, sketch, or struggle is selected, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome, nor forced by encore.",
+    "shortEffect": "Copies the target's last used move."
+  },
+  "priority": 0
+}

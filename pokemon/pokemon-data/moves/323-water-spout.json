@@ -1,0 +1,45 @@
+{
+  "_id": 323,
+  "key": "water-spout",
+  "name": {
+    "english": "Water Spout",
+    "japanese": "しおふき",
+    "chinese": "喷水",
+    "korean": "해수스파우팅",
+    "german": "Salpicar",
+    "french": "Fontränen",
+    "italian": "Water Spout",
+    "spanish": "Zampillo"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Inflicts more damage if the\nuser’s HP is high.",
+    "emerald": "Inflicts more damage if the\nuser’s HP is high.",
+    "firered-leafgreen": "The higher the\nuser’s HP, the more\npowerful this\nattack becomes.",
+    "diamond-pearl": "The user spouts\nwater to damage the\nfoe. The lower the\nuser’s HP, the less\npowerful it becomes.",
+    "platinum": "The user spouts\nwater to damage the\nfoe. The lower the\nuser’s HP, the less\npowerful it becomes.",
+    "heartgold-soulsilver": "The user spouts\nwater to damage the\nfoe. The lower the\nuser’s HP, the less\npowerful it becomes.",
+    "black-white": "The user spouts water to damage the\nopposing team. The lower the user’s HP,\nthe less powerful it becomes.",
+    "black-2-white-2": "The user spouts water to damage the\nopposing team. The lower the user’s HP,\nthe less powerful it becomes.",
+    "x-y": "The user spouts water to damage opposing\nPokémon. The lower the user’s HP,\nthe lower the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user spouts water to damage opposing\nPokémon. The lower the user’s HP,\nthe lower the move’s power.",
+    "sun-moon": "The user spouts water to damage opposing\nPokémon. The lower the user’s HP, the lower the\nmove’s power.",
+    "ultra-sun-ultra-moon": "The user spouts water to damage opposing\nPokémon. The lower the user’s HP, the lower the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user spouts water to damage opposing\nPokémon. The lower the user’s HP, the lower the\nmove’s power.",
+    "sword-shield": "The user spouts water to damage opposing\nPokémon. The lower the user’s HP, the lower the\nmove’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP.",
+    "shortEffect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+  },
+  "priority": 0
+}

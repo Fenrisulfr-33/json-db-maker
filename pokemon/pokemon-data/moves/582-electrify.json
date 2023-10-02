@@ -1,0 +1,37 @@
+{
+  "_id": 582,
+  "key": "electrify",
+  "name": {
+    "english": "Electrify",
+    "japanese": "そうでん",
+    "chinese": "送电",
+    "korean": "송전",
+    "german": "Electrificación",
+    "french": "Elektrifizierung",
+    "italian": "Electrify",
+    "spanish": "Elettrocontagio"
+  },
+  "type": "Electric",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "If the target is electrified before it uses\na move during that turn, the target’s\nmove becomes Electric type.",
+    "omega-ruby-alpha-sapphire": "If the target is electrified before it uses\na move during that turn, the target’s\nmove becomes Electric type.",
+    "sun-moon": "If the target is electrified before it uses a move\nduring that turn, the target’s move becomes\nElectric type.",
+    "ultra-sun-ultra-moon": "If the target is electrified before it uses a move\nduring that turn, the target’s move becomes\nElectric type.",
+    "lets-go-pikachu-lets-go-eevee": "If the target is electrified before it uses a move\nduring that turn, the target’s move becomes\nElectric type.",
+    "sword-shield": "If the target is electrified before it uses a move\nduring that turn, the target’s move becomes\nElectric type."
+  },
+  "effect": {
+    "full": "Changes the target's move's type to electric if it hasn't moved yet this turn.",
+    "shortEffect": "Changes the target's move's type to electric if it hasn't moved yet this turn."
+  },
+  "priority": 0
+}

@@ -1,0 +1,37 @@
+{
+  "_id": 586,
+  "key": "boomburst",
+  "name": {
+    "english": "Boomburst",
+    "japanese": "ばくおんぱ",
+    "chinese": "爆音波",
+    "korean": "폭음파",
+    "german": "Estruendo",
+    "french": "Überschallknall",
+    "italian": "Boomburst",
+    "spanish": "Ondaboato"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 140,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user attacks everything around it\nwith the destructive power of a terrible,\nexplosive sound.",
+    "omega-ruby-alpha-sapphire": "The user attacks everything around it\nwith the destructive power of a terrible,\nexplosive sound.",
+    "sun-moon": "The user attacks everything around it with the\ndestructive power of a terrible, explosive sound.",
+    "ultra-sun-ultra-moon": "The user attacks everything around it with the\ndestructive power of a terrible, explosive sound.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks everything around it with the\ndestructive power of a terrible, explosive sound.",
+    "sword-shield": "The user attacks everything around it with the\ndestructive power of a terrible, explosive sound."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage."
+  },
+  "priority": 0
+}

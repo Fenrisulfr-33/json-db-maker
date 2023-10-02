@@ -1,0 +1,35 @@
+{
+  "_id": 705,
+  "key": "fleur-cannon",
+  "name": {
+    "english": "Fleur Cannon",
+    "japanese": "フルールカノン",
+    "chinese": "花朵加農炮",
+    "korean": "플뢰르캐논",
+    "german": "Cañón Floral",
+    "french": "Kanonenbouquet",
+    "italian": "Fleur Cannon",
+    "spanish": "Cannonfiore"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 130,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user unleashes a strong beam. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user unleashes a strong beam. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user unleashes a strong beam. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat.",
+    "sword-shield": "The user unleashes a strong beam. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+    "shortEffect": "Lowers the user's Special Attack by two stages after inflicting damage."
+  },
+  "priority": 0
+}

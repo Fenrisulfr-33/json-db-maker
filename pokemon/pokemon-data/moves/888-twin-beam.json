@@ -1,0 +1,17 @@
+{
+  "_id": 888,
+  "key": "twin-beam",
+  "name": {
+    "english": "Twin Beam"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 69,
+  "key": "seismic-toss",
+  "name": {
+    "english": "Seismic Toss",
+    "japanese": "ちきゅうなげ",
+    "chinese": "地球上投",
+    "korean": "지구던지기",
+    "german": "Sísmico",
+    "french": "Geowurf",
+    "italian": "Seismic Toss",
+    "spanish": "Movim. Sismico"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "emerald": "Inflicts damage identical\nto the user’s level.",
+    "gold-silver": "The user's level\nequals damage HP.",
+    "crystal": "The user's level\nequals damage HP.",
+    "ruby-sapphire": "Inflicts damage identical\nto the user’s level.",
+    "firered-leafgreen": "A gravity-fed throw\nthat causes damage\nmatching the user’s\nlevel.",
+    "diamond-pearl": "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.",
+    "platinum": "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.",
+    "heartgold-soulsilver": "The foe is thrown\nusing the power of\ngravity. It inflicts\ndamage equal to\nthe user’s level.",
+    "black-white": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+    "black-2-white-2": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+    "x-y": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+    "omega-ruby-alpha-sapphire": "The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user’s level.",
+    "sun-moon": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level.",
+    "ultra-sun-ultra-moon": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level.",
+    "lets-go-pikachu-lets-go-eevee": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level.",
+    "sword-shield": "The target is thrown using the power of gravity.\nIt inflicts damage equal to the user’s level."
+  },
+  "effect": {
+    "full": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.",
+    "shortEffect": "Inflicts damage equal to the user's level."
+  },
+  "priority": 0
+}

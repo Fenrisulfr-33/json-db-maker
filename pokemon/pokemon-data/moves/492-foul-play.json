@@ -1,0 +1,39 @@
+{
+  "_id": 492,
+  "key": "foul-play",
+  "name": {
+    "english": "Foul Play",
+    "japanese": "イカサマ",
+    "chinese": "诈欺",
+    "korean": "속임수",
+    "german": "Juego Sucio",
+    "french": "Schmarotzer",
+    "italian": "Foul Play",
+    "spanish": "Ripicca"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 95,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user turns the target’s power\nagainst it. The higher the target’s\nAttack stat, the greater the damage.",
+    "black-2-white-2": "The user turns the target’s power\nagainst it. The higher the target’s\nAttack stat, the greater the damage.",
+    "x-y": "The user turns the target’s power\nagainst it. The higher the target’s Attack stat,\nthe greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user turns the target’s power\nagainst it. The higher the target’s Attack stat,\nthe greater the move’s power.",
+    "sun-moon": "The user turns the target’s power against it. The\nhigher the target’s Attack stat, the greater the\nmove’s power.",
+    "ultra-sun-ultra-moon": "The user turns the target’s power against it. The\nhigher the target’s Attack stat, the greater the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user turns the target’s power against it.\nThe higher the target’s Attack stat, the greater\nthe damage it deals.",
+    "sword-shield": "The user turns the target’s power against it.\nThe higher the target’s Attack stat, the greater\nthe damage it deals."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's.",
+    "shortEffect": "Calculates damage with the target's attacking stat."
+  },
+  "priority": 0
+}

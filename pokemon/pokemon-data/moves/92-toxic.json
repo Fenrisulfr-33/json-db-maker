@@ -1,0 +1,47 @@
+{
+  "_id": 92,
+  "key": "toxic",
+  "name": {
+    "english": "Toxic",
+    "japanese": "どくどく",
+    "chinese": "猛毒素",
+    "korean": "맹독",
+    "german": "Tóxico",
+    "french": "Toxin",
+    "italian": "Toxic",
+    "spanish": "Tossina"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "emerald": "Poisons the foe with an\nintensifying toxin.",
+    "gold-silver": "A poison move with\nincreasing damage.",
+    "crystal": "A poison move with\nincreasing damage.",
+    "ruby-sapphire": "Poisons the foe with an\nintensifying toxin.",
+    "firered-leafgreen": "A move that badly\npoisons the foe.\nIts poison damage\nworsens every turn.",
+    "diamond-pearl": "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.",
+    "platinum": "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.",
+    "heartgold-soulsilver": "A move that leaves\nthe target badly\npoisoned.\nIts poison damage\nworsens every turn.",
+    "black-white": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+    "black-2-white-2": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+    "x-y": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+    "omega-ruby-alpha-sapphire": "A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.",
+    "sun-moon": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
+    "ultra-sun-ultra-moon": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
+    "lets-go-pikachu-lets-go-eevee": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn.",
+    "sword-shield": "A move that leaves the target badly poisoned.\nIts poison damage worsens every turn."
+  },
+  "effect": {
+    "full": "Badly poisons the target.  Never misses when used by a poison-type Pokémon.",
+    "shortEffect": "Badly poisons the target, inflicting more damage every turn."
+  },
+  "priority": 0
+}

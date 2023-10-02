@@ -1,0 +1,35 @@
+{
+  "_id": 683,
+  "key": "speed-swap",
+  "name": {
+    "english": "Speed Swap",
+    "japanese": "スピードスワップ",
+    "chinese": "速度互換",
+    "korean": "스피드스웹",
+    "german": "Cambiavelocidad",
+    "french": "Initiativetausch",
+    "italian": "Speed Swap",
+    "spanish": "Velociscambio"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user exchanges Speed stats with the target.",
+    "ultra-sun-ultra-moon": "The user exchanges Speed stats with the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user exchanges Speed stats with the target.",
+    "sword-shield": "The user exchanges Speed stats with the target."
+  },
+  "effect": {
+    "full": "Exchanges the original Speed stats of the user and target.",
+    "shortEffect": "Exchanges the user's Speed with the target's."
+  },
+  "priority": 0
+}

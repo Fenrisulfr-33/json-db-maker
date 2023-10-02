@@ -1,0 +1,45 @@
+{
+  "_id": 284,
+  "key": "eruption",
+  "name": {
+    "english": "Eruption",
+    "japanese": "ふんか",
+    "chinese": "喷火",
+    "korean": "분화",
+    "german": "Estallido",
+    "french": "Eruption",
+    "italian": "Eruption",
+    "spanish": "Eruzione"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "The higher the user’s HP,\nthe more damage caused.",
+    "emerald": "The higher the user’s HP,\nthe more damage caused.",
+    "firered-leafgreen": "The higher the\nuser’s HP, the more\npowerful this\nattack becomes.",
+    "diamond-pearl": "The user attacks in\nan explosive fury.\nThe lower the user’s\nHP, the less powerful\nthis attack becomes.",
+    "platinum": "The user attacks in\nan explosive fury.\nThe lower the user’s\nHP, the less powerful\nthis attack becomes.",
+    "heartgold-soulsilver": "The user attacks in\nan explosive fury.\nThe lower the user’s\nHP, the less powerful\nthis attack becomes.",
+    "black-white": "The user attacks the opposing team with\nexplosive fury. The lower the user’s HP,\nthe less powerful this attack becomes.",
+    "black-2-white-2": "The user attacks the opposing team with\nexplosive fury. The lower the user’s HP,\nthe less powerful this attack becomes.",
+    "x-y": "The user attacks opposing Pokémon with\nexplosive fury. The lower the user’s HP,\nthe lower the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user attacks opposing Pokémon with\nexplosive fury. The lower the user’s HP,\nthe lower the move’s power.",
+    "sun-moon": "The user attacks opposing Pokémon with explosive\nfury. The lower the user’s HP, the lower the\nmove’s power.",
+    "ultra-sun-ultra-moon": "The user attacks opposing Pokémon with explosive\nfury. The lower the user’s HP, the lower the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks opposing Pokémon with explosive\nfury. The lower the user’s HP, the lower the\nmove’s power.",
+    "sword-shield": "The user attacks opposing Pokémon with explosive\nfury. The lower the user’s HP, the lower the\nmove’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP.",
+    "shortEffect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+  },
+  "priority": 0
+}

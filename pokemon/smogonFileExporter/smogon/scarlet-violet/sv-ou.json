@@ -1,0 +1,71 @@
+[
+  {
+    "pokemonName": "Amoonguss",
+    "item": "Red Card",
+    "ability": "Regenerator",
+    "evs": {
+      "def": 172,
+      "spdef": 84
+    },
+    "teraType": "Water",
+    "nature": "Bold",
+    "moves": [
+      "Spore",
+      "Giga Drain",
+      "Sludge Bomb",
+      "Clear Smog"
+    ]
+  },
+  {
+    "pokemonName": "Azumarill",
+    "item": "Assault Vest",
+    "ability": "Huge Power",
+    "evs": {
+      "atk": 252,
+      "def": 4
+    },
+    "teraType": "Water",
+    "nature": "Adamant",
+    "moves": [
+      "Liquidation",
+      "Play Rough",
+      "Aqua Jet",
+      "Ice Spinner"
+    ]
+  },
+  {
+    "pokemonName": "Azumarill",
+    "item": "Sitrus Berry",
+    "ability": "Huge Power",
+    "evs": {
+      "atk": 252,
+      "def": 4
+    },
+    "teraType": "Water",
+    "nature": "Adamant",
+    "moves": [
+      "Belly Drum",
+      "Play Rough",
+      "Aqua Jet",
+      "Liquidation"
+    ]
+  },
+  {
+    "pokemonName": "Gengar",
+    "item": "Choice Specs",
+    "ability": "Cursed Body",
+    "evs": {
+      "spatk": 252,
+      "spdef": 4,
+      "spd": 252
+    },
+    "teraType": "Ghost",
+    "nature": "Timid",
+    "moves": [
+      "Trick",
+      "Shadow Ball",
+      "Focus Blast",
+      "Sludge Bomb"
+    ]
+  }
+]

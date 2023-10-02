@@ -1,0 +1,53 @@
+{
+  "_id": 168,
+  "key": "protean",
+  "name": {
+    "english": "Protean"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Changes the bearer's type to match each move it uses.",
+    "full": "Changes the bearer's type to match each move it uses. The type change takes place just before the move is used."
+  },
+  "description": {
+    "x-y": "Changes the Pokémon’s type to the type of the move it’s using.",
+    "omega-ruby-alpha-sapphire": "Changes the Pokémon’s type to the type of the move it’s using.",
+    "sun-moon": "Changes the Pokémon’s type to the type of the move it’s about to use.",
+    "ultra-sun-ultra-moon": "Changes the Pokémon’s type to the type of the move it’s about to use.",
+    "lets-go-pikachu-lets-go-eevee": "Changes the Pokémon’s type to the type of the move it’s about to use.",
+    "sword-shield": "Changes the Pokémon’s type to the type of the move it’s about to use."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Kecleon",
+        "id": 352
+      },
+      {
+        "name": "Froakie",
+        "id": 656
+      },
+      {
+        "name": "Frogadier",
+        "id": 657
+      },
+      {
+        "name": "Greninja",
+        "id": 658
+      },
+      {
+        "name": "Sprigatito",
+        "id": 906
+      },
+      {
+        "name": "Floragato",
+        "id": 907
+      },
+      {
+        "name": "Meowscarada",
+        "id": 908
+      }
+    ]
+  }
+}

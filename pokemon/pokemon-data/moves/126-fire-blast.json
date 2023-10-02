@@ -1,0 +1,47 @@
+{
+  "_id": 126,
+  "key": "fire-blast",
+  "name": {
+    "english": "Fire Blast",
+    "japanese": "だいもんじ",
+    "chinese": "大字爆",
+    "korean": "불대문자",
+    "german": "Llamarada",
+    "french": "Feuersturm",
+    "italian": "Fire Blast",
+    "spanish": "Fuocobomba"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 110,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that\nmay cause a burn.",
+    "crystal": "An attack that\nmay cause a burn.",
+    "ruby-sapphire": "A fiery blast that scorches\nall. May cause a burn.",
+    "emerald": "Incinerates everything it\nstrikes. May cause a burn.",
+    "firered-leafgreen": "The foe is hit with\nan intense flame.\nIt may leave the\ntarget with a burn.",
+    "diamond-pearl": "The foe is attacked\nwith an intense blast\nof all-consuming fire.\nIt may also leave the\ntarget with a burn.",
+    "platinum": "The foe is attacked\nwith an intense blast\nof all-consuming fire.\nIt may also leave the\ntarget with a burn.",
+    "heartgold-soulsilver": "The foe is attacked\nwith an intense blast\nof all-consuming fire.\nIt may also leave the\ntarget with a burn.",
+    "black-white": "The target is attacked with an intense\nblast of all-consuming fire.\nIt may also leave the target with a burn.",
+    "black-2-white-2": "The target is attacked with an intense\nblast of all-consuming fire.\nIt may also leave the target with a burn.",
+    "x-y": "The target is attacked with an intense\nblast of all-consuming fire.\nThis may also leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with an intense\nblast of all-consuming fire.\nThis may also leave the target with a burn.",
+    "sun-moon": "The target is attacked with an intense blast of\nall-consuming fire. This may also leave the target\nwith a burn.",
+    "ultra-sun-ultra-moon": "The target is attacked with an intense blast of\nall-consuming fire. This may also leave the target\nwith a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with an intense blast of\nall-consuming fire. This may also leave the target\nwith a burn.",
+    "sword-shield": "The target is attacked with an intense blast of\nall-consuming fire. This may also leave the target\nwith a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

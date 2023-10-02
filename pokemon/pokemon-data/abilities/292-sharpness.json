@@ -1,0 +1,29 @@
+{
+  "_id": 292,
+  "key": "sharpness",
+  "name": {
+    "english": "Sharpness"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Powers up slicing moves.",
+    "full": "Powers up slicing moves."
+  },
+  "description": {
+    "scarlet-violet": "Powers up slicing moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Gallade",
+        "id": 475
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Veluza",
+        "id": 976
+      }
+    ]
+  }
+}

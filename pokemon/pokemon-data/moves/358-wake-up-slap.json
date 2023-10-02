@@ -1,0 +1,42 @@
+{
+  "_id": 358,
+  "key": "wake-up-slap",
+  "name": {
+    "english": "Wake-Up Slap",
+    "japanese": "めざましビンタ",
+    "chinese": "苏醒巴掌",
+    "korean": "잠깨움뺨치기",
+    "german": "Espabila",
+    "french": "Weckruf",
+    "italian": "Wake-Up Slap",
+    "spanish": "Svegliopacca"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.",
+    "platinum": "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.",
+    "heartgold-soulsilver": "This attack inflicts\nhigh damage on a\nsleeping foe. It\nalso wakes the foe\nup, however.",
+    "black-white": "This attack inflicts big damage on a\nsleeping target. It also wakes the target\nup, however.",
+    "black-2-white-2": "This attack inflicts big damage on a\nsleeping target. It also wakes the target\nup, however.",
+    "x-y": "This attack inflicts big damage on a\nsleeping target. This also wakes the target\nup, however.",
+    "omega-ruby-alpha-sapphire": "This attack inflicts big damage on a\nsleeping target. This also wakes the target\nup, however.",
+    "sun-moon": "This attack inflicts big damage on a sleeping target.\nThis also wakes the target up, however.",
+    "ultra-sun-ultra-moon": "This attack inflicts big damage on a sleeping target.\nThis also wakes the target up, however.",
+    "lets-go-pikachu-lets-go-eevee": "This attack inflicts big damage on a sleeping target.\nThis also wakes the target up, however.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target is sleeping, this move has double power, and the target wakes up.",
+    "shortEffect": "If the target is asleep, has double power and wakes it up."
+  },
+  "priority": 0
+}

@@ -1,0 +1,54 @@
+{
+  "_id": 171,
+  "key": "bulletproof",
+  "name": {
+    "english": "Bulletproof"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Protects against bullet, ball, and bomb-based moves.",
+    "full": "Protects against bullet, ball, and bomb-based moves."
+  },
+  "description": {
+    "x-y": "Protects the Pokémon from some ball and bomb moves.",
+    "omega-ruby-alpha-sapphire": "Protects the Pokémon from some ball and bomb moves.",
+    "sun-moon": "Protects the Pokémon from some ball and bomb moves.",
+    "ultra-sun-ultra-moon": "Protects the Pokémon from some ball and bomb moves.",
+    "lets-go-pikachu-lets-go-eevee": "Protects the Pokémon from some ball and bomb moves.",
+    "sword-shield": "Protects the Pokémon from some ball and bomb moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Ursaluna",
+        "id": 901
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Chespin",
+        "id": 650
+      },
+      {
+        "name": "Quilladin",
+        "id": 651
+      },
+      {
+        "name": "Chesnaught",
+        "id": 652
+      },
+      {
+        "name": "Wooloo",
+        "id": 831
+      },
+      {
+        "name": "Dubwool",
+        "id": 832
+      },
+      {
+        "name": "Applin",
+        "id": 840
+      }
+    ]
+  }
+}

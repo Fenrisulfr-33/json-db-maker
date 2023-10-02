@@ -1,0 +1,34 @@
+{
+  "_id": 121,
+  "key": "multitype",
+  "name": {
+    "english": "Multitype"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Changes arceus's type and form to match its held Plate.",
+    "full": "If this Pokémon is holding an elemental Plate, its type and form change to match the Plate. This Pokémon's held item, whether or not it is a Plate, cannot be taken by covet or thief, nor removed by knock off, nor traded by switcheroo or trick. Covet, Thief, and Knock Off still inflict damage against this Pokémon. Unlike with sticky hold, this Pokémon cannot use fling, Switcheroo, or Trick to lose its item itself, nor gain an item through Switcheroo or Trick if it does not have one. This ability has no effect for any Pokémon other than arceus. This ability cannot be traded with skill swap, nor copied with role play or trace, nor disabled with gastro acid, nor changed with worry seed. This Pokémon cannot use Skill Swap or Role Play to lose its ability itself. mold breaker cannot ignore this ability. If a Pokémon Transforms into an Arceus with this ability, it will Transform into Arceus's default, normal-type form. If the Transforming Pokémon is holding a Plate, this ability will then activate and change the Pokémon into the corresponding form."
+  },
+  "description": {
+    "black-white": "Changes type to match the held Plate.",
+    "diamond-pearl": "Changes type to match the held Plate.",
+    "platinum": "Changes type to match the held Plate.",
+    "heartgold-soulsilver": "Changes type to match the held Plate.",
+    "black-2-white-2": "Changes type to match the held Plate.",
+    "x-y": "Changes the Pokémon’s type to match the Plate it holds.",
+    "omega-ruby-alpha-sapphire": "Changes the Pokémon’s type to match the Plate it holds.",
+    "sun-moon": "Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.",
+    "ultra-sun-ultra-moon": "Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.",
+    "lets-go-pikachu-lets-go-eevee": "Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.",
+    "sword-shield": "Changes the Pokémon’s type to match the Plate or Z-Crystal it holds."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Arceus",
+        "id": 493
+      }
+    ],
+    "hidden": []
+  }
+}

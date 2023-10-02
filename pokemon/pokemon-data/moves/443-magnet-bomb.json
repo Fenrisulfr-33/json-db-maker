@@ -1,0 +1,42 @@
+{
+  "_id": 443,
+  "key": "magnet-bomb",
+  "name": {
+    "english": "Magnet Bomb",
+    "japanese": "マグネットボム",
+    "chinese": "磁铁爆弹",
+    "korean": "마그넷봄",
+    "german": "Bomba Imán",
+    "french": "Magnetbombe",
+    "italian": "Magnet Bomb",
+    "spanish": "Bombagnete"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 60,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.",
+    "platinum": "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.",
+    "heartgold-soulsilver": "The user launches a\nsteel bomb that\nsticks to the target.\nThis attack will not\nmiss.",
+    "black-white": "The user launches steel bombs that\nstick to the target.\nThis attack will not miss.",
+    "black-2-white-2": "The user launches steel bombs that\nstick to the target.\nThis attack will not miss.",
+    "x-y": "The user launches steel bombs that\nstick to the target.\nThis attack never misses.",
+    "omega-ruby-alpha-sapphire": "The user launches steel bombs that\nstick to the target.\nThis attack never misses.",
+    "sun-moon": "The user launches steel bombs that stick to the\ntarget. This attack never misses.",
+    "ultra-sun-ultra-moon": "The user launches steel bombs that stick to the\ntarget. This attack never misses.",
+    "lets-go-pikachu-lets-go-eevee": "The user launches steel bombs that stick to the\ntarget. This attack never misses.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

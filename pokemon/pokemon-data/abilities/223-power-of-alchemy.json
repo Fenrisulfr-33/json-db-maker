@@ -1,0 +1,22 @@
+{
+  "_id": 223,
+  "key": "power-of-alchemy",
+  "name": {
+    "english": "Power of Alchemy"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "When an ally faints, this Pokémon gains its Ability.",
+    "full": "When an ally faints, this Pokémon gains its Ability."
+  },
+  "description": {
+    "sun-moon": "The Pokémon copies the Ability of a defeated ally.",
+    "ultra-sun-ultra-moon": "The Pokémon copies the Ability of a defeated ally.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon copies the Ability of a defeated ally.",
+    "sword-shield": "The Pokémon copies the Ability of a defeated ally."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

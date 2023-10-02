@@ -1,0 +1,32 @@
+{
+  "_id": 821,
+  "key": "freezing-glare",
+  "name": {
+    "english": "Freezing Glare",
+    "japanese": "いてつくしせん",
+    "chinese": "冰冷視線",
+    "korean": "얼어붙는시선",
+    "german": "Mirada Heladora",
+    "french": "Eisiger Blick",
+    "italian": "Freezing Glare",
+    "spanish": "Sguardo Gelido"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user shoots its psychic power from its eyes\nto attack. This may also leave the target frozen."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

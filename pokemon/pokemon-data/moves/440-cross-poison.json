@@ -1,0 +1,42 @@
+{
+  "_id": 440,
+  "key": "cross-poison",
+  "name": {
+    "english": "Cross Poison",
+    "japanese": "クロスポイズン",
+    "chinese": "十字毒药",
+    "korean": "크로스포이즌",
+    "german": "Veneno X",
+    "french": "Giftstreich",
+    "italian": "Cross Poison",
+    "spanish": "Velenocroce"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "A slashing attack\nthat may also leave\nthe target poisoned.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "A slashing attack with a poisonous blade\nthat may also leave the target poisoned.\nCritical hits land more easily.",
+    "black-2-white-2": "A slashing attack with a poisonous blade\nthat may also leave the target poisoned.\nCritical hits land more easily.",
+    "x-y": "A slashing attack with a poisonous blade\nthat may also poison the target.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "A slashing attack with a poisonous blade\nthat may also poison the target.\nCritical hits land more easily.",
+    "sun-moon": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily.",
+    "sword-shield": "A slashing attack with a poisonous blade that may\nalso poison the target. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Has an increased chance for a critical hit and a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

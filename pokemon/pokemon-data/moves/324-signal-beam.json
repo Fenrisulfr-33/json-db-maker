@@ -1,0 +1,45 @@
+{
+  "_id": 324,
+  "key": "signal-beam",
+  "name": {
+    "english": "Signal Beam",
+    "japanese": "シグナルビーム",
+    "chinese": "信号光束",
+    "korean": "시그널빔",
+    "german": "Doble Rayo",
+    "french": "Ampelleuchte",
+    "italian": "Signal Beam",
+    "spanish": "Segnoraggio"
+  },
+  "type": "Bug",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A strange beam attack that\nmay confuse the foe.",
+    "emerald": "A strange beam attack that\nmay confuse the foe.",
+    "firered-leafgreen": "The foe is hit with\na flashing beam\nthat may also\ncause confusion.",
+    "diamond-pearl": "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n",
+    "platinum": "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n",
+    "heartgold-soulsilver": "The user attacks with\na sinister beam of\nlight. It may also\nconfuse the target.\n",
+    "black-white": "The user attacks with a sinister beam of\nlight. It may also confuse the target.",
+    "black-2-white-2": "The user attacks with a sinister beam of\nlight. It may also confuse the target.",
+    "x-y": "The user attacks with a sinister beam of\nlight. This may also confuse the target.",
+    "omega-ruby-alpha-sapphire": "The user attacks with a sinister beam of\nlight. This may also confuse the target.",
+    "sun-moon": "The user attacks with a sinister beam of light.\nThis may also confuse the target.",
+    "ultra-sun-ultra-moon": "The user attacks with a sinister beam of light.\nThis may also confuse the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a sinister beam of light.\nThis may also confuse the target.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

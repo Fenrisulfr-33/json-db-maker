@@ -1,0 +1,35 @@
+{
+  "_id": 681,
+  "key": "power-trip",
+  "name": {
+    "english": "Power Trip",
+    "japanese": "つけあがる",
+    "chinese": "囂張",
+    "korean": "기어오르기",
+    "german": "Chulería",
+    "french": "Überheblichkeit",
+    "italian": "Power Trip",
+    "spanish": "Tracotanza"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 20,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user boasts its strength and attacks the target.\nThe more the user’s stats are raised, the greater the\nmove’s power.",
+    "ultra-sun-ultra-moon": "The user boasts its strength and attacks the target.\nThe more the user’s stats are raised, the greater the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user boasts its strength and attacks the target.\nThe more the user’s stats are raised, the greater the\nmove’s power.",
+    "sword-shield": "The user boasts its strength and attacks the target.\nThe more the user’s stats are raised, the greater the\nmove’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power is increased by 100% its original value for every stage any of the user's stats have been raised.  Accuracy, evasion, and lowered stats do not affect this move's power.  For a Pokémon with all five stats modified to +6, this move's power is 31×.",
+    "shortEffect": "Power is higher the more the user's stats have been raised, to a maximum of 31×."
+  },
+  "priority": 0
+}

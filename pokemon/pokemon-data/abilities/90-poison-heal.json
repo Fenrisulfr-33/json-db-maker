@@ -1,0 +1,43 @@
+{
+  "_id": 90,
+  "key": "poison-heal",
+  "name": {
+    "english": "Poison Heal"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Heals for 1/8 max HP after each turn when poisoned in place of damage.",
+    "full": "If this Pokémon is poisoned, it will heal for 1/8 of its maximum HP after each turn rather than taking damage. This includes bad poison."
+  },
+  "description": {
+    "diamond-pearl": "Restores HP if the Pokémon is poisoned.",
+    "platinum": "Restores HP if the Pokémon is poisoned.",
+    "heartgold-soulsilver": "Restores HP if the Pokémon is poisoned.",
+    "black-white": "Restores HP if the Pokémon is poisoned.",
+    "black-2-white-2": "Restores HP if the Pokémon is poisoned.",
+    "x-y": "Restores HP if the Pokémon is poisoned.",
+    "omega-ruby-alpha-sapphire": "Restores HP if the Pokémon is poisoned.",
+    "sun-moon": "Restores HP if the Pokémon is poisoned, instead of losing HP.",
+    "ultra-sun-ultra-moon": "Restores HP if the Pokémon is poisoned, instead of losing HP.",
+    "lets-go-pikachu-lets-go-eevee": "Restores HP if the Pokémon is poisoned instead of losing HP.",
+    "sword-shield": "Restores HP if the Pokémon is poisoned instead of losing HP."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Shroomish",
+        "id": 285
+      },
+      {
+        "name": "Breloom",
+        "id": 286
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Gliscor",
+        "id": 472
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 60,
+  "key": "psybeam",
+  "name": {
+    "english": "Psybeam",
+    "japanese": "サイケこうせん",
+    "chinese": "幻象光",
+    "korean": "환상빔",
+    "german": "Psicorrayo",
+    "french": "Psystrahl",
+    "italian": "Psybeam",
+    "spanish": "Psicoraggio"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with a peculiar ray. This may\nalso leave the target confused.",
+    "gold-silver": "An attack that may\nconfuse the foe.",
+    "crystal": "An attack that may\nconfuse the foe.",
+    "ruby-sapphire": "Fires a peculiar ray that\nmay confuse the foe.",
+    "emerald": "Fires a peculiar ray that\nmay confuse the foe.",
+    "firered-leafgreen": "A peculiar ray is\nshot at the foe.\nIt may leave the\nfoe confused.",
+    "diamond-pearl": "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n",
+    "platinum": "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n",
+    "heartgold-soulsilver": "The foe is attacked\nwith a peculiar ray.\nIt may also leave the\ntarget confused.\n",
+    "black-white": "The target is attacked with a peculiar ray.\nIt may also cause confusion.",
+    "black-2-white-2": "The target is attacked with a peculiar ray.\nIt may also cause confusion.",
+    "x-y": "The target is attacked with a peculiar ray.\nThis may also leave the target confused.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a peculiar ray.\nThis may also leave the target confused.",
+    "sun-moon": "The target is attacked with a peculiar ray. This may\nalso leave the target confused.",
+    "ultra-sun-ultra-moon": "The target is attacked with a peculiar ray. This may\nalso leave the target confused.",
+    "sword-shield": "The target is attacked with a peculiar ray. This may\nalso leave the target confused."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,37 @@
+{
+  "_id": 572,
+  "key": "petal-blizzard",
+  "name": {
+    "english": "Petal Blizzard",
+    "japanese": "はなふぶき",
+    "chinese": "花瓣暴风雪",
+    "korean": "꽃보라",
+    "german": "Tormenta Floral",
+    "french": "Blütenwirbel",
+    "italian": "Petal Blizzard",
+    "spanish": "Fiortempesta"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user stirs up a violent petal blizzard\nand attacks everything around it.",
+    "omega-ruby-alpha-sapphire": "The user stirs up a violent petal blizzard\nand attacks everything around it.",
+    "sun-moon": "The user stirs up a violent petal blizzard and attacks\neverything around it.",
+    "ultra-sun-ultra-moon": "The user stirs up a violent petal blizzard and attacks\neverything around it.",
+    "lets-go-pikachu-lets-go-eevee": "The user stirs up a violent petal blizzard and attacks\neverything around it.",
+    "sword-shield": "The user stirs up a violent petal blizzard and attacks\neverything around it."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage."
+  },
+  "priority": 0
+}

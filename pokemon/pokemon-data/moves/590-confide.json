@@ -1,0 +1,37 @@
+{
+  "_id": 590,
+  "key": "confide",
+  "name": {
+    "english": "Confide",
+    "japanese": "ないしょばなし",
+    "chinese": "私话",
+    "korean": "비밀이야기",
+    "german": "Confidencia",
+    "french": "Vertrauenssache",
+    "italian": "Confide",
+    "spanish": "Confidenza"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target’s Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target’s Sp. Atk stat.",
+    "sun-moon": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target’s Sp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target’s Sp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target’s Sp. Atk stat.",
+    "sword-shield": "The user tells the target a secret, and the target\nloses its ability to concentrate. This lowers\nthe target’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Special Attack by one stage.",
+    "shortEffect": "Lowers the target's Special Attack by one stage."
+  },
+  "priority": 0
+}

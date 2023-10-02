@@ -1,0 +1,24 @@
+{
+  "_id": 176,
+  "key": "stance-change",
+  "name": {
+    "english": "Stance Change"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield.",
+    "full": "Changes aegislash to Blade Forme before using a damaging move, or Shield Forme before using kings shield."
+  },
+  "description": {
+    "x-y": "The Pokémon changes form depending on how it battles.",
+    "omega-ruby-alpha-sapphire": "The Pokémon changes form depending on how it battles.",
+    "sun-moon": "The Pokémon changes its form to Blade Forme when it uses an attack move, and changes to Shield Forme when it uses King’s Shield.",
+    "ultra-sun-ultra-moon": "The Pokémon changes its form to Blade Forme when it uses an attack move, and changes to Shield Forme when it uses King’s Shield.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.",
+    "sword-shield": "The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

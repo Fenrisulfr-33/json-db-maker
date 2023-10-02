@@ -1,0 +1,42 @@
+{
+  "_id": 455,
+  "key": "defend-order",
+  "name": {
+    "english": "Defend Order",
+    "japanese": "ぼうぎょしれい",
+    "chinese": "防御指令",
+    "korean": "방어지령",
+    "german": "A Defender",
+    "french": "Blockbefehl",
+    "italian": "Defend Order",
+    "spanish": "Comandoscudo"
+  },
+  "type": "Bug",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user calls out\nits underlings to\nmake a living shield,\nraising its Defense\nand Sp. Def stats.",
+    "platinum": "The user calls out\nits underlings to\nshield its body,\nraising its Defense\nand Sp. Def stats.",
+    "heartgold-soulsilver": "The user calls out\nits underlings to\nshield its body,\nraising its Defense\nand Sp. Def stats.",
+    "black-white": "The user calls out its underlings to\nshield its body, raising its Defense\nand Sp. Def stats.",
+    "black-2-white-2": "The user calls out its underlings to\nshield its body, raising its Defense\nand Sp. Def stats.",
+    "x-y": "The user calls out its underlings to\nshield its body, raising its Defense\nand Sp. Def stats.",
+    "omega-ruby-alpha-sapphire": "The user calls out its underlings to\nshield its body, raising its Defense\nand Sp. Def stats.",
+    "sun-moon": "The user calls out its underlings to shield its body,\nraising its Defense and Sp. Def stats.",
+    "ultra-sun-ultra-moon": "The user calls out its underlings to shield its body,\nraising its Defense and Sp. Def stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user calls out its underlings to shield its body,\nraising its Defense and Sp. Def stats.",
+    "sword-shield": "The user calls out its underlings to shield its body,\nraising its Defense and Sp. Def stats."
+  },
+  "effect": {
+    "full": "Raises the user's Defense and Special Defense by one stage.",
+    "shortEffect": "Raises the user's Defense and Special Defense by one stage."
+  },
+  "priority": 0
+}

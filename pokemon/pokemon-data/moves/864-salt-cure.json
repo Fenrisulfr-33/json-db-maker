@@ -1,0 +1,17 @@
+{
+  "_id": 864,
+  "key": "salt-cure",
+  "name": {
+    "english": "Salt Cure"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

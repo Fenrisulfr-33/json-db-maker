@@ -1,0 +1,47 @@
+{
+  "_id": 86,
+  "key": "thunder-wave",
+  "name": {
+    "english": "Thunder Wave",
+    "japanese": "でんじは",
+    "chinese": "电磁波",
+    "korean": "전기자석파",
+    "german": "Onda Trueno",
+    "french": "Donnerwelle",
+    "italian": "Thunder Wave",
+    "spanish": "Tuononda"
+  },
+  "type": "Electric",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that may\ncause paralysis.",
+    "crystal": "A move that may\ncause paralysis.",
+    "ruby-sapphire": "A weak jolt of electricity\nthat paralyzes the foe.",
+    "emerald": "A weak jolt of electricity\nthat paralyzes the foe.",
+    "firered-leafgreen": "A weak electric\nshock that is sure\nto cause paralysis\nif it hits.",
+    "diamond-pearl": "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.",
+    "platinum": "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.",
+    "heartgold-soulsilver": "A weak electric\ncharge is launched at\nthe foe.\nIt causes paralysis if\nit hits.",
+    "black-white": "A weak electric charge is launched at\nthe target. It causes paralysis if it hits.",
+    "black-2-white-2": "A weak electric charge is launched at\nthe target. It causes paralysis if it hits.",
+    "x-y": "The user launches a weak jolt\nof electricity that paralyzes the target.",
+    "omega-ruby-alpha-sapphire": "The user launches a weak jolt\nof electricity that paralyzes the target.",
+    "sun-moon": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+    "ultra-sun-ultra-moon": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user launches a weak jolt of electricity that\nparalyzes the target.",
+    "sword-shield": "The user launches a weak jolt of electricity that\nparalyzes the target."
+  },
+  "effect": {
+    "full": "Paralyzes the target.",
+    "shortEffect": "Paralyzes the target."
+  },
+  "priority": 0
+}

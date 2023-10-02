@@ -1,0 +1,32 @@
+{
+  "_id": 788,
+  "key": "grav-apple",
+  "name": {
+    "english": "Grav Apple",
+    "japanese": "Ｇのちから",
+    "chinese": "萬有引力",
+    "korean": "G의힘",
+    "german": "Fuerza G",
+    "french": "Gravitation",
+    "italian": "Grav Apple",
+    "spanish": "Forza G"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user inflicts damage by dropping an apple from\nhigh above. This also lowers the target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Lowers the target's Defense by one stage.",
+    "shortEffect": "Lowers the target's Defense by one stage after inflicting damage."
+  },
+  "priority": 0
+}

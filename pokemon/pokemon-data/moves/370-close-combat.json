@@ -1,0 +1,42 @@
+{
+  "_id": 370,
+  "key": "close-combat",
+  "name": {
+    "english": "Close Combat",
+    "japanese": "インファイト",
+    "chinese": "近身打",
+    "korean": "인파이트",
+    "german": "A Bocajarro",
+    "french": "Nahkampf",
+    "italian": "Close Combat",
+    "spanish": "Zuffa"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user fights the\nfoe in close without\nguarding itself. It\nalso cuts the user’s\nDefense and Sp. Def.",
+    "platinum": "The user fights the\nfoe in close without\nguarding itself. It\nalso cuts the user’s\nDefense and Sp. Def.",
+    "heartgold-soulsilver": "The user fights the\nfoe up close without\nguarding itself. It\nalso cuts the user’s\nDefense and Sp. Def.",
+    "black-white": "The user fights the target up close\nwithout guarding itself. It also cuts\nthe user’s Defense and Sp. Def.",
+    "black-2-white-2": "The user fights the target up close\nwithout guarding itself. It also cuts\nthe user’s Defense and Sp. Def.",
+    "x-y": "The user fights the target up close\nwithout guarding itself. This also lowers\nthe user’s Defense and Sp. Def stats.",
+    "omega-ruby-alpha-sapphire": "The user fights the target up close\nwithout guarding itself. This also lowers\nthe user’s Defense and Sp. Def stats.",
+    "sun-moon": "The user fights the target up close without guarding\nitself. This also lowers the user’s Defense and\nSp. Def stats.",
+    "ultra-sun-ultra-moon": "The user fights the target up close without guarding\nitself. This also lowers the user’s Defense and\nSp. Def stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user fights the target up close without guarding\nitself. This also lowers the user’s Defense and\nSp. Def stats.",
+    "sword-shield": "The user fights the target up close without guarding\nitself. This also lowers the user’s Defense and\nSp. Def stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each.",
+    "shortEffect": "Lowers the user's Defense and Special Defense by one stage after inflicting damage."
+  },
+  "priority": 0
+}

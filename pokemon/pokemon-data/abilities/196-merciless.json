@@ -1,0 +1,31 @@
+{
+  "_id": 196,
+  "key": "merciless",
+  "name": {
+    "english": "Merciless"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon's moves critical hit against poisoned targets.",
+    "full": "This Pokémon's moves critical hit against poisoned targets."
+  },
+  "description": {
+    "sun-moon": "The Pokémon’s attacks become critical hits if the target is poisoned.",
+    "ultra-sun-ultra-moon": "The Pokémon’s attacks become critical hits if the target is poisoned.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon’s attacks become critical hits if the target is poisoned.",
+    "sword-shield": "The Pokémon’s attacks become critical hits if the target is poisoned."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Mareanie",
+        "id": 747
+      },
+      {
+        "name": "Toxapex",
+        "id": 748
+      }
+    ],
+    "hidden": []
+  }
+}

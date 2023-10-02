@@ -1,0 +1,29 @@
+{
+  "_id": 749,
+  "key": "tar-shot",
+  "name": {
+    "english": "Tar Shot",
+    "japanese": "タールショット",
+    "chinese": "瀝青射擊",
+    "korean": "타르숏",
+    "german": "Alquitranazo",
+    "french": "Teerschuss",
+    "italian": "Tar Shot",
+    "spanish": "Colpocatrame"
+  },
+  "type": "Rock",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user pours sticky tar over the target, lowering the\ntarget’s Speed stat. The target becomes weaker to\nFire-type moves."
+  },
+  "effect": {},
+  "priority": 0
+}

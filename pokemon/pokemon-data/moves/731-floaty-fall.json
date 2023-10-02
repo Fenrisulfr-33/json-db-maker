@@ -1,0 +1,33 @@
+{
+  "_id": 731,
+  "key": "floaty-fall",
+  "name": {
+    "english": "Floaty Fall",
+    "japanese": "ふわふわフォール",
+    "chinese": "飄飄墜落",
+    "korean": "둥실둥실폴",
+    "german": "Pikapicado",
+    "french": "Schwebesturz",
+    "italian": "Floaty Fall",
+    "spanish": "Piombaflap"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 90,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user floats in the air, and then dives at a steep\nangle to attack the target. This may also make the\ntarget flinch.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

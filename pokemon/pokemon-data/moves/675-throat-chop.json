@@ -1,0 +1,35 @@
+{
+  "_id": 675,
+  "key": "throat-chop",
+  "name": {
+    "english": "Throat Chop",
+    "japanese": "じごくづき",
+    "chinese": "地獄突刺",
+    "korean": "지옥찌르기",
+    "german": "Golpe Mordaza",
+    "french": "Neck Strike",
+    "italian": "Throat Chop",
+    "spanish": "Colpo Infernale"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user attacks the target’s throat, and the\nresultant suffering prevents the target from using\nmoves that emit sound for two turns.",
+    "ultra-sun-ultra-moon": "The user attacks the target’s throat, and the\nresultant suffering prevents the target from using\nmoves that emit sound for two turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target’s throat, and the\nresultant suffering prevents the target from using\nmoves that emit sound for two turns.",
+    "sword-shield": "The user attacks the target’s throat, and the\nresultant suffering prevents the target from using\nmoves that emit sound for two turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Silences the target for two turns, preventing it from using any sound-based moves.",
+    "shortEffect": "Prevents the target from using sound-based moves for two turns."
+  },
+  "priority": 0
+}

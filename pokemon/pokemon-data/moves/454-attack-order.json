@@ -1,0 +1,42 @@
+{
+  "_id": 454,
+  "key": "attack-order",
+  "name": {
+    "english": "Attack Order",
+    "japanese": "こうげきしれい",
+    "chinese": "攻击指令",
+    "korean": "공격지령",
+    "german": "Al Ataque",
+    "french": "Schlagbefehl",
+    "italian": "Attack Order",
+    "spanish": "Comandourto"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user calls out\nits underlings to\npummel the foe.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "The user calls out\nits underlings to\npummel the foe.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "The user calls out\nits underlings to\npummel the foe.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "The user calls out its underlings to\npummel the target.\nCritical hits land more easily.",
+    "black-2-white-2": "The user calls out its underlings to\npummel the target.\nCritical hits land more easily.",
+    "x-y": "The user calls out its underlings to\npummel the target.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user calls out its underlings to\npummel the target.\nCritical hits land more easily.",
+    "sun-moon": "The user calls out its underlings to pummel the\ntarget. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user calls out its underlings to pummel the\ntarget. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user calls out its underlings to pummel the\ntarget. Critical hits land more easily.",
+    "sword-shield": "The user calls out its underlings to pummel the\ntarget. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

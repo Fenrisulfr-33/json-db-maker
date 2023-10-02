@@ -1,0 +1,28 @@
+{
+  "_id": 277,
+  "key": "wind-power",
+  "name": {
+    "english": "Wind Power"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "If a Pokémon with Wind Power is hit by a wind move, the power of the next Electric-type move it uses is doubled.",
+    "full": "If a Pokémon with Wind Power is hit by a wind move, the power of the next Electric-type move it uses is doubled."
+  },
+  "description": {
+    "scarlet-violet": "The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Wattrel",
+        "id": 940
+      },
+      {
+        "name": "Kilowattrel",
+        "id": 941
+      }
+    ],
+    "hidden": []
+  }
+}

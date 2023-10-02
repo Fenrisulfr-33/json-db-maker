@@ -1,0 +1,37 @@
+{
+  "_id": 600,
+  "key": "powder",
+  "name": {
+    "english": "Powder",
+    "japanese": "ふんじん",
+    "chinese": "粉塵",
+    "korean": "분진",
+    "german": "Polvo Explosivo",
+    "french": "Pulverschleuder",
+    "italian": "Powder",
+    "spanish": "Pulviscoppio"
+  },
+  "type": "Bug",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user covers the target in a powder\nthat explodes and damages the target\nif it uses a Fire-type move.",
+    "omega-ruby-alpha-sapphire": "The user covers the target in a powder\nthat explodes and damages the target\nif it uses a Fire-type move.",
+    "sun-moon": "The user covers the target in a combustible powder.\nIf the target uses a Fire-type move, the powder\nexplodes and damages the target.",
+    "ultra-sun-ultra-moon": "The user covers the target in a combustible powder.\nIf the target uses a Fire-type move, the powder\nexplodes and damages the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user covers the target in a combustible powder.\nIf the target uses a Fire-type move, the powder\nexplodes and damages the target.",
+    "sword-shield": "The user covers the target in a combustible powder.\nIf the target uses a Fire-type move, the powder\nexplodes and damages the target."
+  },
+  "effect": {
+    "full": "Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move.",
+    "shortEffect": "Explodes if the target uses a fire move this turn, damaging it for 1/4 its max HP and preventing the move."
+  },
+  "priority": 1
+}

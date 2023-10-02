@@ -1,0 +1,42 @@
+{
+  "_id": 386,
+  "key": "punishment",
+  "name": {
+    "english": "Punishment",
+    "japanese": "おしおき",
+    "chinese": "惩罚",
+    "korean": "혼내기",
+    "german": "Castigo",
+    "french": "Strafattacke",
+    "italian": "Punishment",
+    "spanish": "Punizione"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 5,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n",
+    "platinum": "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n",
+    "heartgold-soulsilver": "This attack’s power\nincreases the more\nthe foe has powered\nup with stat changes.\n",
+    "black-white": "This attack’s power increases\nthe more the target has powered\nup with stat changes.",
+    "black-2-white-2": "This attack’s power increases\nthe more the target has powered\nup with stat changes.",
+    "x-y": "The more the target has powered\nup with stat changes, the greater\nthe move’s power.",
+    "omega-ruby-alpha-sapphire": "The more the target has powered\nup with stat changes, the greater\nthe move’s power.",
+    "sun-moon": "The more the target has powered up with stat\nchanges, the greater the move’s power.",
+    "ultra-sun-ultra-moon": "The more the target has powered up with stat\nchanges, the greater the move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The more the target has powered up with stat\nchanges, the greater the move’s power.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power starts at 60 and is increased by 20 for every stage any of the target's stats has been raised, capping at 200.  Accuracy and evasion modifiers do not increase this move's power.",
+    "shortEffect": "Power increases against targets with more raised stats, up to a maximum of 200."
+  },
+  "priority": 0
+}

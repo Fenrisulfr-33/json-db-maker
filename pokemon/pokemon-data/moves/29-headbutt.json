@@ -1,0 +1,47 @@
+{
+  "_id": 29,
+  "key": "headbutt",
+  "name": {
+    "english": "Headbutt",
+    "japanese": "ずつき",
+    "chinese": "铁头功",
+    "korean": "박치기",
+    "german": "Golpe Cabeza",
+    "french": "Kopfnuss",
+    "italian": "Headbutt",
+    "spanish": "Bottintesta"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nmake foe flinch.",
+    "crystal": "An attack that may\nmake foe flinch.",
+    "ruby-sapphire": "A ramming attack that may\ncause flinching.",
+    "emerald": "A ramming attack that may\ncause flinching.",
+    "firered-leafgreen": "The user sticks its\nhead out and rams.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "The user sticks its\nhead out and rams\nstraight forward.\nIt may make the\nfoe flinch.",
+    "platinum": "The user sticks its\nhead out and rams\nstraight forward.\nIt may make the\nfoe flinch.",
+    "heartgold-soulsilver": "The user attacks with\nits head. It may make\nthe foe flinch. To find\nPokémon, hit trees.",
+    "black-white": "The user sticks out its head and attacks\nby charging straight into the target.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user sticks out its head and attacks\nby charging straight into the target.\nIt may also make the target flinch.",
+    "x-y": "The user sticks out its head and attacks\nby charging straight into the target.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user sticks out its head and attacks\nby charging straight into the target.\nThis may also make the target flinch.",
+    "sun-moon": "The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch.",
+    "ultra-sun-ultra-moon": "The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch.",
+    "sword-shield": "The user sticks out its head and attacks by charging\nstraight into the target. This may also make the\ntarget flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

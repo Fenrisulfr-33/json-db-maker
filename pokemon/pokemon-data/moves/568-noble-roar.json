@@ -1,0 +1,37 @@
+{
+  "_id": 568,
+  "key": "noble-roar",
+  "name": {
+    "english": "Noble Roar",
+    "japanese": "おたけび",
+    "chinese": "战吼",
+    "korean": "부르짖기",
+    "german": "Rugido de Guerra",
+    "french": "Kampfgebrüll",
+    "italian": "Noble Roar",
+    "spanish": "Urlo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 30,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "Letting out a noble roar, the user\nintimidates the target and lowers\nits Attack and Sp. Atk stats.",
+    "omega-ruby-alpha-sapphire": "Letting out a noble roar, the user\nintimidates the target and lowers\nits Attack and Sp. Atk stats.",
+    "sun-moon": "Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats.",
+    "ultra-sun-ultra-moon": "Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats.",
+    "lets-go-pikachu-lets-go-eevee": "Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats.",
+    "sword-shield": "Letting out a noble roar, the user intimidates the\ntarget and lowers its Attack and Sp. Atk stats."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack and Special Attack by one stage.",
+    "shortEffect": "Lowers the target's Attack and Special Attack by one stage."
+  },
+  "priority": 0
+}

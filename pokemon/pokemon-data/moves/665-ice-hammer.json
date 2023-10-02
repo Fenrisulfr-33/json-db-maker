@@ -1,0 +1,35 @@
+{
+  "_id": 665,
+  "key": "ice-hammer",
+  "name": {
+    "english": "Ice Hammer",
+    "japanese": "アイスハンマー",
+    "chinese": "冰錘",
+    "korean": "아이스해머",
+    "german": "Martillo Hielo",
+    "french": "Eishammer",
+    "italian": "Ice Hammer",
+    "spanish": "Martelgelo"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+    "ultra-sun-ultra-moon": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+    "lets-go-pikachu-lets-go-eevee": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however.",
+    "sword-shield": "The user swings and hits with its strong, heavy fist.\nIt lowers the user’s Speed, however."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Speed by one stage.",
+    "shortEffect": "Lowers user's Speed by one stage."
+  },
+  "priority": 0
+}

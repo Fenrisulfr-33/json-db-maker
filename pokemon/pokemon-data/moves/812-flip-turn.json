@@ -1,0 +1,32 @@
+{
+  "_id": 812,
+  "key": "flip-turn",
+  "name": {
+    "english": "Flip Turn",
+    "japanese": "クイックターン",
+    "chinese": "快速折返",
+    "korean": "퀵턴",
+    "german": "Viraje",
+    "french": "Rollwende",
+    "italian": "Flip Turn",
+    "spanish": "Virata"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "After making its attack, the user rushes back to\nswitch places with a party Pokémon in waiting."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

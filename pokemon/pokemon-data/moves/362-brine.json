@@ -1,0 +1,42 @@
+{
+  "_id": 362,
+  "key": "brine",
+  "name": {
+    "english": "Brine",
+    "japanese": "しおみず",
+    "chinese": "盐水",
+    "korean": "소금물",
+    "german": "Salmuera",
+    "french": "Lake",
+    "italian": "Brine",
+    "spanish": "Acquadisale"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "If the foe’s HP is\ndown to about half,\nthis attack will hit\nwith double the\npower.",
+    "platinum": "If the foe’s HP is\ndown to about half,\nthis attack will hit\nwith double the\npower.",
+    "heartgold-soulsilver": "If the foe’s HP is\ndown to about half,\nthis attack will hit\nwith double the\npower.",
+    "black-white": "If the target’s HP is down to about half,\nthis attack will hit with double\nthe power.",
+    "black-2-white-2": "If the target’s HP is down to about half,\nthis attack will hit with double\nthe power.",
+    "x-y": "If the target’s HP is half or less,\nthis attack will hit with double\nthe power.",
+    "omega-ruby-alpha-sapphire": "If the target’s HP is half or less,\nthis attack will hit with double\nthe power.",
+    "sun-moon": "If the target’s HP is half or less, this attack will hit\nwith double the power.",
+    "ultra-sun-ultra-moon": "If the target’s HP is half or less, this attack will hit\nwith double the power.",
+    "lets-go-pikachu-lets-go-eevee": "If the target’s HP is half or less, this attack will hit\nwith double the power.",
+    "sword-shield": "If the target’s HP is half or less, this attack will hit\nwith double the power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target has less than half its max HP remaining, this move has double power.",
+    "shortEffect": "Has double power against Pokémon that have less than half their max HP remaining."
+  },
+  "priority": 0
+}

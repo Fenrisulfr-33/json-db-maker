@@ -1,0 +1,32 @@
+{
+  "_id": 800,
+  "key": "meteor-beam",
+  "name": {
+    "english": "Meteor Beam",
+    "japanese": "メテオビーム",
+    "chinese": "流星光束",
+    "korean": "메테오빔",
+    "german": "Rayo Meteórico",
+    "french": "Meteorstrahl",
+    "italian": "Meteor Beam",
+    "spanish": "Raggiometeora"
+  },
+  "type": "Rock",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 120,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "In this two-turn attack, the user gathers space power\nand boosts its Sp. Atk stat, then attacks the target\non the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

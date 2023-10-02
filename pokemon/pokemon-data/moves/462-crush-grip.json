@@ -1,0 +1,42 @@
+{
+  "_id": 462,
+  "key": "crush-grip",
+  "name": {
+    "english": "Crush Grip",
+    "japanese": "にぎりつぶす",
+    "chinese": "捏碎",
+    "korean": "묵사발",
+    "german": "Agarrón",
+    "french": "Quetschgriff",
+    "italian": "Crush Grip",
+    "spanish": "Sbriciolmano"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 5,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The foe is crushed\nwith great force.\nThe attack is more\npowerful the more HP\nthe foe has left.",
+    "platinum": "The foe is crushed\nwith great force.\nThe attack is more\npowerful the more HP\nthe foe has left.",
+    "heartgold-soulsilver": "The foe is crushed\nwith great force.\nThe attack is more\npowerful the more HP\nthe foe has left.",
+    "black-white": "The target is crushed with great force.\nThe attack is more powerful the more\nHP the target has left.",
+    "black-2-white-2": "The target is crushed with great force.\nThe attack is more powerful the more\nHP the target has left.",
+    "x-y": "The target is crushed with great force.\nThe more HP the target has left,\nthe greater this move’s power.",
+    "omega-ruby-alpha-sapphire": "The target is crushed with great force.\nThe more HP the target has left,\nthe greater this move’s power.",
+    "sun-moon": "The target is crushed with great force. The more HP\nthe target has left, the greater this move’s power.",
+    "ultra-sun-ultra-moon": "The target is crushed with great force. The more HP\nthe target has left, the greater this move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The target is crushed with great force. The more HP\nthe target has left, the greater this move’s power.",
+    "sword-shield": "The target is crushed with great force. The more HP\nthe target has left, the greater this move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121.",
+    "shortEffect": "Power increases against targets with more HP remaining, up to a maximum of 121 power."
+  },
+  "priority": 0
+}

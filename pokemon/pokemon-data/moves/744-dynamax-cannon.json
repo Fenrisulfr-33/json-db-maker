@@ -1,0 +1,32 @@
+{
+  "_id": 744,
+  "key": "dynamax-cannon",
+  "name": {
+    "english": "Dynamax Cannon",
+    "japanese": "ダイマックスほう",
+    "chinese": "極巨炮",
+    "korean": "다이맥스포",
+    "german": "Cañón Dinamax",
+    "french": "Dynamax-Kanone",
+    "italian": "Dynamax Cannon",
+    "spanish": "Cannone Dynamax"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user unleashes a strong beam from its core.\nThis move deals twice the damage if the target\nis Dynamaxed."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then (if successful) sets light screen on the user's side of the field.",
+    "shortEffect": "Sets Light Screen on the user's side of the field after inflicting damage."
+  },
+  "priority": 0
+}

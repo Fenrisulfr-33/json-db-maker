@@ -1,0 +1,47 @@
+{
+  "_id": 211,
+  "key": "steel-wing",
+  "name": {
+    "english": "Steel Wing",
+    "japanese": "はがねのつばさ",
+    "chinese": "钢翼",
+    "korean": "강철날개",
+    "german": "Ala de Acero",
+    "french": "Stahlflügel",
+    "italian": "Steel Wing",
+    "spanish": "Alacciaio"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 25,
+  "power": 70,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Stiff wings strike\nthe foe.",
+    "crystal": "Stiff wings strike\nthe foe.",
+    "ruby-sapphire": "Strikes the foe with hard\nwings spread wide.",
+    "emerald": "Strikes the foe with hard\nwings spread wide.",
+    "firered-leafgreen": "The foe is hit with\nwings of steel.\nIt may also raise\nthe user’s DEFENSE.",
+    "diamond-pearl": "The foe is hit with\nwings of steel.\nIt may also raise the\nuser’s Defense stat.\n",
+    "platinum": "The foe is hit with\nwings of steel.\nIt may also raise the\nuser’s Defense stat.\n",
+    "heartgold-soulsilver": "The foe is hit with\nwings of steel.\nIt may also raise the\nuser’s Defense stat.\n",
+    "black-white": "The target is hit with wings of steel.\nIt may also raise the user’s Defense stat.",
+    "black-2-white-2": "The target is hit with wings of steel.\nIt may also raise the user’s Defense stat.",
+    "x-y": "The target is hit with wings of steel.\nThis may also raise the user’s Defense stat.",
+    "omega-ruby-alpha-sapphire": "The target is hit with wings of steel.\nThis may also raise the user’s Defense stat.",
+    "sun-moon": "The target is hit with wings of steel. This may also\nraise the user’s Defense stat.",
+    "ultra-sun-ultra-moon": "The target is hit with wings of steel. This may also\nraise the user’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit with wings of steel. This may also\nraise the user’s Defense stat.",
+    "sword-shield": "The target is hit with wings of steel. This may also\nraise the user’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage. Has a $effect_chance% chance to raise the user's Defense one stage.",
+    "shortEffect": "Has a $effect_chance% chance to raise the user's Defense by one stage."
+  },
+  "priority": 0
+}

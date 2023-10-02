@@ -1,0 +1,45 @@
+{
+  "_id": 317,
+  "key": "rock-tomb",
+  "name": {
+    "english": "Rock Tomb",
+    "japanese": "がんせきふうじ",
+    "chinese": "岩石封闭",
+    "korean": "암석봉인",
+    "german": "Tumba Rocas",
+    "french": "Felsgrab",
+    "italian": "Rock Tomb",
+    "spanish": "Rocciotomba"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 60,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Stops the foe from moving\nwith rocks and cuts SPEED.",
+    "emerald": "Stops the foe from moving\nwith rocks and cuts SPEED.",
+    "firered-leafgreen": "Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSPEED if it hits.",
+    "diamond-pearl": "Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSpeed by preventing\nits movement.",
+    "platinum": "Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSpeed by preventing\nits movement.",
+    "heartgold-soulsilver": "Boulders are hurled\nat the foe. It also\nlowers the foe’s\nSpeed by preventing\nits movement.",
+    "black-white": "Boulders are hurled at the target. It also\nlowers the target’s Speed by preventing\nits movement.",
+    "black-2-white-2": "Boulders are hurled at the target. It also\nlowers the target’s Speed by preventing\nits movement.",
+    "x-y": "Boulders are hurled at the target. This also\nlowers the target’s Speed stat by preventing\nits movement.",
+    "omega-ruby-alpha-sapphire": "Boulders are hurled at the target. This also\nlowers the target’s Speed stat by preventing\nits movement.",
+    "sun-moon": "Boulders are hurled at the target. This also lowers\nthe target’s Speed stat by preventing its movement.",
+    "ultra-sun-ultra-moon": "Boulders are hurled at the target. This also lowers\nthe target’s Speed stat by preventing its movement.",
+    "lets-go-pikachu-lets-go-eevee": "Boulders are hurled at the target. This also lowers\nthe target’s Speed stat by preventing its movement.",
+    "sword-shield": "Boulders are hurled at the target. This also lowers\nthe target’s Speed stat by preventing its movement."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

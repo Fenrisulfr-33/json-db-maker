@@ -1,0 +1,37 @@
+{
+  "_id": 180,
+  "key": "symbiosis",
+  "name": {
+    "english": "Symbiosis"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Passes the bearer's held item to an ally when the ally uses up its item.",
+    "full": "Passes the bearer's held item to an ally when the ally uses up its item."
+  },
+  "description": {
+    "x-y": "The Pokémon can pass an item to an ally.",
+    "omega-ruby-alpha-sapphire": "The Pokémon can pass an item to an ally.",
+    "sun-moon": "The Pokémon passes its item to an ally that has used up an item.",
+    "ultra-sun-ultra-moon": "The Pokémon passes its item to an ally that has used up an item.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon passes its item to an ally that has used up an item.",
+    "sword-shield": "The Pokémon passes its item to an ally that has used up an item."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Floette",
+        "id": 670
+      },
+      {
+        "name": "Florges",
+        "id": 671
+      },
+      {
+        "name": "Oranguru",
+        "id": 765
+      }
+    ]
+  }
+}
