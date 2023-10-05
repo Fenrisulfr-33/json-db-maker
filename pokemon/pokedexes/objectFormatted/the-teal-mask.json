@@ -392,6 +392,10 @@
     "pokemonId": 925
   },
   {
+    "dexNo": 98,
+    "pokemonId": 925.1
+  },
+  {
     "dexNo": 99,
     "pokemonId": 56
   },
@@ -644,6 +648,10 @@
     "pokemonId": 982
   },
   {
+    "dexNo": 161,
+    "pokemonId": 982.1
+  },
+  {
     "dexNo": 162,
     "pokemonId": 339
   },
@@ -798,5 +806,17 @@
   {
     "dexNo": 200,
     "pokemonId": 1017
+  },
+  {
+    "dexNo": 200,
+    "pokemonId": 1017.1
+  },
+  {
+    "dexNo": 200,
+    "pokemonId": 1017.2
+  },
+  {
+    "dexNo": 200,
+    "pokemonId": 1017.3
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "_id": 978,
+  "_id": 978.2,
   "key": "tatsugiri",
   "name": {
     "english": "Tatsugiri"
@@ -57,14 +57,14 @@
     "nigiri": "a type of sushi"
   },
   "pokedexEntries": {
-    "Curly Form": [
+    "Stretchy Form": [
       {
         "game": "scarlet",
-        "desc": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside."
+        "desc": "Bird Pokémon are its main prey. This Pokémon knows it’s weak, so it hunts with a partner."
       },
       {
         "game": "violet",
-        "desc": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
+        "desc": "It’s one of the most intelligent dragon Pokémon. It camouflages itself by inflating its throat sac."
       }
     ]
   }

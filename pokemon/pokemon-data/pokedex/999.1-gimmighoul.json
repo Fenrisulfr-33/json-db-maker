@@ -1,5 +1,5 @@
 {
-  "_id": 999,
+  "_id": 999.1,
   "key": "gimmighoul",
   "name": {
     "english": "Gimmighoul"
@@ -13,8 +13,8 @@
   },
   "abilities": {
     "one": {
-      "name": "Rattled",
-      "id": 155
+      "name": "Run Away",
+      "id": 50
     }
   },
   "baseStats": {
@@ -27,8 +27,8 @@
     "total": 300
   },
   "info": {
-    "height": "0.3 m (1′00″)",
-    "weight": "5.0 kg (11.0 lbs)"
+    "height": "0.1 m (0′04″)",
+    "weight": "0.1 kg (0.2 lbs)"
   },
   "gender": {
     "male": "",
@@ -42,7 +42,7 @@
   "eggGroups": [
     "Undiscovered"
   ],
-  "species": "Coin Chest Pokémon",
+  "species": "Coin Hunter Pokémon",
   "catchRate": 45,
   "baseFriendship": 50,
   "growthRate": "Slow",
@@ -52,14 +52,14 @@
     "ghoul": "a ghost"
   },
   "pokedexEntries": {
-    "Chest Form": [
+    "Roaming Form": [
       {
         "game": "scarlet",
-        "desc": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure."
+        "desc": "This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited."
       },
       {
         "game": "violet",
-        "desc": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+        "desc": "It wanders around, carrying an old coin on its back. It survives by draining the life-force from humans who try to pick up its coin."
       }
     ]
   }

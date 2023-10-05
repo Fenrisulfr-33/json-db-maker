@@ -1,8 +1,8 @@
 {
   "_id": 901.1,
-  "key": "bloodmoon-ursaluna",
+  "key": "ursaluna",
   "name": {
-    "english": "Bloodmoon Ursaluna"
+    "english": "Ursaluna"
   },
   "pokedexNumber": {},
   "type": {
@@ -38,7 +38,9 @@
   "evs": {
     "spatk": 3
   },
-  "eggGroups": ["Field"],
+  "eggGroups": [
+    "Field"
+  ],
   "species": "Peat Pokémon",
   "catchRate": 5,
   "baseFriendship": 0,

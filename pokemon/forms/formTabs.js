@@ -1,4 +1,13 @@
 const formTabs = [
+  {
+    pokemonIds: [ 898, 898.1, 898.2 ],
+    key: 'calyrex',
+    tab: [
+      { id: 898, name: 'Calyrex' },
+      { id: 898.1, name: 'Ice Rider' },
+      { id: 898.2, name: 'Shadow Rider' },
+    ]
+  },
   // Scarlet & Violet 
   {
     pokemonIds: [ 128, 128.1, 128.2, 128.3],
@@ -16,6 +25,14 @@ const formTabs = [
     tab: [  
       { id: 194, name: "Wooper" },
       { id: 194.1, name: "Paldean Wooper" },
+    ]
+  },
+  {
+    pokemonIds: [ 901, 901.1 ],
+    key: 'ursaluna',
+    tab: [  
+      { id: 901, name: "Ursaluna" },
+      { id: 901.1, name: "Bloodmoon" },
     ]
   },
   {
