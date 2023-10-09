@@ -1,6 +1,6 @@
 const { MongoClient } = require("mongodb");
 // const nationalDex = require("./pokemon/pokemon-data/pokedexJoined.json");
-const nationalDex = require("./pokemon/pokemon-data/2023-10-02-pokedex.json");
+const nationalDex = require("./pokemon/pokemon-data/2023-10-09-pokedex.json");
 // Replace the uri string with your MongoDB deployment's connection string.
 const uri = "mongodb+srv://archer_brendan:OdinRaven33@cluster0.spj8q.mongodb.net/pokemon?retryWrites=true&w=majority";
 const client = new MongoClient(uri);
@@ -21,11 +21,27 @@ async function replaceDocument(replacementPokemon) {
     const national = pokemon.collection("national-dex");
     // Create a query for documents where the title contains "The Cat from"
     const query = { _id: replacementPokemon._id };
+    const options = {
+      upsert: true
+    }
     // Execute the replace operation
-    const result = await national.replaceOne(query, replacementPokemon);
-
+    const result = await national.replaceOne(query, replacementPokemon, options);
+    /**
+     * result = {
+     *  acknowledged: true,
+     *  modifiedCount: 0,
+     *  upsertedId: null,
+     *  upsertedCount: 0,
+     *  matchedCount: 1
+     * }
+     */
+    // console.log('result', result)
     // Print the result
-    console.log(`Modified ${result.modifiedCount} document(s) at position ${replacementPokemon._id}`);
+    if (result.modifiedCount > 0){
+      console.log(`Modified ${result.modifiedCount} document(s) at position ${replacementPokemon._id}`);
+    } else if (result.upsertedId){
+      console.log(`Inserted ${result.upsertedId} document at position ${replacementPokemon._id}`);
+    }
   } catch (error) {
     console.log(error);
   }
