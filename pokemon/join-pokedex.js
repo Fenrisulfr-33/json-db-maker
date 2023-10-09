@@ -71,12 +71,12 @@ require("fs")
      * Right now it is hard coded to a small array but needs to be flexible.
      * TODO: Make a global forms tab array that can be used at any time and updated.
      */
-    const formsTab = addFormsTabToPokemon(pokemon._id);
-    // If the pokemon is found to have multiple forms
-    if (formsTab) {
-      // Then we want to create the key, instead of having it on every json
-      pokemon.formsTab = formsTab;
-    }
+    // const formsTab = addFormsTabToPokemon(pokemon._id);
+    // // If the pokemon is found to have multiple forms
+    // if (formsTab) {
+    //   // Then we want to create the key, instead of having it on every json
+    //   pokemon.formsTab = formsTab;
+    // }
     /** 
      * Replace the evolution number with the evolution object.
      * 
