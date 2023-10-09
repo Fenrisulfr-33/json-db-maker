@@ -1,5 +1,6 @@
 const formTabs = [
   {
+    _id: 898,
     pokemonIds: [ 898, 898.1, 898.2 ],
     key: 'calyrex',
     tab: [
@@ -10,6 +11,7 @@ const formTabs = [
   },
   // Scarlet & Violet 
   {
+    _id: 128,
     pokemonIds: [ 128, 128.1, 128.2, 128.3],
     key: 'tauros',
     tab: [
@@ -20,6 +22,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 194,
     pokemonIds: [ 194, 194.1 ],
     key: 'wooper',
     tab: [  
@@ -28,6 +31,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 901,
     pokemonIds: [ 901, 901.1 ],
     key: 'ursaluna',
     tab: [  
@@ -36,6 +40,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 916,
     pokemonIds: [ 916, 916.1 ],
     key: 'oinkologne',
     tab: [  
@@ -44,6 +49,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 925,
     pokemonIds: [ 925, 925.1 ],
     key: 'maushold',
     tab: [
@@ -52,6 +58,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 931,
     pokemonIds: [ 931, 931.1, 931.2, 931.3 ],
     key: 'squawkabilly',
     tab: [
@@ -62,6 +69,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 964,
     pokemonIds: [ 964, 964.1 ],
     key: 'palafin',
     tab: [
@@ -70,6 +78,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 978,
     pokemonIds: [ 978, 978.1, 978.2 ],
     key: 'tatsugiri',
     tab: [
@@ -79,6 +88,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 982,
     pokemonIds: [ 982, 982.1 ],
     key: 'dudunsparce',
     tab: [
@@ -87,6 +97,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 999,
     pokemonIds: [ 999, 999.1 ],
     key: 'gimmighoul',
     tab: [
@@ -95,6 +106,7 @@ const formTabs = [
     ]
   },
   {
+    _id: 1017,
     pokemonIds: [ 1017, 1017.1, 1017.2, 1017.3 ],
     key: 'ogrepon',
     tab: [
@@ -104,13 +116,14 @@ const formTabs = [
       { id: 1017.3, name: "Cornerstone Mask" },
     ]
   },
-  {
-    pokemonIds: [],
-    key: '',
-    tab: [
-      { id: 0, name: '' }
-    ]
-  },
+  // {
+  //    _id: 0
+  //   pokemonIds: [],
+  //   key: '',
+  //   tab: [
+  //     { id: 0, name: '' }
+  //   ]
+  // },
 ];
 
 module.exports = { formTabs };
