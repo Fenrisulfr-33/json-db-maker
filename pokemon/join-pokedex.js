@@ -46,11 +46,7 @@ require("fs")
      * This function uses lists by game and a corresponding Id.
      * Then it takes those moves and creates an object for the pokemon
      *  and assigns it to the pokemon.
-     * 
-     * TODO: The delete was there because of the old method. Look into if needed anymore.
      */
-    // delete pokemon.moves;
-    pokemon.moves = {};
     pokemon.moves = addMovesToPokemon(pokemon._id, pokemon.moves);
     pokemon.moves = returnPokemonMovesModel(pokemon.moves);
     // There were move names with incorrect typing from the webscrape.
@@ -86,7 +82,7 @@ require("fs")
      * This allows me to work on the object over time instead of all at once.
      * If the key doesn't exist it returns the original value.
      */
-    pokemon.evolution = addEvolutionObjectToPokemon(pokemon.evolution);
+    // pokemon.evolution = addEvolutionObjectToPokemon(pokemon.evolution);
     // Reformat the pokemon object so they are all the same.
     returnPokemon = returnPokemonModel(pokemon)
     // Add pokemon to total pokedex.
@@ -111,5 +107,5 @@ console.log('errors', errors);
 // Write JSON string to a file
 fs.writeFile(`./pokemon-data/${new Date().toJSON().slice(0,10)}-pokedex.json`, saveData, (error) => {
   error ? console.error(error) : null;
-  console.log("JSON data is saved.");
+  console.log(`${new Date().toJSON().slice(0,10)}-pokedex.json saved.`);
 });

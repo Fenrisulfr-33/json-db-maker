@@ -71,24 +71,6 @@
   "nameOrigin": {
     "Taurus": "mythical Greek bull & star sign"
   },
-  "formsTab": [
-    {
-      "id": 128,
-      "name": "Tauros"
-    },
-    {
-      "id": 128.1,
-      "name": "Combat Breed"
-    },
-    {
-      "id": 128.2,
-      "name": "Blaze Breed"
-    },
-    {
-      "id": 128.3,
-      "name": "Aqua Breed"
-    }
-  ],
   "pokedexEntries": {
     "Tauros": [
       {

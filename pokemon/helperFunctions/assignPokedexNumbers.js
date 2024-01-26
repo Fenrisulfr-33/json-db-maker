@@ -1,33 +1,31 @@
-const theTealMaskDex = require('../pokedexes/objectFormatted/the-teal-mask.json')
-
-const scarletVioletDex = require("../pokedexes/objectFormatted/scarlet-violet.json");
-const legendsArceusDex = require("../pokedexes/objectFormatted/legends-arceus.json");
-const crownTundraDex = require("../pokedexes/objectFormatted/crown-tundra.json");
-const isleOfArmorDex = require("../pokedexes/objectFormatted/isle-of-armor.json");
-const swordShieldDex = require("../pokedexes/objectFormatted/sword-shield.json");
-
-const ultraSunUltraMoonUlaulaDex = require('../pokedexes/objectFormatted/ultra-sun-ultra-moon-ulaula.json');
-const ultraSunUltraMoonPoniDex = require('../pokedexes/objectFormatted/ultra-sun-ultra-moon-poni.json');
-const ultraSunUltraMoonMelemeleDex = require("../pokedexes/objectFormatted/ultra-sun-ultra-moon-melemele.json");
-const ultraSunUltraMoonAkalaDex = require("../pokedexes/objectFormatted/ultra-sun-ultra-moon-akala.json");
-const ultraSunUltraMoonDex = require("../pokedexes/objectFormatted/ultra-sun-ultra-moon-alola.json");
-
-const sunMoonPoniDex = require('../pokedexes/objectFormatted/sun-moon-poni.json');
-const sunMoonUlaulaDex = require('../pokedexes/objectFormatted/sun-moon-ulaula.json');
-const sunMoonMelemeleDex = require('../pokedexes/objectFormatted/sun-moon-melemele.json');
-const sunMoonAkalaDex = require('../pokedexes/objectFormatted/sun-moon-akala.json');
-const sunMoonDex = require('../pokedexes/objectFormatted/sun-moon-alola.json');
-const omegaRubyAlphaSapphireDex = require('../pokedexes/objectFormatted/omega-ruby-alpha-sapphire.json');
-const xyMountainDex = require('../pokedexes/objectFormatted/x-y-mountain.json');
-const xyCoastalDex = require('../pokedexes/objectFormatted/x-y-coastal.json');
-const xyCentralDex = require('../pokedexes/objectFormatted/x-y-central.json');
-const black2White2Dex = require('../pokedexes/objectFormatted/black-2-white-2.json');
-const blackWhiteDex = require("../pokedexes/objectFormatted/black-white.json");
-const platinumDex = require("../pokedexes/objectFormatted/platinum.json");
-const diamondPearlDex = require("../pokedexes/objectFormatted/diamond-pearl.json");
-const rubySapphireEmeraldDex = require("../pokedexes/objectFormatted/ruby-sapphire-emerald.json");
-const goldSilverCrystalDex = require("../pokedexes/objectFormatted/gold-silver-crystal.json");
 const redBlueYellowDex = require("../pokedexes/objectFormatted/red-blue-yellow.json");
+const goldSilverCrystalDex = require("../pokedexes/objectFormatted/gold-silver-crystal.json");
+const rubySapphireEmeraldDex = require("../pokedexes/objectFormatted/ruby-sapphire-emerald.json");
+const diamondPearlDex = require("../pokedexes/objectFormatted/diamond-pearl.json");
+const platinumDex = require("../pokedexes/objectFormatted/platinum.json");
+const heartgoldSoulsilver = require("../pokedexes/objectFormatted/heartgold-soulsilver.json");
+const blackWhiteDex = require("../pokedexes/objectFormatted/black-white.json");
+const black2White2Dex = require('../pokedexes/objectFormatted/black-2-white-2.json');
+const xyCentralDex = require('../pokedexes/objectFormatted/x-y-central.json');
+const xyCoastalDex = require('../pokedexes/objectFormatted/x-y-coastal.json');
+const xyMountainDex = require('../pokedexes/objectFormatted/x-y-mountain.json');
+const omegaRubyAlphaSapphireDex = require('../pokedexes/objectFormatted/omega-ruby-alpha-sapphire.json');
+const sunMoonDex = require('../pokedexes/objectFormatted/sun-moon-alola.json');
+const sunMoonAkalaDex = require('../pokedexes/objectFormatted/sun-moon-akala.json');
+const sunMoonMelemeleDex = require('../pokedexes/objectFormatted/sun-moon-melemele.json');
+const sunMoonUlaulaDex = require('../pokedexes/objectFormatted/sun-moon-ulaula.json');
+const sunMoonPoniDex = require('../pokedexes/objectFormatted/sun-moon-poni.json');
+const ultraSunUltraMoonDex = require("../pokedexes/objectFormatted/ultra-sun-ultra-moon-alola.json");
+const ultraSunUltraMoonAkalaDex = require("../pokedexes/objectFormatted/ultra-sun-ultra-moon-akala.json");
+const ultraSunUltraMoonMelemeleDex = require("../pokedexes/objectFormatted/ultra-sun-ultra-moon-melemele.json");
+const ultraSunUltraMoonPoniDex = require('../pokedexes/objectFormatted/ultra-sun-ultra-moon-poni.json');
+const ultraSunUltraMoonUlaulaDex = require('../pokedexes/objectFormatted/ultra-sun-ultra-moon-ulaula.json');
+const swordShieldDex = require("../pokedexes/objectFormatted/sword-shield.json");
+const isleOfArmorDex = require("../pokedexes/objectFormatted/isle-of-armor.json");
+const crownTundraDex = require("../pokedexes/objectFormatted/crown-tundra.json");
+const legendsArceusDex = require("../pokedexes/objectFormatted/legends-arceus.json");
+const scarletVioletDex = require("../pokedexes/objectFormatted/scarlet-violet.json");
+const theTealMaskDex = require('../pokedexes/objectFormatted/the-teal-mask.json');
 
 function assignPokedexNumbers(pokemonId) {
   // TODO: Do this at the rewrite not inside the function.
@@ -134,6 +132,12 @@ function assignPokedexNumbers(pokemonId) {
     pokemonId,
     blackWhiteDex,
     "black-white",
+    newPokedexValues
+  );
+  removeOldDexNoAddNew(
+    pokemonId,
+    blackWhiteDex,
+    "heartgold-soulsilver",
     newPokedexValues
   );
 
