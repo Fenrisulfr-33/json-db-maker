@@ -1,0 +1,81 @@
+{
+  "_id": 13,
+  "name": "Gumoss",
+  "types": [
+    "grass",
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "berry_seeds",
+    "gumoss_leaf"
+  ],
+  "aura": {
+    "name": "logging_assistance",
+    "description": "While in team, improves efficiency of cutting trees."
+  },
+  "description": "A strange Pal with a body resembling tree sap. It gradually loses strength if it has nothing to cover its body with, eventually rotting away.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "seed_machine_gun",
+      "type": "grass",
+      "cooldown": 9,
+      "power": 50,
+      "description": "Fires a volley of hard seeds at enemies in front of it.\n"
+    },
+    {
+      "level": 30,
+      "name": "seed_mine",
+      "type": "grass",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.\n"
+    },
+    {
+      "level": 40,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

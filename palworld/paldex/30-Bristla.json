@@ -1,0 +1,96 @@
+{
+  "_id": 30,
+  "name": "Bristla",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 1
+    },
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "medicine_function toLocaleLowerCase() { [native code] }",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "gathering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "wheat_seeds",
+    "lettuce_seeds"
+  ],
+  "aura": {
+    "name": "princess_gaze",
+    "description": "While in team, increases attack power of Grass Pals."
+  },
+  "description": "This prickly Pal's thorns are highly poisonous. It is friendly with Cinnamoth and only smiles when Cinnamoth is drinking its nectar.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "seed_machine_gun",
+      "type": "grass",
+      "cooldown": 9,
+      "power": 50,
+      "description": "Fires a volley of hard seeds at enemies in front of it.\n"
+    },
+    {
+      "level": 15,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 22,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "spine_vine",
+      "type": "grass",
+      "cooldown": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

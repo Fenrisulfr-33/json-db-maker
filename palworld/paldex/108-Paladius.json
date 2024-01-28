@@ -1,0 +1,84 @@
+{
+  "_id": 108,
+  "name": "Paladius",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "mining",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "pal_metal_ingot",
+    "diamond"
+  ],
+  "aura": {
+    "name": "holy_knight_of_the_firmament",
+    "description": "Can be ridden. Can triple jump while mounted."
+  },
+  "description": "In the past, he and Necromus were a single species.\nThey say that they are an existence that has freed themselves from all negative feelings, but the depths of their eyes harbor traces of resentment.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 7,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 15,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 30,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 40,
+      "name": "spear_thrust",
+      "type": "neutral",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Paladius' exclusive skill. Clads itself in holy power before charging forward with its spear. The shield in its other hand protects from attacks during the charge.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

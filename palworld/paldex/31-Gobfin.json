@@ -1,0 +1,87 @@
+{
+  "_id": 31,
+  "name": "Gobfin",
+  "types": [
+    "water"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "watering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "pal_fluids"
+  ],
+  "aura": {
+    "name": "angry_shark",
+    "description": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power."
+  },
+  "description": "Long ago, it was a large and powerful aquatic Pal.\nAs food became scarce it evolved to live on land.\nSince walking requires much energy, it gradually became smaller and is now a small and puny Pal.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "hydro_jet",
+      "type": "water",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a high speed ball of water at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "bubble_blast",
+      "type": "water",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Fires numerous bubbles that slowly pursue an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 40,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "hydro_laser",
+      "type": "water",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
+    }
+  ]
+}

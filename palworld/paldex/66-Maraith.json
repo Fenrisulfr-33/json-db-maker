@@ -1,0 +1,84 @@
+{
+  "_id": 66,
+  "name": "Maraith",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "bone",
+    "small_pal_soul"
+  ],
+  "aura": {
+    "name": "messenger_of_death",
+    "description": "Can be ridden.\nApplies Dark damage to the player's attacks while mounted."
+  },
+  "description": "It relishes the peculiar scent living things give off when they are near death. If a Mariath has taken a liking to you. It is safe to assume that is why.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 30,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

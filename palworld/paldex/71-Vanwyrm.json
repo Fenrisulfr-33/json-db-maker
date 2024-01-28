@@ -1,0 +1,86 @@
+{
+  "_id": 71,
+  "name": "Vanwyrm",
+  "types": [
+    "fire",
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "bone",
+    "ruby",
+    "gold_coin"
+  ],
+  "aura": {
+    "name": "aerial_marauder",
+    "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted."
+  },
+  "description": "The melodies of a flute made from the exoskeleton of a Vanwyrm are said to cross the whole mountain ranges.\nIn ages past, such flutes were used to signal an attack.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "ignis_breath",
+      "type": "fire",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

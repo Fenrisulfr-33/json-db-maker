@@ -1,0 +1,81 @@
+{
+  "_id": 20,
+  "name": "Rushoar",
+  "types": [
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "mining",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "rushoar_pork",
+    "leather",
+    "bone"
+  ],
+  "aura": {
+    "name": "hard_head",
+    "description": "Can be ridden. Increases efficiency of destroying boulders while mounted."
+  },
+  "description": "Being extremely aggressive Pal, it often picks fights before gauging its opponent's strength. Though small, its powerful charge can even send boulders flying.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "reckless_charge",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 55,
+      "description": "Rushoar's special skill. Takes aim at a foe and rushes at them with a mad charge.\n"
+    },
+    {
+      "level": 7,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 30,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 40,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_id": 17,
+  "name": "Depresso",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "mining",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "venom_gland"
+  ],
+  "aura": {
+    "name": "caffeine_inoculation",
+    "description": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase."
+  },
+  "description": "It has few friends because of the perpetually grouchy look on its face, but it is in fact kindhearted. Some have seen it feeding Vixy who have strayed from their pack.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "poison_blast",
+      "type": "dark",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 30,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

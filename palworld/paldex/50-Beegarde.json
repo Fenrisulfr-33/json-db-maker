@@ -1,0 +1,103 @@
+{
+  "_id": 50,
+  "name": "Beegarde",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 1
+    },
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "lumbering",
+      "level": 1
+    },
+    {
+      "type": "medicine_function toLocaleLowerCase() { [native code] }",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    },
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "farming",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "honey"
+  ],
+  "aura": {
+    "name": "worker_bee",
+    "description": "Sometimes drops Honey when assigned to Ranch.\nWhile in team, Elizabee's stats will be increased."
+  },
+  "description": "A servant that pledges loyalty to Elizabee.\nAny that cause harm to the queen are immediately expelled from the hive.\nIt will gladly give its life to protect its queen.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "bee_quiet",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 200,
+      "description": "Risks its life to cause a violent explosion, but receives the honor of falling in battle.\n"
+    },
+    {
+      "level": 22,
+      "name": "poison_blast",
+      "type": "dark",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "acid_rain",
+      "type": "water",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.\n"
+    },
+    {
+      "level": 40,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

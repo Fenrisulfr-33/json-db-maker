@@ -1,0 +1,80 @@
+{
+  "_id": 86,
+  "name": "Broncherry",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "broncherry_meat",
+    "tomato_seeds"
+  ],
+  "aura": {
+    "name": "overaffectionate",
+    "description": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity."
+  },
+  "description": "Its scent drastically changes before and after pairing.\nIt exudes a pleasing aroma after finding a partner, which is called the \"fragrance of first love.\"",
+  "skills": [
+    {
+      "level": 1,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "muscle_slam",
+      "type": "neutral",
+      "cooldown": 12,
+      "power": 80,
+      "description": "Broncherry's exclusive skill. Turns sideways before tackling enemies in front of it, sending them flying into the air.\n"
+    },
+    {
+      "level": 22,
+      "name": "seed_mine",
+      "type": "grass",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.\n"
+    },
+    {
+      "level": 30,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "spine_vine",
+      "type": "grass",
+      "cooldown": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_id": 35,
+  "name": "Caprity",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 2
+    },
+    {
+      "type": "farming",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "caprity_meat",
+    "red_berries",
+    "horn"
+  ],
+  "aura": {
+    "name": "berry_picker",
+    "description": "Sometimes drops Red Berries from its back when assigned to Ranch."
+  },
+  "description": "The shrub on this pal's back produces berries as long as it is properly fed. It offers these berries to potential mates, and if the flavor is to their liking, romance blossoms.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 15,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 30,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "spine_vine",
+      "type": "grass",
+      "cooldown": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

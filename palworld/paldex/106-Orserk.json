@@ -1,0 +1,88 @@
+{
+  "_id": 106,
+  "name": "Orserk",
+  "types": [
+    "dragon",
+    "electric"
+  ],
+  "suitability": [
+    {
+      "type": "generating_function toLocaleLowerCase() { [native code] }",
+      "level": 4
+    },
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 4
+    }
+  ],
+  "drops": [
+    "electric_organ"
+  ],
+  "aura": {
+    "name": "ferocious_thunder_dragon",
+    "description": "While fighting together, Water Pals drop more items when defeated."
+  },
+  "description": "It sends electricity into its foes' wounds, roasting them from the inside out. Fights between Orserk end in the blink of an eye.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "kerauno",
+      "type": "electric",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Orserk's exclusive skill. Summons a blade of lightning while leaping into the air before throwing it at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "lightning_strike",
+      "type": "electric",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Acts as a lightning rod, calling down thunderbolts that electrocute the surrounding area.\n"
+    },
+    {
+      "level": 15,
+      "name": "spark_blast",
+      "type": "electric",
+      "cooldown": 2,
+      "power": 30,
+      "description": "The user releases a lightning ball that expands outward in a forward, circular pattern.\n"
+    },
+    {
+      "level": 22,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 30,
+      "name": "lightning_streak",
+      "type": "electric",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Generates a lightning bolt that moves forward in a line.\n"
+    },
+    {
+      "level": 40,
+      "name": "tri-lightning",
+      "type": "electric",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Generates lightning that strikes an enemy three times from above.\n"
+    },
+    {
+      "level": 50,
+      "name": "lightning_bolt",
+      "type": "electric",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
+    }
+  ]
+}

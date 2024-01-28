@@ -1,0 +1,88 @@
+{
+  "_id": 45,
+  "name": "Leezpunk",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "copper_key",
+    "silver_key"
+  ],
+  "aura": {
+    "name": "sixth_sense",
+    "description": "When activated, utilizes its sixth sense to detect nearby dungeons."
+  },
+  "description": "A Pal that always takes great care to maintain a stylish stance. Always on the hunt for the coolest poses, if given a mirror it will spend all day posing in front of it.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "poison_blast",
+      "type": "dark",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "ignis_breath",
+      "type": "fire",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

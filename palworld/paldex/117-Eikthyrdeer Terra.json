@@ -1,0 +1,81 @@
+{
+  "_id": 117,
+  "name": "Eikthyrdeer Terra",
+  "types": [
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "eikthyrdeer_venison",
+    "leather",
+    "horn"
+  ],
+  "aura": {
+    "name": "guardian_of_the_golden_forest",
+    "description": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees."
+  },
+  "description": "The individual with the hardest horns becomes the leader. Once the horns are lost, so too is the leadership status. It leaves the herd admist farewell glances and quietly returns to the earth.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 7,
+      "name": "antler_uppercut",
+      "type": "neutral",
+      "cooldown": 5,
+      "power": 50,
+      "description": "Eikthyrdeer's exclusive skill. Charges at foes and uses antlers to launch them into the air. If used while riding, the direction of the charge can be controlled.\n"
+    },
+    {
+      "level": 15,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_cannon",
+      "type": "ground",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 40,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    }
+  ]
+}

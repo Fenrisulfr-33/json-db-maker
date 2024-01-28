@@ -1,0 +1,31 @@
+{
+  "_id": 43,
+  "name": "Dumud",
+  "types": [
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "watering",
+      "level": 1
+    },
+    {
+      "type": "mining",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "raw_dumud",
+    "high_quality_pal_oil"
+  ],
+  "aura": {
+    "name": "soil_improver",
+    "description": "While in team, increases attack power of Ground Pals."
+  },
+  "description": "When too relaxed, its reaction time drastically declines.\nEven if it were sliced from head to tail, it probably wouldn't even realize that it should be dead until the next morning.",
+  "skills": []
+}

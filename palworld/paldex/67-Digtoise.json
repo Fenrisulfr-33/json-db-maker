@@ -1,0 +1,80 @@
+{
+  "_id": 67,
+  "name": "Digtoise",
+  "types": [
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "mining",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "ore",
+    "high_quality_pal_oil"
+  ],
+  "aura": {
+    "name": "drill_crusher",
+    "description": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently."
+  },
+  "description": "A walking contradiction, possessing the strongest shell and the only drill capable of piercing it. \"Digtoise's Fable\" is a popular children's tale.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "shell_spin",
+      "type": "ground",
+      "cooldown": 9,
+      "power": 65,
+      "description": "Digtoise's exclusive skill. Moves while spinning its whole body at high speeds. Drills through enemies, dealing continuous damage.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_cannon",
+      "type": "ground",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    }
+  ]
+}

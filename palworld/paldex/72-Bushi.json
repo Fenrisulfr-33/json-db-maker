@@ -1,0 +1,96 @@
+{
+  "_id": 72,
+  "name": "Bushi",
+  "types": [
+    "fire"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 2
+    },
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 3
+    },
+    {
+      "type": "gathering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "bone",
+    "ingot"
+  ],
+  "aura": {
+    "name": "brandish_blade",
+    "description": "When activated, attacks targeted enemy with a powerful Iaigiri."
+  },
+  "description": "Its body becomes a blade upon death, to be taken up by the next generation. If someone other than a Bushi wields this blade, the soul within torments them until they are driven mad.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "iaigiri",
+      "type": "fire",
+      "cooldown": 9,
+      "power": 65,
+      "description": "Bushi's exclusive skill. After Holding the sword, he appears in front of the enemy in an instant and unleashes a Ultra-fast sword draw attack.\n"
+    },
+    {
+      "level": 30,
+      "name": "ignis_breath",
+      "type": "fire",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.\n"
+    },
+    {
+      "level": 40,
+      "name": "lightning_strike",
+      "type": "electric",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Acts as a lightning rod, calling down thunderbolts that electrocute the surrounding area.\n"
+    },
+    {
+      "level": 50,
+      "name": "ignis_rage",
+      "type": "fire",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "_id": 131,
+  "name": "Ice Kingpaca",
+  "types": [
+    "ice"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "cooling",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "wool",
+    "ice_organ"
+  ],
+  "aura": {
+    "name": "king_of_muscles",
+    "description": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity."
+  },
+  "description": "With a heart of ice, this Pal is terrible at expressing its emotions. A solitary individual is pitiable, seen as too clumsy in the eyes of Melpaca.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 7,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "kingly_slam",
+      "type": "neutral",
+      "cooldown": 21,
+      "power": 100,
+      "description": "Kingpaca's exclusive skill. Leaps high into the air before smashing into an enemy with its massive body.\n"
+    },
+    {
+      "level": 30,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 40,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    }
+  ]
+}

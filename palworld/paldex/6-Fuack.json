@@ -1,0 +1,88 @@
+{
+  "_id": 6,
+  "name": "Fuack",
+  "types": [
+    "water"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "watering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "leather",
+    "pal_fluids"
+  ],
+  "aura": {
+    "name": "surfing_slam",
+    "description": "When activated, Fuack body surfs towards an enemy and slams into them."
+  },
+  "description": "Using its own body water, this Pal can create waves anywhere. It body surfs when in a hurry, but the resulting speed often ends in a fatal collision.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "hydro_jet",
+      "type": "water",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a high speed ball of water at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 30,
+      "name": "bubble_blast",
+      "type": "water",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Fires numerous bubbles that slowly pursue an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "hydro_laser",
+      "type": "water",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
+    }
+  ]
+}

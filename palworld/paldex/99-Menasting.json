@@ -1,0 +1,85 @@
+{
+  "_id": 99,
+  "name": "Menasting",
+  "types": [
+    "dark",
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "lumbering",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "coal",
+    "venom_gland"
+  ],
+  "aura": {
+    "name": "steel_scorpion",
+    "description": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated."
+  },
+  "description": "Being made of pure energy, its insides are completely hollow. This Pal crams still-living prey into its hollow body, where it absorbs them. Hellish screams of pain can often be heard coming from inside this Pal.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "poison_blast",
+      "type": "dark",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_cannon",
+      "type": "ground",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

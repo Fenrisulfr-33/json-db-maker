@@ -1,0 +1,84 @@
+{
+  "_id": 88,
+  "name": "Reptyro",
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 3
+    },
+    {
+      "type": "mining",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "flame_organ"
+  ],
+  "aura": {
+    "name": "ore-loving_beast",
+    "description": "Can be ridden. Improves efficiency of mining ores while mounted."
+  },
+  "description": "Magma-like blood runs throughout its body. If a large amount of water is thrown on it, this water rapidly heats, causing an immense vapor explosion.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "stone_cannon",
+      "type": "ground",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "ignis_breath",
+      "type": "fire",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "volcanic_burst",
+      "type": "fire",
+      "cooldown": 45,
+      "power": 100,
+      "description": "Reptyro's exclusive skill. Raises its front legs before slamming them into the ground, causing volcanic eruptions under its enemies. It simultaneously bombards them with volcanic bombs from above.\n"
+    },
+    {
+      "level": 40,
+      "name": "ignis_rage",
+      "type": "fire",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
+    },
+    {
+      "level": 50,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    }
+  ]
+}

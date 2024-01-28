@@ -1,0 +1,79 @@
+{
+  "_id": 135,
+  "name": "Suzaku Aqua",
+  "types": [
+    "water"
+  ],
+  "suitability": [
+    {
+      "type": "watering",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "pal_fluids"
+  ],
+  "aura": {
+    "name": "wings_of_water",
+    "description": "Can be ridden as a flying mount. Enhances Water attacks while mounted."
+  },
+  "description": "It was once believed to usher in the rainy season. If there was a flood the previous year, people would relentlessly seek to cull its numbers, hoping to avert disaster in the coming year.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "hydro_jet",
+      "type": "water",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a high speed ball of water at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 15,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "hydro_laser",
+      "type": "water",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
+    }
+  ]
+}

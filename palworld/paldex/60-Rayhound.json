@@ -1,0 +1,79 @@
+{
+  "_id": 60,
+  "name": "Rayhound",
+  "types": [
+    "electric"
+  ],
+  "suitability": [
+    {
+      "type": "generating_function toLocaleLowerCase() { [native code] }",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "electric_organ"
+  ],
+  "aura": {
+    "name": "jumping_force",
+    "description": "Can be ridden. Can double jump while mounted."
+  },
+  "description": "At full speed, it could be mistaken for a bolt of lightning. If two Rayhounds collide, the sound is like that of a powerful thunderclap.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "shockwave",
+      "type": "electric",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Quickly discharges electricity, shocking those around it.\n"
+    },
+    {
+      "level": 15,
+      "name": "spark_blast",
+      "type": "electric",
+      "cooldown": 2,
+      "power": 30,
+      "description": "The user releases a lightning ball that expands outward in a forward, circular pattern.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 30,
+      "name": "electric_ball",
+      "type": "electric",
+      "cooldown": 9,
+      "power": 50,
+      "description": "Fires an electric ball that slowly pursues an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "lightning_streak",
+      "type": "electric",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Generates a lightning bolt that moves forward in a line.\n"
+    },
+    {
+      "level": 50,
+      "name": "lightning_bolt",
+      "type": "electric",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
+    }
+  ]
+}

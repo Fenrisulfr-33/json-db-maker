@@ -1,0 +1,89 @@
+{
+  "_id": 90,
+  "name": "Mammorest",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "high_quality_pal_oil",
+    "leather",
+    "mammorest_meat"
+  ],
+  "aura": {
+    "name": "gaia_crusher",
+    "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted."
+  },
+  "description": "The vegetation on its back varies between individuals. There is a long history of appreciating this veritable garden of a Pal, and there are even Mammorest pruning specialists.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "seed_machine_gun",
+      "type": "grass",
+      "cooldown": 9,
+      "power": 50,
+      "description": "Fires a volley of hard seeds at enemies in front of it.\n"
+    },
+    {
+      "level": 15,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 22,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "earth_impact",
+      "type": "ground",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Mammorest's exclusive skill. Uses massive body to shake the earth, dealing damage over a wide area.\n"
+    },
+    {
+      "level": 40,
+      "name": "spine_vine",
+      "type": "grass",
+      "cooldown": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "_id": 48,
+  "name": "Robinquill",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 1
+    },
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 1
+    },
+    {
+      "type": "medicine_function toLocaleLowerCase() { [native code] }",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    },
+    {
+      "type": "gathering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "wheat_seeds",
+    "arrow"
+  ],
+  "aura": {
+    "name": "hawk_eye",
+    "description": "While fighting together, allows you to deal more damage to weak points."
+  },
+  "description": "A pal that is very similar to humans who hunt and live in the forests. It may prove to be a key for understanding what Pals are and how they diverged from humans so long ago.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "focus_shot",
+      "type": "grass",
+      "cooldown": 9,
+      "power": 65,
+      "description": "Robinquill's exclusive skill. Takes aim while drawing its bow before loosing a powerful shot at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "seed_mine",
+      "type": "grass",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.\n"
+    },
+    {
+      "level": 30,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "spine_vine",
+      "type": "grass",
+      "cooldown": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_id": 114,
+  "name": "Gobfin Ignis",
+  "types": [
+    "fire"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 2
+    },
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "flame_organ"
+  ],
+  "aura": {
+    "name": "angry_shark",
+    "description": "When activated, attacks targeted enemy with a powerful Spirit Fire. While in team, increases player's attack power."
+  },
+  "description": "Once upon a time, it was a giant and powerful aquatic Pal. However, with the dwindling availability of food, it ventured onto land. As a consequence of burning many calories to walk, it astonishingly awakened its power to control fire!",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "lightning_streak",
+      "type": "electric",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Generates a lightning bolt that moves forward in a line.\n"
+    },
+    {
+      "level": 40,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "ignis_rage",
+      "type": "fire",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
+    }
+  ]
+}

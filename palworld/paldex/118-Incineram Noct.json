@@ -1,0 +1,88 @@
+{
+  "_id": 118,
+  "name": "Incineram Noct",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "horn",
+    "leather"
+  ],
+  "aura": {
+    "name": "darkclaw_hunter",
+    "description": "When activated, attacks targeted enemy with a powerful Hellfire Claw."
+  },
+  "description": "It specifically targets baby pals, taking them back to its territory. One can only imagine the profound despair of the parent Pal, whose child has been taken away.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "hellfire_claw",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 70,
+      "description": "Incineram's exclusive skill. Draws near enemies using its left claw to slash them into the air before cutting them down with its right claw.\n"
+    },
+    {
+      "level": 30,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 40,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "ignis_rage",
+      "type": "fire",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
+    }
+  ]
+}

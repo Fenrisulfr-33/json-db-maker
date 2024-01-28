@@ -1,0 +1,80 @@
+{
+  "_id": 97,
+  "name": "Helzephyr",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "transporting",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "venom_gland",
+    "medium_pal_soul"
+  ],
+  "aura": {
+    "name": "wings_of_death",
+    "description": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted."
+  },
+  "description": "It calls forth lightning from the depths of hell. One who dies from Helzephyr's inferno is sure to be sent to the underworld.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 7,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "flare_storm",
+      "type": "fire",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two flaming tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

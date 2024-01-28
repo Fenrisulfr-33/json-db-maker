@@ -1,0 +1,83 @@
+{
+  "_id": 84,
+  "name": "Blazehowl",
+  "types": [
+    "fire"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 3
+    },
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "flame_organ"
+  ],
+  "aura": {
+    "name": "hellflame_lion",
+    "description": "Can be ridden. While fighting together, Grass Pals drop more items when defeated."
+  },
+  "description": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapon—it simply doesn't realize its prey gets burned to a crisp.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "ignis_breath",
+      "type": "fire",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "ignis_rage",
+      "type": "fire",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
+    },
+    {
+      "level": 40,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

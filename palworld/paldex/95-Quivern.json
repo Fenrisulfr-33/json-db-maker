@@ -1,0 +1,91 @@
+{
+  "_id": 95,
+  "name": "Quivern",
+  "types": [
+    "dragon"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 3
+    },
+    {
+      "type": "gathering",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "high_quality_pal_oil"
+  ],
+  "aura": {
+    "name": "sky_dragon's_affection",
+    "description": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted."
+  },
+  "description": "Sleeping while cuddling a Quivern is said to be a heavenly experience, but there are some who have been crushed and sent to heaven by ones that toss and turn in their sleep.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "acid_rain",
+      "type": "water",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.\n"
+    },
+    {
+      "level": 22,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 30,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

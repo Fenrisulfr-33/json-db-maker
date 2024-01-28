@@ -1,0 +1,89 @@
+{
+  "_id": 75,
+  "name": "Katress",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "medicine_function toLocaleLowerCase() { [native code] }",
+      "level": 2
+    },
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "leather",
+    "katress_hair",
+    "high_grade_technical_manual"
+  ],
+  "aura": {
+    "name": "grimoire_collector",
+    "description": "While fighting together, Neutral Pals drop more items when defeated."
+  },
+  "description": "With the power of shadows it produces arcane phenomena. It prefers to eat food raw and is particularly hostile towards Wixen",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 30,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

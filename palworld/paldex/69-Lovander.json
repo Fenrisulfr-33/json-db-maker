@@ -1,0 +1,94 @@
+{
+  "_id": 69,
+  "name": "Lovander",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "medicine_function toLocaleLowerCase() { [native code] }",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "mushroom",
+    "cake",
+    "suspicious_juice",
+    "strange_juice"
+  ],
+  "aura": {
+    "name": "heart_drain",
+    "description": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP."
+  },
+  "description": "Seeking a night of love, it is always chasing someone around. At first, it only showed interest in other Pals, but in recent years even humans have become the target of its debauchery.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 7,
+      "name": "poison_blast",
+      "type": "dark",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "acid_rain",
+      "type": "water",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.\n"
+    },
+    {
+      "level": 30,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 40,
+      "name": "implode",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 180,
+      "description": "Risks its life to cause a violent explosion. Becomes incapacitated afterwards.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "_id": 91,
+  "name": "Wumpo",
+  "types": [
+    "ice"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 3
+    },
+    {
+      "type": "cooling",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 4
+    }
+  ],
+  "drops": [
+    "ice_organ",
+    "beautiful_flower"
+  ],
+  "aura": {
+    "name": "guardian_of_the_snowy_mountain",
+    "description": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player's max carrying capacity."
+  },
+  "description": "Researchers once tried to shave off its hair to reveal its true form. In the end, only hair was left, as if that was all there was to begin with.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 7,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

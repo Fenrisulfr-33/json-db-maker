@@ -1,0 +1,80 @@
+{
+  "_id": 93,
+  "name": "Fenglope",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "leather",
+    "horn"
+  ],
+  "aura": {
+    "name": "wind_and_clouds",
+    "description": "Can be ridden. Can double jump while mounted."
+  },
+  "description": "In ancient times, it was a familiar subject for painting because of its beautiful and majestic appearance. Fenglope is an endangered species, the \"Fenglope\" whose beautiful fur and horns are much sought after by poachers!",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "cloud_tempest",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 90,
+      "description": "Fenglope's exclusive skill. Charges forward while manipulating the atmosphere to create a pressurized wind tunnel around itself.\n"
+    },
+    {
+      "level": 22,
+      "name": "acid_rain",
+      "type": "water",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.\n"
+    },
+    {
+      "level": 30,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

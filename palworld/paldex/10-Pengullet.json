@@ -1,0 +1,93 @@
+{
+  "_id": 10,
+  "name": "Pengullet",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "watering",
+      "level": 1
+    },
+    {
+      "type": "cooling",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "ice_organ",
+    "pal_fluids"
+  ],
+  "aura": {
+    "name": "pengullet_cannon",
+    "description": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated."
+  },
+  "description": "The feathers of this Pal have all but disappeared, but sadly, its desire to fly has remained as strong as ever. Even now, it tries to fly again in any way it can.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 7,
+      "name": "hydro_jet",
+      "type": "water",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a high speed ball of water at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 30,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "hydro_laser",
+      "type": "water",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
+    }
+  ]
+}

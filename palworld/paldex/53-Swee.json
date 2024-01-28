@@ -1,0 +1,83 @@
+{
+  "_id": 53,
+  "name": "Swee",
+  "types": [
+    "ice"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "cooling",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "wool"
+  ],
+  "aura": {
+    "name": "fluffy",
+    "description": "While in team, Sweepa's stats will be increased."
+  },
+  "description": "Crawling along the ground, it eats microscopic organic matter.\nAfter a while, it discharges any substances that provide no nutrition.\nBy using it as a mop for cleaning, everyone wins!",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 15,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 30,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 50,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "_id": 76,
+  "name": "Wixen",
+  "types": [
+    "fire"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 2
+    },
+    {
+      "type": "handiwork",
+      "level": 3
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "flame_organ",
+    "high_grade_technical_manual"
+  ],
+  "aura": {
+    "name": "lord_fox",
+    "description": "When fighting together, applies Fire damage to the player's attacks."
+  },
+  "description": "With the power of light, it produces arcane phenomena. It prefers to eat food well-done and is particularly hostile towards Katress.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "flare_storm",
+      "type": "fire",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two flaming tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

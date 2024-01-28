@@ -1,0 +1,96 @@
+{
+  "_id": 78,
+  "name": "Vaelet",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 2
+    },
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "medicine_function toLocaleLowerCase() { [native code] }",
+      "level": 3
+    },
+    {
+      "type": "planting",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "low_grade_medical_supplies",
+    "tomato_seeds"
+  ],
+  "aura": {
+    "name": "purification_of_gaia",
+    "description": "While fighting together, Ground Pals drop more items when defeated."
+  },
+  "description": "The castle was filled with the king's favorite flowers. A great battle ensued, and flames approached the castle. Amidst the chaos, the spirit of a flower appeared.\n- From the fairy tale, The King's Flower.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "poison_fog",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 0,
+      "description": "Generates a fog of poison in front, causing the opponent to become poisoned.\n"
+    },
+    {
+      "level": 7,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "poison_blast",
+      "type": "dark",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "seed_mine",
+      "type": "grass",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.\n"
+    },
+    {
+      "level": 30,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

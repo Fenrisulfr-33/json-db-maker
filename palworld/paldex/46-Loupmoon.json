@@ -1,0 +1,79 @@
+{
+  "_id": 46,
+  "name": "Loupmoon",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "bone"
+  ],
+  "aura": {
+    "name": "claws_glistening_in_the_dark",
+    "description": "When activated, attacks targeted enemy with a powerful Jumping Claw."
+  },
+  "description": "The horns on its head grow under the moonlight. It doesn't hate the sun, but its horns itch when sunlight hits them.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "jumping_claw",
+      "type": "dark",
+      "cooldown": 7,
+      "power": 55,
+      "description": "Loupmoon's exclusive skill. Leaps forward and attacks twice with vicious claws imbued with dark energy.\n"
+    },
+    {
+      "level": 15,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 30,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

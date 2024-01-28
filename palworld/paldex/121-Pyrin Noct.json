@@ -1,0 +1,85 @@
+{
+  "_id": 121,
+  "name": "Pyrin Noct",
+  "types": [
+    "fire",
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "flame_organ",
+    "leather"
+  ],
+  "aura": {
+    "name": "black_hare",
+    "description": "Can be ridden. Applies Dark damage to the player's attacks while mounted."
+  },
+  "description": "It burns mysterious dark matter as energy and expels the remaining particles from its body.\nIf someone rides it, they should take care so as not to gallop down the path of darkness.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 15,
+      "name": "ignis_breath",
+      "type": "fire",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.\n"
+    },
+    {
+      "level": 22,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "dark_charge",
+      "type": "dark",
+      "cooldown": 14,
+      "power": 85,
+      "description": "Pyrin Noct's exclusive skill. Charges forward while clad in a veil of dark flames. Flames continue to burn in its trajectory.\n"
+    },
+    {
+      "level": 40,
+      "name": "ignis_rage",
+      "type": "fire",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "_id": 38,
+  "name": "Nitewing",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "leather"
+  ],
+  "aura": {
+    "name": "travel_companion",
+    "description": "Can be ridden as a flying mount."
+  },
+  "description": "It carries newborn Pals to its nest and raises them as a surrogate parent. \nOnce the baby Pal has fattened up, it hunts them.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "tornado_attack",
+      "type": "neutral",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Nitewing's exclusive skill. Generates a tornado before soaring towards its target.\n"
+    },
+    {
+      "level": 15,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 30,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

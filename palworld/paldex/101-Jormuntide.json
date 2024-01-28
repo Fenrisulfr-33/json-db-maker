@@ -1,0 +1,80 @@
+{
+  "_id": 101,
+  "name": "Jormuntide",
+  "types": [
+    "dragon",
+    "water"
+  ],
+  "suitability": [
+    {
+      "type": "watering",
+      "level": 4
+    }
+  ],
+  "drops": [
+    "pal_fluids"
+  ],
+  "aura": {
+    "name": "stormbringer_sea_dragon",
+    "description": "Can be ridden to travel on water. While mounted, prevents stamina depletion while moving over water."
+  },
+  "description": "Legends says the Jormuntide was once a wise man, who after being wrongly convicted and cast into a whirlpool, returned as this Pal to destroy those who wronged him.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 22,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "tri-lightning",
+      "type": "electric",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Generates lightning that strikes an enemy three times from above.\n"
+    },
+    {
+      "level": 40,
+      "name": "hydro_laser",
+      "type": "water",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

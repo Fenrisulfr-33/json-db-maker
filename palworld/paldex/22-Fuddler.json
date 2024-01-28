@@ -1,0 +1,87 @@
+{
+  "_id": 22,
+  "name": "Fuddler",
+  "types": [
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "mining",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "leather"
+  ],
+  "aura": {
+    "name": "ore_detector",
+    "description": "When activated, generates subtle vibrations to detect nearby ore."
+  },
+  "description": "Its large claws boast of diamond-like hardness. However, sharpening these claws consumes most of its energy, leading it to sometimes spending entire days doing nothing else.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_cannon",
+      "type": "ground",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 40,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    }
+  ]
+}

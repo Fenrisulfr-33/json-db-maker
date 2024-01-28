@@ -1,0 +1,79 @@
+{
+  "_id": 12,
+  "name": "Jolthog",
+  "types": [
+    "electric"
+  ],
+  "suitability": [
+    {
+      "type": "generating_function toLocaleLowerCase() { [native code] }",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "electric_organ"
+  ],
+  "aura": {
+    "name": "jolt_bomb",
+    "description": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact."
+  },
+  "description": "Releases the electricity stored in it's body when under attack, producing a shock that can be over 10 million volts. If thrown, it can even be more lethal than any conventional heavy weaponry.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "shockwave",
+      "type": "electric",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Quickly discharges electricity, shocking those around it.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "electric_ball",
+      "type": "electric",
+      "cooldown": 9,
+      "power": 50,
+      "description": "Fires an electric ball that slowly pursues an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 30,
+      "name": "tri-lightning",
+      "type": "electric",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Generates lightning that strikes an enemy three times from above.\n"
+    },
+    {
+      "level": 40,
+      "name": "lightning_streak",
+      "type": "electric",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Generates a lightning bolt that moves forward in a line.\n"
+    },
+    {
+      "level": 50,
+      "name": "lightning_bolt",
+      "type": "electric",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
+    }
+  ]
+}

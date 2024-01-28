@@ -1,0 +1,89 @@
+{
+  "_id": 132,
+  "name": "Mammorest Cryst",
+  "types": [
+    "ice"
+  ],
+  "suitability": [
+    {
+      "type": "lumbering",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 2
+    },
+    {
+      "type": "cooling",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "high_quality_pal_oil",
+    "leather",
+    "mammorest_meat"
+  ],
+  "aura": {
+    "name": "ice_crusher",
+    "description": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted."
+  },
+  "description": "The vegetation on its back varies from individual to individual. There was a time when seeds of presumed extinct plants were found still frozen on the back of a Mammorest Cryst.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "stone_cannon",
+      "type": "ground",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 22,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "earth_impact",
+      "type": "ground",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Mammorest's exclusive skill. Uses massive body to shake the earth, dealing damage over a wide area.\n"
+    },
+    {
+      "level": 40,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 50,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    }
+  ]
+}

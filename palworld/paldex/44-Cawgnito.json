@@ -1,0 +1,81 @@
+{
+  "_id": 44,
+  "name": "Cawgnito",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "lumbering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "bone",
+    "venom_gland",
+    "small_pal_soul"
+  ],
+  "aura": {
+    "name": "telepeck",
+    "description": "When activated, attacks targeted enemy with a powerful Phantom Peck."
+  },
+  "description": "Long ago it freely soared the skies. After losing a contest with Galeclaw, it abandoned the skies and now lives a quiet nocturnal life.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "phantom_peck",
+      "type": "dark",
+      "cooldown": 7,
+      "power": 55,
+      "description": "Cawnito's exclusive skill. Teleports next to an enemy before attacking with its beak.\n"
+    },
+    {
+      "level": 22,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 30,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "_id": 130,
+  "name": "Ice Reptyro",
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "mining",
+      "level": 3
+    },
+    {
+      "type": "cooling",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "ice_organ"
+  ],
+  "aura": {
+    "name": "ice-loving_beast",
+    "description": "Can be ridden. Improves efficiency of mining ores while mounted."
+  },
+  "description": "Ice cold blood runs throughout its body. If heated rapidly, its blood evaporates, causing an immense vapor explosion.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 7,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "frost_burst",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 100,
+      "description": "Ice Reptyro's exclusive skill. Raises its front legs and slams them into the ground causing frozen blasts under its enemies. It simultaneously pounds them with snow balls from above.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    }
+  ]
+}

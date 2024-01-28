@@ -1,0 +1,82 @@
+{
+  "_id": 111,
+  "name": "Jetragon",
+  "types": [
+    "dragon"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "pure_quartz",
+    "polymer",
+    "carbon_fiber",
+    "diamond"
+  ],
+  "aura": {
+    "name": "aerial_missile",
+    "description": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted."
+  },
+  "description": "Look over the island of Palpagos from the ends of the sky.\nWhen the calamity awakens again, splitting the earth and setting the heavens on fire, he will destroy it with a glare of complete obliteration.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 7,
+      "name": "dragon_burst",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.\n"
+    },
+    {
+      "level": 15,
+      "name": "flare_storm",
+      "type": "fire",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two flaming tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 30,
+      "name": "beam_comet",
+      "type": "dark",
+      "cooldown": 50,
+      "power": 140,
+      "description": "Jetragon's exclusive skill. Flies at enemies on illuminated wings while firing innumerable beams. The beams explode on impact.\n"
+    },
+    {
+      "level": 40,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

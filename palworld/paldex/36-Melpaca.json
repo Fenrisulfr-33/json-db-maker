@@ -1,0 +1,80 @@
+{
+  "_id": 36,
+  "name": "Melpaca",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "farming",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "wool",
+    "leather"
+  ],
+  "aura": {
+    "name": "pacapaca_wool",
+    "description": "Can be ridden.\nSometimes drops Wool when assigned to Ranch."
+  },
+  "description": "Don't be fooled by its fluffy appearance. A hypersonic kick from one of its long legs may send you flying to the other side of the world.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "fluffy_tackle",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Melpaca's exclusive skill. Charges forward while clad in an aura of sublime adorableness.\n"
+    },
+    {
+      "level": 15,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 30,
+      "name": "shockwave",
+      "type": "electric",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Quickly discharges electricity, shocking those around it.\n"
+    },
+    {
+      "level": 40,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

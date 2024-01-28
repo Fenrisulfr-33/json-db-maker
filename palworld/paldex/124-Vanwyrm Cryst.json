@@ -1,0 +1,86 @@
+{
+  "_id": 124,
+  "name": "Vanwyrm Cryst",
+  "types": [
+    "ice",
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "cooling",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "bone",
+    "ice_organ",
+    "sapphire"
+  ],
+  "aura": {
+    "name": "aerial_marauder",
+    "description": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted."
+  },
+  "description": "The Melodies of a flute made from the exoskeleton of a Vanwyrm Cryst are said to cross whole mountain ranges. In ages past, such flutes were used to signal victory in a battle.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 15,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

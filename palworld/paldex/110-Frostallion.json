@@ -1,0 +1,80 @@
+{
+  "_id": 110,
+  "name": "Frostallion",
+  "types": [
+    "ice"
+  ],
+  "suitability": [
+    {
+      "type": "cooling",
+      "level": 4
+    }
+  ],
+  "drops": [
+    "ice_organ",
+    "diamond"
+  ],
+  "aura": {
+    "name": "ice_steed",
+    "description": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted."
+  },
+  "description": "Guardian deity of Palpagos Island, known as the Winter Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into an eternal winter.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 15,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "crystal_wing",
+      "type": "ice",
+      "cooldown": 24,
+      "power": 110,
+      "description": "Frostallion's exclusive skill. Dashes forward while creating frigid air around its wings, using them to slash enemies.\n"
+    },
+    {
+      "level": 40,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 50,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    }
+  ]
+}

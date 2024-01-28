@@ -1,0 +1,84 @@
+{
+  "_id": 109,
+  "name": "Necromus",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "mining",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "pal_metal_ingot",
+    "large_pal_soul"
+  ],
+  "aura": {
+    "name": "dark_knight_of_the_abyss",
+    "description": "Can be ridden. Can double jump while mounted."
+  },
+  "description": "Once he and Paladius were a single species.\nThey say it is the manifestation of negative feelings, but the depths of their eyes contain traces of compassion.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 7,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "twin_spears",
+      "type": "dark",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Necromus' exclusive skill. Clads its twin spears with vicious whirlwinds and charges forward, thrusting them one after the other.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

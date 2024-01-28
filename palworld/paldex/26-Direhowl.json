@@ -1,0 +1,81 @@
+{
+  "_id": 26,
+  "name": "Direhowl",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "leather",
+    "ruby",
+    "gold_coin"
+  ],
+  "aura": {
+    "name": "direhowl_rider",
+    "description": "Can be ridden.\nMoves slightly faster than most mounts."
+  },
+  "description": "Long ago Direhowl would hunt alongside humans but over the years this bond faded.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "fierce_fang",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 45,
+      "description": "Direhowl's special skill. Swiftly leaps at an enemy and bites into them.\n"
+    },
+    {
+      "level": 7,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 30,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_id": 63,
+  "name": "Lunaris",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "handiwork",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "paldium_fragment"
+  ],
+  "aura": {
+    "name": "antigravity",
+    "description": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity."
+  },
+  "description": "It can control those who carelessly stare into its eyes. Those seen with a Lunaris are in its mind, simply under its control.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "plasma_tornado",
+      "type": "electric",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Creates two balls of electric energy that fire numerous bolts of lightning at enemies.\n"
+    },
+    {
+      "level": 30,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

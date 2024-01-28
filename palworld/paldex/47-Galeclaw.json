@@ -1,0 +1,80 @@
+{
+  "_id": 47,
+  "name": "Galeclaw",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "galeclaw_poultry",
+    "leather"
+  ],
+  "aura": {
+    "name": "galeclaw_rider",
+    "description": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal."
+  },
+  "description": "A Pal that can easily take flight even while grasping a human.\n It is, however, prone to letting go when tired, which has led to the sudden demise of more than a few souls.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "gale_claw",
+      "type": "neutral",
+      "cooldown": 8,
+      "power": 60,
+      "description": "Galeclaw's exclusive skill. Soars through the air with its talons outstretched forward.\n"
+    },
+    {
+      "level": 7,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 15,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

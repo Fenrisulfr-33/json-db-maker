@@ -1,0 +1,88 @@
+{
+  "_id": 1,
+  "name": "Lamball",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "farming",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "wool",
+    "lamball_mutton"
+  ],
+  "aura": {
+    "name": "fluffy_shield",
+    "description": "When activated, equips to the player and becomes a shield.\nSometimes drops Wool when assigned to Ranch."
+  },
+  "description": "A walk up a hill tends to end with this Pal tumbling back down. This causes it to become dizzy and unable to move, making it easy to capture and kill. As a result, this pal has tumbled down to the very bottom of the food chain itself.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "roly_poly",
+      "type": "neutral",
+      "cooldown": 1,
+      "power": 35,
+      "description": "Lamball's special skill. Curls into a ball, rolling after any enemies in its way. Becomes dizzy and unable to move after the attack ends.\n"
+    },
+    {
+      "level": 7,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 15,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 22,
+      "name": "implode",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 180,
+      "description": "Risks its life to cause a violent explosion. Becomes incapacitated afterwards.\n"
+    },
+    {
+      "level": 30,
+      "name": "electric_ball",
+      "type": "electric",
+      "cooldown": 9,
+      "power": 50,
+      "description": "Fires an electric ball that slowly pursues an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

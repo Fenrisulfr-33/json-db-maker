@@ -1,0 +1,80 @@
+{
+  "_id": 126,
+  "name": "Kelpsea Ignis",
+  "types": [
+    "fire"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "raw_kelpsea",
+    "flame_organ"
+  ],
+  "aura": {
+    "name": "lava_spout",
+    "description": "While in team, increases attack power of Fire Pals."
+  },
+  "description": "Their personalities change depending on the temperature of the water where they were born. Kelpsea born in warm waters generally have a passionate, motivated personality.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "dragon_burst",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.\n"
+    },
+    {
+      "level": 40,
+      "name": "ignis_breath",
+      "type": "fire",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Shoots flames at an enemy, dealing continuous damage.\n"
+    },
+    {
+      "level": 50,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    }
+  ]
+}

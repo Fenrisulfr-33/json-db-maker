@@ -1,0 +1,83 @@
+{
+  "_id": 23,
+  "name": "Killamari",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "transporting",
+      "level": 2
+    },
+    {
+      "type": "gathering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "venom_gland"
+  ],
+  "aura": {
+    "name": "fried_squid",
+    "description": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding."
+  },
+  "description": "It wraps itself around an enemy's head, sucking out their insides. Pal mummies are occasionally found, but these are in fact Killamari victims.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "hydro_jet",
+      "type": "water",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a high speed ball of water at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "poison_blast",
+      "type": "dark",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls poison sludge at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 30,
+      "name": "acid_rain",
+      "type": "water",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

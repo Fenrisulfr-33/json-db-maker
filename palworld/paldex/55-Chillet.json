@@ -1,0 +1,84 @@
+{
+  "_id": 55,
+  "name": "Chillet",
+  "types": [
+    "ice",
+    "dragon"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "cooling",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "leather"
+  ],
+  "aura": {
+    "name": "wriggling_weasel",
+    "description": "Can be ridden.\nApplies Dragon Dragon damage to the player's attacks while mounted."
+  },
+  "description": "It can curl up its body and roll around at extremely high speeds.\nLong ago, people would tie bags of milk to domesticated Chillet as they grazed to produce butter using this spinning force.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "ice_missile",
+      "type": "ice",
+      "cooldown": 3,
+      "power": 30,
+      "description": "Creates ice lances in the air that fly towards enemies.\n"
+    },
+    {
+      "level": 7,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "dragon_burst",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 30,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 40,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

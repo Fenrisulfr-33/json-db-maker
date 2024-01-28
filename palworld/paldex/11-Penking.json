@@ -1,0 +1,97 @@
+{
+  "_id": 11,
+  "name": "Penking",
+  "types": [
+    "water",
+    "ice"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    },
+    {
+      "type": "watering",
+      "level": 2
+    },
+    {
+      "type": "mining",
+      "level": 2
+    },
+    {
+      "type": "cooling",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "ice_organ",
+    "penking_plume"
+  ],
+  "aura": {
+    "name": "brave_sailor",
+    "description": "When fighting together, Fire Pals drop more items when defeated."
+  },
+  "description": "Surprisingly, it is unrelated to Pengullet. Ever wanting to be the center of attention, this Pal will strut its stuff for any onlookers.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "iceberg",
+      "type": "ice",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Summons a sharp ice lance under an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "emperor_slide",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 70,
+      "description": "Penking's exclusive skill. Lies on its belly while generating frozen air all around it before sliding at enemies at high speed.\n"
+    },
+    {
+      "level": 22,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "hydro_laser",
+      "type": "water",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
+    }
+  ]
+}

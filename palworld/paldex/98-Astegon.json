@@ -1,0 +1,85 @@
+{
+  "_id": 98,
+  "name": "Astegon",
+  "types": [
+    "dragon",
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "mining",
+      "level": 4
+    }
+  ],
+  "drops": [
+    "pal_metal_ingot",
+    "pure_quartz"
+  ],
+  "aura": {
+    "name": "black_anklyosaur",
+    "description": "Can be ridden a flying mount. Increases damage dealt to ore while mounted."
+  },
+  "description": "A savage beast born of the abyss. Thou shall not stand before the beast. Thou shall not heed the beast.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "dragon_burst",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 40,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

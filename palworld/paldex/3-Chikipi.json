@@ -1,0 +1,84 @@
+{
+  "_id": 3,
+  "name": "Chikipi",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "farming",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "egg",
+    "chikipi_poultry"
+  ],
+  "aura": {
+    "name": "egg_layer",
+    "description": "Sometimes lays an Egg when assigned to Ranch."
+  },
+  "description": "Extremely weak and far too delicious. It is one of the weakest Pal alongside Lamball. No matter how many are hunted, they just keep appearing.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "chicken_rush",
+      "type": "neutral",
+      "cooldown": 1,
+      "power": 30,
+      "description": "Chikipi's special skill. Flies at enemies in its sights, attacking them with its sharp beak.\n"
+    },
+    {
+      "level": 7,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 15,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 22,
+      "name": "implode",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 180,
+      "description": "Risks its life to cause a violent explosion. Becomes incapacitated afterwards.\n"
+    },
+    {
+      "level": 30,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "flare_storm",
+      "type": "fire",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two flaming tornadoes on either side before launching them at an enemy.\n"
+    }
+  ]
+}

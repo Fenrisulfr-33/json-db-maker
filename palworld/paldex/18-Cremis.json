@@ -1,0 +1,83 @@
+{
+  "_id": 18,
+  "name": "Cremis",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 1
+    },
+    {
+      "type": "farming",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "wool"
+  ],
+  "aura": {
+    "name": "fluffy_wool",
+    "description": "While in team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to Ranch."
+  },
+  "description": "Compared to Lamball, it has finer wool and a temperament more suited for domestication. However, it has historically been kept as a pet. Cuteness is considered a virtue.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "spark_blast",
+      "type": "electric",
+      "cooldown": 2,
+      "power": 30,
+      "description": "The user releases a lightning ball that expands outward in a forward, circular pattern.\n"
+    },
+    {
+      "level": 22,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 30,
+      "name": "shockwave",
+      "type": "electric",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Quickly discharges electricity, shocking those around it.\n"
+    },
+    {
+      "level": 40,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 50,
+      "name": "lightning_bolt",
+      "type": "electric",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
+    }
+  ]
+}

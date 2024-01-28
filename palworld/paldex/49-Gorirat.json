@@ -1,0 +1,88 @@
+{
+  "_id": 49,
+  "name": "Gorirat",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "lumbering",
+      "level": 2
+    },
+    {
+      "type": "transporting",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "leather",
+    "bone"
+  ],
+  "aura": {
+    "name": "full-power_gorilla_mode",
+    "description": "When activated, unleashes a primal fury that increases Gorirat's attack power."
+  },
+  "description": "It beats the ground rhythmically to communicate with its comrades. The meaning of each rhythm differs by troop, but the distinction between them is still largely unknown.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "ground_pound",
+      "type": "neutral",
+      "cooldown": 14,
+      "power": 85,
+      "description": "Gorilla's exclusive skill. Pounds the ground twice before leaping into the air and unleashing a powerful punch.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 30,
+      "name": "seed_machine_gun",
+      "type": "grass",
+      "cooldown": 9,
+      "power": 50,
+      "description": "Fires a volley of hard seeds at enemies in front of it.\n"
+    },
+    {
+      "level": 40,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}

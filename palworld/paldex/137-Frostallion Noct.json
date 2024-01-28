@@ -1,0 +1,80 @@
+{
+  "_id": 137,
+  "name": "Frostallion Noct",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 4
+    }
+  ],
+  "drops": [
+    "pure_quartz",
+    "large_pal_soul"
+  ],
+  "aura": {
+    "name": "black_steed",
+    "description": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted."
+  },
+  "description": "Guardian deity of Palpagos Island known as the Night Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into eternal darkness.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "spirit_flame",
+      "type": "dark",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Fires three balls of malice that relentlessly pursue an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "crystal_wing",
+      "type": "ice",
+      "cooldown": 24,
+      "power": 110,
+      "description": "Frostallion's exclusive skill. Dashes forward while creating frigid air around its wings, using them to slash enemies.\n"
+    },
+    {
+      "level": 40,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

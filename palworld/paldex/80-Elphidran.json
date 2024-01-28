@@ -1,0 +1,79 @@
+{
+  "_id": 80,
+  "name": "Elphidran",
+  "types": [
+    "dragon"
+  ],
+  "suitability": [
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "high_quality_pal_oil"
+  ],
+  "aura": {
+    "name": "amicable_holy_dragon",
+    "description": "Can be ridden as a flying mount.\n While fighting together, Dark Pals drop more items when defeated."
+  },
+  "description": "It possesses a demeanor as pure as its appearance suggests. Perhaps because of this, it is sometimes unable to discern good from evil, often allowing wrongdoers to take advantage of it.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "dragon_burst",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.\n"
+    },
+    {
+      "level": 15,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "mystic_whirlwind",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 70,
+      "description": "Elphidran's exclusive skill. Generates twin whirlwinds imbued with a mysterious power that pursues enemies.\n"
+    },
+    {
+      "level": 30,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 40,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

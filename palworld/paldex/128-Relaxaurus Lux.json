@@ -1,0 +1,86 @@
+{
+  "_id": 128,
+  "name": "Relaxaurus Lux",
+  "types": [
+    "dragon",
+    "electric"
+  ],
+  "suitability": [
+    {
+      "type": "transporting",
+      "level": 1
+    },
+    {
+      "type": "generating_function toLocaleLowerCase() { [native code] }",
+      "level": 3
+    }
+  ],
+  "drops": [
+    "high_quality_pal_oil",
+    "electric_organ",
+    "sapphire"
+  ],
+  "aura": {
+    "name": "missile_party",
+    "description": "Can be ridden. Can rapidly fire a missile launcher while mounted."
+  },
+  "description": "One day, Relaxaurus had an idea. Maybe it was about time for a change. Just then, an electric shock raced through its body!",
+  "skills": [
+    {
+      "level": 1,
+      "name": "spark_blast",
+      "type": "electric",
+      "cooldown": 2,
+      "power": 30,
+      "description": "The user releases a lightning ball that expands outward in a forward, circular pattern.\n"
+    },
+    {
+      "level": 7,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "shockwave",
+      "type": "electric",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Quickly discharges electricity, shocking those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "lightning_streak",
+      "type": "electric",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Generates a lightning bolt that moves forward in a line.\n"
+    },
+    {
+      "level": 30,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 40,
+      "name": "lightning_strike",
+      "type": "electric",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Acts as a lightning rod, calling down thunderbolts that electrocute the surrounding area.\n"
+    },
+    {
+      "level": 50,
+      "name": "lightning_bolt",
+      "type": "electric",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
+    }
+  ]
+}

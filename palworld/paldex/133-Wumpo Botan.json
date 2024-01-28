@@ -1,0 +1,93 @@
+{
+  "_id": 133,
+  "name": "Wumpo Botan",
+  "types": [
+    "grass"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 1
+    },
+    {
+      "type": "handiwork",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 3
+    },
+    {
+      "type": "transporting",
+      "level": 4
+    }
+  ],
+  "drops": [
+    "lettuce_seeds",
+    "tomato_seeds",
+    "beautiful_flower"
+  ],
+  "aura": {
+    "name": "guardian_of_the_grassy_fields",
+    "description": "Can be ridden. While in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity."
+  },
+  "description": "researchers once tried to cut the grass off its body to reveal its true form. In the end, only grass was left, as if that was all there was to begin with.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "seed_mine",
+      "type": "grass",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.\n"
+    },
+    {
+      "level": 22,
+      "name": "grass_tornado",
+      "type": "grass",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "spine_vine",
+      "type": "grass",
+      "cooldown": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.\n"
+    },
+    {
+      "level": 40,
+      "name": "aqua_burst",
+      "type": "water",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of water and hurls it at an enemy.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

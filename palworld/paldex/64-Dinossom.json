@@ -1,0 +1,84 @@
+{
+  "_id": 64,
+  "name": "Dinossom",
+  "types": [
+    "grass",
+    "dragon"
+  ],
+  "suitability": [
+    {
+      "type": "planting",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "wheat_seeds"
+  ],
+  "aura": {
+    "name": "fragrant_dragon",
+    "description": "Can be ridden.\nEnchances Grass attacks while mounted."
+  },
+  "description": "A Pal who once angered cannot be pacified. It rages on and on like an inferno. The prahse \"step on a Dinossom's tail\" has come to mean enraging someone.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "wind_cutter",
+      "type": "grass",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Fires a high speed blade of wind that flies straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "botanical_smash",
+      "type": "grass",
+      "cooldown": 8,
+      "power": 60,
+      "description": "Dinossom's exclusive skill. Uses large tail to smash the ground in front of it, damaging enemies over a wide area.\n"
+    },
+    {
+      "level": 15,
+      "name": "dragon_burst",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "seed_mine",
+      "type": "grass",
+      "cooldown": 13,
+      "power": 65,
+      "description": "Launches a deadly seed. If it hits an enemy, the seed explodes.\n"
+    },
+    {
+      "level": 30,
+      "name": "draconic_breath",
+      "type": "dragon",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Exhales breath imbued with draconic energy, dealing continuous damage to those in front of it.\n"
+    },
+    {
+      "level": 40,
+      "name": "spine_vine",
+      "type": "grass",
+      "cooldown": 25,
+      "power": 95,
+      "description": "Generates spiny thorns that chase an enemy along the ground, piercing them from below.\n"
+    },
+    {
+      "level": 50,
+      "name": "solar_blast",
+      "type": "grass",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges solar energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

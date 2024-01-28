@@ -1,0 +1,89 @@
+{
+  "_id": 100,
+  "name": "Anubis",
+  "types": [
+    "ground"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 4
+    },
+    {
+      "type": "mining",
+      "level": 3
+    },
+    {
+      "type": "transporting",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "bone",
+    "large_pal_soul",
+    "innovative_technical_manual"
+  ],
+  "aura": {
+    "name": "guardian_of_the_desert",
+    "description": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in a battle."
+  },
+  "description": "Once seen as a symbol of nobility, and an idol for those who shunned wealth and power. Yet over time, this Pal became a token of death.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 15,
+      "name": "sand_tornado",
+      "type": "ground",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Generates two sand tornadoes on either side before launching them at an enemy.\n"
+    },
+    {
+      "level": 22,
+      "name": "spinning_roundhouse",
+      "type": "ground",
+      "cooldown": 21,
+      "power": 100,
+      "description": "Anubis's special skill. Performs a spin kick with its strong legs, cutting down enemies over a wide area.\n"
+    },
+    {
+      "level": 30,
+      "name": "forceful_charge",
+      "type": "ground",
+      "cooldown": 28,
+      "power": 120,
+      "description": "Anubis's special skill. Pursues its foe with a high speed dash while releasing energy and unleashes a powerful punch.\n"
+    },
+    {
+      "level": 40,
+      "name": "ground_smash",
+      "type": "ground",
+      "cooldown": 35,
+      "power": 140,
+      "description": "Anubis's special skill. Leaps high into the air before diving to the ground with a punch. The force of the impact deals damage over a wide area.\n"
+    },
+    {
+      "level": 50,
+      "name": "rock_lance",
+      "type": "ground",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Generates a sharp rock spear under an enemy.\n"
+    }
+  ]
+}

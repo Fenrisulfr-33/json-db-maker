@@ -1,0 +1,84 @@
+{
+  "_id": 125,
+  "name": "Elphidran Aqua",
+  "types": [
+    "dragon",
+    "water"
+  ],
+  "suitability": [
+    {
+      "type": "watering",
+      "level": 3
+    },
+    {
+      "type": "lumbering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "high_quality_pal_oil"
+  ],
+  "aura": {
+    "name": "amicable_water_dragon",
+    "description": "Can be ridden as a flying mount.\nWhile fighting together, Fire Pals drop more items when defeated."
+  },
+  "description": "It possesses a demeanor as pure as its appearance suggests. Perhaps because of this, it harbors no ill will in any of its actions and is indifferent even after killing someone.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "aqua_gun",
+      "type": "water",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls a ball of water straight at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "dragon_cannon",
+      "type": "dragon",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls an energy ball imbued with draconic energy at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "dragon_burst",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges draconic energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "mystic_whirlwind",
+      "type": "dragon",
+      "cooldown": 10,
+      "power": 70,
+      "description": "Elphidran's exclusive skill. Generates twin whirlwinds imbued with a mysterious power that pursues enemies.\n"
+    },
+    {
+      "level": 30,
+      "name": "acid_rain",
+      "type": "water",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.\n"
+    },
+    {
+      "level": 40,
+      "name": "hydro_laser",
+      "type": "water",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Shoots pressurized water at extreme velocities, sweeping over a wide area in front of it.\n"
+    },
+    {
+      "level": 50,
+      "name": "dragon_meteor",
+      "type": "dragon",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
+    }
+  ]
+}

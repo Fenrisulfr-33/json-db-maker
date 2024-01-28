@@ -1,0 +1,84 @@
+{
+  "_id": 58,
+  "name": "Pyrin",
+  "types": [
+    "fire"
+  ],
+  "suitability": [
+    {
+      "type": "kindling",
+      "level": 2
+    },
+    {
+      "type": "lumbering",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "flame_organ",
+    "leather"
+  ],
+  "aura": {
+    "name": "red_hare",
+    "description": "Can be ridden. Applies Fire damage to the player's attacks while mounted."
+  },
+  "description": "It's entire body has evolved into a highly efficient radiator, gifting it with astounding stamina.\nWhen someone has mounted it, this Pal takes caution not to burn them.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "ignis_blast",
+      "type": "fire",
+      "cooldown": 2,
+      "power": 30,
+      "description": "Hurls a ball of fire straight at an enemy.\n"
+    },
+    {
+      "level": 15,
+      "name": "spirit_fire",
+      "type": "fire",
+      "cooldown": 7,
+      "power": 45,
+      "description": "Shoots fireballs towards an enemy. The fireballs explode after a short distance, generating smaller fireballs that spread forward.\n"
+    },
+    {
+      "level": 22,
+      "name": "flare_arrow",
+      "type": "fire",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires three flaming arrows in succession that home in on an enemy.\n"
+    },
+    {
+      "level": 30,
+      "name": "ignis_slam",
+      "type": "fire",
+      "cooldown": 14,
+      "power": 85,
+      "description": "Pyrin's exclusive skill. Charges forward while clad in a veil of flames. Flames continue to burn in its wake.\n"
+    },
+    {
+      "level": 40,
+      "name": "ignis_rage",
+      "type": "fire",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Energizes the surrounding ground, causing it to explode after a set amount of time.\n"
+    },
+    {
+      "level": 50,
+      "name": "fire_ball",
+      "type": "fire",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Creates a giant ball of flame and hurls it at an enemy. The ball explodes over a wide area upon impact.\n"
+    }
+  ]
+}

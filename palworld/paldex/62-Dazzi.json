@@ -1,0 +1,87 @@
+{
+  "_id": 62,
+  "name": "Dazzi",
+  "types": [
+    "electric"
+  ],
+  "suitability": [
+    {
+      "type": "generating_function toLocaleLowerCase() { [native code] }",
+      "level": 1
+    },
+    {
+      "type": "handiwork",
+      "level": 1
+    },
+    {
+      "type": "transporting",
+      "level": 1
+    }
+  ],
+  "drops": [
+    "electric_organ"
+  ],
+  "aura": {
+    "name": "lady_of_lightning",
+    "description": "While in team, appears near the player. Follows up player attacks with lightning bolts."
+  },
+  "description": "Often kind to lonely pals.\nHowever, the moment a Pal mistakes this for actual companionship, it seizes the opportunity to blast them with a thunderbolt.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "air_cannon",
+      "type": "neutral",
+      "cooldown": 2,
+      "power": 25,
+      "description": "Quickly fires a burst of highly pressurized air.\n"
+    },
+    {
+      "level": 7,
+      "name": "shockwave",
+      "type": "electric",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Quickly discharges electricity, shocking those around it.\n"
+    },
+    {
+      "level": 15,
+      "name": "acid_rain",
+      "type": "water",
+      "cooldown": 18,
+      "power": 80,
+      "description": "Creates acidic clouds that pour down acid rain on enemies.\n"
+    },
+    {
+      "level": 22,
+      "name": "lightning_streak",
+      "type": "electric",
+      "cooldown": 16,
+      "power": 75,
+      "description": "Generates a lightning bolt that moves forward in a line.\n"
+    },
+    {
+      "level": 30,
+      "name": "tri-lightning",
+      "type": "electric",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Generates lightning that strikes an enemy three times from above.\n"
+    },
+    {
+      "level": 40,
+      "name": "lightning_strike",
+      "type": "electric",
+      "cooldown": 40,
+      "power": 120,
+      "description": "Acts as a lightning rod, calling down thunderbolts that electrocute the surrounding area.\n"
+    },
+    {
+      "level": 50,
+      "name": "lightning_bolt",
+      "type": "electric",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges electric energy before blasting enemies with a powerful shock.\n"
+    }
+  ]
+}

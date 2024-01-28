@@ -1,0 +1,89 @@
+{
+  "_id": 136,
+  "name": "Lyleen Noct",
+  "types": [
+    "dark"
+  ],
+  "suitability": [
+    {
+      "type": "handiwork",
+      "level": 3
+    },
+    {
+      "type": "medicine_function toLocaleLowerCase() { [native code] }",
+      "level": 3
+    },
+    {
+      "type": "gathering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "low_grade_medical_supplies",
+    "beautiful_flower",
+    "innovative_technical_manual"
+  ],
+  "aura": {
+    "name": "goddess_of_the_tranquil_light",
+    "description": "When activated, the queen's soothing graces greatly restore the player's HP."
+  },
+  "description": "An elegant Pal full of grace. It admonishes any who are disrespectful with a painful slap. Some Pals actively seek out this punishment.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "dark_ball",
+      "type": "dark",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Unleashes a sphere of darkness that slowly tracks down the enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "icicle_cutter",
+      "type": "ice",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Creates a crescent blade of ice and hurls it forward.\n"
+    },
+    {
+      "level": 15,
+      "name": "shadow_burst",
+      "type": "dark",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Quickly discharges dark energy, damaging those around it.\n"
+    },
+    {
+      "level": 22,
+      "name": "cryst_breath",
+      "type": "ice",
+      "cooldown": 22,
+      "power": 90,
+      "description": "Enshrouds an enemy in a frigid blast of air, dealing continuous damage.\n"
+    },
+    {
+      "level": 30,
+      "name": "nightmare_ball",
+      "type": "dark",
+      "cooldown": 30,
+      "power": 100,
+      "description": "Creates a giant ball of darkness and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "blizzard_spike",
+      "type": "ice",
+      "cooldown": 45,
+      "power": 130,
+      "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
+    },
+    {
+      "level": 50,
+      "name": "dark_laser",
+      "type": "dark",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges dark energy before blasting enemies with a powerful beam.\n"
+    }
+  ]
+}

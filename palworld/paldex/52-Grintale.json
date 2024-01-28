@@ -1,0 +1,79 @@
+{
+  "_id": 52,
+  "name": "Grintale",
+  "types": [
+    "neutral"
+  ],
+  "suitability": [
+    {
+      "type": "gathering",
+      "level": 2
+    }
+  ],
+  "drops": [
+    "high_quality_pal_oil"
+  ],
+  "aura": {
+    "name": "plump_body",
+    "description": "Can be ridden. Enhances Neutral attacks while mounted."
+  },
+  "description": "Grintale's eyes light up the moment anyone enters its territory.\nThis is no figure of speech-its eyes literally light up.",
+  "skills": [
+    {
+      "level": 1,
+      "name": "sand_blast",
+      "type": "ground",
+      "cooldown": 4,
+      "power": 40,
+      "description": "Hurls sticky mud at an enemy.\n"
+    },
+    {
+      "level": 7,
+      "name": "power_shot",
+      "type": "neutral",
+      "cooldown": 4,
+      "power": 35,
+      "description": "Charges energy into a focused blast.\n"
+    },
+    {
+      "level": 15,
+      "name": "cat_press",
+      "type": "neutral",
+      "cooldown": 9,
+      "power": 60,
+      "description": "Grintale's exclusive skill. Grins menacingly before leaping into the air and smashing foes with its body.\n"
+    },
+    {
+      "level": 22,
+      "name": "stone_blast",
+      "type": "ground",
+      "cooldown": 10,
+      "power": 55,
+      "description": "Fires a barrage of stones forward.\n"
+    },
+    {
+      "level": 30,
+      "name": "stone_cannon",
+      "type": "ground",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Digs up a boulder and hurls it at an enemy.\n"
+    },
+    {
+      "level": 40,
+      "name": "power_bomb",
+      "type": "neutral",
+      "cooldown": 15,
+      "power": 70,
+      "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
+    },
+    {
+      "level": 50,
+      "name": "pal_blast",
+      "type": "neutral",
+      "cooldown": 55,
+      "power": 150,
+      "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"
+    }
+  ]
+}
