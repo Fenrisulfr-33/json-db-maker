@@ -1,5 +1,6 @@
 const fs = require("fs");
 const paldexPath = require("path").join(__dirname, "./paldex");
+const palBreedingObjs = require('./2024-01-29-pal-breeding-matrix.json');
 const paldexJoined = [];
 const errors = {};
 
@@ -7,6 +8,8 @@ require("fs")
   .readdirSync(paldexPath)
   .forEach(function (file) {
     const pal = require(`./paldex/${file}`);
+    const returnPal = pal;
+    pal.breeding = palBreedingObjs[pal.name];
     // TODO: Add a returnPalModel() function so it always returns the format we want it
     paldexJoined.push(pal);
   });
