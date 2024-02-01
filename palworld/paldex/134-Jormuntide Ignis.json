@@ -1,13 +1,30 @@
 {
   "_id": 134,
   "name": "Jormuntide Ignis",
+  "stats": {
+    "hp": 130,
+    "attack": {
+      "melee": 150,
+      "ranged": 130
+    },
+    "defense": 100,
+    "speed": {
+      "ride": 700,
+      "run": 525,
+      "walk": 175
+    },
+    "stamina": 100,
+    "support": 100,
+    "food": 7
+  },
   "types": [
     "dragon",
     "fire"
   ],
-  "suitability": [
+  "work": [
     {
       "type": "kindling",
+      "image": "/public/images/works/kindling.png",
       "level": 4
     }
   ],
@@ -15,10 +32,11 @@
     "high_quality_pal_oil",
     "flame_organ"
   ],
-  "aura": {
-    "name": "stormbringer_lava_dragon",
-    "description": "Can be ridden. Enhances Fire attacks while mounted."
-  },
+  "asset": "Umihebi_Fire",
+  "genus": "fish",
+  "rarity": 9,
+  "price": 9500,
+  "size": "xl",
   "description": "Legend says the Jormuntide Ignis was once a warrior who, after being wrongly convicted and cast into a volcano, returned as this Pal to destroy those who wronged him.",
   "skills": [
     {
@@ -77,5 +95,975 @@
       "power": 150,
       "description": "Calls down numerous small meteorites and launches them at an enemy.\n"
     }
-  ]
+  ],
+  "breeding": {
+    "parentId": 134,
+    "bredWith": {
+      "Lamball": {
+        "parentId": 1,
+        "child": {
+          "childName": "Dumud",
+          "childId": 43
+        }
+      },
+      "Cattiva": {
+        "parentId": 2,
+        "child": {
+          "childName": "Melpaca",
+          "childId": 36
+        }
+      },
+      "Chikipi": {
+        "parentId": 3,
+        "child": {
+          "childName": "Mozzarina",
+          "childId": 29
+        }
+      },
+      "Lifmunk": {
+        "parentId": 4,
+        "child": {
+          "childName": "Celaray",
+          "childId": 25
+        }
+      },
+      "Foxparks": {
+        "parentId": 5,
+        "child": {
+          "childName": "Broncherry",
+          "childId": 86
+        }
+      },
+      "Fuack": {
+        "parentId": 6,
+        "child": {
+          "childName": "Dinossom",
+          "childId": 64
+        }
+      },
+      "Sparkit": {
+        "parentId": 7,
+        "child": {
+          "childName": "Broncherry",
+          "childId": 86
+        }
+      },
+      "Tanzee": {
+        "parentId": 8,
+        "child": {
+          "childName": "Petallia",
+          "childId": 87
+        }
+      },
+      "Rooby": {
+        "parentId": 9,
+        "child": {
+          "childName": "Rayhound",
+          "childId": 60
+        }
+      },
+      "Pengullet": {
+        "parentId": 10,
+        "child": {
+          "childName": "Kitsun",
+          "childId": 61
+        }
+      },
+      "Penking": {
+        "parentId": 11,
+        "child": {
+          "childName": "Nitewing",
+          "childId": 38
+        }
+      },
+      "Jolthog": {
+        "parentId": 12,
+        "child": {
+          "childName": "Digtoise",
+          "childId": 67
+        }
+      },
+      "Jolthog Cryst": {
+        "parentId": 112,
+        "child": {
+          "childName": "Kitsun",
+          "childId": 61
+        }
+      },
+      "Gumoss": {
+        "parentId": 13,
+        "child": {
+          "childName": "Petallia",
+          "childId": 87
+        }
+      },
+      "Gumoss (Special)": {
+        "child": {
+          "childName": "Petallia",
+          "childId": 87
+        }
+      },
+      "Vixy": {
+        "parentId": 14,
+        "child": {
+          "childName": "Reindrix",
+          "childId": 59
+        }
+      },
+      "Hoocrates": {
+        "parentId": 15,
+        "child": {
+          "childName": "Digtoise",
+          "childId": 67
+        }
+      },
+      "Teafant": {
+        "parentId": 16,
+        "child": {
+          "childName": "Mozzarina",
+          "childId": 29
+        }
+      },
+      "Depresso": {
+        "parentId": 17,
+        "child": {
+          "childName": "Digtoise",
+          "childId": 67
+        }
+      },
+      "Cremis": {
+        "parentId": 18,
+        "child": {
+          "childName": "Melpaca",
+          "childId": 36
+        }
+      },
+      "Daedream": {
+        "parentId": 19,
+        "child": {
+          "childName": "Petallia",
+          "childId": 87
+        }
+      },
+      "Rushoar": {
+        "parentId": 20,
+        "child": {
+          "childName": "Blazehowl",
+          "childId": 84
+        }
+      },
+      "Nox": {
+        "parentId": 21,
+        "child": {
+          "childName": "Tombat",
+          "childId": 68
+        }
+      },
+      "Fuddler": {
+        "parentId": 22,
+        "child": {
+          "childName": "Foxcicle",
+          "childId": 57
+        }
+      },
+      "Killamari": {
+        "parentId": 23,
+        "child": {
+          "childName": "Chillet",
+          "childId": 55
+        }
+      },
+      "Mau": {
+        "parentId": 24,
+        "child": {
+          "childName": "Dumud",
+          "childId": 43
+        }
+      },
+      "Mau Cryst": {
+        "parentId": 113,
+        "child": {
+          "childName": "Reindrix",
+          "childId": 59
+        }
+      },
+      "Celaray": {
+        "parentId": 25,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Direhowl": {
+        "parentId": 26,
+        "child": {
+          "childName": "Univolt",
+          "childId": 56
+        }
+      },
+      "Tocotoco": {
+        "parentId": 27,
+        "child": {
+          "childName": "Kitsun",
+          "childId": 61
+        }
+      },
+      "Flopie": {
+        "parentId": 28,
+        "child": {
+          "childName": "Chillet",
+          "childId": 55
+        }
+      },
+      "Mozzarina": {
+        "parentId": 29,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Bristla": {
+        "parentId": 30,
+        "child": {
+          "childName": "Dinossom",
+          "childId": 64
+        }
+      },
+      "Gobfin": {
+        "parentId": 31,
+        "child": {
+          "childName": "Katress",
+          "childId": 75
+        }
+      },
+      "Gobfin Ignis": {
+        "parentId": 114,
+        "child": {
+          "childName": "Blazehowl",
+          "childId": 84
+        }
+      },
+      "Hangyu": {
+        "parentId": 32,
+        "child": {
+          "childName": "Celaray",
+          "childId": 25
+        }
+      },
+      "Hangyu Cryst": {
+        "parentId": 115,
+        "child": {
+          "childName": "Celaray",
+          "childId": 25
+        }
+      },
+      "Mossanda": {
+        "parentId": 33,
+        "child": {
+          "childName": "Ragnahawk",
+          "childId": 74
+        }
+      },
+      "Mossanda Lux": {
+        "parentId": 116,
+        "child": {
+          "childName": "Quivern",
+          "childId": 95
+        }
+      },
+      "Woolipop": {
+        "parentId": 34,
+        "child": {
+          "childName": "Tombat",
+          "childId": 68
+        }
+      },
+      "Caprity": {
+        "parentId": 35,
+        "child": {
+          "childName": "Bushi",
+          "childId": 72
+        }
+      },
+      "Melpaca": {
+        "parentId": 36,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Eikthyrdeer": {
+        "parentId": 37,
+        "child": {
+          "childName": "Bushi",
+          "childId": 72
+        }
+      },
+      "Eikthyrdeer Terra": {
+        "parentId": 117,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Nitewing": {
+        "parentId": 38,
+        "child": {
+          "childName": "Pyrin",
+          "childId": 58
+        }
+      },
+      "Ribunny": {
+        "parentId": 39,
+        "child": {
+          "childName": "Dinossom",
+          "childId": 64
+        }
+      },
+      "Incineram": {
+        "parentId": 40,
+        "child": {
+          "childName": "Sibelyx",
+          "childId": 79
+        }
+      },
+      "Incineram Noct": {
+        "parentId": 118,
+        "child": {
+          "childName": "Sibelyx",
+          "childId": 79
+        }
+      },
+      "Cinnamoth": {
+        "parentId": 41,
+        "child": {
+          "childName": "Sweepa",
+          "childId": 54
+        }
+      },
+      "Arsox": {
+        "parentId": 42,
+        "child": {
+          "childName": "Surfent",
+          "childId": 65
+        }
+      },
+      "Dumud": {
+        "parentId": 43,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Cawgnito": {
+        "parentId": 44,
+        "child": {
+          "childName": "Katress",
+          "childId": 75
+        }
+      },
+      "Leezpunk": {
+        "parentId": 45,
+        "child": {
+          "childName": "Blazehowl",
+          "childId": 84
+        }
+      },
+      "Leezpunk Ignis": {
+        "parentId": 119,
+        "child": {
+          "childName": "Rayhound",
+          "childId": 60
+        }
+      },
+      "Loupmoon": {
+        "parentId": 46,
+        "child": {
+          "childName": "Bushi",
+          "childId": 72
+        }
+      },
+      "Galeclaw": {
+        "parentId": 47,
+        "child": {
+          "childName": "Univolt",
+          "childId": 56
+        }
+      },
+      "Robinquill": {
+        "parentId": 48,
+        "child": {
+          "childName": "Vanwyrm",
+          "childId": 71
+        }
+      },
+      "Robinquill Terra": {
+        "parentId": 120,
+        "child": {
+          "childName": "Vanwyrm",
+          "childId": 71
+        }
+      },
+      "Gorirat": {
+        "parentId": 49,
+        "child": {
+          "childName": "Univolt",
+          "childId": 56
+        }
+      },
+      "Beegarde": {
+        "parentId": 50,
+        "child": {
+          "childName": "Katress",
+          "childId": 75
+        }
+      },
+      "Elizabee": {
+        "parentId": 51,
+        "child": {
+          "childName": "Reptyro",
+          "childId": 88
+        }
+      },
+      "Grintale": {
+        "parentId": 52,
+        "child": {
+          "childName": "Sweepa",
+          "childId": 54
+        }
+      },
+      "Swee": {
+        "parentId": 53,
+        "child": {
+          "childName": "Chillet",
+          "childId": 55
+        }
+      },
+      "Sweepa": {
+        "parentId": 54,
+        "child": {
+          "childName": "Pyrin",
+          "childId": 58
+        }
+      },
+      "Chillet": {
+        "parentId": 55,
+        "child": {
+          "childName": "Surfent",
+          "childId": 65
+        }
+      },
+      "Univolt": {
+        "parentId": 56,
+        "child": {
+          "childName": "Azurobe",
+          "childId": 82
+        }
+      },
+      "Foxcicle": {
+        "parentId": 57,
+        "child": {
+          "childName": "Elphidran",
+          "childId": 80
+        }
+      },
+      "Pyrin": {
+        "parentId": 58,
+        "child": {
+          "childName": "Warsect",
+          "childId": 92
+        }
+      },
+      "Pyrin Noct": {
+        "parentId": 121,
+        "child": {
+          "childName": "Relaxaurus",
+          "childId": 85
+        }
+      },
+      "Reindrix": {
+        "parentId": 59,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Rayhound": {
+        "parentId": 60,
+        "child": {
+          "childName": "Penking",
+          "childId": 11
+        }
+      },
+      "Kitsun": {
+        "parentId": 61,
+        "child": {
+          "childName": "Anubis",
+          "childId": 100
+        }
+      },
+      "Dazzi": {
+        "parentId": 62,
+        "child": {
+          "childName": "Foxcicle",
+          "childId": 57
+        }
+      },
+      "Lunaris": {
+        "parentId": 63,
+        "child": {
+          "childName": "Blazehowl",
+          "childId": 84
+        }
+      },
+      "Dinossom": {
+        "parentId": 64,
+        "child": {
+          "childName": "Anubis",
+          "childId": 100
+        }
+      },
+      "Dinossom Lux": {
+        "parentId": 122,
+        "child": {
+          "childName": "Surfent",
+          "childId": 65
+        }
+      },
+      "Surfent": {
+        "parentId": 65,
+        "child": {
+          "childName": "Mossanda",
+          "childId": 33
+        }
+      },
+      "Surfent Terra": {
+        "parentId": 123,
+        "child": {
+          "childName": "Mossanda",
+          "childId": 33
+        }
+      },
+      "Maraith": {
+        "parentId": 66,
+        "child": {
+          "childName": "Rayhound",
+          "childId": 60
+        }
+      },
+      "Digtoise": {
+        "parentId": 67,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Tombat": {
+        "parentId": 68,
+        "child": {
+          "childName": "Elphidran",
+          "childId": 80
+        }
+      },
+      "Lovander": {
+        "parentId": 69,
+        "child": {
+          "childName": "Bushi",
+          "childId": 72
+        }
+      },
+      "Flambelle": {
+        "parentId": 70,
+        "child": {
+          "childName": "Broncherry",
+          "childId": 86
+        }
+      },
+      "Vanwyrm": {
+        "parentId": 71,
+        "child": {
+          "childName": "Cinnamoth",
+          "childId": 41
+        }
+      },
+      "Vanwyrm Cryst": {
+        "parentId": 124,
+        "child": {
+          "childName": "Kingpaca",
+          "childId": 89
+        }
+      },
+      "Bushi": {
+        "parentId": 72,
+        "child": {
+          "childName": "Wumpo Botan",
+          "childId": 133
+        }
+      },
+      "Beakon": {
+        "parentId": 73,
+        "child": {
+          "childName": "Menasting",
+          "childId": 99
+        }
+      },
+      "Ragnahawk": {
+        "parentId": 74,
+        "child": {
+          "childName": "Quivern",
+          "childId": 95
+        }
+      },
+      "Katress": {
+        "parentId": 75,
+        "child": {
+          "childName": "Grintale",
+          "childId": 52
+        }
+      },
+      "Wixen": {
+        "parentId": 76,
+        "child": {
+          "childName": "Rayhound",
+          "childId": 60
+        }
+      },
+      "Verdash": {
+        "parentId": 77,
+        "child": {
+          "childName": "Vanwyrm",
+          "childId": 71
+        }
+      },
+      "Vaelet": {
+        "parentId": 78,
+        "child": {
+          "childName": "Univolt",
+          "childId": 56
+        }
+      },
+      "Sibelyx": {
+        "parentId": 79,
+        "child": {
+          "childName": "Ragnahawk",
+          "childId": 74
+        }
+      },
+      "Elphidran": {
+        "parentId": 80,
+        "child": {
+          "childName": "Mossanda",
+          "childId": 33
+        }
+      },
+      "Elphidran Aqua": {
+        "parentId": 125,
+        "child": {
+          "childName": "Nitewing",
+          "childId": 38
+        }
+      },
+      "Kelpsea": {
+        "parentId": 81,
+        "child": {
+          "childName": "Arsox",
+          "childId": 42
+        }
+      },
+      "Kelpsea Ignis": {
+        "parentId": 126,
+        "child": {
+          "childName": "Arsox",
+          "childId": 42
+        }
+      },
+      "Azurobe": {
+        "parentId": 82,
+        "child": {
+          "childName": "Sweepa",
+          "childId": 54
+        }
+      },
+      "Cryolinx": {
+        "parentId": 83,
+        "child": {
+          "childName": "Beakon",
+          "childId": 73
+        }
+      },
+      "Blazehowl": {
+        "parentId": 84,
+        "child": {
+          "childName": "Grintale",
+          "childId": 52
+        }
+      },
+      "Blazehowl Noct": {
+        "parentId": 127,
+        "child": {
+          "childName": "Cinnamoth",
+          "childId": 41
+        }
+      },
+      "Relaxaurus": {
+        "parentId": 85,
+        "child": {
+          "childName": "Mammorest",
+          "childId": 90
+        }
+      },
+      "Relaxaurus Lux": {
+        "parentId": 128,
+        "child": {
+          "childName": "Mammorest",
+          "childId": 90
+        }
+      },
+      "Broncherry": {
+        "parentId": 86,
+        "child": {
+          "childName": "Incineram",
+          "childId": 40
+        }
+      },
+      "Broncherry Aqua": {
+        "parentId": 129,
+        "child": {
+          "childName": "Anubis",
+          "childId": 100
+        }
+      },
+      "Petallia": {
+        "parentId": 87,
+        "child": {
+          "childName": "Elphidran",
+          "childId": 80
+        }
+      },
+      "Reptyro": {
+        "parentId": 88,
+        "child": {
+          "childName": "Reptyro",
+          "childId": 88
+        }
+      },
+      "Ice Reptyro": {
+        "parentId": 130,
+        "child": {
+          "childName": "Relaxaurus",
+          "childId": 85
+        }
+      },
+      "Kingpaca": {
+        "parentId": 89,
+        "child": {
+          "childName": "Ragnahawk",
+          "childId": 74
+        }
+      },
+      "Ice Kingpaca": {
+        "parentId": 131,
+        "child": {
+          "childName": "Ragnahawk",
+          "childId": 74
+        }
+      },
+      "Mammorest": {
+        "parentId": 90,
+        "child": {
+          "childName": "Jormuntide",
+          "childId": 101
+        }
+      },
+      "Mammorest Cryst": {
+        "parentId": 132,
+        "child": {
+          "childName": "Mammorest",
+          "childId": 90
+        }
+      },
+      "Wumpo": {
+        "parentId": 91,
+        "child": {
+          "childName": "Ragnahawk",
+          "childId": 74
+        }
+      },
+      "Wumpo Botan": {
+        "parentId": 133,
+        "child": {
+          "childName": "Sweepa",
+          "childId": 54
+        }
+      },
+      "Warsect": {
+        "parentId": 92,
+        "child": {
+          "childName": "Elizabee",
+          "childId": 51
+        }
+      },
+      "Fenglope": {
+        "parentId": 93,
+        "child": {
+          "childName": "Bushi",
+          "childId": 72
+        }
+      },
+      "Felbat": {
+        "parentId": 94,
+        "child": {
+          "childName": "Vanwyrm",
+          "childId": 71
+        }
+      },
+      "Quivern": {
+        "parentId": 95,
+        "child": {
+          "childName": "Elizabee",
+          "childId": 51
+        }
+      },
+      "Blazamut": {
+        "parentId": 96,
+        "child": {
+          "childName": "Astegon",
+          "childId": 98
+        }
+      },
+      "Helzephyr": {
+        "parentId": 97,
+        "child": {
+          "childName": "Menasting",
+          "childId": 99
+        }
+      },
+      "Astegon": {
+        "parentId": 98,
+        "child": {
+          "childName": "Beakon",
+          "childId": 73
+        }
+      },
+      "Menasting": {
+        "parentId": 99,
+        "child": {
+          "childName": "Relaxaurus",
+          "childId": 85
+        }
+      },
+      "Anubis": {
+        "parentId": 100,
+        "child": {
+          "childName": "Sibelyx",
+          "childId": 79
+        }
+      },
+      "Jormuntide": {
+        "parentId": 101,
+        "child": {
+          "childName": "Jormuntide",
+          "childId": 101
+        }
+      },
+      "Jormuntide Ignis": {
+        "parentId": 134,
+        "child": {
+          "childName": "Jormuntide Ignis",
+          "childId": 134
+        }
+      },
+      "Suzaku": {
+        "parentId": 102,
+        "child": {
+          "childName": "Helzephyr",
+          "childId": 97
+        }
+      },
+      "Suzaku Aqua": {
+        "parentId": 135,
+        "child": {
+          "childName": "Helzephyr",
+          "childId": 97
+        }
+      },
+      "Grizzbolt": {
+        "parentId": 103,
+        "child": {
+          "childName": "Menasting",
+          "childId": 99
+        }
+      },
+      "Lyleen": {
+        "parentId": 104,
+        "child": {
+          "childName": "Relaxaurus",
+          "childId": 85
+        }
+      },
+      "Lyleen Noct": {
+        "parentId": 136,
+        "child": {
+          "childName": "Menasting",
+          "childId": 99
+        }
+      },
+      "Faleris": {
+        "parentId": 105,
+        "child": {
+          "childName": "Warsect",
+          "childId": 92
+        }
+      },
+      "Orserk": {
+        "parentId": 106,
+        "child": {
+          "childName": "Beakon",
+          "childId": 73
+        }
+      },
+      "Shadowbeak": {
+        "parentId": 107,
+        "child": {
+          "childName": "Helzephyr",
+          "childId": 97
+        }
+      },
+      "Paladius": {
+        "parentId": 108,
+        "child": {
+          "childName": "Helzephyr",
+          "childId": 97
+        }
+      },
+      "Necromus": {
+        "parentId": 109,
+        "child": {
+          "childName": "Helzephyr",
+          "childId": 97
+        }
+      },
+      "Frostallion": {
+        "parentId": 110,
+        "child": {
+          "childName": "Beakon",
+          "childId": 73
+        }
+      },
+      "Frostallion Noct": {
+        "parentId": 137,
+        "child": {
+          "childName": "Beakon",
+          "childId": 73
+        }
+      },
+      "Jetragon": {
+        "parentId": 111,
+        "child": {
+          "childName": "Helzephyr",
+          "childId": 97
+        }
+      }
+    }
+  }
 }

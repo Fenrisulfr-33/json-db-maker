@@ -1,20 +1,39 @@
 {
   "_id": 39,
   "name": "Ribbuny",
+  "stats": {
+    "hp": 75,
+    "attack": {
+      "melee": 100,
+      "ranged": 65
+    },
+    "defense": 70,
+    "speed": {
+      "ride": 350,
+      "run": 245,
+      "walk": 100
+    },
+    "stamina": 100,
+    "support": 100,
+    "food": 2
+  },
   "types": [
     "neutral"
   ],
-  "suitability": [
+  "work": [
     {
       "type": "handiwork",
+      "image": "/public/images/works/handiwork.png",
       "level": 1
     },
     {
       "type": "transporting",
+      "image": "/public/images/works/transporting.png",
       "level": 1
     },
     {
       "type": "gathering",
+      "image": "/public/images/works/gathering.png",
       "level": 1
     }
   ],
@@ -22,10 +41,11 @@
     "leather",
     "beautiful_flower"
   ],
-  "aura": {
-    "name": "skilled_fingers",
-    "description": "While in team, increases attack power of Neutral Pals.\nWhile at base, increases work efficiency if working at Weapon Workbench."
-  },
+  "asset": "PinkRabbit",
+  "genus": "humanoid",
+  "rarity": 1,
+  "price": 1160,
+  "size": "xs",
   "description": "A Pal who's never without a bright smile. Occasionally, it gets its tentacles tied up in knots by Cattiva's pranks. During those moments, its expression changes into something altogether demonic.",
   "skills": [
     {

@@ -1,30 +1,11 @@
 const fs = require("fs");
-const paldex = require('./pals.json');
+const paldex = require('./2024-02-01-paldex.json');
+const { reformatPalObjectForDex } = require('./helperfunctions');
 
 const split = async (list, saveRoute) => {
     for (let i = 0; i < list.length; i++) {
         const item = list[i];
-        let saveDoc = null;
-        delete item.wiki;
-        delete item.imageWiki;
-        delete item.key;
-        delete item.image;
-        saveDoc = item;
-        saveDoc._id = item.id;
-        delete saveDoc.id;
-        const newDoc = {
-            _id: saveDoc._id,
-            name: saveDoc.name,
-            types: saveDoc.types,
-            suitability: saveDoc.suitability,
-            drops: saveDoc.drops,
-            aura: saveDoc.aura,
-            description: saveDoc.description,
-            skills: saveDoc.skills,
-
-        }
-        saveFile(newDoc, saveRoute);
-
+        saveFile(reformatPalObjectForDex(item), saveRoute);
     }
     console.log("Done splitting");
     return;
