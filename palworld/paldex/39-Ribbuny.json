@@ -1,5 +1,6 @@
 {
   "_id": 39,
+  "key": "039",
   "name": "Ribbuny",
   "stats": {
     "hp": 75,
@@ -17,30 +18,32 @@
     "support": 100,
     "food": 2
   },
-  "types": [
-    "neutral"
+  "type": [
+    "Neutral"
   ],
   "work": [
     {
-      "type": "handiwork",
-      "image": "/public/images/works/handiwork.png",
+      "type": "Handiwork",
       "level": 1
     },
     {
-      "type": "transporting",
-      "image": "/public/images/works/transporting.png",
+      "type": "Transporting",
       "level": 1
     },
     {
-      "type": "gathering",
-      "image": "/public/images/works/gathering.png",
+      "type": "Gathering",
       "level": 1
     }
   ],
   "drops": [
-    "leather",
-    "beautiful_flower"
+    "Leather",
+    "Beautiful Flower"
   ],
+  "ability": {
+    "name": "Skilled Fingers",
+    "description": "While in team, increases attack power of Neutral Pals.\nWhile at base, increases work efficiency if working at Weapon Workbench.",
+    "tech": null
+  },
   "asset": "PinkRabbit",
   "genus": "humanoid",
   "rarity": 1,
@@ -50,56 +53,56 @@
   "skills": [
     {
       "level": 1,
-      "name": "air_cannon",
-      "type": "neutral",
+      "name": "Air Cannon",
+      "type": "Neutral",
       "cooldown": 2,
       "power": 25,
       "description": "Quickly fires a burst of highly pressurized air.\n"
     },
     {
       "level": 7,
-      "name": "power_shot",
-      "type": "neutral",
+      "name": "Power Shot",
+      "type": "Neutral",
       "cooldown": 4,
       "power": 35,
       "description": "Charges energy into a focused blast.\n"
     },
     {
       "level": 15,
-      "name": "ice_missile",
-      "type": "ice",
+      "name": "Ice Missile",
+      "type": "Ice",
       "cooldown": 3,
       "power": 30,
       "description": "Creates ice lances in the air that fly towards enemies.\n"
     },
     {
       "level": 22,
-      "name": "blizzard_spike",
-      "type": "ice",
+      "name": "Blizzard Spike",
+      "type": "Ice",
       "cooldown": 45,
       "power": 130,
       "description": "Creates a giant lump of ice and hurls it at an enemy. It deals damage to those in the surrounding area upon impact.\n"
     },
     {
       "level": 30,
-      "name": "power_bomb",
-      "type": "neutral",
+      "name": "Power Bomb",
+      "type": "Neutral",
       "cooldown": 15,
       "power": 70,
       "description": "Charges a massive amount of energy before firing a large destructive ball.\n"
     },
     {
       "level": 40,
-      "name": "iceberg",
-      "type": "ice",
+      "name": "Iceberg",
+      "type": "Ice",
       "cooldown": 15,
       "power": 70,
       "description": "Summons a sharp ice lance under an enemy.\n"
     },
     {
       "level": 50,
-      "name": "pal_blast",
-      "type": "neutral",
+      "name": "Pal Blast",
+      "type": "Neutral",
       "cooldown": 55,
       "power": 150,
       "description": "Charges destructive energy before firing a high-powered beam forward across a wide area.\n"

@@ -3,14 +3,14 @@ const paldexPath = require("path").join(__dirname, "./paldex");
 const palBreedingObjs = require('./2024-01-29-pal-breeding-matrix.json');
 const paldexJoined = [];
 const errors = {};
-const { reformatPalObjectForDex } = require('./helperfunctions');
+const { reformatPalObjectForJoin } = require('./helperfunctions');
 
 require("fs")
   .readdirSync(paldexPath)
   .forEach(function (file) {
     const pal = require(`./paldex/${file}`);
     pal.breeding = palBreedingObjs[pal.name];
-    paldexJoined.push(reformatPalObjectForDex(pal));
+    paldexJoined.push(reformatPalObjectForJoin(pal));
   });
 // Sort paldex before saving.
 const paldexSorted = paldexJoined.sort((palA, palB) => {

@@ -1,5 +1,5 @@
 const { MongoClient } = require("mongodb");
-const paldex = require("./2024-01-29-paldex.json");
+const paldex = require("./2024-02-02-paldex.json");
 const { PALWOLRD_URI } = require("./CONSTANTS");
 const client = new MongoClient(PALWOLRD_URI);
 

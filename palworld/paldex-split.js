@@ -1,11 +1,11 @@
 const fs = require("fs");
-const paldex = require('./2024-02-01-paldex.json');
-const { reformatPalObjectForDex } = require('./helperfunctions');
+const paldex = require('./pals.json');
+const { reformatPalObjectForSplit } = require('./helperfunctions');
 
 const split = async (list, saveRoute) => {
     for (let i = 0; i < list.length; i++) {
         const item = list[i];
-        saveFile(reformatPalObjectForDex(item), saveRoute);
+        saveFile(reformatPalObjectForSplit(item), saveRoute);
     }
     console.log("Done splitting");
     return;
