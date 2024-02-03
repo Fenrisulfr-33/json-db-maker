@@ -75,8 +75,28 @@ const formatStringForRead = (word) => {
         return word[0].toUpperCase() + word.slice(1);
     }
 }
+const reformatPalBreedingObjToArray = (pal, palName) => {
+    // console.log('pal', pal);
+    if (!pal || !pal.bredWith) {
+        console.log('palName', palName);
+    }
+    const breedingObject = pal.bredWith;
+    const palBreedingArray = [];
+    for (const bredPal in breedingObject){
+        const parentPal = breedingObject[bredPal];
+        
+        palBreedingArray.push({
+            parentName: bredPal,
+            parentId: parentPal.parentId,
+            childName: parentPal.child.childName,
+            childId: parentPal.child.childId,
+        })
+    }
+    return palBreedingArray;
+}
 
 module.exports = {
     reformatPalObjectForJoin,
     reformatPalObjectForSplit,
+    reformatPalBreedingObjToArray,
 }
