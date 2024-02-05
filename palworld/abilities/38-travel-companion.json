@@ -1,0 +1,12 @@
+{
+  "_id": 38,
+  "key": "travel-companion",
+  "name": "Travel Companion",
+  "desc": "Can be ridden as a flying mount.",
+  "palsThatHave": [
+    {
+      "id": 38,
+      "palName": "Nitewing"
+    }
+  ]
+}

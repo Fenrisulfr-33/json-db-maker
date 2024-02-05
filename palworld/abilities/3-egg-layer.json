@@ -1,0 +1,12 @@
+{
+  "_id": 3,
+  "key": "egg-layer",
+  "name": "Egg Layer",
+  "desc": "Sometimes lays an Egg when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 3,
+      "palName": "Chikipi"
+    }
+  ]
+}

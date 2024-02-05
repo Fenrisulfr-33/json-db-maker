@@ -1,0 +1,12 @@
+{
+  "_id": 5,
+  "key": "huggy-fire",
+  "name": "Huggy Fire",
+  "desc": "When activated, equips to the player and transforms into a flamethrower.",
+  "palsThatHave": [
+    {
+      "id": 5,
+      "palName": "Foxparks"
+    }
+  ]
+}

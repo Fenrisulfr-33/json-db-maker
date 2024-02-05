@@ -1,0 +1,12 @@
+{
+  "_id": 14,
+  "key": "dig-here!",
+  "name": "Dig Here!",
+  "desc": "Sometimes digs up items from the ground when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 14,
+      "palName": "Vixy"
+    }
+  ]
+}

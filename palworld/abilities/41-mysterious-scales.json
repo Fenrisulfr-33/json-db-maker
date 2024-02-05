@@ -1,0 +1,12 @@
+{
+  "_id": 41,
+  "key": "mysterious-scales",
+  "name": "Mysterious Scales",
+  "desc": "When activated, attacks target enemy with Poison Fog.",
+  "palsThatHave": [
+    {
+      "id": 41,
+      "palName": "Cinnamoth"
+    }
+  ]
+}

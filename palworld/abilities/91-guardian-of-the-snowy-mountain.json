@@ -1,0 +1,12 @@
+{
+  "_id": 91,
+  "key": "guardian-of-the-snowy-mountain",
+  "name": "Guardian Of The Snowy Mountain",
+  "desc": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player's max carrying capacity.",
+  "palsThatHave": [
+    {
+      "id": 91,
+      "palName": "Wumpo"
+    }
+  ]
+}

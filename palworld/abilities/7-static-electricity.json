@@ -1,0 +1,12 @@
+{
+  "_id": 7,
+  "key": "static-electricity",
+  "name": "Static Electricity",
+  "desc": "While in team, increases attack power of Electric Pals.",
+  "palsThatHave": [
+    {
+      "id": 7,
+      "palName": "Sparkit"
+    }
+  ]
+}

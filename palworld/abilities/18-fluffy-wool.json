@@ -1,0 +1,12 @@
+{
+  "_id": 18,
+  "key": "fluffy-wool",
+  "name": "Fluffy Wool",
+  "desc": "While in team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 18,
+      "palName": "Cremis"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 127,
+  "key": "darkflame-lion",
+  "name": "Darkflame Lion",
+  "desc": "Can be ridden. While fighting together, Neutral Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 127,
+      "palName": "Blazehowl Noct"
+    }
+  ]
+}

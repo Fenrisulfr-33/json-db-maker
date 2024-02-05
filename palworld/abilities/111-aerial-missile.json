@@ -1,0 +1,12 @@
+{
+  "_id": 111,
+  "key": "aerial-missile",
+  "name": "Aerial Missile",
+  "desc": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted.",
+  "palsThatHave": [
+    {
+      "id": 111,
+      "palName": "Jetragon"
+    }
+  ]
+}

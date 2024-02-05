@@ -1,0 +1,12 @@
+{
+  "_id": 122,
+  "key": "thunder-dragon",
+  "name": "Thunder Dragon",
+  "desc": "Can be ridden. Enhances Electric attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 122,
+      "palName": "Dinossom Lux"
+    }
+  ]
+}

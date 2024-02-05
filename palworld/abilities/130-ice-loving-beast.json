@@ -1,0 +1,12 @@
+{
+  "_id": 130,
+  "key": "ice-loving-beast",
+  "name": "Ice-loving Beast",
+  "desc": "Can be ridden. Improves efficiency of mining ores while mounted.",
+  "palsThatHave": [
+    {
+      "id": 130,
+      "palName": "Ice Reptyro"
+    }
+  ]
+}

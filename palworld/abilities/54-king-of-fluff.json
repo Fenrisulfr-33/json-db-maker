@@ -1,0 +1,12 @@
+{
+  "_id": 54,
+  "key": "king-of-fluff",
+  "name": "King Of Fluff",
+  "desc": "While fighting together, stats will increase the more Swee are in your team.",
+  "palsThatHave": [
+    {
+      "id": 54,
+      "palName": "Sweepa"
+    }
+  ]
+}

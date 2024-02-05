@@ -1,0 +1,12 @@
+{
+  "_id": 59,
+  "key": "cool-body",
+  "name": "Cool Body",
+  "desc": "Can be ridden.\nKeeps the rider cool in hot environments.",
+  "palsThatHave": [
+    {
+      "id": 59,
+      "palName": "Reindrix"
+    }
+  ]
+}

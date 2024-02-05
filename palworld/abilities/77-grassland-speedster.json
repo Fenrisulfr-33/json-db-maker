@@ -1,0 +1,12 @@
+{
+  "_id": 77,
+  "key": "grassland-speedster",
+  "name": "Grassland Speedster",
+  "desc": "When fighting together, increases player's movement speed and applies Grass damage to the player's attacks.",
+  "palsThatHave": [
+    {
+      "id": 77,
+      "palName": "Verdash"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 50,
+  "key": "worker-bee",
+  "name": "Worker Bee",
+  "desc": "Sometimes drops Honey when assigned to Ranch.\nWhile in team, Elizabee's stats will be increased.",
+  "palsThatHave": [
+    {
+      "id": 50,
+      "palName": "Beegarde"
+    }
+  ]
+}

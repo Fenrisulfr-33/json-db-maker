@@ -1,0 +1,12 @@
+{
+  "_id": 23,
+  "key": "fried-squid",
+  "name": "Fried Squid",
+  "desc": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding.",
+  "palsThatHave": [
+    {
+      "id": 23,
+      "palName": "Killamari"
+    }
+  ]
+}

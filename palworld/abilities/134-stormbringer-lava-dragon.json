@@ -1,0 +1,12 @@
+{
+  "_id": 134,
+  "key": "stormbringer-lava-dragon",
+  "name": "Stormbringer Lava Dragon",
+  "desc": "Can be ridden. Enhances Fire attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 134,
+      "palName": "Jormuntide Ignis"
+    }
+  ]
+}

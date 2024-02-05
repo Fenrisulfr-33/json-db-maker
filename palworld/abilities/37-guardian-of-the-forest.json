@@ -1,0 +1,12 @@
+{
+  "_id": 37,
+  "key": "guardian-of-the-forest",
+  "name": "Guardian Of The Forest",
+  "desc": "Can be ridden.\nCan perform a double jump while mounted.\nIncreases efficiency of cutting trees.",
+  "palsThatHave": [
+    {
+      "id": 37,
+      "palName": "Eikthyrdeer"
+    }
+  ]
+}

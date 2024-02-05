@@ -1,0 +1,12 @@
+{
+  "_id": 6,
+  "key": "surfing-slam",
+  "name": "Surfing Slam",
+  "desc": "When activated, Fuack body surfs towards an enemy and slams into them.",
+  "palsThatHave": [
+    {
+      "id": 6,
+      "palName": "Fuack"
+    }
+  ]
+}

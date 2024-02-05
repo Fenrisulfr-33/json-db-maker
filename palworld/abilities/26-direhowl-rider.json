@@ -1,0 +1,12 @@
+{
+  "_id": 26,
+  "key": "direhowl-rider",
+  "name": "Direhowl Rider",
+  "desc": "Can be ridden.\nMoves slightly faster than most mounts.",
+  "palsThatHave": [
+    {
+      "id": 26,
+      "palName": "Direhowl"
+    }
+  ]
+}

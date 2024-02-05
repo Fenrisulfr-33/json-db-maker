@@ -1,0 +1,12 @@
+{
+  "_id": 65,
+  "key": "swift-swimmer",
+  "name": "Swift Swimmer",
+  "desc": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water.",
+  "palsThatHave": [
+    {
+      "id": 65,
+      "palName": "Surfent"
+    }
+  ]
+}

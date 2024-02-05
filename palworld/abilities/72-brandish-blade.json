@@ -1,0 +1,12 @@
+{
+  "_id": 72,
+  "key": "brandish-blade",
+  "name": "Brandish Blade",
+  "desc": "When activated, attacks targeted enemy with a powerful Iaigiri.",
+  "palsThatHave": [
+    {
+      "id": 72,
+      "palName": "Bushi"
+    }
+  ]
+}

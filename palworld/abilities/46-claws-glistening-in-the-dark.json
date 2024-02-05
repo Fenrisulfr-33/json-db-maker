@@ -1,0 +1,12 @@
+{
+  "_id": 46,
+  "key": "claws-glistening-in-the-dark",
+  "name": "Claws Glistening In The Dark",
+  "desc": "When activated, attacks targeted enemy with a powerful Jumping Claw.",
+  "palsThatHave": [
+    {
+      "id": 46,
+      "palName": "Loupmoon"
+    }
+  ]
+}

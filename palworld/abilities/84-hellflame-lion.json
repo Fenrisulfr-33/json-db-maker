@@ -1,0 +1,12 @@
+{
+  "_id": 84,
+  "key": "hellflame-lion",
+  "name": "Hellflame Lion",
+  "desc": "Can be ridden. While fighting together, Grass Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 84,
+      "palName": "Blazehowl"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 68,
+  "key": "ultrasonic-sensor",
+  "name": "Ultrasonic Sensor",
+  "desc": "When activated, uses ultrasonic waves to detect the location of nearby Pals.",
+  "palsThatHave": [
+    {
+      "id": 68,
+      "palName": "Tombat"
+    }
+  ]
+}

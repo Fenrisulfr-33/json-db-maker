@@ -1,0 +1,12 @@
+{
+  "_id": 95,
+  "key": "sky-dragon's-affection",
+  "name": "Sky Dragon's Affection",
+  "desc": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 95,
+      "palName": "Quivern"
+    }
+  ]
+}

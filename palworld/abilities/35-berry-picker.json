@@ -1,0 +1,12 @@
+{
+  "_id": 35,
+  "key": "berry-picker",
+  "name": "Berry Picker",
+  "desc": "Sometimes drops Red Berries from its back when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 35,
+      "palName": "Caprity"
+    }
+  ]
+}

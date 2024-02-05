@@ -1,0 +1,12 @@
+{
+  "_id": 21,
+  "key": "kuudere",
+  "name": "Kuudere",
+  "desc": "When fighting together, applies Dark damage to the player's attacks.",
+  "palsThatHave": [
+    {
+      "id": 21,
+      "palName": "Nox"
+    }
+  ]
+}

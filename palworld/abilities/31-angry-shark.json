@@ -1,0 +1,12 @@
+{
+  "_id": 31,
+  "key": "angry-shark",
+  "name": "Angry Shark",
+  "desc": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power.",
+  "palsThatHave": [
+    {
+      "id": 31,
+      "palName": "Gobfin"
+    }
+  ]
+}

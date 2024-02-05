@@ -1,0 +1,12 @@
+{
+  "_id": 56,
+  "key": "swift-deity",
+  "name": "Swift Deity",
+  "desc": "Can be ridden. Applies Electric damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 56,
+      "palName": "Univolt"
+    }
+  ]
+}

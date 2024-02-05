@@ -1,0 +1,12 @@
+{
+  "_id": 100,
+  "key": "guardian-of-the-desert",
+  "name": "Guardian Of The Desert",
+  "desc": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in a battle.",
+  "palsThatHave": [
+    {
+      "id": 100,
+      "palName": "Anubis"
+    }
+  ]
+}

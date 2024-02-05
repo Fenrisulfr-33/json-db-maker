@@ -1,0 +1,12 @@
+{
+  "_id": 69,
+  "key": "heart-drain",
+  "name": "Heart Drain",
+  "desc": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP.",
+  "palsThatHave": [
+    {
+      "id": 69,
+      "palName": "Lovander"
+    }
+  ]
+}

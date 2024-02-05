@@ -1,0 +1,12 @@
+{
+  "_id": 101,
+  "key": "stormbringer-sea-dragon",
+  "name": "Stormbringer Sea Dragon",
+  "desc": "Can be ridden to travel on water. While mounted, prevents stamina depletion while moving over water.",
+  "palsThatHave": [
+    {
+      "id": 101,
+      "palName": "Jormuntide"
+    }
+  ]
+}

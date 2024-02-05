@@ -1,0 +1,12 @@
+{
+  "_id": 75,
+  "key": "grimoire-collector",
+  "name": "Grimoire Collector",
+  "desc": "While fighting together, Neutral Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 75,
+      "palName": "Katress"
+    }
+  ]
+}

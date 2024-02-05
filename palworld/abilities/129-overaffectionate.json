@@ -1,0 +1,12 @@
+{
+  "_id": 129,
+  "key": "overaffectionate",
+  "name": "Overaffectionate",
+  "desc": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity.",
+  "palsThatHave": [
+    {
+      "id": 129,
+      "palName": "Broncherry Aqua"
+    }
+  ]
+}

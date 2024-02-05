@@ -1,0 +1,12 @@
+{
+  "_id": 115,
+  "key": "winter-trapeze",
+  "name": "Winter Trapeze",
+  "desc": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding.",
+  "palsThatHave": [
+    {
+      "id": 115,
+      "palName": "Hangyu Cryst"
+    }
+  ]
+}

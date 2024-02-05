@@ -1,0 +1,12 @@
+{
+  "_id": 103,
+  "key": "yellow-tank",
+  "name": "Yellow Tank",
+  "desc": "Can be ridden. Can rapidly fire a minigun while mounted.",
+  "palsThatHave": [
+    {
+      "id": 103,
+      "palName": "Grizzbolt"
+    }
+  ]
+}

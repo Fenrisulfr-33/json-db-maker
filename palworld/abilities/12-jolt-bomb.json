@@ -1,0 +1,12 @@
+{
+  "_id": 12,
+  "key": "jolt-bomb",
+  "name": "Jolt Bomb",
+  "desc": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact.",
+  "palsThatHave": [
+    {
+      "id": 12,
+      "palName": "Jolthog"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 67,
+  "key": "drill-crusher",
+  "name": "Drill Crusher",
+  "desc": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently.",
+  "palsThatHave": [
+    {
+      "id": 67,
+      "palName": "Digtoise"
+    }
+  ]
+}

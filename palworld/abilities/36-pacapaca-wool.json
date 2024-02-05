@@ -1,0 +1,12 @@
+{
+  "_id": 36,
+  "key": "pacapaca-wool",
+  "name": "Pacapaca Wool",
+  "desc": "Can be ridden.\nSometimes drops Wool when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 36,
+      "palName": "Melpaca"
+    }
+  ]
+}

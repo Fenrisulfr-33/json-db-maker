@@ -1,0 +1,12 @@
+{
+  "_id": 53,
+  "key": "fluffy",
+  "name": "Fluffy",
+  "desc": "While in team, Sweepa's stats will be increased.",
+  "palsThatHave": [
+    {
+      "id": 53,
+      "palName": "Swee"
+    }
+  ]
+}

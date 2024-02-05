@@ -1,0 +1,12 @@
+{
+  "_id": 114,
+  "key": "angry-shark",
+  "name": "Angry Shark",
+  "desc": "When activated, attacks targeted enemy with a powerful Spirit Fire. While in team, increases player's attack power.",
+  "palsThatHave": [
+    {
+      "id": 114,
+      "palName": "Gobfin Ignis"
+    }
+  ]
+}

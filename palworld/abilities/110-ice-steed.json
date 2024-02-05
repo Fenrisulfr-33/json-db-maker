@@ -1,0 +1,12 @@
+{
+  "_id": 110,
+  "key": "ice-steed",
+  "name": "Ice Steed",
+  "desc": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 110,
+      "palName": "Frostallion"
+    }
+  ]
+}

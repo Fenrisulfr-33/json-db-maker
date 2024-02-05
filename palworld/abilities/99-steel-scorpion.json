@@ -1,0 +1,12 @@
+{
+  "_id": 99,
+  "key": "steel-scorpion",
+  "name": "Steel Scorpion",
+  "desc": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 99,
+      "palName": "Menasting"
+    }
+  ]
+}

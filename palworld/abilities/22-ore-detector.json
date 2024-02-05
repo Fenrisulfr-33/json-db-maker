@@ -1,0 +1,12 @@
+{
+  "_id": 22,
+  "key": "ore-detector",
+  "name": "Ore Detector",
+  "desc": "When activated, generates subtle vibrations to detect nearby ore.",
+  "palsThatHave": [
+    {
+      "id": 22,
+      "palName": "Fuddler"
+    }
+  ]
+}

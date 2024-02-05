@@ -1,0 +1,12 @@
+{
+  "_id": 13,
+  "key": "logging-assistance",
+  "name": "Logging Assistance",
+  "desc": "While in team, improves efficiency of cutting trees.",
+  "palsThatHave": [
+    {
+      "id": 13,
+      "palName": "Gumoss"
+    }
+  ]
+}

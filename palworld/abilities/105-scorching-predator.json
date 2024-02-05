@@ -1,0 +1,12 @@
+{
+  "_id": 105,
+  "key": "scorching-predator",
+  "name": "Scorching Predator",
+  "desc": "Can be ridden as a flying mount. While fighting together, Ice Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 105,
+      "palName": "Faleris"
+    }
+  ]
+}

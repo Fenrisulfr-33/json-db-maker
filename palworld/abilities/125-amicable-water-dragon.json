@@ -1,0 +1,12 @@
+{
+  "_id": 125,
+  "key": "amicable-water-dragon",
+  "name": "Amicable Water Dragon",
+  "desc": "Can be ridden as a flying mount.\nWhile fighting together, Fire Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 125,
+      "palName": "Elphidran Aqua"
+    }
+  ]
+}

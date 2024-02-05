@@ -1,0 +1,12 @@
+{
+  "_id": 66,
+  "key": "messenger-of-death",
+  "name": "Messenger Of Death",
+  "desc": "Can be ridden.\nApplies Dark damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 66,
+      "palName": "Maraith"
+    }
+  ]
+}

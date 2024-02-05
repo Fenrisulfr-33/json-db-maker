@@ -1,0 +1,12 @@
+{
+  "_id": 93,
+  "key": "wind-and-clouds",
+  "name": "Wind And Clouds",
+  "desc": "Can be ridden. Can double jump while mounted.",
+  "palsThatHave": [
+    {
+      "id": 93,
+      "palName": "Fenglope"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 113,
+  "key": "gold-digger",
+  "name": "Gold Digger",
+  "desc": "Sometimes digs up Gold Coin when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 113,
+      "palName": "Mau Cryst"
+    }
+  ]
+}

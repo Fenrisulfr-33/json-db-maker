@@ -1,0 +1,12 @@
+{
+  "_id": 33,
+  "key": "grenadier-panda",
+  "name": "Grenadier Panda",
+  "desc": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
+  "palsThatHave": [
+    {
+      "id": 33,
+      "palName": "Mossanda"
+    }
+  ]
+}

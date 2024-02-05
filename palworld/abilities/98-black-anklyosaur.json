@@ -1,0 +1,12 @@
+{
+  "_id": 98,
+  "key": "black-anklyosaur",
+  "name": "Black Anklyosaur",
+  "desc": "Can be ridden a flying mount. Increases damage dealt to ore while mounted.",
+  "palsThatHave": [
+    {
+      "id": 98,
+      "palName": "Astegon"
+    }
+  ]
+}

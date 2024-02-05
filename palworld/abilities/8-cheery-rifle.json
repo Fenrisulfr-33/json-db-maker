@@ -1,0 +1,12 @@
+{
+  "_id": 8,
+  "key": "cheery-rifle",
+  "name": "Cheery Rifle",
+  "desc": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies.",
+  "palsThatHave": [
+    {
+      "id": 8,
+      "palName": "Tanzee"
+    }
+  ]
+}

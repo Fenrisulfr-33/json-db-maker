@@ -1,0 +1,12 @@
+{
+  "_id": 11,
+  "key": "brave-sailor",
+  "name": "Brave Sailor",
+  "desc": "When fighting together, Fire Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 11,
+      "palName": "Penking"
+    }
+  ]
+}

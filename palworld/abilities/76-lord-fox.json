@@ -1,0 +1,12 @@
+{
+  "_id": 76,
+  "key": "lord-fox",
+  "name": "Lord Fox",
+  "desc": "When fighting together, applies Fire damage to the player's attacks.",
+  "palsThatHave": [
+    {
+      "id": 76,
+      "palName": "Wixen"
+    }
+  ]
+}

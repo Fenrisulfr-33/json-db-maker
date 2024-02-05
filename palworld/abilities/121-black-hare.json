@@ -1,0 +1,12 @@
+{
+  "_id": 121,
+  "key": "black-hare",
+  "name": "Black Hare",
+  "desc": "Can be ridden. Applies Dark damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 121,
+      "palName": "Pyrin Noct"
+    }
+  ]
+}

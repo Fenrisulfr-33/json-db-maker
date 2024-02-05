@@ -1,0 +1,12 @@
+{
+  "_id": 58,
+  "key": "red-hare",
+  "name": "Red Hare",
+  "desc": "Can be ridden. Applies Fire damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 58,
+      "palName": "Pyrin"
+    }
+  ]
+}

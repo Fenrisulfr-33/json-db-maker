@@ -1,0 +1,12 @@
+{
+  "_id": 1,
+  "key": "fluffy-shield",
+  "name": "Fluffy Shield",
+  "desc": "When activated, equips to the player and becomes a shield.\nSometimes drops Wool when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 1,
+      "palName": "Lamball"
+    }
+  ]
+}

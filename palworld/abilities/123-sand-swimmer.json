@@ -1,0 +1,12 @@
+{
+  "_id": 123,
+  "key": "sand-swimmer",
+  "name": "Sand Swimmer",
+  "desc": "Can be ridden.",
+  "palsThatHave": [
+    {
+      "id": 123,
+      "palName": "Surfent Terra"
+    }
+  ]
+}

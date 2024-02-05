@@ -1,0 +1,12 @@
+{
+  "_id": 44,
+  "key": "telepeck",
+  "name": "Telepeck",
+  "desc": "When activated, attacks targeted enemy with a powerful Phantom Peck.",
+  "palsThatHave": [
+    {
+      "id": 44,
+      "palName": "Cawgnito"
+    }
+  ]
+}

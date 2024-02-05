@@ -1,0 +1,12 @@
+{
+  "_id": 79,
+  "key": "silk-maker",
+  "name": "Silk Maker",
+  "desc": "When activated, attacks targeted enemy with a powerful Blizzard Spike. Sometimes produces High Quality Cloth when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 79,
+      "palName": "Sibelyx"
+    }
+  ]
+}

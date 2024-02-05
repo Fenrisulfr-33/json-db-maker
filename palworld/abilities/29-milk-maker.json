@@ -1,0 +1,12 @@
+{
+  "_id": 29,
+  "key": "milk-maker",
+  "name": "Milk Maker",
+  "desc": "Sometimes produces Milk when assigned to ranch.",
+  "palsThatHave": [
+    {
+      "id": 29,
+      "palName": "Mozzarina"
+    }
+  ]
+}

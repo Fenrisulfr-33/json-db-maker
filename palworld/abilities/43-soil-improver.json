@@ -1,0 +1,12 @@
+{
+  "_id": 43,
+  "key": "soil-improver",
+  "name": "Soil Improver",
+  "desc": "While in team, increases attack power of Ground Pals.",
+  "palsThatHave": [
+    {
+      "id": 43,
+      "palName": "Dumud"
+    }
+  ]
+}

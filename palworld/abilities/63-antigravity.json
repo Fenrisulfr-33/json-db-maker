@@ -1,0 +1,12 @@
+{
+  "_id": 63,
+  "key": "antigravity",
+  "name": "Antigravity",
+  "desc": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity.",
+  "palsThatHave": [
+    {
+      "id": 63,
+      "palName": "Lunaris"
+    }
+  ]
+}

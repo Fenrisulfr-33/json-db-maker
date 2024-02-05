@@ -1,0 +1,12 @@
+{
+  "_id": 25,
+  "key": "zephyr-glider",
+  "name": "Zephyr Glider",
+  "desc": "While in team, can be summoned and used instead of a glider.\nAllows you to move quickly for long periods of time while gliding with this Pal.",
+  "palsThatHave": [
+    {
+      "id": 25,
+      "palName": "Celaray"
+    }
+  ]
+}

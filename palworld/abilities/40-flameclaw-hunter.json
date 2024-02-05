@@ -1,0 +1,12 @@
+{
+  "_id": 40,
+  "key": "flameclaw-hunter",
+  "name": "Flameclaw Hunter",
+  "desc": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
+  "palsThatHave": [
+    {
+      "id": 40,
+      "palName": "Incineram"
+    }
+  ]
+}

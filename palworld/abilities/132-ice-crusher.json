@@ -1,0 +1,12 @@
+{
+  "_id": 132,
+  "key": "ice-crusher",
+  "name": "Ice Crusher",
+  "desc": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
+  "palsThatHave": [
+    {
+      "id": 132,
+      "palName": "Mammorest Cryst"
+    }
+  ]
+}

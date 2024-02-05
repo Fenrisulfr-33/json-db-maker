@@ -1,0 +1,12 @@
+{
+  "_id": 133,
+  "key": "guardian-of-the-grassy-fields",
+  "name": "Guardian Of The Grassy Fields",
+  "desc": "Can be ridden. While in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity.",
+  "palsThatHave": [
+    {
+      "id": 133,
+      "palName": "Wumpo Botan"
+    }
+  ]
+}

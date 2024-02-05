@@ -1,0 +1,12 @@
+{
+  "_id": 60,
+  "key": "jumping-force",
+  "name": "Jumping Force",
+  "desc": "Can be ridden. Can double jump while mounted.",
+  "palsThatHave": [
+    {
+      "id": 60,
+      "palName": "Rayhound"
+    }
+  ]
+}

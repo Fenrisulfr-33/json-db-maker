@@ -1,0 +1,12 @@
+{
+  "_id": 80,
+  "key": "amicable-holy-dragon",
+  "name": "Amicable Holy Dragon",
+  "desc": "Can be ridden as a flying mount.\n While fighting together, Dark Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 80,
+      "palName": "Elphidran"
+    }
+  ]
+}

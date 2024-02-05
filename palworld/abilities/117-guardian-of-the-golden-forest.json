@@ -1,0 +1,12 @@
+{
+  "_id": 117,
+  "key": "guardian-of-the-golden-forest",
+  "name": "Guardian Of The Golden Forest",
+  "desc": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees.",
+  "palsThatHave": [
+    {
+      "id": 117,
+      "palName": "Eikthyrdeer Terra"
+    }
+  ]
+}

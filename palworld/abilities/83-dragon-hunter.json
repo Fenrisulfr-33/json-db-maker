@@ -1,0 +1,12 @@
+{
+  "_id": 83,
+  "key": "dragon-hunter",
+  "name": "Dragon Hunter",
+  "desc": "While fighting together, Dragon Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 83,
+      "palName": "Cryolinx"
+    }
+  ]
+}

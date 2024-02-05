@@ -1,0 +1,12 @@
+{
+  "_id": 45,
+  "key": "sixth-sense",
+  "name": "Sixth Sense",
+  "desc": "When activated, utilizes its sixth sense to detect nearby dungeons.",
+  "palsThatHave": [
+    {
+      "id": 45,
+      "palName": "Leezpunk"
+    }
+  ]
+}

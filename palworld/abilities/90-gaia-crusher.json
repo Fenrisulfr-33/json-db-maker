@@ -1,0 +1,12 @@
+{
+  "_id": 90,
+  "key": "gaia-crusher",
+  "name": "Gaia Crusher",
+  "desc": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
+  "palsThatHave": [
+    {
+      "id": 90,
+      "palName": "Mammorest"
+    }
+  ]
+}

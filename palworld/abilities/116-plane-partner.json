@@ -1,0 +1,12 @@
+{
+  "_id": 116,
+  "key": "plane-partner",
+  "name": "Plane Partner",
+  "desc": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
+  "palsThatHave": [
+    {
+      "id": 116,
+      "palName": "Mossanda Lux"
+    }
+  ]
+}

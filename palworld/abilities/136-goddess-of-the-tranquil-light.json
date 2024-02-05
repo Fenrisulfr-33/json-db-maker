@@ -1,0 +1,12 @@
+{
+  "_id": 136,
+  "key": "goddess-of-the-tranquil-light",
+  "name": "Goddess Of The Tranquil Light",
+  "desc": "When activated, the queen's soothing graces greatly restore the player's HP.",
+  "palsThatHave": [
+    {
+      "id": 136,
+      "palName": "Lyleen Noct"
+    }
+  ]
+}

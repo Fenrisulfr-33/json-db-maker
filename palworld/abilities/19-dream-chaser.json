@@ -1,0 +1,12 @@
+{
+  "_id": 19,
+  "key": "dream-chaser",
+  "name": "Dream Chaser",
+  "desc": "While in team, appears near the player. Follows up player attacks with magic bullets.",
+  "palsThatHave": [
+    {
+      "id": 19,
+      "palName": "Daedream"
+    }
+  ]
+}

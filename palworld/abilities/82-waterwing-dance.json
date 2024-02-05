@@ -1,0 +1,12 @@
+{
+  "_id": 82,
+  "key": "waterwing-dance",
+  "name": "Waterwing Dance",
+  "desc": "Can be ridden to travel on water. Applies Water damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 82,
+      "palName": "Azurobe"
+    }
+  ]
+}

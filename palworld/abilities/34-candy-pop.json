@@ -1,0 +1,12 @@
+{
+  "_id": 34,
+  "key": "candy-pop",
+  "name": "Candy Pop",
+  "desc": "Sometimes drops Cotton Candy when assigned to ranch.",
+  "palsThatHave": [
+    {
+      "id": 34,
+      "palName": "Woolipop"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 71,
+  "key": "aerial-marauder",
+  "name": "Aerial Marauder",
+  "desc": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted.",
+  "palsThatHave": [
+    {
+      "id": 71,
+      "palName": "Vanwyrm"
+    }
+  ]
+}

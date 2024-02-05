@@ -1,0 +1,12 @@
+{
+  "_id": 17,
+  "key": "caffeine-inoculation",
+  "name": "Caffeine Inoculation",
+  "desc": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase.",
+  "palsThatHave": [
+    {
+      "id": 17,
+      "palName": "Depresso"
+    }
+  ]
+}

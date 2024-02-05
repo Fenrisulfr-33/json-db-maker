@@ -1,0 +1,12 @@
+{
+  "_id": 30,
+  "key": "princess-gaze",
+  "name": "Princess Gaze",
+  "desc": "While in team, increases attack power of Grass Pals.",
+  "palsThatHave": [
+    {
+      "id": 30,
+      "palName": "Bristla"
+    }
+  ]
+}

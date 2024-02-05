@@ -1,0 +1,12 @@
+{
+  "_id": 47,
+  "key": "galeclaw-rider",
+  "name": "Galeclaw Rider",
+  "desc": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal.",
+  "palsThatHave": [
+    {
+      "id": 47,
+      "palName": "Galeclaw"
+    }
+  ]
+}

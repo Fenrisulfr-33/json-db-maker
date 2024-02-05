@@ -1,0 +1,12 @@
+{
+  "_id": 57,
+  "key": "aurora-guide",
+  "name": "Aurora Guide",
+  "desc": "While in a team, increases attack power of Ice pals.",
+  "palsThatHave": [
+    {
+      "id": 57,
+      "palName": "Foxcicle"
+    }
+  ]
+}

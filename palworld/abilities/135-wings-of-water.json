@@ -1,0 +1,12 @@
+{
+  "_id": 135,
+  "key": "wings-of-water",
+  "name": "Wings Of Water",
+  "desc": "Can be ridden as a flying mount. Enhances Water attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 135,
+      "palName": "Suzaku Aqua"
+    }
+  ]
+}

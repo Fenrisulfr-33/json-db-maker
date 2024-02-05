@@ -1,0 +1,12 @@
+{
+  "_id": 137,
+  "key": "black-steed",
+  "name": "Black Steed",
+  "desc": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 137,
+      "palName": "Frostallion Noct"
+    }
+  ]
+}

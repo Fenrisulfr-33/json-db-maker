@@ -1,0 +1,12 @@
+{
+  "_id": 55,
+  "key": "wriggling-weasel",
+  "name": "Wriggling Weasel",
+  "desc": "Can be ridden.\nApplies Dragon Dragon damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 55,
+      "palName": "Chillet"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 78,
+  "key": "purification-of-gaia",
+  "name": "Purification Of Gaia",
+  "desc": "While fighting together, Ground Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 78,
+      "palName": "Vaelet"
+    }
+  ]
+}

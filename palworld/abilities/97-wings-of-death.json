@@ -1,0 +1,12 @@
+{
+  "_id": 97,
+  "key": "wings-of-death",
+  "name": "Wings Of Death",
+  "desc": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 97,
+      "palName": "Helzephyr"
+    }
+  ]
+}

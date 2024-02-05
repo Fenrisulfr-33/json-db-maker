@@ -1,0 +1,12 @@
+{
+  "_id": 106,
+  "key": "ferocious-thunder-dragon",
+  "name": "Ferocious Thunder Dragon",
+  "desc": "While fighting together, Water Pals drop more items when defeated.",
+  "palsThatHave": [
+    {
+      "id": 106,
+      "palName": "Orserk"
+    }
+  ]
+}

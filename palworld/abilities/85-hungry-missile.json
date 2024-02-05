@@ -1,0 +1,12 @@
+{
+  "_id": 85,
+  "key": "hungry-missile",
+  "name": "Hungry Missile",
+  "desc": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
+  "palsThatHave": [
+    {
+      "id": 85,
+      "palName": "Relaxaurus"
+    }
+  ]
+}

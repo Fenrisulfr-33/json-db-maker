@@ -1,0 +1,12 @@
+{
+  "_id": 104,
+  "key": "harvest-goddess",
+  "name": "Harvest Goddess",
+  "desc": "When activated, the queen's soothing graces greatly restore the player's HP.",
+  "palsThatHave": [
+    {
+      "id": 104,
+      "palName": "Lyleen"
+    }
+  ]
+}

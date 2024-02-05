@@ -1,0 +1,12 @@
+{
+  "_id": 126,
+  "key": "lava-spout",
+  "name": "Lava Spout",
+  "desc": "While in team, increases attack power of Fire Pals.",
+  "palsThatHave": [
+    {
+      "id": 126,
+      "palName": "Kelpsea Ignis"
+    }
+  ]
+}

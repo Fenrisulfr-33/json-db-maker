@@ -1,0 +1,12 @@
+{
+  "_id": 39,
+  "key": "skilled-fingers",
+  "name": "Skilled Fingers",
+  "desc": "While in team, increases attack power of Neutral Pals.\nWhile at base, increases work efficiency if working at Weapon Workbench.",
+  "palsThatHave": [
+    {
+      "id": 39,
+      "palName": "Ribunny"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 27,
+  "key": "eggbomb-launcher",
+  "name": "Eggbomb Launcher",
+  "desc": "When activated, equips to the player and transforms into an egg launcher.",
+  "palsThatHave": [
+    {
+      "id": 27,
+      "palName": "Tocotoco"
+    }
+  ]
+}

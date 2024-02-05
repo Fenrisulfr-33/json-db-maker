@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { join } = require("path");
 
 const reformatPalObjectForJoin = (pal) => {
   return {
@@ -110,9 +111,17 @@ const saveDataJSON = (data, saveFile) => {
   );
 };
 
+const convertStringToLowercaseJoined = (string) => {
+  const words = string.split(" ");
+  const lowercaseWords = words.map((word) => word.toLowerCase());
+  const joinedString = lowercaseWords.join("-");
+  return joinedString;
+};
+
 module.exports = {
   reformatPalObjectForJoin,
   reformatPalObjectForSplit,
   reformatPalBreedingObjToArray,
   saveDataJSON,
+  convertStringToLowercaseJoined,
 };

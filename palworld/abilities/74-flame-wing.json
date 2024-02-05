@@ -1,0 +1,12 @@
+{
+  "_id": 74,
+  "key": "flame-wing",
+  "name": "Flame Wing",
+  "desc": "Can be ridden as a flying mount. Applies Fire damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 74,
+      "palName": "Ragnahawk"
+    }
+  ]
+}

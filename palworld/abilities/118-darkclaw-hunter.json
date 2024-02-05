@@ -1,0 +1,12 @@
+{
+  "_id": 118,
+  "key": "darkclaw-hunter",
+  "name": "Darkclaw Hunter",
+  "desc": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
+  "palsThatHave": [
+    {
+      "id": 118,
+      "palName": "Incineram Noct"
+    }
+  ]
+}

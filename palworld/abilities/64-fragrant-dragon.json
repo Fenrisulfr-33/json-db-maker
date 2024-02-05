@@ -1,0 +1,12 @@
+{
+  "_id": 64,
+  "key": "fragrant-dragon",
+  "name": "Fragrant Dragon",
+  "desc": "Can be ridden.\nEnchances Grass attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 64,
+      "palName": "Dinossom"
+    }
+  ]
+}

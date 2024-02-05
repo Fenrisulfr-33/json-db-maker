@@ -1,0 +1,12 @@
+{
+  "_id": 81,
+  "key": "aqua-spout",
+  "name": "Aqua Spout",
+  "desc": "While in team, increases attack power of Water Pals.",
+  "palsThatHave": [
+    {
+      "id": 81,
+      "palName": "Kelpsea"
+    }
+  ]
+}

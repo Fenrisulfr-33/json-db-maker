@@ -1,0 +1,12 @@
+{
+  "_id": 15,
+  "key": "dark-knowledge",
+  "name": "Dark Knowledge",
+  "desc": "While in team, increases attack power of Dark Pals.",
+  "palsThatHave": [
+    {
+      "id": 15,
+      "palName": "Hoocrates"
+    }
+  ]
+}

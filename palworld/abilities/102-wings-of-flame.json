@@ -1,0 +1,12 @@
+{
+  "_id": 102,
+  "key": "wings-of-flame",
+  "name": "Wings Of Flame",
+  "desc": "Can be ridden as a flying mount. Enhances Fire attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 102,
+      "palName": "Suzaku"
+    }
+  ]
+}

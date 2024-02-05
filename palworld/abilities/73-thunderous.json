@@ -1,0 +1,12 @@
+{
+  "_id": 73,
+  "key": "thunderous",
+  "name": "Thunderous",
+  "desc": "Can be ridden as a flying mount. Applies Electric damage to the player's attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 73,
+      "palName": "Beakon"
+    }
+  ]
+}

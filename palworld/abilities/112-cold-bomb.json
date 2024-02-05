@@ -1,0 +1,12 @@
+{
+  "_id": 112,
+  "key": "cold-bomb",
+  "name": "Cold Bomb",
+  "desc": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact.",
+  "palsThatHave": [
+    {
+      "id": 112,
+      "palName": "Jolthog Cryst"
+    }
+  ]
+}

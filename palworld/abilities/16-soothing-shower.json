@@ -1,0 +1,12 @@
+{
+  "_id": 16,
+  "key": "soothing-shower",
+  "name": "Soothing Shower",
+  "desc": "When activated, spouts mysterious water that soothes wounds and restores the player's HP.",
+  "palsThatHave": [
+    {
+      "id": 16,
+      "palName": "Teafant"
+    }
+  ]
+}

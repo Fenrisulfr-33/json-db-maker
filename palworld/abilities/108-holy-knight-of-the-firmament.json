@@ -1,0 +1,12 @@
+{
+  "_id": 108,
+  "key": "holy-knight-of-the-firmament",
+  "name": "Holy Knight Of The Firmament",
+  "desc": "Can be ridden. Can triple jump while mounted.",
+  "palsThatHave": [
+    {
+      "id": 108,
+      "palName": "Paladius"
+    }
+  ]
+}

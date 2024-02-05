@@ -1,0 +1,12 @@
+{
+  "_id": 107,
+  "key": "modified-dna",
+  "name": "Modified Dna",
+  "desc": "Can be ridden as a flying mount. Enhances Dark attacks while mounted.",
+  "palsThatHave": [
+    {
+      "id": 107,
+      "palName": "Shadowbeak"
+    }
+  ]
+}

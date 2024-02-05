@@ -1,0 +1,12 @@
+{
+  "_id": 28,
+  "key": "helper-bunny",
+  "name": "Helper Bunny",
+  "desc": "While in team, appears nearby the player. Automatically picks up nearby items.",
+  "palsThatHave": [
+    {
+      "id": 28,
+      "palName": "Flopie"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 9,
+  "key": "tiny-spark",
+  "name": "Tiny Spark",
+  "desc": "While in team, increases attack power of Fire Pals.",
+  "palsThatHave": [
+    {
+      "id": 9,
+      "palName": "Rooby"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 94,
+  "key": "life-steal",
+  "name": "Life Steal",
+  "desc": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP.",
+  "palsThatHave": [
+    {
+      "id": 94,
+      "palName": "Felbat"
+    }
+  ]
+}

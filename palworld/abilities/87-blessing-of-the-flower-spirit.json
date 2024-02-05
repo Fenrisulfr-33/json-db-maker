@@ -1,0 +1,12 @@
+{
+  "_id": 87,
+  "key": "blessing-of-the-flower-spirit",
+  "name": "Blessing Of The Flower Spirit",
+  "desc": "When activated, uses medicinal flowers to restore the player's HP.",
+  "palsThatHave": [
+    {
+      "id": 87,
+      "palName": "Petallia"
+    }
+  ]
+}

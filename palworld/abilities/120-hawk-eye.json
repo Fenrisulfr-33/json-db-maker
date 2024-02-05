@@ -1,0 +1,12 @@
+{
+  "_id": 120,
+  "key": "hawk-eye",
+  "name": "Hawk Eye",
+  "desc": "While fighting together, allows you to deal more damage to weak points.",
+  "palsThatHave": [
+    {
+      "id": 120,
+      "palName": "Robinquill Terra"
+    }
+  ]
+}

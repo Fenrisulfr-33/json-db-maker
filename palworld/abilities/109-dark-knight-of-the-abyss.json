@@ -1,0 +1,12 @@
+{
+  "_id": 109,
+  "key": "dark-knight-of-the-abyss",
+  "name": "Dark Knight Of The Abyss",
+  "desc": "Can be ridden. Can double jump while mounted.",
+  "palsThatHave": [
+    {
+      "id": 109,
+      "palName": "Necromus"
+    }
+  ]
+}

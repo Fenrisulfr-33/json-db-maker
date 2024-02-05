@@ -1,0 +1,12 @@
+{
+  "_id": 51,
+  "key": "queen-bee-command",
+  "name": "Queen Bee Command",
+  "desc": "While fighting together, stats will increase the more Beegarde are in your team.",
+  "palsThatHave": [
+    {
+      "id": 51,
+      "palName": "Elizabee"
+    }
+  ]
+}

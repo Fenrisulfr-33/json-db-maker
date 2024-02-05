@@ -1,0 +1,12 @@
+{
+  "_id": 62,
+  "key": "lady-of-lightning",
+  "name": "Lady Of Lightning",
+  "desc": "While in team, appears near the player. Follows up player attacks with lightning bolts.",
+  "palsThatHave": [
+    {
+      "id": 62,
+      "palName": "Dazzi"
+    }
+  ]
+}

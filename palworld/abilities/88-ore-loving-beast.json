@@ -1,0 +1,12 @@
+{
+  "_id": 88,
+  "key": "ore-loving-beast",
+  "name": "Ore-loving Beast",
+  "desc": "Can be ridden. Improves efficiency of mining ores while mounted.",
+  "palsThatHave": [
+    {
+      "id": 88,
+      "palName": "Reptyro"
+    }
+  ]
+}

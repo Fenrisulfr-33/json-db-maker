@@ -1,0 +1,12 @@
+{
+  "_id": 10,
+  "key": "pengullet-cannon",
+  "name": "Pengullet Cannon",
+  "desc": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated.",
+  "palsThatHave": [
+    {
+      "id": 10,
+      "palName": "Pengullet"
+    }
+  ]
+}

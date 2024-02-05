@@ -1,0 +1,12 @@
+{
+  "_id": 61,
+  "key": "clear-mind",
+  "name": "Clear Mind",
+  "desc": "Can be ridden. Unaffected by the cold or heat while riding this Pal.",
+  "palsThatHave": [
+    {
+      "id": 61,
+      "palName": "Kitsun"
+    }
+  ]
+}

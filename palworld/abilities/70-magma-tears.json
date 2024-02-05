@@ -1,0 +1,12 @@
+{
+  "_id": 70,
+  "key": "magma-tears",
+  "name": "Magma Tears",
+  "desc": "Sometimes produces Flame Organ when assigned to Ranch.",
+  "palsThatHave": [
+    {
+      "id": 70,
+      "palName": "Flambelle"
+    }
+  ]
+}

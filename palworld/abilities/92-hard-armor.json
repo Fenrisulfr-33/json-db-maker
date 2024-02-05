@@ -1,0 +1,12 @@
+{
+  "_id": 92,
+  "key": "hard-armor",
+  "name": "Hard Armor",
+  "desc": "When fighting together, increases player's defense and applies Fire damage to the player's attacks.",
+  "palsThatHave": [
+    {
+      "id": 92,
+      "palName": "Warsect"
+    }
+  ]
+}

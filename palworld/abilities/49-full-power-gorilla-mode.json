@@ -1,0 +1,12 @@
+{
+  "_id": 49,
+  "key": "full-power-gorilla-mode",
+  "name": "Full-power Gorilla Mode",
+  "desc": "When activated, unleashes a primal fury that increases Gorirat's attack power.",
+  "palsThatHave": [
+    {
+      "id": 49,
+      "palName": "Gorirat"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 20,
+  "key": "hard-head",
+  "name": "Hard Head",
+  "desc": "Can be ridden. Increases efficiency of destroying boulders while mounted.",
+  "palsThatHave": [
+    {
+      "id": 20,
+      "palName": "Rushoar"
+    }
+  ]
+}
