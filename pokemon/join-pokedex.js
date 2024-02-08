@@ -1,7 +1,7 @@
 const fs = require('fs');
 const pokemonPath = require("path").join(__dirname, "./pokemon-data/pokedex");
 const {
-  assignPokedexNumbers,
+  assignPokemonPokedexNumbers,
 } = require("./helperFunctions/assignPokedexNumbers.js");
 // const {
 //   reformatPokemonObject,
@@ -38,7 +38,7 @@ require("fs")
     const pokemon = require(`./pokemon-data/pokedex/${file}`);
 
     delete pokemon.pokedexNumber;
-    pokemon.pokedexNumber = assignPokedexNumbers(pokemon._id);
+    pokemon.pokedexNumber = assignPokemonPokedexNumbers(pokemon._id);
 
     /**
      * Add pokemon moves to a pokemon.
