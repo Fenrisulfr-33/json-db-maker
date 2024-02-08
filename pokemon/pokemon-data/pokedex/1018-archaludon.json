@@ -6,7 +6,8 @@
     },
     "pokedexNumber": {},
     "type": {
-        "one": "Grass"
+        "one": "Steel",
+        "two": "Dragon"
     },
     "abilities": {
         "one": {
@@ -43,16 +44,16 @@
     "evolution": null,
     "generation": 9,
     "evs": {
-        "atk": 3
+        "def": 3
     },
     "eggGroups": [
-        "Undiscovered"
+        "Dragon", "Mineral"
     ],
-    "species": "Mask Pokémon",
-    "catchRate": 5,
+    "species": "Alloy Pokémon",
+    "catchRate": 10,
     "baseFriendship": 0, 
     "baseExp": 0,
-    "growthRate": "",
+    "growthRate": "Medium Fast",
     "eggCycles": 10,
     "nameOrigin": {},
     "pokedexEntries": {}

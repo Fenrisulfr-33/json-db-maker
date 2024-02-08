@@ -1,0 +1,51 @@
+{
+    "_id": 1024,
+    "key": "terapagos",
+    "name": {
+        "english": "Terapagos"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Normal"
+    },
+    "abilities": {
+        "one": {
+            "name": "Tera Shift",
+            "id": 0
+        }
+    },
+    "baseStats": {
+        "hp": 90,
+        "atk": 65,
+        "def": 85,
+        "spatk": 65,
+        "spdef": 85,
+        "spd": 60,
+        "total": 450
+    },
+    "info": {
+        "height": "0.2 m (0′08″)",
+        "weight": "6.5 kg (14.3 lbs)"
+    },
+    "gender": {
+        "male": "50%",
+        "female": "50%",
+        "genderless": false
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "def": 1
+    },
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "species": "Tera Pokémon",
+    "catchRate": 255,
+    "baseFriendship": 0, 
+    "baseExp": 0,
+    "growthRate": "Slow",
+    "eggCycles": 0,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

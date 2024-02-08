@@ -1,0 +1,60 @@
+{
+    "_id": 1019,
+    "key": "hydrapple",
+    "name": {
+        "english": "Hydrapple"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Grass",
+        "two": "Dragon"
+    },
+    "abilities": {
+        "one": {
+            "name": "Supersweet Syrup",
+            "id": 303
+        },
+        "two": {
+            "name": "Regenerator",
+            "id": 144
+        },
+        "hidden": {
+            "name": "Sticky Hold",
+            "id": 60
+        }
+    },
+    "baseStats": {
+        "hp": 106,
+        "atk": 80,
+        "def": 110,
+        "spatk": 120,
+        "spdef": 80,
+        "spd": 44,
+        "total": 540
+    },
+    "info": {
+        "height": "1.8 m (5′11″)",
+        "weight": "93.0 kg (205.0 lbs)"
+    },
+    "gender": {
+        "male": "50%",
+        "female": "50%",
+        "genderless": false
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "spAtk": 3
+    },
+    "eggGroups": [
+        "Dragon", "Grass"
+    ],
+    "species": "",
+    "catchRate": 10,
+    "baseFriendship": 0, 
+    "baseExp": 0,
+    "growthRate": "Erratic",
+    "eggCycles": 0,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

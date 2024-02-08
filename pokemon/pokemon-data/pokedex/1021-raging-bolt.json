@@ -1,0 +1,52 @@
+{
+    "_id": 1021,
+    "key": "raging-bolt",
+    "name": {
+        "english": "Raging Bolt"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Electric",
+        "two": "Dragon"
+    },
+    "abilities": {
+        "one": {
+            "name": "Protosynthesis",
+            "id": 281
+        }
+    },
+    "baseStats": {
+        "hp": 125,
+        "atk": 73,
+        "def": 91,
+        "spatk": 137,
+        "spdef": 89,
+        "spd": 75,
+        "total": 590
+    },
+    "info": {
+        "height": "5.2 m (17′01″)",
+        "weight": "480.0 kg (1058.2 lbs)"
+    },
+    "gender": {
+        "male": "",
+        "female": "",
+        "genderless": true
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "spAtk": 3
+    },
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "species": "Paradox Pokémon",
+    "catchRate": 10,
+    "baseFriendship": 0, 
+    "baseExp": 0,
+    "growthRate": "Slow",
+    "eggCycles": 0,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

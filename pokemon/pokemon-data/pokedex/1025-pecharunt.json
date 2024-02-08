@@ -1,0 +1,52 @@
+{
+    "_id": 1025,
+    "key": "pecharunt",
+    "name": {
+        "english": "Pecharunt"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Poison",
+        "two": "Ghost"
+    },
+    "abilities": {
+        "one": {
+            "name": "Poison Puppeteer",
+            "id": 0
+        }
+    },
+    "baseStats": {
+        "hp": 88,
+        "atk": 88,
+        "def": 160,
+        "spatk": 88,
+        "spdef": 88,
+        "spd": 88,
+        "total": 600
+    },
+    "info": {
+        "height": "0.3 m (1′00″)",
+        "weight": "0.3 kg (0.7 lbs)"
+    },
+    "gender": {
+        "male": "",
+        "female": "",
+        "genderless": true
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "def": 3
+    },
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "species": "Subjugation Pokémon",
+    "catchRate": 3,
+    "baseFriendship": 0, 
+    "baseExp": 0,
+    "growthRate": "Slow",
+    "eggCycles": 0,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}
