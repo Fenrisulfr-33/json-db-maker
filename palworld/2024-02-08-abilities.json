@@ -1,0 +1,1646 @@
+[
+  {
+    "_id": 1,
+    "key": "fluffy-shield",
+    "name": "Fluffy Shield",
+    "desc": "When activated, equips to the player and becomes a shield.\nSometimes drops Wool when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 1,
+        "palName": "Lamball"
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "key": "cat-helper",
+    "name": "Cat Helper",
+    "desc": "While in team, Cattiva helps carry supplies, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 2,
+        "palName": "Cattiva"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "key": "egg-layer",
+    "name": "Egg Layer",
+    "desc": "Sometimes lays an Egg when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 3,
+        "palName": "Chikipi"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "key": "lifmunk-recoil",
+    "name": "Lifmunk Recoil",
+    "desc": "When activated, leaps into the player's head and uses a submachine gun to follows up player attacks.",
+    "palsThatHave": [
+      {
+        "id": 4,
+        "palName": "Lifmunk"
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "key": "huggy-fire",
+    "name": "Huggy Fire",
+    "desc": "When activated, equips to the player and transforms into a flamethrower.",
+    "palsThatHave": [
+      {
+        "id": 5,
+        "palName": "Foxparks"
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "key": "surfing-slam",
+    "name": "Surfing Slam",
+    "desc": "When activated, Fuack body surfs towards an enemy and slams into them.",
+    "palsThatHave": [
+      {
+        "id": 6,
+        "palName": "Fuack"
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "key": "static-electricity",
+    "name": "Static Electricity",
+    "desc": "While in team, increases attack power of Electric Pals.",
+    "palsThatHave": [
+      {
+        "id": 7,
+        "palName": "Sparkit"
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "key": "cheery-rifle",
+    "name": "Cheery Rifle",
+    "desc": "When activated, Tanzee will mercilessly fire an assault rifle at nearby enemies.",
+    "palsThatHave": [
+      {
+        "id": 8,
+        "palName": "Tanzee"
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "key": "tiny-spark",
+    "name": "Tiny Spark",
+    "desc": "While in team, increases attack power of Fire Pals.",
+    "palsThatHave": [
+      {
+        "id": 9,
+        "palName": "Rooby"
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "key": "pengullet-cannon",
+    "name": "Pengullet Cannon",
+    "desc": "When activated, the player equips a Rocket Launcher and fires Pengullet as ammunition. Pengullet explodes on contact and is incapacitated.",
+    "palsThatHave": [
+      {
+        "id": 10,
+        "palName": "Pengullet"
+      }
+    ]
+  },
+  {
+    "_id": 11,
+    "key": "brave-sailor",
+    "name": "Brave Sailor",
+    "desc": "When fighting together, Fire Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 11,
+        "palName": "Penking"
+      }
+    ]
+  },
+  {
+    "_id": 12,
+    "key": "jolt-bomb",
+    "name": "Jolt Bomb",
+    "desc": "When activated, equips Jolthog to the player's hand. When thrown at an enemy, causes an electrical explosion upon impact.",
+    "palsThatHave": [
+      {
+        "id": 12,
+        "palName": "Jolthog"
+      }
+    ]
+  },
+  {
+    "_id": 13,
+    "key": "logging-assistance",
+    "name": "Logging Assistance",
+    "desc": "While in team, improves efficiency of cutting trees.",
+    "palsThatHave": [
+      {
+        "id": 13,
+        "palName": "Gumoss"
+      }
+    ]
+  },
+  {
+    "_id": 14,
+    "key": "dig-here!",
+    "name": "Dig Here!",
+    "desc": "Sometimes digs up items from the ground when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 14,
+        "palName": "Vixy"
+      }
+    ]
+  },
+  {
+    "_id": 15,
+    "key": "dark-knowledge",
+    "name": "Dark Knowledge",
+    "desc": "While in team, increases attack power of Dark Pals.",
+    "palsThatHave": [
+      {
+        "id": 15,
+        "palName": "Hoocrates"
+      }
+    ]
+  },
+  {
+    "_id": 16,
+    "key": "soothing-shower",
+    "name": "Soothing Shower",
+    "desc": "When activated, spouts mysterious water that soothes wounds and restores the player's HP.",
+    "palsThatHave": [
+      {
+        "id": 16,
+        "palName": "Teafant"
+      }
+    ]
+  },
+  {
+    "_id": 17,
+    "key": "caffeine-inoculation",
+    "name": "Caffeine Inoculation",
+    "desc": "When activated, Depresso drinks a massive amount of energy drinks, causing its movement speed to increase.",
+    "palsThatHave": [
+      {
+        "id": 17,
+        "palName": "Depresso"
+      }
+    ]
+  },
+  {
+    "_id": 18,
+    "key": "fluffy-wool",
+    "name": "Fluffy Wool",
+    "desc": "While in team, increases attack power of Neutral Pals. Sometimes drops Wool when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 18,
+        "palName": "Cremis"
+      }
+    ]
+  },
+  {
+    "_id": 19,
+    "key": "dream-chaser",
+    "name": "Dream Chaser",
+    "desc": "While in team, appears near the player. Follows up player attacks with magic bullets.",
+    "palsThatHave": [
+      {
+        "id": 19,
+        "palName": "Daedream"
+      }
+    ]
+  },
+  {
+    "_id": 20,
+    "key": "hard-head",
+    "name": "Hard Head",
+    "desc": "Can be ridden. Increases efficiency of destroying boulders while mounted.",
+    "palsThatHave": [
+      {
+        "id": 20,
+        "palName": "Rushoar"
+      }
+    ]
+  },
+  {
+    "_id": 21,
+    "key": "kuudere",
+    "name": "Kuudere",
+    "desc": "When fighting together, applies Dark damage to the player's attacks.",
+    "palsThatHave": [
+      {
+        "id": 21,
+        "palName": "Nox"
+      }
+    ]
+  },
+  {
+    "_id": 22,
+    "key": "ore-detector",
+    "name": "Ore Detector",
+    "desc": "When activated, generates subtle vibrations to detect nearby ore.",
+    "palsThatHave": [
+      {
+        "id": 22,
+        "palName": "Fuddler"
+      }
+    ]
+  },
+  {
+    "_id": 23,
+    "key": "fried-squid",
+    "name": "Fried Squid",
+    "desc": "While in team, can be summoned and used instead of a glider.\nCan float for long periods of time while gliding.",
+    "palsThatHave": [
+      {
+        "id": 23,
+        "palName": "Killamari"
+      }
+    ]
+  },
+  {
+    "_id": 24,
+    "key": "gold-digger",
+    "name": "Gold Digger",
+    "desc": "Sometimes digs up Gold Coin when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 24,
+        "palName": "Mau"
+      }
+    ]
+  },
+  {
+    "_id": 25,
+    "key": "zephyr-glider",
+    "name": "Zephyr Glider",
+    "desc": "While in team, can be summoned and used instead of a glider.\nAllows you to move quickly for long periods of time while gliding with this Pal.",
+    "palsThatHave": [
+      {
+        "id": 25,
+        "palName": "Celaray"
+      }
+    ]
+  },
+  {
+    "_id": 26,
+    "key": "direhowl-rider",
+    "name": "Direhowl Rider",
+    "desc": "Can be ridden.\nMoves slightly faster than most mounts.",
+    "palsThatHave": [
+      {
+        "id": 26,
+        "palName": "Direhowl"
+      }
+    ]
+  },
+  {
+    "_id": 27,
+    "key": "eggbomb-launcher",
+    "name": "Eggbomb Launcher",
+    "desc": "When activated, equips to the player and transforms into an egg launcher.",
+    "palsThatHave": [
+      {
+        "id": 27,
+        "palName": "Tocotoco"
+      }
+    ]
+  },
+  {
+    "_id": 28,
+    "key": "helper-bunny",
+    "name": "Helper Bunny",
+    "desc": "While in team, appears nearby the player. Automatically picks up nearby items.",
+    "palsThatHave": [
+      {
+        "id": 28,
+        "palName": "Flopie"
+      }
+    ]
+  },
+  {
+    "_id": 29,
+    "key": "milk-maker",
+    "name": "Milk Maker",
+    "desc": "Sometimes produces Milk when assigned to ranch.",
+    "palsThatHave": [
+      {
+        "id": 29,
+        "palName": "Mozzarina"
+      }
+    ]
+  },
+  {
+    "_id": 30,
+    "key": "princess-gaze",
+    "name": "Princess Gaze",
+    "desc": "While in team, increases attack power of Grass Pals.",
+    "palsThatHave": [
+      {
+        "id": 30,
+        "palName": "Bristla"
+      }
+    ]
+  },
+  {
+    "_id": 31,
+    "key": "angry-shark",
+    "name": "Angry Shark",
+    "desc": "When activated, attacks targeted enemy with a powerful Aqua Gun. While in team, increases player's attack power.",
+    "palsThatHave": [
+      {
+        "id": 31,
+        "palName": "Gobfin"
+      }
+    ]
+  },
+  {
+    "_id": 32,
+    "key": "flying-trapeze",
+    "name": "Flying Trapeze",
+    "desc": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding.",
+    "palsThatHave": [
+      {
+        "id": 32,
+        "palName": "Hangyu"
+      }
+    ]
+  },
+  {
+    "_id": 33,
+    "key": "grenadier-panda",
+    "name": "Grenadier Panda",
+    "desc": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
+    "palsThatHave": [
+      {
+        "id": 33,
+        "palName": "Mossanda"
+      }
+    ]
+  },
+  {
+    "_id": 34,
+    "key": "candy-pop",
+    "name": "Candy Pop",
+    "desc": "Sometimes drops Cotton Candy when assigned to ranch.",
+    "palsThatHave": [
+      {
+        "id": 34,
+        "palName": "Woolipop"
+      }
+    ]
+  },
+  {
+    "_id": 35,
+    "key": "berry-picker",
+    "name": "Berry Picker",
+    "desc": "Sometimes drops Red Berries from its back when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 35,
+        "palName": "Caprity"
+      }
+    ]
+  },
+  {
+    "_id": 36,
+    "key": "pacapaca-wool",
+    "name": "Pacapaca Wool",
+    "desc": "Can be ridden.\nSometimes drops Wool when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 36,
+        "palName": "Melpaca"
+      }
+    ]
+  },
+  {
+    "_id": 37,
+    "key": "guardian-of-the-forest",
+    "name": "Guardian Of The Forest",
+    "desc": "Can be ridden.\nCan perform a double jump while mounted.\nIncreases efficiency of cutting trees.",
+    "palsThatHave": [
+      {
+        "id": 37,
+        "palName": "Eikthyrdeer"
+      }
+    ]
+  },
+  {
+    "_id": 38,
+    "key": "travel-companion",
+    "name": "Travel Companion",
+    "desc": "Can be ridden as a flying mount.",
+    "palsThatHave": [
+      {
+        "id": 38,
+        "palName": "Nitewing"
+      }
+    ]
+  },
+  {
+    "_id": 39,
+    "key": "skilled-fingers",
+    "name": "Skilled Fingers",
+    "desc": "While in team, increases attack power of Neutral Pals.\nWhile at base, increases work efficiency if working at Weapon Workbench.",
+    "palsThatHave": [
+      {
+        "id": 39,
+        "palName": "Ribunny"
+      }
+    ]
+  },
+  {
+    "_id": 40,
+    "key": "flameclaw-hunter",
+    "name": "Flameclaw Hunter",
+    "desc": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
+    "palsThatHave": [
+      {
+        "id": 40,
+        "palName": "Incineram"
+      }
+    ]
+  },
+  {
+    "_id": 41,
+    "key": "mysterious-scales",
+    "name": "Mysterious Scales",
+    "desc": "When activated, attacks target enemy with Poison Fog.",
+    "palsThatHave": [
+      {
+        "id": 41,
+        "palName": "Cinnamoth"
+      }
+    ]
+  },
+  {
+    "_id": 42,
+    "key": "warm-body",
+    "name": "Warm Body",
+    "desc": "Can be ridden. Keeps the rider warm in cold environments.",
+    "palsThatHave": [
+      {
+        "id": 42,
+        "palName": "Arsox"
+      }
+    ]
+  },
+  {
+    "_id": 43,
+    "key": "soil-improver",
+    "name": "Soil Improver",
+    "desc": "While in team, increases attack power of Ground Pals.",
+    "palsThatHave": [
+      {
+        "id": 43,
+        "palName": "Dumud"
+      }
+    ]
+  },
+  {
+    "_id": 44,
+    "key": "telepeck",
+    "name": "Telepeck",
+    "desc": "When activated, attacks targeted enemy with a powerful Phantom Peck.",
+    "palsThatHave": [
+      {
+        "id": 44,
+        "palName": "Cawgnito"
+      }
+    ]
+  },
+  {
+    "_id": 45,
+    "key": "sixth-sense",
+    "name": "Sixth Sense",
+    "desc": "When activated, utilizes its sixth sense to detect nearby dungeons.",
+    "palsThatHave": [
+      {
+        "id": 45,
+        "palName": "Leezpunk"
+      }
+    ]
+  },
+  {
+    "_id": 46,
+    "key": "claws-glistening-in-the-dark",
+    "name": "Claws Glistening In The Dark",
+    "desc": "When activated, attacks targeted enemy with a powerful Jumping Claw.",
+    "palsThatHave": [
+      {
+        "id": 46,
+        "palName": "Loupmoon"
+      }
+    ]
+  },
+  {
+    "_id": 47,
+    "key": "galeclaw-rider",
+    "name": "Galeclaw Rider",
+    "desc": "While in team, can be summoned and used instead of a glider. Allows you to fire a gun while gliding with this Pal.",
+    "palsThatHave": [
+      {
+        "id": 47,
+        "palName": "Galeclaw"
+      }
+    ]
+  },
+  {
+    "_id": 48,
+    "key": "hawk-eye",
+    "name": "Hawk Eye",
+    "desc": "While fighting together, allows you to deal more damage to weak points.",
+    "palsThatHave": [
+      {
+        "id": 48,
+        "palName": "Robinquill"
+      }
+    ]
+  },
+  {
+    "_id": 49,
+    "key": "full-power-gorilla-mode",
+    "name": "Full-power Gorilla Mode",
+    "desc": "When activated, unleashes a primal fury that increases Gorirat's attack power.",
+    "palsThatHave": [
+      {
+        "id": 49,
+        "palName": "Gorirat"
+      }
+    ]
+  },
+  {
+    "_id": 50,
+    "key": "worker-bee",
+    "name": "Worker Bee",
+    "desc": "Sometimes drops Honey when assigned to Ranch.\nWhile in team, Elizabee's stats will be increased.",
+    "palsThatHave": [
+      {
+        "id": 50,
+        "palName": "Beegarde"
+      }
+    ]
+  },
+  {
+    "_id": 51,
+    "key": "queen-bee-command",
+    "name": "Queen Bee Command",
+    "desc": "While fighting together, stats will increase the more Beegarde are in your team.",
+    "palsThatHave": [
+      {
+        "id": 51,
+        "palName": "Elizabee"
+      }
+    ]
+  },
+  {
+    "_id": 52,
+    "key": "plump-body",
+    "name": "Plump Body",
+    "desc": "Can be ridden. Enhances Neutral attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 52,
+        "palName": "Grintale"
+      }
+    ]
+  },
+  {
+    "_id": 53,
+    "key": "fluffy",
+    "name": "Fluffy",
+    "desc": "While in team, Sweepa's stats will be increased.",
+    "palsThatHave": [
+      {
+        "id": 53,
+        "palName": "Swee"
+      }
+    ]
+  },
+  {
+    "_id": 54,
+    "key": "king-of-fluff",
+    "name": "King Of Fluff",
+    "desc": "While fighting together, stats will increase the more Swee are in your team.",
+    "palsThatHave": [
+      {
+        "id": 54,
+        "palName": "Sweepa"
+      }
+    ]
+  },
+  {
+    "_id": 55,
+    "key": "wriggling-weasel",
+    "name": "Wriggling Weasel",
+    "desc": "Can be ridden.\nApplies Dragon Dragon damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 55,
+        "palName": "Chillet"
+      }
+    ]
+  },
+  {
+    "_id": 56,
+    "key": "swift-deity",
+    "name": "Swift Deity",
+    "desc": "Can be ridden. Applies Electric damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 56,
+        "palName": "Univolt"
+      }
+    ]
+  },
+  {
+    "_id": 57,
+    "key": "aurora-guide",
+    "name": "Aurora Guide",
+    "desc": "While in a team, increases attack power of Ice pals.",
+    "palsThatHave": [
+      {
+        "id": 57,
+        "palName": "Foxcicle"
+      }
+    ]
+  },
+  {
+    "_id": 58,
+    "key": "red-hare",
+    "name": "Red Hare",
+    "desc": "Can be ridden. Applies Fire damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 58,
+        "palName": "Pyrin"
+      }
+    ]
+  },
+  {
+    "_id": 59,
+    "key": "cool-body",
+    "name": "Cool Body",
+    "desc": "Can be ridden.\nKeeps the rider cool in hot environments.",
+    "palsThatHave": [
+      {
+        "id": 59,
+        "palName": "Reindrix"
+      }
+    ]
+  },
+  {
+    "_id": 60,
+    "key": "jumping-force",
+    "name": "Jumping Force",
+    "desc": "Can be ridden. Can double jump while mounted.",
+    "palsThatHave": [
+      {
+        "id": 60,
+        "palName": "Rayhound"
+      }
+    ]
+  },
+  {
+    "_id": 61,
+    "key": "clear-mind",
+    "name": "Clear Mind",
+    "desc": "Can be ridden. Unaffected by the cold or heat while riding this Pal.",
+    "palsThatHave": [
+      {
+        "id": 61,
+        "palName": "Kitsun"
+      }
+    ]
+  },
+  {
+    "_id": 62,
+    "key": "lady-of-lightning",
+    "name": "Lady Of Lightning",
+    "desc": "While in team, appears near the player. Follows up player attacks with lightning bolts.",
+    "palsThatHave": [
+      {
+        "id": 62,
+        "palName": "Dazzi"
+      }
+    ]
+  },
+  {
+    "_id": 63,
+    "key": "antigravity",
+    "name": "Antigravity",
+    "desc": "While in team, Lunaris manipulates gravity, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 63,
+        "palName": "Lunaris"
+      }
+    ]
+  },
+  {
+    "_id": 64,
+    "key": "fragrant-dragon",
+    "name": "Fragrant Dragon",
+    "desc": "Can be ridden.\nEnchances Grass attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 64,
+        "palName": "Dinossom"
+      }
+    ]
+  },
+  {
+    "_id": 65,
+    "key": "swift-swimmer",
+    "name": "Swift Swimmer",
+    "desc": "Can be ridden to travel on water.\nWhile mounted, prevents stamina depletion while moving over water.",
+    "palsThatHave": [
+      {
+        "id": 65,
+        "palName": "Surfent"
+      }
+    ]
+  },
+  {
+    "_id": 66,
+    "key": "messenger-of-death",
+    "name": "Messenger Of Death",
+    "desc": "Can be ridden.\nApplies Dark damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 66,
+        "palName": "Maraith"
+      }
+    ]
+  },
+  {
+    "_id": 67,
+    "key": "drill-crusher",
+    "name": "Drill Crusher",
+    "desc": "When activated, performs Shell Spin, follows the player while spinning, and mines ores efficiently.",
+    "palsThatHave": [
+      {
+        "id": 67,
+        "palName": "Digtoise"
+      }
+    ]
+  },
+  {
+    "_id": 68,
+    "key": "ultrasonic-sensor",
+    "name": "Ultrasonic Sensor",
+    "desc": "When activated, uses ultrasonic waves to detect the location of nearby Pals.",
+    "palsThatHave": [
+      {
+        "id": 68,
+        "palName": "Tombat"
+      }
+    ]
+  },
+  {
+    "_id": 69,
+    "key": "heart-drain",
+    "name": "Heart Drain",
+    "desc": "While fighting together, grants the player and Lovander the life steal effect which absorbs some of the received damage and restores HP.",
+    "palsThatHave": [
+      {
+        "id": 69,
+        "palName": "Lovander"
+      }
+    ]
+  },
+  {
+    "_id": 70,
+    "key": "magma-tears",
+    "name": "Magma Tears",
+    "desc": "Sometimes produces Flame Organ when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 70,
+        "palName": "Flambelle"
+      }
+    ]
+  },
+  {
+    "_id": 71,
+    "key": "aerial-marauder",
+    "name": "Aerial Marauder",
+    "desc": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted.",
+    "palsThatHave": [
+      {
+        "id": 71,
+        "palName": "Vanwyrm"
+      }
+    ]
+  },
+  {
+    "_id": 72,
+    "key": "brandish-blade",
+    "name": "Brandish Blade",
+    "desc": "When activated, attacks targeted enemy with a powerful Iaigiri.",
+    "palsThatHave": [
+      {
+        "id": 72,
+        "palName": "Bushi"
+      }
+    ]
+  },
+  {
+    "_id": 73,
+    "key": "thunderous",
+    "name": "Thunderous",
+    "desc": "Can be ridden as a flying mount. Applies Electric damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 73,
+        "palName": "Beakon"
+      }
+    ]
+  },
+  {
+    "_id": 74,
+    "key": "flame-wing",
+    "name": "Flame Wing",
+    "desc": "Can be ridden as a flying mount. Applies Fire damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 74,
+        "palName": "Ragnahawk"
+      }
+    ]
+  },
+  {
+    "_id": 75,
+    "key": "grimoire-collector",
+    "name": "Grimoire Collector",
+    "desc": "While fighting together, Neutral Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 75,
+        "palName": "Katress"
+      }
+    ]
+  },
+  {
+    "_id": 76,
+    "key": "lord-fox",
+    "name": "Lord Fox",
+    "desc": "When fighting together, applies Fire damage to the player's attacks.",
+    "palsThatHave": [
+      {
+        "id": 76,
+        "palName": "Wixen"
+      }
+    ]
+  },
+  {
+    "_id": 77,
+    "key": "grassland-speedster",
+    "name": "Grassland Speedster",
+    "desc": "When fighting together, increases player's movement speed and applies Grass damage to the player's attacks.",
+    "palsThatHave": [
+      {
+        "id": 77,
+        "palName": "Verdash"
+      }
+    ]
+  },
+  {
+    "_id": 78,
+    "key": "purification-of-gaia",
+    "name": "Purification Of Gaia",
+    "desc": "While fighting together, Ground Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 78,
+        "palName": "Vaelet"
+      }
+    ]
+  },
+  {
+    "_id": 79,
+    "key": "silk-maker",
+    "name": "Silk Maker",
+    "desc": "When activated, attacks targeted enemy with a powerful Blizzard Spike. Sometimes produces High Quality Cloth when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 79,
+        "palName": "Sibelyx"
+      }
+    ]
+  },
+  {
+    "_id": 80,
+    "key": "amicable-holy-dragon",
+    "name": "Amicable Holy Dragon",
+    "desc": "Can be ridden as a flying mount.\n While fighting together, Dark Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 80,
+        "palName": "Elphidran"
+      }
+    ]
+  },
+  {
+    "_id": 81,
+    "key": "aqua-spout",
+    "name": "Aqua Spout",
+    "desc": "While in team, increases attack power of Water Pals.",
+    "palsThatHave": [
+      {
+        "id": 81,
+        "palName": "Kelpsea"
+      }
+    ]
+  },
+  {
+    "_id": 82,
+    "key": "waterwing-dance",
+    "name": "Waterwing Dance",
+    "desc": "Can be ridden to travel on water. Applies Water damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 82,
+        "palName": "Azurobe"
+      }
+    ]
+  },
+  {
+    "_id": 83,
+    "key": "dragon-hunter",
+    "name": "Dragon Hunter",
+    "desc": "While fighting together, Dragon Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 83,
+        "palName": "Cryolinx"
+      }
+    ]
+  },
+  {
+    "_id": 84,
+    "key": "hellflame-lion",
+    "name": "Hellflame Lion",
+    "desc": "Can be ridden. While fighting together, Grass Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 84,
+        "palName": "Blazehowl"
+      }
+    ]
+  },
+  {
+    "_id": 85,
+    "key": "hungry-missile",
+    "name": "Hungry Missile",
+    "desc": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
+    "palsThatHave": [
+      {
+        "id": 85,
+        "palName": "Relaxaurus"
+      }
+    ]
+  },
+  {
+    "_id": 86,
+    "key": "overaffectionate",
+    "name": "Overaffectionate",
+    "desc": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 86,
+        "palName": "Broncherry"
+      }
+    ]
+  },
+  {
+    "_id": 87,
+    "key": "blessing-of-the-flower-spirit",
+    "name": "Blessing Of The Flower Spirit",
+    "desc": "When activated, uses medicinal flowers to restore the player's HP.",
+    "palsThatHave": [
+      {
+        "id": 87,
+        "palName": "Petallia"
+      }
+    ]
+  },
+  {
+    "_id": 88,
+    "key": "ore-loving-beast",
+    "name": "Ore-loving Beast",
+    "desc": "Can be ridden. Improves efficiency of mining ores while mounted.",
+    "palsThatHave": [
+      {
+        "id": 88,
+        "palName": "Reptyro"
+      }
+    ]
+  },
+  {
+    "_id": 89,
+    "key": "king-of-muscles",
+    "name": "King Of Muscles",
+    "desc": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 89,
+        "palName": "Kingpaca"
+      }
+    ]
+  },
+  {
+    "_id": 90,
+    "key": "gaia-crusher",
+    "name": "Gaia Crusher",
+    "desc": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
+    "palsThatHave": [
+      {
+        "id": 90,
+        "palName": "Mammorest"
+      }
+    ]
+  },
+  {
+    "_id": 91,
+    "key": "guardian-of-the-snowy-mountain",
+    "name": "Guardian Of The Snowy Mountain",
+    "desc": "Can be ridden. While in team, Wumpo helps carry supplies, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 91,
+        "palName": "Wumpo"
+      }
+    ]
+  },
+  {
+    "_id": 92,
+    "key": "hard-armor",
+    "name": "Hard Armor",
+    "desc": "When fighting together, increases player's defense and applies Fire damage to the player's attacks.",
+    "palsThatHave": [
+      {
+        "id": 92,
+        "palName": "Warsect"
+      }
+    ]
+  },
+  {
+    "_id": 93,
+    "key": "wind-and-clouds",
+    "name": "Wind And Clouds",
+    "desc": "Can be ridden. Can double jump while mounted.",
+    "palsThatHave": [
+      {
+        "id": 93,
+        "palName": "Fenglope"
+      }
+    ]
+  },
+  {
+    "_id": 94,
+    "key": "life-steal",
+    "name": "Life Steal",
+    "desc": "While fighting together, grants the player and Felbat the life steal effect which absorbs some of the received damage and restores HP.",
+    "palsThatHave": [
+      {
+        "id": 94,
+        "palName": "Felbat"
+      }
+    ]
+  },
+  {
+    "_id": 95,
+    "key": "sky-dragon's-affection",
+    "name": "Sky Dragon's Affection",
+    "desc": "Can be ridden as a flying mount. Enhances Dragon attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 95,
+        "palName": "Quivern"
+      }
+    ]
+  },
+  {
+    "_id": 96,
+    "key": "magma-kaiser",
+    "name": "Magma Kaiser",
+    "desc": "Can be ridden. Enchances Fire attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 96,
+        "palName": "Blazamut"
+      }
+    ]
+  },
+  {
+    "_id": 97,
+    "key": "wings-of-death",
+    "name": "Wings Of Death",
+    "desc": "Can be ridden as a flying mount. Applies Dark damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 97,
+        "palName": "Helzephyr"
+      }
+    ]
+  },
+  {
+    "_id": 98,
+    "key": "black-anklyosaur",
+    "name": "Black Anklyosaur",
+    "desc": "Can be ridden a flying mount. Increases damage dealt to ore while mounted.",
+    "palsThatHave": [
+      {
+        "id": 98,
+        "palName": "Astegon"
+      }
+    ]
+  },
+  {
+    "_id": 99,
+    "key": "steel-scorpion",
+    "name": "Steel Scorpion",
+    "desc": "When fighting together, increases the player's defense and Electric Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 99,
+        "palName": "Menasting"
+      }
+    ]
+  },
+  {
+    "_id": 100,
+    "key": "guardian-of-the-desert",
+    "name": "Guardian Of The Desert",
+    "desc": "When fighting together, applies Ground damage to the player's attacks. Sometimes dodges attacks with a high speed sidestep while in a battle.",
+    "palsThatHave": [
+      {
+        "id": 100,
+        "palName": "Anubis"
+      }
+    ]
+  },
+  {
+    "_id": 101,
+    "key": "stormbringer-sea-dragon",
+    "name": "Stormbringer Sea Dragon",
+    "desc": "Can be ridden to travel on water. While mounted, prevents stamina depletion while moving over water.",
+    "palsThatHave": [
+      {
+        "id": 101,
+        "palName": "Jormuntide"
+      }
+    ]
+  },
+  {
+    "_id": 102,
+    "key": "wings-of-flame",
+    "name": "Wings Of Flame",
+    "desc": "Can be ridden as a flying mount. Enhances Fire attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 102,
+        "palName": "Suzaku"
+      }
+    ]
+  },
+  {
+    "_id": 103,
+    "key": "yellow-tank",
+    "name": "Yellow Tank",
+    "desc": "Can be ridden. Can rapidly fire a minigun while mounted.",
+    "palsThatHave": [
+      {
+        "id": 103,
+        "palName": "Grizzbolt"
+      }
+    ]
+  },
+  {
+    "_id": 104,
+    "key": "harvest-goddess",
+    "name": "Harvest Goddess",
+    "desc": "When activated, the queen's soothing graces greatly restore the player's HP.",
+    "palsThatHave": [
+      {
+        "id": 104,
+        "palName": "Lyleen"
+      }
+    ]
+  },
+  {
+    "_id": 105,
+    "key": "scorching-predator",
+    "name": "Scorching Predator",
+    "desc": "Can be ridden as a flying mount. While fighting together, Ice Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 105,
+        "palName": "Faleris"
+      }
+    ]
+  },
+  {
+    "_id": 106,
+    "key": "ferocious-thunder-dragon",
+    "name": "Ferocious Thunder Dragon",
+    "desc": "While fighting together, Water Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 106,
+        "palName": "Orserk"
+      }
+    ]
+  },
+  {
+    "_id": 107,
+    "key": "modified-dna",
+    "name": "Modified Dna",
+    "desc": "Can be ridden as a flying mount. Enhances Dark attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 107,
+        "palName": "Shadowbeak"
+      }
+    ]
+  },
+  {
+    "_id": 108,
+    "key": "holy-knight-of-the-firmament",
+    "name": "Holy Knight Of The Firmament",
+    "desc": "Can be ridden. Can triple jump while mounted.",
+    "palsThatHave": [
+      {
+        "id": 108,
+        "palName": "Paladius"
+      }
+    ]
+  },
+  {
+    "_id": 109,
+    "key": "dark-knight-of-the-abyss",
+    "name": "Dark Knight Of The Abyss",
+    "desc": "Can be ridden. Can double jump while mounted.",
+    "palsThatHave": [
+      {
+        "id": 109,
+        "palName": "Necromus"
+      }
+    ]
+  },
+  {
+    "_id": 110,
+    "key": "ice-steed",
+    "name": "Ice Steed",
+    "desc": "Can be ridden as a flying mount. Changes the player's attack type to Ice and enhances Ice attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 110,
+        "palName": "Frostallion"
+      }
+    ]
+  },
+  {
+    "_id": 111,
+    "key": "aerial-missile",
+    "name": "Aerial Missile",
+    "desc": "Can be ridden as a flying mount. Can rapidly fire a missile launcher while mounted.",
+    "palsThatHave": [
+      {
+        "id": 111,
+        "palName": "Jetragon"
+      }
+    ]
+  },
+  {
+    "_id": 112,
+    "key": "cold-bomb",
+    "name": "Cold Bomb",
+    "desc": "When activated, equips Jolthog Cryst to the player's hand. When thrown at an enemy, causes an icy explosion upon impact.",
+    "palsThatHave": [
+      {
+        "id": 112,
+        "palName": "Jolthog Cryst"
+      }
+    ]
+  },
+  {
+    "_id": 113,
+    "key": "gold-digger",
+    "name": "Gold Digger",
+    "desc": "Sometimes digs up Gold Coin when assigned to Ranch.",
+    "palsThatHave": [
+      {
+        "id": 113,
+        "palName": "Mau Cryst"
+      }
+    ]
+  },
+  {
+    "_id": 114,
+    "key": "angry-shark",
+    "name": "Angry Shark",
+    "desc": "When activated, attacks targeted enemy with a powerful Spirit Fire. While in team, increases player's attack power.",
+    "palsThatHave": [
+      {
+        "id": 114,
+        "palName": "Gobfin Ignis"
+      }
+    ]
+  },
+  {
+    "_id": 115,
+    "key": "winter-trapeze",
+    "name": "Winter Trapeze",
+    "desc": "While in team, can be summoned and used instead of a glider. Carries the player up high while gliding.",
+    "palsThatHave": [
+      {
+        "id": 115,
+        "palName": "Hangyu Cryst"
+      }
+    ]
+  },
+  {
+    "_id": 116,
+    "key": "plane-partner",
+    "name": "Plane Partner",
+    "desc": "Can be ridden. Can rapidly fire a grenade launcher while mounted.",
+    "palsThatHave": [
+      {
+        "id": 116,
+        "palName": "Mossanda Lux"
+      }
+    ]
+  },
+  {
+    "_id": 117,
+    "key": "guardian-of-the-golden-forest",
+    "name": "Guardian Of The Golden Forest",
+    "desc": "Can be ridden. Can perform a double jump while mounted. Increases efficiency of cutting trees.",
+    "palsThatHave": [
+      {
+        "id": 117,
+        "palName": "Eikthyrdeer Terra"
+      }
+    ]
+  },
+  {
+    "_id": 118,
+    "key": "darkclaw-hunter",
+    "name": "Darkclaw Hunter",
+    "desc": "When activated, attacks targeted enemy with a powerful Hellfire Claw.",
+    "palsThatHave": [
+      {
+        "id": 118,
+        "palName": "Incineram Noct"
+      }
+    ]
+  },
+  {
+    "_id": 119,
+    "key": "sixth-sense",
+    "name": "Sixth Sense",
+    "desc": "When activated, utilizes its sixth sense to detect nearby dungeons.",
+    "palsThatHave": [
+      {
+        "id": 119,
+        "palName": "Leezpunk Ignis"
+      }
+    ]
+  },
+  {
+    "_id": 120,
+    "key": "hawk-eye",
+    "name": "Hawk Eye",
+    "desc": "While fighting together, allows you to deal more damage to weak points.",
+    "palsThatHave": [
+      {
+        "id": 120,
+        "palName": "Robinquill Terra"
+      }
+    ]
+  },
+  {
+    "_id": 121,
+    "key": "black-hare",
+    "name": "Black Hare",
+    "desc": "Can be ridden. Applies Dark damage to the player's attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 121,
+        "palName": "Pyrin Noct"
+      }
+    ]
+  },
+  {
+    "_id": 122,
+    "key": "thunder-dragon",
+    "name": "Thunder Dragon",
+    "desc": "Can be ridden. Enhances Electric attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 122,
+        "palName": "Dinossom Lux"
+      }
+    ]
+  },
+  {
+    "_id": 123,
+    "key": "sand-swimmer",
+    "name": "Sand Swimmer",
+    "desc": "Can be ridden.",
+    "palsThatHave": [
+      {
+        "id": 123,
+        "palName": "Surfent Terra"
+      }
+    ]
+  },
+  {
+    "_id": 124,
+    "key": "aerial-marauder",
+    "name": "Aerial Marauder",
+    "desc": "Can be ridden as a flying mount. Increases damage player deals to enemy weak points while mounted.",
+    "palsThatHave": [
+      {
+        "id": 124,
+        "palName": "Vanwyrm Cryst"
+      }
+    ]
+  },
+  {
+    "_id": 125,
+    "key": "amicable-water-dragon",
+    "name": "Amicable Water Dragon",
+    "desc": "Can be ridden as a flying mount.\nWhile fighting together, Fire Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 125,
+        "palName": "Elphidran Aqua"
+      }
+    ]
+  },
+  {
+    "_id": 126,
+    "key": "lava-spout",
+    "name": "Lava Spout",
+    "desc": "While in team, increases attack power of Fire Pals.",
+    "palsThatHave": [
+      {
+        "id": 126,
+        "palName": "Kelpsea Ignis"
+      }
+    ]
+  },
+  {
+    "_id": 127,
+    "key": "darkflame-lion",
+    "name": "Darkflame Lion",
+    "desc": "Can be ridden. While fighting together, Neutral Pals drop more items when defeated.",
+    "palsThatHave": [
+      {
+        "id": 127,
+        "palName": "Blazehowl Noct"
+      }
+    ]
+  },
+  {
+    "_id": 128,
+    "key": "missile-party",
+    "name": "Missile Party",
+    "desc": "Can be ridden. Can rapidly fire a missile launcher while mounted.",
+    "palsThatHave": [
+      {
+        "id": 128,
+        "palName": "Relaxaurus Lux"
+      }
+    ]
+  },
+  {
+    "_id": 129,
+    "key": "overaffectionate",
+    "name": "Overaffectionate",
+    "desc": "Can be ridden. While in team, Broncherry helps carry supplies, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 129,
+        "palName": "Broncherry Aqua"
+      }
+    ]
+  },
+  {
+    "_id": 130,
+    "key": "ice-loving-beast",
+    "name": "Ice-loving Beast",
+    "desc": "Can be ridden. Improves efficiency of mining ores while mounted.",
+    "palsThatHave": [
+      {
+        "id": 130,
+        "palName": "Ice Reptyro"
+      }
+    ]
+  },
+  {
+    "_id": 131,
+    "key": "king-of-muscles",
+    "name": "King Of Muscles",
+    "desc": "Can be ridden. While in team, Kingpaca helps carry supplies, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 131,
+        "palName": "Ice Kingpaca"
+      }
+    ]
+  },
+  {
+    "_id": 132,
+    "key": "ice-crusher",
+    "name": "Ice Crusher",
+    "desc": "Can be ridden. Improves efficiency of cutting trees and mining ores while mounted.",
+    "palsThatHave": [
+      {
+        "id": 132,
+        "palName": "Mammorest Cryst"
+      }
+    ]
+  },
+  {
+    "_id": 133,
+    "key": "guardian-of-the-grassy-fields",
+    "name": "Guardian Of The Grassy Fields",
+    "desc": "Can be ridden. While in team, Wumpo Botan helps carry supplies, increasing the player's max carrying capacity.",
+    "palsThatHave": [
+      {
+        "id": 133,
+        "palName": "Wumpo Botan"
+      }
+    ]
+  },
+  {
+    "_id": 134,
+    "key": "stormbringer-lava-dragon",
+    "name": "Stormbringer Lava Dragon",
+    "desc": "Can be ridden. Enhances Fire attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 134,
+        "palName": "Jormuntide Ignis"
+      }
+    ]
+  },
+  {
+    "_id": 135,
+    "key": "wings-of-water",
+    "name": "Wings Of Water",
+    "desc": "Can be ridden as a flying mount. Enhances Water attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 135,
+        "palName": "Suzaku Aqua"
+      }
+    ]
+  },
+  {
+    "_id": 136,
+    "key": "goddess-of-the-tranquil-light",
+    "name": "Goddess Of The Tranquil Light",
+    "desc": "When activated, the queen's soothing graces greatly restore the player's HP.",
+    "palsThatHave": [
+      {
+        "id": 136,
+        "palName": "Lyleen Noct"
+      }
+    ]
+  },
+  {
+    "_id": 137,
+    "key": "black-steed",
+    "name": "Black Steed",
+    "desc": "Can be ridden as a flying mount. Changes the player's attack type to Dark and enhances Dark attacks while mounted.",
+    "palsThatHave": [
+      {
+        "id": 137,
+        "palName": "Frostallion Noct"
+      }
+    ]
+  }
+]
