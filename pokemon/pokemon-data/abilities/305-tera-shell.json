@@ -1,0 +1,14 @@
+{
+    "_id": 305,
+    "key": "tera-shell",
+    "name": {
+      "english": "Tera Shell"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  }

@@ -1,0 +1,14 @@
+{
+    "_id": 307,
+    "key": "poison-puppeteer",
+    "name": {
+      "english": "Poison Puppeteer"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "Pokémon poisoned by Pecharunt’s moves will also become confused.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  }

@@ -1,0 +1,25 @@
+{
+    "_id": 902,
+    "key": "matcha-gotcha",
+    "name": {
+      "english": "Matcha Gotcha"
+    },
+    "type": "Grass",
+    "category": "Special",
+    "contest": "",
+    "pp": 15,
+    "power": 80,
+    "accuracy": 90,
+    "contact": false,
+    "generation": 9,
+    "target": "",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row."
+    },
+    "effect": {
+      "full": "The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

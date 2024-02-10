@@ -17164,5 +17164,61 @@
     },
     "description": {},
     "pokemonWithAbility": {}
+  },
+  {
+    "_id": 304,
+    "key": "tera-shift",
+    "name": {
+      "english": "Tera Shift"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  },
+  {
+    "_id": 305,
+    "key": "tera-shell",
+    "name": {
+      "english": "Tera Shell"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  },
+  {
+    "_id": 306,
+    "key": "teraform-zero",
+    "name": {
+      "english": "Teraform Zero"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  },
+  {
+    "_id": 307,
+    "key": "poison-puppeteer",
+    "name": {
+      "english": "Poison Puppeteer"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "Pokémon poisoned by Pecharunt’s moves will also become confused.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
   }
 ]

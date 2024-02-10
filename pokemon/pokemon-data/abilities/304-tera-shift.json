@@ -1,0 +1,14 @@
+{
+    "_id": 304,
+    "key": "tera-shift",
+    "name": {
+      "english": "Tera Shift"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  }
