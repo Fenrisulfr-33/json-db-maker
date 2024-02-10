@@ -2,6 +2,7 @@ const fs = require('fs');
 const redBlueYellowDex = require('../pokedexes/arrayFormatted/red-blue-yellow.json');
 const goldSilverCrystalDex = require('../pokedexes/arrayFormatted/gold-silver-crystal.json');
 const rubySapphireEmeraldDex = require('../pokedexes/arrayFormatted/ruby-sapphire-emerald.json');
+const fireRedLeafGreenDex = require('../pokedexes/arrayFormatted/firered-leafgreen.json');
 const diamondPearlDex = require('../pokedexes/arrayFormatted/diamond-pearl.json');
 const platinumDex = require('../pokedexes/arrayFormatted/platinum.json');
 const heartGoldSoulSilverDex = require('../pokedexes/arrayFormatted/heartgold-soulsilver.json');
@@ -27,6 +28,7 @@ const crownTundraDex = require('../pokedexes/arrayFormatted/crown-tundra.json');
 const legendsArceusDex = require('../pokedexes/arrayFormatted/legends-arceus.json');
 const scarletVioletDex = require('../pokedexes/arrayFormatted/scarlet-violet.json');
 const theTealMaskDex = require('../pokedexes/arrayFormatted/teal-mask.json');
+const theIndigoDiskDex = require('../pokedexes/arrayFormatted/the-indigo-disk.json');
 
 const changeDexToNewFormat = (dex, saveRoute) => {
     const returnDex = [];
@@ -55,6 +57,7 @@ changeDexToNewFormat(redBlueYellowDex, '../pokedexes/objectFormatted/red-blue-ye
 changeDexToNewFormat(goldSilverCrystalDex, '../pokedexes/objectFormatted/gold-silver-crystal.json');
 // Generation 3
 changeDexToNewFormat(rubySapphireEmeraldDex, '../pokedexes/objectFormatted/ruby-sapphire-emerald.json');
+changeDexToNewFormat(fireRedLeafGreenDex, '../pokedexes/objectFormatted/firered-leafgreen.json');
 // Generation 4
 changeDexToNewFormat(diamondPearlDex, '../pokedexes/objectFormatted/diamond-pearl.json');
 changeDexToNewFormat(platinumDex, '../pokedexes/objectFormatted/platinum.json');
@@ -86,3 +89,4 @@ changeDexToNewFormat(legendsArceusDex, '../pokedexes/objectFormatted/legends-arc
 // Generation 9
 changeDexToNewFormat(scarletVioletDex, '../pokedexes/objectFormatted/scarlet-violet.json');
 changeDexToNewFormat(theTealMaskDex, '../pokedexes/objectFormatted/the-teal-mask.json');
+changeDexToNewFormat(theIndigoDiskDex, '../pokedexes/objectFormatted/the-indigo-disk.json');
