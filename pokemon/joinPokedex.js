@@ -1,5 +1,6 @@
 const fs = require('fs');
 const pokemonPath = require("path").join(__dirname, "./pokemon-data/pokedex");
+const saveFile = require("./helperFunctions/saveFile");
 const addMovesToPokemon = require("./helperFunctions/addMovesToPokemon.js");
 const replaceWrongMoveNames = require("./helperFunctions/replaceWrongMoveNames.js");
 // TODO: go through function below and clean up or see if their necessary
@@ -28,7 +29,7 @@ const {
 const addEvolutionObjectToPokemon = require('./helperFunctions/addEvolutionObjectToPokemon.js');
 const { returnPokemonModel, returnPokemonMovesModel } = require('./helperFunctions/returnObjectModels.js');
 
-const pokedexJoined = [];
+const pokedexFinal = [];
 const errors = {};
 
 require("fs")
@@ -85,26 +86,15 @@ require("fs")
     // Reformat the pokemon object so they are all the same.
     returnPokemon = returnPokemonModel(pokemon)
     // Add pokemon to total pokedex.
-    pokedexJoined.push(returnPokemon);
+    pokedexFinal.push(returnPokemon);
   });
-/**
- * Sort pokedex before saving.
- * 
- * Tech this doesn't matter as MongoDB uses the _id key anyways,
- * however, sometimes I need to manually inspect data and having it in order is important.
- */
-const pokedexSorted = pokedexJoined.sort((pokemonA, pokemonB) => {
-  if (pokemonA._id < pokemonB._id) {
-    return -1;
-  }
-});
 
-const saveData = JSON.stringify(pokedexSorted, null, 2);
 
-console.log('Pokedex length:', pokedexSorted.length);
-console.log('Pokedex join errors', errors);
-// Write JSON string to a file
-fs.writeFile(`./pokemon-data/${new Date().toJSON().slice(0,10)}-pokedex.json`, saveData, (error) => {
-  error ? console.error(error) : null;
-  console.log(`${new Date().toJSON().slice(0,10)}-pokedex.json saved.`);
-});
+  
+saveFile(
+  pokedexFinal,
+  `./pokemon-data/${new Date().toJSON().slice(0, 10)}-pokedex`,
+  true,
+  "Join Pokedex",
+  errors
+);

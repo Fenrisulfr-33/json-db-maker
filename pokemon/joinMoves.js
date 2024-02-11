@@ -1,4 +1,3 @@
-// const fs = require("fs");
 const saveFile = require("./helperFunctions/saveFile");
 const movesPath = require("path").join(__dirname, "./pokemon-data/moves");
 const movesFinal = [];
