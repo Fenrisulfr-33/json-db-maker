@@ -1,4 +1,4 @@
-const swshTrs = {
+const swordShieldTRs = {
     "swordsdance": 0,
     "bodyslam": 1,
     "flamethrower": 2,
@@ -102,5 +102,5 @@ const swshTrs = {
 }
 
 module.exports = {
-    swshTrs
+    swordShieldTRs
 }

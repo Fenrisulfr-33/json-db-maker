@@ -1,11 +1,11 @@
-const rbyHms = {
+const redBlueYellowHMs = {
   cut: 1,
   fly: 2,
   surf: 3,
   strength: 4,
   flash: 5,
 };
-const gscHms = {
+const goldSilverCrystalHMs = {
   cut: 1,
   fly: 2,
   surf: 3,
@@ -14,7 +14,7 @@ const gscHms = {
   whirlpool: 6,
   waterfall: 7,
 };
-const rseHms = {
+const rubySapphireEmeraldHMs = {
   cut: 1,
   fly: 2,
   surf: 3,
@@ -24,7 +24,7 @@ const rseHms = {
   waterfall: 7,
   dive: 8,
 };
-const frlgHms = {
+const fireRedLeafGreenHMs = {
   cut: 1,
   fly: 2,
   surf: 3,
@@ -33,7 +33,7 @@ const frlgHms = {
   rocksmash: 6,
   waterfall: 7,
 };
-const dppHms = {
+const diamondPearlPlatinumHMs = {
   cut: 1,
   fly: 2,
   surf: 3,
@@ -43,7 +43,7 @@ const dppHms = {
   waterfall: 7,
   rockclimb: 8,
 };
-const hgssHms = {
+const heartGoldSoulSilver = {
   cut: 1,
   fly: 2,
   surf: 3,
@@ -53,7 +53,7 @@ const hgssHms = {
   waterfall: 7,
   rockclimb: 8,
 };
-const b2w2Hms = {
+const black2White2HMs = {
   cut: 1,
   fly: 2,
   surf: 3,
@@ -61,14 +61,14 @@ const b2w2Hms = {
   waterfall: 5,
   dive: 6,
 };
-const xyHms = {
+const xyHMs = {
   cut: 1,
   fly: 2,
   surf: 3,
   strength: 4,
   waterfall: 5,
 };
-const orasHms = {
+const omegaRubyAlphaSapphireHMs = {
   cut: 1,
   fly: 2,
   surf: 3,
@@ -79,13 +79,13 @@ const orasHms = {
 };
 
 module.exports = {
-  rbyHms,
-  gscHms,
-  rseHms,
-  frlgHms,
-  dppHms,
-  hgssHms,
-  b2w2Hms,
-  xyHms,
-  orasHms,
+  redBlueYellowHMs,
+  goldSilverCrystalHMs,
+  rubySapphireEmeraldHMs,
+  fireRedLeafGreenHMs,
+  diamondPearlPlatinumHMs,
+  heartGoldSoulSilver,
+  black2White2HMs,
+  xyHMs,
+  omegaRubyAlphaSapphireHMs,
 };

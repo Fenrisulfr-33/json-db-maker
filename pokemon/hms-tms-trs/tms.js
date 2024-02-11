@@ -1,4 +1,4 @@
-const rbyTms = {
+const redBlueYellowTMs = {
   megapunch: 1,
   razorwind: 2,
   swordsdance: 3,
@@ -50,7 +50,7 @@ const rbyTms = {
   triattack: 49,
   substitute: 50,
 };
-const gscTms = {
+const goldSilverCrystalTMs = {
   dynamicpunch: 1,
   headbutt: 2,
   curse: 3,
@@ -102,7 +102,7 @@ const gscTms = {
   furycutter: 49,
   nightmare: 50,
 };
-const rseTms = {
+const rubySapphireEmeraldTMs = {
   focuspunch: 1,
   dragonclaw: 2,
   waterpulse: 3,
@@ -154,7 +154,7 @@ const rseTms = {
   snatch: 49,
   overheat: 50,
 };
-const frlgTms = {
+const fireRedLeafGreenTMs = {
   focuspunch: 1,
   dragonclaw: 2,
   waterpulse: 3,
@@ -206,7 +206,7 @@ const frlgTms = {
   snatch: 49,
   overheat: 50,
 };
-const dppTms = {
+const diamondPearlPlatinumTMs = {
   focuspunch: 1,
   dragonclaw: 2,
   waterpulse: 3,
@@ -300,7 +300,7 @@ const dppTms = {
   flashcannon: 91,
   trickroom: 92,
 };
-const hgssTms = {
+const heartGoldSoulSilverTMs = {
   focuspunch: 1,
   dragonclaw: 2,
   waterpulse: 3,
@@ -394,7 +394,7 @@ const hgssTms = {
   flashcannon: 91,
   trickroom: 92,
 };
-const b2w2Tms = {
+const black2White2TMs = {
   honeclaws: 1,
   dragonclaw: 2,
   psyshock: 3,
@@ -491,7 +491,7 @@ const b2w2Tms = {
   rocksmash: 94,
   snarl: 95,
 };
-const xyTms = {
+const xyTMs = {
   honeclaws: 1,
   dragonclaw: 2,
   psyshock: 3,
@@ -593,7 +593,7 @@ const xyTms = {
   dazzlinggleam: 99,
   confide: 100,
 };
-const orasTms = {
+const omegaRubyAlphaSapphireTMs = {
   honeclaws: 1,
   dragonclaw: 2,
   psyshock: 3,
@@ -695,7 +695,7 @@ const orasTms = {
   dazzlinggleam: 99,
   confide: 100,
 };
-const smTms = {
+const sunMoonTMs = {
   workup: 1,
   dragonclaw: 2,
   psyshock: 3,
@@ -797,7 +797,7 @@ const smTms = {
   dazzlinggleam: 99,
   confide: 100,
 };
-const usumTms = {
+const ultraSunUltraMoonTMs = {
   workup: 1,
   dragonclaw: 2,
   psyshock: 3,
@@ -899,7 +899,7 @@ const usumTms = {
   dazzlinggleam: 99,
   confide: 100,
 };
-const lgplgeTms = {
+const letGoPikachuEeveeTMs = {
   headbutt: 1,
   taunt: 2,
   helpinghand: 3,
@@ -963,16 +963,16 @@ const lgplgeTms = {
 };
 
 module.exports = {
-  rbyTms,
-  gscTms,
-  rseTms,
-  frlgTms,
-  dppTms,
-  hgssTms,
-  b2w2Tms,
-  xyTms,
-  orasTms,
-  smTms,
-  usumTms,
-  lgplgeTms,
+  redBlueYellowTMs,
+  goldSilverCrystalTMs,
+  rubySapphireEmeraldTMs,
+  fireRedLeafGreenTMs,
+  diamondPearlPlatinumTMs,
+  heartGoldSoulSilverTMs,
+  black2White2TMs,
+  xyTMs,
+  omegaRubyAlphaSapphireTMs,
+  sunMoonTMs,
+  ultraSunUltraMoonTMs,
+  letGoPikachuEeveeTMs,
 };
