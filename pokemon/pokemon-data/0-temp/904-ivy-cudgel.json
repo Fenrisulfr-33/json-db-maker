@@ -10,7 +10,7 @@
     "pp": 10,
     "power": 100,
     "accuracy": 100,
-    "contact": null,
+    "contact": true,
     "generation": 9,
     "target": "",
     "changes": [],
