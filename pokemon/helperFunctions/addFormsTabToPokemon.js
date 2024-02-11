@@ -1,4 +1,4 @@
-const { formTabs } = require('../forms/formTabs');
+const formTabs = require('../forms/formTabs');
 
 function addFormsTabToPokemon(pokemonId){
     const foundTab = formTabs.find((formTab) => {
@@ -11,6 +11,4 @@ function addFormsTabToPokemon(pokemonId){
     }
 }
 
-module.exports = {
-    addFormsTabToPokemon
-}
+module.exports = addFormsTabToPokemon;

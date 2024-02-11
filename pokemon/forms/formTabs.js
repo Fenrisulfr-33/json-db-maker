@@ -1,3 +1,12 @@
+  // {
+  //    _id: 0
+  //   pokemonIds: [],
+  //   key: '',
+  //   tab: [
+  //     { id: 0, name: '' }
+  //   ]
+  // },
+
 const formTabs = [
   {
     _id: 898,
@@ -116,14 +125,6 @@ const formTabs = [
       { id: 1017.3, name: "Cornerstone Mask" },
     ]
   },
-  // {
-  //    _id: 0
-  //   pokemonIds: [],
-  //   key: '',
-  //   tab: [
-  //     { id: 0, name: '' }
-  //   ]
-  // },
 ];
 
-module.exports = { formTabs };
+module.exports = formTabs;

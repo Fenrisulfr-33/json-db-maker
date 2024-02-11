@@ -23,7 +23,6 @@ const games = [
 ];
 
 function addGameDropDownToPokemon(pokemonMoves) {
-    
     const gameDropDown = games.filter((game) => {
         if (pokemonMoves.hasOwnProperty(game.key)){
             return {
@@ -35,6 +34,4 @@ function addGameDropDownToPokemon(pokemonMoves) {
     return gameDropDown;
 }
 
-module.exports = {
-    addGameDropDownToPokemon,
-}
+module.exports = addGameDropDownToPokemon;

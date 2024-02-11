@@ -1,4 +1,4 @@
-const evolutionsAssigningMasterKey = [
+const evolutionKeys = [
   {
     id: 1,
     evolution: 1,
@@ -3641,6 +3641,4 @@ const evolutionsAssigningMasterKey = [
 
 ];
 
-module.exports = {
-    evolutionsAssigningMasterKey,
-};
+module.exports = evolutionKeys;
