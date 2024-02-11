@@ -1,14 +1,12 @@
 const { MongoClient } = require("mongodb");
-// const nationalDex = require("./pokemon/pokemon-data/pokedexJoined.json");
-const nationalDex = require("./pokemon/pokemon-data/2023-10-09-pokedex.json");
-// Replace the uri string with your MongoDB deployment's connection string.
+const pokedex = require("./pokemon/pokemon-data/2024-02-10-pokedex.json");
+// TODO: replace uri string with env constant
 const uri = "mongodb+srv://archer_brendan:OdinRaven33@cluster0.spj8q.mongodb.net/pokemon?retryWrites=true&w=majority";
 const client = new MongoClient(uri);
 
-const replaceDbWithNewPokemon = async () => {
-  for (let i = 0; i < nationalDex.length; i++) {
-    const pokemon = nationalDex[i];
-    // console.log(pokemon._id);
+const replaceInsertPokemon = async () => {
+  for (let i = 0; i < pokedex.length; i++) {
+    const pokemon = pokedex[i];
     await replaceDocument(pokemon);
   }
   await client.close();
@@ -16,27 +14,14 @@ const replaceDbWithNewPokemon = async () => {
 
 async function replaceDocument(replacementPokemon) {
   try {
-    // Get the database and collection on which to run the operation
+    // clinet.db(databaseName)
     const pokemon = client.db("pokemon");
+    // databaseName.collection(collectionName)
     const national = pokemon.collection("national-dex");
-    // Create a query for documents where the title contains "The Cat from"
-    const query = { _id: replacementPokemon._id };
-    const options = {
+    // model.replaceOne(query, options)
+    const result = await national.replaceOne({ _id: replacementPokemon._id }, replacementPokemon, {
       upsert: true
-    }
-    // Execute the replace operation
-    const result = await national.replaceOne(query, replacementPokemon, options);
-    /**
-     * result = {
-     *  acknowledged: true,
-     *  modifiedCount: 0,
-     *  upsertedId: null,
-     *  upsertedCount: 0,
-     *  matchedCount: 1
-     * }
-     */
-    // console.log('result', result)
-    // Print the result
+    });
     if (result.modifiedCount > 0){
       console.log(`Modified ${result.modifiedCount} document(s) at position ${replacementPokemon._id}`);
     } else if (result.upsertedId){
@@ -47,4 +32,4 @@ async function replaceDocument(replacementPokemon) {
   }
 }
 
-replaceDbWithNewPokemon();
+replaceInsertPokemon();

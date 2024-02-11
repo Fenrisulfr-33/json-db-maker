@@ -28,6 +28,7 @@ const crownTundraDex = require("../pokedexes/objectFormatted/crown-tundra.json")
 const legendsArceusDex = require("../pokedexes/objectFormatted/legends-arceus.json");
 const scarletVioletDex = require("../pokedexes/objectFormatted/scarlet-violet.json");
 const theTealMaskDex = require('../pokedexes/objectFormatted/the-teal-mask.json');
+const theIndigoDiskDex = require('../pokedexes/objectFormatted/the-indigo-disk.json');
 
 const pokedexesByGame = [
   { game: 'red-blue', dex: redBlueYellowDex },
@@ -63,6 +64,7 @@ const pokedexesByGame = [
   { game: 'legends-arceus', dex: legendsArceusDex },
   { game: 'scarlet-violet', dex: scarletVioletDex },
   { game: 'the-teal-mask', dex: theTealMaskDex },
+  { game: 'the-indigo-disk', dex: theIndigoDiskDex },
 ];
 
 function assignPokemonPokedexNumbers(pokemonId) {
