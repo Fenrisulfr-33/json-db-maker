@@ -1,6 +1,5 @@
-const moves = require('../moves/00-dnt-moves.json');
-
-const badMoves = [
+const moves = require('../pokemon-data/2024-02-11-moves.json');
+const badMoveNames = [
     "PoisonPowder",
     "SolarBeam",
     "GrassWhistle",
@@ -27,8 +26,7 @@ const badMoves = [
     "Nature's Madness",
     "Vice Grip",
 ];
-
-const goodMoves = [
+const goodMoveNames = [
     "Poison Powder",
     "Solar Beam",
     "Grass Whistle",
@@ -54,7 +52,7 @@ const goodMoves = [
     "Land's Wrath", // Fixed database
     "Nature's Madness", // Fixed database
     'Vise Grip',
-]
+];
 
 function replaceWrongMoveNames(pokemonMoves, errors) {
     const returnMoves = {};
@@ -65,11 +63,11 @@ function replaceWrongMoveNames(pokemonMoves, errors) {
                 const returnList = list.map((move) => {
                     const foundMove = moves.find((dbMove) => dbMove.name.english === move.name);
                     if (!foundMove) {
-                        if (badMoves.includes(move.name)){
-                            const replaceIndex = badMoves.indexOf(move.name);
+                        if (badMoveNames.includes(move.name)){
+                            const replaceIndex = badMoveNames.indexOf(move.name);
                             return {
                                 ...move,
-                                name: goodMoves[replaceIndex],
+                                name: goodMoveNames[replaceIndex],
                             }
                         }
                         errors[move.name] = "move error";
@@ -79,13 +77,12 @@ function replaceWrongMoveNames(pokemonMoves, errors) {
                 })
                 returnMoves[game][method] = returnList;
             } else {
-                // Must be an array
                 const returnList = list.map((move) => {
                     const foundMove = moves.find((dbMove) => dbMove.name.english === move);
                     if (!foundMove) {
-                        if (badMoves.includes(move)){
-                            const replaceIndex = badMoves.indexOf(move);
-                            return goodMoves[replaceIndex]
+                        if (badMoveNames.includes(move)){
+                            const replaceIndex = badMoveNames.indexOf(move);
+                            return goodMoveNames[replaceIndex]
                         }
                         errors[move] = "bad";
                     } else {
@@ -96,11 +93,7 @@ function replaceWrongMoveNames(pokemonMoves, errors) {
             }
         }
     }
-
-    // return errors;
     return returnMoves;
 }
 
-module.exports = {
-    replaceWrongMoveNames
-}
+module.exports = replaceWrongMoveNames;

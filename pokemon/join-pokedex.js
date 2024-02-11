@@ -1,21 +1,20 @@
 const fs = require('fs');
 const pokemonPath = require("path").join(__dirname, "./pokemon-data/pokedex");
+const addMovesToPokemon = require("./helperFunctions/addMovesToPokemon.js");
+const replaceWrongMoveNames = require("./helperFunctions/replaceWrongMoveNames.js");
+// TODO: go through function below and clean up or see if their necessary
 const {
   assignPokemonPokedexNumbers,
 } = require("./helperFunctions/assignPokedexNumbers.js");
 // const {
 //   reformatPokemonObject,
 // } = require("./helperFunctions/reformatPokemonObject.js");
-const { addMovesToPokemon } = require("./helperFunctions/addMovesToPokemon.js");
 // const {
 //   reformatPokemonMoves,
 // } = require("./helperFunctions/reformatPokemonMoves.js");
 const {
   addGameDropDownToPokemon,
 } = require("./helperFunctions/addGameDropDownToPokemon.js");
-const {
-  replaceWrongMoveNames,
-} = require("./helperFunctions/replaceWrongMoveNames.js");
 // const {
 //   changePokedexEntriesData,
 // } = require("./helperFunctions/changePokedexEntriesData");
@@ -103,7 +102,7 @@ const pokedexSorted = pokedexJoined.sort((pokemonA, pokemonB) => {
 const saveData = JSON.stringify(pokedexSorted, null, 2);
 
 console.log('Pokedex length:', pokedexSorted.length);
-console.log('errors', errors);
+console.log('Pokedex join errors', errors);
 // Write JSON string to a file
 fs.writeFile(`./pokemon-data/${new Date().toJSON().slice(0,10)}-pokedex.json`, saveData, (error) => {
   error ? console.error(error) : null;

@@ -1,0 +1,25 @@
+{
+    "_id": 916,
+    "key": "supercell-slam",
+    "name": {
+      "english": "Supercell Slam"
+    },
+    "type": "Electric",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 100,
+    "accuracy": 95,
+    "contact": true,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead."
+    },
+    "effect": {
+      "full": "Supercell Slam deals damage. If the user misses, the user will take crash damage equal to half of the user's max HP, rounded down. If the target is immune to Supercell Slam by type or Ability (such as Volt Absorb), the move counts as a miss.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

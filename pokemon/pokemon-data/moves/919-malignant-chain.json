@@ -1,0 +1,25 @@
+{
+    "_id": 919,
+    "key": "malignant-chain",
+    "name": {
+      "english": "Malignant Chain"
+    },
+    "type": "Poison",
+    "category": "Special",
+    "contest": null,
+    "pp": 5,
+    "power": 100,
+    "accuracy": 100,
+    "contact": false,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned."
+    },
+    "effect": {
+      "full": "Malignant Chain inflicts damage and has a 50% chance of badly poisoning the target.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

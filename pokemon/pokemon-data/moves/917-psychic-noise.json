@@ -1,0 +1,25 @@
+{
+    "_id": 917,
+    "key": "psychic-noise",
+    "name": {
+      "english": "Psychic Noise"
+    },
+    "type": "Psychic",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 75,
+    "accuracy": 100,
+    "contact": false,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items."
+    },
+    "effect": {
+      "full": "Psychic Noise deals damage and prevents the target from recovering HP for two turns. During these two turns, if the target uses a move with a healing property, such as Drain Punch, it will fail. Psychic Noise is a sound-based move, and can hit Pokémon even if they are behind a substitute. The Heal Block property of this move is considered an additional effect, and is thus blocked by Shield Dust and suppressed by Sheer Force.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

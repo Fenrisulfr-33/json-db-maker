@@ -1,26 +1,30 @@
-const redBlueMoves = require("../moves/01-red-blue-moves.json");
-const yellowMoves = require("../moves/01-yellow-moves.json");
-const goldSilverMoves = require('../moves/02-gold-silver-moves.json');
-const crystalMoves = require('../moves/02-crystal-moves.json');
-const rubySapphireMoves = require('../moves/03-ruby-sapphire-moves.json');
-const emeraldMoves = require('../moves/03-emerald-moves.json');
-const fireRedLeafGreenMoves = require('../moves/03-firered-leafgreen-moves.json');
-const diamondPearlMoves = require('../moves/04-diamond-pearl-moves.json');
-const platinumMoves = require('../moves/04-platinum-moves.json');
-const heartGoldSoulSilverMoves = require('../moves/04-heartgold-soulsilver-moves.json');
-const blackWhiteMoves = require('../moves/05-black-white-moves.json');
-const black2White2Moves = require('../moves/05-black-2-white-2-moves.json');
-const xyMoves = require('../moves/06.1-xy-moves.json');
-const omegaRubyAlphaSapphireMoves = require('../moves/06.1-omega-ruby-alpha-sapphire-moves.json');
-const sunMoonMoves = require('../moves/07.2-sun-moon-moves.json');
-const ultraSunUltraMoonMoves = require('../moves/07.2-ultra-sun-ultra-moon-moves.json');
-const letsGoPikachuEeveeMoves = require('../moves/07-lets-go-pikcahu-eevee-moves.json');
-const swordShieldMoves = require('../moves/08.1-sword-shield-moves.json');
-const brilliantDiamondShiningPearlMoves = require('../moves/08-brilliant-diamond-shining-pearl-moves.json');
-const legendsArceusMoves = require('../moves/08-legends-arceus-moves.json');
-
-const scarletVioletMoves = require('../moves/09-scarlet-violet-moves.json');
-const scarletVioletFormsMoves = require('../moves/09-scarlet-violet-forms-moves.json');
+const redBlueMoves = require("../moves/games/red-blue-moves.json");
+const yellowMoves = require("../moves/games/yellow-moves.json");
+const goldSilverMoves = require('../moves/games/gold-silver-moves.json');
+const crystalMoves = require('../moves/games/crystal-moves.json');
+const rubySapphireMoves = require('../moves/games/ruby-sapphire-moves.json');
+const emeraldMoves = require('../moves/games/emerald-moves.json');
+const fireRedLeafGreenMoves = require('../moves/games/firered-leafgreen-moves.json');
+const diamondPearlMoves = require('../moves/games/diamond-pearl-moves.json');
+const platinumMoves = require('../moves/games/platinum-moves.json');
+const heartGoldSoulSilverMoves = require('../moves/games/heartgold-soulsilver-moves.json');
+const blackWhiteMoves = require('../moves/games/black-white-moves.json');
+const black2White2Moves = require('../moves/games/black-2-white-2-moves.json');
+const xyMoves = require('../moves/games/xy-moves.json');
+// TODO: add x & y form moves
+const omegaRubyAlphaSapphireMoves = require('../moves/games/omega-ruby-alpha-sapphire-moves.json');
+// TODO: add omega ruby & alpha sapphire form moves
+const sunMoonMoves = require('../moves/games/sun-moon-moves.json');
+// TODO: add sun and moon form moves
+const ultraSunUltraMoonMoves = require('../moves/games/ultra-sun-ultra-moon-moves.json');
+// TODO: add ultra sun & ultra moon form moves
+const letsGoPikachuEeveeMoves = require('../moves/games/lets-go-pikcahu-eevee-moves.json');
+const swordShieldMoves = require('../moves/games/sword-shield-moves.json');
+// TODO: add sword & shield form moves
+const brilliantDiamondShiningPearlMoves = require('../moves/games/brilliant-diamond-shining-pearl-moves.json');
+const legendsArceusMoves = require('../moves/games/legends-arceus-moves.json');
+const scarletVioletMoves = require('../moves/games/scarlet-violet-moves.json');
+const scarletVioletFormsMoves = require('../moves/forms/scarlet-violet-moves.json');
 const concatScarletViolet = scarletVioletMoves.concat(scarletVioletFormsMoves);
 
 const movesByGame = [
@@ -30,7 +34,7 @@ const movesByGame = [
     { moves: crystalMoves, key: 'crystal', length: 251 },
     { moves: rubySapphireMoves, key: 'ruby-sapphire', length: 386 },
     { moves: emeraldMoves, key: 'emerald', length: 386 },
-    { moves: fireRedLeafGreenMoves, key: 'fire-red-leaf-green', length: 386 },
+    { moves: fireRedLeafGreenMoves, key: 'firered-leafgreen', length: 386 },
     { moves: diamondPearlMoves, key: 'diamond-pearl', length: 493 },
     { moves: platinumMoves, key: 'platinum', length: 493 },
     { moves: heartGoldSoulSilverMoves, key: 'heart-gold-soul-silver', length: 493 },
@@ -44,28 +48,25 @@ const movesByGame = [
     { moves: swordShieldMoves, key: 'sword-shield', length: 905 },
     { moves: brilliantDiamondShiningPearlMoves, key: 'brilliant-diamond-shining-pearl', length: 905 },
     { moves: legendsArceusMoves, key: 'legends-arceus', length: 905 },
-    { moves: concatScarletViolet, key: 'scarlet-violet', length: 1017 },
+    { moves: concatScarletViolet, key: 'scarlet-violet', length: 1025 },
 ]
 
-const writeMoves = (moves, monId, returnObj, game, length) => {
-    if (Math.floor(monId) <= length) {
-        const foundMoves = moves.find((mon) => mon.id === monId);
+const assignMoves = (moves, pokemonId, returnMoves, game, length) => {
+    if (Math.floor(pokemonId) <= length) {
+        const foundMoves = moves.find((pokemon) => pokemon.id === pokemonId);
         if (foundMoves) {
-            returnObj[game] = foundMoves[game];
+            returnMoves[game] = foundMoves[game];
         }
     }
-    return returnObj;
+    return returnMoves;
 }
 
 function addMovesToPokemon(pokemonId, pokemonMoves) {
-    // Create a copy of the pokemon for return.
     let returnMoves = { ...pokemonMoves };
     movesByGame.forEach((game) => {
-        returnMoves = writeMoves(game.moves, pokemonId, returnMoves, game.key, game.length)
+        returnMoves = assignMoves(game.moves, pokemonId, returnMoves, game.key, game.length)
     });
     return returnMoves;
 }
 
-module.exports = {
-    addMovesToPokemon,
-};
+module.exports = addMovesToPokemon;

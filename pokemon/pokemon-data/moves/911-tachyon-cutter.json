@@ -1,0 +1,25 @@
+{
+    "_id": 911,
+    "key": "tachyon-cutter",
+    "name": {
+      "english": "Tachyon Cutter"
+    },
+    "type": "Steel",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 50,
+    "accuracy": null,
+    "contact": false,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user attacks by launching particle blades at the target twice in a row. This attack never misses."
+    },
+    "effect": {
+      "full": "Tachyon Cutter inflicts damage, hitting twice per use. It bypasses accuracy checks to always hit, unless the target is in the semi-invulnerable turn of a move such as Dig or Fly. If used by a Pokémon with Sharpness, its power is increased by 50%.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

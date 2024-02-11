@@ -1,0 +1,25 @@
+{
+    "_id": 10,
+    "key": "alluring-voice",
+    "name": {
+      "english": "Alluring Voice"
+    },
+    "type": "Fairy",
+    "category": "Special",
+    "contest": null,
+    "pp": 10,
+    "power": 80,
+    "accuracy": 100,
+    "contact": false,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn."
+    },
+    "effect": {
+      "full": "Alluring Voice inflicts damage. The move also confuses the target if the target's stats were raised during the same turn before the execution of Alluring Voice. Alluring Voice is a sound-based move.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

@@ -1,5 +1,5 @@
 const { MongoClient } = require("mongodb");
-const pokedex = require("./pokemon/pokemon-data/2024-02-10-pokedex.json");
+const pokedex = require("./pokemon/pokemon-data/2024-02-11-pokedex.json");
 // TODO: replace uri string with env constant
 const uri = "mongodb+srv://archer_brendan:OdinRaven33@cluster0.spj8q.mongodb.net/pokemon?retryWrites=true&w=majority";
 const client = new MongoClient(uri);

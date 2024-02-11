@@ -1,26 +1,53 @@
 const fs = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
-const pokemonNames = require("../pokemon-data/pokemon-names-man-edit.json");
+const pokemonNames = require("./pokemonNames.json");
+
+const gamesToScrape = [
+  { tabName: '#tab-moves-21', gameName: 'scarlet-violet', generation: 9, startingPoint: 0, pokedexLength: 1025 },
+  // { tabName: '#tab-moves-20', gameName: 'legends-arceus', generation: 8, startingPoint: 0, pokedexLength: 905 },
+  // { tabName: '#tab-moves-19', gameName: 'brilliant-diamond-shining-pearl', generation: 0, startingPoint: 0, pokedexLength: 905 },
+  // { tabName: '#tab-moves-18', gameName: 'sword-shield', generation: 8, startingPoint: 0, pokedexLength: 905 },
+  // { tabName: '#tab-moves-17', gameName: 'lets-go-pikachu-eevee', generation: 7, startingPoint: 0, pokedexLength: 905 },
+  // { tabName: '#tab-moves-16', gameName: 'ultra-sun-ultra-moon', generation: 7, startingPoint: 0, pokedexLength: 809 },
+  // { tabName: '#tab-moves-15', gameName: 'sun-moon', generation: 0, startingPoint: 0, pokedexLength: 809 },
+  // { tabName: '#tab-moves-14', gameName: 'omega-ruby-alpha-sapphire', generation: 6, startingPoint: 0, pokedexLength: 721 },
+  // { tabName: '#tab-moves-13', gameName: 'x-y', generation: 6, startingPoint: 0, pokedexLength: 721 },
+  // { tabName: '#tab-moves-12', gameName: 'black-2-white-2', generation: 5, startingPoint: 0, pokedexLength: 649 },
+  // { tabName: '#tab-moves-11', gameName: 'black-white', generation: 5, startingPoint: 0, pokedexLength: 649 },
+  // { tabName: '#tab-moves-10', gameName: 'heart-gold-soul-silver', generation: 4, startingPoint: 0, pokedexLength: 493 },
+  // { tabName: '#tab-moves-9', gameName: 'platinum', generation: 4, startingPoint: 0, pokedexLength: 493 },
+  // { tabName: '#tab-moves-8', gameName: 'diamond-pearl', generation: 4, startingPoint: 0, pokedexLength: 493 },
+  // { tabName: '#tab-moves-7', gameName: 'emerald', generation: 3, startingPoint: 0, pokedexLength: 386 },
+  // { tabName: '#tab-moves-6', gameName: 'fire-red-leaf-green', generation: 3, startingPoint: 0, pokedexLength: 386 },
+  // { tabName: '#tab-moves-5', gameName: 'ruby-sapphire', generation: 3, startingPoint: 0, pokedexLength: 386 },
+  // { tabName: '#tab-moves-4', gameName: 'crystal', generation: 2, startingPoint: 0, pokedexLength: 251 },
+  // { tabName: '#tab-moves-3', gameName: 'gold-silver', generation: 2, startingPoint: 0, pokedexLength: 251 },
+  // { tabName: '#tab-moves-2', gameName: 'yellow', generation: 1, startingPoint: 0, pokedexLength: 151 },
+  // { tabName: '#tab-moves-1', gameName: 'red-blue', generation: 1, startingPoint: 0, pokedexLength: 151 },
+];
+
+const main = (games) => {
+  games.forEach((game) => {
+    const errors = {};
+    const pokemonMoves = [];
+    scrapePokemonMoves(game.tabName, game.gameName, game.generation, game.startingPoint, errors, pokemonMoves, game.pokedexLength);
+  })
+}
 
 const scrapePokemonMoves = async (
   tab,
-  gameSave,
-  fileSave,
-  gen,
+  gameName,
+  generation,
   i,
   errors,
   pokemonMovesJSON,
-  length
+  pokedexLength
 ) => {
-  // This allows you to enter the last dex number, easier for input.
-  if (i > length - 1) {
-    // if (i > 904) {
+  if (i > pokedexLength - 1) {
     console.log("Errors", errors);
-    // Create saveData in json format
-    const saveData = JSON.stringify(pokemonMovesJSON, null, 2); // this makes it pretty
-    // Write JSON string to a file
-    fs.writeFile(fileSave, saveData, (error) => {
+    const saveData = JSON.stringify(pokemonMovesJSON, null, 2);
+    fs.writeFile(`./${gameName}-moves.json`, saveData, (error) => {
       error ? console.error(error) : null;
       console.log("JSON data is saved.");
     });
@@ -29,21 +56,10 @@ const scrapePokemonMoves = async (
     const pokemon = pokemonNames[i];
     let hasMoves = true;
 
-    axios(`https://pokemondb.net/pokedex/${pokemon}/moves/${gen}`)
+    axios(`https://pokemondb.net/pokedex/${pokemon}/moves/${generation}`)
       .then((response) => {
         const html = response.data;
         const $ = cheerio.load(html);
-
-        /**
-         * For Gen 8 the tabs are as follows
-         *
-         * tab-moves-20 === Legends Arceus
-         * tab-moves-19 === BDSP
-         * tab-moves-18 === Sword & Shield
-         * tab-moves-17 === Let's Go Pikachu & Eeevee
-         * tab-moves-16 === Ultra Sun & Moon
-         * tab-moves-15 === Sun & Moon
-         */
         const moves = $(tab).find("h3");
 
         if (moves.length > 0) {
@@ -337,7 +353,7 @@ const scrapePokemonMoves = async (
           pokemonMovesJSON.push({
             id: i + 1,
             name: pokemon,
-            [gameSave]: returnMovesObject,
+            [gameName]: returnMovesObject,
           });
           // Pretty conosole.logs
           const pokemonNatDexNo = i + 1;
@@ -366,13 +382,12 @@ const scrapePokemonMoves = async (
         i++;
         scrapePokemonMoves(
           tab,
-          gameSave,
-          fileSave,
-          gen,
+          gameName,
+          generation,
           i,
           errors,
           pokemonMovesJSON,
-          length
+          pokedexLength
         );
       })
       .catch((error) => {
@@ -398,13 +413,12 @@ const scrapePokemonMoves = async (
         i++;
         scrapePokemonMoves(
           tab,
-          gameSave,
-          fileSave,
-          gen,
+          gameName,
+          generation,
           i,
           errors,
           pokemonMovesJSON,
-          length
+          pokedexLength
         );
       });
   }
@@ -487,191 +501,5 @@ const getData = ($, list, tableType, returnObj, objKey) => {
   return returnObj;
 };
 
-// Gen 9 ------------------------------------------
-
-scrapePokemonMoves(
-  "#tab-moves-21",
-  "scarlet-violet",
-  "./scarlet-violet-moves.json",
-  9,
-  0,
-  {},
-  [],
-  1017
-);
-
-// Gen 8 ------------------------------------------
-
-// scrapePokemonMoves(
-//   "#tab-moves-20",
-//   "legends-arceus",
-//   "./legends-arceus-moves.json",
-//   8
-// );
-
-// scrapePokemonMoves(
-//     "#tab-moves-19",
-//     "brilliant-diamond-shining-pearl",
-//     "./bdsp-moves.json",
-//     8
-// );
-
-// scrapePokemonMoves(
-//     "#tab-moves-18",
-//     "sword-shield",
-//     "./sword-shield-moves.json",
-//     8,
-//   0,
-//   {},
-//   [],
-//   905
-// );
-
-// Gen 7 ------------------------------------------
-
-// scrapePokemonMoves(
-//     "#tab-moves-17",
-//     "lets-go-pikachu-eevee",
-//     "./lgpe-moves.json",
-//     7
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-16",
-//   "ultra-sun-ultra-moon",
-//   "./usum-moves.json",
-//   7,
-// 0,
-// {},
-// [],
-// 809
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-15",
-//   "sun-moon",
-//   "./sun-moon-moves.json",
-//   7,
-//   0,
-//   {},
-//   [],
-//   809
-// );
-
-// Gen 6 ------------------------------------------
-
-// scrapePokemonMoves(
-//   "#tab-moves-14",
-//   "omega-ruby-alpha-sapphire",
-//   "./oras-moves.json",
-//   6
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-13",
-//   "x-y",
-//   "./xy-moves.json",
-//   6
-// );
-
-// Gen 5 ------------------------------------------
-
-// scrapePokemonMoves(
-//   "#tab-moves-12",
-//   "black-2-white-2",
-//   "./b2w2-moves.json",
-//   5
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-11",
-//   "black-white",
-//   "./black-white-moves.json",
-//   5
-// );
-
-// Gen 4 ------------------------------------------
-
-// scrapePokemonMoves(
-//   "#tab-moves-10",
-//   "heart-gold-soul-silver",
-//   "./hgss-moves.json",
-//   4
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-9",
-//   "platinum",
-//   "./platinum-moves.json",
-//   4
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-8",
-//   "diamond-pearl",
-//   "./diamond-pearl-moves.json",
-//   4
-// );
-
-// Gen 3 ------------------------------------------
-
-// scrapePokemonMoves(
-//   "#tab-moves-7",
-//   "emerald",
-//   "./emerald-moves.json",
-//   3
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-6",
-//   "fire-red-leaf-green",
-//   "./frlg-moves.json",
-//   3
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-5",
-//   "ruby-sapphire",
-//   "./ruby-sapphire-moves.json",
-//   3
-// );
-
-// Gen 2 ------------------------------------------
-
-// scrapePokemonMoves(
-//   "#tab-moves-4",
-//   "crystal",
-//   "./crystal-moves.json",
-//   2
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-3",
-//   "gold-silver",
-//   "./gold-silver-moves.json",
-//   2
-// );
-
-// Gen 1 ------------------------------------------
-
-// scrapePokemonMoves(
-//   "#tab-moves-2",
-//   "yellow",
-//   "./yellow-moves.json",
-//   1,
-//   0,
-//   {},
-//   [],
-//   151
-// );
-
-// scrapePokemonMoves(
-//   "#tab-moves-1",
-//   "red-blue",
-//   "./red-blue-moves.json",
-//   1,
-//   0,
-//   {},
-//   [],
-//   151
-// );
+main(gamesToScrape);
+// scrapePokemonMoves('#tab-moves-21', 'scarlet-violet', 9, 0, {}, [], 1025);

@@ -1,0 +1,25 @@
+{
+    "_id": 915,
+    "key": "temper-flare",
+    "name": {
+      "english": "Temper Flare"
+    },
+    "type": "Fire",
+    "category": "Physical",
+    "contest": null,
+    "pp": 10,
+    "power": 75,
+    "accuracy": 100,
+    "contact": true,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed."
+    },
+    "effect": {
+      "full": "Temper Flare is a damage dealing move. If, on the previous turn, the user's last move missed, failed to affect each of its targets, or was prevented from being used due to an effect such as paralysis, Temper Flare's power is doubled from 75 to 150. If the user was recharging or any target of the user's last move blocked it with a protection move such as Protect on the previous turn, Temper Flare's base power is not doubled.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

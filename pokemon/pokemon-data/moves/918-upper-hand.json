@@ -1,0 +1,25 @@
+{
+    "_id": 918,
+    "key": "upper-hand",
+    "name": {
+      "english": "Upper Hand"
+    },
+    "type": "Fighting",
+    "category": "Physical",
+    "contest": null,
+    "pp": 15,
+    "power": 65,
+    "accuracy": 100,
+    "contact": true,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move."
+    },
+    "effect": {
+      "full": "If the target has selected a physical or special move with increased priority from +1 to +3 and has not yet had a chance to execute its move, Upper Hand will strike first and cause the target to flinch; otherwise, Upper Hand will fail. It also works on Abilities that give priority to moves, such as Gale Wings.",
+      "shortEffect": ""
+    },
+    "priority": 3
+  }
