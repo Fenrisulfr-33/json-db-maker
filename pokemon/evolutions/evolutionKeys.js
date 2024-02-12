@@ -813,7 +813,7 @@ const evolutionKeys = [
   },
   {
     id: 203,
-    evolution: null,
+    evolution: 335,
   },
   {
     id: 204,
@@ -825,7 +825,7 @@ const evolutionKeys = [
   },
   {
     id: 206,
-    evolution: null,
+    evolution: 336,
   },
   {
     id: 207,
@@ -3550,7 +3550,7 @@ const evolutionKeys = [
   },
   {
     id: 884,
-    evolution: null,
+    evolution: 339,
   },
   {
     id: 885,
@@ -3638,7 +3638,482 @@ const evolutionKeys = [
     evolution: null,
   },
   // Start of Scarlet & Violet
-
+  {
+    id: 906,
+    evolution: 306 
+  },
+  {
+    id: 907,
+    evolution: 306 
+  },
+  {
+    id: 908,
+    evolution: 306 
+  },
+  {
+    id: 909,
+    evolution: 307
+  },
+  {
+    id: 910,
+    evolution: 307
+  },
+  {
+    id: 911,
+    evolution: 307
+  },
+  {
+    id: 912,
+    evolution: 308
+  },
+  {
+    id: 913,
+    evolution: 308
+  },
+  {
+    id: 914,
+    evolution: 308
+  },
+  {
+    id: 915,
+    evolution: 309
+  },
+  {
+    id: 916,
+    evolution: 309
+  },
+  {
+    id: 917,
+    evolution: 310
+  },
+  {
+    id: 918,
+    evolution: 310
+  },
+  {
+    id: 919,
+    evolution: 311
+  },
+  {
+    id: 920,
+    evolution: 311
+  },
+  {
+    id: 921,
+    evolution: 312
+  },
+  {
+    id: 922,
+    evolution: 312
+  },
+  {
+    id: 924,
+    evolution: 313
+  },
+  {
+    id: 925,
+    evolution: 313
+  },
+  {
+    id: 926,
+    evolution: 314
+  },
+  {
+    id: 927,
+    evolution: 315
+  },
+  {
+    id: 928,
+    evolution: 316
+  },
+  {
+    id: 929,
+    evolution: 316
+  },
+  {
+    id: 930,
+    evolution: 316
+  },
+  {
+    id: 931,
+    evolution: null
+  },
+  {
+    id: 932,
+    evolution: 317
+  },
+  {
+    id: 933,
+    evolution: 317
+  },
+  {
+    id: 934,
+    evolution: 317
+  },
+  {
+    id: 935,
+    evolution: 318
+  },
+  {
+    id: 936,
+    evolution: 318
+  },
+  {
+    id: 937,
+    evolution: 318
+  },
+  {
+    id: 938,
+    evolution: 319
+  },
+  {
+    id: 939,
+    evolution: 319
+  },
+  {
+    id: 940,
+    evolution: 320
+  },
+  {
+    id: 941,
+    evolution: 320
+  },
+  {
+    id: 942,
+    evolution: 321
+  },
+  {
+    id: 943,
+    evolution: 321
+  },
+  {
+    id: 944,
+    evolution: 322
+  },
+  {
+    id: 945,
+    evolution: 322
+  },
+  {
+    id: 946,
+    evolution: 323
+  },
+  {
+    id: 947,
+    evolution: 323
+  },
+  {
+    id: 948,
+    evolution: 324
+  },
+  {
+    id: 949,
+    evolution: 324
+  },
+  {
+    id: 950,
+    evolution: null
+  },
+  {
+    id: 951,
+    evolution: 325
+  },
+  {
+    id: 952,
+    evolution: 325
+  },
+  {
+    id: 953,
+    evolution: 326
+  },
+  {
+    id: 954,
+    evolution: 326
+  },
+  {
+    id: 955,
+    evolution: 327
+  },
+  {
+    id: 956,
+    evolution: 327
+  },
+  {
+    id: 957,
+    evolution: 328
+  },
+  {
+    id: 958,
+    evolution: 328
+  },
+  {
+    id: 959,
+    evolution: 328
+  },
+  {
+    id: 960,
+    evolution: 329
+  },
+  {
+    id: 961,
+    evolution: 329
+  },
+  {
+    id: 962,
+    evolution: null
+  },
+  {
+    id: 963,
+    evolution: 330
+  },
+  {
+    id: 964,
+    evolution: 330
+  },
+  {
+    id: 965,
+    evolution: 331
+  },
+  {
+    id: 966,
+    evolution: 331
+  },
+  {
+    id: 967,
+    evolution: null
+  },
+  {
+    id: 968,
+    evolution: null
+  },
+  {
+    id: 969,
+    evolution: 332
+  },
+  {
+    id: 970,
+    evolution: 332
+  },
+  {
+    id: 971,
+    evolution: 333
+  },
+  {
+    id: 972,
+    evolution: 333
+  },
+  {
+    id: 973,
+    evolution: null
+  },
+  {
+    id: 974,
+    evolution: 334
+  },
+  {
+    id: 975,
+    evolution: 334
+  },
+  {
+    id: 976,
+    evolution: null
+  },
+  {
+    id: 977,
+    evolution: null
+  },
+  {
+    id: 978,
+    evolution: null
+  },
+  {
+    id: 979,
+    evolution: 24
+  },
+  {
+    id: 980,
+    evolution: 68
+  },
+  {
+    id: 981,
+    evolution: 335
+  },
+  {
+    id: 982,
+    evolution: 336
+  },
+  {
+    id: 983,
+    evolution: 219
+  },
+  {
+    id: 984,
+    evolution: null
+  },
+  {
+    id: 985,
+    evolution: null
+  },
+  {
+    id: 986,
+    evolution: null
+  },
+  {
+    id: 987,
+    evolution: null
+  },
+  {
+    id: 988,
+    evolution: null
+  },
+  {
+    id: 989,
+    evolution: null
+  },
+  {
+    id: 990,
+    evolution: null
+  },
+  {
+    id: 991,
+    evolution: null
+  },
+  {
+    id: 992,
+    evolution: null
+  },
+  {
+    id: 993,
+    evolution: null
+  },
+  {
+    id: 994,
+    evolution: null
+  },
+  {
+    id: 995,
+    evolution: null
+  },
+  {
+    id: 996,
+    evolution: 336
+  },
+  {
+    id: 997,
+    evolution: 336
+  },
+  {
+    id: 998,
+    evolution: 336
+  },
+  {
+    id: 999,
+    evolution: 337
+  },
+  {
+    id: 1000,
+    evolution: 337
+  },
+  {
+    id: 1001,
+    evolution: null
+  },
+  {
+    id: 1002,
+    evolution: null
+  },
+  {
+    id: 1003,
+    evolution: null
+  },
+  {
+    id: 1004,
+    evolution: null
+  },
+  {
+    id: 1005,
+    evolution: null
+  },
+  {
+    id: 1006,
+    evolution: null
+  },
+  {
+    id: 1007,
+    evolution: null
+  },
+  {
+    id: 1008,
+    evolution: null
+  },
+  {
+    id: 1009,
+    evolution: null
+  },
+  {
+    id: 1010,
+    evolution: null
+  },
+  {
+    id: 1011,
+    evolution: 287
+  },
+  {
+    id: 1012,
+    evolution: 338
+  },
+  {
+    id: 1013,
+    evolution: 338
+  },
+  {
+    id: 1014,
+    evolution: null
+  },
+  {
+    id: 1015,
+    evolution: null
+  },
+  {
+    id: 1016,
+    evolution: null
+  },
+  {
+    id: 1017,
+    evolution: null
+  },
+  {
+    id: 1018,
+    evolution: 339
+  },
+  {
+    id: 1019,
+    evolution: 287
+  },
+  {
+    id: 2020,
+    evolution: null
+  },
+  {
+    id: 2021,
+    evolution: null
+  },
+  {
+    id: 2022,
+    evolution: null
+  },
+  {
+    id: 2023,
+    evolution: null
+  },
+  {
+    id: 2024,
+    evolution: null
+  },
+  {
+    id: 2025,
+    evolution: null
+  }
 ];
 
 module.exports = evolutionKeys;
