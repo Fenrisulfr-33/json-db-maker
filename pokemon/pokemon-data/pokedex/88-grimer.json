@@ -45,8 +45,8 @@
     "total": 325
   },
   "info": {
-    "height": "0.7 m (2′04″)",
-    "weight": "42.0 kg (92.6 lbs)"
+    "height": "0.9 m (2′11″)",
+    "weight": "30.0 kg (66.1 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -55,7 +55,9 @@
   },
   "evolution": 37,
   "generation": 1,
-  "evs": {},
+  "evs": {
+    "hp": 1
+  },
   "eggGroups": [
     "Amorphous"
   ],
@@ -169,28 +171,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth."
-      }
-    ],
-    "Alolan Grimer": [
-      {
-        "game": "sun",
-        "desc": "A Grimer, which had been brought in to solve a problem with garbage, developed over time into this form."
-      },
-      {
-        "game": "moon",
-        "desc": "The crystals on Grimer’s body are lumps of toxins. If one falls off, lethal poisons leak out."
-      },
-      {
-        "game": "ultra-sun",
-        "desc": "There are a hundred or so of them living in Alola’s waste-disposal site. They’re all hard workers who eat a lot of trash."
-      },
-      {
-        "game": "ultra-moon",
-        "desc": "Brought to Alola to solve the garbage problem, Grimer seems to relish any and all kinds of trash."
-      },
-      {
-        "game": "lets-go-pikachu-eevee",
-        "desc": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison."
       }
     ]
   }

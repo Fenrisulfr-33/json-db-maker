@@ -46,8 +46,8 @@
     "total": 440
   },
   "info": {
-    "height": "1.1 m (3′07″)",
-    "weight": "33.0 kg (72.8 lbs)"
+    "height": "1.0 m (3′03″)",
+    "weight": "32.0 kg (70.5 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -168,36 +168,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "It is a very haughty Pokémon. Among fans of Persian, the size of the jewel in its forehead is a topic of much talk."
-      }
-    ],
-    "Alolan Persian": [
-      {
-        "game": "sun",
-        "desc": "Its round face and smooth coat—softer than the most high-class velvet—have made this a very popular Pokémon in Alola."
-      },
-      {
-        "game": "moon",
-        "desc": "It looks down on everyone other than itself. Its preferred tactics are sucker punches and blindside attacks."
-      },
-      {
-        "game": "ultra-sun",
-        "desc": "In contrast to its lovely face, it’s so brutal that it tortures its weakened prey rather than finishing them off."
-      },
-      {
-        "game": "ultra-moon",
-        "desc": "Its round face is a symbol of wealth. Persian that have bigger, plumper faces are considered more beautiful."
-      },
-      {
-        "game": "lets-go-pikachu-eevee",
-        "desc": "It has the classiest coat. The rippling of its fur in the heat of battle has a beauty all its own."
-      },
-      {
-        "game": "sword",
-        "desc": "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for."
-      },
-      {
-        "game": "shield",
-        "desc": "This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it’s also not above fighting dirty."
       }
     ]
   }

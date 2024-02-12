@@ -182,36 +182,6 @@
         "game": "legends-arceus",
         "desc": "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six."
       }
-    ],
-    "Alolan Vulpix": [
-      {
-        "game": "sun",
-        "desc": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo."
-      },
-      {
-        "game": "moon",
-        "desc": "In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off."
-      },
-      {
-        "game": "ultra-sun",
-        "desc": "If you carelessly approach it because it’s cute, the boss of the pack, Ninetales, will appear and freeze you."
-      },
-      {
-        "game": "ultra-moon",
-        "desc": "They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their –58 degree Fahrenheit breath."
-      },
-      {
-        "game": "lets-go-pikachu-eevee",
-        "desc": "It looks like snow come to life, and the breath it exhales is –58 degrees Fahrenheit. Another name for it is Keokeo."
-      },
-      {
-        "game": "sword",
-        "desc": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice."
-      },
-      {
-        "game": "shield",
-        "desc": "If you observe its curly hairs through a microscope, you’ll see small ice particles springing up."
-      }
     ]
   }
 }

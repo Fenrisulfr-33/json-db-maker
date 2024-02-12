@@ -47,7 +47,7 @@
   },
   "info": {
     "height": "0.2 m (0′08″)",
-    "weight": "1.0 kg (2.2 lbs)"
+    "weight": "0.8 kg (1.8 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -169,36 +169,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "This Pokémon lives underground. Because of its dark habitat, it is repelled by bright sunlight."
-      }
-    ],
-    "Alolan Diglett": [
-      {
-        "game": "sun",
-        "desc": "Its head sports an altered form of whiskers made of metal. When in communication with its comrades, its whiskers wobble to and fro."
-      },
-      {
-        "game": "moon",
-        "desc": "Its golden hairs function as sensors. It pokes them out of its burrow to monitor its surroundings."
-      },
-      {
-        "game": "ultra-sun",
-        "desc": "Although it’s powerful enough to dig right through volcanic rock, it doesn’t allow itself to be seen very often."
-      },
-      {
-        "game": "ultra-moon",
-        "desc": "The need to dig through volcanic rock in the ground has made them more powerful than the Diglett of other regions."
-      },
-      {
-        "game": "lets-go-pikachu-eevee",
-        "desc": "After living in soil with high iron content for some time, three steel whiskers sprouted from the top of its head."
-      },
-      {
-        "game": "sword",
-        "desc": "The metal-rich geology of this Pokémon’s habitat caused it to develop steel whiskers on its head."
-      },
-      {
-        "game": "shield",
-        "desc": "Its three hairs change shape depending on Diglett’s mood. They’re a useful communication tool among these Pokémon."
       }
     ]
   }
