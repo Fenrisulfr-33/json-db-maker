@@ -3,6 +3,68 @@
 
 This document is for management and assurances of data in these documents.
 
+## Mega forms
+
+| pokemon           | .json | xy-moves  | oras-moves    | sm-moves  | usum-moves    | formsTab  |
+| -                 | -     | -         | -             | -         | -             | -         |
+| Mega Venusaur     | x     | -         | -             | -         | x             | x         |
+| Mega Charizard X  | x     | -         | -             | -         | x             | x         |
+| Mega Charizard Y  | x     | -         | -             | -         | x             | x         |
+| Mega Blastoise    | x     | -         | -             | -         | x             | x         |
+| Mega Alakazam     | x     | -         | -             | -         | x             | x         |
+| Mega Gengar       | x     | -         | -             | -         | x             | x         |
+| Mega Kangaskhan   | x     | -         | -             | -         | x             | x         |
+| Mega Pinsir       | x     | -         | -             | -         | x             | x         |
+| Mega Gyarados     | x     | -         | -             | -         | x             | x         |
+| Mega Aerodactyl   | x     | -         | -             | -         | x             | x         |
+| Mega Mewtwo X     | x     | -         | -             | -         | x             | x         |
+| Mega Mewtwo Y     | x     | -         | -             | -         | x             | x         |
+| Mega Ampharos     | x     | -         | -             | -         | x             | x         |
+| Mega Scizor       | x     | -         | -             | -         | x             | x         |
+| Mega Heracross    | x     | -         | -             | -         | x             | x         |
+| Mega Houndoom     | x     | -         | -             | -         | x             | x         |
+| Mega Tyranitar    | x     | -         | -             | -         | x             | x         |
+| Mega Blaziken     | x     | -         | -             | -         | x             | x         |
+| Mega Gardevoir    | x     | -         | -             | -         | x             | x         |
+| Mega Mawile       | x     | -         | -             | -         | x             | x         |
+| Mega Aggron       | x     | -         | -             | -         | x             | x         |
+| Mega Medicham     | x     | -         | -             | -         | x             | x         |
+| Mega Manectric    | x     | -         | -             | -         | x             | x         |
+| Mega Banette      | x     | -         | -             | -         | x             | x         |
+| Mega Absol        | x     | -         | -             | -         | x             | x         |
+| Mega Garchomp     | x     | -         | -             | -         | x             | x         |
+| Mega Lucario      | x     | -         | -             | -         | x             | x         |
+| Mega Abomasnow    | x     | -         | -             | -         | x             | x         |
+| Mega Beedrill     | x     | null      | -             | -         | x             | x         |
+| Mega Pidgeot      | x     | null      | -             | -         | x             | x         |
+| Mega Slowbro      | x     | null      | -             | -         | x             | x         |
+| Mega Steelix      | x     | null      | -             | -         | x             | x         |
+| Mega Sceptile     | x     | null      | -             | -         | x             | x         |
+| Mega Swampert     | x     | null      | -             | -         | x             | x         |
+| Mega Sableye      | x     | null      | -             | -         | x             | x         |
+| Mega Sharpedo     | x     | null      | -             | -         | x             | x         |
+| Mega Camerupt     | x     | null      | -             | -         | x             | x         |
+| Mega Altaria      | x     | null      | -             | -         | x             | x         |
+| Mega Glalie       | x     | null      | -             | -         | x             | x         |
+| Mega Salamence    | x     | null      | -             | -         | x             | x         |
+| Mega Metagross    | x     | null      | -             | -         | x             | x         |
+| Mega Latias       | x     | null      | -             | -         | x             | x         |
+| Mega Latios       | x     | null      | -             | -         | x             | x         |
+| Mega Rayquaza     | x     | null      | -             | -         | x             | x         |
+| Mega Lopunny      | x     | null      | -             | -         | x             | x         |
+| Mega Gallade      | x     | null      | -             | -         | x             | x         |
+| Mega Audino       | x     | null      | -             | -         | x             | x         |
+| Mega Diancie      | x     | null      | -             | -         | x             | x         |
+
+## Primal forms
+
+| pokemon           | .json | oras-moves    | usum-moves    | formsTab  |
+| -                 | -     | -             | -             | -         |
+| Primal Kyogre     | x     | -             | x             | -         |
+| Primal Groudon    | x     | -             | x             | -         |
+
+## Alolan forms
+
 | pokemon           | .json | sm-moves  | usum-moves    | lets-go   | formTab   |
 | -                 | -     | -         | -             | -         | -         |
 | Alolan Rattata    | x     | x         | -             | -         | x         |
@@ -23,3 +85,27 @@ This document is for management and assurances of data in these documents.
 | Alolan Muk        | x     | -         | -             | -         | x         |
 | Alolan Exeggutor  | x     | -         | -             | -         | x         |
 | Alolan Marowak    | x     | -         | -             | -         | x         |
+
+## Galarian forms
+
+| pokemon               | .json | swsh-moves    | formTab   |
+| -                     | -     | -             | -         |
+| Galarian Meowth       | x     | -             | -         |
+| Galarian Ponyta       | x     | -             | -         |
+| Galarian Rapidash     | x     | -             | -         |
+| Galarian Slowpoke     | x     | -             | -         |
+| Galarian Slowbro      | x     | -             | -         |
+| Galarian Farfetch'd   | x     | -             | -         |
+| Galarian Weezing      | x     | -             | -         |
+| Galarian Mr Mime      | x     | -             | -         |
+| Galarian Articuno     | x     | -             | -         |
+| Galarian Zapdos       | x     | -             | -         |
+| Galarian Moltes       | x     | -             | -         |
+| Galarian Slowking     | x     | -             | -         |
+| Galarian Corsola      | x     | -             | -         |
+| Galarian Zigzagoon    | x     | -             | -         |
+| Galarian Linoone      | x     | -             | -         |
+| Galarian Darumaka     | x     | -             | -         |
+| Galarian Darmanitan   | x     | -             | -         |
+| Galarian Yamask       | x     | -             | -         |
+| Galarian Stunfisk     | x     | -             | -         |
