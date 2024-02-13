@@ -44,7 +44,7 @@
     "total": 490
   },
   "info": {
-    "height": "1.8 m (5′11″)",
+    "height": "2.0 m (6′07″)",
     "weight": "79.5 kg (175.3 lbs)"
   },
   "gender": {
@@ -55,7 +55,7 @@
   "evolution": 33,
   "generation": 2,
   "evs": {
-    "spdef": 3
+    "spdef": 2
   },
   "eggGroups": [
     "Monster",
@@ -156,16 +156,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "Being bitten by Shellder gave it intelligence comparable to that of internationally recognized scientists."
-      }
-    ],
-    "Galarian Slowking": [
-      {
-        "game": "sword",
-        "desc": "A combination of toxins and the shock of evolving has increased Shellder’s intelligence to the point that Shellder now controls Slowking."
-      },
-      {
-        "game": "shield",
-        "desc": "While chanting strange spells, this Pokémon combines its internal toxins with what it’s eaten, creating strange potions."
       }
     ]
   }

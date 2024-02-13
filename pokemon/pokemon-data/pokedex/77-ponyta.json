@@ -46,8 +46,8 @@
     "total": 410
   },
   "info": {
-    "height": "0.8 m (2′07″)",
-    "weight": "24.0 kg (52.9 lbs)"
+    "height": "1.0 m (3′03″)",
+    "weight": "30.0 kg (66.1 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -169,20 +169,6 @@
       {
         "game": "legends-arceus",
         "desc": "These Pokémon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth."
-      }
-    ],
-    "Galarian Ponyta": [
-      {
-        "game": "sword",
-        "desc": "Its small horn hides a healing power. With a few rubs from this Pokémon’s horn, any slight wound you have will be healed."
-      },
-      {
-        "game": "shield",
-        "desc": "This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away."
-      },
-      {
-        "game": "legends-arceus",
-        "desc": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
       }
     ]
   }

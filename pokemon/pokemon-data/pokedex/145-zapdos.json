@@ -42,7 +42,7 @@
   },
   "info": {
     "height": "1.6 m (5′03″)",
-    "weight": "58.2 kg (128.3 lbs)"
+    "weight": "52.6 kg (116.0 lbs)"
   },
   "gender": {
     "male": "",
@@ -148,16 +148,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "This legendary Pokémon is said to live in thunderclouds. It freely controls lightning bolts."
-      }
-    ],
-    "Galarian Zapdos": [
-      {
-        "game": "sword",
-        "desc": "When its feathers rub together, they produce a crackling sound like the zapping of electricity. That’s why this Pokémon is called Zapdos."
-      },
-      {
-        "game": "shield",
-        "desc": "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph."
       }
     ]
   }

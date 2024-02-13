@@ -37,8 +37,8 @@
     "total": 315
   },
   "info": {
-    "height": "0.7 m (2′04″)",
-    "weight": "40.0 kg (88.2 lbs)"
+    "height": "0.6 m (2′00″)",
+    "weight": "37.5 kg (82.7 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -92,16 +92,6 @@
       {
         "game": "shield",
         "desc": "This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled."
-      }
-    ],
-    "Galarian Darumaka": [
-      {
-        "game": "sword",
-        "desc": "It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead."
-      },
-      {
-        "game": "shield",
-        "desc": "The colder they get, the more energetic they are. They freeze their breath to make snowballs, using them as ammo for playful snowball fights."
       }
     ]
   }

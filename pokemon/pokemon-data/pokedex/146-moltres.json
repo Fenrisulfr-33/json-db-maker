@@ -42,7 +42,7 @@
   },
   "info": {
     "height": "2.0 m (6′07″)",
-    "weight": "66.0 kg (145.5 lbs)"
+    "weight": "60.0 kg (132.3 lbs)"
   },
   "gender": {
     "male": "",
@@ -148,16 +148,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "It is one of the legendary bird Pokémon. Its appearance is said to indicate the coming of spring."
-      }
-    ],
-    "Galarian Moltres": [
-      {
-        "game": "sword",
-        "desc": "This Pokémon’s sinister, flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves."
-      },
-      {
-        "game": "shield",
-        "desc": "The sinister aura that blazes like molten fire around this Pokémon is what inspired the name Moltres."
       }
     ]
   }

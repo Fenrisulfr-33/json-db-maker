@@ -1,19 +1,10 @@
 {
   "_id": 554.1,
+  "key": "galarian-darumaka",
   "name": {
-    "english": "Darumaka",
-    "spanish": "Darumaka",
-    "italian": "Darumaka",
-    "japanese": "ダルマッカ",
-    "chinese": "火红不倒翁",
-    "korean": "",
-    "german": "Flampion",
-    "french": "Darumarond"
+    "english": "Galarian Darumaka"
   },
-  "pokedexNumber": {
-    "sword-shield": 367,
-    "crown-tundra": 103
-  },
+  "pokedexNumber": {},
   "type": {
     "one": "Ice"
   },

@@ -47,8 +47,8 @@
     "total": 460
   },
   "info": {
-    "height": "1.4 m (4′07″)",
-    "weight": "56.8 kg (125.2 lbs)"
+    "height": "1.3 m (4′03″)",
+    "weight": "54.5 kg (120.2 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -178,16 +178,6 @@
       {
         "game": "legends-arceus",
         "desc": "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips."
-      }
-    ],
-    "Galarian Mr. Mime": [
-      {
-        "game": "sword",
-        "desc": "Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier."
-      },
-      {
-        "game": "shield",
-        "desc": "It can radiate chilliness from the bottoms of its feet. It’ll spend the whole day tap-dancing on a frozen floor."
       }
     ]
   }

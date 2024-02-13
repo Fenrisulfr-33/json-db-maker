@@ -46,8 +46,8 @@
     "total": 377
   },
   "info": {
-    "height": "0.8 m (2′07″)",
-    "weight": "42.0 kg (92.6 lbs)"
+    "height": "0.8 m (2′07″)",
+    "weight": "15.0 kg (33.1 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -153,16 +153,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life."
-      }
-    ],
-    "Galarian Farfetch'd": [
-      {
-        "game": "sword",
-        "desc": "The Farfetch’d of the Galar region are brave warriors, and they wield thick, tough leeks in battle."
-      },
-      {
-        "game": "shield",
-        "desc": "The stalks of leeks are thicker and longer in the Galar region. Farfetch’d that adapted to these stalks took on a unique form."
       }
     ]
   }

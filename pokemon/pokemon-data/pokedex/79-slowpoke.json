@@ -56,7 +56,9 @@
   },
   "evolution": 33,
   "generation": 1,
-  "evs": {},
+  "evs": {
+    "hp": 1
+  },
   "eggGroups": [
     "Monster",
     "Water 1"
@@ -168,16 +170,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten."
-      }
-    ],
-    "Galarian Slowpoke": [
-      {
-        "game": "sword",
-        "desc": "Although this Pokémon is normally zoned out, its expression abruptly sharpens on occasion. The cause for this seems to lie in Slowpoke’s diet."
-      },
-      {
-        "game": "shield",
-        "desc": "Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor."
       }
     ]
   }

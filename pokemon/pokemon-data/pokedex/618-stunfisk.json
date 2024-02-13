@@ -43,7 +43,7 @@
   },
   "info": {
     "height": "0.7 m (2′04″)",
-    "weight": "20.5 kg (45.2 lbs)"
+    "weight": "11.0 kg (24.3 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -52,14 +52,16 @@
   },
   "evolution": null,
   "generation": 5,
-  "evs": {},
+  "evs": {
+    "hp": 2
+  },
   "eggGroups": [
     "Water 1",
     "Amorphous"
   ],
   "species": "Trap Pokémon",
   "catchRate": 75,
-  "baseFriendship": 50,
+  "baseFriendship": 70,
   "baseExp": 165,
   "growthRate": "Medium Fast",
   "eggCycles": 20,
@@ -97,16 +99,6 @@
       {
         "game": "shield",
         "desc": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body."
-      }
-    ],
-    "Galarian Stunfisk": [
-      {
-        "game": "sword",
-        "desc": "Living in mud with a high iron content has given it a strong steel body."
-      },
-      {
-        "game": "shield",
-        "desc": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them."
       }
     ]
   }

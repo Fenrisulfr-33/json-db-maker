@@ -45,8 +45,8 @@
     "total": 490
   },
   "info": {
-    "height": "3.0 m (9′10″)",
-    "weight": "16.0 kg (35.3 lbs)"
+    "height": "1.2 m (3′11″)",
+    "weight": "9.5 kg (20.9 lbs)"
   },
   "gender": {
     "male": "50%",
@@ -163,16 +163,6 @@
       {
         "game": "brilliant-diamond-shining-pearl",
         "desc": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found."
-      }
-    ],
-    "Galarian Weezing": [
-      {
-        "game": "sword",
-        "desc": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air."
-      },
-      {
-        "game": "shield",
-        "desc": "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason."
       }
     ]
   }

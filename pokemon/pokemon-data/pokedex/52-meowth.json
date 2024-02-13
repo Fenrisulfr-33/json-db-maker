@@ -179,16 +179,6 @@
         "game": "shield",
         "desc": "Its body has grown incredibly long and the coin on its forehead has grown incredibly large—all thanks to Gigantamax power."
       }
-    ],
-    "Galarian Meowth": [
-      {
-        "game": "sword",
-        "desc": "Living with a savage, seafaring people has toughened this Pokémon’s body so much that parts of it have turned to iron."
-      },
-      {
-        "game": "shield",
-        "desc": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth."
-      }
     ]
   }
 }

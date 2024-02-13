@@ -125,16 +125,6 @@
         "game": "brilliant-diamond-shining-pearl",
         "desc": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails."
       }
-    ],
-    "Galarian Linoone": [
-      {
-        "game": "sword",
-        "desc": "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully."
-      },
-      {
-        "game": "shield",
-        "desc": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself."
-      }
     ]
   }
 }

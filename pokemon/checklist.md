@@ -90,22 +90,22 @@ This document is for management and assurances of data in these documents.
 
 | pokemon               | .json | swsh-moves    | formTab   |
 | -                     | -     | -             | -         |
-| Galarian Meowth       | x     | -             | -         |
-| Galarian Ponyta       | x     | -             | -         |
-| Galarian Rapidash     | x     | -             | -         |
-| Galarian Slowpoke     | x     | -             | -         |
-| Galarian Slowbro      | x     | -             | -         |
-| Galarian Farfetch'd   | x     | -             | -         |
-| Galarian Weezing      | x     | -             | -         |
-| Galarian Mr Mime      | x     | -             | -         |
-| Galarian Articuno     | x     | -             | -         |
-| Galarian Zapdos       | x     | -             | -         |
-| Galarian Moltes       | x     | -             | -         |
-| Galarian Slowking     | x     | -             | -         |
-| Galarian Corsola      | x     | -             | -         |
-| Galarian Zigzagoon    | x     | -             | -         |
-| Galarian Linoone      | x     | -             | -         |
-| Galarian Darumaka     | x     | -             | -         |
-| Galarian Darmanitan   | x     | -             | -         |
-| Galarian Yamask       | x     | -             | -         |
-| Galarian Stunfisk     | x     | -             | -         |
+| Galarian Meowth       | x     | -             | x         |
+| Galarian Ponyta       | x     | -             | x         |
+| Galarian Rapidash     | x     | -             | x         |
+| Galarian Slowpoke     | x     | -             | x         |
+| Galarian Slowbro      | x     | -             | x         |
+| Galarian Farfetch'd   | x     | -             | x         |
+| Galarian Weezing      | x     | -             | x         |
+| Galarian Mr Mime      | x     | -             | x         |
+| Galarian Articuno     | x     | -             | x         |
+| Galarian Zapdos       | x     | -             | x         |
+| Galarian Moltes       | x     | -             | x         |
+| Galarian Slowking     | x     | -             | x         |
+| Galarian Corsola      | x     | -             | x         |
+| Galarian Zigzagoon    | x     | -             | x         |
+| Galarian Linoone      | x     | -             | x         |
+| Galarian Darumaka     | x     | -             | x         |
+| Galarian Darmanitan   | x     | -             | x         |
+| Galarian Yamask       | x     | -             | x         |
+| Galarian Stunfisk     | x     | -             | x         |
