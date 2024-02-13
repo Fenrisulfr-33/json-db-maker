@@ -57,7 +57,9 @@
   },
   "evolution": null,
   "generation": 1,
-  "evs": {},
+  "evs": {
+    "hp": 2
+  },
   "eggGroups": [
     "Monster",
     "Water 1"

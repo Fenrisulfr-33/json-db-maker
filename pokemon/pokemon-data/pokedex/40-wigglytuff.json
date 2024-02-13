@@ -57,7 +57,9 @@
   },
   "evolution": 16,
   "generation": 1,
-  "evs": {},
+  "evs": {
+    "hp": 3
+  },
   "eggGroups": [
     "Fairy"
   ],

@@ -51,7 +51,9 @@
   },
   "evolution": 4,
   "generation": 1,
-  "evs": {},
+  "evs": {
+    "hp": 1
+  },
   "eggGroups": [
     "Bug"
   ],

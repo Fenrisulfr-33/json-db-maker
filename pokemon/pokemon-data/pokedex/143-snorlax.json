@@ -57,7 +57,9 @@
   },
   "evolution": 155,
   "generation": 1,
-  "evs": {},
+  "evs": {
+    "hp": 2
+  },
   "eggGroups": [
     "Monster"
   ],

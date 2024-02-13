@@ -55,7 +55,9 @@
   },
   "evolution": 12,
   "generation": 1,
-  "evs": {},
+  "evs": {
+    "hp": 2
+  },
   "eggGroups": [
     "Undiscovered"
   ],

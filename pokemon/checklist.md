@@ -109,3 +109,24 @@ This document is for management and assurances of data in these documents.
 | Galarian Darmanitan   | x     | -             | x         |
 | Galarian Yamask       | x     | -             | x         |
 | Galarian Stunfisk     | x     | -             | x         |
+
+## Hisuian forms
+
+| pokemon               | .json | formTab   | la-moves  |
+| -                     | -     | -         | -         |
+| Hisuian Growlithe     | -     | -         | -         |
+| Hisuian Arcanine      | -     | -         | -         |
+| Hisuian Voltorb       | -     | -         | -         |
+| Hisuian Electrode     | -     | -         | -         |
+| Hisuian Typhlosion    | -     | -         | -         |
+| Hisuian Qwilfish      | -     | -         | -         |
+| Hisuian Sneasel       | -     | -         | -         |
+| Hisuian Samurott      | -     | -         | -         |
+| Hisuian Lilligant     | -     | -         | -         |
+| Hisuian Zorua         | -     | -         | -         |
+| Hisuian Zoroark       | -     | -         | -         |
+| Hisuian Braviary      | -     | -         | -         |
+| Hisuian Sliggoo       | -     | -         | -         |
+| Hisuian Goodra        | -     | -         | -         |
+| Hisuian Avalugg       | -     | -         | -         |
+| Hisuian Decidueye     | -     | -         | -         |
