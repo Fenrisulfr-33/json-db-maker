@@ -24,8 +24,7 @@ require("fs")
     pokemon.moves = replaceWrongMoveNames(pokemon.moves, errors);
     // TODO: implement gameDropdown on backend
     pokemon.gameDropDown = addGameDropDownToPokemon(pokemon.moves);
-
-    // Adds evolution id to pokemon
+    // this will log errors for pokemon without evolution keys
     pokemon.evolution = assignEvolutionKeys(pokemon._id);
 
     returnPokemon = returnPokemonModel(pokemon)
