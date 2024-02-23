@@ -1,0 +1,41 @@
+{
+  "_id": 7,
+  "first": [
+    {
+      "id": 19,
+      "name": "Rattata",
+      "type": {
+        "one": "Normal"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Raticate",
+      "type": {
+        "one": "Normal"
+      },
+      "how": "Level 20"
+    }
+  ],
+  "second": [
+    {
+      "id": 19.1,
+      "name": "Rattata",
+      "form": "Alolan Rattata",
+      "type": {
+        "one": "Dark",
+        "two": "Normal"
+      }
+    },
+    {
+      "id": 20.1,
+      "name": "Raticate",
+      "form": "Alolan Raticate",
+      "type": {
+        "one": "Dark",
+        "two": "Normal"
+      },
+      "how": "Level 20, Nighttime"
+    }
+  ]
+}

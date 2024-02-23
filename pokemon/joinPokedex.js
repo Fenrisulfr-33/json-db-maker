@@ -5,8 +5,8 @@ const replaceWrongMoveNames = require("./helperFunctions/replaceWrongMoveNames.j
 const assignPokemonPokedexNumbers = require("./helperFunctions/assignPokedexNumbers.js");
 const addGameDropDownToPokemon = require("./helperFunctions/addGameDropDownToPokemon.js");
 const addFormsTabToPokemon = require('./helperFunctions/addFormsTabToPokemon.js');
-const addEvolutionObjectToPokemon = require('./helperFunctions/addEvolutionObjectToPokemon.js');
-const assignEvolutionKeys = require('./helperFunctions/assignEvolutionKeys.js');
+// const addEvolutionObjectToPokemon = require('./helperFunctions/addEvolutionObjectToPokemon.js');
+// const assignEvolutionKeys = require('./helperFunctions/assignEvolutionKeys.js');
 const { returnPokemonModel, returnPokemonMovesModel } = require('./helperFunctions/returnObjectModels.js');
 
 const pokedexFinal = [];
@@ -24,8 +24,8 @@ require("fs")
     pokemon.moves = replaceWrongMoveNames(pokemon.moves, errors);
     // TODO: implement gameDropdown on backend
     pokemon.gameDropDown = addGameDropDownToPokemon(pokemon.moves);
-    // this will log errors for pokemon without evolution keys
-    pokemon.evolution = assignEvolutionKeys(pokemon._id);
+    // TODO: add evolution id to pokemonDocument
+    // pokemon.evolution = assignEvolutionKeys(pokemon._id);
 
     returnPokemon = returnPokemonModel(pokemon)
     pokedexFinal.push(returnPokemon);

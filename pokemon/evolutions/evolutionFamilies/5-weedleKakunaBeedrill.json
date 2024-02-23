@@ -1,0 +1,29 @@
+{
+  "_id": 5,
+  "start": {
+    "id": 13,
+    "name": "Weedle",
+    "type": {
+      "one": "Bug",
+      "two": "Poison"
+    },
+    "how": "Level 7",
+    "next": {
+      "id": 14,
+      "name": "Kakuna",
+      "type": {
+        "one": "Bug",
+        "two": "Poison"
+      },
+      "how": "Level 10",
+      "next": {
+        "id": 15,
+        "name": "Beedrill",
+        "type": {
+          "one": "Bug",
+          "two": "Poison"
+        }
+      }
+    }
+  }
+}

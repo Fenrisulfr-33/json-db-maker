@@ -1,0 +1,40 @@
+{
+  "_id": 10,
+  "first": [
+    {
+      "id": 172,
+      "name": "Pichu",
+      "type": {
+        "one": "Electric"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "type": {
+        "one": "Electric"
+      },
+      "how": "High Friendship"
+    },
+    [
+      {
+        "id": 26,
+        "name": "Raichu",
+        "type": {
+          "one": "Electric"
+        },
+        "how": "Use Thunder Stone outside Alola"
+      },
+      {
+        "id": 26.1,
+        "name": "Raichu",
+        "form": "Alolan Raichu",
+        "type": {
+          "one": "Electric",
+          "two": "Psychic"
+        },
+        "how": "Use Thunder Stone in Alola"
+      }
+    ]
+  ]
+}

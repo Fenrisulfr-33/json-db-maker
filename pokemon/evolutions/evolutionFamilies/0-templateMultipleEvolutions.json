@@ -1,0 +1,53 @@
+{
+    "_id": 0,
+    "first": [
+      {
+        "id": 1,
+        "name": "PokemonA",
+        "type": {
+          "one": "TypeA",
+          "two": "TypeB"
+        }
+      },
+      {
+        "id": 2,
+        "name": "PokemonB",
+        "type": {
+            "one": "TypeA",
+            "two": "TypeB"
+        },
+        "how": "Evolution process"
+      },
+      [
+        {
+          "id": 3,
+          "name": "PokemonC",
+          "type": {
+              "one": "TypeA",
+              "two": "TypeB"
+          },
+          "how": "Evolution process"
+        },
+        {
+          "id": 3.1,
+          "name": "PokemonC",
+          "form": "PokemonC altName",
+          "type": {
+              "one": "TypeA",
+              "two": "TypeB"
+          },
+          "how": "Evolution process"
+        },
+        {
+          "id": 4,
+          "name": "PokemonD",
+          "type": {
+              "one": "TypeA",
+              "two": "TypeB"
+          },
+          "how": "Evolution process"
+        }
+      ]
+    ]
+  }
+  

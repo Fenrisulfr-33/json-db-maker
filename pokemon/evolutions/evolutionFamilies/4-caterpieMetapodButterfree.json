@@ -1,0 +1,27 @@
+{
+  "_id": 4,
+  "start": {
+    "id": 10,
+    "name": "Caterpie",
+    "type": {
+      "one": "Bug"
+    },
+    "how": "Level 7",
+    "next": {
+      "id": 11,
+      "name": "Metapod",
+      "type": {
+        "one": "Bug"
+      },
+      "how": "Level 10",
+      "next": {
+        "id": 12,
+        "name": "Butterfree",
+        "type": {
+          "one": "Bug",
+          "two": "Flying"
+        }
+      }
+    }
+  }
+}

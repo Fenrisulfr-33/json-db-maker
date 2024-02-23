@@ -1,0 +1,41 @@
+{
+  "_id": 11,
+  "first": [
+    {
+      "id": 27,
+      "name": "Sanshrew",
+      "type": {
+        "one": "Ground"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "type": {
+        "one": "Ground"
+      },
+      "how": "Level 22"
+    }
+  ],
+  "second": [
+    {
+      "id": 27.1,
+      "name": "Sandshrew",
+      "form": "Alolan Sandshrew",
+      "type": {
+        "one": "Ice",
+        "two": "Steel"
+      }
+    },
+    {
+      "id": 28.1,
+      "name": "Sandslash",
+      "form": "Alolan Sandslash",
+      "type": {
+        "one": "Ice",
+        "two": "Steel"
+      },
+      "how": "Use Ice Stone"
+    }
+  ]
+}
