@@ -1,23 +1,22 @@
 {
     "_id": 0,
     "first": [
-      {
-        "id": 1,
-        "name": "PokemonA",
-        "type": {
-          "one": "TypeA",
-          "two": "TypeB"
-        }
-      },
-      {
-        "id": 2,
-        "name": "PokemonB",
-        "type": {
-            "one": "TypeA",
-            "two": "TypeB"
+        {
+            "id": 1,
+            "name": "PokemonA",
+            "type": {
+                "one": "TypeA",
+                "two": "TypeB"
+            }
         },
-        "how": "Evolution process"
-      }
+        {
+            "id": 2,
+            "name": "PokemonB",
+            "type": {
+                "one": "TypeA",
+                "two": "TypeB"
+            },
+            "how": "Evolution process"
+        }
     ]
-  }
-  
+}

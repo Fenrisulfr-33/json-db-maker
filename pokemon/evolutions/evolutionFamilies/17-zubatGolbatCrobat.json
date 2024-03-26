@@ -1,0 +1,31 @@
+{
+    "_id": 17,
+    "first": [
+        {
+            "id": 41,
+            "name": "Zubat",
+            "type": {
+                "one": "Poison",
+                "two": "Flying"
+            }
+        },
+        {
+            "id": 42,
+            "name": "Golbat",
+            "type": {
+                "one": "Poison",
+                "two": "Flying"
+            },
+            "how": "Level 22"
+        },
+        {
+            "id": 169,
+            "name": "Crobat",
+            "type": {
+                "one": "Poison",
+                "two": "Flying"
+            },
+            "how": "high Friendship"
+        }
+    ]
+}

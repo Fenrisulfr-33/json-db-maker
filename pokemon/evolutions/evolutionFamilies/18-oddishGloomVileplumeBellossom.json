@@ -1,0 +1,41 @@
+{
+    "_id": 18,
+    "first": [
+        {
+            "id": 43,
+            "name": "Oddish",
+            "type": {
+                "one": "Grass",
+                "two": "Poison"
+            }
+        },
+        {
+            "id": 44,
+            "name": "Gloom",
+            "type": {
+                "one": "Grass",
+                "two": "Poison"
+            },
+            "how": "Level 21"
+        },
+        [
+            {
+                "id": 45,
+                "name": "Vileplume",
+                "type": {
+                    "one": "Grass",
+                    "two": "Poison"
+                },
+                "how": "use Leaf Stone"
+            },
+            {
+                "id": 182,
+                "name": "Bellossom",
+                "type": {
+                    "one": "Grass"
+                },
+                "how": "use Sun Stone"
+            }
+        ]
+    ]
+}

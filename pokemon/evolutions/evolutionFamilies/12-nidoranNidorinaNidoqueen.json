@@ -1,0 +1,29 @@
+{
+    "_id": 12,
+    "first": [
+        {
+            "id": 29,
+            "name": "Nidoran♀",
+            "type": {
+                "one": "Poison"
+            }
+        },
+        {
+            "id": 30,
+            "name": "Nidorina",
+            "type": {
+                "one": "Poison"
+            },
+            "how": "Level 16"
+        },
+        {
+            "id": 31,
+            "name": "Nidoqueen",
+            "type": {
+                "one": "Poison",
+                "two": "Ground"
+            },
+            "how": "use Moon Stone"
+        }
+    ]
+}
