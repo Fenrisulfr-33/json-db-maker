@@ -1,0 +1,22 @@
+{
+    "_id": 19,
+    "first": [
+        {
+            "id": 46,
+            "name": "Paras",
+            "type": {
+                "one": "Bug",
+                "two": "Grass"
+            }
+        },
+        {
+            "id": 47,
+            "name": "Parasect",
+            "type": {
+                "one": "Bug",
+                "two": "Grass"
+            },
+            "how": "Level 24"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "_id": 26,
+    "evoLine": [
+        [
+            {
+                "id": 60,
+                "name": "Poliwag",
+                "type": {
+                    "one": "Water"
+                }
+            },
+            {
+                "id": 61,
+                "name": "Poliwhirl",
+                "type": {
+                    "one": "Water"
+                },
+                "how": "Level 25"
+            },
+            [
+                {
+                    "id": 62,
+                    "name": "Poliwrath",
+                    "type": {
+                        "one": "Water",
+                        "two": "Fighting"
+                    },
+                    "how": "use Water Stone"
+                },
+                {
+                    "id": 186,
+                    "name": "Politoed",
+                    "type": {
+                        "one": "Water"
+                    },
+                    "how": "trade holding Kings Rock"
+                }
+            ]
+        ]
+    ]
+}

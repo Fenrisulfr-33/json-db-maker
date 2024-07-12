@@ -1,0 +1,41 @@
+{
+    "_id": 32,
+    "evoLine": [
+        [
+            {
+                "id": 77,
+                "name": "Ponyta",
+                "type": {
+                    "one": "Fire"
+                }
+            },
+            {
+                "id": 78,
+                "name": "Rapidash",
+                "type": {
+                    "one": "Fire"
+                },
+                "how": "Level 40"
+            }
+        ],
+        [
+            {
+                "id": 77.1,
+                "name": "Ponyta",
+                "form": "Alolan Ponyta",
+                "type": {
+                    "one": "Psychic"
+                }
+            },
+            {
+                "id": 78.2,
+                "name": "Rapidash",
+                "form": "Alolan Rapidash",
+                "type": {
+                    "one": "Psychic"
+                },
+                "how": "Level 40"
+            }
+        ]
+    ]
+}

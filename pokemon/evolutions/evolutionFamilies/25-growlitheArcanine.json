@@ -1,0 +1,43 @@
+{
+    "_id": 25,
+    "evoLine": [
+        [
+            {
+                "id": 58,
+                "name": "Growlithe",
+                "type": {
+                    "one": "Fire"
+                }
+            },
+            {
+                "id": 59,
+                "name": "Arcanine",
+                "type": {
+                    "one": "Fire"
+                },
+                "how": "use Fire Stone"
+            }
+        ],
+        [
+            {
+                "id": 58.1,
+                "name": "Growlithe",
+                "form": "Hisuian Growlithe",
+                "type": {
+                    "one": "Fire",
+                    "two": "Rock"
+                }
+            },
+            {
+                "id": 59.1,
+                "name": "Arcanine",
+                "form": "Hisuian Arcanine",
+                "type": {
+                    "one": "Fire",
+                    "two": "Rock"
+                },
+                "how": "use Fire Stone"
+            }
+        ]
+    ]
+}

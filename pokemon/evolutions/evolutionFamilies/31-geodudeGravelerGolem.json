@@ -1,0 +1,64 @@
+{
+    "_id": 31,
+    "evoLine": [
+        [
+            {
+                "id": 74,
+                "name": "Geodude",
+                "type": {
+                    "one": "Rock",
+                    "two": "Ground"
+                }
+            },
+            {
+                "id": 75,
+                "name": "Graveler",
+                "type": {
+                    "one": "Rock",
+                    "two": "Ground"
+                },
+                "how": "Level 25"
+            },
+            {
+                "id": 76,
+                "name": "Golem",
+                "type": {
+                    "one": "Rock",
+                    "two": "Ground"
+                },
+                "how": "Trade"
+            }
+        ],
+        [
+            {
+                "id": 74.1,
+                "name": "Geodude",
+                "form": "Alolan Geodude",
+                "type": {
+                    "one": "Rock",
+                    "two": "Electric"
+                }
+            },
+            {
+                "id": 75.2,
+                "name": "Graveler",
+                "form": "Alolan Graveler",
+                "type": {
+                    "one": "Rock",
+                    "two": "Electric"
+                },
+                "how": "Level 25"
+            },
+            {
+                "id": 76.3,
+                "name": "Golem",
+                "form": "Alolan Golem",
+                "type": {
+                    "one": "Rock",
+                    "two": "Electric"
+                },
+                "how": "Trade"
+            }
+        ]
+    ]
+}

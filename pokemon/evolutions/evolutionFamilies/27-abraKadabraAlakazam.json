@@ -1,0 +1,30 @@
+{
+    "_id": 27,
+    "evoLine": [
+        [
+            {
+                "id": 63,
+                "name": "Abra",
+                "type": {
+                    "one": "Psychic"
+                }
+            },
+            {
+                "id": 64,
+                "name": "Kadabra",
+                "type": {
+                    "one": "Psychic"
+                },
+                "how": "Level 16"
+            },
+            {
+                "id": 65,
+                "name": "Alakazam",
+                "type": {
+                    "one": "Psychic"
+                },
+                "how": "Trade"
+            }
+        ]
+    ]
+}

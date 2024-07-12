@@ -1,0 +1,42 @@
+{
+    "_id": 21,
+    "first": [
+        {
+            "id": 50,
+            "name": "Diglett",
+            "type": {
+                "one": "Ground"
+            }
+        },
+        {
+            "id": 51,
+            "name": "Dugtrio",
+            "type": {
+                "one": "Ground",
+                "two": "Poison"
+            },
+            "how": "Level 26"
+        }
+    ],
+    "second": [
+        {
+            "id": 50.1,
+            "name": "Diglett",
+            "form": "Alolan Diglett",
+            "type": {
+                "one": "Ground",
+                "two": "Steel"
+            }
+        },
+        {
+            "id": 51.1,
+            "name": "Dugtrio",
+            "form": "Alolan Dugtrio",
+            "type": {
+                "one": "Ground",
+                "two": "Steel"
+            },
+            "how": "Level 26"
+        }
+    ]
+}
