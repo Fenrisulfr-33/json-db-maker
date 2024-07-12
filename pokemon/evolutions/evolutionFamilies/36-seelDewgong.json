@@ -1,0 +1,24 @@
+{
+    "_id": 36,
+    "evoLine": [
+      [
+        {
+          "id": 86,
+          "name": "Seel",
+          "type": {
+            "one": "Water"
+          }
+        },
+        {
+          "id": 87,
+          "name": "Dewgong",
+          "type": {
+            "one": "Water",
+            "two": "Ice"
+          },
+          "how": "Level 34"
+        }
+      ]
+    ]
+  }
+  

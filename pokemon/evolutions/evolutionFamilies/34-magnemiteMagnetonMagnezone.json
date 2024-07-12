@@ -1,0 +1,33 @@
+{
+  "_id": 34,
+  "evoLine": [
+    [
+      {
+        "id": 81,
+        "name": "Magnemite",
+        "type": {
+          "one": "Electric",
+          "two": "Steel"
+        }
+      },
+      {
+        "id": 82,
+        "name": "Magneton",
+        "type": {
+          "one": "Electric",
+          "two": "Steel"
+        },
+        "how": "Level 30"
+      },
+      {
+        "id": 462,
+        "name": "Magnezone",
+        "type": {
+          "one": "Electric",
+          "two": "Steel"
+        },
+        "how": "use Thunder Stone in Gen 8+, or level up in a Magnetic Field area"
+      }
+    ]
+  ]
+}

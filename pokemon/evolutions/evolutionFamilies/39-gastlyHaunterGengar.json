@@ -1,0 +1,33 @@
+{
+  "_id": 39,
+  "evoLine": [
+    [
+      {
+        "id": 92,
+        "name": "Gastly",
+        "type": {
+          "one": "Ghost",
+          "two": "Poison"
+        }
+      },
+      {
+        "id": 93,
+        "name": "Haunter",
+        "type": {
+          "one": "Ghost",
+          "two": "Poison"
+        },
+        "how": "Level 25"
+      },
+      {
+        "id": 94,
+        "name": "Gengar",
+        "type": {
+          "one": "Ghost",
+          "two": "Poison"
+        },
+        "how": "Trade"
+      }
+    ]
+  ]
+}
