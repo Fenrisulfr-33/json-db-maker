@@ -1,0 +1,23 @@
+{
+    "_id": 42,
+    "evoLine": [
+      [
+        {
+          "id": 100,
+          "name": "Voltorb",
+          "type": {
+            "one": "Electric"
+          }
+        },
+        {
+          "id": 99,
+          "name": "Electrode",
+          "type": {
+            "one": "Electric"
+          },
+          "how": "Level 30"
+        }
+      ]
+    ]
+  }
+  
