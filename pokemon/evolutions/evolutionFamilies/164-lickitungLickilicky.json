@@ -1,0 +1,20 @@
+{
+  "_id": 164,
+  "evoLine": [
+    {
+      "id": 108,
+      "name": "Lickitung",
+      "type": {
+        "one": "Normal"
+      }
+    },
+    {
+      "id": 463,
+      "name": "Lickilicky",
+      "type": {
+        "one": "Normal"
+      },
+      "how": "after Rollout learned"
+    }
+  ]
+}

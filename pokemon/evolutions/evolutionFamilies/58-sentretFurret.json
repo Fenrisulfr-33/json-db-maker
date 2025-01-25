@@ -1,0 +1,22 @@
+{
+  "_id": 58,
+  "evoLine": [
+    [
+      {
+        "id": 161,
+        "name": "Sentret",
+        "type": {
+          "one": "Normal"
+        }
+      },
+      {
+        "id": 162,
+        "name": "Furret",
+        "type": {
+          "one": "Normal"
+        },
+        "how": "Level 15"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 84,
+    "evoLine": [
+      [
+        {
+          "id": 240,
+          "name": "Magby",
+          "type": {
+            "one": "Fire"
+          }
+        },
+        {
+          "id": 126,
+          "name": "Magmar",
+          "type": {
+            "one": "Fire"
+          },
+          "how": "Level 30"
+        },
+        {
+          "id": 467,
+          "name": "Magmortar",
+          "type": {
+            "one": "Fire"
+          },
+          "how": "trade holding Magmarizer"
+        }
+      ]
+    ]
+  }
+  

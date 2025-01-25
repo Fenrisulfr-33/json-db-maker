@@ -1,23 +1,43 @@
 {
-    "_id": 42,
-    "evoLine": [
-      [
-        {
-          "id": 100,
-          "name": "Voltorb",
-          "type": {
-            "one": "Electric"
-          }
-        },
-        {
-          "id": 99,
-          "name": "Electrode",
-          "type": {
-            "one": "Electric"
-          },
-          "how": "Level 30"
+  "_id": 42,
+  "evoLine": [
+    [
+      {
+        "id": 100,
+        "name": "Voltorb",
+        "type": {
+          "one": "Electric"
         }
-      ]
+      },
+      {
+        "id": 101,
+        "name": "Electrode",
+        "type": {
+          "one": "Electric"
+        },
+        "how": "Level 30"
+      }
+    ],
+    [
+      {
+        "id": 100.1,
+        "name": "Voltorb",
+        "form": "Hisuian Voltorb",
+        "type": {
+          "one": "Electric",
+          "two": "Grass"
+        }
+      },
+      {
+        "id": 101.1,
+        "name": "Electrode",
+        "form": "Hisuian Electrode",
+        "type": {
+          "one": "Electric",
+          "two": "Grass"
+        },
+        "how": "use Leaf Stone"
+      }
     ]
-  }
-  
+  ]
+}

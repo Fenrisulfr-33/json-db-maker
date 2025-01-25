@@ -1,0 +1,24 @@
+{
+  "_id": 84,
+  "evoLine": [
+    [
+      {
+        "id": 238,
+        "name": "Smoochum",
+        "type": {
+          "one": "Ice",
+          "two": "Psychic"
+        }
+      },
+      {
+        "id": 124,
+        "name": "Jynx",
+        "type": {
+          "one": "Ice",
+          "two": "Psychic"
+        },
+        "how": "Level 30"
+      }
+    ]
+  ]
+}

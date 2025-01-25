@@ -10,7 +10,7 @@ const saveFile = (data, fileName, sorted, listName, errors) => {
     });
   }
   const saveData = JSON.stringify(dataJSON, null, 2);
-  console.log(`${listName} length: ${dataJSON.length}`);
+  // console.log(`${listName} length: ${dataJSON.length}`);
   console.log(`${listName} join errors: ${errors}`);
 
   fs.writeFile(`${fileName}.json`, saveData, (error) => {

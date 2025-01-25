@@ -1,0 +1,23 @@
+{
+  "_id": 49,
+  "evoLine": [
+    [
+      {
+        "id": 120,
+        "name": "Staryu",
+        "type": {
+          "one": "Water"
+        }
+      },
+      {
+        "id": 121,
+        "name": "Starmie",
+        "type": {
+          "one": "Water",
+          "two": "Psychic"
+        },
+        "how": "use Water Stone"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 165,
+    "evoLine": [
+      [
+        {
+          "id": 114,
+          "name": "Tangela",
+          "type": {
+            "one": "Grass"
+          }
+        },
+        {
+          "id": 465,
+          "name": "Tangrowth",
+          "type": {
+            "one": "Grass"
+          },
+          "how": "after Ancient Power learned"
+        }
+      ]
+    ]
+  }
+  

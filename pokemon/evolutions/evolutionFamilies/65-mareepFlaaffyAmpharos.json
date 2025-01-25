@@ -1,0 +1,31 @@
+{
+    "_id": 65,
+    "evoLine": [
+      [
+        {
+          "id": 179,
+          "name": "Mareep",
+          "type": {
+            "one": "Electric"
+          }
+        },
+        {
+          "id": 180,
+          "name": "Flaaffy",
+          "type": {
+            "one": "Electric"
+          },
+          "how": "Level 15"
+        },
+        {
+          "id": 181,
+          "name": "Ampharos",
+          "type": {
+            "one": "Electric"
+          },
+          "how": "Level 30"
+        }
+      ]
+    ]
+  }
+  

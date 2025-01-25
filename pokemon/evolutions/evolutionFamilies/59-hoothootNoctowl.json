@@ -1,0 +1,24 @@
+{
+  "_id": 59,
+  "evoLine": [
+    [
+      {
+        "id": 163,
+        "name": "Hoothoot",
+        "type": {
+          "one": "Normal",
+          "two": "Flying"
+        }
+      },
+      {
+        "id": 164,
+        "name": "Noctowl",
+        "type": {
+          "one": "Normal",
+          "two": "Flying"
+        },
+        "how": "Level 20"
+      }
+    ]
+  ]
+}

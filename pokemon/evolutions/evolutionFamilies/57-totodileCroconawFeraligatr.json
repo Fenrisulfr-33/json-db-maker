@@ -1,0 +1,30 @@
+{
+  "_id": 56,
+  "evoLine": [
+    [
+      {
+        "id": 158,
+        "name": "Totodile",
+        "type": {
+          "one": "Water"
+        }
+      },
+      {
+        "id": 159,
+        "name": "Croconaw",
+        "type": {
+          "one": "Water"
+        },
+        "how": "Level 18"
+      },
+      {
+        "id": 160,
+        "name": "Feraligtar",
+        "type": {
+          "one": "Water"
+        },
+        "how": "Level 30"
+      }
+    ]
+  ]
+}

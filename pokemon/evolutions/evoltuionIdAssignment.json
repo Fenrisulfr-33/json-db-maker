@@ -328,7 +328,6 @@
         "evolution": 34
     },
     {
-        // This is regular farfetch'd but only galarian has evolution
         "id": 83,
         "evolution": null
     },
@@ -3613,7 +3612,6 @@
         "id": 898,
         "evolution": null
     },
-    // Start of Legenda Arceus
     {
         "id": 899,
         "evolution": 303
@@ -3642,7 +3640,6 @@
         "id": 905,
         "evolution": null
     },
-    // Start of Scarlet & Violet
     {
         "id": 906,
         "evolution": 306

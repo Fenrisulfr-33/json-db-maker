@@ -1,0 +1,24 @@
+{
+  "_id": 62,
+  "evoLine": [
+    [
+      {
+        "id": 170,
+        "name": "Chinchou",
+        "type": {
+          "one": "Water",
+          "two": "Electic"
+        }
+      },
+      {
+        "id": 171,
+        "name": "Lanturn",
+        "type": {
+          "one": "Water",
+          "two": "Electric"
+        },
+        "how": "Level 27"
+      }
+    ]
+  ]
+}

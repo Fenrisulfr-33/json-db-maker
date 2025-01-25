@@ -1,0 +1,46 @@
+{
+    "_id": 154,
+    "evoLine": [
+      {
+        "id": 439,
+        "name": "Mime Jr.",
+        "type": {
+          "one": "Psychic",
+          "two": "Fairy"
+        }
+      },
+      [
+        {
+          "id": 122,
+          "name": "Mr. Mime",
+          "type": {
+            "one": "Psychic",
+            "two": "Fairy"
+          },
+          "how": "after Mimic learned, outside Galar"
+        },
+        [
+          {
+            "id": 122.1,
+            "name": "Mr. Mime",
+            "form": "Galarian Mr. Mime",
+            "type": {
+              "one": "Ice",
+              "two": "Psychic"
+            },
+            "how": "after Mimic learned, in Galar"
+          },
+          {
+            "id": 866,
+            "name": "Mr. Rime",
+            "type": {
+                "one": "Ice",
+                "two": "Psychic"
+            },
+            "how": "Level 42"
+          }
+        ]
+      ]
+    ]
+  }
+  
