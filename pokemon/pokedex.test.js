@@ -1,14 +1,19 @@
-const pokedex = require('./pokemon-data/2024-02-11-pokedex.json');
+const pokedex = require('./pokemon-data/2024-02-11-pokedex.json')
 
 test('Pokedex Length', () => {
   expect(pokedex.length).toBe(1093);
 });
 
 
+// test('Pokedex Length', () => {
+//   expect(pokedex.length).toBe(1093);
+// });
 
-test('Pokedex models have all keys', () => {
-  expect(pokedex).toHaveLength(1093);
-});
+
+
+// test('Pokedex models have all keys', () => {
+//   expect(pokedex).toHaveLength(1093);
+// });
 
 // test.each(pokedex.slice(100, 201))('Pokemon have EV values.', (pokemon) => {
 //   try {

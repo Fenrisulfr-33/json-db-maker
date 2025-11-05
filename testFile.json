@@ -1,0 +1,17 @@
+{
+  "_id": 137,
+  "name": {
+    "english": "Porygon"
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "species": "Virtual Pokémon",
+  "height": "0.8 m (2'07\")",
+  "weight": "36.5 kg (80.5 lbs)",
+  "abilities": {
+    "one": "Trace",
+    "two": "Download"
+  },
+  "pokedexNumber": {}
+}
