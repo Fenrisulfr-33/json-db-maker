@@ -1,0 +1,22 @@
+{
+    "_id": 256,
+    "evoLine": [
+        [
+            {
+                "id": 734,
+                "name": "Yungoos",
+                "type": {
+                    "one": "Normal"
+                }
+            },
+            {
+                "id": 735,
+                "name": "Gumshoos",
+                "type": {
+                    "one": "Normal"
+                },
+                "how": "Level 20, Daytime"
+            }
+        ]
+    ]
+}

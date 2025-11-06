@@ -1,0 +1,32 @@
+{
+    "_id": 257,
+    "evoLine": [
+        [
+            {
+                "id": 736,
+                "name": "Grubbin",
+                "type": {
+                    "one": "Bug"
+                }
+            },
+            {
+                "id": 737,
+                "name": "Charjabug",
+                "type": {
+                    "one": "Bug",
+                    "two": "Electric"
+                },
+                "how": "Level 20"
+            },
+                        {
+                "id": 738,
+                "name": "Vikavolt",
+                "type": {
+                    "one": "Bug",
+                    "two": "Electric"
+                },
+                "how": "use Thunder Stone, in Gen 8+, or level up in a Magnetic Field area"
+            }
+        ]
+    ]
+}

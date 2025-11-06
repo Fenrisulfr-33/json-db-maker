@@ -6,9 +6,6 @@ const fs = require("fs");
 // const newPokemonArray = []; // this will be the final array that gets converted to the new json object
 
 const pokemonDatabaseURLNames = require("./pokemonDatabaseURLNames.json");
-const { get } = require("http");
-const { title } = require("process");
-const { type } = require("os");
 
 function isSame(str1, str2) {
   return str1.toLowerCase() === str2.toLowerCase();
@@ -29,15 +26,32 @@ function createBasePokedexObject(name) {
 function createPokemonDataEntry(name) {
   return {
     _id: null,
+    key: null,
     name: {
       english: name,
     },
-    type: {},
-    species: null,
-    height: null,
-    weight: null,
-    abilities: {},
     pokedexNumber: {},
+    type: {},
+    abilities: {},
+    baseStats: {},
+    info: {
+      height: null,
+      weight: null,
+    },
+    gender: {
+      male: null,
+      female: null,
+      genderless: null,
+    },
+    evolution: null,
+    generation: null,
+    evs: {},
+    eggGroups: [],
+    species: null,
+    catchRate: null,
+    baseFriendship: null,
+    baseExp: null,
+    growthRate: null,
   };
 }
 
@@ -62,10 +76,64 @@ function sorting(arr) {
   return sortedArray;
 }
 
+async function testFunction() {
+  const url = `https://pokemondb.net/pokedex/porygon`;
+  const $ = await fetchHtml(url);
+  const pokedexObj = createPokemonDataEntry(`Porygon`);
+
+  const headings = getHeadings($);
+  headings.each((index, element) => {
+    const heading = getHeadingText($, element);
+
+    console.log("Processing heading: ", heading);
+
+    // process heading
+    if (isSame(heading, `pokedexData`)) {
+      const listEntries = getListEntries($, element);
+      listEntries.each((index, element) => {
+        const title = $(element).children("th").text();
+        const data = $(element).children("td").text();
+        processPokedexData(pokedexObj, title, data);
+      });
+    }
+
+    return false; // for testing only process first heading
+  });
+  fs.writeFileSync("./testFile.json", JSON.stringify(pokedexObj, null, 2));
+  console.log(`All data saved to testFile.json`);
+}
+
+function processPokemonScrape($, pokedexObj) {
+  const headings = getHeadings($);
+  headings.each((index, element) => {
+    const heading = getHeadingText($, element);
+
+    console.log("Processing heading: ", heading);
+    // process heading
+    if (isSame(heading, `pokedexData`)) {
+      const listEntries = getListEntries($, element);
+      listEntries.each((index, element) => {
+        const title = $(element).children("th").text();
+        const data = $(element).children("td").text();
+        processPokedexData(pokedexObj, title, data);
+      });
+    }
+
+
+
+    return false; // for testing only process first heading
+  });
+  fs.writeFileSync("./testFile.json", JSON.stringify(pokedexObj, null, 2));
+  console.log(`All data saved to testFile.json`);
+}
+
+
 async function scrapeOnePokemon(pokemonName) {
-  const url = `https://pokemondb.net/pokedex/${pokemonName.toLowerCase()}`;
+  const url = `https://pokemondb.net/pokedex/${pokemonName}`;
   const $ = await fetchHtml(url);
   const pokedexObj = createBasePokedexObject(pokemonName);
+
+  processPokemonScrape($, pokedexObj);
 
   return pokedexObj; // Placeholder for actual scraping logic
 }
@@ -87,11 +155,6 @@ async function scrapeAll(outFilePath) {
   fs.writeFileSync(outFilePath, JSON.stringify(sortedResults, null, 2));
   console.log(`All data saved to ${outFilePath}`);
 }
-
-const main = async () => {
-  const outputPath = "../../jsons/08-jsons/08-pokedex.json";
-  await scrapeAll(outputPath);
-};
 
 function formatHeading(heading) {
   switch (heading) {
@@ -189,8 +252,6 @@ function getHeadingText($, element) {
 //   }
 // }
 
-function addPokemonData(element, pokemonObj) {}
-
 // function getNextTable(element) {
 //   return $(element).next("table");
 // }
@@ -244,7 +305,6 @@ function processPokedexData(pokemonObj, title, data) {
     pokemonObj.weight = cleanUpHeightWeight(data);
   } else if (title === `Abilities`) {
     // process abilities
-    splitAbilities(data);
     pokemonObj.abilities = parseAbilities(data);
   } else if (title === `Local №`) {
     // process local number
@@ -257,6 +317,13 @@ function processPokedexData(pokemonObj, title, data) {
 
 function cleanUpType(str) {
   return str.replace(/[\n\r\t]/g, "");
+}
+
+function addTypes(data, pokemonObj) {
+  const types = data.split(" ");
+  for (i = 0; i < types.length; i++) {
+    pokemonObj.type[`${typeKey(i)}`] = cleanUpType(types[i]);
+  }
 }
 
 function cleanUpHeightWeight(str) {
@@ -294,20 +361,6 @@ function abilityKey(i) {
     case 3:
       return "hidden";
   }
-}
-
-function addAbilities(data, pokemonObj) {
-  const abilities = cleanUpAbility(data);
-  console.log("Abilities data: ", data);
-  for (i = 0; i < abilities.length; i++) {
-    pokemonObj.abilities[`${abilityKey(i)}`] = abilities[i];
-  }
-}
-
-function splitAbilities(data) {
-  // Split by number-dot pattern (e.g., "1.", "2.") and filter out empty parts
-const parts = data.split(/(?=\d+\.)/).map(s => s.trim()).filter(Boolean);
-console.log("Split Abilities Parts: ", parts);
 }
 
 // DEMO
@@ -351,38 +404,76 @@ function splitCamelCase(str) {
   return str.replace(/([a-z])([A-Z])/g, '$1 $2');
 }
 
-function addTypes(data, pokemonObj) {
-  const types = data.split(" ");
-  for (i = 0; i < types.length; i++) {
-    pokemonObj.type[`${typeKey(i)}`] = cleanUpType(types[i]);
+/**
+ * Training
+ * 
+ * EV yield
+ * Catch rate
+ * Base Friendship
+ * Base exp.
+ * Growth rate
+ */
+
+function processTrainingData(pokemonObj, title, data) {
+  switch (title) {
+    case "EV yield":
+      pokemonObj.evs = parseInt(data);
+      break;
+    case "Catch rate":
+      pokemonObj.training.catchRate = parseFloat(data);
+      break;
+    case "Base Friendship":
+      pokemonObj.training.baseFriendship = parseInt(data);
+      break;
+    case "Base exp.":
+      pokemonObj.training.baseExp = parseInt(data);
+      break;
+    case "Growth rate":
+      pokemonObj.training.growthRate = data;
+      break;
+    default:
+      console.log(`You missed a case >>>>>>>>>>>>>> ${title}`);
   }
 }
 
-async function testFunction() {
-  const url = `https://pokemondb.net/pokedex/porygon`;
-  const $ = await fetchHtml(url);
-  const pokedexObj = createPokemonDataEntry(`Porygon`);
-
-  const headings = getHeadings($);
-  headings.each((index, element) => {
-    const heading = getHeadingText($, element);
-
-    console.log("Processing heading: ", heading);
-
-    // process heading
-    if (isSame(heading, `pokedexData`)) {
-      const listEntries = getListEntries($, element);
-      listEntries.each((index, element) => {
-        const title = $(element).children("th").text();
-        const data = $(element).children("td").text();
-        processPokedexData(pokedexObj, title, data);
-      });
-    }
-
-    return false; // for testing only process first heading
-  });
-  fs.writeFileSync("./testFile.json", JSON.stringify(pokedexObj, null, 2));
-  console.log(`All data saved to testFile.json`);
+function whatever(){  
+          if (heading === `Training`) {
+          const listEntries = $(element)
+            .next("table")
+            .children("tbody")
+            .children("tr");
+          listEntries.each((index, element) => {
+            const title = $(element).children("th").text();
+            const data = $(element).children("td").text();
+            if (
+              data === "\u2014" ||
+              data === "\u000A\u2014\u000A" ||
+              data === "\u000A\u2014 "
+            ) {
+            } else if (title === "Growth Rate") {
+              if (currentPokemonObj) {
+                currentPokemonObj.growthRate = data;
+              } else {
+                newPokedexObj.growthRate = data;
+              }
+            } else if (title === "Base Friendship") {
+              let newData = data.replace(/[^0-9]/g, "");
+              if (currentPokemonObj) {
+                currentPokemonObj.baseFriendship = Number(newData);
+              } else {
+                newPokedexObj.baseFriendship = Number(newData);
+              }
+            } else if (title === "Catch rate") {
+              let newData = data.slice(0, 4);
+              newData = newData.replace(/[^0-9]/g, "");
+              if (currentPokemonObj) {
+                currentPokemonObj.catchRate = Number(newData);
+              } else {
+                newPokedexObj.catchRate = Number(newData);
+              }
+            }
+          });
+        }
 }
 
 /**
