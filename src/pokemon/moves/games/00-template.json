@@ -1,0 +1,14 @@
+[
+    {
+        "id": "00-template",
+        "name": "pokemon name (lowercase)",
+        "game": {
+            "level-up": [
+                { 
+                    "lvl": 1, 
+                    "name": "move name" 
+                }
+            ]
+        }
+    }
+]

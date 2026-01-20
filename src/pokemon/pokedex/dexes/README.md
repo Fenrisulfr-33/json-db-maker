@@ -1,0 +1,36 @@
+This folder is used to create and update pokemon pokedexes in respect to their games.
+
+**The order of each file must be in DEX NUMERICAL order, NOT National No.**
+
+1. The number list form of dexes `dexes_numbers` contains basic .json files of an array that has the pokemons National No. in the index + 1 of where it lies in the dex. This folder also contains a map of all the dexes for export, `00_dex_map.js`.
+
+```
+    [
+        ...,
+        125,
+        126,
+        34,
+        35,
+        36,
+        ...
+    ]
+```
+
+2. The object list form of dexes `dexes_objects` contains basic .json files of an array that has pokemon National No. in the object key `pokemonId` and the key `dexNo` of where it lies in the dex. This folder also contains a map of all the dexes for export,. `00_dex_map.js`.
+
+```
+  ...,
+  {
+    "dexNo": 4,
+    "pokemonId": 620
+  },
+  {
+    "dexNo": 5,
+    "pokemonId": 335
+  },
+  ...
+```
+
+3. `transformDexNumToDexObj.js` is the main file that converts the number array dexes into the obj array dexes.
+    - *Note:* I was going to put a check to see if the file already exists to stop it from making one every time, however if I needed to make changes to old ones this would ignore the changes. So instead it will change every time for now.
+    - TODO:  Triple verify the numbered lists dexes. Then append code to `transformDexNumToDexObj.js` to only add new dexes.

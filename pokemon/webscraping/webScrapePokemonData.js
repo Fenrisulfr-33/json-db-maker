@@ -8,187 +8,186 @@ const fs = require("fs");
 const pokemonDatabaseURLNames = require("./pokemonDatabaseURLNames.json");
 
 function isSame(str1, str2) {
-  return str1.toLowerCase() === str2.toLowerCase();
+	return str1.toLowerCase() === str2.toLowerCase();
 }
 
 function createBasePokedexObject(name) {
-  return {
-    name: {
-      english: { name },
-    },
-    pokedexNumber: {},
-    eggGroups: [],
-    nameOrigin: {},
-    pokedexEntries: {},
-  };
+	return {
+		name: {
+			english: { name },
+		},
+		pokedexNumber: {},
+		eggGroups: [],
+		nameOrigin: {},
+		pokedexEntries: {},
+	};
 }
 
 function createPokemonDataEntry(name) {
-  return {
-    _id: null,
-    key: null,
-    name: {
-      english: name,
-    },
-    pokedexNumber: {},
-    type: {},
-    abilities: {},
-    baseStats: {},
-    info: {
-      height: null,
-      weight: null,
-    },
-    gender: {
-      male: null,
-      female: null,
-      genderless: null,
-    },
-    evolution: null,
-    generation: null,
-    evs: {},
-    eggGroups: [],
-    species: null,
-    catchRate: null,
-    baseFriendship: null,
-    baseExp: null,
-    growthRate: null,
-  };
+	return {
+		_id: null,
+		key: null,
+		name: {
+			english: name,
+		},
+		pokedexNumber: {},
+		type: {},
+		abilities: {},
+		baseStats: {},
+		info: {
+			height: null,
+			weight: null,
+		},
+		gender: {
+			male: null,
+			female: null,
+			genderless: null,
+		},
+		evolution: null,
+		generation: null,
+		evs: {},
+		eggGroups: [],
+		species: null,
+		catchRate: null,
+		baseFriendship: null,
+		baseExp: null,
+		growthRate: null,
+	};
 }
 
 function toNumberSafe(str) {
-  const num = Number(String(str).replace(/[^0-9.-]+/g, ""));
-  return isNaN(num) ? null : num;
+	const num = Number(String(str).replace(/[^0-9.-]+/g, ""));
+	return isNaN(num) ? null : num;
 }
 
 async function fetchHtml(url) {
-  const response = await axios.get(url);
-  return cheerio.load(response.data);
+	const response = await axios.get(url);
+	return cheerio.load(response.data);
 }
 
 function sortById(arr) {
-  return arr.sort((a, b) => a._id < b._id);
+	return arr.sort((a, b) => a._id < b._id);
 }
 
 function sorting(arr) {
-  console.log("Sorting...");
-  const sortedArray = sortById(arr);
-  console.log("Sorted.");
-  return sortedArray;
+	console.log("Sorting...");
+	const sortedArray = sortById(arr);
+	console.log("Sorted.");
+	return sortedArray;
 }
 
 async function testFunction() {
-  const url = `https://pokemondb.net/pokedex/porygon`;
-  const $ = await fetchHtml(url);
-  const pokedexObj = createPokemonDataEntry(`Porygon`);
+	const url = `https://pokemondb.net/pokedex/porygon`;
+	const $ = await fetchHtml(url);
+	const pokedexObj = createPokemonDataEntry(`Porygon`);
 
-  const headings = getHeadings($);
-  console.log("Headings found: ", headings.length);
-  headings.each((index, element) => {
-    const heading = getHeadingText($, element);
+	const headings = getHeadings($);
+	console.log("Headings found: ", headings.length);
+	headings.each((index, element) => {
+		const heading = getHeadingText($, element);
 
-    console.log("Processing heading: ", heading);
+		console.log("Processing heading: ", heading);
 
-    // process heading
-    if (isSame(heading, `pokedexData`)) {
-      const listEntries = getListEntries($, element);
-      listEntries.each((index, element) => {
-        const title = $(element).children("th").text();
-        const data = $(element).children("td").text();
-        processPokedexData(pokedexObj, title, data);
-      });
-    } else if(isSame(heading, `training`)){
-      console.log("Processing Training Data");
-      const listEntries = getListEntries($, element);
-      listEntries.each((index, element) => {
-        const title = $(element).children("th").text();
-        const data = $(element).children("td").text();
-        // printTitleAndData(title, data);
-        processTrainingData(pokedexObj, title, data);
-      });
-    } else {
-      console.log(`Skipping heading: ${heading}`);
-      return false;
-    }
+		// process heading
+		if (isSame(heading, `pokedexData`)) {
+			const listEntries = getListEntries($, element);
+			listEntries.each((index, element) => {
+				const title = $(element).children("th").text();
+				const data = $(element).children("td").text();
+				processPokedexData(pokedexObj, title, data);
+			});
+		} else if (isSame(heading, `training`)) {
+			console.log("Processing Training Data");
+			const listEntries = getListEntries($, element);
+			listEntries.each((index, element) => {
+				const title = $(element).children("th").text();
+				const data = $(element).children("td").text();
+				// printTitleAndData(title, data);
+				processTrainingData(pokedexObj, title, data);
+			});
+		} else {
+			console.log(`Skipping heading: ${heading}`);
+			return false;
+		}
 
-    // return false; // for testing only process first heading
-  });
+		// return false; // for testing only process first heading
+	});
 
-  fs.writeFileSync("./testFile.json", JSON.stringify(pokedexObj, null, 2));
-  console.log(`All data saved to testFile.json`);
+	fs.writeFileSync("./testFile.json", JSON.stringify(pokedexObj, null, 2));
+	console.log(`All data saved to testFile.json`);
 }
 
 function processPokemonScrape($, pokedexObj) {
-  const headings = getHeadings($);
-  headings.each((index, element) => {
-    const heading = getHeadingText($, element);
+	const headings = getHeadings($);
+	headings.each((index, element) => {
+		const heading = getHeadingText($, element);
 
-    console.log("Processing heading: ", heading);
-    // process heading
-    if (isSame(heading, `pokedexData`)) {
-      const listEntries = getListEntries($, element);
-      listEntries.each((index, element) => {
-        const title = $(element).children("th").text();
-        const data = $(element).children("td").text();
-        pokedexObj = processPokedexData(pokedexObj, title, data);
-      });
-    }
+		console.log("Processing heading: ", heading);
+		// process heading
+		if (isSame(heading, `pokedexData`)) {
+			const listEntries = getListEntries($, element);
+			listEntries.each((index, element) => {
+				const title = $(element).children("th").text();
+				const data = $(element).children("td").text();
+				pokedexObj = processPokedexData(pokedexObj, title, data);
+			});
+		}
 
-    return false; // for testing only process first heading
-  });
-  fs.writeFileSync("./testFile.json", JSON.stringify(pokedexObj, null, 2));
-  console.log(`All data saved to testFile.json`);
+		return false; // for testing only process first heading
+	});
+	fs.writeFileSync("./testFile.json", JSON.stringify(pokedexObj, null, 2));
+	console.log(`All data saved to testFile.json`);
 }
 
-
 async function scrapeOnePokemon(pokemonName) {
-  const url = `https://pokemondb.net/pokedex/${pokemonName}`;
-  const $ = await fetchHtml(url);
-  const pokedexObj = createBasePokedexObject(pokemonName);
+	const url = `https://pokemondb.net/pokedex/${pokemonName}`;
+	const $ = await fetchHtml(url);
+	const pokedexObj = createBasePokedexObject(pokemonName);
 
-  processPokemonScrape($, pokedexObj);
+	processPokemonScrape($, pokedexObj);
 
-  return pokedexObj; // Placeholder for actual scraping logic
+	return pokedexObj; // Placeholder for actual scraping logic
 }
 
 async function scrapeAll(outFilePath) {
-  const results = [];
-  for (const name of pokemonDatabaseURLNames) {
-    try {
-      const cleanedName = name.toLowerCase();
-      console.log(`Scraping data for ${cleanedName}...`);
-      const data = await scrapeOnePokemon(cleanedName);
-      results.push(data);
-      console.log(`Finished scraping data for ${cleanedName}.`);
-    } catch (error) {
-      console.error(`Error scraping data for ${name}:`, error.getMessage());
-    }
-  }
-  const sortedResults = sorting(results);
-  fs.writeFileSync(outFilePath, JSON.stringify(sortedResults, null, 2));
-  console.log(`All data saved to ${outFilePath}`);
+	const results = [];
+	for (const name of pokemonDatabaseURLNames) {
+		try {
+			const cleanedName = name.toLowerCase();
+			console.log(`Scraping data for ${cleanedName}...`);
+			const data = await scrapeOnePokemon(cleanedName);
+			results.push(data);
+			console.log(`Finished scraping data for ${cleanedName}.`);
+		} catch (error) {
+			console.error(`Error scraping data for ${name}:`, error.getMessage());
+		}
+	}
+	const sortedResults = sorting(results);
+	fs.writeFileSync(outFilePath, JSON.stringify(sortedResults, null, 2));
+	console.log(`All data saved to ${outFilePath}`);
 }
 
 function formatHeading(heading) {
-  switch (heading) {
-    case "Pokédex entries":
-      return "pokedexEntries";
-    case "Pokédex data":
-      return "pokedexData";
-    case "Training":
-      return "training";
-    case "Breeding":
-      return "breeding";
-    case "Where to find":
-      return "whereToFind";
-    case "Other languages":
-      return "otherLanguages";
-    case "Name origin":
-      return "nameOrigin";
-    case "Base Stats":
-      return "baseStats";
-    default:
-      return null;
-  }
+	switch (heading) {
+		case "Pokédex entries":
+			return "pokedexEntries";
+		case "Pokédex data":
+			return "pokedexData";
+		case "Training":
+			return "training";
+		case "Breeding":
+			return "breeding";
+		case "Where to find":
+			return "whereToFind";
+		case "Other languages":
+			return "otherLanguages";
+		case "Name origin":
+			return "nameOrigin";
+		case "Base Stats":
+			return "baseStats";
+		default:
+			return null;
+	}
 }
 
 // function addDataToPokemonObject(list, section) {
@@ -239,12 +238,12 @@ function formatHeading(heading) {
 // };
 
 function getHeadings($) {
-  return $("h2");
+	return $("h2");
 }
 
 function getHeadingText($, element) {
-  const heading = $(element).text();
-  return formatHeading(heading);
+	const heading = $(element).text();
+	return formatHeading(heading);
 }
 
 // function loopThroughHeadings(headings) {
@@ -269,7 +268,7 @@ function getHeadingText($, element) {
 // }
 
 function getListEntries($, element) {
-  return $(element).next("table").children("tbody").children("tr");
+	return $(element).next("table").children("tbody").children("tr");
 }
 
 // function loopThroughListEntries(listEntries, currentPokemonObj, newPokedexObj) {
@@ -300,125 +299,125 @@ function getListEntries($, element) {
  */
 
 function processPokedexData(pokemonObj, title, data) {
-  if (title === `National №`) {
-    // process national number
-    pokemonObj._id = toNumberSafe(data);
-  } else if (title === `Type`) {
-    //  process type
-    addTypes(data, pokemonObj);
-  } else if (title === `Species`) {
-    // process species
-    pokemonObj.species = data;
-  } else if (title === `Height`) {
-    //  process height
-    pokemonObj.height = cleanUpHeightWeight(data);
-  } else if (title === `Weight`) {
-    // process weight
-    pokemonObj.weight = cleanUpHeightWeight(data);
-  } else if (title === `Abilities`) {
-    // process abilities
-    pokemonObj.abilities = parseAbilities(data);
-  } else if (title === `Local №`) {
-    // process local number
-  } else {
-    //
-    console.log(`You missed a case >>>>>>>>>>>>>> ${title}`);
-  }
-  return pokemonObj;
+	if (title === `National №`) {
+		// process national number
+		pokemonObj._id = toNumberSafe(data);
+	} else if (title === `Type`) {
+		//  process type
+		addTypes(data, pokemonObj);
+	} else if (title === `Species`) {
+		// process species
+		pokemonObj.species = data;
+	} else if (title === `Height`) {
+		//  process height
+		pokemonObj.height = cleanUpHeightWeight(data);
+	} else if (title === `Weight`) {
+		// process weight
+		pokemonObj.weight = cleanUpHeightWeight(data);
+	} else if (title === `Abilities`) {
+		// process abilities
+		pokemonObj.abilities = parseAbilities(data);
+	} else if (title === `Local №`) {
+		// process local number
+	} else {
+		//
+		console.log(`You missed a case >>>>>>>>>>>>>> ${title}`);
+	}
+	return pokemonObj;
 }
 
 function cleanUpType(str) {
-  return str.replace(/[\n\r\t]/g, "");
+	return str.replace(/[\n\r\t]/g, "");
 }
 
 function addTypes(data, pokemonObj) {
-  const types = data.split(" ");
-  for (i = 0; i < types.length; i++) {
-    pokemonObj.type[`${typeKey(i)}`] = cleanUpType(types[i]);
-  }
+	const types = data.split(" ");
+	for (i = 0; i < types.length; i++) {
+		pokemonObj.type[`${typeKey(i)}`] = cleanUpType(types[i]);
+	}
 }
 
 function cleanUpHeightWeight(str) {
-  return str
-    .replace(/\s+/g, " ") // Replace multiple/irregular whitespace with a single space
-    .replace(/[\u2018\u2019\u201A\u201B]/g, "'") // Replace curly single quotes with straight single quote
-    .replace(/[\u201C\u201D\u201E\u201F]/g, '"') // Replace curly double quotes with straight double quote
-    .replace(/\u00A0/g, " ") // Replace non-breaking spaces with regular spaces
-    .replace(/′/g, "'") // Replace prime symbol with straight single quote
-    .replace(/″/g, '"') // Replace double prime symbol with straight double quote
-    .trim(); // Remove leading/trailing whitespace
+	return str
+		.replace(/\s+/g, " ") // Replace multiple/irregular whitespace with a single space
+		.replace(/[\u2018\u2019\u201A\u201B]/g, "'") // Replace curly single quotes with straight single quote
+		.replace(/[\u201C\u201D\u201E\u201F]/g, '"') // Replace curly double quotes with straight double quote
+		.replace(/\u00A0/g, " ") // Replace non-breaking spaces with regular spaces
+		.replace(/′/g, "'") // Replace prime symbol with straight single quote
+		.replace(/″/g, '"') // Replace double prime symbol with straight double quote
+		.trim(); // Remove leading/trailing whitespace
 }
 
 function typeKey(i) {
-  switch (i) {
-    case 0:
-      return "one";
-    case 1:
-      return "two";
-  }
+	switch (i) {
+		case 0:
+			return "one";
+		case 1:
+			return "two";
+	}
 }
 
 function cleanUpAbility(data) {
-  return [
-    ...data.matchAll(/\d+\.\s*([A-Z][a-zA-Z]*(?:\s+[A-Z][a-zA-Z]*)*)/g),
-  ].map((match) => splitCamelCase(match[1]).trim());
+	return [
+		...data.matchAll(/\d+\.\s*([A-Z][a-zA-Z]*(?:\s+[A-Z][a-zA-Z]*)*)/g),
+	].map((match) => splitCamelCase(match[1]).trim());
 }
 
 function abilityKey(i) {
-  switch (i) {
-    case 1:
-      return "one";
-    case 2:
-      return "two";
-    case 3:
-      return "hidden";
-  }
+	switch (i) {
+		case 1:
+			return "one";
+		case 2:
+			return "two";
+		case 3:
+			return "hidden";
+	}
 }
 
 // DEMO
 function parseAbilities(str) {
-  const abilities = {};
-  const numberLabels = ["one", "two", "three", "four", "five"]; // Expandable if needed
-  
-  // Extract numbered abilities (1. Something)
-  const numberMatches = [...str.matchAll(/(\d+\.)\s*([A-Za-z]+)/g)];
-  // console.log("Number Matches: ", numberMatches);
+	const abilities = {};
+	const numberLabels = ["one", "two", "three", "four", "five"]; // Expandable if needed
 
-  numberMatches.forEach((m, i) => {
-    // console.log("Match: ", m);
-    // console.log("Index: ", i);
-    // console.log("Label: ", numberLabels[i]);
-    const raw = m[2];
-    const splitWords = splitCamelCase(raw).split(" ");
-    // console.log("Split Words: ", splitWords);
-    abilities[numberLabels[i]] = splitWords[0]; // First word only (e.g., "Download")
-    // console.log("Added ability: ", abilities[numberLabels[i]]);
-  });
+	// Extract numbered abilities (1. Something)
+	const numberMatches = [...str.matchAll(/(\d+\.)\s*([A-Za-z]+)/g)];
+	// console.log("Number Matches: ", numberMatches);
 
-  // Check for hidden ability
-  if (str.includes("(hidden ability)")) {
-    const lastMatch = numberMatches[numberMatches.length - 1];
-    const endOfLast = lastMatch.index + lastMatch[0].length;
-    const remainder = str.slice(endOfLast);
+	numberMatches.forEach((m, i) => {
+		// console.log("Match: ", m);
+		// console.log("Index: ", i);
+		// console.log("Label: ", numberLabels[i]);
+		const raw = m[2];
+		const splitWords = splitCamelCase(raw).split(" ");
+		// console.log("Split Words: ", splitWords);
+		abilities[numberLabels[i]] = splitWords[0]; // First word only (e.g., "Download")
+		// console.log("Added ability: ", abilities[numberLabels[i]]);
+	});
 
-    const hiddenMatch = remainder.match(/[A-Z][a-z]+/g); // Find capitalized words
-    if (hiddenMatch && hiddenMatch.length > 0) {
-      const hiddenWord = hiddenMatch[hiddenMatch.length - 1]; // Last word is hidden
-      abilities.hidden = splitCamelCase(hiddenWord).trim();
-    }
-  }
+	// Check for hidden ability
+	if (str.includes("(hidden ability)")) {
+		const lastMatch = numberMatches[numberMatches.length - 1];
+		const endOfLast = lastMatch.index + lastMatch[0].length;
+		const remainder = str.slice(endOfLast);
 
-  return abilities;
+		const hiddenMatch = remainder.match(/[A-Z][a-z]+/g); // Find capitalized words
+		if (hiddenMatch && hiddenMatch.length > 0) {
+			const hiddenWord = hiddenMatch[hiddenMatch.length - 1]; // Last word is hidden
+			abilities.hidden = splitCamelCase(hiddenWord).trim();
+		}
+	}
+
+	return abilities;
 }
 
 // Splits camelCase or PascalCase into space-separated words
 function splitCamelCase(str) {
-  return str.replace(/([a-z])([A-Z])/g, '$1 $2');
+	return str.replace(/([a-z])([A-Z])/g, "$1 $2");
 }
 
 /**
  * Training
- * 
+ *
  * EV yield
  * Catch rate
  * Base Friendship
@@ -427,85 +426,85 @@ function splitCamelCase(str) {
  */
 
 function processTrainingData(pokemonObj, title, data) {
-  switch (title) {
-    case "EV yield":
-      pokemonObj.evs = determineEvValues(data);
-      break;
-    case "Catch rate":
-      pokemonObj.catchRate = cleanUpCatchRate(data);
-      break;
-    case "Base Friendship":
-      pokemonObj.baseFriendship = cleanUpBaseFriendship(data);
-      break;
-    case "Base Exp.":
-      pokemonObj.baseExp = cleanUpBaseExp(data);
-      break;
-    case "Growth Rate":
-      pokemonObj.growthRate = data;
-      break;
-    default:
-      console.log(`You missed a case >>>>>>>>>>>>>> ${title}`);
-  }
+	switch (title) {
+		case "EV yield":
+			pokemonObj.evs = determineEvValues(data);
+			break;
+		case "Catch rate":
+			pokemonObj.catchRate = cleanUpCatchRate(data);
+			break;
+		case "Base Friendship":
+			pokemonObj.baseFriendship = cleanUpBaseFriendship(data);
+			break;
+		case "Base Exp.":
+			pokemonObj.baseExp = cleanUpBaseExp(data);
+			break;
+		case "Growth Rate":
+			pokemonObj.growthRate = data;
+			break;
+		default:
+			console.log(`You missed a case >>>>>>>>>>>>>> ${title}`);
+	}
 }
 
 function cleanUpCatchRate(data) {
-  return parseInt(data.match(/\d+/)[0], 10);
+	return parseInt(data.match(/\d+/)[0], 10);
 }
 
 function cleanUpBaseFriendship(data) {
-  let newData = data.replace(/[^0-9]/g, "");
-  return Number(newData);
+	let newData = data.replace(/[^0-9]/g, "");
+	return Number(newData);
 }
 
 function cleanUpBaseExp(data) {
-  let newData = data.replace(/[^0-9]/g, "");
-  return Number(newData);
+	let newData = data.replace(/[^0-9]/g, "");
+	return Number(newData);
 }
 
 function splitEvData(data) {
-  return data.split(", ");
+	return data.split(", ");
 }
 
 function getOnlyNumbers(str) {
-  return str.replace(/[^0-9]/g, "");
+	return str.replace(/[^0-9]/g, "");
 }
 
 function getOnlyLetters(str) {
-  return str.replace(/[^a-zA-Z]/g, "");
+	return str.replace(/[^a-zA-Z]/g, "");
 }
 
 function determineEvValues(data) {
-  const evValues = {};
-  const evs = splitEvData(data);
+	const evValues = {};
+	const evs = splitEvData(data);
 
-  for (let i = 0; i < evs.length; i++) {
-    const ev = evs[i];
-    // process each ev
-    const evValue = getOnlyNumbers(ev);
-    const evStat = getOnlyLetters(ev).toLowerCase();
-    const evKey = parseEvString(evStat);
-    evValues[evKey] = Number(evValue);
-  }
-  return evValues;
+	for (let i = 0; i < evs.length; i++) {
+		const ev = evs[i];
+		// process each ev
+		const evValue = getOnlyNumbers(ev);
+		const evStat = getOnlyLetters(ev).toLowerCase();
+		const evKey = parseEvString(evStat);
+		evValues[evKey] = Number(evValue);
+	}
+	return evValues;
 }
 
 function parseEvString(evString) {
-  if (evString === "hp"){
-    return "hp";
-  } else if (evString === "attack"){
-    return "atk";
-  } else if (evString === "defense"){
-    return "def";
-  } else if (evString === "spatk"){
-    return "spatk";
-  } else if (evString === "spdef"){
-    return "spdef";
-  } else if (evString === "speed"){
-    return "spd";
-  } else {
-    console.log("Unknown EV string: ", evString);
-    return evString;
-  }
+	if (evString === "hp") {
+		return "hp";
+	} else if (evString === "attack") {
+		return "atk";
+	} else if (evString === "defense") {
+		return "def";
+	} else if (evString === "spatk") {
+		return "spatk";
+	} else if (evString === "spdef") {
+		return "spdef";
+	} else if (evString === "speed") {
+		return "spd";
+	} else {
+		console.log("Unknown EV string: ", evString);
+		return evString;
+	}
 }
 
 /**
@@ -679,43 +678,43 @@ function parseEvString(evString) {
 //          *  Base exp.
 //          *  Growth rate
 //          */
-        // if (heading === `Training`) {
-        //   const listEntries = $(element)
-        //     .next("table")
-        //     .children("tbody")
-        //     .children("tr");
-        //   listEntries.each((index, element) => {
-        //     const title = $(element).children("th").text();
-        //     const data = $(element).children("td").text();
-        //     if (
-        //       data === "\u2014" ||
-        //       data === "\u000A\u2014\u000A" ||
-        //       data === "\u000A\u2014 "
-        //     ) {
-        //     } else if (title === "Growth Rate") {
-        //       if (currentPokemonObj) {
-        //         currentPokemonObj.growthRate = data;
-        //       } else {
-        //         newPokedexObj.growthRate = data;
-        //       }
-        //     } else if (title === "Base Friendship") {
-        //       let newData = data.replace(/[^0-9]/g, "");
-        //       if (currentPokemonObj) {
-        //         currentPokemonObj.baseFriendship = Number(newData);
-        //       } else {
-        //         newPokedexObj.baseFriendship = Number(newData);
-        //       }
-        //     } else if (title === "Catch rate") {
-        //       let newData = data.slice(0, 4);
-        //       newData = newData.replace(/[^0-9]/g, "");
-        //       if (currentPokemonObj) {
-        //         currentPokemonObj.catchRate = Number(newData);
-        //       } else {
-        //         newPokedexObj.catchRate = Number(newData);
-        //       }
-        //     }
-        //   });
-        // }
+// if (heading === `Training`) {
+//   const listEntries = $(element)
+//     .next("table")
+//     .children("tbody")
+//     .children("tr");
+//   listEntries.each((index, element) => {
+//     const title = $(element).children("th").text();
+//     const data = $(element).children("td").text();
+//     if (
+//       data === "\u2014" ||
+//       data === "\u000A\u2014\u000A" ||
+//       data === "\u000A\u2014 "
+//     ) {
+//     } else if (title === "Growth Rate") {
+//       if (currentPokemonObj) {
+//         currentPokemonObj.growthRate = data;
+//       } else {
+//         newPokedexObj.growthRate = data;
+//       }
+//     } else if (title === "Base Friendship") {
+//       let newData = data.replace(/[^0-9]/g, "");
+//       if (currentPokemonObj) {
+//         currentPokemonObj.baseFriendship = Number(newData);
+//       } else {
+//         newPokedexObj.baseFriendship = Number(newData);
+//       }
+//     } else if (title === "Catch rate") {
+//       let newData = data.slice(0, 4);
+//       newData = newData.replace(/[^0-9]/g, "");
+//       if (currentPokemonObj) {
+//         currentPokemonObj.catchRate = Number(newData);
+//       } else {
+//         newPokedexObj.catchRate = Number(newData);
+//       }
+//     }
+//   });
+// }
 
 //         /**
 //          * Breeding section
@@ -905,12 +904,12 @@ function parseEvString(evString) {
 // scrapePokemonData();
 
 function printTitleAndData(title, data) {
-  console.log("Title: ", title,  "\nData: ", data);
+	console.log("Title: ", title, "\nData: ", data);
 }
 
 testFunction();
 
 module.exports = {
-  formatHeading,
-  parseAbilities
+	formatHeading,
+	parseAbilities,
 };
