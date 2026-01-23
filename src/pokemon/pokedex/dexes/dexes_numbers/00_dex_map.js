@@ -7,7 +7,7 @@ const platinum = require('./06_platinum.json');
 const heartgold_soulsilver = require('./07_heartgold_soulsilver.json');
 const black_white = require('./08_black_white.json');
 const black2_white2 = require('./09_black2_white2.json');
-const xy_central = require('.10_xy_central.json');
+const xy_central = require('./10_xy_central.json');
 const xy_coastal = require('./11_xy_coastal.json');
 const xy_mountain = require('./12_xy_mountain.json');
 const omega_ruby_alpha_sapphire = require('./13_omega_ruby_alpha_sapphire.json');
@@ -21,13 +21,14 @@ const ultra_sun_ultra_moon_melemele = require('./20_ultra_sun_ultra_moon_melemel
 const ultra_sun_ultra_moon_akala = require('./21_ultra_sun_ultra_moon_akala.json');
 const ultra_sun_ultra_moon_ulaula = require('./22_ultra_sun_ultra_moon_ulaula.json');
 const ultra_sun_ultra_moon_poni = require('./23_ultra_sun_ultra_moon_poni.json');
-const sword_shield = require('./24_lets_go_pikachu_lets_go_eevee.json');
-const isle_of_armor = require('./25_sword_shield.json');
-const crown_tundra = require('./26_isle_of_armor.json');
-const legends_arceus = require('./27_crown_tundra.json');
-const scarlet_violet = require('../28_legends_arceus.json');
-const teal_mask = require('./28_legends_arceus.json');
-const indigo_disk = require('./29_scarlet_violet.json');
+const lets_go_pikachu_lets_go_eevee = require('./24_lets_go_pikachu_lets_go_eevee.json');
+const sword_shield = require('./25_sword_shield.json');
+const isle_of_armor = require('./26_isle_of_armor.json');
+const crown_tundra = require('./27_crown_tundra.json');
+const legends_arceus = require('./28_legends_arceus.json');
+const scarlet_violet = require('./29_scarlet_violet.json');
+const teal_mask = require('./30_teal_mask.json');
+const indigo_disk = require('./31_indigo_disk.json');
 // TODO: add legends ZA
 // TODO: add mega dimensions
 
@@ -58,6 +59,7 @@ dexMap.set('ultra_sun_ultra_moon_melemele', ultra_sun_ultra_moon_melemele);
 dexMap.set('ultra_sun_ultra_moon_akala', ultra_sun_ultra_moon_akala);
 dexMap.set('ultra_sun_ultra_moon_ulaula', ultra_sun_ultra_moon_ulaula);
 dexMap.set('ultra_sun_ultra_moon_poni', ultra_sun_ultra_moon_poni);
+dexMap.set('lets_go_pikachu_lets_go_eevee', lets_go_pikachu_lets_go_eevee);
 dexMap.set('sword_shield', sword_shield);
 dexMap.set('isle_of_armor', isle_of_armor);
 dexMap.set('crown_tundra', crown_tundra);
