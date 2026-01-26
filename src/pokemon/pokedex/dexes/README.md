@@ -32,5 +32,6 @@ This folder is used to create and update pokemon pokedexes in respect to their g
 ```
 
 3. `transformDexNumToDexObj.js` is the main file that converts the number array dexes into the obj array dexes.
-    - *Note:* I was going to put a check to see if the file already exists to stop it from making one every time, however if I needed to make changes to old ones this would ignore the changes. So instead it will change every time for now.
-    - TODO:  Triple verify the numbered lists dexes. Then append code to `transformDexNumToDexObj.js` to only add new dexes.
+   - _Note:_ I was going to put a check to see if the file already exists to stop it from making one every time, however if I needed to make changes to old ones this would ignore the changes. So instead it will change every time for now.
+   - TODO: Triple verify the numbered lists dexes. Then append code to `transformDexNumToDexObj.js` to only add new dexes.
+   - TODO: Should I reformat the key indicator to be `_id` for the core sorting of the list, and then that way the save file can always sort by that lists key `_id` of the respective list.

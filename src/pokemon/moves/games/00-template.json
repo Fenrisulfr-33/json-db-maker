@@ -1,8 +1,8 @@
 [
     {
-        "id": "00-template",
+        "_id": "0000",
         "name": "pokemon name (lowercase)",
-        "game": {
+        "[game]": {
             "level-up": [
                 { 
                     "lvl": 1, 

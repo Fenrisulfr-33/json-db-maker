@@ -81,3 +81,6 @@ Calm down, I know you're excitied like I was
 #### If you made it this far, yes I am still here
 
   This model can be used for anything, maybe you want a temtem API or database *cough* Im coming for you next mofo *cough*. But the concept seemed very useful to me. You can basically take and object even if it is just one and convert it into a better modeled object then before without the possiblity of you FaT FinG_eRinG_ it, ya know what im saying dawg.
+
+## To Do List
+  TODO: add a `isMega` key on mega pokemon so instead of saving lists of megas you can use mongoDB to pull a list of mega by the key.
