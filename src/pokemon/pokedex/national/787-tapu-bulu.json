@@ -1,0 +1,85 @@
+{
+  "_id": 787,
+  "key": "tapu-bulu",
+  "name": {
+    "english": "Tapu Bulu",
+    "spanish": "Tapu Bulu",
+    "italian": "Tapu Bulu",
+    "japanese": "カプ・ブルル",
+    "chinese": "卡璞・哞哞",
+    "korean": "",
+    "german": "Kapu-Toro",
+    "french": "Tokopisco"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Grassy Surge",
+      "id": 229
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 130,
+    "def": 115,
+    "spatk": 85,
+    "spdef": 95,
+    "spd": 75,
+    "total": 570
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "45.5 kg (100.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Land Spirit Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 50,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "tapu": "Hawaiian for ‘holy’",
+    "bulu": "Hawaiian for ‘bull’"
+  },
+  "pokedexEntries": {
+    "Tapu-bulu": [
+      {
+        "game": "sun",
+        "desc": "It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth."
+      },
+      {
+        "game": "moon",
+        "desc": "The guardian deity of Ula’ula is a lazy Pokémon. It commands plants to immobilize its foes and then deals them a savage blow with its horns."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although it’s called a guardian deity, it’s violent enough to crush anyone it sees as an enemy."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants."
+      }
+    ]
+  }
+}

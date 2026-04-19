@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://pokemon-database.com/schemas/pal.json",
+  "title": "Palworld Pal",
+  "description": "Schema for Palworld Pal data validation",
+  "type": "object",
+  "required": ["_id", "key", "name", "stats", "type"],
+  "properties": {
+    "_id": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Unique Pal ID"
+    },
+    "key": {
+      "type": "string",
+      "pattern": "^[0-9]{3}[A-Z]?$",
+      "description": "Three-digit key identifier"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stats": {
+      "type": "object",
+      "required": ["hp", "attack", "defense", "speed", "stamina", "support", "food"],
+      "properties": {
+        "hp": { "type": "integer", "minimum": 0 },
+        "attack": {
+          "type": "object",
+          "required": ["melee", "ranged"],
+          "properties": {
+            "melee": { "type": "integer", "minimum": 0 },
+            "ranged": { "type": "integer", "minimum": 0 }
+          }
+        },
+        "defense": { "type": "integer", "minimum": 0 },
+        "speed": {
+          "type": "object",
+          "required": ["ride", "run", "walk"],
+          "properties": {
+            "ride": { "type": "integer", "minimum": 0 },
+            "run": { "type": "integer", "minimum": 0 },
+            "walk": { "type": "integer", "minimum": 0 }
+          }
+        },
+        "stamina": { "type": "integer", "minimum": 0 },
+        "support": { "type": "integer", "minimum": 0 },
+        "food": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "type": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "string",
+        "enum": ["Neutral", "Fire", "Water", "Electric", "Grass", "Ice", "Ground", "Dark", "Dragon"]
+      }
+    },
+    "work": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "level"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["Kindling", "Watering", "Planting", "Generating Electricity", "Handiwork", "Gathering", "Lumbering", "Mining", "Medicine Production", "Cooling", "Transporting", "Farming"]
+          },
+          "level": { "type": "integer", "minimum": 1, "maximum": 4 }
+        }
+      }
+    },
+    "drops": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "ability": {
+      "type": "object",
+      "required": ["name", "description"],
+      "properties": {
+        "name": { "type": "string" },
+        "description": { "type": "string" },
+        "tech": { "type": ["string", "null"] }
+      }
+    },
+    "asset": {
+      "type": "string"
+    },
+    "genus": {
+      "type": "string",
+      "enum": ["humanoid", "monster", "dragon", "beast", "bird"]
+    },
+    "rarity": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10
+    },
+    "price": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "size": {
+      "type": "string",
+      "enum": ["xs", "s", "m", "l", "xl"]
+    },
+    "description": {
+      "type": "string"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["level", "name", "type", "cooldown", "power"],
+        "properties": {
+          "level": { "type": "integer", "minimum": 1 },
+          "name": { "type": "string" },
+          "type": {
+            "type": "string",
+            "enum": ["Neutral", "Fire", "Water", "Electric", "Grass", "Ice", "Ground", "Dark", "Dragon"]
+          },
+          "cooldown": { "type": "integer", "minimum": 0 },
+          "power": { "type": "integer", "minimum": 0 },
+          "description": { "type": "string" }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

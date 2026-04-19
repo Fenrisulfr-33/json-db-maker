@@ -1,0 +1,76 @@
+{
+  "_id": 673,
+  "key": "gogoat",
+  "name": {
+    "english": "Gogoat",
+    "spanish": "Gogoat",
+    "italian": "Gogoat",
+    "japanese": "ゴーゴート",
+    "chinese": "坐骑山羊",
+    "korean": "",
+    "german": "Chevrumm",
+    "french": "Chevroum"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 222
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sap Sipper",
+      "id": 157
+    },
+    "hidden": {
+      "name": "Grass Pelt",
+      "id": 179
+    }
+  },
+  "baseStats": {
+    "hp": 123,
+    "atk": 100,
+    "def": 62,
+    "spatk": 97,
+    "spdef": 81,
+    "spd": 68,
+    "total": 531
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "91.0 kg (200.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 232,
+  "generation": 6,
+  "evs": {},
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Mount Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 186,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gogo": "full of energy",
+    "goat": "horned mammal"
+  },
+  "pokedexEntries": {
+    "Gogoat": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns."
+      }
+    ]
+  }
+}

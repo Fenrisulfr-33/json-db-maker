@@ -1,0 +1,68 @@
+{
+  "_id": 911,
+  "key": "skeledirge",
+  "name": {
+    "english": "Skeledirge"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 6
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Unaware",
+      "id": 109
+    }
+  },
+  "baseStats": {
+    "hp": 104,
+    "atk": 75,
+    "def": 100,
+    "spatk": 110,
+    "spdef": 75,
+    "spd": 66,
+    "total": 530
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "326.5 kg (719.8 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Singer Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "skeleton": "a creature’s bone structure",
+    "dirge": "a lament for the dead; mournful song"
+  },
+  "pokedexEntries": {
+    "Skeledirge": [
+      {
+        "game": "scarlet",
+        "desc": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge’s head gained a soul."
+      },
+      {
+        "game": "violet",
+        "desc": "Skeledirge’s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+      }
+    ]
+  }
+}

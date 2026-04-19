@@ -1,0 +1,125 @@
+{
+  "_id": 295,
+  "key": "exploud",
+  "name": {
+    "english": "Exploud",
+    "spanish": "Exploud",
+    "italian": "Exploud",
+    "japanese": "バクオング",
+    "chinese": "爆音怪",
+    "korean": "",
+    "german": "Krawumms",
+    "french": "Brouhabam"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 150
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Soundproof",
+      "id": 43
+    },
+    "hidden": {
+      "name": "Scrappy",
+      "id": 113
+    }
+  },
+  "baseStats": {
+    "hp": 104,
+    "atk": 91,
+    "def": 63,
+    "spatk": 91,
+    "spdef": 73,
+    "spd": 68,
+    "total": 490
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "84.0 kg (185.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 101,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "species": "Loud Noise Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 221,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "explode": "blow up, erupt",
+    "loud": "(of sound) high in volume"
+  },
+  "pokedexEntries": {
+    "Exploud": [
+      {
+        "game": "ruby",
+        "desc": "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow."
+      },
+      {
+        "game": "sapphire",
+        "desc": "EXPLOUD communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This POKéMON only raises its voice when it is in battle."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away."
+      },
+      {
+        "game": "emerald",
+        "desc": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+      },
+      {
+        "game": "x",
+        "desc": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+      },
+      {
+        "game": "y",
+        "desc": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle."
+      },
+      {
+        "game": "sword",
+        "desc": "In the past, people would use the loud voices of these Pokémon as a means of communication between distant cities."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon can do more than just shout. To communicate with others of its kind, it’ll emit all sorts of sounds from the holes in its body."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body."
+      }
+    ]
+  }
+}

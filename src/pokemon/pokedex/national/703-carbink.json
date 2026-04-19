@@ -1,0 +1,105 @@
+{
+  "_id": 703,
+  "key": "carbink",
+  "name": {
+    "english": "Carbink",
+    "spanish": "Carbink",
+    "italian": "Carbink",
+    "japanese": "メレシー",
+    "chinese": "小碎钻",
+    "korean": "",
+    "german": "Rocara",
+    "french": "Strassie"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 128
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Clear Body",
+      "id": 29
+    },
+    "hidden": {
+      "name": "Sturdy",
+      "id": 5
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 150,
+    "spatk": 50,
+    "spdef": 150,
+    "spd": 50,
+    "total": 500
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "5.7 kg (12.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 6,
+  "evs": {
+    "def": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "species": "Jewel Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 100,
+  "growthRate": "Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "carbon": "core element of diamond and other minerals",
+    "clink": "sound of gemstones clashing"
+  },
+  "pokedexEntries": {
+    "Carbink": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Born from the temperatures and pressures deep underground, it fires beams from the stone in its head."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has slept underground for hundreds of millions of years since its birth. It’s occasionally found during the excavation of caves."
+      },
+      {
+        "game": "sun",
+        "desc": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body."
+      },
+      {
+        "game": "moon",
+        "desc": "Although this Pokémon is not especially rare, its glittering, jewel-draped body draws attention from people."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another’s jewels."
+      },
+      {
+        "game": "sword",
+        "desc": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen."
+      }
+    ]
+  }
+}

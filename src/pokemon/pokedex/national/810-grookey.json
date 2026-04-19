@@ -1,0 +1,78 @@
+{
+  "_id": 810,
+  "key": "grookey",
+  "name": {
+    "english": "Grookey",
+    "spanish": "Grookey",
+    "italian": "Grookey",
+    "japanese": "サルノリ",
+    "chinese": "敲音猴",
+    "korean": "",
+    "german": "Chimpep",
+    "french": "Ouistempo"
+  },
+  "pokedexNumber": {
+    "sword-shield": 1
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Grassy Surge",
+      "id": 229
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 65,
+    "total": 310
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "5.0 kg (11.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 274,
+  "generation": 8,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Chimp Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "groove": "rhythm",
+    "monkey": "a species of primate"
+  },
+  "pokedexEntries": {
+    "Grookey": [
+      {
+        "game": "sword",
+        "desc": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area."
+      },
+      {
+        "game": "shield",
+        "desc": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+      }
+    ]
+  }
+}

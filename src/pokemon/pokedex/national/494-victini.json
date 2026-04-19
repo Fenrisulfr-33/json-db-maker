@@ -1,0 +1,83 @@
+{
+  "_id": 494,
+  "key": "victini",
+  "name": {
+    "english": "Victini",
+    "spanish": "Victini",
+    "italian": "Victini",
+    "japanese": "ビクティニ",
+    "chinese": "比克提尼",
+    "korean": "",
+    "german": "Victini",
+    "french": "Victini"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Psychic",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Victory Star",
+      "id": 162
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spatk": 100,
+    "spdef": 100,
+    "spd": 100,
+    "total": 600
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "4.0 kg (8.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Victory Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 100,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "victory": "a successful act",
+    "teeny": "small"
+  },
+  "pokedexEntries": {
+    "Victini": [
+      {
+        "game": "black",
+        "desc": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter."
+      },
+      {
+        "game": "white",
+        "desc": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power."
+      }
+    ]
+  }
+}

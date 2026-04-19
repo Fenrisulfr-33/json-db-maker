@@ -1,0 +1,93 @@
+{
+  "_id": 768,
+  "key": "golisopod",
+  "name": {
+    "english": "Golisopod",
+    "spanish": "Golisopod",
+    "italian": "Golisopod",
+    "japanese": "グソクムシャ",
+    "chinese": "具甲武者",
+    "korean": "",
+    "german": "Tectass",
+    "french": "Sarmuraï"
+  },
+  "pokedexNumber": {
+    "sword-shield": 233,
+    "isle-of-armor": 125
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Emergency Exit",
+      "id": 194
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 140,
+    "spatk": 60,
+    "spdef": 90,
+    "spd": 40,
+    "total": 530
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "108.0 kg (238.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 267,
+  "generation": 7,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug",
+    "Water 3"
+  ],
+  "species": "Hard Scale Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 186,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "goliath": "a giant",
+    "isopod": "marine invertebrate with an exoskeleton"
+  },
+  "pokedexEntries": {
+    "Golisopod": [
+      {
+        "game": "sun",
+        "desc": "With a flashing slash of its giant sharp claws, it cleaves seawater—or even air—right in two."
+      },
+      {
+        "game": "moon",
+        "desc": "It battles skillfully with its six arms, but spends most of its time peacefully meditating in caves deep beneath the sea."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The shell covering its body is as hard as diamond. This Pokémon will do anything it takes to win."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod."
+      },
+      {
+        "game": "sword",
+        "desc": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs."
+      },
+      {
+        "game": "shield",
+        "desc": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner’s meal."
+      }
+    ]
+  }
+}

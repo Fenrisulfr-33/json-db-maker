@@ -1,0 +1,172 @@
+{
+  "_id": 148,
+  "key": "dragonair",
+  "name": {
+    "english": "Dragonair",
+    "spanish": "Dragonair",
+    "italian": "Dragonair",
+    "japanese": "ハクリュー",
+    "chinese": "哈克龙",
+    "korean": "",
+    "german": "Dragonir",
+    "french": "Draco"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 348,
+    "crown-tundra": 195,
+    "crystal": 247,
+    "gold-silver": 247,
+    "yellow": 148,
+    "red-blue": 148
+  },
+  "type": {
+    "one": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Marvel Scale",
+      "id": 63
+    }
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 84,
+    "def": 65,
+    "spatk": 70,
+    "spdef": 70,
+    "spd": 70,
+    "total": 420
+  },
+  "info": {
+    "height": "4.0 m (13′01″)",
+    "weight": "16.5 kg (36.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 53,
+  "generation": 1,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "species": "Dragon Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 147,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "dragon": "mythical fire-breathing creature",
+    "air": "relating to its majesty"
+  },
+  "pokedexEntries": {
+    "Dragonair": [
+      {
+        "game": "red-blue",
+        "desc": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions."
+      },
+      {
+        "game": "yellow",
+        "desc": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look."
+      },
+      {
+        "game": "gold",
+        "desc": "They say that if it emits an aura from its whole body, the weather will begin to change instantly."
+      },
+      {
+        "game": "silver",
+        "desc": "Its crystalline orbs appear to give this POKéMON the power to freely control the weather."
+      },
+      {
+        "game": "crystal",
+        "desc": "It is called the divine POKéMON. When its entire body brightens slightly, the weather changes."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "A mystical POKéMON that exudes a gentle aura. It is said to have the ability to change the weather."
+      },
+      {
+        "game": "emerald",
+        "desc": "A DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "They say that if it emits an aura from its whole body, the weather will begin to change instantly."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+      },
+      {
+        "game": "x",
+        "desc": "Its crystalline orbs appear to give this Pokémon the power to freely control the weather."
+      },
+      {
+        "game": "y",
+        "desc": "A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail."
+      },
+      {
+        "game": "sun",
+        "desc": "It has long been thought that its crystalline orbs are imbued with the power to control the weather."
+      },
+      {
+        "game": "moon",
+        "desc": "From time immemorial, it has been venerated by agricultural peoples as an entity able to control the weather."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Lakes where Dragonair live are filled with offerings from people, because they believe this Pokémon is able to control the weather."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Some say that if you see it at the start of the year, flying through the sky and twisting its body, you’ll be healthy all year long."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+      }
+    ]
+  }
+}

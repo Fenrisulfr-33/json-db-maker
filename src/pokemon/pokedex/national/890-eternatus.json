@@ -1,0 +1,82 @@
+{
+  "_id": 890,
+  "key": "eternatus",
+  "name": {
+    "english": "Eternatus",
+    "spanish": "Eternatus",
+    "italian": "Eternatus",
+    "japanese": "ムゲンダイナ",
+    "chinese": "无极汰那",
+    "korean": "",
+    "german": "Endynalos",
+    "french": "Éthernatos"
+  },
+  "pokedexNumber": {
+    "sword-shield": 400
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    }
+  },
+  "baseStats": {
+    "hp": 140,
+    "atk": 85,
+    "def": 95,
+    "spatk": 145,
+    "spdef": 95,
+    "spd": 130,
+    "total": 690
+  },
+  "info": {
+    "height": "100.0 m (328′01″)",
+    "weight": "—"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Gigantic Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 0,
+  "baseExp": 345,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "eternal": ""
+  },
+  "pokedexEntries": {
+    "Eternatus": [
+      {
+        "game": "sword",
+        "desc": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active."
+      },
+      {
+        "game": "shield",
+        "desc": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon."
+      }
+    ],
+    "Eternamax": [
+      {
+        "game": "sword",
+        "desc": "As a result of Rose’s meddling, Eternatus absorbed all the energy in the Galar region. It’s now in a state of power overload."
+      },
+      {
+        "game": "shield",
+        "desc": "Infinite amounts of energy pour from this Pokémon’s enlarged core, warping the surrounding space-time."
+      }
+    ]
+  }
+}

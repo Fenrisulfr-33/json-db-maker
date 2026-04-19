@@ -1,0 +1,93 @@
+{
+  "_id": 884,
+  "key": "duraludon",
+  "name": {
+    "english": "Duraludon",
+    "spanish": "Duraludon",
+    "italian": "Duraludon",
+    "japanese": "ジュラルドン",
+    "chinese": "铝钢龙",
+    "korean": "",
+    "german": "Duraludon",
+    "french": "Duralugon"
+  },
+  "pokedexNumber": {
+    "sword-shield": 371
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Light Metal",
+      "id": 135
+    },
+    "two": {
+      "name": "Heavy Metal",
+      "id": 134
+    },
+    "hidden": {
+      "name": "Stalwart",
+      "id": 242
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 95,
+    "def": 115,
+    "spatk": 120,
+    "spdef": 50,
+    "spd": 85,
+    "total": 535
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "40.0 kg (88.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Alloy Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 187,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "duralumin": "aluminium alloy",
+    "-don": "common dinosaur suffix"
+  },
+  "pokedexEntries": {
+    "Duraludon": [
+      {
+        "game": "sword",
+        "desc": "Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily."
+      },
+      {
+        "game": "shield",
+        "desc": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "It’s grown to resemble a skyscraper. Parts of its towering body glow due to a profusion of energy."
+      },
+      {
+        "game": "shield",
+        "desc": "The hardness of its cells is exceptional, even among Steel types. It also has a body structure that’s resistant to earthquakes."
+      }
+    ]
+  }
+}

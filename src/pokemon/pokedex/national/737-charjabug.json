@@ -1,0 +1,91 @@
+{
+  "_id": 737,
+  "key": "charjabug",
+  "name": {
+    "english": "Charjabug",
+    "spanish": "Charjabug",
+    "italian": "Charjabug",
+    "japanese": "デンヂムシ",
+    "chinese": "虫电宝",
+    "korean": "",
+    "german": "Akkup",
+    "french": "Chrysapile"
+  },
+  "pokedexNumber": {
+    "sword-shield": 17
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Battery",
+      "id": 217
+    }
+  },
+  "baseStats": {
+    "hp": 57,
+    "atk": 82,
+    "def": 95,
+    "spatk": 55,
+    "spdef": 75,
+    "spd": 36,
+    "total": 400
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "10.5 kg (23.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 255,
+  "generation": 7,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Battery Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 140,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "charge": "store electrical energy",
+    "bug": "insect"
+  },
+  "pokedexEntries": {
+    "Charjabug": [
+      {
+        "game": "sun",
+        "desc": "Its body is capable of storing electricity. On camping trips, people are grateful to have one around."
+      },
+      {
+        "game": "moon",
+        "desc": "From the food it digests, it generates electricity, and it stores this energy in its electric sac."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It buries itself in fallen leaves and barely moves, munching away on humus. If you accidentally step on one, you’ll get a shock!"
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents."
+      },
+      {
+        "game": "sword",
+        "desc": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws."
+      },
+      {
+        "game": "shield",
+        "desc": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use."
+      }
+    ]
+  }
+}

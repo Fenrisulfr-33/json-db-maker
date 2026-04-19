@@ -1,0 +1,103 @@
+{
+  "_id": 545,
+  "key": "scolipede",
+  "name": {
+    "english": "Scolipede",
+    "spanish": "Scolipede",
+    "italian": "Scolipede",
+    "japanese": "ペンドラー",
+    "chinese": "蜈蚣王",
+    "korean": "",
+    "german": "Cerapendra",
+    "french": "Brutapode"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 76
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "hidden": {
+      "name": "Speed Boost",
+      "id": 3
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 100,
+    "def": 89,
+    "spatk": 55,
+    "spdef": 69,
+    "spd": 112,
+    "total": 485
+  },
+  "info": {
+    "height": "2.5 m (8′02″)",
+    "weight": "200.5 kg (442.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 187,
+  "generation": 5,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Megapede Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 218,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "scolopendra": "a species of centipede",
+    "centipede": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Scolipede": [
+      {
+        "game": "black",
+        "desc": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails."
+      },
+      {
+        "game": "white",
+        "desc": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails."
+      },
+      {
+        "game": "sword",
+        "desc": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws’ toxic spikes."
+      },
+      {
+        "game": "shield",
+        "desc": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser."
+      }
+    ]
+  }
+}

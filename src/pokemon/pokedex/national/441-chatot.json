@@ -1,0 +1,115 @@
+{
+  "_id": 441,
+  "key": "chatot",
+  "name": {
+    "english": "Chatot",
+    "spanish": "Chatot",
+    "italian": "Chatot",
+    "japanese": "ペラップ",
+    "chinese": "聒噪鸟",
+    "korean": "",
+    "german": "Plaudagei",
+    "french": "Pijako"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 157
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Tangled Feet",
+      "id": 77
+    },
+    "hidden": {
+      "name": "Big Pecks",
+      "id": 145
+    }
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 65,
+    "def": 45,
+    "spatk": 92,
+    "spdef": 42,
+    "spd": 91,
+    "total": 411
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "1.9 kg (4.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Music Note Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 35,
+  "baseExp": 144,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "chat": "to talk",
+    "tot": "a small child"
+  },
+  "pokedexEntries": {
+    "Chatot": [
+      {
+        "game": "diamond",
+        "desc": "It can learn and speak human words. If they gather, they all learn the same saying."
+      },
+      {
+        "game": "pearl",
+        "desc": "It keeps rhythm by flicking its tail feathers like a metronome. It imitates human speech."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its tongue is just like a human’s. As a result, it can cleverly mimic human speech."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its tongue is just like a human’s. As a result, it can cleverly mimic human speech."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It can learn and speak human words. If they gather, they all learn the same saying."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "They can learn and speak human words. If they gather, they all learn the same saying."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It keeps rhythm by flicking its tail feathers like a metronome. It also imitates human speech."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic."
+      }
+    ]
+  }
+}

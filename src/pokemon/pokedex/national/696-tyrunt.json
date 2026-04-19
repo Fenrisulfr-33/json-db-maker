@@ -1,0 +1,96 @@
+{
+  "_id": 696,
+  "key": "tyrunt",
+  "name": {
+    "english": "Tyrunt",
+    "spanish": "Tyrunt",
+    "italian": "Tyrunt",
+    "japanese": "チゴラス",
+    "chinese": "宝宝暴龙",
+    "korean": "",
+    "german": "Balgoras",
+    "french": "Ptyranidur"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 83
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Strong Jaw",
+      "id": 173
+    },
+    "hidden": {
+      "name": "Sturdy",
+      "id": 5
+    }
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 89,
+    "def": 77,
+    "spatk": 45,
+    "spdef": 45,
+    "spd": 48,
+    "total": 362
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "26.0 kg (57.3 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 243,
+  "generation": 6,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Royal Heir Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 72,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "Tyrannosaurus": "a large bipedal dinosaur",
+    "runt": "the smallest of a litter of animals"
+  },
+  "pokedexEntries": {
+    "Tyrunt": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "This Pokémon was restored from a fossil. If something happens that it doesn’t like, it throws a tantrum and runs wild."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its large jaw has incredible destructive power. Some theories suggest that its restored form is different from its form of long ago."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it’s trying to frolic with are gravely injured."
+      },
+      {
+        "game": "sword",
+        "desc": "This is an ancient Pokémon, revived in modern times. It has a violent disposition, and it’ll tear apart anything it gets between its hefty jaws."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around."
+      }
+    ]
+  }
+}

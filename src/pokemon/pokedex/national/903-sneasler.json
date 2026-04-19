@@ -1,0 +1,54 @@
+{
+  "_id": 903,
+  "key": "sneasler",
+  "name": {
+    "english": "Sneasler"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 203
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Poison Touch",
+      "id": 143
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 130,
+    "def": 60,
+    "spatk": 40,
+    "spdef": 80,
+    "spd": 120,
+    "total": 510
+  },
+  "info": {
+    "height": "",
+    "weight": ""
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "",
+  "catchRate": null,
+  "baseFriendship": null,
+  "growthRate": null,
+  "eggCycles": null,
+  "nameOrigin": {},
+  "pokedexEntries": {}
+}

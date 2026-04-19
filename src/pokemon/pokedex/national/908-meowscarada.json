@@ -1,0 +1,68 @@
+{
+  "_id": 908,
+  "key": "meowscarada",
+  "name": {
+    "english": "Meowscarada"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 3
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Protean",
+      "id": 168
+    }
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 110,
+    "def": 70,
+    "spatk": 81,
+    "spdef": 70,
+    "spd": 123,
+    "total": 530
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "31.2 kg (68.8 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Magician Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "meow": "the sound a cat makes",
+    "mascarada": "Spanish for ‘masqerade’, to disguise oneself"
+  },
+  "pokedexEntries": {
+    "Meowscarada": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating."
+      },
+      {
+        "game": "violet",
+        "desc": "With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize what’s going on."
+      }
+    ]
+  }
+}

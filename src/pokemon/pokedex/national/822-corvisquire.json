@@ -1,0 +1,84 @@
+{
+  "_id": 822,
+  "key": "corvisquire",
+  "name": {
+    "english": "Corvisquire",
+    "spanish": "Corvisquire",
+    "italian": "Corvisquire",
+    "japanese": "アオガラス",
+    "chinese": "蓝鸦",
+    "korean": "",
+    "german": "Kranoviz",
+    "french": "Bleuseille"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 41,
+    "sword-shield": 22,
+    "crown-tundra": 164
+  },
+  "type": {
+    "one": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Unnerve",
+      "id": 127
+    },
+    "hidden": {
+      "name": "Big Pecks",
+      "id": 145
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 67,
+    "def": 55,
+    "spatk": 43,
+    "spdef": 55,
+    "spd": 77,
+    "total": 365
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "16.0 kg (35.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 278,
+  "generation": 8,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Raven Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 128,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "corvine": "",
+    "squire": ""
+  },
+  "pokedexEntries": {
+    "Corvisquire": [
+      {
+        "game": "sword",
+        "desc": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies."
+      },
+      {
+        "game": "shield",
+        "desc": "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength."
+      }
+    ]
+  }
+}

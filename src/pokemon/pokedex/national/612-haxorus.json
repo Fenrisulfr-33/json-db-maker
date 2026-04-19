@@ -1,0 +1,105 @@
+{
+  "_id": 612,
+  "key": "haxorus",
+  "name": {
+    "english": "Haxorus",
+    "spanish": "Haxorus",
+    "italian": "Haxorus",
+    "japanese": "オノノクス",
+    "chinese": "双斧战龙",
+    "korean": "",
+    "german": "Maxax",
+    "french": "Tranchodon"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 157,
+    "sword-shield": 326
+  },
+  "type": {
+    "one": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "two": {
+      "name": "Mold Breaker",
+      "id": 104
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 147,
+    "def": 90,
+    "spatk": 60,
+    "spdef": 70,
+    "spd": 97,
+    "total": 540
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "105.5 kg (232.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 214,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Axe Jaw Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 243,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "hack": "to chop repeatedly",
+    "axe": "implement used for chopping",
+    "-saurus": "common dinosaur suffix"
+  },
+  "pokedexEntries": {
+    "Haxorus": [
+      {
+        "game": "black",
+        "desc": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel."
+      },
+      {
+        "game": "white",
+        "desc": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor."
+      },
+      {
+        "game": "sword",
+        "desc": "Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition."
+      },
+      {
+        "game": "shield",
+        "desc": "While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries."
+      }
+    ]
+  }
+}

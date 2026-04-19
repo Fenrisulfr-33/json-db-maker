@@ -1,0 +1,104 @@
+{
+  "_id": 595,
+  "key": "joltik",
+  "name": {
+    "english": "Joltik",
+    "spanish": "Joltik",
+    "italian": "Joltik",
+    "japanese": "バチュル",
+    "chinese": "电电虫",
+    "korean": "",
+    "german": "Wattzapf",
+    "french": "Statitik"
+  },
+  "pokedexNumber": {
+    "sword-shield": 64,
+    "crown-tundra": 93
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "two": {
+      "name": "Unnerve",
+      "id": 127
+    },
+    "hidden": {
+      "name": "Swarm",
+      "id": 68
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 47,
+    "def": 50,
+    "spatk": 57,
+    "spdef": 50,
+    "spd": 65,
+    "total": 319
+  },
+  "info": {
+    "height": "0.1 m (0′04″)",
+    "weight": "0.6 kg (1.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 208,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Attaching Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 64,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "jolt": "a sudden movement or burst of electricity",
+    "tick": "a mite-like parasite"
+  },
+  "pokedexEntries": {
+    "Joltik": [
+      {
+        "game": "black",
+        "desc": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses."
+      },
+      {
+        "game": "white",
+        "desc": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch."
+      },
+      {
+        "game": "sword",
+        "desc": "Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own."
+      },
+      {
+        "game": "shield",
+        "desc": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters."
+      }
+    ]
+  }
+}

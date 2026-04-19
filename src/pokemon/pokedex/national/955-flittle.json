@@ -1,0 +1,72 @@
+{
+  "_id": 955,
+  "key": "flittle",
+  "name": {
+    "english": "Flittle"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 263
+  },
+  "type": {
+    "one": "Psychic",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Anticipation",
+      "id": 107
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Speed Boost",
+      "id": 3
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 35,
+    "def": 30,
+    "spatk": 55,
+    "spdef": 30,
+    "spd": 75,
+    "total": 255
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "1.5 kg (3.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Frill Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "flit": "move swiftly and lightly",
+    "little": "small"
+  },
+  "pokedexEntries": {
+    "Flittle": [
+      {
+        "game": "scarlet",
+        "desc": "Flittle’s toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon’s belly."
+      },
+      {
+        "game": "violet",
+        "desc": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+      }
+    ]
+  }
+}

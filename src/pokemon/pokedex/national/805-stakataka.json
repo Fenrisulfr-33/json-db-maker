@@ -1,0 +1,72 @@
+{
+  "_id": 805,
+  "key": "stakataka",
+  "name": {
+    "english": "Stakataka",
+    "spanish": "Stakataka",
+    "italian": "Stakataka",
+    "japanese": "ツンデツンデ",
+    "chinese": "垒磊石",
+    "korean": "",
+    "german": "Muramura",
+    "french": "Ama - Ama"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Rock",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beast Boost",
+      "id": 224
+    }
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 131,
+    "def": 211,
+    "spatk": 53,
+    "spdef": 101,
+    "spd": 13,
+    "total": 570
+  },
+  "info": {
+    "height": "5.5 m (18′01″)",
+    "weight": "820.0 kg (1807.8 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Rampart Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "stack": "pile up objects neatly"
+  },
+  "pokedexEntries": {
+    "Stakataka": [
+      {
+        "game": "ultra-sun",
+        "desc": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast."
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "_id": 265,
+  "key": "wurmple",
+  "name": {
+    "english": "Wurmple",
+    "spanish": "Wurmple",
+    "italian": "Wurmple",
+    "japanese": "ケムッソ",
+    "chinese": "刺尾虫",
+    "korean": "",
+    "german": "Waumpel",
+    "french": "Chenipotte"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 18
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shield Dust",
+      "id": 19
+    },
+    "hidden": {
+      "name": "Run Away",
+      "id": 50
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 45,
+    "def": 35,
+    "spatk": 20,
+    "spdef": 30,
+    "spd": 20,
+    "total": 195
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.6 kg (7.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 91,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Worm Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 56,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "worm": "long, thin invertebrate creature",
+    "apple": "a fruit, often eaten by worms"
+  },
+  "pokedexEntries": {
+    "Wurmple": [
+      {
+        "game": "ruby",
+        "desc": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping."
+      },
+      {
+        "game": "sapphire",
+        "desc": "WURMPLE is targeted by SWELLOW as prey. This POKéMON will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe."
+      },
+      {
+        "game": "emerald",
+        "desc": "It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes."
+      },
+      {
+        "game": "diamond",
+        "desc": "It loves to eat leaves. If it is attacked by a STARLY, it will defend itself with its spiked rear."
+      },
+      {
+        "game": "pearl",
+        "desc": "It spits a white silk that turns sticky when it contacts air. It is used to immobilize foes."
+      },
+      {
+        "game": "platinum",
+        "desc": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes."
+      },
+      {
+        "game": "x",
+        "desc": "It loves to eat leaves. If it is attacked by a Starly, it will defend itself with its spiked rear."
+      },
+      {
+        "game": "y",
+        "desc": "It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon’s feet are tipped with suction pads that allow it to cling to glass without slipping."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Wurmple is targeted by Swellow as prey. This Pokémon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It loves to eat leaves. If it is attacked by a Starly, it will defend itself with its spiked rear."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It spits a white silk thread that turns sticky when coming into contact with air. The silk is used to immobilize foes."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple’s appearance which form it will take when it evolves."
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_id": 516,
+  "key": "simipour",
+  "name": {
+    "english": "Simipour",
+    "spanish": "Simipour",
+    "italian": "Simipour",
+    "japanese": "ヒヤッキー",
+    "chinese": "冷水猿",
+    "korean": "",
+    "german": "Sodachita",
+    "french": "Flotoutan"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Torrent",
+      "id": 67
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "spatk": 98,
+    "spdef": 63,
+    "spd": 101,
+    "total": 498
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "29.0 kg (63.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 177,
+  "generation": 5,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Geyser Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 174,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "simian": "of or relating to primates",
+    "pour": "to drop or flow liquid (referring to cooking and its Water type)"
+  },
+  "pokedexEntries": {
+    "Simipour": [
+      {
+        "game": "black",
+        "desc": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail."
+      },
+      {
+        "game": "white",
+        "desc": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+      }
+    ]
+  }
+}

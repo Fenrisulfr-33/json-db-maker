@@ -1,0 +1,118 @@
+{
+  "_id": 508,
+  "key": "stoutland",
+  "name": {
+    "english": "Stoutland",
+    "spanish": "Stoutland",
+    "italian": "Stoutland",
+    "japanese": "ムーランド",
+    "chinese": "长毛狗",
+    "korean": "",
+    "german": "Bissbark",
+    "french": "Mastouffe"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 115
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Sand Rush",
+      "id": 146
+    },
+    "hidden": {
+      "name": "Scrappy",
+      "id": 113
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 110,
+    "def": 90,
+    "spatk": 45,
+    "spdef": 90,
+    "spd": 80,
+    "total": 500
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "61.0 kg (134.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 173,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Big-Hearted Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 225,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "stout": "bold, brave",
+    "land": "referring to terriers, who get their name from ‘terra’"
+  },
+  "pokedexEntries": {
+    "Stoutland": [
+      {
+        "game": "black",
+        "desc": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold."
+      },
+      {
+        "game": "white",
+        "desc": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain."
+      },
+      {
+        "game": "sun",
+        "desc": "Intelligent, good-natured, and valiant, it’s a trustworthy partner on rescue teams."
+      },
+      {
+        "game": "moon",
+        "desc": "With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland."
+      },
+      {
+        "game": "sword",
+        "desc": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days."
+      },
+      {
+        "game": "shield",
+        "desc": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species."
+      }
+    ]
+  }
+}

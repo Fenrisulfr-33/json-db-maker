@@ -1,0 +1,68 @@
+{
+  "_id": 968,
+  "key": "orthworm",
+  "name": {
+    "english": "Orthworm"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 296
+  },
+  "type": {
+    "one": "Steel",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Earth Eater",
+      "id": 297
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 145,
+    "spatk": 60,
+    "spdef": 55,
+    "spd": 65,
+    "total": 480
+  },
+  "info": {
+    "height": "2.5 m (8′02″)",
+    "weight": "310.0 kg (683.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Earthworm Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "ore": "a mineral in its natural state",
+    "earthworm": "long, thin invertebrate creature"
+  },
+  "pokedexEntries": {
+    "Orthworm": [
+      {
+        "game": "scarlet",
+        "desc": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
+      }
+    ]
+  }
+}

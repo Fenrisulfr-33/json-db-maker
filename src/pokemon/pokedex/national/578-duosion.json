@@ -1,0 +1,103 @@
+{
+  "_id": 578,
+  "key": "duosion",
+  "name": {
+    "english": "Duosion",
+    "spanish": "Duosion",
+    "italian": "Duosion",
+    "japanese": "ダブラン",
+    "chinese": "双卵细胞球",
+    "korean": "",
+    "german": "Mitodos",
+    "french": "Méios"
+  },
+  "pokedexNumber": {
+    "sword-shield": 271,
+    "crown-tundra": 55
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overcoat",
+      "id": 142
+    },
+    "two": {
+      "name": "Magic Guard",
+      "id": 98
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 40,
+    "def": 50,
+    "spatk": 125,
+    "spdef": 60,
+    "spd": 30,
+    "total": 370
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 201,
+  "generation": 5,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Mitosis Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "baseExp": 130,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "duo": "double; two",
+    "fusion": "come together"
+  },
+  "pokedexEntries": {
+    "Duosion": [
+      {
+        "game": "black",
+        "desc": "Since they have two divided brains, at times they suddenly try to take two different actions at once."
+      },
+      {
+        "game": "white",
+        "desc": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When their two divided brains think the same thoughts, their psychic power is maximized."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Since they have two divided brains, at times they suddenly try to take two different actions at once."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When their two divided brains think the same thoughts, their psychic power is maximized."
+      },
+      {
+        "game": "sword",
+        "desc": "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other."
+      },
+      {
+        "game": "shield",
+        "desc": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable."
+      }
+    ]
+  }
+}

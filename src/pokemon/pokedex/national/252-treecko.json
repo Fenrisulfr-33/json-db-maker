@@ -1,0 +1,117 @@
+{
+  "_id": 252,
+  "key": "treecko",
+  "name": {
+    "english": "Treecko",
+    "spanish": "Treecko",
+    "italian": "Treecko",
+    "japanese": "キモリ",
+    "chinese": "木守宫",
+    "korean": "",
+    "german": "Geckarbor",
+    "french": "Arcko"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Unburden",
+      "id": 84
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 35,
+    "spatk": 65,
+    "spdef": 55,
+    "spd": 70,
+    "total": 310
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "5.0 kg (11.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 86,
+  "generation": 3,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Wood Gecko Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tree": "large plant with a trunk",
+    "gecko": "tropical lizard"
+  },
+  "pokedexEntries": {
+    "Treecko": [
+      {
+        "game": "ruby",
+        "desc": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail."
+      },
+      {
+        "game": "sapphire",
+        "desc": "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this POKéMON, it would glare right back without conceding an inch of ground."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day’s weather."
+      },
+      {
+        "game": "emerald",
+        "desc": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest’s trees."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings."
+      },
+      {
+        "game": "x",
+        "desc": "It quickly scales even vertical walls. It senses humidity with its tail to predict the next day’s weather."
+      },
+      {
+        "game": "y",
+        "desc": "Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "The soles of its feet are covered by countless tiny hooks, enabling it to walk on walls and ceilings."
+      }
+    ]
+  }
+}

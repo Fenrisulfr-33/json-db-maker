@@ -1,0 +1,80 @@
+{
+  "_id": 846,
+  "key": "arrokuda",
+  "name": {
+    "english": "Arrokuda",
+    "spanish": "Arrokuda",
+    "italian": "Arrokuda",
+    "japanese": "サシカマス",
+    "chinese": "刺梭鱼",
+    "korean": "",
+    "german": "Pikuda",
+    "french": "Embrochet"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 136,
+    "sword-shield": 180,
+    "isle-of-armor": 96
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "hidden": {
+      "name": "Propeller Tail",
+      "id": 239
+    }
+  },
+  "baseStats": {
+    "hp": 41,
+    "atk": 63,
+    "def": 40,
+    "spatk": 40,
+    "spdef": 30,
+    "spd": 66,
+    "total": 280
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 289,
+  "generation": 8,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Rush Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 56,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "arrow": "thin weapon",
+    "barracuda": "large predatory fish"
+  },
+  "pokedexEntries": {
+    "Arrokuda": [
+      {
+        "game": "sword",
+        "desc": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It’s very proud of that jaw."
+      },
+      {
+        "game": "shield",
+        "desc": "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up."
+      }
+    ]
+  }
+}

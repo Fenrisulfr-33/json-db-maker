@@ -1,0 +1,121 @@
+{
+  "_id": 285,
+  "key": "shroomish",
+  "name": {
+    "english": "Shroomish",
+    "spanish": "Shroomish",
+    "italian": "Shroomish",
+    "japanese": "キノココ",
+    "chinese": "蘑蘑菇",
+    "korean": "",
+    "german": "Knilz",
+    "french": "Balignon"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 106
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Effect Spore",
+      "id": 27
+    },
+    "two": {
+      "name": "Poison Heal",
+      "id": 90
+    },
+    "hidden": {
+      "name": "Quick Feet",
+      "id": 95
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 40,
+    "def": 60,
+    "spatk": 40,
+    "spdef": 60,
+    "spd": 35,
+    "total": 295
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "4.5 kg (9.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 98,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "species": "Mushroom Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 59,
+  "growthRate": "Fluctuating",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "shroom": "short for ‘mushroom’, a fungus",
+    "-ish": "suffix meaning ‘like’ or ‘partly’"
+  },
+  "pokedexEntries": {
+    "Shroomish": [
+      {
+        "game": "ruby",
+        "desc": "SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves."
+      },
+      {
+        "game": "sapphire",
+        "desc": "If SHROOMISH senses danger, it shakes its body and scatters spores from the top of its head. This POKéMON’s spores are so toxic, they make trees and weeds wilt."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head."
+      },
+      {
+        "game": "emerald",
+        "desc": "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many SHROOMISH feasting on composted soil."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "If it senses danger, it scatters spores from the top of its head to protect itself."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled."
+      },
+      {
+        "game": "x",
+        "desc": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head."
+      },
+      {
+        "game": "y",
+        "desc": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It spouts poison spores from the top of its head. These spores cause pain all over the body if inhaled."
+      }
+    ]
+  }
+}

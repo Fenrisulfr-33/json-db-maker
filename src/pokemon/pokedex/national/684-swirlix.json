@@ -1,0 +1,86 @@
+{
+  "_id": 684,
+  "key": "swirlix",
+  "name": {
+    "english": "Swirlix",
+    "spanish": "Swirlix",
+    "italian": "Swirlix",
+    "japanese": "ペロッパフ",
+    "chinese": "绵绵泡芙",
+    "korean": "",
+    "german": "Flauschling",
+    "french": "Sucroquin"
+  },
+  "pokedexNumber": {
+    "sword-shield": 210
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sweet Veil",
+      "id": 175
+    },
+    "hidden": {
+      "name": "Unburden",
+      "id": 84
+    }
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 48,
+    "def": 66,
+    "spatk": 59,
+    "spdef": 57,
+    "spd": 49,
+    "total": 341
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "3.5 kg (7.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 237,
+  "generation": 6,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Fairy"
+  ],
+  "species": "Cotton Candy Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 68,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "swirl": "to move in a spiral shape",
+    "licks": "to eat with the tongue"
+  },
+  "pokedexEntries": {
+    "Swirlix": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy."
+      },
+      {
+        "game": "sword",
+        "desc": "It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy."
+      },
+      {
+        "game": "shield",
+        "desc": "The sweet smell of cotton candy perfumes Swirlix’s fluffy fur. This Pokémon spits out sticky string to tangle up its enemies."
+      }
+    ]
+  }
+}

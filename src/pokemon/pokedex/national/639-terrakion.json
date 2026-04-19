@@ -1,0 +1,95 @@
+{
+  "_id": 639,
+  "key": "terrakion",
+  "name": {
+    "english": "Terrakion",
+    "spanish": "Terrakion",
+    "italian": "Terrakion",
+    "japanese": "テラキオン",
+    "chinese": "代拉基翁",
+    "korean": "",
+    "german": "Terrakium",
+    "french": "Terrakium"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 206
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Justified",
+      "id": 154
+    }
+  },
+  "baseStats": {
+    "hp": 91,
+    "atk": 129,
+    "def": 90,
+    "spatk": 72,
+    "spdef": 90,
+    "spd": 108,
+    "total": 580
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "260.0 kg (573.2 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Cavern Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "terracotta": "orange clay-based material",
+    "lion": "large ferocious cat"
+  },
+  "pokedexEntries": {
+    "Terrakion": [
+      {
+        "game": "black",
+        "desc": "This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans."
+      },
+      {
+        "game": "white",
+        "desc": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon."
+      },
+      {
+        "game": "sword",
+        "desc": "It has phenomenal power. It will mercilessly crush anyone or anything that bullies small Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon."
+      }
+    ]
+  }
+}

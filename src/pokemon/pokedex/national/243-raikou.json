@@ -1,0 +1,132 @@
+{
+  "_id": 243,
+  "key": "raikou",
+  "name": {
+    "english": "Raikou",
+    "spanish": "Raikou",
+    "italian": "Raikou",
+    "japanese": "ライコウ",
+    "chinese": "雷公",
+    "korean": "",
+    "german": "Raikou",
+    "french": "Raikou"
+  },
+  "pokedexNumber": {
+    "crystal": 243,
+    "gold-silver": 243
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Inner Focus",
+      "id": 39
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 85,
+    "def": 75,
+    "spatk": 115,
+    "spdef": 100,
+    "spd": 115,
+    "total": 580
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "178.0 kg (392.4 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "spatk": 1,
+    "spd": 2
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Thunder Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "rai": "Japanese for ‘thunder’",
+    "kotei": "Japanese for ‘emperor’"
+  },
+  "pokedexEntries": {
+    "Raikou": [
+      {
+        "game": "gold",
+        "desc": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+      },
+      {
+        "game": "silver",
+        "desc": "A POKéMON that races across the land while barking a cry that sounds like crashing thunder."
+      },
+      {
+        "game": "crystal",
+        "desc": "This rough POKéMON stores energy inside its body, then sweeps across the land, shooting off electricity."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "RAIKOU embodies the speed of lightning. The roars of this POKéMON send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."
+      },
+      {
+        "game": "fire-red",
+        "desc": "This POKéMON races across the land while barking a cry that sounds like crashing thunder."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+      },
+      {
+        "game": "emerald",
+        "desc": "RAIKOU embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A Pokémon that races across the land while barking a cry that sounds like crashing thunder."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
+      },
+      {
+        "game": "x",
+        "desc": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning."
+      },
+      {
+        "game": "y",
+        "desc": "This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back."
+      }
+    ]
+  }
+}

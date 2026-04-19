@@ -1,0 +1,84 @@
+{
+  "_id": 862,
+  "key": "obstagoon",
+  "name": {
+    "english": "Obstagoon",
+    "spanish": "Obstagoon",
+    "italian": "Obstagoon",
+    "japanese": "タチフサグマ",
+    "chinese": "堵拦熊",
+    "korean": "",
+    "german": "Barrikadax",
+    "french": "Ixon"
+  },
+  "pokedexNumber": {
+    "sword-shield": 33,
+    "crown-tundra": 73
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Reckless",
+      "id": 120
+    },
+    "two": {
+      "name": "Guts",
+      "id": 62
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 93,
+    "atk": 90,
+    "def": 101,
+    "spatk": 60,
+    "spdef": 81,
+    "spd": 95,
+    "total": 520
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "46.0 kg (101.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 90,
+  "generation": 8,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Blocking Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 260,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "obstacle": "something that blocks or hinders progress",
+    "raccoon": "a small nocturnal carnivore"
+  },
+  "pokedexEntries": {
+    "Obstagoon": [
+      {
+        "game": "sword",
+        "desc": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct."
+      },
+      {
+        "game": "shield",
+        "desc": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch."
+      }
+    ]
+  }
+}

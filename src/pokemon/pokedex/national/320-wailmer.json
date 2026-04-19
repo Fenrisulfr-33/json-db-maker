@@ -1,0 +1,149 @@
+{
+  "_id": 320,
+  "key": "wailmer",
+  "name": {
+    "english": "Wailmer",
+    "spanish": "Wailmer",
+    "italian": "Wailmer",
+    "japanese": "ホエルコ",
+    "chinese": "吼吼鲸",
+    "korean": "",
+    "german": "Wailmer",
+    "french": "Wailmer"
+  },
+  "pokedexNumber": {
+    "sword-shield": 356
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Veil",
+      "id": 41
+    },
+    "two": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "hidden": {
+      "name": "Pressure",
+      "id": 46
+    }
+  },
+  "baseStats": {
+    "hp": 130,
+    "atk": 70,
+    "def": 35,
+    "spatk": 70,
+    "spdef": 35,
+    "spd": 60,
+    "total": 400
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "130.0 kg (286.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 109,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Field",
+    "Water 2"
+  ],
+  "species": "Ball Whale Pokémon",
+  "catchRate": 125,
+  "baseFriendship": 50,
+  "baseExp": 80,
+  "growthRate": "Fluctuating",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "whale": "large aquatic mammal",
+    "mere": "not more, small"
+  },
+  "pokedexEntries": {
+    "Wailmer": [
+      {
+        "game": "ruby",
+        "desc": "WAILMER’s nostrils are located above its eyes. This playful POKéMON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils."
+      },
+      {
+        "game": "sapphire",
+        "desc": "WAILMER can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this POKéMON can elevate the height of its bounces."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily."
+      },
+      {
+        "game": "emerald",
+        "desc": "While this POKéMON usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces."
+      },
+      {
+        "game": "black-white",
+        "desc": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force."
+      },
+      {
+        "game": "x",
+        "desc": "It bounces playfully like a ball. The more seawater it swallows, the higher it bounces."
+      },
+      {
+        "game": "y",
+        "desc": "It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Wailmer’s nostrils are located above its eyes. This playful Pokémon loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Wailmer can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this Pokémon can elevate the height of its bounces."
+      },
+      {
+        "game": "sun",
+        "desc": "It loves to startle people. It fills itself up with seawater and plays by bouncing around like a ball."
+      },
+      {
+        "game": "moon",
+        "desc": "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It swims along with its mouth open and swallows down seawater along with its food. It sprays excess water out of its nostrils."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Due to their memories of when they once lived on land, pods of them will, very rarely, wash up on shore."
+      },
+      {
+        "game": "sword",
+        "desc": "It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day."
+      },
+      {
+        "game": "shield",
+        "desc": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nostrils."
+      }
+    ]
+  }
+}

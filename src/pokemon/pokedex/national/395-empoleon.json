@@ -1,0 +1,112 @@
+{
+  "_id": 395,
+  "key": "empoleon",
+  "name": {
+    "english": "Empoleon",
+    "spanish": "Empoleon",
+    "italian": "Empoleon",
+    "japanese": "エンペルト",
+    "chinese": "帝王拿波",
+    "korean": "",
+    "german": "Impoleon",
+    "french": "Pingoléon"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 163
+  },
+  "type": {
+    "one": "Water",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 84,
+    "atk": 86,
+    "def": 88,
+    "spatk": 111,
+    "spdef": 101,
+    "spd": 60,
+    "total": 530
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "84.5 kg (186.3 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 130,
+  "generation": 4,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Emperor Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 239,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "emperor": "ruler; a species of penguin",
+    "Napoleon": "French naval leader"
+  },
+  "pokedexEntries": {
+    "Empoleon": [
+      {
+        "game": "diamond",
+        "desc": "The three horns that extend from its beak attest to its power. The leader has the biggest horns."
+      },
+      {
+        "game": "pearl",
+        "desc": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice."
+      },
+      {
+        "game": "platinum",
+        "desc": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It avoids unnecessary disputes, but it will decimate anything that threatens its pride."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The three horns that extend from its beak attest to its power. The leader has the biggest horns."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "The three horns that extend from its beak attest to its power. The leader has the biggest horns."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades."
+      }
+    ]
+  }
+}

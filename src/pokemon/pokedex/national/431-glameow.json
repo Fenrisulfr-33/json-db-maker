@@ -1,0 +1,114 @@
+{
+  "_id": 431,
+  "key": "glameow",
+  "name": {
+    "english": "Glameow",
+    "spanish": "Glameow",
+    "italian": "Glameow",
+    "japanese": "ニャルマー",
+    "chinese": "魅力喵",
+    "korean": "",
+    "german": "Charmian",
+    "french": "Chaglam"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 152
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Limber",
+      "id": 7
+    },
+    "two": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Keen Eye",
+      "id": 51
+    }
+  },
+  "baseStats": {
+    "hp": 49,
+    "atk": 55,
+    "def": 42,
+    "spatk": 42,
+    "spdef": 37,
+    "spd": 85,
+    "total": 310
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "3.9 kg (8.6 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 148,
+  "generation": 4,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Catty Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "glamour": "expensive good looks",
+    "meow": "the sound a cat makes"
+  },
+  "pokedexEntries": {
+    "Glameow": [
+      {
+        "game": "diamond",
+        "desc": "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some."
+      },
+      {
+        "game": "pearl",
+        "desc": "With its sharp glare, it puts foes in a mild hypnotic state. It is a very fickle Pokémon."
+      },
+      {
+        "game": "platinum",
+        "desc": "It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "When it’s happy, GLAMEOW demonstrates beautiful movements of its tail, like a dancing ribbon."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When it’s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "With its sharp glare, it puts foes in a mild hypnotic state. It is a very fickle Pokémon."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Bewitches humans with its helical tail and piercing gaze. Its hidden claws are quite sharp as well, making this Pokémon an exceedingly tricky opponent if antagonized."
+      }
+    ]
+  }
+}

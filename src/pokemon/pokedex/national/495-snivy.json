@@ -1,0 +1,89 @@
+{
+  "_id": 495,
+  "key": "snivy",
+  "name": {
+    "english": "Snivy",
+    "spanish": "Snivy",
+    "italian": "Snivy",
+    "japanese": "ツタージャ",
+    "chinese": "藤藤蛇",
+    "korean": "",
+    "german": "Serpifeu",
+    "french": "Vipélierre"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Contrary",
+      "id": 126
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 45,
+    "def": 55,
+    "spatk": 45,
+    "spdef": 55,
+    "spd": 63,
+    "total": 308
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "8.1 kg (17.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 169,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Grass"
+  ],
+  "species": "Grass Snake Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "snake": "a species of reptile",
+    "ivy": "a type of plant"
+  },
+  "pokedexEntries": {
+    "Snivy": [
+      {
+        "game": "black",
+        "desc": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter."
+      },
+      {
+        "game": "white",
+        "desc": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop."
+      }
+    ]
+  }
+}

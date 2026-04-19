@@ -1,0 +1,111 @@
+{
+  "_id": 472,
+  "key": "gliscor",
+  "name": {
+    "english": "Gliscor",
+    "spanish": "Gliscor",
+    "italian": "Gliscor",
+    "japanese": "グライオン",
+    "chinese": "天蝎王",
+    "korean": "",
+    "german": "Skorgro",
+    "french": "Scorvol"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 186
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hyper Cutter",
+      "id": 52
+    },
+    "two": {
+      "name": "Sand Veil",
+      "id": 8
+    },
+    "hidden": {
+      "name": "Poison Heal",
+      "id": 90
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 95,
+    "def": 125,
+    "spatk": 45,
+    "spdef": 75,
+    "spd": 95,
+    "total": 510
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "42.5 kg (93.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 167,
+  "generation": 4,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Fang Scorpion Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 179,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "glide": "to float with wings",
+    "scorpion": "creature with pincers and a stinger in its tail"
+  },
+  "pokedexEntries": {
+    "Gliscor": [
+      {
+        "game": "diamond-pearl",
+        "desc": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!"
+      },
+      {
+        "game": "platinum",
+        "desc": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest."
+      },
+      {
+        "game": "black-white",
+        "desc": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!"
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It observes prey while hanging inverted from branches. When the chance presents itself, Gliscor swoops!"
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood."
+      }
+    ]
+  }
+}

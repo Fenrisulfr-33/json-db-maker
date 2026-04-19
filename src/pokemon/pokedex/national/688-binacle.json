@@ -1,0 +1,91 @@
+{
+  "_id": 688,
+  "key": "binacle",
+  "name": {
+    "english": "Binacle",
+    "spanish": "Binacle",
+    "italian": "Binacle",
+    "japanese": "カメテテ",
+    "chinese": "龟脚脚",
+    "korean": "",
+    "german": "Bithora",
+    "french": "Opermine"
+  },
+  "pokedexNumber": {
+    "sword-shield": 234
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Tough Claws",
+      "id": 181
+    },
+    "two": {
+      "name": "Sniper",
+      "id": 97
+    },
+    "hidden": {
+      "name": "Pickpocket",
+      "id": 124
+    }
+  },
+  "baseStats": {
+    "hp": 42,
+    "atk": 52,
+    "def": 67,
+    "spatk": 39,
+    "spdef": 56,
+    "spd": 50,
+    "total": 306
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "31.0 kg (68.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 239,
+  "generation": 6,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Water 3"
+  ],
+  "species": "Two-Handed Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bi-": "prefix meaning ‘two’",
+    "barnacle": "marine crustacean, typically attached to ship bottoms"
+  },
+  "pokedexEntries": {
+    "Binacle": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Two Binacle live together on one rock. When they fight, one of them will move to a different rock."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline."
+      },
+      {
+        "game": "sword",
+        "desc": "After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide."
+      },
+      {
+        "game": "shield",
+        "desc": "If the two don’t work well together, both their offense and defense fall apart. Without good teamwork, they won’t survive."
+      }
+    ]
+  }
+}

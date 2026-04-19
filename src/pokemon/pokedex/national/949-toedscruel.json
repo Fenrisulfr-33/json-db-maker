@@ -1,0 +1,69 @@
+{
+  "_id": 949,
+  "key": "toedscruel",
+  "name": {
+    "english": "Toedscruel"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 245
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Mycelium Might",
+      "id": 298
+    },
+    "hidden": {
+      "name": "Mycelium Might",
+      "id": 298
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 65,
+    "spatk": 80,
+    "spdef": 120,
+    "spd": 100,
+    "total": 515
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "58.0 kg (127.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Woodear Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "toe": "appendage on the foot",
+    "cruel": "mean",
+    "toadstool": "a type of mushroom"
+  },
+  "pokedexEntries": {
+    "Toedscruel": [
+      {
+        "game": "scarlet",
+        "desc": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach."
+      },
+      {
+        "game": "violet",
+        "desc": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
+      }
+    ]
+  }
+}

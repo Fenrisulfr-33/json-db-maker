@@ -1,0 +1,105 @@
+{
+  "_id": 557,
+  "key": "dwebble",
+  "name": {
+    "english": "Dwebble",
+    "spanish": "Dwebble",
+    "italian": "Dwebble",
+    "japanese": "イシズマイ",
+    "chinese": "石居蟹",
+    "korean": "",
+    "german": "Lithomith",
+    "french": "Crabicoque"
+  },
+  "pokedexNumber": {
+    "sword-shield": 86,
+    "isle-of-armor": 122
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "two": {
+      "name": "Shell Armor",
+      "id": 75
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 85,
+    "spatk": 35,
+    "spdef": 35,
+    "spd": 55,
+    "total": 325
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "14.5 kg (32.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 192,
+  "generation": 5,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug",
+    "Mineral"
+  ],
+  "species": "Rock Inn Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 65,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dwell": "live, reside",
+    "pebble": "small stone"
+  },
+  "pokedexEntries": {
+    "Dwebble": [
+      {
+        "game": "black",
+        "desc": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth."
+      },
+      {
+        "game": "white",
+        "desc": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
+      },
+      {
+        "game": "sword",
+        "desc": "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly."
+      },
+      {
+        "game": "shield",
+        "desc": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon."
+      }
+    ]
+  }
+}

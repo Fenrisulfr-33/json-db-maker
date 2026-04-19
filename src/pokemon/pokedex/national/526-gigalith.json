@@ -1,0 +1,119 @@
+{
+  "_id": 526,
+  "key": "gigalith",
+  "name": {
+    "english": "Gigalith",
+    "spanish": "Gigalith",
+    "italian": "Gigalith",
+    "japanese": "ギガイアス",
+    "chinese": "庞岩怪",
+    "korean": "",
+    "german": "Brockoloss",
+    "french": "Gigalithe"
+  },
+  "pokedexNumber": {
+    "sword-shield": 170,
+    "isle-of-armor": 156
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "two": {
+      "name": "Sand Stream",
+      "id": 45
+    },
+    "hidden": {
+      "name": "Sand Force",
+      "id": 159
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 135,
+    "def": 130,
+    "spatk": 60,
+    "spdef": 80,
+    "spd": 25,
+    "total": 515
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "260.0 kg (573.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 181,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Compressed Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 232,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "giga-": "huge, giant",
+    "-lith": "suffix referring to rock"
+  },
+  "pokedexEntries": {
+    "Gigalith": [
+      {
+        "game": "black",
+        "desc": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain."
+      },
+      {
+        "game": "white",
+        "desc": "The solar energy absorbed by its body’s orange crystals is magnified internally and fired from its mouth."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The solar rays it absorbs are processed in its energy core and fired as a ball of light."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The solar rays it absorbs are processed in its energy core and fired as a ball of light."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain."
+      },
+      {
+        "game": "sun",
+        "desc": "The blasts of energy it makes from sunbeams have terrifying power. However, it’s not able to fire its blasts at night or on rainy days."
+      },
+      {
+        "game": "moon",
+        "desc": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When it fires off energy with all its might, the power creates countless fissures on its body."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It absorbs rays of sunlight and shoots out energy. It’s usually lurking deep beneath the surface."
+      },
+      {
+        "game": "sword",
+        "desc": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah."
+      },
+      {
+        "game": "shield",
+        "desc": "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_id": 829,
+  "key": "gossifleur",
+  "name": {
+    "english": "Gossifleur",
+    "spanish": "Gossifleur",
+    "italian": "Gossifleur",
+    "japanese": "ヒメンカ",
+    "chinese": "幼棉棉",
+    "korean": "",
+    "german": "Cottini",
+    "french": "Tournicoton"
+  },
+  "pokedexNumber": {
+    "sword-shield": 126,
+    "crown-tundra": 166
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cotton Down",
+      "id": 238
+    },
+    "two": {
+      "name": "Regenerator",
+      "id": 144
+    },
+    "hidden": {
+      "name": "Effect Spore",
+      "id": 27
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 60,
+    "spatk": 40,
+    "spdef": 60,
+    "spd": 10,
+    "total": 250
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "2.2 kg (4.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 281,
+  "generation": 8,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Flowering Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gossypium": "Latin name for the cotton plant",
+    "fleur": "French for ‘flower’"
+  },
+  "pokedexEntries": {
+    "Gossifleur": [
+      {
+        "game": "sword",
+        "desc": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly."
+      },
+      {
+        "game": "shield",
+        "desc": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon."
+      }
+    ]
+  }
+}

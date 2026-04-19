@@ -1,0 +1,87 @@
+{
+  "_id": 604,
+  "key": "eelektross",
+  "name": {
+    "english": "Eelektross",
+    "spanish": "Eelektross",
+    "italian": "Eelektross",
+    "japanese": "シビルドン",
+    "chinese": "麻麻鳗鱼王",
+    "korean": "",
+    "german": "Zapplarang",
+    "french": "Ohmassacre"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 343
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 115,
+    "def": 80,
+    "spatk": 105,
+    "spdef": 80,
+    "spd": 50,
+    "total": 515
+  },
+  "info": {
+    "height": "2.1 m (6′11″)",
+    "weight": "80.5 kg (177.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 211,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "EleFish Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 232,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "eel": "snake-like marine creature",
+    "electric": "of or relating to electricity",
+    "gross": "great, large"
+  },
+  "pokedexEntries": {
+    "Eelektross": [
+      {
+        "game": "black",
+        "desc": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean."
+      },
+      {
+        "game": "white",
+        "desc": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean."
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "_id": 607,
+  "key": "litwick",
+  "name": {
+    "english": "Litwick",
+    "spanish": "Litwick",
+    "italian": "Litwick",
+    "japanese": "ヒトモシ",
+    "chinese": "烛光灵",
+    "korean": "",
+    "german": "Lichtel",
+    "french": "Funécire"
+  },
+  "pokedexNumber": {
+    "sword-shield": 287,
+    "crown-tundra": 48
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "two": {
+      "name": "Flame Body",
+      "id": 49
+    },
+    "hidden": {
+      "name": "Infiltrator",
+      "id": 151
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 30,
+    "def": 55,
+    "spatk": 65,
+    "spdef": 55,
+    "spd": 20,
+    "total": 275
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.1 kg (6.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 213,
+  "generation": 5,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Candle Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 55,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "lit": "on fire or producing light",
+    "wick": "candle ‘fuel’"
+  },
+  "pokedexEntries": {
+    "Litwick": [
+      {
+        "game": "black",
+        "desc": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns."
+      },
+      {
+        "game": "white",
+        "desc": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns."
+      },
+      {
+        "game": "sword",
+        "desc": "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world."
+      },
+      {
+        "game": "shield",
+        "desc": "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns."
+      }
+    ]
+  }
+}

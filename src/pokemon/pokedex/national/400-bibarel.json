@@ -1,0 +1,116 @@
+{
+  "_id": 400,
+  "key": "bibarel",
+  "name": {
+    "english": "Bibarel",
+    "spanish": "Bibarel",
+    "italian": "Bibarel",
+    "japanese": "ビーダル",
+    "chinese": "大尾狸",
+    "korean": "",
+    "german": "Bidifas",
+    "french": "Castorno"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 11
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Simple",
+      "id": 86
+    },
+    "two": {
+      "name": "Unaware",
+      "id": 109
+    },
+    "hidden": {
+      "name": "Moody",
+      "id": 141
+    }
+  },
+  "baseStats": {
+    "hp": 79,
+    "atk": 85,
+    "def": 60,
+    "spatk": 55,
+    "spdef": 60,
+    "spd": 71,
+    "total": 410
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "31.5 kg (69.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 132,
+  "generation": 4,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Beaver Pokémon",
+  "catchRate": 127,
+  "baseFriendship": 50,
+  "baseExp": 144,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "biber": "German for ‘beaver’, a rodent",
+    "barrel": "wooden container often holding water or liquid"
+  },
+  "pokedexEntries": {
+    "Bibarel": [
+      {
+        "game": "diamond",
+        "desc": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker."
+      },
+      {
+        "game": "pearl",
+        "desc": "While its movements out of water are sluggish, it can swim as fast as any FEEBAS."
+      },
+      {
+        "game": "platinum",
+        "desc": "A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "While its movements out of water are sluggish, it can swim as fast as any Feebas."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in."
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "_id": 247,
+  "key": "pupitar",
+  "name": {
+    "english": "Pupitar",
+    "spanish": "Pupitar",
+    "italian": "Pupitar",
+    "japanese": "サナギラス",
+    "chinese": "沙基拉斯",
+    "korean": "",
+    "german": "Pupitar",
+    "french": "Ymphect"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 317,
+    "sword-shield": 384,
+    "crown-tundra": 140,
+    "crystal": 250,
+    "gold-silver": 250
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 84,
+    "def": 70,
+    "spatk": 65,
+    "spdef": 70,
+    "spd": 51,
+    "total": 410
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "152.0 kg (335.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 85,
+  "generation": 2,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Monster"
+  ],
+  "species": "Hard Shell Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 144,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "pupae": "immobile cocoon stage of an insect",
+    "tar": "from Latin ‘tardus’ meaning slow"
+  },
+  "pokedexEntries": {
+    "Pupitar": [
+      {
+        "game": "gold",
+        "desc": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain."
+      },
+      {
+        "game": "silver",
+        "desc": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power."
+      },
+      {
+        "game": "crystal",
+        "desc": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain."
+      },
+      {
+        "game": "emerald",
+        "desc": "A PUPITAR creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power."
+      },
+      {
+        "game": "black-white",
+        "desc": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This pupa flies around wildly by venting with great force the gas pressurized inside its body."
+      },
+      {
+        "game": "x",
+        "desc": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket."
+      },
+      {
+        "game": "y",
+        "desc": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This troublesome Pokémon can’t wait to evolve, so it relieves its stress by wildly propelling itself around using compressed gas."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within."
+      },
+      {
+        "game": "sword",
+        "desc": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power."
+      },
+      {
+        "game": "shield",
+        "desc": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket."
+      }
+    ]
+  }
+}

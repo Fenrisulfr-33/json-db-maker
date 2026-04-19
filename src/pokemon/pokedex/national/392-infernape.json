@@ -1,0 +1,114 @@
+{
+  "_id": 392,
+  "key": "infernape",
+  "name": {
+    "english": "Infernape",
+    "spanish": "Infernape",
+    "italian": "Infernape",
+    "japanese": "ゴウカザル",
+    "chinese": "烈焰猴",
+    "korean": "",
+    "german": "Panferno",
+    "french": "Simiabraz"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 63
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 104,
+    "def": 71,
+    "spatk": 104,
+    "spdef": 71,
+    "spd": 108,
+    "total": 534
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "55.0 kg (121.3 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 129,
+  "generation": 4,
+  "evs": {
+    "atk": 1,
+    "spatk": 1,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "species": "Flame Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 240,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "inferno": "a raging fire",
+    "ape": "a species of primate"
+  },
+  "pokedexEntries": {
+    "Infernape": [
+      {
+        "game": "diamond",
+        "desc": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness."
+      },
+      {
+        "game": "platinum",
+        "desc": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "A tall, hardy Pokémon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in dance—truly a sight to behold."
+      }
+    ]
+  }
+}

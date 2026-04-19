@@ -1,0 +1,79 @@
+{
+  "_id": 799,
+  "key": "guzzlord",
+  "name": {
+    "english": "Guzzlord",
+    "spanish": "Guzzlord",
+    "italian": "Guzzlord",
+    "japanese": "アクジキング",
+    "chinese": "恶食大王",
+    "korean": "",
+    "german": "Schlingking",
+    "french": "Engloutyran"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Dark",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beast Boost",
+      "id": 224
+    }
+  },
+  "baseStats": {
+    "hp": 223,
+    "atk": 101,
+    "def": 53,
+    "spatk": 97,
+    "spdef": 53,
+    "spd": 43,
+    "total": 570
+  },
+  "info": {
+    "height": "5.5 m (18′01″)",
+    "weight": "888.0 kg (1957.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {},
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Junkivore Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "guzzle": "eat, devour",
+    "lord": "master, royalty"
+  },
+  "pokedexEntries": {
+    "Guzzlord": [
+      {
+        "game": "sun",
+        "desc": "It has gobbled mountains and swallowed whole buildings, according to reports. It’s one of the Ultra Beasts."
+      },
+      {
+        "game": "moon",
+        "desc": "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something."
+      }
+    ]
+  }
+}

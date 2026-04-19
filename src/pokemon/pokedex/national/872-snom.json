@@ -1,0 +1,81 @@
+{
+  "_id": 872,
+  "key": "snom",
+  "name": {
+    "english": "Snom",
+    "spanish": "Snom",
+    "italian": "Snom",
+    "japanese": "ユキハミ",
+    "chinese": "雪吞虫",
+    "korean": "",
+    "german": "Snomnom",
+    "french": "Frissonille"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 350,
+    "sword-shield": 349,
+    "crown-tundra": 1
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shield Dust",
+      "id": 19
+    },
+    "hidden": {
+      "name": "Ice Scales",
+      "id": 246
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 25,
+    "def": 35,
+    "spatk": 45,
+    "spdef": 30,
+    "spd": 20,
+    "total": 185
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.8 kg (8.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 299,
+  "generation": 8,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Worm Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 37,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "snow": "frozen precipitation",
+    "moth": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Snom": [
+      {
+        "game": "sword",
+        "desc": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps."
+      },
+      {
+        "game": "shield",
+        "desc": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow."
+      }
+    ]
+  }
+}

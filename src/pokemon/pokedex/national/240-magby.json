@@ -1,0 +1,169 @@
+{
+  "_id": 240,
+  "key": "magby",
+  "name": {
+    "english": "Magby",
+    "spanish": "Magby",
+    "italian": "Magby",
+    "japanese": "ブビィ",
+    "chinese": "鸭嘴宝宝",
+    "korean": "",
+    "german": "Magby",
+    "french": "Magby"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 174,
+    "crown-tundra": 18,
+    "crystal": 152,
+    "gold-silver": 152
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flame Body",
+      "id": 49
+    },
+    "hidden": {
+      "name": "Vital Spirit",
+      "id": 72
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 75,
+    "def": 37,
+    "spatk": 70,
+    "spdef": 55,
+    "spd": 83,
+    "total": 365
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "21.4 kg (47.2 lbs)"
+  },
+  "gender": {
+    "male": "75%",
+    "female": "25%",
+    "genderless": false
+  },
+  "evolution": 83,
+  "generation": 2,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Live Coal Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 73,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "magma": "the melted rock in a volcano",
+    "baby": "newborn child"
+  },
+  "pokedexEntries": {
+    "Magby": [
+      {
+        "game": "gold",
+        "desc": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils."
+      },
+      {
+        "game": "silver",
+        "desc": "It is found in volcanic craters. Its body temp. is over 1100 degrees, so don’t underestimate it."
+      },
+      {
+        "game": "crystal",
+        "desc": "It naturally spits an 1100-degree flame. It is said when many appear, it heralds a volcanic eruption."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "MAGBY’s state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It is found in volcanic craters. Its body heat exceeds 1,100 degrees Fahrenheit, so don’t underestimate it."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils."
+      },
+      {
+        "game": "emerald",
+        "desc": "If a MAGBY is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "Its body temperature is around 1,100 degrees F. It is healthy if it is breathing yellow flames."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Each and every time it inhales and exhales, hot embers dribble from its mouth and nostrils."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It is found in volcanic craters. Its body temperature is over 1,100 degrees Fahrenheit, so don’t underestimate it."
+      },
+      {
+        "game": "black-white",
+        "desc": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It’s small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes."
+      },
+      {
+        "game": "x",
+        "desc": "It’s small, but its body temperature is over 1,100 degrees Fahrenheit. Embers escape its mouth and nose when it breathes."
+      },
+      {
+        "game": "y",
+        "desc": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees Fahrenheit."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Magby’s state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames."
+      },
+      {
+        "game": "sun",
+        "desc": "Many of these Pokémon can be seen in areas with volcanic activity. Feeding can get them so excited, they exhale flames of 1,100 degrees F."
+      },
+      {
+        "game": "moon",
+        "desc": "A famous potter lives with a Magby. Apparently its soft flames produce fine works."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When flames drip from its nose, that means it has a cold. Have it lie down for a nice rest in some magma."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its body temperature is always around 1,100 degrees Fahrenheit. If Magby falls into a small- enough pond, the whole thing will dry up."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon is still small and timid. Whenever Magby gets excited or surprised, flames leak from its mouth and its nose."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon makes its home near volcanoes. At the end of the day, Magby soaks in magma, resting and recovering from the day’s fatigue."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its body temperature is around 1,100 degrees Fahrenheit. It is healthy if it is exhaling yellow flames."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint."
+      }
+    ]
+  }
+}

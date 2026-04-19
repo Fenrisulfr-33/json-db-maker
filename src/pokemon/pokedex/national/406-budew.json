@@ -1,0 +1,128 @@
+{
+  "_id": 406,
+  "key": "budew",
+  "name": {
+    "english": "Budew",
+    "spanish": "Budew",
+    "italian": "Budew",
+    "japanese": "スボミー",
+    "chinese": "含羞苞",
+    "korean": "",
+    "german": "Knospi",
+    "french": "Rozbouton"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 89,
+    "sword-shield": 59
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Natural Cure",
+      "id": 30
+    },
+    "two": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "hidden": {
+      "name": "Leaf Guard",
+      "id": 102
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 30,
+    "def": 35,
+    "spatk": 50,
+    "spdef": 70,
+    "spd": 55,
+    "total": 280
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "1.2 kg (2.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 135,
+  "generation": 4,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Bud Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 56,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bud": "closed flower",
+    "dew": "moisture often found on grass or plants"
+  },
+  "pokedexEntries": {
+    "Budew": [
+      {
+        "game": "diamond",
+        "desc": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen."
+      },
+      {
+        "game": "pearl",
+        "desc": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses."
+      },
+      {
+        "game": "platinum",
+        "desc": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools."
+      },
+      {
+        "game": "black-white",
+        "desc": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Sensitive to changing temperatures, the bud blooms when it’s warm, releasing toxic pollen."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When it feels the sun’s warm touch, it opens its bud to release pollen. It lives alongside clear pools."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen."
+      },
+      {
+        "game": "sword",
+        "desc": "The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison’s toxicity is increased."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It lives alongside clear ponds. It scatters pollen that induces harsh sneezing and runny noses."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "When the sun’s light strengthens, the bud atop this Pokémon’s head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun."
+      }
+    ]
+  }
+}

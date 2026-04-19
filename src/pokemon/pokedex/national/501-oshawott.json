@@ -1,0 +1,99 @@
+{
+  "_id": 501,
+  "key": "oshawott",
+  "name": {
+    "english": "Oshawott",
+    "spanish": "Oshawott",
+    "italian": "Oshawott",
+    "japanese": "ミジュマル",
+    "chinese": "水水獭",
+    "korean": "",
+    "german": "Ottaro",
+    "french": "Moustillon"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 7
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Shell Armor",
+      "id": 75
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 45,
+    "spatk": 63,
+    "spdef": 45,
+    "spd": 45,
+    "total": 308
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "5.9 kg (13.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 171,
+  "generation": 5,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Sea Otter Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ocean": "huge body of water",
+    "water": "compound needed for life",
+    "otter": "aquatic weasel-like mammal"
+  },
+  "pokedexEntries": {
+    "Oshawott": [
+      {
+        "game": "black",
+        "desc": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
+      },
+      {
+        "game": "white",
+        "desc": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The scalchop on its stomach isn’t just used for battle--it can be used to break open hard berries as well."
+      },
+      {
+        "game": "x",
+        "desc": "The scalchop on its stomach isn’t just used for battle--it can be used to break open hard berries as well."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "The scalchop on its stomach isn’t just used for battle—it can be used to break open hard berries as well."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I’ve conferred upon this shell the name “scalchop.”"
+      }
+    ]
+  }
+}

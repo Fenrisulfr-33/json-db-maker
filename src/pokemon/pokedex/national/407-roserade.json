@@ -1,0 +1,129 @@
+{
+  "_id": 407,
+  "key": "roserade",
+  "name": {
+    "english": "Roserade",
+    "spanish": "Roserade",
+    "italian": "Roserade",
+    "japanese": "ロズレイド",
+    "chinese": "罗丝雷朵",
+    "korean": "",
+    "german": "Roserade",
+    "french": "Roserade"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 91,
+    "sword-shield": 61
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Natural Cure",
+      "id": 30
+    },
+    "two": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "hidden": {
+      "name": "Technician",
+      "id": 101
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 70,
+    "def": 65,
+    "spatk": 125,
+    "spdef": 105,
+    "spd": 90,
+    "total": 515
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "14.5 kg (32.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 135,
+  "generation": 4,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "species": "Bouquet Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 232,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "rose": "a type of flower",
+    "masquerade": "costume/disguise or a facade"
+  },
+  "pokedexEntries": {
+    "Roserade": [
+      {
+        "game": "diamond",
+        "desc": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms."
+      },
+      {
+        "game": "pearl",
+        "desc": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns."
+      },
+      {
+        "game": "platinum",
+        "desc": "Each of its hands contains different toxins, but both hands can jab with near-fatal power."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma."
+      },
+      {
+        "game": "black-white",
+        "desc": "Each of its hands contains different toxins, but both hands can jab with near-fatal power."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns."
+      },
+      {
+        "game": "sword",
+        "desc": "After captivating opponents with its sweet scent, it lashes them with its thorny whips."
+      },
+      {
+        "game": "shield",
+        "desc": "The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Hidden within the bouquet on each hand are thorned whips loaded with virulent poison. Roserade moves gracefully as it corners its prey and mercilessly lashes them with its whips."
+      }
+    ]
+  }
+}

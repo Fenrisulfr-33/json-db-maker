@@ -1,0 +1,111 @@
+{
+  "_id": 401,
+  "key": "kricketot",
+  "name": {
+    "english": "Kricketot",
+    "spanish": "Kricketot",
+    "italian": "Kricketot",
+    "japanese": "コロボーシ",
+    "chinese": "圆法师",
+    "korean": "",
+    "german": "Zirpurze",
+    "french": "Crikzik"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 33,
+    "legends-arceus": 39
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Run Away",
+      "id": 50
+    }
+  },
+  "baseStats": {
+    "hp": 37,
+    "atk": 25,
+    "def": 41,
+    "spatk": 25,
+    "spdef": 41,
+    "spd": 25,
+    "total": 194
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.2 kg (4.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 133,
+  "generation": 4,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Cricket Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 39,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "cricket": "a species of insect",
+    "tot": "a small child"
+  },
+  "pokedexEntries": {
+    "Kricketot": [
+      {
+        "game": "diamond",
+        "desc": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone."
+      },
+      {
+        "game": "pearl",
+        "desc": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "When its antennae hit each other, it sounds like the music of a xylophone."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When its antennae hit each other, it sounds like the music of a xylophone."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It chats with others using the sounds of its colliding antennae. These sounds are the hallmarks of fall evenings."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "When the trees take on new hues, more of these Pokémon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands."
+      }
+    ]
+  }
+}

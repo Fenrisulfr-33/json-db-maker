@@ -1,0 +1,68 @@
+{
+  "_id": 972,
+  "key": "houndstone",
+  "name": {
+    "english": "Houndstone"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 312
+  },
+  "type": {
+    "one": "Ghost",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Rush",
+      "id": 146
+    },
+    "hidden": {
+      "name": "Fluffy",
+      "id": 218
+    }
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 101,
+    "def": 100,
+    "spatk": 50,
+    "spdef": 97,
+    "spd": 68,
+    "total": 488
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "15.0 kg (33.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ghost Dog Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "hound": "type of dog",
+    "gravestone": "rock with inscription in a graveyard"
+  },
+  "pokedexEntries": {
+    "Houndstone": [
+      {
+        "game": "scarlet",
+        "desc": "Houndstone spends most of its time sleeping in graveyards. Among all the dog Pokémon, this one is most loyal to its master."
+      },
+      {
+        "game": "violet",
+        "desc": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
+      }
+    ]
+  }
+}

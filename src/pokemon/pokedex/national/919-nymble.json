@@ -1,0 +1,68 @@
+{
+  "_id": 919,
+  "key": "nymble",
+  "name": {
+    "english": "Nymble"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 14
+  },
+  "type": {
+    "one": "Bug",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "hidden": {
+      "name": "Tinted Lens",
+      "id": 110
+    }
+  },
+  "baseStats": {
+    "hp": 33,
+    "atk": 46,
+    "def": 40,
+    "spatk": 21,
+    "spdef": 25,
+    "spd": 45,
+    "total": 210
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Grasshopper Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 20,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "nymph": "an immature form of an insect",
+    "nimble": "agile, quick in movement"
+  },
+  "pokedexEntries": {
+    "Nymble": [
+      {
+        "game": "scarlet",
+        "desc": "It has its third set of legs folded up. When it’s in a tough spot, this Pokémon jumps over 30 feet using the strength of its legs."
+      },
+      {
+        "game": "violet",
+        "desc": "It’s highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "_id": 571,
+  "key": "zoroark",
+  "name": {
+    "english": "Zoroark",
+    "spanish": "Zoroark",
+    "italian": "Zoroark",
+    "japanese": "ゾロアーク",
+    "chinese": "索罗亚克",
+    "korean": "",
+    "german": "Zoroark",
+    "french": "Zoroark"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 229,
+    "legends-arceus": 220,
+    "isle-of-armor": 88
+  },
+  "type": {
+    "one": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Illusion",
+      "id": 149
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 105,
+    "def": 60,
+    "spatk": 120,
+    "spdef": 60,
+    "spd": 105,
+    "total": 510
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "73.0 kg (160.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 198,
+  "generation": 5,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Illusion Fox Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 179,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "zorro": "Spanish for ‘fox’",
+    "dark": "absence of light"
+  },
+  "pokedexEntries": {
+    "Zoroark": [
+      {
+        "game": "black",
+        "desc": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents."
+      },
+      {
+        "game": "white",
+        "desc": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Stories say those who tried to catch Zoroark were trapped in an illusion and punished."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It doesn’t just transform itself—it also has the power to make hundreds of people see its illusions."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe."
+      },
+      {
+        "game": "shield",
+        "desc": "Seeking to ease the burden of their solitude, lonely Trainers tell Zoroark to show illusions to them."
+      }
+    ],
+    "Hisuian Zoroark": [
+      {
+        "game": "legends-arceus",
+        "desc": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark’s own body."
+      }
+    ]
+  }
+}

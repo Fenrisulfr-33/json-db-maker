@@ -1,0 +1,88 @@
+{
+  "_id": 515,
+  "key": "panpour",
+  "name": {
+    "english": "Panpour",
+    "spanish": "Panpour",
+    "italian": "Panpour",
+    "japanese": "ヒヤップ",
+    "chinese": "冷水猴",
+    "korean": "",
+    "german": "Sodamak",
+    "french": "Flotajou"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Torrent",
+      "id": 67
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 53,
+    "def": 48,
+    "spatk": 53,
+    "spdef": 48,
+    "spd": 64,
+    "total": 316
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "13.5 kg (29.8 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 177,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Spray Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 63,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "chimpanzee": "a species of primate",
+    "pour": "to drop or flow liquid (referring to cooking and its Water type)"
+  },
+  "pokedexEntries": {
+    "Panpour": [
+      {
+        "game": "black",
+        "desc": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+      },
+      {
+        "game": "white",
+        "desc": "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "_id": 377,
+  "key": "regirock",
+  "name": {
+    "english": "Regirock",
+    "spanish": "Regirock",
+    "italian": "Regirock",
+    "japanese": "レジロック",
+    "chinese": "雷吉洛克",
+    "korean": "",
+    "german": "Regirock",
+    "french": "Regirock"
+  },
+  "pokedexNumber": {
+    "sword-shield": 137,
+    "crown-tundra": 197
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Clear Body",
+      "id": 29
+    },
+    "hidden": {
+      "name": "Sturdy",
+      "id": 5
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 200,
+    "spatk": 50,
+    "spdef": 100,
+    "spd": 50,
+    "total": 580
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "230.0 kg (507.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Rock Peak Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "regi": "(Latin) of or relating to royalty",
+    "rock": "stone, boulder"
+  },
+  "pokedexEntries": {
+    "Regirock": [
+      {
+        "game": "ruby",
+        "desc": "REGIROCK was sealed away by people long ago. If this POKéMON’s body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself."
+      },
+      {
+        "game": "sapphire",
+        "desc": "REGIROCK’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It is entirely composed of rocks with no sign of a brain or heart. It is a mystery even to modern scientists."
+      },
+      {
+        "game": "emerald",
+        "desc": "A POKéMON that is made entirely of rocks and boulders. If parts of its body chip off in battle, REGIROCK repairs itself by adding new rocks."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "The same rocks that form its body have been found in ground layers around the world."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself."
+      },
+      {
+        "game": "x",
+        "desc": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself."
+      },
+      {
+        "game": "y",
+        "desc": "The same rocks that form its body have been found in ground layers around the world."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Regirock was sealed away by people long ago. If this Pokémon’s body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Regirock’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations."
+      },
+      {
+        "game": "sword",
+        "desc": "Every bit of Regirock’s body is made of stone. As parts of its body erode, this Pokémon sticks rocks to itself to repair what’s been lost."
+      },
+      {
+        "game": "shield",
+        "desc": "Cutting-edge technology was used to study the internals of this Pokémon’s rock body, but nothing was found—not even a brain or a heart."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its entire body is made of rock. If any part chips off in battle, Regirock attaches rocks to repair itself."
+      }
+    ]
+  }
+}

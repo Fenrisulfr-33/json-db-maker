@@ -1,0 +1,72 @@
+{
+  "_id": 945,
+  "key": "grafaiai",
+  "name": {
+    "english": "Grafaiai"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 203
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Unburden",
+      "id": 84
+    },
+    "two": {
+      "name": "Poison Touch",
+      "id": 143
+    },
+    "hidden": {
+      "name": "Prankster",
+      "id": 158
+    }
+  },
+  "baseStats": {
+    "hp": 63,
+    "atk": 95,
+    "def": 65,
+    "spatk": 80,
+    "spdef": 72,
+    "spd": 110,
+    "total": 485
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "27.2 kg (60.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Toxic Monkey Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "graffiti": "unauthorized art, usually spray-painted",
+    "aye-aye": "a lemur-like species of primate"
+  },
+  "pokedexEntries": {
+    "Grafaiai": [
+      {
+        "game": "scarlet",
+        "desc": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests."
+      },
+      {
+        "game": "violet",
+        "desc": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+      }
+    ]
+  }
+}

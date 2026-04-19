@@ -1,0 +1,131 @@
+{
+  "_id": 474,
+  "key": "porygon-z",
+  "name": {
+    "english": "Porygon-Z",
+    "spanish": "Porygon-Z",
+    "italian": "Porygon-Z",
+    "japanese": "ポリゴンＺ",
+    "chinese": "多边兽Ｚ",
+    "korean": "",
+    "german": "Porygon-Z",
+    "french": "Porygon-Z"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 135,
+    "isle-of-armor": 210
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Adaptability",
+      "id": 91
+    },
+    "two": {
+      "name": "Download",
+      "id": 88
+    },
+    "hidden": {
+      "name": "Analytic",
+      "id": 148
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 80,
+    "def": 70,
+    "spatk": 135,
+    "spdef": 75,
+    "spd": 90,
+    "total": 535
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "34.0 kg (75.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 79,
+  "generation": 4,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Virtual Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 241,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "polygon": "a many sided figure",
+    "z": "3rd axis in coordinates"
+  },
+  "pokedexEntries": {
+    "Porygon-z": [
+      {
+        "game": "diamond-pearl",
+        "desc": "Additional software was installed to make it a better Pokémon. It began acting oddly, however."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its programming was modified to enable work in alien dimensions. It did not work as planned."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error..."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its programming was modified to enable work in alien dimensions. It did not work as planned."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Additional software was installed to make it a better Pokémon. It began acting oddly, however."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error..."
+      },
+      {
+        "game": "sun",
+        "desc": "In order to create a more advanced Pokémon, an additional program was installed, but apparently it contained a defect that makes it move oddly."
+      },
+      {
+        "game": "moon",
+        "desc": "Its program was modified to facilitate extra-dimensional activities, but that led to noticeably strange behavior."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its behavior is noticeably unstable, which is apparently due to the incompetence of the engineer who updated its programming."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "A faulty update was added to its programming. Its behavior is noticeably strange, so the experiment may have been a failure."
+      },
+      {
+        "game": "sword",
+        "desc": "Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z’s behavior."
+      },
+      {
+        "game": "shield",
+        "desc": "Some say an additional program made this Pokémon evolve, but even academics can’t agree on whether Porygon-Z is really an evolution."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Additional software was installed to make it an even better Pokémon. It began acting oddly, however."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "A curious item induced this evolution. The Pokémon’s offensive capabilities have greatly increased, but the strangeness of its behavior has magnified in equal measure. This worries me."
+      }
+    ]
+  }
+}

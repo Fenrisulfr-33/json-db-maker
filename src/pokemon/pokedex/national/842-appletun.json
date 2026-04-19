@@ -1,0 +1,93 @@
+{
+  "_id": 842,
+  "key": "appletun",
+  "name": {
+    "english": "Appletun",
+    "spanish": "Appletun",
+    "italian": "Appletun",
+    "japanese": "タルップル",
+    "chinese": "丰蜜龙",
+    "korean": "",
+    "german": "Schlapfel",
+    "french": "Dratatin"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 110,
+    "sword-shield": 207,
+    "isle-of-armor": 21
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Ripen",
+      "id": 247
+    },
+    "two": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Thick Fat",
+      "id": 47
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 85,
+    "def": 80,
+    "spatk": 100,
+    "spdef": 80,
+    "spd": 30,
+    "total": 485
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "13.0 kg (28.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 287,
+  "generation": 8,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Apple Nectar Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Erratic",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "apple": "red/green fruit",
+    "tun": "large cask for brewing"
+  },
+  "pokedexEntries": {
+    "Appletun": [
+      {
+        "game": "sword",
+        "desc": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on."
+      },
+      {
+        "game": "shield",
+        "desc": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "It blasts its opponents with massive amounts of sweet, sticky nectar, drowning them under the deluge."
+      },
+      {
+        "game": "shield",
+        "desc": "Due to Gigantamax energy, this Pokémon’s nectar has thickened. The increased viscosity lets the nectar absorb more damage than before."
+      }
+    ]
+  }
+}

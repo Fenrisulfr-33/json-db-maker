@@ -1,0 +1,83 @@
+{
+  "_id": 824,
+  "key": "blipbug",
+  "name": {
+    "english": "Blipbug",
+    "spanish": "Blipbug",
+    "italian": "Blipbug",
+    "japanese": "サッチムシ",
+    "chinese": "索侦虫",
+    "korean": "",
+    "german": "Sensect",
+    "french": "Larvadar"
+  },
+  "pokedexNumber": {
+    "sword-shield": 10,
+    "isle-of-armor": 14
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 25,
+    "atk": 20,
+    "def": 20,
+    "spatk": 25,
+    "spdef": 45,
+    "spd": 45,
+    "total": 180
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 279,
+  "generation": 8,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Larva Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 36,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "blip": "",
+    "bug": ""
+  },
+  "pokedexEntries": {
+    "Blipbug": [
+      {
+        "game": "sword",
+        "desc": "A constant collector of information, this Pokémon is very smart. Very strong is what it isn’t."
+      },
+      {
+        "game": "shield",
+        "desc": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
+      }
+    ]
+  }
+}

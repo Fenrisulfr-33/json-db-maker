@@ -1,0 +1,72 @@
+{
+  "_id": 974,
+  "key": "cetoddle",
+  "name": {
+    "english": "Cetoddle"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 361
+  },
+  "type": {
+    "one": "Ice",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Thick Fat",
+      "id": 47
+    },
+    "two": {
+      "name": "Snow Cloak",
+      "id": 81
+    },
+    "hidden": {
+      "name": "Sheer Force",
+      "id": 125
+    }
+  },
+  "baseStats": {
+    "hp": 108,
+    "atk": 68,
+    "def": 45,
+    "spatk": 30,
+    "spdef": 40,
+    "spd": 43,
+    "total": 334
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "45.0 kg (99.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Terra Whale Pokémon",
+  "catchRate": 150,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "cetacean": "order of mammals that includes whales",
+    "toddle": "walk like a baby"
+  },
+  "pokedexEntries": {
+    "Cetoddle": [
+      {
+        "game": "scarlet",
+        "desc": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer."
+      },
+      {
+        "game": "violet",
+        "desc": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "_id": 109,
+  "key": "koffing",
+  "name": {
+    "english": "Koffing",
+    "spanish": "Koffing",
+    "italian": "Koffing",
+    "japanese": "ドガース",
+    "chinese": "瓦斯弹",
+    "korean": "",
+    "german": "Smogon",
+    "french": "Smogo"
+  },
+  "pokedexNumber": {
+    "sword-shield": 250,
+    "crystal": 115,
+    "gold-silver": 115,
+    "yellow": 109,
+    "red-blue": 109
+  },
+  "type": {
+    "one": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    },
+    "two": {
+      "name": "Neutralizing Gas",
+      "id": 256
+    },
+    "hidden": {
+      "name": "Stench",
+      "id": 1
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 95,
+    "spatk": 60,
+    "spdef": 45,
+    "spd": 35,
+    "total": 340
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 45,
+  "generation": 1,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Poison Gas Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 68,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "coughing": "expulsion of air from the lungs"
+  },
+  "pokedexEntries": {
+    "Koffing": [
+      {
+        "game": "red-blue",
+        "desc": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
+      },
+      {
+        "game": "yellow",
+        "desc": "In hot places, its internal gases could expand and explode without any warning. Be very careful!"
+      },
+      {
+        "game": "gold",
+        "desc": "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes."
+      },
+      {
+        "game": "silver",
+        "desc": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne."
+      },
+      {
+        "game": "crystal",
+        "desc": "If one gets close enough to it when it expels poisonous gas, the gas swirling inside it can be seen."
+      },
+      {
+        "game": "ruby",
+        "desc": "If KOFFING becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This POKéMON may also overinflate its round body, then explode."
+      },
+      {
+        "game": "sapphire",
+        "desc": "KOFFING embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this POKéMON."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
+      },
+      {
+        "game": "emerald",
+        "desc": "Getting up close to a KOFFING will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its thin, filmy body is filled with gases that cause constant sniffles, coughs and teary eyes."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "The poisonous gases it contains are a little bit lighter than air, keeping it slightly airborne."
+      },
+      {
+        "game": "black-white",
+        "desc": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions."
+      },
+      {
+        "game": "x",
+        "desc": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby."
+      },
+      {
+        "game": "y",
+        "desc": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pokémon."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "In hot places, its internal gases could expand and explode without any warning. Be very careful!"
+      },
+      {
+        "game": "sword",
+        "desc": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash."
+      },
+      {
+        "game": "shield",
+        "desc": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Lighter-than-air gases in its body keep it aloft. The gases not only smell; they are also explosive."
+      }
+    ]
+  }
+}

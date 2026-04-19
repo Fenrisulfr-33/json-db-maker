@@ -1,0 +1,130 @@
+{
+  "_id": 452,
+  "key": "drapion",
+  "name": {
+    "english": "Drapion",
+    "spanish": "Drapion",
+    "italian": "Drapion",
+    "japanese": "ドラピオン",
+    "chinese": "龙王蝎",
+    "korean": "",
+    "german": "Piondragi",
+    "french": "Drascore"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 149,
+    "sword-shield": 286,
+    "isle-of-armor": 51
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Battle Armor",
+      "id": 4
+    },
+    "two": {
+      "name": "Sniper",
+      "id": 97
+    },
+    "hidden": {
+      "name": "Keen Eye",
+      "id": 51
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 90,
+    "def": 110,
+    "spatk": 60,
+    "spdef": 75,
+    "spd": 95,
+    "total": 500
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "61.5 kg (135.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 158,
+  "generation": 4,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug",
+    "Water 3"
+  ],
+  "species": "Ogre Scorpion Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 175,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dragon": "mythical fire-breathing creature",
+    "scorpion": "creature with pincers and a stinger in its tail"
+  },
+  "pokedexEntries": {
+    "Drapion": [
+      {
+        "game": "diamond",
+        "desc": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison."
+      },
+      {
+        "game": "pearl",
+        "desc": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots."
+      },
+      {
+        "game": "platinum",
+        "desc": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It attacks people and Pokémon that cross the desert. This has only furthered its bad reputation."
+      },
+      {
+        "game": "black-white",
+        "desc": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison."
+      },
+      {
+        "game": "sword",
+        "desc": "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Has a brutish, ferocious temperament. With immense strength and a sturdy shell off which swords will bounce, it rampages about and wreaks havoc."
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_id": 791,
+  "key": "solgaleo",
+  "name": {
+    "english": "Solgaleo",
+    "spanish": "Solgaleo",
+    "italian": "Solgaleo",
+    "japanese": "ソルガレオ",
+    "chinese": "索尔迦雷欧",
+    "korean": "",
+    "german": "Solgaleo",
+    "french": "Solgaleo"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Psychic",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Full Metal Body",
+      "id": 230
+    }
+  },
+  "baseStats": {
+    "hp": 137,
+    "atk": 137,
+    "def": 107,
+    "spatk": 113,
+    "spdef": 89,
+    "spd": 97,
+    "total": 680
+  },
+  "info": {
+    "height": "3.4 m (11′02″)",
+    "weight": "230.0 kg (507.1 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 271,
+  "generation": 7,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Sunne Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "solar": "of or relating to the Sun",
+    "leo": "Latin for ‘lion’"
+  },
+  "pokedexEntries": {
+    "Solgaleo": [
+      {
+        "game": "sun",
+        "desc": "It is said to live in another world. The intense light it radiates from the surface of its body can make the darkest of nights light up like midday."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon is said to be a male evolution of Cosmog. At the activation of its third eye, it departs for another world."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "In writings from the distant past, it’s called by the name “the beast that devours the sun.”"
+      },
+      {
+        "game": "sword",
+        "desc": "When light radiates from its body, this Pokémon could almost appear to be the sun. It will dispel any darkness and light up the world."
+      },
+      {
+        "game": "shield",
+        "desc": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it."
+      }
+    ]
+  }
+}

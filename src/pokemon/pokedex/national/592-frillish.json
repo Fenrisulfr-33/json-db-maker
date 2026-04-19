@@ -1,0 +1,124 @@
+{
+  "_id": 592,
+  "key": "frillish",
+  "name": {
+    "english": "Frillish",
+    "spanish": "Frillish",
+    "italian": "Frillish",
+    "japanese": "プルリル",
+    "chinese": "轻飘飘",
+    "korean": "",
+    "german": "Quabbel",
+    "french": "Viskuse"
+  },
+  "pokedexNumber": {
+    "sword-shield": 305,
+    "isle-of-armor": 192
+  },
+  "type": {
+    "one": "Water",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Absorb",
+      "id": 11
+    },
+    "two": {
+      "name": "Cursed Body",
+      "id": 130
+    },
+    "hidden": {
+      "name": "Damp",
+      "id": 6
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 40,
+    "def": 50,
+    "spatk": 65,
+    "spdef": 85,
+    "spd": 40,
+    "total": 335
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "33.0 kg (72.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 207,
+  "generation": 5,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Floating Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 67,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "frill": "a trimming, e.g. lace",
+    "jellyfish": "marine creature"
+  },
+  "pokedexEntries": {
+    "Frillish": [
+      {
+        "game": "black",
+        "desc": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor."
+      },
+      {
+        "game": "white",
+        "desc": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown."
+      }
+    ],
+    "Female Frillish": [
+      {
+        "game": "sword",
+        "desc": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean’s surface."
+      },
+      {
+        "game": "shield",
+        "desc": "Its thin, veillike arms have tens of thousands of poisonous stingers. Females have slightly longer stingers."
+      }
+    ],
+    "Male Frillish": [
+      {
+        "game": "sword",
+        "desc": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean’s surface."
+      },
+      {
+        "game": "shield",
+        "desc": "Legend has it that the residents of a sunken ancient city changed into these Pokémon."
+      }
+    ]
+  }
+}

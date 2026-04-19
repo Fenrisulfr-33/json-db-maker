@@ -1,0 +1,68 @@
+{
+  "_id": 969,
+  "key": "glimmet",
+  "name": {
+    "english": "Glimmet"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 308
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Toxic Debris",
+      "id": 295
+    },
+    "hidden": {
+      "name": "Corrosion",
+      "id": 212
+    }
+  },
+  "baseStats": {
+    "hp": 48,
+    "atk": 35,
+    "def": 42,
+    "spatk": 105,
+    "spdef": 60,
+    "spd": 60,
+    "total": 350
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ore Pokémon",
+  "catchRate": 70,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "glimmer": "shine, gleam",
+    "comet": "space rock"
+  },
+  "pokedexEntries": {
+    "Glimmet": [
+      {
+        "game": "scarlet",
+        "desc": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison."
+      },
+      {
+        "game": "violet",
+        "desc": "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+      }
+    ]
+  }
+}

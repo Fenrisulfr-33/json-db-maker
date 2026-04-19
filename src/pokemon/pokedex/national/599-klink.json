@@ -1,0 +1,101 @@
+{
+  "_id": 599,
+  "key": "klink",
+  "name": {
+    "english": "Klink",
+    "spanish": "Klink",
+    "italian": "Klink",
+    "japanese": "ギアル",
+    "chinese": "齿轮儿",
+    "korean": "",
+    "german": "Klikk",
+    "french": "Tic"
+  },
+  "pokedexNumber": {
+    "sword-shield": 113
+  },
+  "type": {
+    "one": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Plus",
+      "id": 57
+    },
+    "two": {
+      "name": "Minus",
+      "id": 58
+    },
+    "hidden": {
+      "name": "Clear Body",
+      "id": 29
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 55,
+    "def": 70,
+    "spatk": 45,
+    "spdef": 60,
+    "spd": 30,
+    "total": 300
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "21.0 kg (46.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 210,
+  "generation": 5,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Gear Pokémon",
+  "catchRate": 130,
+  "baseFriendship": 50,
+  "baseExp": 60,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "clink": "sound of metal clashing"
+  },
+  "pokedexEntries": {
+    "Klink": [
+      {
+        "game": "black",
+        "desc": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing."
+      },
+      {
+        "game": "white",
+        "desc": "Interlocking two bodies and spinning around generates the energy they need to live."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Two bodies comprise a fixed pair. They spin around each other to generate energy."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Interlocking two bodies and spinning around generates the energy they need to live."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing."
+      },
+      {
+        "game": "sword",
+        "desc": "The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears."
+      }
+    ]
+  }
+}

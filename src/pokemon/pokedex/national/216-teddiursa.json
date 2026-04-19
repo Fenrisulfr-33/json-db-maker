@@ -1,0 +1,141 @@
+{
+  "_id": 216,
+  "key": "teddiursa",
+  "name": {
+    "english": "Teddiursa",
+    "spanish": "Teddiursa",
+    "italian": "Teddiursa",
+    "japanese": "ヒメグマ",
+    "chinese": "熊宝宝",
+    "korean": "",
+    "german": "Teddiursa",
+    "french": "Teddiursa"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 215,
+    "legends-arceus": 112,
+    "crystal": 198,
+    "gold-silver": 198
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "two": {
+      "name": "Quick Feet",
+      "id": 95
+    },
+    "hidden": {
+      "name": "Honey Gather",
+      "id": 118
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 80,
+    "def": 50,
+    "spatk": 50,
+    "spdef": 50,
+    "spd": 40,
+    "total": 330
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "8.8 kg (19.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 73,
+  "generation": 2,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Little Bear Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "teddy": "stuffed toy",
+    "ursa": "Latin for ‘bear’"
+  },
+  "pokedexEntries": {
+    "Teddiursa": [
+      {
+        "game": "gold",
+        "desc": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey."
+      },
+      {
+        "game": "silver",
+        "desc": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+      },
+      {
+        "game": "crystal",
+        "desc": "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey."
+      },
+      {
+        "game": "emerald",
+        "desc": "It licks its palms that are sweetened by being soaked in honey. A TEDDIURSA makes its own honey by blending fruits and pollen collected by BEEDRILL."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If it finds honey, its crescent mark glows. It always licks its paws because they’re soaked with honey."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique."
+      },
+      {
+        "game": "x",
+        "desc": "If it finds honey, its crescent mark glows. It always licks its paws because they’re soaked with honey."
+      },
+      {
+        "game": "y",
+        "desc": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed."
+      }
+    ]
+  }
+}

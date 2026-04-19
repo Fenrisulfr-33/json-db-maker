@@ -1,0 +1,97 @@
+{
+  "_id": 634,
+  "key": "zweilous",
+  "name": {
+    "english": "Zweilous",
+    "spanish": "Zweilous",
+    "italian": "Zweilous",
+    "japanese": "ジヘッド",
+    "chinese": "双首暴龙",
+    "korean": "",
+    "german": "Duodino",
+    "french": "Diamat"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 371,
+    "sword-shield": 387,
+    "crown-tundra": 137
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hustle",
+      "id": 55
+    }
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 85,
+    "def": 70,
+    "spatk": 65,
+    "spdef": 70,
+    "spd": 58,
+    "total": 420
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "50.0 kg (110.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 222,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Hostile Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 147,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "zwei": "german for ‘two’",
+    "jealous": "envious (Zweilous’ heads fight with each other)"
+  },
+  "pokedexEntries": {
+    "Zweilous": [
+      {
+        "game": "black",
+        "desc": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along."
+      },
+      {
+        "game": "white",
+        "desc": "Since their two heads do not get along and compete with each other for food, they always eat too much."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The two heads do not get along. Whichever head eats more than the other gets to be the leader."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The two heads do not get along. Whichever head eats more than the other gets to be the leader."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along."
+      },
+      {
+        "game": "sword",
+        "desc": "While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go."
+      },
+      {
+        "game": "shield",
+        "desc": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others."
+      }
+    ]
+  }
+}

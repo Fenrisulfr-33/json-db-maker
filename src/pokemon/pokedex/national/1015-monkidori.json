@@ -1,0 +1,54 @@
+{
+    "_id": 1015,
+    "key": "munkidori",
+    "name": {
+        "english": "Munkidori"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Poison",
+        "two": "Psychic"
+    },
+    "abilities": {
+        "one": {
+            "name": "Toxic Chain",
+            "id": 302
+        },
+        "hidden": {
+            "name": "Frisk",
+            "id": 119
+        }
+    },
+    "baseStats": {
+        "hp": 88,
+        "atk": 75,
+        "def": 66,
+        "spatk": 130,
+        "spdef": 90,
+        "spd": 106,
+        "total": 555
+    },
+    "info": {
+        "height": "1 m (3′03″)",
+        "weight": "12.2 kg (26.9 lbs)"
+    },
+    "gender": {
+        "male": "100%",
+        "female": "",
+        "genderless": false
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "spatk": 3
+    },
+    "eggGroups": [],
+    "species": "Retainer Pokémon",
+    "catchRate": 3,
+    "baseFriendship": 0,
+    "baseExp": 0,
+    "growthRate": "",
+    "eggCycles": 120,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

@@ -1,0 +1,72 @@
+{
+  "_id": 958,
+  "key": "tinkatuff",
+  "name": {
+    "english": "Tinkatuff"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 280
+  },
+  "type": {
+    "one": "Fairy",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Mold Breaker",
+      "id": 104
+    },
+    "two": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Pickpocket",
+      "id": 124
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 55,
+    "def": 55,
+    "spatk": 45,
+    "spdef": 82,
+    "spd": 78,
+    "total": 380
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "59.1 kg (130.3 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Hammer Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tinker": "casually modify or repair, especially a mechanical object",
+    "tough": "hard, durable"
+  },
+  "pokedexEntries": {
+    "Tinkatuff": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer."
+      },
+      {
+        "game": "violet",
+        "desc": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together."
+      }
+    ]
+  }
+}

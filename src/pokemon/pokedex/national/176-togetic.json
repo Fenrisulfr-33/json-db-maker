@@ -1,0 +1,155 @@
+{
+  "_id": 176,
+  "key": "togetic",
+  "name": {
+    "english": "Togetic",
+    "spanish": "Togetic",
+    "italian": "Togetic",
+    "japanese": "トゲチック",
+    "chinese": "波克基古",
+    "korean": "",
+    "german": "Togetic",
+    "french": "Togetic"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 128,
+    "sword-shield": 258,
+    "crystal": 47,
+    "gold-silver": 47
+  },
+  "type": {
+    "one": "Fairy",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hustle",
+      "id": 55
+    },
+    "two": {
+      "name": "Serene Grace",
+      "id": 32
+    },
+    "hidden": {
+      "name": "Super Luck",
+      "id": 105
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 40,
+    "def": 85,
+    "spatk": 80,
+    "spdef": 105,
+    "spd": 40,
+    "total": 405
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "3.2 kg (7.1 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 62,
+  "generation": 2,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Flying",
+    "Fairy"
+  ],
+  "species": "Happiness Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "togi": "spike",
+    "tic": "chick"
+  },
+  "pokedexEntries": {
+    "Togetic": [
+      {
+        "game": "gold",
+        "desc": "They say that it will appear before kindhearted, caring people and shower them with happiness."
+      },
+      {
+        "game": "silver",
+        "desc": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings."
+      },
+      {
+        "game": "crystal",
+        "desc": "Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "TOGETIC is said to be a POKéMON that brings good fortune. When the POKéMON spots someone who is pure of heart, it is said to appear and share its happiness with that person."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "They say that it will appear before kindhearted, caring people and shower them with happiness."
+      },
+      {
+        "game": "emerald",
+        "desc": "It is said to be a POKéMON that brings good fortune. When it spots someone who is pure of heart, a TOGETIC appears and shares its happiness with that person."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "It is said to appear in front of kindly people to scatter a glowing down called “joy dust.”"
+      },
+      {
+        "game": "platinum",
+        "desc": "To share its happiness, it flies around the world seeking kindhearted people."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "They say that it will appear before kindhearted, caring people and shower them with happiness."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "To share its happiness, it flies around the world seeking kind-hearted people."
+      },
+      {
+        "game": "x",
+        "desc": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings."
+      },
+      {
+        "game": "y",
+        "desc": "They say that it will appear before kindhearted, caring people and shower them with happiness."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person."
+      },
+      {
+        "game": "sword",
+        "desc": "They say that it will appear before kindhearted, caring people and shower them with happiness."
+      },
+      {
+        "game": "shield",
+        "desc": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is said to appear in front of kindly people to scatter a glowing down called joy dust."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy."
+      }
+    ]
+  }
+}

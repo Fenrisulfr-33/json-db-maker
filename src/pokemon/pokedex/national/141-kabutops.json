@@ -1,0 +1,168 @@
+{
+  "_id": 141,
+  "key": "kabutops",
+  "name": {
+    "english": "Kabutops",
+    "spanish": "Kabutops",
+    "italian": "Kabutops",
+    "japanese": "カブトプス",
+    "chinese": "镰刀盔",
+    "korean": "",
+    "german": "Kabutops",
+    "french": "Kabutops"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 126,
+    "crystal": 228,
+    "gold-silver": 228,
+    "yellow": 141,
+    "red-blue": 141
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Battle Armor",
+      "id": 4
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 115,
+    "def": 105,
+    "spatk": 65,
+    "spdef": 70,
+    "spd": 80,
+    "total": 495
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "40.5 kg (89.3 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 52,
+  "generation": 1,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "species": "Shellfish Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "kabuto": "type of helmet used by ancient Japanese warriors",
+    "top": "above"
+  },
+  "pokedexEntries": {
+    "Kabutops": [
+      {
+        "game": "red-blue",
+        "desc": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids."
+      },
+      {
+        "game": "yellow",
+        "desc": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids."
+      },
+      {
+        "game": "gold",
+        "desc": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast."
+      },
+      {
+        "game": "silver",
+        "desc": "With sharp claws, this ferocious, ancient POKéMON rips apart prey and sucks their body fluids."
+      },
+      {
+        "game": "crystal",
+        "desc": "It was able to swim quickly through the water by compactly folding up its razor-sharp sickles."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It swims freely through water. It catches prey with its scythe-like arms and drains the victim’s fluids."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains their fluids."
+      },
+      {
+        "game": "emerald",
+        "desc": "KABUTOPS once swam underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land as evident from changes in its gills and legs."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is thought that this Pokémon came onto land because its prey adapted to life on land."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "With sharp claws, this ferocious, ancient Pokémon rips apart prey and sucks their body fluids."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is thought that this Pokémon came onto land because its prey adapted to life on land."
+      },
+      {
+        "game": "x",
+        "desc": "In the water, it tucks in its limbs to become more compact, then it wiggles its shell to swim fast."
+      },
+      {
+        "game": "y",
+        "desc": "A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its body had begun to change so it could function on land. But it didn’t adapt in time and went extinct."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It swims at speeds of roughly 29 knots, quickly closing in on its prey and slashing into them with its scythes to finish them off."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids."
+      },
+      {
+        "game": "sword",
+        "desc": "Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is thought that this Pokémon came onto land because its prey adapted to life on land."
+      }
+    ]
+  }
+}

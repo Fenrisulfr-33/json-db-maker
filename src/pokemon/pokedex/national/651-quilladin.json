@@ -1,0 +1,76 @@
+{
+  "_id": 651,
+  "key": "quilladin",
+  "name": {
+    "english": "Quilladin",
+    "spanish": "Quilladin",
+    "italian": "Quilladin",
+    "japanese": "ハリボーグ",
+    "chinese": "胖胖哈力",
+    "korean": "",
+    "german": "Igastarnish",
+    "french": "Boguérisse"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Bulletproof",
+      "id": 171
+    }
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 78,
+    "def": 95,
+    "spatk": 56,
+    "spdef": 58,
+    "spd": 57,
+    "total": 405
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "29.0 kg (63.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 224,
+  "generation": 6,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Spiny Armor Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "quill": "sharp feather/needle",
+    "paladin": "heroic, chivalrous knight"
+  },
+  "pokedexEntries": {
+    "Quilladin": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It relies on its sturdy shell to deflect predators’ attacks. It counterattacks with its sharp quills."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They strengthen their lower bodies by running into one another. They are very kind and won’t start fights."
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_id": 888,
+  "key": "zacian",
+  "name": {
+    "english": "Zacian",
+    "spanish": "Zacian",
+    "italian": "Zacian",
+    "japanese": "ザシアン",
+    "chinese": "苍响",
+    "korean": "",
+    "german": "Zacian",
+    "french": "Zacian"
+  },
+  "pokedexNumber": {
+    "sword-shield": 398
+  },
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intrepid Sword",
+      "id": 234
+    }
+  },
+  "baseStats": {
+    "hp": 92,
+    "atk": 130,
+    "def": 115,
+    "spatk": 80,
+    "spdef": 115,
+    "spd": 138,
+    "total": 670
+  },
+  "info": {
+    "height": "2.8 m (9′02″)",
+    "weight": "110.0 kg (242.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Warrior Pokémon",
+  "catchRate": 10,
+  "baseFriendship": 0,
+  "baseExp": 335,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "cyan": "greenish-blue color"
+  },
+  "pokedexEntries": {
+    "Crowned Sword": [
+      {
+        "game": "sword",
+        "desc": "Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "Able to cut down anything with a single strike, it became known as the Fairy King’s Sword, and it inspired awe in friend and foe alike."
+      }
+    ],
+    "Hero Of Many Battles": [
+      {
+        "game": "sword",
+        "desc": "Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals."
+      }
+    ]
+  }
+}

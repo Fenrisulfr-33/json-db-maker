@@ -1,0 +1,112 @@
+{
+  "_id": 621,
+  "key": "druddigon",
+  "name": {
+    "english": "Druddigon",
+    "spanish": "Druddigon",
+    "italian": "Druddigon",
+    "japanese": "クリムガン",
+    "chinese": "赤面龙",
+    "korean": "",
+    "german": "Shardrago",
+    "french": "Drakkarmin"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 63,
+    "crown-tundra": 119
+  },
+  "type": {
+    "one": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rough Skin",
+      "id": 24
+    },
+    "two": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Mold Breaker",
+      "id": 104
+    }
+  },
+  "baseStats": {
+    "hp": 77,
+    "atk": 120,
+    "def": 90,
+    "spatk": 60,
+    "spdef": 90,
+    "spd": 48,
+    "total": 485
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "139.0 kg (306.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Cave Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "dragon": "mythical fire-breathing creature",
+    "ruddy": "reddish color"
+  },
+  "pokedexEntries": {
+    "Druddigon": [
+      {
+        "game": "black",
+        "desc": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move."
+      },
+      {
+        "game": "white",
+        "desc": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The red skin on its face is harder than rock. In narrow caves, it squares off against its enemies and charges face-first right into them."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through."
+      },
+      {
+        "game": "sword",
+        "desc": "Druddigon lives in caves, but it never skips sunbathing—it won’t be able to move if its body gets too cold."
+      },
+      {
+        "game": "shield",
+        "desc": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs."
+      }
+    ]
+  }
+}

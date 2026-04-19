@@ -1,0 +1,92 @@
+{
+  "_id": 776,
+  "key": "turtonator",
+  "name": {
+    "english": "Turtonator",
+    "spanish": "Turtonator",
+    "italian": "Turtonator",
+    "japanese": "バクガメス",
+    "chinese": "爆焰龟兽",
+    "korean": "",
+    "german": "Tortunator",
+    "french": "Togedemaru"
+  },
+  "pokedexNumber": {
+    "sword-shield": 347
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shell Armor",
+      "id": 75
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 78,
+    "def": 135,
+    "spatk": 91,
+    "spdef": 85,
+    "spd": 36,
+    "total": 485
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "212.0 kg (467.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Blast Turtle Pokémon",
+  "catchRate": 70,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "turtle": "water-based reptile",
+    "detonator": "device causing an explosion"
+  },
+  "pokedexEntries": {
+    "Turtonator": [
+      {
+        "game": "sun",
+        "desc": "The shell on its back is chemically unstable and explodes violently if struck. The hole in its stomach is its weak point."
+      },
+      {
+        "game": "moon",
+        "desc": "It gushes fire and poisonous gases from its nostrils. Its dung is an explosive substance and can be put to various uses."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It lives in volcanoes and eats sulfur and other minerals. Materials from the food it eats form the basis of its explosive shell."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves."
+      },
+      {
+        "game": "sword",
+        "desc": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation."
+      },
+      {
+        "game": "shield",
+        "desc": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive."
+      }
+    ]
+  }
+}

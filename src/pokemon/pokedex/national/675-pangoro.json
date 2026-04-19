@@ -1,0 +1,108 @@
+{
+  "_id": 675,
+  "key": "pangoro",
+  "name": {
+    "english": "Pangoro",
+    "spanish": "Pangoro",
+    "italian": "Pangoro",
+    "japanese": "ゴロンダ",
+    "chinese": "流氓熊猫",
+    "korean": "",
+    "german": "Pandagro",
+    "french": "Pandarbare"
+  },
+  "pokedexNumber": {
+    "sword-shield": 112
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Iron Fist",
+      "id": 89
+    },
+    "two": {
+      "name": "Mold Breaker",
+      "id": 104
+    },
+    "hidden": {
+      "name": "Scrappy",
+      "id": 113
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 124,
+    "def": 78,
+    "spatk": 69,
+    "spdef": 71,
+    "spd": 58,
+    "total": 495
+  },
+  "info": {
+    "height": "2.1 m (6′11″)",
+    "weight": "136.0 kg (299.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 233,
+  "generation": 6,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "species": "Daunting Pokémon",
+  "catchRate": 65,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "panda": "large black & white mammal",
+    "gorogoro": "Japanese term for a rumbling sound"
+  },
+  "pokedexEntries": {
+    "Pangoro": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Although it possesses a violent temperament, it won’t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole."
+      },
+      {
+        "game": "sun",
+        "desc": "It boasts superb physical strength. Those who wish to become Pangoro’s Trainer have no choice but to converse with their fists."
+      },
+      {
+        "game": "moon",
+        "desc": "From the slight twitches of its bamboo leaf, it deduces its opponent’s movements. It’s eager to tussle but kindhearted toward its companions."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This rowdy Pokémon boasts great physical strength. Many Trainers are also smitten by its lively character."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Pangoro is the type to talk with its fists. It doesn’t say much as it pummels opponents with enough force to send a dump truck flying."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon."
+      },
+      {
+        "game": "shield",
+        "desc": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit."
+      }
+    ]
+  }
+}

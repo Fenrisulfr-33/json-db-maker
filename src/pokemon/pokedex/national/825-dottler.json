@@ -1,0 +1,83 @@
+{
+  "_id": 825,
+  "key": "dottler",
+  "name": {
+    "english": "Dottler",
+    "spanish": "Dottler",
+    "italian": "Dottler",
+    "japanese": "レドームシ",
+    "chinese": "天罩虫",
+    "korean": "",
+    "german": "Keradar",
+    "french": "Coléodôme"
+  },
+  "pokedexNumber": {
+    "sword-shield": 11,
+    "isle-of-armor": 15
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 35,
+    "def": 80,
+    "spatk": 50,
+    "spdef": 90,
+    "spd": 30,
+    "total": 335
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "19.5 kg (43.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 279,
+  "generation": 8,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Radome Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 117,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "dot": ""
+  },
+  "pokedexEntries": {
+    "Dottler": [
+      {
+        "game": "sword",
+        "desc": "It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers."
+      },
+      {
+        "game": "shield",
+        "desc": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+      }
+    ]
+  }
+}

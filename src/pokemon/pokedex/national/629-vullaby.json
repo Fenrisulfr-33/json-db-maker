@@ -1,0 +1,120 @@
+{
+  "_id": 629,
+  "key": "vullaby",
+  "name": {
+    "english": "Vullaby",
+    "spanish": "Vullaby",
+    "italian": "Vullaby",
+    "japanese": "バルチャイ",
+    "chinese": "秃鹰丫头",
+    "korean": "",
+    "german": "Skallyk",
+    "french": "Vostourno"
+  },
+  "pokedexNumber": {
+    "sword-shield": 283,
+    "isle-of-armor": 181
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Big Pecks",
+      "id": 145
+    },
+    "two": {
+      "name": "Overcoat",
+      "id": 142
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 55,
+    "def": 75,
+    "spatk": 45,
+    "spdef": 65,
+    "spd": 60,
+    "total": 370
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "9.0 kg (19.8 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 221,
+  "generation": 5,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Diapered Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 35,
+  "baseExp": 74,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "vulture": "a species of bird",
+    "lullaby": "a song used to lull people to sleep"
+  },
+  "pokedexEntries": {
+    "Vullaby": [
+      {
+        "game": "black",
+        "desc": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing."
+      },
+      {
+        "game": "white",
+        "desc": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz."
+      },
+      {
+        "game": "sun",
+        "desc": "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones."
+      },
+      {
+        "game": "moon",
+        "desc": "It can’t fly yet and must wait until its wings have developed more. Since it’s still at a playful age, it hops around friskily."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Mandibuzz gives it the bones it wears. Vullaby’s wings are short, so it can’t fly yet, but it jumps around, dreaming of wide open skies."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases."
+      },
+      {
+        "game": "sword",
+        "desc": "It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones."
+      },
+      {
+        "game": "shield",
+        "desc": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest."
+      }
+    ]
+  }
+}

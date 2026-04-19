@@ -1,0 +1,82 @@
+{
+  "_id": 863,
+  "key": "perrserker",
+  "name": {
+    "english": "Perrserker",
+    "spanish": "Perrserker",
+    "italian": "Perrserker",
+    "japanese": "ニャイキング",
+    "chinese": "喵头目",
+    "korean": "",
+    "german": "Mauzinger",
+    "french": "Berserkatt"
+  },
+  "pokedexNumber": {
+    "sword-shield": 183
+  },
+  "type": {
+    "one": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Battle Armor",
+      "id": 4
+    },
+    "two": {
+      "name": "Tough Claws",
+      "id": 181
+    },
+    "hidden": {
+      "name": "Steely Spirit",
+      "id": 252
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 100,
+    "spatk": 50,
+    "spdef": 60,
+    "spd": 50,
+    "total": 440
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "28.0 kg (61.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 22,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Viking Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 154,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "purr": "sound a cat makes when content",
+    "berserker": "ancient Norse warrior"
+  },
+  "pokedexEntries": {
+    "Perrserker": [
+      {
+        "game": "sword",
+        "desc": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle."
+      },
+      {
+        "game": "shield",
+        "desc": "After many battles, it evolved dangerous claws that come together to form daggers when extended."
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_id": 728,
+  "key": "popplio",
+  "name": {
+    "english": "Popplio",
+    "spanish": "Popplio",
+    "italian": "Popplio",
+    "japanese": "アシマリ",
+    "chinese": "球球海狮",
+    "korean": "",
+    "german": "Robball",
+    "french": "Otaquin"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Liquid Voice",
+      "id": 204
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 54,
+    "def": 54,
+    "spatk": 66,
+    "spdef": 56,
+    "spd": 40,
+    "total": 320
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "7.5 kg (16.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 252,
+  "generation": 7,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Sea Lion Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 64,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "pop": "burst (a bubble or balloon)",
+    "sea lion": "aquatic mammal"
+  },
+  "pokedexEntries": {
+    "Popplio": [
+      {
+        "game": "sun",
+        "desc": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It’s famous for being a hard worker."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon can control water bubbles. It practices diligently so it can learn to make big bubbles."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The balloons it inflates with its nose grow larger and larger as it practices day by day."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Popplio gets on top of its bouncy water balloons to jump higher. It’s quite the acrobatic fighter!"
+      },
+      {
+        "game": "sword",
+        "desc": "It creates special bouncy balloons to send at its opponents. When the balloons pop, the sheer force of their bursting is what deals damage."
+      },
+      {
+        "game": "shield",
+        "desc": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills."
+      }
+    ]
+  }
+}

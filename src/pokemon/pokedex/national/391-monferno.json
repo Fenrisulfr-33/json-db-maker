@@ -1,0 +1,113 @@
+{
+  "_id": 391,
+  "key": "monferno",
+  "name": {
+    "english": "Monferno",
+    "spanish": "Monferno",
+    "italian": "Monferno",
+    "japanese": "モウカザル",
+    "chinese": "猛火猴",
+    "korean": "",
+    "german": "Panpyro",
+    "french": "Chimpenfeu"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 62
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 64,
+    "atk": 78,
+    "def": 52,
+    "spatk": 78,
+    "spdef": 52,
+    "spd": 81,
+    "total": 405
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "22.0 kg (48.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 129,
+  "generation": 4,
+  "evs": {
+    "spatk": 1,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "species": "Playful Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "monkey": "a species of primate",
+    "inferno": "a raging fire"
+  },
+  "pokedexEntries": {
+    "Monferno": [
+      {
+        "game": "diamond",
+        "desc": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger."
+      },
+      {
+        "game": "pearl",
+        "desc": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon."
+      },
+      {
+        "game": "platinum",
+        "desc": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "A bigger fire on its tail and a brighter blue pattern on its face means its rank in its pack is higher."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "To intimidate attackers, it expands the fire on its tail to make itself appear bigger."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one of its weapons."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "The deeper the blue on its face, the more powerful it will grow to become. It leaps about every which way and lands powerful blows against its opponents with the flame on its tail."
+      }
+    ]
+  }
+}

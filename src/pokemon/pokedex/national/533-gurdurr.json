@@ -1,0 +1,102 @@
+{
+  "_id": 533,
+  "key": "gurdurr",
+  "name": {
+    "english": "Gurdurr",
+    "spanish": "Gurdurr",
+    "italian": "Gurdurr",
+    "japanese": "ドテッコツ",
+    "chinese": "铁骨土人",
+    "korean": "",
+    "german": "Strepoli",
+    "french": "Ouvrifier"
+  },
+  "pokedexNumber": {
+    "sword-shield": 172,
+    "crown-tundra": 58
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "two": {
+      "name": "Sheer Force",
+      "id": 125
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 105,
+    "def": 85,
+    "spatk": 40,
+    "spdef": 50,
+    "spd": 40,
+    "total": 405
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "40.0 kg (88.2 lbs)"
+  },
+  "gender": {
+    "male": "75%",
+    "female": "25%",
+    "genderless": false
+  },
+  "evolution": 184,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Muscular Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "girder": "a large steel beam"
+  },
+  "pokedexEntries": {
+    "Gurdurr": [
+      {
+        "game": "black",
+        "desc": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch."
+      },
+      {
+        "game": "white",
+        "desc": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "With strengthened bodies, they skillfully wield steel beams to take down buildings."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "With strengthened bodies, they skillfully wield steel beams to take down buildings."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch."
+      },
+      {
+        "game": "sword",
+        "desc": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while."
+      },
+      {
+        "game": "shield",
+        "desc": "Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam."
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "_id": 324,
+  "key": "torkoal",
+  "name": {
+    "english": "Torkoal",
+    "spanish": "Torkoal",
+    "italian": "Torkoal",
+    "japanese": "コータス",
+    "chinese": "煤炭龟",
+    "korean": "",
+    "german": "Qurtel",
+    "french": "Chartor"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 150,
+    "sword-shield": 300,
+    "isle-of-armor": 173
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "White Smoke",
+      "id": 73
+    },
+    "two": {
+      "name": "Drought",
+      "id": 70
+    },
+    "hidden": {
+      "name": "Shell Armor",
+      "id": 75
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 140,
+    "spatk": 85,
+    "spdef": 70,
+    "spd": 20,
+    "total": 470
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "80.4 kg (177.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 3,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Coal Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 165,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tortoise": "large reptile with a protective shell",
+    "coal": "black substance used as fuel"
+  },
+  "pokedexEntries": {
+    "Torkoal": [
+      {
+        "game": "ruby",
+        "desc": "TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this POKéMON spouts thick black smoke to beat a retreat."
+      },
+      {
+        "game": "sapphire",
+        "desc": "TORKOAL generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this POKéMON burns more coal."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees."
+      },
+      {
+        "game": "emerald",
+        "desc": "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive’s horn."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It burns coal inside its shell for energy. It blows out black soot if it is endangered."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "You find abandoned coal mines full of them. They dig tirelessly in search of coal."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It burns coal inside its shell for energy. It blows out black soot if it is endangered."
+      },
+      {
+        "game": "x",
+        "desc": "You find abandoned coal mines full of them. They dig tirelessly in search of coal."
+      },
+      {
+        "game": "y",
+        "desc": "It burns coal inside its shell for energy. It blows out black soot if it is endangered."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pokémon spouts thick black smoke to beat a retreat."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Torkoal generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this Pokémon burns more coal."
+      },
+      {
+        "game": "sun",
+        "desc": "Coal is the source of Torkoal’s energy. Large amounts of coal can be found in the mountains where they live."
+      },
+      {
+        "game": "moon",
+        "desc": "If the fire burning within its shell goes out, it will die. Those who wish to raise one in their home must always keep something flammable at hand."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "You can tell how it’s feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It burns coal to produce energy. When it has burned through all of its coal, it becomes unable to move."
+      },
+      {
+        "game": "sword",
+        "desc": "It burns coal inside its shell for energy. It blows out black soot if it is endangered."
+      },
+      {
+        "game": "shield",
+        "desc": "You find abandoned coal mines full of them. They dig tirelessly in search of coal."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It burns coal inside its shell for energy. It blows out black soot if it is in a tough situation."
+      }
+    ]
+  }
+}

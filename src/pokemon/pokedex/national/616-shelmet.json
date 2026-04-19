@@ -1,0 +1,104 @@
+{
+  "_id": 616,
+  "key": "shelmet",
+  "name": {
+    "english": "Shelmet",
+    "spanish": "Shelmet",
+    "italian": "Shelmet",
+    "japanese": "チョボマキ",
+    "chinese": "小嘴蜗",
+    "korean": "",
+    "german": "Schnuthelm",
+    "french": "Escargaume"
+  },
+  "pokedexNumber": {
+    "sword-shield": 275,
+    "isle-of-armor": 64,
+    "crown-tundra": 97
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "two": {
+      "name": "Shell Armor",
+      "id": 75
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 40,
+    "def": 85,
+    "spatk": 40,
+    "spdef": 65,
+    "spd": 25,
+    "total": 305
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "7.7 kg (17.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 216,
+  "generation": 5,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Snail Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "shell": "hard cover",
+    "helmet": "hard covering of the head"
+  },
+  "pokedexEntries": {
+    "Shelmet": [
+      {
+        "game": "black",
+        "desc": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid."
+      },
+      {
+        "game": "white",
+        "desc": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown."
+      },
+      {
+        "game": "sword",
+        "desc": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell."
+      },
+      {
+        "game": "shield",
+        "desc": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason."
+      }
+    ]
+  }
+}

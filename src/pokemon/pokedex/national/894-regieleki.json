@@ -1,0 +1,71 @@
+{
+  "_id": 894,
+  "key": "regieleki",
+  "name": {
+    "english": "Regieleki",
+    "spanish": "Regieleki",
+    "italian": "Regieleki",
+    "japanese": "レジエレキ",
+    "chinese": "雷吉艾勒奇",
+    "korean": "",
+    "german": "Regieleki",
+    "french": "Regieleki"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 200
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Transistor",
+      "id": 262
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 50,
+    "spatk": 100,
+    "spdef": 50,
+    "spd": 200,
+    "total": 580
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "145.0 kg (319.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Electron Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 290,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {},
+  "pokedexEntries": {
+    "Regieleki": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power."
+      },
+      {
+        "game": "shield",
+        "desc": "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar’s electricity."
+      }
+    ]
+  }
+}

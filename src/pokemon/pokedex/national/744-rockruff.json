@@ -1,0 +1,109 @@
+{
+  "_id": 744,
+  "key": "rockruff",
+  "name": {
+    "english": "Rockruff",
+    "spanish": "Rockruff",
+    "italian": "Rockruff",
+    "japanese": "イワンコ",
+    "chinese": "岩狗狗",
+    "korean": "",
+    "german": "Wuffels",
+    "french": "Rocabot"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 89,
+    "isle-of-armor": 157
+  },
+  "type": {
+    "one": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Vital Spirit",
+      "id": 72
+    },
+    "hidden": {
+      "name": "Steadfast",
+      "id": 80
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 65,
+    "def": 40,
+    "spatk": 30,
+    "spdef": 40,
+    "spd": 60,
+    "total": 280
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "9.2 kg (20.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 258,
+  "generation": 7,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Puppy Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 56,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "rock": "stone, boulder",
+    "ruff": "dog’s bark"
+  },
+  "pokedexEntries": {
+    "Rockruff": [
+      {
+        "game": "sun",
+        "desc": "It’s considered to be a good Pokémon for beginners because of its friendliness, but its disposition grows rougher as it grows up."
+      },
+      {
+        "game": "moon",
+        "desc": "This Pokémon has lived with people since times long ago. It can sense when its Trainer is in the dumps and will stick close by its Trainer’s side."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "As they develop, their disposition grows more violent and aggressive. Many Trainers find them too much to handle and abandon them."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "When it rubs the rocks on its neck against you, that’s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!"
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks."
+      }
+    ],
+    "Own Tempo Rockruff": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks."
+      }
+    ]
+  }
+}

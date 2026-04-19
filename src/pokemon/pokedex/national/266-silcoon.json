@@ -1,0 +1,130 @@
+{
+  "_id": 266,
+  "key": "silcoon",
+  "name": {
+    "english": "Silcoon",
+    "spanish": "Silcoon",
+    "italian": "Silcoon",
+    "japanese": "カラサリス",
+    "chinese": "甲壳茧",
+    "korean": "",
+    "german": "Schaloko",
+    "french": "Armulys"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 19
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 35,
+    "def": 55,
+    "spatk": 25,
+    "spdef": 25,
+    "spd": 15,
+    "total": 205
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "10.0 kg (22.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 91,
+  "generation": 3,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Cocoon Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 72,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "silk": "material produced by some insects",
+    "cocoon": "a pupal casing made by some insects"
+  },
+  "pokedexEntries": {
+    "Silcoon": [
+      {
+        "game": "ruby",
+        "desc": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SILCOON was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this POKéMON slakes its thirst by drinking rainwater that collects on its silk."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It conserves its energy by moving as little as possible. It awaits evolution while drinking only a little rainwater."
+      },
+      {
+        "game": "emerald",
+        "desc": "It prepares for evolution using the energy it stored while it was a WURMPLE. It keeps watch over the surroundings with its two eyes."
+      },
+      {
+        "game": "diamond",
+        "desc": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution."
+      },
+      {
+        "game": "pearl",
+        "desc": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks."
+      },
+      {
+        "game": "platinum",
+        "desc": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Having wrapped silk around the branches of a tree, it quiescently awaits evolution."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution."
+      },
+      {
+        "game": "x",
+        "desc": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution."
+      },
+      {
+        "game": "y",
+        "desc": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokémon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It drinks dew that collects on its silk while it waits for evolution. Its hard cocoon repels attacks."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Wraps itself in thin strings of silk while it stores energy for evolution. It can’t extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard."
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "_id": 553,
+  "key": "krookodile",
+  "name": {
+    "english": "Krookodile",
+    "spanish": "Krookodile",
+    "italian": "Krookodile",
+    "japanese": "ワルビアル",
+    "chinese": "流氓鳄",
+    "korean": "",
+    "german": "Rabigator",
+    "french": "Crocorible"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 269,
+    "isle-of-armor": 178
+  },
+  "type": {
+    "one": "Ground",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Moxie",
+      "id": 153
+    },
+    "hidden": {
+      "name": "Anger Point",
+      "id": 83
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 117,
+    "def": 80,
+    "spatk": 65,
+    "spdef": 70,
+    "spd": 92,
+    "total": 519
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "96.3 kg (212.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 190,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Intimidation Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 234,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "crook": "criminal, thief",
+    "crocodile": "a species of reptile"
+  },
+  "pokedexEntries": {
+    "Krookodile": [
+      {
+        "game": "black",
+        "desc": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile."
+      },
+      {
+        "game": "white",
+        "desc": "It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile."
+      },
+      {
+        "game": "sun",
+        "desc": "Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm."
+      },
+      {
+        "game": "moon",
+        "desc": "After clamping down with its powerful jaws, it twists its body around to rip its prey in half."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When it spots prey, even at a distance of over 30 miles, it swims through the desert as if it were water, then jumps out and chomps them."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon is known as the Bully of the Sands. Krookodile’s mighty jaws can bite through heavy plates of iron with almost no effort at all."
+      },
+      {
+        "game": "shield",
+        "desc": "While terribly aggressive, Krookodile also has the patience to stay hidden under sand for days, lying in wait for prey."
+      }
+    ]
+  }
+}

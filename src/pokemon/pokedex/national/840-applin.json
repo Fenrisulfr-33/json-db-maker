@@ -1,0 +1,84 @@
+{
+  "_id": 840,
+  "key": "applin",
+  "name": {
+    "english": "Applin",
+    "spanish": "Applin",
+    "italian": "Applin",
+    "japanese": "カジッチュ",
+    "chinese": "啃果虫",
+    "korean": "",
+    "german": "Knapfel",
+    "french": "Verpom"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 108,
+    "sword-shield": 205,
+    "isle-of-armor": 19
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Ripen",
+      "id": 247
+    },
+    "two": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Bulletproof",
+      "id": 171
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 80,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 20,
+    "total": 260
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "0.5 kg (1.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 287,
+  "generation": 8,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Apple Core Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 52,
+  "growthRate": "Erratic",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "apple": "red/green fruit"
+  },
+  "pokedexEntries": {
+    "Applin": [
+      {
+        "game": "sword",
+        "desc": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more."
+      },
+      {
+        "game": "shield",
+        "desc": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution."
+      }
+    ]
+  }
+}

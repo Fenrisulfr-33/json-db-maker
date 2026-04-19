@@ -1,0 +1,83 @@
+{
+  "_id": 889,
+  "key": "zamazenta",
+  "name": {
+    "english": "Zamazenta",
+    "spanish": "Zamazenta",
+    "italian": "Zamazenta",
+    "japanese": "ザマゼンタ",
+    "chinese": "藏玛然特",
+    "korean": "",
+    "german": "Zamazenta",
+    "french": "Zamazent"
+  },
+  "pokedexNumber": {
+    "sword-shield": 399
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Dauntless Shield",
+      "id": 235
+    }
+  },
+  "baseStats": {
+    "hp": 92,
+    "atk": 130,
+    "def": 115,
+    "spatk": 80,
+    "spdef": 115,
+    "spd": 138,
+    "total": 670
+  },
+  "info": {
+    "height": "2.9 m (9′06″)",
+    "weight": "210.0 kg (463.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "spd": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Warrior Pokémon",
+  "catchRate": 10,
+  "baseFriendship": 0,
+  "baseExp": 335,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "magenta": "purplish-red color"
+  },
+  "pokedexEntries": {
+    "Crowned Shield": [
+      {
+        "game": "sword",
+        "desc": "Its ability to deflect any attack led to it being known as the Fighting Master’s Shield. It was feared and respected by all."
+      },
+      {
+        "game": "shield",
+        "desc": "Now that it’s equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pokémon."
+      }
+    ],
+    "Hero Of Many Battles": [
+      {
+        "game": "sword",
+        "desc": "In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed."
+      }
+    ]
+  }
+}

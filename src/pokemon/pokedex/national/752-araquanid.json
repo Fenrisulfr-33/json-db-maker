@@ -1,0 +1,97 @@
+{
+  "_id": 752,
+  "key": "araquanid",
+  "name": {
+    "english": "Araquanid",
+    "spanish": "Araquanid",
+    "italian": "Araquanid",
+    "japanese": "オニシズクモ",
+    "chinese": "滴蛛霸",
+    "korean": "",
+    "german": "Aranestro",
+    "french": "Tarenbulle"
+  },
+  "pokedexNumber": {
+    "sword-shield": 215,
+    "crown-tundra": 92
+  },
+  "type": {
+    "one": "Water",
+    "two": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Bubble",
+      "id": 199
+    },
+    "hidden": {
+      "name": "Water Absorb",
+      "id": 11
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 70,
+    "def": 92,
+    "spatk": 50,
+    "spdef": 132,
+    "spd": 42,
+    "total": 454
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "82.0 kg (180.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 261,
+  "generation": 7,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Bug"
+  ],
+  "species": "Water Bubble Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "baseExp": 159,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "arachnid": "a spider",
+    "aqua": "relating to water"
+  },
+  "pokedexEntries": {
+    "Araquanid": [
+      {
+        "game": "sun",
+        "desc": "It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown."
+      },
+      {
+        "game": "moon",
+        "desc": "Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pokémon, it protectively brings them into its water bubble."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It has a habit of storing things it values in its water bubble. If its Trainer doesn’t watch out, Araquanid will try to put them in its bubble!"
+      },
+      {
+        "game": "sword",
+        "desc": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal."
+      },
+      {
+        "game": "shield",
+        "desc": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food."
+      }
+    ]
+  }
+}

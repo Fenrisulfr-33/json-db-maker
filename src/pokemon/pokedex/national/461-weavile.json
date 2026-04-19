@@ -1,0 +1,143 @@
+{
+  "_id": 461,
+  "key": "weavile",
+  "name": {
+    "english": "Weavile",
+    "spanish": "Weavile",
+    "italian": "Weavile",
+    "japanese": "マニューラ",
+    "chinese": "玛狃拉",
+    "korean": "",
+    "german": "Snibunna",
+    "french": "Dimoret"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 231,
+    "legends-arceus": 204,
+    "sword-shield": 293,
+    "crown-tundra": 29
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Pickpocket",
+      "id": 124
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 120,
+    "def": 65,
+    "spatk": 45,
+    "spdef": 85,
+    "spd": 125,
+    "total": 510
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "34.0 kg (75.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 163,
+  "generation": 4,
+  "evs": {
+    "atk": 1,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Sharp Claw Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 35,
+  "baseExp": 179,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "weasel": "small mammal with a long body",
+    "vile": "unpleasant, wretched"
+  },
+  "pokedexEntries": {
+    "Weavile": [
+      {
+        "game": "diamond",
+        "desc": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination."
+      },
+      {
+        "game": "pearl",
+        "desc": "It sends signals to others by carving odd patterns in frost-covered trees and ice."
+      },
+      {
+        "game": "platinum",
+        "desc": "Evolution made it even more devious. It communicates by clawing signs in boulders."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others."
+      },
+      {
+        "game": "black-white",
+        "desc": "Evolution made it even more devious. It communicates by clawing signs in boulders."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They communicate by clawing signs in boulders and work together to surround enemies."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination."
+      },
+      {
+        "game": "sun",
+        "desc": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks."
+      },
+      {
+        "game": "moon",
+        "desc": "They dwell in cold places. This Pokémon’s main food source in Alola is Vulpix and Sandshrew, which they carefully divide among their group."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "One Weavile will trip a Sandshrew and flip it over, and then another Weavile will deal the finishing blow with its sharp claws."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!"
+      },
+      {
+        "game": "sword",
+        "desc": "They attack their quarry in packs. Prey as large as Mamoswine easily fall to the teamwork of a group of Weavile."
+      },
+      {
+        "game": "shield",
+        "desc": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It sends signals to others of its kind by carving odd patterns on trees and ice."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development."
+      }
+    ]
+  }
+}

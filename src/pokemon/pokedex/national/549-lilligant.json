@@ -1,0 +1,126 @@
+{
+  "_id": 549,
+  "key": "lilligant",
+  "name": {
+    "english": "Lilligant",
+    "spanish": "Lilligant",
+    "italian": "Lilligant",
+    "japanese": "ドレディア",
+    "chinese": "裙儿小姐",
+    "korean": "",
+    "german": "Dressella",
+    "french": "Fragilady"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 105,
+    "legends-arceus": 94,
+    "isle-of-armor": 202
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "hidden": {
+      "name": "Leaf Guard",
+      "id": 102
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 60,
+    "def": 75,
+    "spatk": 110,
+    "spdef": 75,
+    "spd": 90,
+    "total": 480
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "19.2 kg (42.3 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 189,
+  "generation": 5,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Flowering Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "lily": "a type of plant",
+    "elegant": "graceful, luxurious"
+  },
+  "pokedexEntries": {
+    "Lilligant": [
+      {
+        "game": "black",
+        "desc": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities."
+      },
+      {
+        "game": "white",
+        "desc": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities."
+      },
+      {
+        "game": "sun",
+        "desc": "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild."
+      },
+      {
+        "game": "moon",
+        "desc": "As soon as it finds a male to be its partner, the beautiful flower on its head darkens, droops, and withers away."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The fragrance of its flower differs slightly depending on the soil where it grew up. Sniffing the aroma calms your heart and mind."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It’s well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s believed that even first-rate gardeners have a hard time getting the flower on a Lilligant’s head to bloom."
+      },
+      {
+        "game": "shield",
+        "desc": "Essential oils made from Lilligant flowers have a sublime scent, but they’re also staggeringly expensive."
+      }
+    ],
+    "Hisuian Lilligant": [
+      {
+        "game": "legends-arceus",
+        "desc": "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity."
+      }
+    ]
+  }
+}

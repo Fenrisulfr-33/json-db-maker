@@ -1,0 +1,186 @@
+{
+  "_id": 59,
+  "key": "arcanine",
+  "name": {
+    "english": "Arcanine",
+    "spanish": "Arcanine",
+    "italian": "Arcanine",
+    "japanese": "ウインディ",
+    "chinese": "风速狗",
+    "korean": "",
+    "german": "Arkani",
+    "french": "Arcanin"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 214,
+    "legends-arceus": 151,
+    "sword-shield": 71,
+    "crystal": 130,
+    "gold-silver": 130,
+    "yellow": 59,
+    "red-blue": 59
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "hidden": {
+      "name": "Justified",
+      "id": 154
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 110,
+    "def": 80,
+    "spatk": 100,
+    "spdef": 80,
+    "spd": 95,
+    "total": 555
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "168.0 kg (370.4 lbs)"
+  },
+  "gender": {
+    "male": "75%",
+    "female": "25%",
+    "genderless": false
+  },
+  "evolution": 25,
+  "generation": 1,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Legendary Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 194,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "arcane": "ancient, mysterious",
+    "canine": "of or relating to dogs"
+  },
+  "pokedexEntries": {
+    "Arcanine": [
+      {
+        "game": "red-blue",
+        "desc": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings."
+      },
+      {
+        "game": "yellow",
+        "desc": "A legendary POKéMON in China. Many people are charmed by its grace and beauty while running."
+      },
+      {
+        "game": "gold",
+        "desc": "This legendary Chinese POKEMON is considered magnificent. Many people are enchanted by its grand mane."
+      },
+      {
+        "game": "silver",
+        "desc": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it."
+      },
+      {
+        "game": "crystal",
+        "desc": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON’s body is its source of power."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A POKéMON that is described in Chinese legends. It is said to race at an unbelievable speed."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "A POKéMON that has long been admired for its beauty. It runs agilely as if on wings."
+      },
+      {
+        "game": "emerald",
+        "desc": "This fleet-footed POKéMON is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its proud and regal appearance has captured the hearts of people since long ago."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it."
+      },
+      {
+        "game": "black-white",
+        "desc": "Its proud and regal appearance has captured the hearts of people since long ago."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The sight of it running over 6,200 miles in a single day and night has captivated many people."
+      },
+      {
+        "game": "x",
+        "desc": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings."
+      },
+      {
+        "game": "y",
+        "desc": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon’s body is its source of power."
+      },
+      {
+        "game": "sun",
+        "desc": "Overflowing with beauty and majesty, this strong Pokémon appears in ancient Eastern folklore."
+      },
+      {
+        "game": "moon",
+        "desc": "The fire burning inside its body serves as the energy to fuel it as it runs great distances. It appears in many legends."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Legends tell of its fighting alongside a general and conquering a whole country."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "There are so many old tales about them that they’re called legendary Pokémon, but there are way more of them around than you’d expect."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running."
+      },
+      {
+        "game": "sword",
+        "desc": "The sight of it running over 6,200 miles in a single day and night has captivated many people."
+      },
+      {
+        "game": "shield",
+        "desc": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its proud and regal appearance has captured the hearts of people since long ago."
+      }
+    ],
+    "Hisuian Arcanine": [
+      {
+        "game": "legends-arceus",
+        "desc": "Dwells on sacred peaks perpetually covered in snow. Said to appear to virtuous people who have lost their way on mountain paths—it then guides them back down to the mountain’s base."
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "_id": 292,
+  "key": "shedinja",
+  "name": {
+    "english": "Shedinja",
+    "spanish": "Shedinja",
+    "italian": "Shedinja",
+    "japanese": "ヌケニン",
+    "chinese": "脱壳忍者",
+    "korean": "",
+    "german": "Ninjatom",
+    "french": "Munja"
+  },
+  "pokedexNumber": {
+    "sword-shield": 106
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Wonder Guard",
+      "id": 25
+    }
+  },
+  "baseStats": {
+    "hp": 1,
+    "atk": 90,
+    "def": 45,
+    "spatk": 30,
+    "spdef": 30,
+    "spd": 40,
+    "total": 236
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "1.2 kg (2.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 100,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Shed Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 83,
+  "growthRate": "Erratic",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "shed": "to remove a shell or skin",
+    "ninja": "stealthy martial art"
+  },
+  "pokedexEntries": {
+    "Shedinja": [
+      {
+        "game": "ruby",
+        "desc": "SHEDINJA’s hard body doesn’t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SHEDINJA is a peculiar POKéMON. It seems to appear unsought in a POKé BALL after a NINCADA evolves. This bizarre POKéMON is entirely immobile - it doesn’t even breathe."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "A most peculiar POKéMON that somehow appears in a POKé BALL when a NINCADA evolves."
+      },
+      {
+        "game": "emerald",
+        "desc": "A peculiar POKéMON that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "A strange Pokémon--it flies without moving its wings, has a hollow shell for a body, and does not breathe."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit."
+      },
+      {
+        "game": "x",
+        "desc": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit."
+      },
+      {
+        "game": "y",
+        "desc": "A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Shedinja’s hard body doesn’t move—not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pokémon will steal the spirit of anyone peering into its hollow body from its back."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Shedinja is a peculiar Pokémon. It seems to appear unsought in a Poké Ball after a Nincada evolves. This bizarre Pokémon is entirely immobile—it doesn’t even breathe."
+      },
+      {
+        "game": "sword",
+        "desc": "A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves."
+      },
+      {
+        "game": "shield",
+        "desc": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is a discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit."
+      }
+    ]
+  }
+}

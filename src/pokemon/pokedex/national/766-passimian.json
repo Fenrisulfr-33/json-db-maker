@@ -1,0 +1,96 @@
+{
+  "_id": 766,
+  "key": "passimian",
+  "name": {
+    "english": "Passimian",
+    "spanish": "Passimian",
+    "italian": "Passimian",
+    "japanese": "ナゲツケサル",
+    "chinese": "投掷猴",
+    "korean": "",
+    "german": "Quartermak",
+    "french": "Quartermac"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 314,
+    "sword-shield": 343,
+    "isle-of-armor": 90
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Receiver",
+      "id": 222
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 120,
+    "def": 90,
+    "spatk": 40,
+    "spdef": 60,
+    "spd": 80,
+    "total": 490
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "82.8 kg (182.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Teamwork Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "pass": "transfer an object",
+    "simian": "of or relating to primates"
+  },
+  "pokedexEntries": {
+    "Passimian": [
+      {
+        "game": "sun",
+        "desc": "They form groups of roughly 20 individuals. Their mutual bond is remarkable—they will never let down a comrade."
+      },
+      {
+        "game": "moon",
+        "desc": "They battle with hard berries for weapons. Their techniques are passed from the boss to the group, generation upon generation."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "They use their saliva to stick leaves to their shoulders. You can tell what troop they belong to from the position of the leaves."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop."
+      },
+      {
+        "game": "sword",
+        "desc": "Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries."
+      },
+      {
+        "game": "shield",
+        "desc": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives."
+      }
+    ]
+  }
+}

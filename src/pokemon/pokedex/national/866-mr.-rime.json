@@ -1,0 +1,84 @@
+{
+  "_id": 866,
+  "key": "mr.-rime",
+  "name": {
+    "english": "Mr. Rime",
+    "spanish": "Mr. Rime",
+    "italian": "Mr. Rime",
+    "japanese": "バリコオル",
+    "chinese": "踏冰人偶",
+    "korean": "",
+    "german": "Pantifrost",
+    "french": "M. Glaquette"
+  },
+  "pokedexNumber": {
+    "sword-shield": 366,
+    "crown-tundra": 12
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Tangled Feet",
+      "id": 77
+    },
+    "two": {
+      "name": "Screen Cleaner",
+      "id": 251
+    },
+    "hidden": {
+      "name": "Ice Body",
+      "id": 115
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 85,
+    "def": 75,
+    "spatk": 110,
+    "spdef": 100,
+    "spd": 70,
+    "total": 520
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "58.2 kg (128.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 153,
+  "generation": 8,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Comedian Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 182,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "Mr.": "male title of respect",
+    "rhyme": "words ending in the same sound"
+  },
+  "pokedexEntries": {
+    "Mr-rime": [
+      {
+        "game": "sword",
+        "desc": "It’s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements."
+      },
+      {
+        "game": "shield",
+        "desc": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
+      }
+    ]
+  }
+}

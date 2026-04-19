@@ -1,0 +1,83 @@
+{
+  "_id": 797,
+  "key": "celesteela",
+  "name": {
+    "english": "Celesteela",
+    "spanish": "Celesteela",
+    "italian": "Celesteela",
+    "japanese": "テッカグヤ",
+    "chinese": "铁火辉夜",
+    "korean": "",
+    "german": "Kaguron",
+    "french": "Bamboiselle"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Steel",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beast Boost",
+      "id": 224
+    }
+  },
+  "baseStats": {
+    "hp": 97,
+    "atk": 101,
+    "def": 103,
+    "spatk": 107,
+    "spdef": 101,
+    "spd": 61,
+    "total": 570
+  },
+  "info": {
+    "height": "9.2 m (30′02″)",
+    "weight": "999.9 kg (2204.4 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "atk": 1,
+    "def": 1,
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Launch Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "celestial": "of or relating to space or heaven",
+    "steel": "a metal alloy"
+  },
+  "pokedexEntries": {
+    "Celesteela": [
+      {
+        "game": "sun",
+        "desc": "It appeared from the Ultra Wormhole. Witnesses observed it flying across the sky at high speed."
+      },
+      {
+        "game": "moon",
+        "desc": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_id": 155,
+  "key": "cyndaquil",
+  "name": {
+    "english": "Cyndaquil",
+    "spanish": "Cyndaquil",
+    "italian": "Cyndaquil",
+    "japanese": "ヒノアラシ",
+    "chinese": "火球鼠",
+    "korean": "",
+    "german": "Feurigel",
+    "french": "Héricendre"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 4,
+    "crystal": 4,
+    "gold-silver": 4
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Flash Fire",
+      "id": 18
+    }
+  },
+  "baseStats": {
+    "hp": 39,
+    "atk": 52,
+    "def": 43,
+    "spatk": 60,
+    "spdef": 50,
+    "spd": 65,
+    "total": 309
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "7.9 kg (17.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 55,
+  "generation": 2,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fire Mouse Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "cinder": "ashes",
+    "quill": "sharp feather/needle"
+  },
+  "pokedexEntries": {
+    "Cyndaquil": [
+      {
+        "game": "gold",
+        "desc": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection."
+      },
+      {
+        "game": "silver",
+        "desc": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back."
+      },
+      {
+        "game": "crystal",
+        "desc": "The fire that spouts from its back burns hottest when it is angry. The flaring flames intimidate foes."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection."
+      },
+      {
+        "game": "emerald",
+        "desc": "It flares flames from its back to protect itself. The fire burns vigorously if the POKéMON is angry. When it is tired, it sputters with incomplete combustion."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It usually stays hunched over. If it is angry or surprised, it shoots flames out of its back."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+      },
+      {
+        "game": "x",
+        "desc": "It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection."
+      },
+      {
+        "game": "y",
+        "desc": "It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower."
+      }
+    ]
+  }
+}

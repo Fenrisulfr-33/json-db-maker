@@ -1,0 +1,120 @@
+{
+  "_id": 262,
+  "key": "mightyena",
+  "name": {
+    "english": "Mightyena",
+    "spanish": "Mightyena",
+    "italian": "Mightyena",
+    "japanese": "グラエナ",
+    "chinese": "大狼犬",
+    "korean": "",
+    "german": "Magnayen",
+    "french": "Grahyèna"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Quick Feet",
+      "id": 95
+    },
+    "hidden": {
+      "name": "Moxie",
+      "id": 153
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 90,
+    "def": 70,
+    "spatk": 60,
+    "spdef": 60,
+    "spd": 70,
+    "total": 420
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "37.0 kg (81.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 89,
+  "generation": 3,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Bite Pokémon",
+  "catchRate": 127,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "mighty": "powerful",
+    "hyena": "dog-like African mammal"
+  },
+  "pokedexEntries": {
+    "Mightyena": [
+      {
+        "game": "ruby",
+        "desc": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs."
+      },
+      {
+        "game": "sapphire",
+        "desc": "MIGHTYENA travel and act as a pack in the wild. The memory of its life in the wild compels the POKéMON to obey only those TRAINERS that it recognizes to possess superior skill."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It will always obey the commands of a skilled TRAINER. Its behavior arises from its living in packs in ancient times."
+      },
+      {
+        "game": "emerald",
+        "desc": "In the wild, MIGHTYENA live in a pack. They never defy their leader’s orders. They defeat foes with perfectly coordinated teamwork."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer."
+      },
+      {
+        "game": "x",
+        "desc": "It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times."
+      },
+      {
+        "game": "y",
+        "desc": "It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokémon will bite savagely with its sharply pointed fangs."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer."
+      }
+    ]
+  }
+}

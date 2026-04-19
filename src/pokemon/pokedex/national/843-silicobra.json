@@ -1,0 +1,84 @@
+{
+  "_id": 843,
+  "key": "silicobra",
+  "name": {
+    "english": "Silicobra",
+    "spanish": "Silicobra",
+    "italian": "Silicobra",
+    "japanese": "スナヘビ",
+    "chinese": "沙包蛇",
+    "korean": "",
+    "german": "Salanga",
+    "french": "Dunaja"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 270,
+    "sword-shield": 312,
+    "isle-of-armor": 174
+  },
+  "type": {
+    "one": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Spit",
+      "id": 245
+    },
+    "two": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 57,
+    "def": 75,
+    "spatk": 35,
+    "spdef": 50,
+    "spd": 46,
+    "total": 315
+  },
+  "info": {
+    "height": "2.2 m (7′03″)",
+    "weight": "7.6 kg (16.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 288,
+  "generation": 8,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Sand Snake Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 63,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "silicon": "",
+    "cobra": ""
+  },
+  "pokedexEntries": {
+    "Silicobra": [
+      {
+        "game": "sword",
+        "desc": "As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand."
+      },
+      {
+        "game": "shield",
+        "desc": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide."
+      }
+    ]
+  }
+}

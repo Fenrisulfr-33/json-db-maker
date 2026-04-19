@@ -1,0 +1,124 @@
+{
+  "_id": 368,
+  "key": "gorebyss",
+  "name": {
+    "english": "Gorebyss",
+    "spanish": "Gorebyss",
+    "italian": "Gorebyss",
+    "japanese": "サクラビス",
+    "chinese": "樱花鱼",
+    "korean": "",
+    "german": "Saganabyss",
+    "french": "Rosabyss"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "hidden": {
+      "name": "Hydration",
+      "id": 93
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 84,
+    "def": 105,
+    "spatk": 114,
+    "spdef": 75,
+    "spd": 52,
+    "total": 485
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "22.6 kg (49.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 125,
+  "generation": 3,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "South Sea Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Erratic",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gore": "to pierce with a horn or tusk",
+    "abyss": "deep gulf or crag"
+  },
+  "pokedexEntries": {
+    "Gorebyss": [
+      {
+        "game": "ruby",
+        "desc": "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON’s body is unharmed by ordinary attacks."
+      },
+      {
+        "game": "sapphire",
+        "desc": "Although GOREBYSS is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this POKéMON inserts its thin mouth into the prey’s body and drains the prey of its body fluids."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks."
+      },
+      {
+        "game": "emerald",
+        "desc": "A GOREBYSS siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its pink body becomes more vivid with the rise of water temperatures in the springtime."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+      },
+      {
+        "game": "x",
+        "desc": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+      },
+      {
+        "game": "y",
+        "desc": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Gorebyss lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this Pokémon’s body is unharmed by ordinary attacks."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Although Gorebyss is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pokémon inserts its thin mouth into the prey’s body and drains the prey of its body fluids."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "The color of its body changes with the water temperature. The coloration of Gorebyss in Alola is almost blindingly vivid."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+      }
+    ]
+  }
+}

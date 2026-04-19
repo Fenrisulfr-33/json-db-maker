@@ -1,0 +1,104 @@
+{
+  "_id": 576,
+  "key": "gothitelle",
+  "name": {
+    "english": "Gothitelle",
+    "spanish": "Gothitelle",
+    "italian": "Gothitelle",
+    "japanese": "ゴチルゼル",
+    "chinese": "哥德小姐",
+    "korean": "",
+    "german": "Morbitesse",
+    "french": "Sidérella"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 236,
+    "sword-shield": 269,
+    "crown-tundra": 53
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "two": {
+      "name": "Competitive",
+      "id": 172
+    },
+    "hidden": {
+      "name": "Shadow Tag",
+      "id": 23
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 55,
+    "def": 95,
+    "spatk": 95,
+    "spdef": 110,
+    "spd": 65,
+    "total": 490
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "44.0 kg (97.0 lbs)"
+  },
+  "gender": {
+    "male": "25%",
+    "female": "75%",
+    "genderless": false
+  },
+  "evolution": 200,
+  "generation": 5,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Astral Body Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 50,
+  "baseExp": 221,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gothic": "gloomy, dark",
+    "mademoiselle": "French for ‘Miss’, referring to a woman"
+  },
+  "pokedexEntries": {
+    "Gothitelle": [
+      {
+        "game": "black",
+        "desc": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power."
+      },
+      {
+        "game": "white",
+        "desc": "They can predict the future from the placement and movement of the stars. They can see Trainers’ life spans."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It can see the future from the movement of the stars. When it learns its Trainer’s life span, it cries in sadness."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They can predict the future from the placement and movement of the stars. They can see Trainers’ life spans."
+      },
+      {
+        "game": "sword",
+        "desc": "It has tremendous psychic power, but it dislikes conflict. It’s also able to predict the future based on the movement of the stars."
+      },
+      {
+        "game": "shield",
+        "desc": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again."
+      }
+    ]
+  }
+}

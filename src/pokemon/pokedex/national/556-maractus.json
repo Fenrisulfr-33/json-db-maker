@@ -1,0 +1,102 @@
+{
+  "_id": 556,
+  "key": "maractus",
+  "name": {
+    "english": "Maractus",
+    "spanish": "Maractus",
+    "italian": "Maractus",
+    "japanese": "マラカッチ",
+    "chinese": "沙铃仙人掌",
+    "korean": "",
+    "german": "Maracamba",
+    "french": "Maracachi"
+  },
+  "pokedexNumber": {
+    "sword-shield": 296
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Absorb",
+      "id": 11
+    },
+    "two": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "hidden": {
+      "name": "Storm Drain",
+      "id": 114
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 86,
+    "def": 67,
+    "spatk": 106,
+    "spdef": 67,
+    "spd": 60,
+    "total": 461
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "28.0 kg (61.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Cactus Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 161,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "maracas": "rhythm instrument",
+    "cactus": "a desert plant"
+  },
+  "pokedexEntries": {
+    "Maractus": [
+      {
+        "game": "black",
+        "desc": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds."
+      },
+      {
+        "game": "white",
+        "desc": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas."
+      },
+      {
+        "game": "sword",
+        "desc": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry."
+      },
+      {
+        "game": "shield",
+        "desc": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert."
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "_id": 426,
+  "key": "drifblim",
+  "name": {
+    "english": "Drifblim",
+    "spanish": "Drifblim",
+    "italian": "Drifblim",
+    "japanese": "フワライド",
+    "chinese": "随风球",
+    "korean": "",
+    "german": "Drifzepeli",
+    "french": "Grodrive"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 144,
+    "legends-arceus": 38,
+    "sword-shield": 125,
+    "isle-of-armor": 136
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Aftermath",
+      "id": 106
+    },
+    "two": {
+      "name": "Unburden",
+      "id": 84
+    },
+    "hidden": {
+      "name": "Flare Boost",
+      "id": 138
+    }
+  },
+  "baseStats": {
+    "hp": 150,
+    "atk": 80,
+    "def": 44,
+    "spatk": 90,
+    "spdef": 54,
+    "spd": 80,
+    "total": 498
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "15.0 kg (33.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 144,
+  "generation": 4,
+  "evs": {},
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Blimp Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 174,
+  "growthRate": "Fluctuating",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "drift": "to float through the air",
+    "blimp": "a floating air ship"
+  },
+  "pokedexEntries": {
+    "Drifblim": [
+      {
+        "game": "diamond",
+        "desc": "It’s drowzy in daytime, but flies off in the evening in big groups. No one knows where they go."
+      },
+      {
+        "game": "pearl",
+        "desc": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere."
+      },
+      {
+        "game": "platinum",
+        "desc": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It can generate and release gas within its body. That’s how it can control the altitude of its drift."
+      },
+      {
+        "game": "black-white",
+        "desc": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They carry people and Pokémon, but the wind can catch them, so there can’t be a fixed destination."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It’s drowsy in daytime, but flies off in the evening in big groups. No one knows where they go."
+      },
+      {
+        "game": "sun",
+        "desc": "There was once an incident in which a man took a trip riding a Drifblim, only to go missing."
+      },
+      {
+        "game": "moon",
+        "desc": "Even while under careful observation, large flocks of Drifblim flying at dusk will inexplicably disappear from view."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "There’s a rumor that if you catch a Drifblim floating on the wind at dusk, you’ll be carried away to the afterlife."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "The raw material for the gas inside its body is souls. When its body starts to deflate, it’s thought to carry away people and Pokémon."
+      },
+      {
+        "game": "sword",
+        "desc": "Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk."
+      },
+      {
+        "game": "shield",
+        "desc": "It grabs people and Pokémon and carries them off somewhere. Where do they go? Nobody knows."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "They’re drowsy in daytime but fly off in the evening in big groups. No one knows where they go."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply—every so often, one will come upon a song or poem devoted to Drifblim."
+      }
+    ]
+  }
+}

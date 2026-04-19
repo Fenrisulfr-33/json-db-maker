@@ -1,0 +1,104 @@
+{
+  "_id": 596,
+  "key": "galvantula",
+  "name": {
+    "english": "Galvantula",
+    "spanish": "Galvantula",
+    "italian": "Galvantula",
+    "japanese": "デンチュラ",
+    "chinese": "电蜘蛛",
+    "korean": "",
+    "german": "Voltula",
+    "french": "Mygavolt"
+  },
+  "pokedexNumber": {
+    "sword-shield": 65,
+    "crown-tundra": 94
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Compound Eyes",
+      "id": 14
+    },
+    "two": {
+      "name": "Unnerve",
+      "id": 127
+    },
+    "hidden": {
+      "name": "Swarm",
+      "id": 68
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 77,
+    "def": 60,
+    "spatk": 97,
+    "spdef": 60,
+    "spd": 108,
+    "total": 472
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "14.3 kg (31.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 208,
+  "generation": 5,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "EleSpider Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 165,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "galvanize": "stimulate by an electric current",
+    "tarantula": "a large, hairy spider"
+  },
+  "pokedexEntries": {
+    "Galvantula": [
+      {
+        "game": "black",
+        "desc": "When attacked, they create an electric barrier by spitting out many electrically charged threads."
+      },
+      {
+        "game": "white",
+        "desc": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When attacked, they create an electric barrier by spitting out many electrically charged threads."
+      },
+      {
+        "game": "sword",
+        "desc": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis."
+      },
+      {
+        "game": "shield",
+        "desc": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying."
+      }
+    ]
+  }
+}

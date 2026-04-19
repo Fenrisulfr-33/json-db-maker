@@ -1,0 +1,91 @@
+{
+  "_id": 779,
+  "key": "bruxish",
+  "name": {
+    "english": "Bruxish",
+    "spanish": "Bruxish",
+    "italian": "Bruxish",
+    "japanese": "ハギギシリ",
+    "chinese": "磨牙彩皮鱼",
+    "korean": "",
+    "german": "Knirfish",
+    "french": "Draïeul"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 335
+  },
+  "type": {
+    "one": "Water",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Dazzling",
+      "id": 219
+    },
+    "two": {
+      "name": "Strong Jaw",
+      "id": 173
+    },
+    "hidden": {
+      "name": "Wonder Skin",
+      "id": 147
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 105,
+    "def": 70,
+    "spatk": 70,
+    "spdef": 70,
+    "spd": 92,
+    "total": 475
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "19.0 kg (41.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Water 2"
+  ],
+  "species": "Gnash Teeth Pokémon",
+  "catchRate": 80,
+  "baseFriendship": 50,
+  "baseExp": 166,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "brux": "to grind one’s teeth",
+    "fish": "marine creature"
+  },
+  "pokedexEntries": {
+    "Bruxish": [
+      {
+        "game": "sun",
+        "desc": "When it unleashes its psychic power from the protuberance on its head, the grating sound of grinding teeth echoes through the area."
+      },
+      {
+        "game": "moon",
+        "desc": "It stuns its prey with psychokinesis and then grinds them to mush with its strong teeth. Even Shellder’s shell is no match for it."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them."
+      }
+    ]
+  }
+}

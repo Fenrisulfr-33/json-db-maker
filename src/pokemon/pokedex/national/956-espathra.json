@@ -1,0 +1,73 @@
+{
+  "_id": 956,
+  "key": "espathra",
+  "name": {
+    "english": "Espathra"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 264
+  },
+  "type": {
+    "one": "Psychic",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Opportunist",
+      "id": 290
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Speed Boost",
+      "id": 3
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 60,
+    "def": 60,
+    "spatk": 101,
+    "spdef": 60,
+    "spd": 105,
+    "total": 481
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "90.0 kg (198.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ostrich Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ESP": "Extra Sensory Perception: psychic power",
+    "telepathic": "mind-reading",
+    "Cleopatra": "Ancient Egyptian queen"
+  },
+  "pokedexEntries": {
+    "Espathra": [
+      {
+        "game": "scarlet",
+        "desc": "It immobilizes opponents by bathing them in psychic power from its large eyes. Despite its appearance, it has a vicious temperament."
+      },
+      {
+        "game": "violet",
+        "desc": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+      }
+    ]
+  }
+}

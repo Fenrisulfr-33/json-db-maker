@@ -1,0 +1,68 @@
+{
+  "_id": 966,
+  "key": "revavroom",
+  "name": {
+    "english": "Revavroom"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 294
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overcoat",
+      "id": 142
+    },
+    "hidden": {
+      "name": "Filter",
+      "id": 111
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 119,
+    "def": 90,
+    "spatk": 54,
+    "spdef": 67,
+    "spd": 90,
+    "total": 500
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "120.0 kg (264.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Multi-Cyl Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "rev": "increase speed of an engine",
+    "vroom": "the sound a car makes"
+  },
+  "pokedexEntries": {
+    "Revavroom": [
+      {
+        "game": "scarlet",
+        "desc": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy."
+      },
+      {
+        "game": "violet",
+        "desc": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+      }
+    ]
+  }
+}

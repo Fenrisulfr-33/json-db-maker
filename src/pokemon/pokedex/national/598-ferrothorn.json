@@ -1,0 +1,101 @@
+{
+  "_id": 598,
+  "key": "ferrothorn",
+  "name": {
+    "english": "Ferrothorn",
+    "spanish": "Ferrothorn",
+    "italian": "Ferrothorn",
+    "japanese": "ナットレイ",
+    "chinese": "坚果哑铃",
+    "korean": "",
+    "german": "Tentantel",
+    "french": "Noacier"
+  },
+  "pokedexNumber": {
+    "sword-shield": 190,
+    "crown-tundra": 180
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Iron Barbs",
+      "id": 160
+    },
+    "hidden": {
+      "name": "Anticipation",
+      "id": 107
+    }
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 94,
+    "def": 131,
+    "spatk": 54,
+    "spdef": 116,
+    "spd": 20,
+    "total": 489
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "110.0 kg (242.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 209,
+  "generation": 5,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Grass",
+    "Mineral"
+  ],
+  "species": "Thorn Pod Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 171,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ferrous": "of or containing iron",
+    "thorn": "sharp spine on a plant"
+  },
+  "pokedexEntries": {
+    "Ferrothorn": [
+      {
+        "game": "black",
+        "desc": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble."
+      },
+      {
+        "game": "white",
+        "desc": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone."
+      },
+      {
+        "game": "shield",
+        "desc": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone."
+      }
+    ]
+  }
+}

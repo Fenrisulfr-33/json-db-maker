@@ -1,0 +1,81 @@
+{
+  "_id": 871,
+  "key": "pincurchin",
+  "name": {
+    "english": "Pincurchin",
+    "spanish": "Pincurchin",
+    "italian": "Pincurchin",
+    "japanese": "バチンウニ",
+    "chinese": "啪嚓海胆",
+    "korean": "",
+    "german": "Britzigel",
+    "french": "Wattapik"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 321,
+    "sword-shield": 353,
+    "isle-of-armor": 126,
+    "crown-tundra": 158
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Lightning Rod",
+      "id": 31
+    },
+    "hidden": {
+      "name": "Electric Surge",
+      "id": 226
+    }
+  },
+  "baseStats": {
+    "hp": 48,
+    "atk": 101,
+    "def": 95,
+    "spatk": 91,
+    "spdef": 85,
+    "spd": 15,
+    "total": 435
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Sea Urchin Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 152,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "pin cushion": "",
+    "sea urchin": ""
+  },
+  "pokedexEntries": {
+    "Pincurchin": [
+      {
+        "game": "sword",
+        "desc": "It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines."
+      },
+      {
+        "game": "shield",
+        "desc": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours."
+      }
+    ]
+  }
+}

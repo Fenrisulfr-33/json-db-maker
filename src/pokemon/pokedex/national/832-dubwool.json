@@ -1,0 +1,83 @@
+{
+  "_id": 832,
+  "key": "dubwool",
+  "name": {
+    "english": "Dubwool",
+    "spanish": "Dubwool",
+    "italian": "Dubwool",
+    "japanese": "バイウールー",
+    "chinese": "毛毛角羊",
+    "korean": "",
+    "german": "Zwollock",
+    "french": "Moumouflon"
+  },
+  "pokedexNumber": {
+    "sword-shield": 35,
+    "crown-tundra": 4
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Fluffy",
+      "id": 218
+    },
+    "two": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "hidden": {
+      "name": "Bulletproof",
+      "id": 171
+    }
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 80,
+    "def": 100,
+    "spatk": 60,
+    "spdef": 90,
+    "spd": 88,
+    "total": 490
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "43.0 kg (94.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 283,
+  "generation": 8,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Sheep Pokémon",
+  "catchRate": 127,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "double": "",
+    "wool": ""
+  },
+  "pokedexEntries": {
+    "Dubwool": [
+      {
+        "game": "sword",
+        "desc": "Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it."
+      },
+      {
+        "game": "shield",
+        "desc": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+      }
+    ]
+  }
+}

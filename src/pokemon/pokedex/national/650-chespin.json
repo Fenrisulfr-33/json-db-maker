@@ -1,0 +1,76 @@
+{
+  "_id": 650,
+  "key": "chespin",
+  "name": {
+    "english": "Chespin",
+    "spanish": "Chespin",
+    "italian": "Chespin",
+    "japanese": "ハリマロン",
+    "chinese": "哈力栗",
+    "korean": "",
+    "german": "Igamaro",
+    "french": "Marisson"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Bulletproof",
+      "id": 171
+    }
+  },
+  "baseStats": {
+    "hp": 56,
+    "atk": 61,
+    "def": 65,
+    "spatk": 48,
+    "spdef": 45,
+    "spd": 38,
+    "total": 313
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "9.0 kg (19.8 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 224,
+  "generation": 6,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Spiny Nut Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 63,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "chestnut": "edible nut in a spiky shell",
+    "porcupine": "spiny rodent"
+  },
+  "pokedexEntries": {
+    "Chespin": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it."
+      }
+    ]
+  }
+}

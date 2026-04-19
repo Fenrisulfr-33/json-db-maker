@@ -1,0 +1,86 @@
+{
+  "_id": 603,
+  "key": "eelektrik",
+  "name": {
+    "english": "Eelektrik",
+    "spanish": "Eelektrik",
+    "italian": "Eelektrik",
+    "japanese": "シビビール",
+    "chinese": "麻麻鳗",
+    "korean": "",
+    "german": "Zapplalek",
+    "french": "Lampéroie"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 342
+  },
+  "type": {
+    "one": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 85,
+    "def": 70,
+    "spatk": 75,
+    "spdef": 70,
+    "spd": 40,
+    "total": 405
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "22.0 kg (48.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 211,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "EleFish Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "eel": "snake-like marine creature",
+    "electric": "of or relating to electricity"
+  },
+  "pokedexEntries": {
+    "Eelektrik": [
+      {
+        "game": "black",
+        "desc": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns."
+      },
+      {
+        "game": "white",
+        "desc": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+      }
+    ]
+  }
+}

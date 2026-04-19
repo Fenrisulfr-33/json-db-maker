@@ -1,0 +1,68 @@
+{
+  "_id": 920,
+  "key": "lokix",
+  "name": {
+    "english": "Lokix"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 15
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "hidden": {
+      "name": "Tinted Lens",
+      "id": 110
+    }
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 102,
+    "def": 78,
+    "spatk": 52,
+    "spdef": 55,
+    "spd": 92,
+    "total": 450
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "17.5 kg (38.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Grasshopper Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 0,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "locust": "large tropical grasshopper",
+    "kicks": "strikes with the foot"
+  },
+  "pokedexEntries": {
+    "Lokix": [
+      {
+        "game": "scarlet",
+        "desc": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order."
+      },
+      {
+        "game": "violet",
+        "desc": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "_id": 455,
+  "key": "carnivine",
+  "name": {
+    "english": "Carnivine",
+    "spanish": "Carnivine",
+    "italian": "Carnivine",
+    "japanese": "マスキッパ",
+    "chinese": "尖牙笼",
+    "korean": "",
+    "german": "Venuflibis",
+    "french": "Vortente"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 92
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 100,
+    "def": 72,
+    "spatk": 90,
+    "spdef": 72,
+    "spd": 46,
+    "total": 454
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "27.0 kg (59.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Bug Catcher Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 159,
+  "growthRate": "Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "carnivore": "meat-eating creature",
+    "vine": "long strands of a plant"
+  },
+  "pokedexEntries": {
+    "Carnivine": [
+      {
+        "game": "diamond",
+        "desc": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey."
+      },
+      {
+        "game": "pearl",
+        "desc": "Hanging from branches using its tentacles, it looks like a plant. It awaits prey, mouth wide open."
+      },
+      {
+        "game": "platinum",
+        "desc": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey."
+      },
+      {
+        "game": "black-white",
+        "desc": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Using its tentacles to lash itself to trees, it lies in wait for prey, luring it close with sweet-smelling drool."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat its prey."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Using its tentacles to hang from branches, it looks like a plant when it is not moving. It awaits prey with its mouth wide open."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Though this is a plant Pokémon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "_id": 289,
+  "key": "slaking",
+  "name": {
+    "english": "Slaking",
+    "spanish": "Slaking",
+    "italian": "Slaking",
+    "japanese": "ケッキング",
+    "chinese": "请假王",
+    "korean": "",
+    "german": "Letarking",
+    "french": "Monaflèmit"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 80
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Truant",
+      "id": 54
+    }
+  },
+  "baseStats": {
+    "hp": 150,
+    "atk": 160,
+    "def": 100,
+    "spatk": 95,
+    "spdef": 65,
+    "spd": 100,
+    "total": 670
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "130.5 kg (287.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 99,
+  "generation": 3,
+  "evs": {},
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Lazy Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 252,
+  "growthRate": "Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "slack": "slow or lazy; full name sounds like ‘slacking’",
+    "king": "royalty"
+  },
+  "pokedexEntries": {
+    "Slaking": [
+      {
+        "game": "ruby",
+        "desc": "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot."
+      },
+      {
+        "game": "sapphire",
+        "desc": "Wherever SLAKING live, rings of over a yard in diameter appear in grassy fields. They are made by the POKéMON as it eats all the grass within reach while lying prone on the ground."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It is the world’s most slothful POKéMON. However, it can exert horrifying power by releasing pent-up energy all at once."
+      },
+      {
+        "game": "emerald",
+        "desc": "Hordes of SLAKING gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "The world’s laziest Pokémon. It moves to another spot when there’s no food left within its reach."
+      },
+      {
+        "game": "black-white",
+        "desc": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat."
+      },
+      {
+        "game": "x",
+        "desc": "The world’s laziest Pokémon. It moves to another spot when there’s no food left within its reach."
+      },
+      {
+        "game": "y",
+        "desc": "It is the world’s most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is the world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back."
+      }
+    ]
+  }
+}

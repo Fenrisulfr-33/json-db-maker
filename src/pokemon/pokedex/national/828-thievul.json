@@ -1,0 +1,82 @@
+{
+  "_id": 828,
+  "key": "thievul",
+  "name": {
+    "english": "Thievul",
+    "spanish": "Thievul",
+    "italian": "Thievul",
+    "japanese": "フォクスライ",
+    "chinese": "狐大盗",
+    "korean": "",
+    "german": "Gaunux",
+    "french": "Roublenard"
+  },
+  "pokedexNumber": {
+    "sword-shield": 30
+  },
+  "type": {
+    "one": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "two": {
+      "name": "Unburden",
+      "id": 84
+    },
+    "hidden": {
+      "name": "Stakeout",
+      "id": 198
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 58,
+    "def": 58,
+    "spatk": 87,
+    "spdef": 92,
+    "spd": 90,
+    "total": 455
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "19.9 kg (43.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 280,
+  "generation": 8,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Fox Pokémon",
+  "catchRate": 127,
+  "baseFriendship": 50,
+  "baseExp": 159,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "thieve": "",
+    "vulpine": ""
+  },
+  "pokedexEntries": {
+    "Thievul": [
+      {
+        "game": "sword",
+        "desc": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it."
+      },
+      {
+        "game": "shield",
+        "desc": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+      }
+    ]
+  }
+}

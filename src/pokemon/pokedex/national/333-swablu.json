@@ -1,0 +1,137 @@
+{
+  "_id": 333,
+  "key": "swablu",
+  "name": {
+    "english": "Swablu",
+    "spanish": "Swablu",
+    "italian": "Swablu",
+    "japanese": "チルット",
+    "chinese": "青绵鸟",
+    "korean": "",
+    "german": "Wablu",
+    "french": "Tylton"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 219,
+    "crown-tundra": 35
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Natural Cure",
+      "id": 30
+    },
+    "hidden": {
+      "name": "Cloud Nine",
+      "id": 13
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 40,
+    "def": 60,
+    "spatk": 40,
+    "spdef": 75,
+    "spd": 50,
+    "total": 310
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "1.2 kg (2.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 114,
+  "generation": 3,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "species": "Cotton Bird Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 62,
+  "growthRate": "Erratic",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "swab": "a piece of cotton (referring to Swablu’s wings)",
+    "blue": "a color"
+  },
+  "pokedexEntries": {
+    "Swablu": [
+      {
+        "game": "ruby",
+        "desc": "SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this POKéMON finds a stream and showers itself."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty."
+      },
+      {
+        "game": "emerald",
+        "desc": "A POKéMON that has wings like cottony clouds. After enduring winter, in which little food is available, SWABLU flocks move closer to towns in the spring."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "Its wings are like cotton tufts. If it perches on someone’s head, it looks like a cotton hat."
+      },
+      {
+        "game": "platinum",
+        "desc": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads."
+      },
+      {
+        "game": "black-white",
+        "desc": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "For some reason, it likes to land on people’s heads softly and act like it’s a hat."
+      },
+      {
+        "game": "x",
+        "desc": "For some reason, it likes to land on people’s heads softly and act like it’s a hat."
+      },
+      {
+        "game": "y",
+        "desc": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself."
+      },
+      {
+        "game": "sword",
+        "desc": "Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings."
+      },
+      {
+        "game": "shield",
+        "desc": "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its wings are like cotton tufts. If it perches on someone’s head, it looks like a cotton hat."
+      }
+    ]
+  }
+}

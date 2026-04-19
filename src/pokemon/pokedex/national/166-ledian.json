@@ -1,0 +1,151 @@
+{
+  "_id": 166,
+  "key": "ledian",
+  "name": {
+    "english": "Ledian",
+    "spanish": "Ledian",
+    "italian": "Ledian",
+    "japanese": "レディアン",
+    "chinese": "安瓢虫",
+    "korean": "",
+    "german": "Ledian",
+    "french": "Coxyclaque"
+  },
+  "pokedexNumber": {
+    "crystal": 31,
+    "gold-silver": 31
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Early Bird",
+      "id": 48
+    },
+    "hidden": {
+      "name": "Iron Fist",
+      "id": 89
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 35,
+    "def": 50,
+    "spatk": 55,
+    "spdef": 110,
+    "spd": 85,
+    "total": 390
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "35.6 kg (78.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 59,
+  "generation": 2,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Five Star Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 137,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "ladybird": "a species of insect (aka ladybug)"
+  },
+  "pokedexEntries": {
+    "Ledian": [
+      {
+        "game": "gold",
+        "desc": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+      },
+      {
+        "game": "silver",
+        "desc": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky."
+      },
+      {
+        "game": "crystal",
+        "desc": "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy."
+      },
+      {
+        "game": "fire-red",
+        "desc": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+      },
+      {
+        "game": "emerald",
+        "desc": "It is said that in lands with clean air, where the stars fill the sky, there live many LEDIAN. For good reason, they use the light of the stars as energy."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
+      },
+      {
+        "game": "x",
+        "desc": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+      },
+      {
+        "game": "y",
+        "desc": "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy."
+      },
+      {
+        "game": "sun",
+        "desc": "While it’s believed that starlight provides it with energy, this Pokémon also loves to eat berries. In the daytime, it curls up in the grass to sleep."
+      },
+      {
+        "game": "moon",
+        "desc": "In battle, it throws punches with all four arms. The power of each individual blow is piddly, so it aims to win by quantity rather than quality."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
+      }
+    ]
+  }
+}

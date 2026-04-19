@@ -1,0 +1,118 @@
+{
+  "_id": 568,
+  "key": "trubbish",
+  "name": {
+    "english": "Trubbish",
+    "spanish": "Trubbish",
+    "italian": "Trubbish",
+    "japanese": "ヤブクロン",
+    "chinese": "破破袋",
+    "korean": "",
+    "german": "Unratütox",
+    "french": "Miamiasme"
+  },
+  "pokedexNumber": {
+    "sword-shield": 157
+  },
+  "type": {
+    "one": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Stench",
+      "id": 1
+    },
+    "two": {
+      "name": "Sticky Hold",
+      "id": 60
+    },
+    "hidden": {
+      "name": "Aftermath",
+      "id": 106
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 62,
+    "spatk": 40,
+    "spdef": 62,
+    "spd": 65,
+    "total": 329
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "31.0 kg (68.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 197,
+  "generation": 5,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Trash Bag Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "trash": "waste, garbage",
+    "rubbish": "waste, garbage"
+  },
+  "pokedexEntries": {
+    "Trubbish": [
+      {
+        "game": "black",
+        "desc": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places."
+      },
+      {
+        "game": "white",
+        "desc": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Wanting more garbage, they follow people who litter. They always belch poison gas."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places."
+      },
+      {
+        "game": "sun",
+        "desc": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit."
+      },
+      {
+        "game": "moon",
+        "desc": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation."
+      },
+      {
+        "game": "sword",
+        "desc": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish."
+      }
+    ]
+  }
+}

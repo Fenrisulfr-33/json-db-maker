@@ -1,0 +1,68 @@
+{
+  "_id": 907,
+  "key": "floragato",
+  "name": {
+    "english": "Floragato"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 2
+  },
+  "type": {
+    "one": "Grass",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Protean",
+      "id": 168
+    }
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 80,
+    "def": 63,
+    "spatk": 60,
+    "spdef": 63,
+    "spd": 83,
+    "total": 410
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "12.2 kg (26.9 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Grass Cat Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "flora": "relating to plants",
+    "gato": "Spanish for ‘cat’"
+  },
+  "pokedexEntries": {
+    "Floragato": [
+      {
+        "game": "scarlet",
+        "desc": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents."
+      },
+      {
+        "game": "violet",
+        "desc": "The hardness of Floragato’s fur depends on the Pokémon’s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_id": 767,
+  "key": "wimpod",
+  "name": {
+    "english": "Wimpod",
+    "spanish": "Wimpod",
+    "italian": "Wimpod",
+    "japanese": "コソクムシ",
+    "chinese": "胆小虫",
+    "korean": "",
+    "german": "Reißlaus",
+    "french": "Sovkipou"
+  },
+  "pokedexNumber": {
+    "sword-shield": 232,
+    "isle-of-armor": 124
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Wimp Out",
+      "id": 193
+    }
+  },
+  "baseStats": {
+    "hp": 25,
+    "atk": 35,
+    "def": 40,
+    "spatk": 20,
+    "spdef": 30,
+    "spd": 80,
+    "total": 230
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "12.0 kg (26.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 267,
+  "generation": 7,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Bug",
+    "Water 3"
+  ],
+  "species": "Turn Tail Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 46,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "wimp": "coward, weakling",
+    "isopod": "marine invertebrate with an exoskeleton"
+  },
+  "pokedexEntries": {
+    "Wimpod": [
+      {
+        "game": "sun",
+        "desc": "This Pokémon is a coward. As it desperately dashes off, the flailing of its many legs leaves a sparkling clean path in its wake."
+      },
+      {
+        "game": "moon",
+        "desc": "Its habitat varies from beaches to seabeds. A natural scavenger, it will gleefully chow down on anything edible, no matter how rotten."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It will pick up anything it finds on the ground. Sometimes it finds coins, so Murkrow and Meowth will go after it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it."
+      },
+      {
+        "game": "sword",
+        "desc": "It’s nature’s cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean."
+      },
+      {
+        "game": "shield",
+        "desc": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy’s presence."
+      }
+    ]
+  }
+}

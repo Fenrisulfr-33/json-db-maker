@@ -1,0 +1,133 @@
+{
+  "_id": 154,
+  "key": "meganium",
+  "name": {
+    "english": "Meganium",
+    "spanish": "Meganium",
+    "italian": "Meganium",
+    "japanese": "メガニウム",
+    "chinese": "大竺葵",
+    "korean": "",
+    "german": "Meganie",
+    "french": "Méganium"
+  },
+  "pokedexNumber": {
+    "crystal": 3,
+    "gold-silver": 3
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Leaf Guard",
+      "id": 102
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 82,
+    "def": 100,
+    "spatk": 83,
+    "spdef": 100,
+    "spd": 80,
+    "total": 525
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "100.5 kg (221.6 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 54,
+  "generation": 2,
+  "evs": {
+    "def": 1,
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Herb Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 236,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "mega": "large, biggest",
+    "geranium": "a type of plant"
+  },
+  "pokedexEntries": {
+    "Meganium": [
+      {
+        "game": "gold",
+        "desc": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+      },
+      {
+        "game": "silver",
+        "desc": "MEGANIUM’s breath has the power to revive dead grass and plants. It can make them healthy again."
+      },
+      {
+        "game": "crystal",
+        "desc": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "The fragrance of MEGANIUM’s flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe’s fighting spirit."
+      },
+      {
+        "game": "fire-red",
+        "desc": "MEGANIUM’s breath has the power to revive dead grass and plants. It can make them healthy again."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+      },
+      {
+        "game": "emerald",
+        "desc": "The fragrance of a MEGANIUM’s flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe’s fighting spirit."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its breath has the fantastic ability to revive dead plants and flowers."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "MEGANIUM’s breath has the power to revive dead grass and plants. It can make them healthy again."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its breath has the fantastic ability to revive dead plants and flowers."
+      },
+      {
+        "game": "x",
+        "desc": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+      },
+      {
+        "game": "y",
+        "desc": "Meganium’s breath has the power to revive dead grass and plants. It can make them healthy again."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its breath has the fantastic ability to revive dead plants and flowers."
+      }
+    ]
+  }
+}

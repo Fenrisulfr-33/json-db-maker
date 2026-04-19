@@ -1,0 +1,105 @@
+{
+  "_id": 528,
+  "key": "swoobat",
+  "name": {
+    "english": "Swoobat",
+    "spanish": "Swoobat",
+    "italian": "Swoobat",
+    "japanese": "ココロモリ",
+    "chinese": "心蝙蝠",
+    "korean": "",
+    "german": "Fletiamo",
+    "french": "Rhinolove"
+  },
+  "pokedexNumber": {
+    "sword-shield": 175,
+    "isle-of-armor": 152
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Unaware",
+      "id": 109
+    },
+    "two": {
+      "name": "Klutz",
+      "id": 103
+    },
+    "hidden": {
+      "name": "Simple",
+      "id": 86
+    }
+  },
+  "baseStats": {
+    "hp": 67,
+    "atk": 57,
+    "def": 55,
+    "spatk": 77,
+    "spdef": 55,
+    "spd": 114,
+    "total": 425
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "10.5 kg (23.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 182,
+  "generation": 5,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Flying",
+    "Field"
+  ],
+  "species": "Courting Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 149,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "swoon": "to be seduced",
+    "bat": "cave-dwelling flying mammal"
+  },
+  "pokedexEntries": {
+    "Swoobat": [
+      {
+        "game": "black",
+        "desc": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks."
+      },
+      {
+        "game": "white",
+        "desc": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift."
+      },
+      {
+        "game": "sword",
+        "desc": "Emitting powerful sound waves tires it out. Afterward, it won’t be able to fly for a little while."
+      },
+      {
+        "game": "shield",
+        "desc": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck."
+      }
+    ]
+  }
+}

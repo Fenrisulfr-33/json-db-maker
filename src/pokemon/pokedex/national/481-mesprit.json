@@ -1,0 +1,108 @@
+{
+  "_id": 481,
+  "key": "mesprit",
+  "name": {
+    "english": "Mesprit",
+    "spanish": "Mesprit",
+    "italian": "Mesprit",
+    "japanese": "エムリット",
+    "chinese": "艾姆利多",
+    "korean": "",
+    "german": "Vesprit",
+    "french": "Créfollet"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 226
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 105,
+    "def": 105,
+    "spatk": 105,
+    "spdef": 105,
+    "spd": 80,
+    "total": 580
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.3 kg (0.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "atk": 1,
+    "spatk": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Emotion Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 140,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 80,
+  "nameOrigin": {
+    "me": "personal pronoun",
+    "sprite": "a small, often mischievous fairy"
+  },
+  "pokedexEntries": {
+    "Mesprit": [
+      {
+        "game": "diamond",
+        "desc": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy."
+      },
+      {
+        "game": "pearl",
+        "desc": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface."
+      },
+      {
+        "game": "platinum",
+        "desc": "When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "This Pokémon is said to have endowed the human heart with emotions, such as sorrow and joy."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It is known as the Being of Emotion. It taught humans the nobility of sorrow, pain, and joy."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Known as the Being of Emotion. In legend, this Pokémon was feared, as any who showed disrespect would have their emotions thrown into disarray."
+      }
+    ]
+  }
+}

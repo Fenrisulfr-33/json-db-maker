@@ -1,0 +1,72 @@
+{
+  "_id": 938,
+  "key": "tadbulb",
+  "name": {
+    "english": "Tadbulb"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 170
+  },
+  "type": {
+    "one": "Electric",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "two": {
+      "name": "Static",
+      "id": 9
+    },
+    "hidden": {
+      "name": "Damp",
+      "id": 6
+    }
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 31,
+    "def": 41,
+    "spatk": 59,
+    "spdef": 35,
+    "spd": 45,
+    "total": 272
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.4 kg (0.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "EleTadpole Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tadpole": "a baby frog/toad",
+    "bulb": "an electric light"
+  },
+  "pokedexEntries": {
+    "Tadbulb": [
+      {
+        "game": "scarlet",
+        "desc": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies."
+      },
+      {
+        "game": "violet",
+        "desc": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+      }
+    ]
+  }
+}

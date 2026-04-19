@@ -1,0 +1,68 @@
+{
+  "_id": 930,
+  "key": "arboliva",
+  "name": {
+    "english": "Arboliva"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 86
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Seed Sower",
+      "id": 269
+    },
+    "hidden": {
+      "name": "Harvest",
+      "id": 139
+    }
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 69,
+    "def": 90,
+    "spatk": 125,
+    "spdef": 109,
+    "spd": 39,
+    "total": 510
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "48.2 kg (106.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Olive Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "arboretum": "tree place",
+    "olive": "small bitter fruit"
+  },
+  "pokedexEntries": {
+    "Arboliva": [
+      {
+        "game": "scarlet",
+        "desc": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "_id": 520,
+  "key": "tranquill",
+  "name": {
+    "english": "Tranquill",
+    "spanish": "Tranquill",
+    "italian": "Tranquill",
+    "japanese": "ハトーボー",
+    "chinese": "咕咕鸽",
+    "korean": "",
+    "german": "Navitaub",
+    "french": "Colombeau"
+  },
+  "pokedexNumber": {
+    "sword-shield": 27
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Big Pecks",
+      "id": 145
+    },
+    "two": {
+      "name": "Super Luck",
+      "id": 105
+    },
+    "hidden": {
+      "name": "Rivalry",
+      "id": 79
+    }
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 77,
+    "def": 62,
+    "spatk": 50,
+    "spdef": 42,
+    "spd": 65,
+    "total": 358
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "15.0 kg (33.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 179,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Wild Pigeon Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 125,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "tranquil": "quiet, peaceful",
+    "quill": "feather used for writing with ink"
+  },
+  "pokedexEntries": {
+    "Tranquill": [
+      {
+        "game": "black",
+        "desc": "It can return to its Trainer’s location regardless of the distance separating them."
+      },
+      {
+        "game": "white",
+        "desc": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer."
+      },
+      {
+        "game": "sword",
+        "desc": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest."
+      },
+      {
+        "game": "shield",
+        "desc": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners."
+      }
+    ]
+  }
+}

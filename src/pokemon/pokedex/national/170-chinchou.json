@@ -1,0 +1,167 @@
+{
+  "_id": 170,
+  "key": "chinchou",
+  "name": {
+    "english": "Chinchou",
+    "spanish": "Chinchou",
+    "italian": "Chinchou",
+    "japanese": "チョンチー",
+    "chinese": "灯笼鱼",
+    "korean": "",
+    "german": "Lampi",
+    "french": "Loupio"
+  },
+  "pokedexNumber": {
+    "sword-shield": 220,
+    "isle-of-armor": 188,
+    "crystal": 176,
+    "gold-silver": 176
+  },
+  "type": {
+    "one": "Water",
+    "two": "Electric"
+  },
+  "abilities": {
+    "one": {
+      "name": "Volt Absorb",
+      "id": 10
+    },
+    "two": {
+      "name": "Illuminate",
+      "id": 35
+    },
+    "hidden": {
+      "name": "Water Absorb",
+      "id": 11
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 38,
+    "def": 38,
+    "spatk": 56,
+    "spdef": 56,
+    "spd": 67,
+    "total": 330
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "12.0 kg (26.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 61,
+  "generation": 2,
+  "evs": {},
+  "eggGroups": [
+    "Water 2"
+  ],
+  "species": "Angler Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "chochin": "Japanese for ‘lantern’"
+  },
+  "pokedexEntries": {
+    "Chinchou": [
+      {
+        "game": "gold",
+        "desc": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies."
+      },
+      {
+        "game": "silver",
+        "desc": "On the dark ocean floor, its only means of communication is its constantly flashing lights."
+      },
+      {
+        "game": "crystal",
+        "desc": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them."
+      },
+      {
+        "game": "ruby",
+        "desc": "CHINCHOU lets loose positive and negative electrical charges from its two antennas to make its prey faint. This POKéMON flashes its electric lights to exchange signals with others."
+      },
+      {
+        "game": "sapphire",
+        "desc": "CHINCHOU’s two antennas are filled with cells that generate strong electricity. This POKéMON’s cells create so much electrical power, it even makes itself tingle slightly."
+      },
+      {
+        "game": "fire-red",
+        "desc": "On the dark ocean floor, its only means of communication is its constantly flashing lights."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies."
+      },
+      {
+        "game": "emerald",
+        "desc": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight’s reach."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It discharges positive and negative electricity from its antenna tips to shock its foes."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "On the dark ocean floor, its only means of communication is its constantly flashing lights."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It discharges positive and negative electricity from its antenna tips to shock its foes."
+      },
+      {
+        "game": "x",
+        "desc": "On the dark ocean floor, its only means of communication is its constantly flashing lights."
+      },
+      {
+        "game": "y",
+        "desc": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pokémon flashes its electric lights to exchange signals with others."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Chinchou’s two antennas are filled with cells that generate strong electricity. This Pokémon’s cells create so much electrical power, it even makes itself tingle slightly."
+      },
+      {
+        "game": "sun",
+        "desc": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking."
+      },
+      {
+        "game": "moon",
+        "desc": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its two antennae glow softly to lure in prey, making it a useful Pokémon for night fishing."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Chinchou blink their shining antennae at one another to claim their respective turf."
+      },
+      {
+        "game": "sword",
+        "desc": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them."
+      },
+      {
+        "game": "shield",
+        "desc": "On the dark ocean floor, its only means of communication is its constantly flashing lights."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It discharges positive and negative electricity from the tips of its antennae to shock its foes."
+      }
+    ]
+  }
+}

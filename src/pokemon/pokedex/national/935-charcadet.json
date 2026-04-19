@@ -1,0 +1,68 @@
+{
+  "_id": 935,
+  "key": "charcadet",
+  "name": {
+    "english": "Charcadet"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 165
+  },
+  "type": {
+    "one": "Fire",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "hidden": {
+      "name": "Flame Body",
+      "id": 49
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 40,
+    "spatk": 50,
+    "spdef": 40,
+    "spd": 35,
+    "total": 255
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "10.5 kg (23.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Fire Child Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "char": "to burn or singe",
+    "cadet": "a trainee in the police or armed forces"
+  },
+  "pokedexEntries": {
+    "Charcadet": [
+      {
+        "game": "scarlet",
+        "desc": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents."
+      },
+      {
+        "game": "violet",
+        "desc": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+      }
+    ]
+  }
+}

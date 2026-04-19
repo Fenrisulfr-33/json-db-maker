@@ -1,0 +1,79 @@
+{
+  "_id": 853,
+  "key": "grapploct",
+  "name": {
+    "english": "Grapploct",
+    "spanish": "Grapploct",
+    "italian": "Grapploct",
+    "japanese": "オトスパス",
+    "chinese": "八爪武师",
+    "korean": "",
+    "german": "Kaocto",
+    "french": "Krakos"
+  },
+  "pokedexNumber": {
+    "sword-shield": 352,
+    "isle-of-armor": 130
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Limber",
+      "id": 7
+    },
+    "hidden": {
+      "name": "Technician",
+      "id": 101
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 118,
+    "def": 90,
+    "spatk": 70,
+    "spdef": 80,
+    "spd": 42,
+    "total": 480
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "39.0 kg (86.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 292,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Tantrum Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "grapple": "",
+    "octopus": "marine creature with eight tentacles"
+  },
+  "pokedexEntries": {
+    "Grapploct": [
+      {
+        "game": "sword",
+        "desc": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful."
+      },
+      {
+        "game": "shield",
+        "desc": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
+      }
+    ]
+  }
+}

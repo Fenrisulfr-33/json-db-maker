@@ -1,0 +1,134 @@
+{
+  "_id": 453,
+  "key": "croagunk",
+  "name": {
+    "english": "Croagunk",
+    "spanish": "Croagunk",
+    "italian": "Croagunk",
+    "japanese": "グレッグル",
+    "chinese": "不良蛙",
+    "korean": "",
+    "german": "Glibunkel",
+    "french": "Cradopaud"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 175,
+    "legends-arceus": 99,
+    "sword-shield": 222,
+    "isle-of-armor": 93
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Anticipation",
+      "id": 107
+    },
+    "two": {
+      "name": "Dry Skin",
+      "id": 87
+    },
+    "hidden": {
+      "name": "Poison Touch",
+      "id": 143
+    }
+  },
+  "baseStats": {
+    "hp": 48,
+    "atk": 61,
+    "def": 40,
+    "spatk": 61,
+    "spdef": 40,
+    "spd": 50,
+    "total": 300
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "23.0 kg (50.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 159,
+  "generation": 4,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Toxic Mouth Pokémon",
+  "catchRate": 140,
+  "baseFriendship": 100,
+  "baseExp": 60,
+  "growthRate": "Medium Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "croak": "the sound a frog makes",
+    "gunk": "slimy or oily matter"
+  },
+  "pokedexEntries": {
+    "Croagunk": [
+      {
+        "game": "diamond",
+        "desc": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers."
+      },
+      {
+        "game": "pearl",
+        "desc": "Inflating its poison sacs, it makes an eerie blubbering sound for intimidation."
+      },
+      {
+        "game": "platinum",
+        "desc": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower-back pain."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower back pain."
+      },
+      {
+        "game": "black-white",
+        "desc": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab."
+      },
+      {
+        "game": "sword",
+        "desc": "It makes frightening noises with its poison-filled cheek sacs. When opponents flinch, Croagunk hits them with a poison jab."
+      },
+      {
+        "game": "shield",
+        "desc": "Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It inflates its poison sacs and makes a blubbering sound to intimidate foes."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features."
+      }
+    ]
+  }
+}

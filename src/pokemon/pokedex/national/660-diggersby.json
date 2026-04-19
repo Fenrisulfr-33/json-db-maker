@@ -1,0 +1,89 @@
+{
+  "_id": 660,
+  "key": "diggersby",
+  "name": {
+    "english": "Diggersby",
+    "spanish": "Diggersby",
+    "italian": "Diggersby",
+    "japanese": "ホルード",
+    "chinese": "掘地兔",
+    "korean": "",
+    "german": "Grebbit",
+    "french": "Excavarenne"
+  },
+  "pokedexNumber": {
+    "sword-shield": 49
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "two": {
+      "name": "Cheek Pouch",
+      "id": 167
+    },
+    "hidden": {
+      "name": "Huge Power",
+      "id": 37
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 56,
+    "def": 77,
+    "spatk": 50,
+    "spdef": 77,
+    "spd": 78,
+    "total": 423
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "42.4 kg (93.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 227,
+  "generation": 6,
+  "evs": {},
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Digging Pokémon",
+  "catchRate": 127,
+  "baseFriendship": 50,
+  "baseExp": 148,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "digger": "one who excavates earth",
+    "bunny": "slang for rabbit, a small mammal with long ears"
+  },
+  "pokedexEntries": {
+    "Diggersby": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it’s finished digging, it lounges lazily."
+      },
+      {
+        "game": "sword",
+        "desc": "With power equal to an excavator, it can dig through dense bedrock. It’s a huge help during tunnel construction."
+      },
+      {
+        "game": "shield",
+        "desc": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon."
+      }
+    ]
+  }
+}

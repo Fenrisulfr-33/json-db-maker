@@ -1,0 +1,157 @@
+{
+  "_id": 8,
+  "key": "wartortle",
+  "name": {
+    "english": "Wartortle",
+    "spanish": "Wartortle",
+    "italian": "Wartortle",
+    "japanese": "カメール",
+    "chinese": "卡咪龟",
+    "korean": "",
+    "german": "Schillok",
+    "french": "Carabaffe"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 72,
+    "crystal": 238,
+    "gold-silver": 238,
+    "yellow": 8,
+    "red-blue": 8
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Rain Dish",
+      "id": 44
+    }
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 63,
+    "def": 80,
+    "spatk": 65,
+    "spdef": 80,
+    "spd": 58,
+    "total": 405
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "22.5 kg (49.6 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 3,
+  "generation": 1,
+  "evs": {
+    "def": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Water 1"
+  ],
+  "species": "Turtle Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "war": "epic battle",
+    "tortoise": "large reptile with a protective shell",
+    "turtle": "water-based reptile"
+  },
+  "pokedexEntries": {
+    "Wartortle": [
+      {
+        "game": "red-blue",
+        "desc": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
+      },
+      {
+        "game": "yellow",
+        "desc": "When tapped, this POKéMON will pull in its head, but its tail will still stick out a little bit."
+      },
+      {
+        "game": "gold",
+        "desc": "It is recognized as a symbol of longevity. If its shell has algae on it, that WARTORTLE is very old."
+      },
+      {
+        "game": "silver",
+        "desc": "It cleverly controls its furry ears and tail to maintain its balance while swimming."
+      },
+      {
+        "game": "crystal",
+        "desc": "Its long, furry tail is a symbol of longevity, making it quite popular among older people."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as WARTORTLE ages. The scratches on its shell are evidence of this POKéMON’s toughness as a battler."
+      },
+      {
+        "game": "fire-red",
+        "desc": "This POKéMON is very popular as a pet. Its fur-covered tail is a symbol of its longevity."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this POKéMON’s toughness in battle."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It is a well-established symbol of longevity. If its shell has algae on it, that WARTORTLE is very old."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It cleverly controls its furry ears and tail to maintain its balance while swimming."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+      },
+      {
+        "game": "x",
+        "desc": "When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit."
+      },
+      {
+        "game": "y",
+        "desc": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "When tapped on its head, this Pokémon will pull it in, but its tail will stick out a little bit."
+      },
+      {
+        "game": "sword",
+        "desc": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old."
+      },
+      {
+        "game": "shield",
+        "desc": "It cleverly controls its furry ears and tail to maintain its balance while swimming."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+      }
+    ]
+  }
+}

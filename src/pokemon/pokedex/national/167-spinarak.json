@@ -1,0 +1,152 @@
+{
+  "_id": 167,
+  "key": "spinarak",
+  "name": {
+    "english": "Spinarak",
+    "spanish": "Spinarak",
+    "italian": "Spinarak",
+    "japanese": "イトマル",
+    "chinese": "圆丝蛛",
+    "korean": "",
+    "german": "Webarak",
+    "french": "Mimigal"
+  },
+  "pokedexNumber": {
+    "crystal": 32,
+    "gold-silver": 32
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Insomnia",
+      "id": 15
+    },
+    "hidden": {
+      "name": "Sniper",
+      "id": 97
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 60,
+    "def": 40,
+    "spatk": 40,
+    "spdef": 40,
+    "spd": 30,
+    "total": 250
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "8.5 kg (18.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 60,
+  "generation": 2,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "String Spit Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 50,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "spinneret": "spider silk secreter",
+    "arachnid": "a spider"
+  },
+  "pokedexEntries": {
+    "Spinarak": [
+      {
+        "game": "gold",
+        "desc": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+      },
+      {
+        "game": "silver",
+        "desc": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped."
+      },
+      {
+        "game": "crystal",
+        "desc": "If prey becomes ensnared in its nest of spun string, it waits motionlessly until it becomes dark."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "The web spun by SPINARAK can be considered its second nervous system. It is said that this POKéMON can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web’s strands."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+      },
+      {
+        "game": "emerald",
+        "desc": "The web it spins can be considered its second nervous system. It is said that a SPINARAK determines its prey by the tiny vibrations it feels through the web."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive."
+      },
+      {
+        "game": "x",
+        "desc": "It spins a web using fine--but durable--thread. It then waits patiently for prey to be trapped."
+      },
+      {
+        "game": "y",
+        "desc": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "The web spun by Spinarak can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web’s strands."
+      },
+      {
+        "game": "sun",
+        "desc": "It waits intently until its preferred prey, Cutiefly, gets caught in its web. In fact, it’s quite a patient Pokémon."
+      },
+      {
+        "game": "moon",
+        "desc": "Some fishermen weave its sturdy thread into nets to catch fish Pokémon."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "With threads from its mouth, it fashions sturdy webs that won’t break even if you set a rock on them."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It sets a trap by spinning a web with thin but strong thread. It waits motionlessly for prey to arrive."
+      }
+    ]
+  }
+}

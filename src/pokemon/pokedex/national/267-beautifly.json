@@ -1,0 +1,135 @@
+{
+  "_id": 267,
+  "key": "beautifly",
+  "name": {
+    "english": "Beautifly",
+    "spanish": "Beautifly",
+    "italian": "Beautifly",
+    "japanese": "アゲハント",
+    "chinese": "狩猎凤蝶",
+    "korean": "",
+    "german": "Papinella",
+    "french": "Charmillon"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 20
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "hidden": {
+      "name": "Rivalry",
+      "id": 79
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 70,
+    "def": 50,
+    "spatk": 100,
+    "spdef": 50,
+    "spd": 65,
+    "total": 395
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "28.4 kg (62.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 91,
+  "generation": 3,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Butterfly Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 178,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "beautiful": "pleasing to the eye",
+    "butterfly": "a species of flying insect"
+  },
+  "pokedexEntries": {
+    "Beautifly": [
+      {
+        "game": "ruby",
+        "desc": "BEAUTIFLY’s favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen."
+      },
+      {
+        "game": "sapphire",
+        "desc": "BEAUTIFLY has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This POKéMON rides the spring winds as it flits around gathering pollen."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered."
+      },
+      {
+        "game": "diamond",
+        "desc": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids."
+      },
+      {
+        "game": "pearl",
+        "desc": "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage."
+      },
+      {
+        "game": "platinum",
+        "desc": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen."
+      },
+      {
+        "game": "x",
+        "desc": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth."
+      },
+      {
+        "game": "y",
+        "desc": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Beautifly’s favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "A colorful and incredibly beautiful but also greedy Pokémon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar."
+      }
+    ]
+  }
+}

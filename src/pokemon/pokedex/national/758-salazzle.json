@@ -1,0 +1,98 @@
+{
+  "_id": 758,
+  "key": "salazzle",
+  "name": {
+    "english": "Salazzle",
+    "spanish": "Salazzle",
+    "italian": "Salazzle",
+    "japanese": "エンニュート",
+    "chinese": "焰后蜥",
+    "korean": "",
+    "german": "Amfira",
+    "french": "Malamandre"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 121,
+    "sword-shield": 245,
+    "isle-of-armor": 160
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Corrosion",
+      "id": 212
+    },
+    "hidden": {
+      "name": "Oblivious",
+      "id": 12
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 64,
+    "def": 60,
+    "spatk": 111,
+    "spdef": 60,
+    "spd": 117,
+    "total": 480
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "22.2 kg (48.9 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 264,
+  "generation": 7,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Toxic Lizard Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "salamander": "lizard-like amphibian (also a mythical fire-dwelling creature)",
+    "dazzle": "impress, attract"
+  },
+  "pokedexEntries": {
+    "Salazzle": [
+      {
+        "game": "sun",
+        "desc": "For some reason, only females have been found. It creates a reverse harem of male Salandit that it lives with."
+      },
+      {
+        "game": "moon",
+        "desc": "Filled with pheromones, its poisonous gas can be diluted to use in the production of luscious perfumes."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Salazzle lives deep in caves and forces the Salandit it has attracted with its pheromones to serve it."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It punishes Salandit that couldn’t bring it food with a fierce slap of its flame-spewing palm."
+      },
+      {
+        "game": "sword",
+        "desc": "Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit."
+      },
+      {
+        "game": "shield",
+        "desc": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it."
+      }
+    ]
+  }
+}

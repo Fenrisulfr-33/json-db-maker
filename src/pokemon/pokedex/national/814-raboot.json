@@ -1,0 +1,78 @@
+{
+  "_id": 814,
+  "key": "raboot",
+  "name": {
+    "english": "Raboot",
+    "spanish": "Raboot",
+    "italian": "Raboot",
+    "japanese": "ラビフット",
+    "chinese": "腾蹴小将",
+    "korean": "",
+    "german": "Kickerlo",
+    "french": "Lapyro"
+  },
+  "pokedexNumber": {
+    "sword-shield": 5
+  },
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Libero",
+      "id": 236
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 86,
+    "def": 60,
+    "spatk": 55,
+    "spdef": 60,
+    "spd": 94,
+    "total": 420
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "9.0 kg (19.8 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 275,
+  "generation": 8,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Rabbit Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 147,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "rabbit": "",
+    "boot": ""
+  },
+  "pokedexEntries": {
+    "Raboot": [
+      {
+        "game": "sword",
+        "desc": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves."
+      },
+      {
+        "game": "shield",
+        "desc": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+      }
+    ]
+  }
+}

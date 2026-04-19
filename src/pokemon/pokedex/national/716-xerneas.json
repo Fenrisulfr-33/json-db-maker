@@ -1,0 +1,70 @@
+{
+  "_id": 716,
+  "key": "xerneas",
+  "name": {
+    "english": "Xerneas",
+    "spanish": "Xerneas",
+    "italian": "Xerneas",
+    "japanese": "ゼルネアス",
+    "chinese": "哲尔尼亚斯",
+    "korean": "",
+    "german": "Xerneas",
+    "french": "Xerneas"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Fairy Aura",
+      "id": 187
+    }
+  },
+  "baseStats": {
+    "hp": 126,
+    "atk": 131,
+    "def": 95,
+    "spatk": 131,
+    "spdef": 98,
+    "spd": 99,
+    "total": 680
+  },
+  "info": {
+    "height": "3.0 m (9′10″)",
+    "weight": "215.0 kg (474.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 6,
+  "evs": {},
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Life Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "X": "letter; game in which Xerneas appears",
+    "Cernunnos": "Celtic god based on a deer (itself from the Latin ‘cervus’)"
+  },
+  "pokedexEntries": {
+    "Xerneas": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life."
+      }
+    ]
+  }
+}

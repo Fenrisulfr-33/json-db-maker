@@ -1,0 +1,52 @@
+{
+    "_id": 1022,
+    "key": "iron-boulder",
+    "name": {
+        "english": "Iron Boulder"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Rock",
+        "two": "Psychic"
+    },
+    "abilities": {
+        "one": {
+            "name": "Quark Drive",
+            "id": 282
+        }
+    },
+    "baseStats": {
+        "hp": 90,
+        "atk": 120,
+        "def": 80,
+        "spatk": 68,
+        "spdef": 108,
+        "spd": 124,
+        "total": 590
+    },
+    "info": {
+        "height": "1.5 m (4′11″)",
+        "weight": "162.5 kg (358.3 lbs)"
+    },
+    "gender": {
+        "male": "",
+        "female": "",
+        "genderless": true
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "spd": 3
+    },
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "species": "Paradox Pokémon",
+    "catchRate": 10,
+    "baseFriendship": 0, 
+    "baseExp": 0,
+    "growthRate": "Slow",
+    "eggCycles": 0,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

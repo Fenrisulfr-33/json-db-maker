@@ -1,0 +1,101 @@
+{
+  "_id": 747,
+  "key": "mareanie",
+  "name": {
+    "english": "Mareanie",
+    "spanish": "Mareanie",
+    "italian": "Mareanie",
+    "japanese": "ヒドイデ",
+    "chinese": "好坏星",
+    "korean": "",
+    "german": "Garstella",
+    "french": "Vorastérie"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 344,
+    "sword-shield": 307,
+    "isle-of-armor": 127
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Merciless",
+      "id": 196
+    },
+    "two": {
+      "name": "Limber",
+      "id": 7
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 53,
+    "def": 62,
+    "spatk": 43,
+    "spdef": 52,
+    "spd": 45,
+    "total": 305
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 259,
+  "generation": 7,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Brutal Star Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "marine": "of or relating to the sea",
+    "meanie": "small-minded, nasty"
+  },
+  "pokedexEntries": {
+    "Mareanie": [
+      {
+        "game": "sun",
+        "desc": "It plunges the poison spike on its head into its prey. When the prey has weakened, Mareanie deals the finishing blow with its 10 tentacles."
+      },
+      {
+        "game": "moon",
+        "desc": "It’s found crawling on beaches and seafloors. The coral that grows on Corsola’s head is as good as a five-star banquet to this Pokémon."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "They eat Corsola branches, so Mareanie are hated by craftsmen who work with Corsola branches that have naturally fallen off."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Aside from its head, its body parts regenerate quickly if they’re cut off. After a good night’s sleep, Mareanie is back to normal."
+      },
+      {
+        "game": "sword",
+        "desc": "The first symptom of its sting is numbness. The next is an itching sensation so intense that it’s impossible to resist the urge to claw at your skin."
+      },
+      {
+        "game": "shield",
+        "desc": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious."
+      }
+    ]
+  }
+}

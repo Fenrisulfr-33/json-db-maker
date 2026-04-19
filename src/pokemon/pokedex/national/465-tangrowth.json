@@ -1,0 +1,125 @@
+{
+  "_id": 465,
+  "key": "tangrowth",
+  "name": {
+    "english": "Tangrowth",
+    "spanish": "Tangrowth",
+    "italian": "Tangrowth",
+    "japanese": "モジャンボ",
+    "chinese": "巨蔓藤",
+    "korean": "",
+    "german": "Tangoloss",
+    "french": "Bouldeneu"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 96,
+    "isle-of-armor": 81,
+    "crystal": 183,
+    "gold-silver": 183
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Leaf Guard",
+      "id": 102
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 125,
+    "spatk": 110,
+    "spdef": 50,
+    "spd": 50,
+    "total": 535
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "128.6 kg (283.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 165,
+  "generation": 4,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Vine Pokémon",
+  "catchRate": 30,
+  "baseFriendship": 50,
+  "baseExp": 187,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tangle": "twisted mesh of strands (e.g. vines)",
+    "growth": "expansion, enlargement"
+  },
+  "pokedexEntries": {
+    "Tangrowth": [
+      {
+        "game": "diamond-pearl",
+        "desc": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its arms are made of plants that bind themselves to things. They grow back right away if cut."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "When it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its vines grow so profusely that, in the warm season, you can’t even see its eyes."
+      },
+      {
+        "game": "black-white",
+        "desc": "Its arms are made of plants that bind themselves to things. They grow back right away if cut."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Even if one of its arms is eaten, it’s fine. The Pokémon regenerates quickly and will go right back to normal."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its vines grow so profusely that, in the warm season, you can’t even see its eyes."
+      },
+      {
+        "game": "sword",
+        "desc": "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines."
+      },
+      {
+        "game": "shield",
+        "desc": "Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them."
+      }
+    ]
+  }
+}

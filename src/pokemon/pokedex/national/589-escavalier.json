@@ -1,0 +1,105 @@
+{
+  "_id": 589,
+  "key": "escavalier",
+  "name": {
+    "english": "Escavalier",
+    "spanish": "Escavalier",
+    "italian": "Escavalier",
+    "japanese": "シュバルゴ",
+    "chinese": "骑士蜗牛",
+    "korean": "",
+    "german": "Cavalanzas",
+    "french": "Lançargot"
+  },
+  "pokedexNumber": {
+    "sword-shield": 274,
+    "isle-of-armor": 67,
+    "crown-tundra": 96
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Shell Armor",
+      "id": 75
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 135,
+    "def": 105,
+    "spatk": 60,
+    "spdef": 105,
+    "spd": 20,
+    "total": 495
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "33.0 kg (72.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 205,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Cavalry Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "escargot": "French for ‘snail’",
+    "cavalier": "knight; mounted soldier"
+  },
+  "pokedexEntries": {
+    "Escavalier": [
+      {
+        "game": "black",
+        "desc": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely."
+      },
+      {
+        "game": "white",
+        "desc": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body."
+      },
+      {
+        "game": "sword",
+        "desc": "They use shells they’ve stolen from Shelmet to arm and protect themselves. They’re very popular Pokémon in the Galar region."
+      },
+      {
+        "game": "shield",
+        "desc": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d."
+      }
+    ]
+  }
+}

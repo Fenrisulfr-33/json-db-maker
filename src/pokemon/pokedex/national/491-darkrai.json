@@ -1,0 +1,107 @@
+{
+  "_id": 491,
+  "key": "darkrai",
+  "name": {
+    "english": "Darkrai",
+    "spanish": "Darkrai",
+    "italian": "Darkrai",
+    "japanese": "ダークライ",
+    "chinese": "达克莱伊",
+    "korean": "",
+    "german": "Darkrai",
+    "french": "Darkrai"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 242
+  },
+  "type": {
+    "one": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Bad Dreams",
+      "id": 123
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 90,
+    "def": 90,
+    "spatk": 135,
+    "spdef": 90,
+    "spd": 125,
+    "total": 600
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "50.5 kg (111.3 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "spatk": 2,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Pitch-Black Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "dark": "absence of light",
+    "kurai": "Japanese for ‘dark’"
+  },
+  "pokedexEntries": {
+    "Darkrai": [
+      {
+        "game": "diamond",
+        "desc": "It can lull people to sleep and make them dream. It is active during nights of the new moon."
+      },
+      {
+        "game": "pearl",
+        "desc": "Folklore has it that on moonless nights, this Pokémon will make people see horrific nightmares."
+      },
+      {
+        "game": "platinum",
+        "desc": "To protect itself, it afflicts those around it with nightmares. However, it means no harm."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "To protect itself, it afflicts those around it with nightmares. However, it means no harm."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It can lull people to sleep and make them dream. It is active during nights of the new moon."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It can lull people to sleep and make them dream. It is active during nights of a new moon."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Folklore has it that on moonless nights, this Pokémon will make people see horrific nightmares."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "On a moonless night, a strange incident occurred in which every one of a village’s inhabitants suffered nightmares. The villagers attested that Darkrai appeared before them in these nightmares."
+      }
+    ]
+  }
+}

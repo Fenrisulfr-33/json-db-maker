@@ -1,0 +1,158 @@
+{
+  "_id": 178,
+  "key": "xatu",
+  "name": {
+    "english": "Xatu",
+    "spanish": "Xatu",
+    "italian": "Xatu",
+    "japanese": "ネイティオ",
+    "chinese": "天然鸟",
+    "korean": "",
+    "german": "Xatu",
+    "french": "Xatu"
+  },
+  "pokedexNumber": {
+    "sword-shield": 93,
+    "crystal": 162,
+    "gold-silver": 162
+  },
+  "type": {
+    "one": "Psychic",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Synchronize",
+      "id": 28
+    },
+    "two": {
+      "name": "Early Bird",
+      "id": 48
+    },
+    "hidden": {
+      "name": "Magic Bounce",
+      "id": 156
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 75,
+    "def": 70,
+    "spatk": 95,
+    "spdef": 70,
+    "spd": 95,
+    "total": 470
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "15.0 kg (33.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 63,
+  "generation": 2,
+  "evs": {
+    "spatk": 1,
+    "spd": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Mystic Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 165,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "X": "exotic",
+    "Atu": "the first man, in Samoan mythology"
+  },
+  "pokedexEntries": {
+    "Xatu": [
+      {
+        "game": "gold",
+        "desc": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+      },
+      {
+        "game": "silver",
+        "desc": "In South America, it is said that its right eye sees the future and its left eye views the past."
+      },
+      {
+        "game": "crystal",
+        "desc": "Once it begins to meditate at sunrise, the entire day will pass before it will move again."
+      },
+      {
+        "game": "ruby",
+        "desc": "XATU stands rooted and still in one spot all day long. People believe that this POKéMON does so out of fear of the terrible things it has foreseen in the future."
+      },
+      {
+        "game": "sapphire",
+        "desc": "XATU is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical POKéMON out of their belief that XATU is in possession of the power to see into the future."
+      },
+      {
+        "game": "fire-red",
+        "desc": "In South America, it is said that its right eye sees the future and its left eye views the past."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+      },
+      {
+        "game": "emerald",
+        "desc": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that XATU are emissaries from another world."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "In South America, it is said that its right eye sees the future and its left eye views the past."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day."
+      },
+      {
+        "game": "x",
+        "desc": "Once it begins to meditate at sunrise, the entire day will pass before it will move again."
+      },
+      {
+        "game": "y",
+        "desc": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s said that while this Pokémon has the power to predict the future, it’s not powerful enough to change the future it sees."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times."
+      },
+      {
+        "game": "sword",
+        "desc": "They say that it stays still and quiet because it is seeing both the past and future at the same time."
+      },
+      {
+        "game": "shield-brilliant-diamond-shining-pearl",
+        "desc": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day."
+      }
+    ]
+  }
+}

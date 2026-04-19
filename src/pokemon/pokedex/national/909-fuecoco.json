@@ -1,0 +1,68 @@
+{
+  "_id": 909,
+  "key": "fuecoco",
+  "name": {
+    "english": "Fuecoco"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 4
+  },
+  "type": {
+    "one": "Fire",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Unaware",
+      "id": 109
+    }
+  },
+  "baseStats": {
+    "hp": 67,
+    "atk": 45,
+    "def": 59,
+    "spatk": 63,
+    "spdef": 40,
+    "spd": 36,
+    "total": 310
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "9.8 kg (21.6 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Fire Croc Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "fuego": "Spanish for ‘fire’",
+    "cocodrilo": "Spanish for ‘crocodile’"
+  },
+  "pokedexEntries": {
+    "Fuecoco": [
+      {
+        "game": "scarlet",
+        "desc": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy."
+      },
+      {
+        "game": "violet",
+        "desc": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro."
+      }
+    ]
+  }
+}

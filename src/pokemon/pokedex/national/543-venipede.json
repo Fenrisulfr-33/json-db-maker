@@ -1,0 +1,103 @@
+{
+  "_id": 543,
+  "key": "venipede",
+  "name": {
+    "english": "Venipede",
+    "spanish": "Venipede",
+    "italian": "Venipede",
+    "japanese": "フシデ",
+    "chinese": "百足蜈蚣",
+    "korean": "",
+    "german": "Toxiped",
+    "french": "Venipatte"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 74
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "hidden": {
+      "name": "Speed Boost",
+      "id": 3
+    }
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 59,
+    "spatk": 30,
+    "spdef": 39,
+    "spd": 57,
+    "total": 260
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "5.3 kg (11.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 187,
+  "generation": 5,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Centipede Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 52,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "venom": "poison",
+    "centipede": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Venipede": [
+      {
+        "game": "black",
+        "desc": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it."
+      },
+      {
+        "game": "white",
+        "desc": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey’s location and state."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it."
+      },
+      {
+        "game": "sword",
+        "desc": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues."
+      },
+      {
+        "game": "shield",
+        "desc": "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out."
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_id": 788,
+  "key": "tapu-fini",
+  "name": {
+    "english": "Tapu Fini",
+    "spanish": "Tapu Fini",
+    "italian": "Tapu Fini",
+    "japanese": "カプ・レヒレ",
+    "chinese": "卡璞・鳍鳍",
+    "korean": "",
+    "german": "Kapu-Kime",
+    "french": "Tokopisco"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Misty Surge",
+      "id": 228
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 75,
+    "def": 115,
+    "spatk": 95,
+    "spdef": 130,
+    "spd": 85,
+    "total": 570
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "21.2 kg (46.7 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Land Spirit Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 50,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "tapu": "Hawaiian for ‘holy’",
+    "fin": "fish appendage"
+  },
+  "pokedexEntries": {
+    "Tapu-fini": [
+      {
+        "game": "sun",
+        "desc": "The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy."
+      },
+      {
+        "game": "moon",
+        "desc": "The guardian deity of Poni, it can control water. People say it can create pure water that will wash away any uncleanness."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Although it’s called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini."
+      }
+    ]
+  }
+}

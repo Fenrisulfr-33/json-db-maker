@@ -1,0 +1,88 @@
+{
+  "_id": 512,
+  "key": "simisage",
+  "name": {
+    "english": "Simisage",
+    "spanish": "Simisage",
+    "italian": "Simisage",
+    "japanese": "ヤナッキー",
+    "chinese": "花椰猿",
+    "korean": "",
+    "german": "Vegichita",
+    "french": "Feuiloutan"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Overgrow",
+      "id": 65
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 98,
+    "def": 63,
+    "spatk": 98,
+    "spdef": 63,
+    "spd": 101,
+    "total": 498
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "30.5 kg (67.2 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 175,
+  "generation": 5,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Thorn Monkey Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 174,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "simian": "of or relating to primates",
+    "sage": "a herb (referring to cooking and its Grass type)"
+  },
+  "pokedexEntries": {
+    "Simisage": [
+      {
+        "game": "black",
+        "desc": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."
+      },
+      {
+        "game": "white",
+        "desc": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."
+      }
+    ]
+  }
+}

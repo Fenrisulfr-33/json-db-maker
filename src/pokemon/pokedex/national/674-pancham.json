@@ -1,0 +1,107 @@
+{
+  "_id": 674,
+  "key": "pancham",
+  "name": {
+    "english": "Pancham",
+    "spanish": "Pancham",
+    "italian": "Pancham",
+    "japanese": "ヤンチャム",
+    "chinese": "顽皮熊猫",
+    "korean": "",
+    "german": "Pam-Pam",
+    "french": "Pandespiègle"
+  },
+  "pokedexNumber": {
+    "sword-shield": 111
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Iron Fist",
+      "id": 89
+    },
+    "two": {
+      "name": "Mold Breaker",
+      "id": 104
+    },
+    "hidden": {
+      "name": "Scrappy",
+      "id": 113
+    }
+  },
+  "baseStats": {
+    "hp": 67,
+    "atk": 82,
+    "def": 62,
+    "spatk": 46,
+    "spdef": 48,
+    "spd": 43,
+    "total": 348
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "8.0 kg (17.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 233,
+  "generation": 6,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Human-Like"
+  ],
+  "species": "Playful Pokémon",
+  "catchRate": 220,
+  "baseFriendship": 50,
+  "baseExp": 70,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "panda": "large black & white mammal",
+    "champion": "fighter who has defeated all opponents"
+  },
+  "pokedexEntries": {
+    "Pancham": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It does its level best to glare and pull a scary face, but it can’t help grinning if anyone pats its head."
+      },
+      {
+        "game": "sun",
+        "desc": "It grows up imitating the behavior of Pangoro, which it looks up to as a leader."
+      },
+      {
+        "game": "moon",
+        "desc": "There’s no point to the leaf in its mouth, aside from an effort to look cool. It’s mischievous, so it’s not well suited to inexperienced Trainers."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It follows Pangoro around like a henchman. When Pancham makes a big mistake, its leaf gets taken away."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It’s desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely."
+      },
+      {
+        "game": "sword",
+        "desc": "It chooses a Pangoro as its master and then imitates its master’s actions. This is how it learns to battle and hunt for prey."
+      },
+      {
+        "game": "shield",
+        "desc": "Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling."
+      }
+    ]
+  }
+}

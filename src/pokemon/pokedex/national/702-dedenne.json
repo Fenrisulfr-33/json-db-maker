@@ -1,0 +1,101 @@
+{
+  "_id": 702,
+  "key": "dedenne",
+  "name": {
+    "english": "Dedenne",
+    "spanish": "Dedenne",
+    "italian": "Dedenne",
+    "japanese": "デデンネ",
+    "chinese": "咚咚鼠",
+    "korean": "",
+    "german": "Dedenne",
+    "french": "DEDENNE"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 200,
+    "isle-of-armor": 103
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Fairy"
+  },
+  "abilities": {
+    "one": {
+      "name": "Cheek Pouch",
+      "id": 167
+    },
+    "two": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "hidden": {
+      "name": "Plus",
+      "id": 57
+    }
+  },
+  "baseStats": {
+    "hp": 67,
+    "atk": 58,
+    "def": 57,
+    "spatk": 81,
+    "spdef": 67,
+    "spd": 101,
+    "total": 431
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "2.2 kg (4.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 6,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "species": "Antenna Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 50,
+  "baseExp": 151,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "denki": "Japanese for ‘electricity’",
+    "antennae": "aerial that receives television/radio waves"
+  },
+  "pokedexEntries": {
+    "Dedenne": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It sneaks into people’s homes and steals electricity from their outlets. When your electric bill seems off, it’s the handiwork of this rascal."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity."
+      },
+      {
+        "game": "sword",
+        "desc": "A Dedenne’s whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another."
+      },
+      {
+        "game": "shield",
+        "desc": "Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon."
+      }
+    ]
+  }
+}

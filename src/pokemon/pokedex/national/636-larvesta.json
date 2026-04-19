@@ -1,0 +1,108 @@
+{
+  "_id": 636,
+  "key": "larvesta",
+  "name": {
+    "english": "Larvesta",
+    "spanish": "Larvesta",
+    "italian": "Larvesta",
+    "japanese": "メラルバ",
+    "chinese": "燃烧虫",
+    "korean": "",
+    "german": "Ignivor",
+    "french": "Pyronille"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 274,
+    "isle-of-armor": 186
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flame Body",
+      "id": 49
+    },
+    "hidden": {
+      "name": "Swarm",
+      "id": 68
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 85,
+    "def": 55,
+    "spatk": 50,
+    "spdef": 55,
+    "spd": 60,
+    "total": 360
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "28.8 kg (63.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 223,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Torch Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 72,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "larva": "young feeding stage of an insect",
+    "Vesta": "Roman goddess of the hearth"
+  },
+  "pokedexEntries": {
+    "Larvesta": [
+      {
+        "game": "black",
+        "desc": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames."
+      },
+      {
+        "game": "white",
+        "desc": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When battling opponents, it sprays fire from its five horns. The max temperature of the flames can reach nearly 5,500 degrees Fahrenheit."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun."
+      },
+      {
+        "game": "sword",
+        "desc": "The people of ancient times believed that Larvesta fell from the sun."
+      },
+      {
+        "game": "shield",
+        "desc": "Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey."
+      }
+    ]
+  }
+}

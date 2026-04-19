@@ -1,0 +1,104 @@
+{
+  "_id": 617,
+  "key": "accelgor",
+  "name": {
+    "english": "Accelgor",
+    "spanish": "Accelgor",
+    "italian": "Accelgor",
+    "japanese": "アギルダー",
+    "chinese": "敏捷虫",
+    "korean": "",
+    "german": "Hydragil",
+    "french": "Limaspeed"
+  },
+  "pokedexNumber": {
+    "sword-shield": 276,
+    "isle-of-armor": 65,
+    "crown-tundra": 98
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Hydration",
+      "id": 93
+    },
+    "two": {
+      "name": "Sticky Hold",
+      "id": 60
+    },
+    "hidden": {
+      "name": "Unburden",
+      "id": 84
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 40,
+    "spatk": 100,
+    "spdef": 60,
+    "spd": 145,
+    "total": 495
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "25.3 kg (55.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 216,
+  "generation": 5,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Shell Out Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "accelerate": "to increase in speed",
+    "escargot": "French for ‘snail’"
+  },
+  "pokedexEntries": {
+    "Accelgor": [
+      {
+        "game": "black",
+        "desc": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane."
+      },
+      {
+        "game": "white",
+        "desc": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane."
+      },
+      {
+        "game": "sword",
+        "desc": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular."
+      },
+      {
+        "game": "shield",
+        "desc": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+      }
+    ]
+  }
+}

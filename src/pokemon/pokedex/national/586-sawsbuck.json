@@ -1,0 +1,95 @@
+{
+  "_id": 586,
+  "key": "sawsbuck",
+  "name": {
+    "english": "Sawsbuck",
+    "spanish": "Sawsbuck",
+    "italian": "Sawsbuck",
+    "japanese": "メブキジカ",
+    "chinese": "萌芽鹿",
+    "korean": "",
+    "german": "Kronjuwild",
+    "french": "Haydaim"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 191
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Sap Sipper",
+      "id": 157
+    },
+    "hidden": {
+      "name": "Serene Grace",
+      "id": 32
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 70,
+    "spatk": 60,
+    "spdef": 70,
+    "spd": 95,
+    "total": 475
+  },
+  "info": {
+    "height": "1.9 m (6′03″)",
+    "weight": "92.5 kg (203.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 204,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Season Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 166,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "S.A.W.S.": "initials for the four seasons: Summer, Autumn, Winter, Spring",
+    "buck": "male deer"
+  },
+  "pokedexEntries": {
+    "Sawsbuck": [
+      {
+        "game": "black",
+        "desc": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns."
+      },
+      {
+        "game": "white",
+        "desc": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+      }
+    ]
+  }
+}

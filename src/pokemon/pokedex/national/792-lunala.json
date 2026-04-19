@@ -1,0 +1,89 @@
+{
+  "_id": 792,
+  "key": "lunala",
+  "name": {
+    "english": "Lunala",
+    "spanish": "Lunala",
+    "italian": "Lunala",
+    "japanese": "ルナアーラ",
+    "chinese": "露奈雅拉",
+    "korean": "",
+    "german": "Lunala",
+    "french": "Lunala"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Psychic",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shadow Shield",
+      "id": 231
+    }
+  },
+  "baseStats": {
+    "hp": 137,
+    "atk": 113,
+    "def": 89,
+    "spatk": 137,
+    "spdef": 107,
+    "spd": 97,
+    "total": 680
+  },
+  "info": {
+    "height": "4.0 m (13′01″)",
+    "weight": "120.0 kg (264.6 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 271,
+  "generation": 7,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Moone Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "lunar": "of or relating to the Moon",
+    "ala": "Latin for ‘wing’"
+  },
+  "pokedexEntries": {
+    "Lunala": [
+      {
+        "game": "sun",
+        "desc": "It is said to be a female evolution of Cosmog. When its third eye activates, away it flies to another world."
+      },
+      {
+        "game": "moon",
+        "desc": "Said to live in another world, this Pokémon devours light, drawing the moonless dark veil of night over the brightness of day."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Records of it exist in writings from long, long ago, where it was known by the name “the beast that calls the moon.”"
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds."
+      },
+      {
+        "game": "sword",
+        "desc": "Known as the Beast That Calls the Moon, this Pokémon lives by taking in any and all light and converting it into its own energy."
+      },
+      {
+        "game": "shield",
+        "desc": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky."
+      }
+    ]
+  }
+}

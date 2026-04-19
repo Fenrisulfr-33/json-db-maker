@@ -1,0 +1,195 @@
+{
+  "_id": 119,
+  "key": "seaking",
+  "name": {
+    "english": "Seaking",
+    "spanish": "Seaking",
+    "italian": "Seaking",
+    "japanese": "アズマオウ",
+    "chinese": "金鱼王",
+    "korean": "",
+    "german": "Golking",
+    "french": "Poissoroy"
+  },
+  "pokedexNumber": {
+    "sword-shield": 147,
+    "isle-of-armor": 95,
+    "crystal": 79,
+    "gold-silver": 79,
+    "yellow": 119,
+    "red-blue": 119
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Water Veil",
+      "id": 41
+    },
+    "hidden": {
+      "name": "Lightning Rod",
+      "id": 31
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 92,
+    "def": 65,
+    "spatk": 65,
+    "spdef": 80,
+    "spd": 68,
+    "total": 450
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "39.0 kg (86.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 1,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Water 2"
+  ],
+  "species": "Goldfish Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 158,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sea": "large body of water",
+    "king": "royalty"
+  },
+  "pokedexEntries": {
+    "Seaking": [
+      {
+        "game": "red-blue",
+        "desc": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
+      },
+      {
+        "game": "yellow",
+        "desc": "It is the male’s job to make a nest by carving out boulders in a stream using the horn on its head."
+      },
+      {
+        "game": "gold",
+        "desc": "During spawning season, SEAKING gather from all over, coloring the rivers a brilliant red."
+      },
+      {
+        "game": "silver",
+        "desc": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away."
+      },
+      {
+        "game": "crystal",
+        "desc": "When autumn comes, the males patrol the area around their nests in order to protect their offspring."
+      },
+      {
+        "game": "ruby",
+        "desc": "In the autumn, SEAKING males can be seen performing courtship dances in riverbeds to woo females. During this season, this POKéMON’s body coloration is at its most beautiful."
+      },
+      {
+        "game": "sapphire",
+        "desc": "SEAKING is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these POKéMON goes on for over a month."
+      },
+      {
+        "game": "fire-red",
+        "desc": "The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
+      },
+      {
+        "game": "emerald",
+        "desc": "It punches holes in boulders on streambeds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current."
+      },
+      {
+        "game": "diamond",
+        "desc": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life."
+      },
+      {
+        "game": "pearl",
+        "desc": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams."
+      },
+      {
+        "game": "platinum",
+        "desc": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+      },
+      {
+        "game": "x",
+        "desc": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
+      },
+      {
+        "game": "y",
+        "desc": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon’s body coloration is at its most beautiful."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pokémon goes on for over a month."
+      },
+      {
+        "game": "sun",
+        "desc": "When the weather grows cold, its whole body flushes a deep red. This sight serves as a poetic reminder that autumn has arrived."
+      },
+      {
+        "game": "moon",
+        "desc": "Trainers who are crazy for Seaking are divided into horn enthusiasts and fin enthusiasts. The two groups do not get along well."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its horn spins like a drill to steadily hollow out rocks—even harder ones. The coloration of the male is more vivid."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "To attract females, males dance on the river’s floor. The females gather around the male that dances most gracefully."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It is the male’s job to make a nest by carving out boulders in a stream using the horn on its head."
+      },
+      {
+        "game": "sword",
+        "desc": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+      },
+      {
+        "game": "shield",
+        "desc": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It makes its nest by hollowing out boulders in streams with its horn. The Pokémon defends its eggs with its life."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams."
+      }
+    ]
+  }
+}

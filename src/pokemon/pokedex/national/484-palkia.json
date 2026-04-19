@@ -1,0 +1,117 @@
+{
+  "_id": 484,
+  "key": "palkia",
+  "name": {
+    "english": "Palkia",
+    "spanish": "Palkia",
+    "italian": "Palkia",
+    "japanese": "パルキア",
+    "chinese": "帕路奇亚",
+    "korean": "",
+    "german": "Palkia",
+    "french": "Palkia"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 236
+  },
+  "type": {
+    "one": "Water",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 120,
+    "def": 100,
+    "spatk": 150,
+    "spdef": 120,
+    "spd": 100,
+    "total": 680
+  },
+  "info": {
+    "height": "6.3 m (20′08″)",
+    "weight": "660.0 kg (1455.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 4,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Spatial Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "pearl": "precious stone; game of which Palkia is the mascot",
+    "kai": "Japanese for ‘ocean’"
+  },
+  "pokedexEntries": {
+    "Palkia": [
+      {
+        "game": "diamond",
+        "desc": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology."
+      },
+      {
+        "game": "pearl",
+        "desc": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology."
+      },
+      {
+        "game": "platinum",
+        "desc": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia’s every breath."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It is said to live in a gap in the spatial dimension parallel to ours. Palkia appears in mythology."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity."
+      }
+    ],
+    "Origin Forme": [
+      {
+        "game": "legends-arceus",
+        "desc": "It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia’s strategy for gaining Arceus’s powers."
+      }
+    ]
+  }
+}

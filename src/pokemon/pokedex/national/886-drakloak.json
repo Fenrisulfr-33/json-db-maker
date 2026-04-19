@@ -1,0 +1,85 @@
+{
+  "_id": 886,
+  "key": "drakloak",
+  "name": {
+    "english": "Drakloak",
+    "spanish": "Drakloak",
+    "italian": "Drakloak",
+    "japanese": "ドロンチ",
+    "chinese": "多龙奇",
+    "korean": "",
+    "german": "Phandra",
+    "french": "Dispareptil"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 306,
+    "sword-shield": 396,
+    "crown-tundra": 111
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Clear Body",
+      "id": 29
+    },
+    "two": {
+      "name": "Infiltrator",
+      "id": 151
+    },
+    "hidden": {
+      "name": "Cursed Body",
+      "id": 130
+    }
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 80,
+    "def": 50,
+    "spatk": 60,
+    "spdef": 50,
+    "spd": 102,
+    "total": 410
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "11.0 kg (24.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 301,
+  "generation": 8,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Caretaker Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 144,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "dragon": "",
+    "cloak": ""
+  },
+  "pokedexEntries": {
+    "Drakloak": [
+      {
+        "game": "sword",
+        "desc": "It’s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve."
+      },
+      {
+        "game": "shield",
+        "desc": "Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy."
+      }
+    ]
+  }
+}

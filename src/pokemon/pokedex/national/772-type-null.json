@@ -1,0 +1,86 @@
+{
+    "_id": 772,
+    "key": "type-null",
+    "name": {
+        "english": "Type: Null",
+        "spanish": "Type: Null",
+        "italian": "Type: Null",
+        "japanese": "タイプ：ヌル",
+        "chinese": "属性：空",
+        "korean": "",
+        "german": "Typ:Null",
+        "french": "Silvallié"
+    },
+    "pokedexNumber": {
+        "sword-shield": 381
+    },
+    "type": {
+        "one": "Normal"
+    },
+    "abilities": {
+        "one": {
+            "name": "Battle Armor",
+            "id": 4
+        }
+    },
+    "baseStats": {
+        "hp": 95,
+        "atk": 95,
+        "def": 95,
+        "spatk": 95,
+        "spdef": 95,
+        "spd": 59,
+        "total": 534
+    },
+    "info": {
+        "height": "1.9 m (6′03″)",
+        "weight": "120.5 kg (265.7 lbs)"
+    },
+    "gender": {
+        "male": "",
+        "female": "",
+        "genderless": true
+    },
+    "evolution": 269,
+    "generation": 7,
+    "evs": {},
+    "eggGroups": ["Undiscovered"],
+    "species": "Synthetic Pokémon",
+    "catchRate": 3,
+    "baseFriendship": 0,
+    "baseExp": 107,
+    "growthRate": "Slow",
+    "eggCycles": 120,
+    "nameOrigin": {
+        "type": "kind, group",
+        "null": "nothing, nonexistent"
+    },
+    "pokedexEntries": {
+        "Type-null": [
+            {
+                "game": "sun",
+                "desc": "The heavy control mask it wears suppresses its intrinsic capabilities. This Pokémon has some hidden special power."
+            },
+            {
+                "game": "moon",
+                "desc": "Due to the danger that this synthetic Pokémon may go on a rampage, it wears a control mask to restrain its power."
+            },
+            {
+                "game": "ultra-sun",
+                "desc": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen."
+            },
+            {
+                "game": "ultra-moon",
+                "desc": "There’s danger of its going on a rampage, so its true power is sealed away beneath its control mask."
+            },
+            {
+                "game": "sword",
+                "desc": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region."
+            },
+            {
+                "game": "shield",
+                "desc": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control."
+            }
+        ]
+    }
+}

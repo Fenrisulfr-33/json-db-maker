@@ -1,0 +1,100 @@
+{
+  "_id": 701,
+  "key": "hawlucha",
+  "name": {
+    "english": "Hawlucha",
+    "spanish": "Hawlucha",
+    "italian": "Hawlucha",
+    "japanese": "ルチャブル",
+    "chinese": "摔角鹰人",
+    "korean": "",
+    "german": "Resladero",
+    "french": "Brutalibré"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 301,
+    "sword-shield": 320
+  },
+  "type": {
+    "one": "Fighting",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Limber",
+      "id": 7
+    },
+    "two": {
+      "name": "Unburden",
+      "id": 84
+    },
+    "hidden": {
+      "name": "Mold Breaker",
+      "id": 104
+    }
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 92,
+    "def": 75,
+    "spatk": 74,
+    "spdef": 63,
+    "spd": 118,
+    "total": 500
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "21.5 kg (47.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 6,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Wrestling Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "baseExp": 175,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "hawk": "bird of prey",
+    "luchador": "Mexican wrestler"
+  },
+  "pokedexEntries": {
+    "Hawlucha": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It overwhelms opponents with quick moves, but sometimes it showboats for too long when it’s using a special move and gets itself into a pinch."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents’ blind spots. It’s also skilled at using superb submission holds."
+      },
+      {
+        "game": "sword",
+        "desc": "It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move."
+      },
+      {
+        "game": "shield",
+        "desc": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack."
+      }
+    ]
+  }
+}

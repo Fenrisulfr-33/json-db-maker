@@ -1,0 +1,151 @@
+{
+  "_id": 213,
+  "key": "shuckle",
+  "name": {
+    "english": "Shuckle",
+    "spanish": "Shuckle",
+    "italian": "Shuckle",
+    "japanese": "ツボツボ",
+    "chinese": "壶壶",
+    "korean": "",
+    "german": "Pottrott",
+    "french": "Caratroc"
+  },
+  "pokedexNumber": {
+    "sword-shield": 227,
+    "crown-tundra": 170,
+    "crystal": 168,
+    "gold-silver": 168
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "two": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Contrary",
+      "id": 126
+    }
+  },
+  "baseStats": {
+    "hp": 20,
+    "atk": 10,
+    "def": 230,
+    "spatk": 10,
+    "spdef": 230,
+    "spd": 5,
+    "total": 505
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "20.5 kg (45.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "def": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Mold Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 177,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "shuck": "hard shell of nuts or oysters",
+    "turtle": "water-based reptile"
+  },
+  "pokedexEntries": {
+    "Shuckle": [
+      {
+        "game": "gold",
+        "desc": "The BERRIES it stores in its vase-like shell decompose and become a gooey liquid."
+      },
+      {
+        "game": "silver",
+        "desc": "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+      },
+      {
+        "game": "crystal",
+        "desc": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with BERRIES to make a drink."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The BERRIES it stores in its vaselike shell decompose and become a gooey liquid."
+      },
+      {
+        "game": "emerald",
+        "desc": "A SHUCKLE hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It stores berries in its shell. The berries eventually ferment to become delicious juices."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The berries it stores in its vase-like shell decompose and become a gooey liquid."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+      },
+      {
+        "game": "black-white",
+        "desc": "It stores berries in its shell. The berries eventually ferment to become delicious juices."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The berries stored in its vaselike shell eventually become a thick, pulpy juice."
+      },
+      {
+        "game": "x",
+        "desc": "The berries stored in its jar-like shell eventually become a thick, pulpy juice."
+      },
+      {
+        "game": "y",
+        "desc": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice."
+      },
+      {
+        "game": "sword",
+        "desc": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+      },
+      {
+        "game": "shield",
+        "desc": "The berries stored in its vaselike shell eventually become a thick, pulpy juice."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It stores berries in its shell. The berries mix with its body fluids to become delicious juices."
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "_id": 459,
+  "key": "snover",
+  "name": {
+    "english": "Snover",
+    "spanish": "Snover",
+    "italian": "Snover",
+    "japanese": "ユキカブリ",
+    "chinese": "雪笠怪",
+    "korean": "",
+    "german": "Shnebedeck",
+    "french": "Blizzi"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 352,
+    "legends-arceus": 217,
+    "sword-shield": 96,
+    "crown-tundra": 31
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Snow Warning",
+      "id": 117
+    },
+    "hidden": {
+      "name": "Soundproof",
+      "id": 43
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 50,
+    "spatk": 62,
+    "spdef": 60,
+    "spd": 40,
+    "total": 334
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "50.5 kg (111.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 162,
+  "generation": 4,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Frost Tree Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 67,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "snow": "frozen precipitation",
+    "cover": "conceal"
+  },
+  "pokedexEntries": {
+    "Snover": [
+      {
+        "game": "diamond",
+        "desc": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive."
+      },
+      {
+        "game": "pearl",
+        "desc": "In the spring, it grows berries with the texture of frozen treats around its belly."
+      },
+      {
+        "game": "platinum",
+        "desc": "Seemingly curious about people, they gather around footsteps they find on snowy mountains."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Seemingly curious about people, they gather around footsteps they find on snowy mountains."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "In the spring, it grows berries with the texture of frozen treats around its belly."
+      },
+      {
+        "game": "sword",
+        "desc": "It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down."
+      },
+      {
+        "game": "shield",
+        "desc": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "In the spring, it grows berries with the texture of frozen treats around its belly."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children."
+      }
+    ]
+  }
+}

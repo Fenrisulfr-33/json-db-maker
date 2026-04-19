@@ -1,0 +1,103 @@
+{
+  "_id": 579,
+  "key": "reuniclus",
+  "name": {
+    "english": "Reuniclus",
+    "spanish": "Reuniclus",
+    "italian": "Reuniclus",
+    "japanese": "ランクルス",
+    "chinese": "人造细胞卵",
+    "korean": "",
+    "german": "Zytomega",
+    "french": "Symbios"
+  },
+  "pokedexNumber": {
+    "sword-shield": 272,
+    "crown-tundra": 56
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overcoat",
+      "id": 142
+    },
+    "two": {
+      "name": "Magic Guard",
+      "id": 98
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 65,
+    "def": 75,
+    "spatk": 125,
+    "spdef": 85,
+    "spd": 30,
+    "total": 490
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "20.1 kg (44.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 201,
+  "generation": 5,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Multiplying Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 50,
+  "baseExp": 221,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "reunite": "come together",
+    "nucleus": "core of a biological cell"
+  },
+  "pokedexEntries": {
+    "Reuniclus": [
+      {
+        "game": "black",
+        "desc": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power."
+      },
+      {
+        "game": "white",
+        "desc": "These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power."
+      },
+      {
+        "game": "sword",
+        "desc": "While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself."
+      }
+    ]
+  }
+}

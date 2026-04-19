@@ -1,0 +1,68 @@
+{
+  "_id": 927,
+  "key": "dachsbun",
+  "name": {
+    "english": "Dachsbun"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 77
+  },
+  "type": {
+    "one": "Fairy",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Well-Baked Body",
+      "id": 273
+    },
+    "hidden": {
+      "name": "Aroma Veil",
+      "id": 165
+    }
+  },
+  "baseStats": {
+    "hp": 57,
+    "atk": 80,
+    "def": 115,
+    "spatk": 50,
+    "spdef": 80,
+    "spd": 95,
+    "total": 477
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "14.9 kg (32.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Dog Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dachshund": "a breed of dog",
+    "bun": "a bread roll or cake"
+  },
+  "pokedexEntries": {
+    "Dachsbun": [
+      {
+        "game": "scarlet",
+        "desc": "The pleasant aroma that emanates from this Pokémon’s body helps wheat grow, so Dachsbun has been treasured by farming villages."
+      },
+      {
+        "game": "violet",
+        "desc": "The surface of this Pokémon’s skin hardens when exposed to intense heat, and its body has an appetizing aroma."
+      }
+    ]
+  }
+}

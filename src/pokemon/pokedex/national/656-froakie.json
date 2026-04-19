@@ -1,0 +1,76 @@
+{
+  "_id": 656,
+  "key": "froakie",
+  "name": {
+    "english": "Froakie",
+    "spanish": "Froakie",
+    "italian": "Froakie",
+    "japanese": "ケロマツ",
+    "chinese": "呱呱泡蛙",
+    "korean": "",
+    "german": "Froxy",
+    "french": "Grenousse"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Torrent",
+      "id": 67
+    },
+    "hidden": {
+      "name": "Protean",
+      "id": 168
+    }
+  },
+  "baseStats": {
+    "hp": 41,
+    "atk": 56,
+    "def": 40,
+    "spatk": 62,
+    "spdef": 44,
+    "spd": 71,
+    "total": 314
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "7.0 kg (15.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 226,
+  "generation": 6,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Bubble Frog Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 63,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "frog": "a species of amphibian",
+    "croaky": "husky, squawking noise made by frogs"
+  },
+  "pokedexEntries": {
+    "Froakie": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."
+      }
+    ]
+  }
+}

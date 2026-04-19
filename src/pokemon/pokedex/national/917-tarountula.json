@@ -1,0 +1,68 @@
+{
+  "_id": 917,
+  "key": "tarountula",
+  "name": {
+    "english": "Tarountula"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 12
+  },
+  "type": {
+    "one": "Bug",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Insomnia",
+      "id": 15
+    },
+    "hidden": {
+      "name": "Stakeout",
+      "id": 198
+    }
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 41,
+    "def": 45,
+    "spatk": 29,
+    "spdef": 40,
+    "spd": 20,
+    "total": 210
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "4.0 kg (8.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "String Ball Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "growthRate": "Erratic",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "tarantula": "a large, hairy spider",
+    "round": "circular or spherical"
+  },
+  "pokedexEntries": {
+    "Tarountula": [
+      {
+        "game": "scarlet",
+        "desc": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokémon’s natural enemy."
+      },
+      {
+        "game": "violet",
+        "desc": "The thread it secretes from its rear is as strong as wire. The secret behind the thread’s strength is the topic of ongoing research."
+      }
+    ]
+  }
+}

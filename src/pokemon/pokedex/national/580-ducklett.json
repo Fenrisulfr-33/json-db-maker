@@ -1,0 +1,92 @@
+{
+  "_id": 580,
+  "key": "ducklett",
+  "name": {
+    "english": "Ducklett",
+    "spanish": "Ducklett",
+    "italian": "Ducklett",
+    "japanese": "コアルヒー",
+    "chinese": "鸭宝宝",
+    "korean": "",
+    "german": "Piccolente",
+    "french": "Couaneton"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Water",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Keen Eye",
+      "id": 51
+    },
+    "two": {
+      "name": "Big Pecks",
+      "id": 145
+    },
+    "hidden": {
+      "name": "Hydration",
+      "id": 93
+    }
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 44,
+    "def": 50,
+    "spatk": 44,
+    "spdef": 50,
+    "spd": 55,
+    "total": 305
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "5.5 kg (12.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 202,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Water 1",
+    "Flying"
+  ],
+  "species": "Water Bird Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "duck": "a species of bird",
+    "-lett": "suffix meaning ‘small’"
+  },
+  "pokedexEntries": {
+    "Ducklett": [
+      {
+        "game": "black",
+        "desc": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss."
+      },
+      {
+        "game": "white",
+        "desc": "When attacked, it uses its feathers to splash water, escaping under cover of the spray."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "When attacked, it uses its feathers to splash water, escaping under cover of the spray."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+      }
+    ]
+  }
+}

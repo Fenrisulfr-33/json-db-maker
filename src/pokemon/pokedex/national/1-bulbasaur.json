@@ -1,0 +1,152 @@
+{
+  "_id": 1,
+  "key": "bulbasaur",
+  "name": {
+    "english": "Bulbasaur",
+    "spanish": "Bulbasaur",
+    "italian": "Bulbasaur",
+    "japanese": "フシギダネ",
+    "chinese": "妙蛙种子",
+    "korean": "",
+    "german": "Bisasam",
+    "french": "Bulbizarre"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 68,
+    "crystal": 231,
+    "gold-silver": 231,
+    "yellow": 1,
+    "red-blue": 1
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Chlorophyll",
+      "id": 34
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 49,
+    "def": 49,
+    "spatk": 65,
+    "spdef": 65,
+    "spd": 45,
+    "total": 318
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "6.9 kg (15.2 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 1,
+  "generation": 1,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Seed Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 64,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bulb": "a type of plant",
+    "-saur": "Greek suffix meaning ‘lizard’"
+  },
+  "pokedexEntries": {
+    "Bulbasaur": [
+      {
+        "game": "red-blue",
+        "desc": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON."
+      },
+      {
+        "game": "yellow",
+        "desc": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy."
+      },
+      {
+        "game": "gold",
+        "desc": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows."
+      },
+      {
+        "game": "silver",
+        "desc": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger."
+      },
+      {
+        "game": "crystal",
+        "desc": "While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow."
+      },
+      {
+        "game": "ruby-sapphire-emerald",
+        "desc": "BULBASAUR can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger."
+      },
+      {
+        "game": "fire-red",
+        "desc": "There is a plant seed on its back right from the day this POKéMON is born. The seed slowly grows larger."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "For some time after its birth, it grows by gaining nourishment from the seed on its back."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It carries a seed on its back right from birth. As it grows older, the seed also grows larger."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "For some time after its birth, it grows by gaining nourishment from the seed on its back."
+      },
+      {
+        "game": "x",
+        "desc": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
+      },
+      {
+        "game": "y",
+        "desc": "For some time after its birth, it grows by gaining nourishment from the seed on its back."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It can go for days without eating a single morsel. In the bulb on its back, it stores energy."
+      },
+      {
+        "game": "sword",
+        "desc": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger."
+      },
+      {
+        "game": "shield",
+        "desc": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "For some time after its birth, it grows by taking nourishment from the seed on its back."
+      }
+    ]
+  }
+}

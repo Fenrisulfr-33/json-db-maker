@@ -1,0 +1,72 @@
+{
+  "_id": 933,
+  "key": "naclstack",
+  "name": {
+    "english": "Naclstack"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 130
+  },
+  "type": {
+    "one": "Rock",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Purifying Salt",
+      "id": 272
+    },
+    "two": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Clear Body",
+      "id": 29
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 100,
+    "spatk": 35,
+    "spdef": 65,
+    "spd": 35,
+    "total": 355
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "105.0 kg (231.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Rock Salt Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "NaCl": "chemical formula for salt (sodium chloride)",
+    "stack": "place things on top of one another"
+  },
+  "pokedexEntries": {
+    "Naclstack": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey’s body."
+      },
+      {
+        "game": "violet",
+        "desc": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+      }
+    ]
+  }
+}

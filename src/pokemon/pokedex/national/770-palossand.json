@@ -1,0 +1,96 @@
+{
+  "_id": 770,
+  "key": "palossand",
+  "name": {
+    "english": "Palossand",
+    "spanish": "Palossand",
+    "italian": "Palossand",
+    "japanese": "シロデスナ",
+    "chinese": "噬沙堡爷",
+    "korean": "",
+    "german": "Colossand",
+    "french": "Trépassable"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 323,
+    "isle-of-armor": 134
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Compaction",
+      "id": 195
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 75,
+    "def": 110,
+    "spatk": 100,
+    "spdef": 75,
+    "spd": 35,
+    "total": 480
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "250.0 kg (551.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 268,
+  "generation": 7,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Sand Castle Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 168,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "palace": "large stately building",
+    "sand": "fine rock debris"
+  },
+  "pokedexEntries": {
+    "Palossand": [
+      {
+        "game": "sun",
+        "desc": "Possessed people controlled by this Pokémon transformed its sand mound into a castle. As it evolved, its power to curse grew ever stronger."
+      },
+      {
+        "game": "moon",
+        "desc": "Buried beneath the castle are masses of dried-up bones from those whose vitality it has drained."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Each of its grains of sand has its own will. Palossand eats small Pokémon and siphons away their vital essence while they’re still alive."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality."
+      },
+      {
+        "game": "sword",
+        "desc": "Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls."
+      },
+      {
+        "game": "shield",
+        "desc": "This Pokémon lives on beaches, but it hates water. Palossand can’t maintain its castle-like shape if it gets drenched by a heavy rain."
+      }
+    ]
+  }
+}

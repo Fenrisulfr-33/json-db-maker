@@ -1,0 +1,52 @@
+{
+    "_id": 1023,
+    "key": "iron-crown",
+    "name": {
+        "english": "Iron Crown"
+    },
+    "pokedexNumber": {},
+    "type": {
+        "one": "Steel",
+        "two": "Psychic"
+    },
+    "abilities": {
+        "one": {
+            "name": "Quark Drive",
+            "id": 282
+        }
+    },
+    "baseStats": {
+        "hp": 90,
+        "atk": 72,
+        "def": 100,
+        "spatk": 122,
+        "spdef": 108,
+        "spd": 98,
+        "total": 590
+    },
+    "info": {
+        "height": "1.6 m (5′03″)",
+        "weight": "156.0 kg (343.9 lbs)"
+    },
+    "gender": {
+        "male": "",
+        "female": "",
+        "genderless": true
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "spAtk": 3
+    },
+    "eggGroups": [
+        "Undiscovered"
+    ],
+    "species": "Paradox Pokémon",
+    "catchRate": 10,
+    "baseFriendship": 0, 
+    "baseExp": 0,
+    "growthRate": "Slow",
+    "eggCycles": 0,
+    "nameOrigin": {},
+    "pokedexEntries": {}
+}

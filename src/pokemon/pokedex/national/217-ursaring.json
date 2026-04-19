@@ -1,0 +1,141 @@
+{
+  "_id": 217,
+  "key": "ursaring",
+  "name": {
+    "english": "Ursaring",
+    "spanish": "Ursaring",
+    "italian": "Ursaring",
+    "japanese": "リングマ",
+    "chinese": "圈圈熊",
+    "korean": "",
+    "german": "Ursaring",
+    "french": "Ursaring"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 216,
+    "legends-arceus": 113,
+    "crystal": 199,
+    "gold-silver": 199
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Guts",
+      "id": 62
+    },
+    "two": {
+      "name": "Quick Feet",
+      "id": 95
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 130,
+    "def": 75,
+    "spatk": 75,
+    "spdef": 75,
+    "spd": 55,
+    "total": 500
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "125.8 kg (277.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 73,
+  "generation": 2,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Hibernator Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 175,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "ursa": "Latin for ‘bear’",
+    "ring": "circle, target; refers to its design"
+  },
+  "pokedexEntries": {
+    "Ursaring": [
+      {
+        "game": "gold",
+        "desc": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES."
+      },
+      {
+        "game": "silver",
+        "desc": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground."
+      },
+      {
+        "game": "crystal",
+        "desc": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day."
+      },
+      {
+        "game": "fire-red",
+        "desc": "With its ability to distinguish any smell, it unfailingly finds all food buried deep underground."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Although it is a good climber, it prefers to snap stout trees with its forelegs and eat fallen BERRIES."
+      },
+      {
+        "game": "emerald",
+        "desc": "In forests, it is said that there are many streams and towering trees where an URSARING gathers food. It walks through its forest collecting food every day."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "In its territory, it leaves scratches on trees that bear delicious berries or fruits."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen berries."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "In its territory, it leaves scratches on trees that bear delicious berries or fruits."
+      },
+      {
+        "game": "x",
+        "desc": "With its ability to distinguish any aroma, it unfailingly finds all food buried deep underground."
+      },
+      {
+        "game": "y",
+        "desc": "Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "In its territory, it leaves scratches on trees that bear delicious berries or fruits."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "When the cold season arrives in Hisui, this Pokémon will wander fields and mountains alike in search of its favorite berries. Ursaring’s hunger during this time makes it a ferocious danger."
+      }
+    ]
+  }
+}

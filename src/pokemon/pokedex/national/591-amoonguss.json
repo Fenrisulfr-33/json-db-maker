@@ -1,0 +1,97 @@
+{
+  "_id": 591,
+  "key": "amoonguss",
+  "name": {
+    "english": "Amoonguss",
+    "spanish": "Amoonguss",
+    "italian": "Amoonguss",
+    "japanese": "モロバレル",
+    "chinese": "败露球菇",
+    "korean": "",
+    "german": "Hutsassa",
+    "french": "Gaulet"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 206,
+    "isle-of-armor": 78
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Effect Spore",
+      "id": 27
+    },
+    "hidden": {
+      "name": "Regenerator",
+      "id": 144
+    }
+  },
+  "baseStats": {
+    "hp": 114,
+    "atk": 85,
+    "def": 70,
+    "spatk": 85,
+    "spdef": 80,
+    "spd": 30,
+    "total": 464
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "10.5 kg (23.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 206,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Mushroom Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 162,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "among us": "from the phrase ‘a fungus among us’"
+  },
+  "pokedexEntries": {
+    "Amoonguss": [
+      {
+        "game": "black",
+        "desc": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion."
+      },
+      {
+        "game": "white",
+        "desc": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon puffs poisonous spores at its foes. If the spores aren’t washed off quickly, they’ll grow into mushrooms wherever they land."
+      },
+      {
+        "game": "shield",
+        "desc": "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground."
+      }
+    ]
+  }
+}

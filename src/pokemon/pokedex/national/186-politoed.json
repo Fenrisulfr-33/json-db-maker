@@ -1,0 +1,160 @@
+{
+  "_id": 186,
+  "key": "politoed",
+  "name": {
+    "english": "Politoed",
+    "spanish": "Politoed",
+    "italian": "Politoed",
+    "japanese": "ニョロトノ",
+    "chinese": "蚊香蛙皇",
+    "korean": "",
+    "german": "Quaxo",
+    "french": "Tarpaud"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 145,
+    "crystal": 75,
+    "gold-silver": 75
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Water Absorb",
+      "id": 11
+    },
+    "two": {
+      "name": "Damp",
+      "id": 6
+    },
+    "hidden": {
+      "name": "Drizzle",
+      "id": 2
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 75,
+    "def": 75,
+    "spatk": 90,
+    "spdef": 100,
+    "spd": 70,
+    "total": 500
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "33.9 kg (74.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 26,
+  "generation": 2,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Water 1"
+  ],
+  "species": "Frog Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 225,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "poliwog": "tadpole",
+    "toad": "a species of amphibian"
+  },
+  "pokedexEntries": {
+    "Politoed": [
+      {
+        "game": "gold",
+        "desc": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide."
+      },
+      {
+        "game": "silver",
+        "desc": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing."
+      },
+      {
+        "game": "crystal",
+        "desc": "When it expands its throat to croak out a tune, nearby POLIWAG and POLIWHIRL gather immediately."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "The curled hair on POLITOED’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide."
+      },
+      {
+        "game": "emerald",
+        "desc": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It gathers groups of others as their leader. Its cries make POLIWAG obey."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It gathers groups of others as their leader. Its cries make Poliwag obey."
+      },
+      {
+        "game": "x",
+        "desc": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing."
+      },
+      {
+        "game": "y",
+        "desc": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "The curled hair on Politoed’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers."
+      },
+      {
+        "game": "sun",
+        "desc": "They gather on moonlit nights to form a large chorus. Their cries sound angry and not at all pleasant, but they are certainly distinctive."
+      },
+      {
+        "game": "moon",
+        "desc": "It’s the leader of Poliwag and Poliwhirl. When Politoed roars, they all cower in fear."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although its cries sound like screams, a composer created a beautiful ballad that was influenced by the sounds."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it."
+      },
+      {
+        "game": "sword",
+        "desc": "At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting."
+      },
+      {
+        "game": "shield",
+        "desc": "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "A group of Poliwag and Poliwhirl will form with a Politoed as the leader. Politoed’s cries make the Pokémon of the group obey."
+      }
+    ]
+  }
+}

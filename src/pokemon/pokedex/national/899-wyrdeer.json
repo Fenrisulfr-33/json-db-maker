@@ -1,0 +1,58 @@
+{
+  "_id": 899,
+  "key": "wyrdeer",
+  "name": {
+    "english": "Wyrdeer"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 50
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Intimidate",
+      "id": 22
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Sap Sipper",
+      "id": 157
+    }
+  },
+  "baseStats": {
+    "hp": 103,
+    "atk": 105,
+    "def": 72,
+    "spatk": 105,
+    "spdef": 75,
+    "spd": 65,
+    "total": 525
+  },
+  "info": {
+    "height": "",
+    "weight": ""
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "",
+  "catchRate": null,
+  "baseFriendship": null,
+  "growthRate": null,
+  "eggCycles": null,
+  "nameOrigin": {},
+  "pokedexEntries": {}
+}

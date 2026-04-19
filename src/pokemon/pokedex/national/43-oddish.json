@@ -1,0 +1,163 @@
+{
+  "_id": 43,
+  "key": "oddish",
+  "name": {
+    "english": "Oddish",
+    "spanish": "Oddish",
+    "italian": "Oddish",
+    "japanese": "ナゾノクサ",
+    "chinese": "走路草",
+    "korean": "",
+    "german": "Myrapla",
+    "french": "Mystherbe"
+  },
+  "pokedexNumber": {
+    "sword-shield": 55,
+    "crystal": 83,
+    "gold-silver": 83,
+    "yellow": 43,
+    "red-blue": 43
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "hidden": {
+      "name": "Run Away",
+      "id": 50
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 55,
+    "spatk": 75,
+    "spdef": 65,
+    "spd": 30,
+    "total": 320
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "5.4 kg (11.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 18,
+  "generation": 1,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Weed Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 64,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "Odd": "Strange or weird",
+    "radish": "vegetable"
+  },
+  "pokedexEntries": {
+    "Oddish": [
+      {
+        "game": "red-blue",
+        "desc": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+      },
+      {
+        "game": "yellow",
+        "desc": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly."
+      },
+      {
+        "game": "gold",
+        "desc": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground."
+      },
+      {
+        "game": "silver",
+        "desc": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds."
+      },
+      {
+        "game": "crystal",
+        "desc": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
+      },
+      {
+        "game": "ruby",
+        "desc": "During the daytime, ODDISH buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become."
+      },
+      {
+        "game": "sapphire",
+        "desc": "ODDISH searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this POKéMON’s feet are thought to change shape and become similar to the roots of trees."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+      },
+      {
+        "game": "emerald",
+        "desc": "This POKéMON grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
+      },
+      {
+        "game": "x",
+        "desc": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
+      },
+      {
+        "game": "y",
+        "desc": "Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon’s feet are thought to change shape and become similar to the roots of trees."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly."
+      },
+      {
+        "game": "sword",
+        "desc": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds."
+      },
+      {
+        "game": "shield",
+        "desc": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night."
+      }
+    ]
+  }
+}

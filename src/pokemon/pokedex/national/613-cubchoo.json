@@ -1,0 +1,104 @@
+{
+  "_id": 613,
+  "key": "cubchoo",
+  "name": {
+    "english": "Cubchoo",
+    "spanish": "Cubchoo",
+    "italian": "Cubchoo",
+    "japanese": "クマシュン",
+    "chinese": "喷嚏熊",
+    "korean": "",
+    "german": "Petznief",
+    "french": "Polarhume"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 355,
+    "sword-shield": 279,
+    "crown-tundra": 121
+  },
+  "type": {
+    "one": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Snow Cloak",
+      "id": 81
+    },
+    "two": {
+      "name": "Slush Rush",
+      "id": 202
+    },
+    "hidden": {
+      "name": "Rattled",
+      "id": 155
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 70,
+    "def": 40,
+    "spatk": 60,
+    "spdef": 40,
+    "spd": 40,
+    "total": 305
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "8.5 kg (18.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 215,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Chill Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "cub": "a young bear",
+    "atchoo": "the sound of sneezing"
+  },
+  "pokedexEntries": {
+    "Cubchoo": [
+      {
+        "game": "black",
+        "desc": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases."
+      },
+      {
+        "game": "white",
+        "desc": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
+      },
+      {
+        "game": "sword",
+        "desc": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn’t like."
+      },
+      {
+        "game": "shield",
+        "desc": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it."
+      }
+    ]
+  }
+}

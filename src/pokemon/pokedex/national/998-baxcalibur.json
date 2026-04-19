@@ -1,0 +1,69 @@
+{
+  "_id": 998,
+  "key": "baxcalibur",
+  "name": {
+    "english": "Baxcalibur"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 390
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Thermal Exchange",
+      "id": 270
+    },
+    "hidden": {
+      "name": "Ice Body",
+      "id": 115
+    }
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 145,
+    "def": 92,
+    "spatk": 75,
+    "spdef": 86,
+    "spd": 87,
+    "total": 600
+  },
+  "info": {
+    "height": "2.1 m (6′11″)",
+    "weight": "210.0 kg (463.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ice Dragon Pokémon",
+  "catchRate": 10,
+  "baseFriendship": 50,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "back": "the rear",
+    "axe": "tool with a wide metal blade",
+    "Excalibur": "the legendary sword of King Arthur"
+  },
+  "pokedexEntries": {
+    "Baxcalibur": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava."
+      },
+      {
+        "game": "violet",
+        "desc": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+      }
+    ]
+  }
+}

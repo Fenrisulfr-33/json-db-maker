@@ -1,0 +1,68 @@
+{
+  "_id": 918,
+  "key": "spidops",
+  "name": {
+    "english": "Spidops"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 13
+  },
+  "type": {
+    "one": "Bug",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Insomnia",
+      "id": 15
+    },
+    "hidden": {
+      "name": "Stakeout",
+      "id": 198
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 79,
+    "def": 92,
+    "spatk": 52,
+    "spdef": 86,
+    "spd": 35,
+    "total": 404
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "16.5 kg (36.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Trap Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "growthRate": "Erratic",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "spider": "eight-legged creature",
+    "ops": "operations, particularly of a military kind"
+  },
+  "pokedexEntries": {
+    "Spidops": [
+      {
+        "game": "scarlet",
+        "desc": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it."
+      },
+      {
+        "game": "violet",
+        "desc": "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+      }
+    ]
+  }
+}

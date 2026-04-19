@@ -1,0 +1,103 @@
+{
+  "_id": 519,
+  "key": "pidove",
+  "name": {
+    "english": "Pidove",
+    "spanish": "Pidove",
+    "italian": "Pidove",
+    "japanese": "マメパト",
+    "chinese": "豆豆鸽",
+    "korean": "",
+    "german": "Dusselgurr",
+    "french": "Poichigeon"
+  },
+  "pokedexNumber": {
+    "sword-shield": 26
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Big Pecks",
+      "id": 145
+    },
+    "two": {
+      "name": "Super Luck",
+      "id": 105
+    },
+    "hidden": {
+      "name": "Rivalry",
+      "id": 79
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 55,
+    "def": 50,
+    "spatk": 36,
+    "spdef": 30,
+    "spd": 43,
+    "total": 264
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "2.1 kg (4.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 179,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Tiny Pigeon Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 53,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "pigeon": "a species of bird",
+    "dove": "a species of bird"
+  },
+  "pokedexEntries": {
+    "Pidove": [
+      {
+        "game": "black",
+        "desc": "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands."
+      },
+      {
+        "game": "white",
+        "desc": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas."
+      },
+      {
+        "game": "sword",
+        "desc": "Where people go, these Pokémon follow. If you’re scattering food for them, be careful— several hundred of them can gather at once."
+      },
+      {
+        "game": "shield",
+        "desc": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_id": 654,
+  "key": "braixen",
+  "name": {
+    "english": "Braixen",
+    "spanish": "Braixen",
+    "italian": "Braixen",
+    "japanese": "テールナー",
+    "chinese": "长尾火狐",
+    "korean": "",
+    "german": "Rutena",
+    "french": "Roussil"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fire"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Magician",
+      "id": 170
+    }
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 59,
+    "def": 58,
+    "spatk": 90,
+    "spdef": 70,
+    "spd": 73,
+    "total": 409
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "14.5 kg (32.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 225,
+  "generation": 6,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Fox Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 143,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "braise": "to simmer over heat",
+    "vixen": "a female fox"
+  },
+  "pokedexEntries": {
+    "Braixen": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies."
+      }
+    ]
+  }
+}

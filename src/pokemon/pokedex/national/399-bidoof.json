@@ -1,0 +1,113 @@
+{
+  "_id": 399,
+  "key": "bidoof",
+  "name": {
+    "english": "Bidoof",
+    "spanish": "Bidoof",
+    "italian": "Bidoof",
+    "japanese": "ビッパ",
+    "chinese": "大牙狸",
+    "korean": "",
+    "german": "Bidiza",
+    "french": "Keunotor"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 10
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Simple",
+      "id": 86
+    },
+    "two": {
+      "name": "Unaware",
+      "id": 109
+    },
+    "hidden": {
+      "name": "Moody",
+      "id": 141
+    }
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 45,
+    "def": 40,
+    "spatk": 35,
+    "spdef": 40,
+    "spd": 31,
+    "total": 250
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "20.0 kg (44.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 132,
+  "generation": 4,
+  "evs": {},
+  "eggGroups": [
+    "Water 1",
+    "Field"
+  ],
+  "species": "Plump Mouse Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "biber": "German for ‘beaver’, a rodent",
+    "tooth": "hard object in the mouth for biting/chewing food"
+  },
+  "pokedexEntries": {
+    "Bidoof": [
+      {
+        "game": "diamond",
+        "desc": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears."
+      },
+      {
+        "game": "pearl",
+        "desc": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water."
+      },
+      {
+        "game": "platinum",
+        "desc": "A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care."
+      }
+    ]
+  }
+}

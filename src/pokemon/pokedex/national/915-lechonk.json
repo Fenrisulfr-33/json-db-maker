@@ -1,0 +1,72 @@
+{
+  "_id": 915,
+  "key": "lechonk",
+  "name": {
+    "english": "Lechonk"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 10
+  },
+  "type": {
+    "one": "Normal",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Aroma Veil",
+      "id": 165
+    },
+    "two": {
+      "name": "Gluttony",
+      "id": 82
+    },
+    "hidden": {
+      "name": "Thick Fat",
+      "id": 47
+    }
+  },
+  "baseStats": {
+    "hp": 54,
+    "atk": 45,
+    "def": 40,
+    "spatk": 35,
+    "spdef": 45,
+    "spd": 35,
+    "total": 254
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "10.2 kg (22.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Hog Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "lechon": "Spanish for ‘suckling pig’",
+    "chonk": "slang for fat or chunky"
+  },
+  "pokedexEntries": {
+    "Lechonk": [
+      {
+        "game": "scarlet",
+        "desc": "It searches for food all day. It possesses a keen sense of smell but doesn’t use it for anything other than foraging."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+      }
+    ]
+  }
+}

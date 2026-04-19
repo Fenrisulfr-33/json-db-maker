@@ -1,0 +1,118 @@
+{
+  "_id": 256,
+  "key": "combusken",
+  "name": {
+    "english": "Combusken",
+    "spanish": "Combusken",
+    "italian": "Combusken",
+    "japanese": "ワカシャモ",
+    "chinese": "力壮鸡",
+    "korean": "",
+    "german": "Jungglut",
+    "french": "Galifeu"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Fire",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Blaze",
+      "id": 66
+    },
+    "hidden": {
+      "name": "Speed Boost",
+      "id": 3
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 60,
+    "spatk": 85,
+    "spdef": 60,
+    "spd": 55,
+    "total": 405
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "19.5 kg (43.0 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 87,
+  "generation": 3,
+  "evs": {
+    "atk": 1,
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Young Fowl Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "combustion": "state where something bursts into flames",
+    "chicken": "a species of bird"
+  },
+  "pokedexEntries": {
+    "Combusken": [
+      {
+        "game": "ruby",
+        "desc": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON’s legs possess both speed and power, enabling it to dole out ten kicks in one second."
+      },
+      {
+        "game": "sapphire",
+        "desc": "COMBUSKEN battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This POKéMON’s cry is very loud and distracting."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power."
+      },
+      {
+        "game": "emerald",
+        "desc": "It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+      },
+      {
+        "game": "x",
+        "desc": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+      },
+      {
+        "game": "y",
+        "desc": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon’s legs possess both speed and power, enabling it to dole out 10 kicks in one second."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes."
+      }
+    ]
+  }
+}

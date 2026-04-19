@@ -1,0 +1,148 @@
+{
+  "_id": 182,
+  "key": "bellossom",
+  "name": {
+    "english": "Bellossom",
+    "spanish": "Bellossom",
+    "italian": "Bellossom",
+    "japanese": "キレイハナ",
+    "chinese": "美丽花",
+    "korean": "",
+    "german": "Blubella",
+    "french": "Joliflor"
+  },
+  "pokedexNumber": {
+    "sword-shield": 58,
+    "crystal": 86,
+    "gold-silver": 86
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "hidden": {
+      "name": "Healer",
+      "id": 131
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 95,
+    "spatk": 90,
+    "spdef": 100,
+    "spd": 50,
+    "total": 490
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "5.8 kg (12.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 18,
+  "generation": 2,
+  "evs": {
+    "spdef": 3
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Flower Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 221,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bell": "ringing device (shape)",
+    "blossom": "plant flowers"
+  },
+  "pokedexEntries": {
+    "Bellossom": [
+      {
+        "game": "gold",
+        "desc": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
+      },
+      {
+        "game": "silver",
+        "desc": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound."
+      },
+      {
+        "game": "crystal",
+        "desc": "When these dance together, their petals rub against each other, making pretty, relaxing sounds."
+      },
+      {
+        "game": "ruby",
+        "desc": "When BELLOSSOM gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This POKéMON’s dancing is renowned in the southern lands."
+      },
+      {
+        "game": "sapphire",
+        "desc": "A BELLOSSOM grows flowers more beautifully if it has evolved from a smelly GLOOM - the stinkier the better. At night, this POKéMON closes its petals and goes to sleep."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
+      },
+      {
+        "game": "emerald",
+        "desc": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "BELLOSSOM gather at times and seem to dance. They say that the dance is a ritual to summon the sun."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+      },
+      {
+        "game": "x",
+        "desc": "Bellossom gather at times and seem to dance. They say that the dance is a ritual to summon the sun."
+      },
+      {
+        "game": "y",
+        "desc": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon’s dancing is renowned in the southern lands."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep."
+      },
+      {
+        "game": "sword",
+        "desc": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound."
+      },
+      {
+        "game": "shield",
+        "desc": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+      }
+    ]
+  }
+}

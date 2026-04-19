@@ -1,0 +1,109 @@
+{
+  "_id": 570,
+  "key": "zorua",
+  "name": {
+    "english": "Zorua",
+    "spanish": "Zorua",
+    "italian": "Zorua",
+    "japanese": "ゾロア",
+    "chinese": "索罗亚",
+    "korean": "",
+    "german": "Zorua",
+    "french": "Zorua"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 228,
+    "legends-arceus": 219,
+    "isle-of-armor": 87
+  },
+  "type": {
+    "one": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Illusion",
+      "id": 149
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 40,
+    "spatk": 80,
+    "spdef": 40,
+    "spd": 65,
+    "total": 330
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "12.5 kg (27.6 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 198,
+  "generation": 5,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Tricky Fox Pokémon",
+  "catchRate": 0,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Medium Slow",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "zorro": "Spanish for ‘fox’"
+  },
+  "pokedexEntries": {
+    "Zorua": [
+      {
+        "game": "black",
+        "desc": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child."
+      },
+      {
+        "game": "white",
+        "desc": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This Pokémon has a cowardly disposition, so when it’s not around friends, it basically always stays transformed as something else."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua."
+      },
+      {
+        "game": "sword",
+        "desc": "Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua’s ability to take on the forms of other creatures."
+      },
+      {
+        "game": "shield",
+        "desc": "Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child."
+      }
+    ],
+    "Hisuian Zorua": [
+      {
+        "game": "legends-arceus",
+        "desc": "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice."
+      }
+    ]
+  }
+}

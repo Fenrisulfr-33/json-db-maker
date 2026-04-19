@@ -1,0 +1,81 @@
+{
+  "_id": 827,
+  "key": "nickit",
+  "name": {
+    "english": "Nickit",
+    "spanish": "Nickit",
+    "italian": "Nickit",
+    "japanese": "クスネ",
+    "chinese": "偷儿狐",
+    "korean": "",
+    "german": "Kleptifux",
+    "french": "Goupilou"
+  },
+  "pokedexNumber": {
+    "sword-shield": 29
+  },
+  "type": {
+    "one": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Run Away",
+      "id": 50
+    },
+    "two": {
+      "name": "Unburden",
+      "id": 84
+    },
+    "hidden": {
+      "name": "Stakeout",
+      "id": 198
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 28,
+    "def": 28,
+    "spatk": 47,
+    "spdef": 52,
+    "spd": 50,
+    "total": 245
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "8.9 kg (19.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 280,
+  "generation": 8,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Fox Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 49,
+  "growthRate": "Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "nick": ""
+  },
+  "pokedexEntries": {
+    "Nickit": [
+      {
+        "game": "sword",
+        "desc": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains."
+      },
+      {
+        "game": "shield",
+        "desc": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+      }
+    ]
+  }
+}

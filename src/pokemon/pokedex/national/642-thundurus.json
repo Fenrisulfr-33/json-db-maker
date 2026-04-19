@@ -1,0 +1,101 @@
+{
+  "_id": 642,
+  "key": "thundurus",
+  "name": {
+    "english": "Thundurus",
+    "spanish": "Thundurus",
+    "italian": "Thundurus",
+    "japanese": "ボルトロス",
+    "chinese": "雷电云",
+    "korean": "",
+    "german": "Voltolos",
+    "french": "Fulguris"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 232
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Prankster",
+      "id": 158
+    },
+    "hidden": {
+      "name": "Defiant",
+      "id": 128
+    }
+  },
+  "baseStats": {
+    "hp": 79,
+    "atk": 115,
+    "def": 70,
+    "spatk": 125,
+    "spdef": 80,
+    "spd": 111,
+    "total": 580
+  },
+  "info": {
+    "height": "3.0 m (9′10″)",
+    "weight": "61.0 kg (134.5 lbs)"
+  },
+  "gender": {
+    "male": "100%",
+    "female": "0%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Bolt Strike Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 90,
+  "baseExp": 261,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "thunder": "loud noise produced by a lightning strike",
+    "-us": "common cloud suffix; possession of a given quality"
+  },
+  "pokedexEntries": {
+    "Incarnate Forme": [
+      {
+        "game": "black",
+        "desc": "Countless charred remains mar the landscape of places through which Thundurus has passed."
+      },
+      {
+        "game": "white",
+        "desc": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil."
+      }
+    ],
+    "Therian Forme": [
+      {
+        "game": "legends-arceus",
+        "desc": "Quick as a flash, it materializes out of nowhere. It pulverizes foes into nothingness with showers of devastatingly powerful lightning bolts launched from the string of orbs on its tail."
+      }
+    ]
+  }
+}

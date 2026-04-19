@@ -1,0 +1,146 @@
+{
+  "_id": 202,
+  "key": "wobbuffet",
+  "name": {
+    "english": "Wobbuffet",
+    "spanish": "Wobbuffet",
+    "italian": "Wobbuffet",
+    "japanese": "ソーナンス",
+    "chinese": "果然翁",
+    "korean": "",
+    "german": "Woingenau",
+    "french": "Qulbutoké"
+  },
+  "pokedexNumber": {
+    "sword-shield": 217,
+    "crystal": 108,
+    "gold-silver": 108
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shadow Tag",
+      "id": 23
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 190,
+    "atk": 33,
+    "def": 58,
+    "spatk": 33,
+    "spdef": 58,
+    "spd": 33,
+    "total": 405
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "28.5 kg (62.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 122,
+  "generation": 2,
+  "evs": {},
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Patient Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "wobble": "rocking motion",
+    "buffet": "strike repeatedly (relating to Wobbuffet’s punching bag shape)"
+  },
+  "pokedexEntries": {
+    "Wobbuffet": [
+      {
+        "game": "gold",
+        "desc": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike."
+      },
+      {
+        "game": "silver",
+        "desc": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+      },
+      {
+        "game": "crystal",
+        "desc": "In order to conceal its black tail, it lives in a dark cave and only moves about at night."
+      },
+      {
+        "game": "ruby",
+        "desc": "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit."
+      },
+      {
+        "game": "sapphire",
+        "desc": "WOBBUFFET does nothing but endure attacks - it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND."
+      },
+      {
+        "game": "fire-red",
+        "desc": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike."
+      },
+      {
+        "game": "emerald",
+        "desc": "Usually docile, a WOBBUFFET strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret."
+      },
+      {
+        "game": "x",
+        "desc": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike."
+      },
+      {
+        "game": "y",
+        "desc": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Wobbuffet does nothing but endure attacks—it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond."
+      },
+      {
+        "game": "sword",
+        "desc": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike."
+      },
+      {
+        "game": "shield",
+        "desc": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It desperately tries to keep its black tail hidden. This behavior is said to be proof that its tail hides a secret."
+      }
+    ]
+  }
+}

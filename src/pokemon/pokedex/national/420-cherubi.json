@@ -1,0 +1,116 @@
+{
+  "_id": 420,
+  "key": "cherubi",
+  "name": {
+    "english": "Cherubi",
+    "spanish": "Cherubi",
+    "italian": "Cherubi",
+    "japanese": "チェリンボ",
+    "chinese": "樱花宝",
+    "korean": "",
+    "german": "Kikugi",
+    "french": "Ceribou"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 66,
+    "sword-shield": 128
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 35,
+    "def": 45,
+    "spatk": 62,
+    "spdef": 53,
+    "spd": 35,
+    "total": 275
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "3.3 kg (7.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 141,
+  "generation": 4,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "species": "Cherry Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 55,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "cherry": "a small fruit that grows on trees",
+    "cherubim": "sweet, innocent child"
+  },
+  "pokedexEntries": {
+    "Cherubi": [
+      {
+        "game": "diamond",
+        "desc": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty."
+      },
+      {
+        "game": "pearl",
+        "desc": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution."
+      },
+      {
+        "game": "platinum",
+        "desc": "The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It evolves by sucking the energy out of the small ball where it had been storing nutrients."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It evolves by sucking the energy out of the small ball where it had been storing nutrients."
+      },
+      {
+        "game": "sword",
+        "desc": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball."
+      },
+      {
+        "game": "shield",
+        "desc": "The deeper a Cherubi’s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!"
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Sunlight colors it red. When the small ball is drained of nutrients and shriveled, evolution is near."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Once the fruit growing alongside the main body is large and plump, Cherubi will use the nutrients within to evolve. The fruit then detaches, becoming nourishment for other creatures."
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "_id": 201,
+  "key": "unown",
+  "name": {
+    "english": "Unown",
+    "spanish": "Unown",
+    "italian": "Unown",
+    "japanese": "アンノーン",
+    "chinese": "未知图腾",
+    "korean": "",
+    "german": "Icognito",
+    "french": "Zarbi"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 142,
+    "crystal": 61,
+    "gold-silver": 61
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 48,
+    "atk": 72,
+    "def": 48,
+    "spatk": 72,
+    "spdef": 48,
+    "spd": 48,
+    "total": 336
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "5.0 kg (11.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 2,
+  "evs": {
+    "atk": 1,
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Symbol Pokémon",
+  "catchRate": 225,
+  "baseFriendship": 50,
+  "baseExp": 118,
+  "growthRate": "Medium Fast",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "unknown": "not known ;)"
+  },
+  "pokedexEntries": {
+    "Unown": [
+      {
+        "game": "gold",
+        "desc": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related."
+      },
+      {
+        "game": "silver",
+        "desc": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+      },
+      {
+        "game": "crystal",
+        "desc": "Because different types of UNOWN exist, it is said that they must have a variety of abilities."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "This POKéMON is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various UNOWN. Research into this topic is ongoing but nothing is known."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related."
+      },
+      {
+        "game": "emerald",
+        "desc": "This POKéMON is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various UNOWN."
+      },
+      {
+        "game": "diamond",
+        "desc": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first."
+      },
+      {
+        "game": "pearl",
+        "desc": "They seem to communicate among each other telepathically. They are always found stuck on walls."
+      },
+      {
+        "game": "platinum",
+        "desc": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge."
+      },
+      {
+        "game": "x",
+        "desc": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning."
+      },
+      {
+        "game": "y",
+        "desc": "Shaped like ancient writing, it is a huge mystery whether language or Unown came first."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "Because the Pokémon is shaped like ancient writing, it is a huge mystery whether written language or Unown came first."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "They seem to communicate among each other telepathically. They are always found stuck on walls."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I’ve pointed out that the species’ many forms resemble writing from other lands; no one will take me seriously."
+      }
+    ]
+  }
+}

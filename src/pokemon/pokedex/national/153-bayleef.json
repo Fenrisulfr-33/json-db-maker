@@ -1,0 +1,133 @@
+{
+  "_id": 153,
+  "key": "bayleef",
+  "name": {
+    "english": "Bayleef",
+    "spanish": "Bayleef",
+    "italian": "Bayleef",
+    "japanese": "ベイリーフ",
+    "chinese": "月桂叶",
+    "korean": "",
+    "german": "Lorblatt",
+    "french": "Macronium"
+  },
+  "pokedexNumber": {
+    "crystal": 2,
+    "gold-silver": 2
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Leaf Guard",
+      "id": 102
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 80,
+    "spatk": 63,
+    "spdef": 80,
+    "spd": 60,
+    "total": 405
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "15.8 kg (34.8 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 54,
+  "generation": 2,
+  "evs": {
+    "def": 1,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Leaf Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 142,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bay": "a type of tree",
+    "leaf": "plant foliage"
+  },
+  "pokedexEntries": {
+    "Bayleef": [
+      {
+        "game": "gold",
+        "desc": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight."
+      },
+      {
+        "game": "silver",
+        "desc": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health."
+      },
+      {
+        "game": "crystal",
+        "desc": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "BAYLEEF’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight."
+      },
+      {
+        "game": "emerald",
+        "desc": "A BAYLEEF’s neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "The buds that ring its neck give off a spicy aroma that perks people up."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "The buds that ring its neck give off a spicy aroma that perks people up."
+      },
+      {
+        "game": "x",
+        "desc": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health."
+      },
+      {
+        "game": "y",
+        "desc": "The buds that ring its neck give off a spicy aroma that perks people up."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "The buds that ring its neck give off a spicy aroma that perks people up."
+      }
+    ]
+  }
+}

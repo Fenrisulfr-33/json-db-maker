@@ -1,0 +1,96 @@
+{
+  "_id": 563,
+  "key": "cofagrigus",
+  "name": {
+    "english": "Cofagrigus",
+    "spanish": "Cofagrigus",
+    "italian": "Cofagrigus",
+    "japanese": "デスカーン",
+    "chinese": "死神棺",
+    "korean": "",
+    "german": "Echnatoll",
+    "french": "Tutankafer"
+  },
+  "pokedexNumber": {
+    "sword-shield": 329
+  },
+  "type": {
+    "one": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Mummy",
+      "id": 152
+    }
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 50,
+    "def": 145,
+    "spatk": 95,
+    "spdef": 105,
+    "spd": 30,
+    "total": 483
+  },
+  "info": {
+    "height": "1.7 m (5′07″)",
+    "weight": "76.5 kg (168.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 194,
+  "generation": 5,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "species": "Coffin Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 169,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "coffin": "casket for the deceased",
+    "sarcophagus": "large coffin carved from stone",
+    "egregious": "outstandingly bad; shocking"
+  },
+  "pokedexEntries": {
+    "Cofagrigus": [
+      {
+        "game": "black",
+        "desc": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets."
+      },
+      {
+        "game": "white",
+        "desc": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon has a body of sparkling gold. People say it no longer remembers that it was once human."
+      },
+      {
+        "game": "shield",
+        "desc": "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had."
+      }
+    ]
+  }
+}

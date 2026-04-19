@@ -1,0 +1,168 @@
+{
+  "_id": 139,
+  "key": "omastar",
+  "name": {
+    "english": "Omastar",
+    "spanish": "Omastar",
+    "italian": "Omastar",
+    "japanese": "オムスター",
+    "chinese": "多刺菊石兽",
+    "korean": "",
+    "german": "Amoroso",
+    "french": "Amonistar"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 124,
+    "crystal": 226,
+    "gold-silver": 226,
+    "yellow": 139,
+    "red-blue": 139
+  },
+  "type": {
+    "one": "Rock",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "two": {
+      "name": "Shell Armor",
+      "id": 75
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 60,
+    "def": 125,
+    "spatk": 115,
+    "spdef": 70,
+    "spd": 55,
+    "total": 495
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "35.0 kg (77.2 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 51,
+  "generation": 1,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "species": "Spiral Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "ammonite": "shell fossil",
+    "star": "pointed shape"
+  },
+  "pokedexEntries": {
+    "Omastar": [
+      {
+        "game": "red-blue",
+        "desc": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey."
+      },
+      {
+        "game": "yellow",
+        "desc": "Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct."
+      },
+      {
+        "game": "gold",
+        "desc": "Apparently, it cracked SHELLDER’s shell with its sharp fangs and sucked out the insides."
+      },
+      {
+        "game": "silver",
+        "desc": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs."
+      },
+      {
+        "game": "crystal",
+        "desc": "Its heavy shell allowed it to reach only nearby food. This could be the reason it is extinct."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous."
+      },
+      {
+        "game": "fire-red",
+        "desc": "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey."
+      },
+      {
+        "game": "emerald",
+        "desc": "An OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It is thought that this Pokémon became extinct because its spiral shell grew too large."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Apparently, it cracked SHELLDER’s shell with its sharp fangs and sucked out the insides."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It is thought that this Pokémon became extinct because its spiral shell grew too large."
+      },
+      {
+        "game": "x",
+        "desc": "Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites."
+      },
+      {
+        "game": "y",
+        "desc": "Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its heavy shell is thought to be the reason this ancient Pokémon died out. It’s apparently a distant ancestor of Octillery."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It wraps its prey in its tentacles to immobilize them and then finishes them off with its sharp fangs."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct."
+      },
+      {
+        "game": "sword",
+        "desc": "Weighed down by a large and heavy shell, Omastar couldn’t move very fast. Some say it went extinct because it was unable to catch food."
+      },
+      {
+        "game": "shield",
+        "desc": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It is thought that this Pokémon became extinct because its spiral shell grew too large."
+      }
+    ]
+  }
+}

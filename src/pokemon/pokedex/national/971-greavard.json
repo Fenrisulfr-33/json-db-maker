@@ -1,0 +1,68 @@
+{
+  "_id": 971,
+  "key": "greavard",
+  "name": {
+    "english": "Greavard"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 311
+  },
+  "type": {
+    "one": "Ghost",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "hidden": {
+      "name": "Fluffy",
+      "id": 218
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 61,
+    "def": 60,
+    "spatk": 30,
+    "spdef": 55,
+    "spd": 34,
+    "total": 290
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "35.0 kg (77.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Ghost Dog Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "greaves": "animal fat used to make candles",
+    "graveyard": "cemetery, burial ground"
+  },
+  "pokedexEntries": {
+    "Greavard": [
+      {
+        "game": "scarlet",
+        "desc": "It is said that a dog Pokémon that died in the wild without ever interacting with a human was reborn as this Pokémon."
+      },
+      {
+        "game": "violet",
+        "desc": "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+      }
+    ]
+  }
+}

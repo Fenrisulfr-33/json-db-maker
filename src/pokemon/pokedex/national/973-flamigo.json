@@ -1,0 +1,72 @@
+{
+  "_id": 973,
+  "key": "flamigo",
+  "name": {
+    "english": "Flamigo"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 346
+  },
+  "type": {
+    "one": "Flying",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Scrappy",
+      "id": 113
+    },
+    "two": {
+      "name": "Tangled Feet",
+      "id": 77
+    },
+    "hidden": {
+      "name": "Costar",
+      "id": 294
+    }
+  },
+  "baseStats": {
+    "hp": 82,
+    "atk": 115,
+    "def": 74,
+    "spatk": 75,
+    "spdef": 64,
+    "spd": 90,
+    "total": 500
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "37.0 kg (81.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Synchronize Pokémon",
+  "catchRate": 100,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "flamingo": "a tall pink wading bird",
+    "amigo": "Spanish for ‘friend’ or ’buddy’"
+  },
+  "pokedexEntries": {
+    "Flamigo": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak."
+      },
+      {
+        "game": "violet",
+        "desc": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony."
+      }
+    ]
+  }
+}

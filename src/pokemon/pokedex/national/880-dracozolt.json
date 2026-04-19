@@ -1,0 +1,83 @@
+{
+  "_id": 880,
+  "key": "dracozolt",
+  "name": {
+    "english": "Dracozolt",
+    "spanish": "Dracozolt",
+    "italian": "Dracozolt",
+    "japanese": "パッチラゴン",
+    "chinese": "雷鸟龙",
+    "korean": "",
+    "german": "Lectragon",
+    "french": "Galvagon"
+  },
+  "pokedexNumber": {
+    "sword-shield": 374
+  },
+  "type": {
+    "one": "Electric",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Volt Absorb",
+      "id": 10
+    },
+    "two": {
+      "name": "Hustle",
+      "id": 55
+    },
+    "hidden": {
+      "name": "Sand Rush",
+      "id": 146
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "spatk": 80,
+    "spdef": 70,
+    "spd": 75,
+    "total": 505
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "190.0 kg (418.9 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 8,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Fossil Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 177,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "draco": "Latin for ‘dragon’",
+    "volt": "unit of electricity"
+  },
+  "pokedexEntries": {
+    "Dracozolt": [
+      {
+        "game": "sword",
+        "desc": "In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources."
+      },
+      {
+        "game": "shield",
+        "desc": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small."
+      }
+    ]
+  }
+}

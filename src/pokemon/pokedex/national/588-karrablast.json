@@ -1,0 +1,104 @@
+{
+  "_id": 588,
+  "key": "karrablast",
+  "name": {
+    "english": "Karrablast",
+    "spanish": "Karrablast",
+    "italian": "Karrablast",
+    "japanese": "カブルモ",
+    "chinese": "盖盖虫",
+    "korean": "",
+    "german": "Laukaps",
+    "french": "Carabing"
+  },
+  "pokedexNumber": {
+    "sword-shield": 273,
+    "isle-of-armor": 66,
+    "crown-tundra": 95
+  },
+  "type": {
+    "one": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swarm",
+      "id": 68
+    },
+    "two": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "No Guard",
+      "id": 99
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 45,
+    "spatk": 40,
+    "spdef": 45,
+    "spd": 60,
+    "total": 315
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "5.9 kg (13.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 205,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Clamping Pokémon",
+  "catchRate": 200,
+  "baseFriendship": 50,
+  "baseExp": 63,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "scarab": "a species of beetle",
+    "blast": "an explosion"
+  },
+  "pokedexEntries": {
+    "Karrablast": [
+      {
+        "game": "black",
+        "desc": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet."
+      },
+      {
+        "game": "white",
+        "desc": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet."
+      },
+      {
+        "game": "sword",
+        "desc": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve."
+      },
+      {
+        "game": "shield",
+        "desc": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents."
+      }
+    ]
+  }
+}

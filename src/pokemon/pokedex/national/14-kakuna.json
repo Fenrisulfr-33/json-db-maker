@@ -1,0 +1,141 @@
+{
+  "_id": 14,
+  "key": "kakuna",
+  "name": {
+    "english": "Kakuna",
+    "spanish": "Kakuna",
+    "italian": "Kakuna",
+    "japanese": "コクーン",
+    "chinese": "铁壳蛹",
+    "korean": "",
+    "german": "Kokuna",
+    "french": "Coconfort"
+  },
+  "pokedexNumber": {
+    "crystal": 28,
+    "gold-silver": 28,
+    "yellow": 14,
+    "red-blue": 14
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 25,
+    "def": 50,
+    "spatk": 25,
+    "spdef": 25,
+    "spd": 35,
+    "total": 205
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "10.0 kg (22.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 5,
+  "generation": 1,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Bug"
+  ],
+  "species": "Cocoon Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 72,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "cocoon": "a pupal casing made by some insects"
+  },
+  "pokedexEntries": {
+    "Kakuna": [
+      {
+        "game": "red-blue",
+        "desc": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators."
+      },
+      {
+        "game": "yellow",
+        "desc": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+      },
+      {
+        "game": "gold",
+        "desc": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked."
+      },
+      {
+        "game": "silver",
+        "desc": "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens."
+      },
+      {
+        "game": "crystal",
+        "desc": "Nearly incapable of movement, it leans against stout trees while waiting for its evolution."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "KAKUNA remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
+      },
+      {
+        "game": "fire-red",
+        "desc": "This POKéMON is in a temporary stage while making its body. It is almost completely unable to move on its own."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself when it is in danger."
+      },
+      {
+        "game": "emerald",
+        "desc": "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Although it is a cocoon, it can move a little. It can extend its poison barb if it is attacked."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "From this form, it will grow into an adult. As its body becomes softer, the external shell hardens."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+      },
+      {
+        "game": "x",
+        "desc": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger."
+      },
+      {
+        "game": "y",
+        "desc": "While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+      }
+    ]
+  }
+}

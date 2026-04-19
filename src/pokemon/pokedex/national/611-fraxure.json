@@ -1,0 +1,104 @@
+{
+  "_id": 611,
+  "key": "fraxure",
+  "name": {
+    "english": "Fraxure",
+    "spanish": "Fraxure",
+    "italian": "Fraxure",
+    "japanese": "オノンド",
+    "chinese": "斧牙龙",
+    "korean": "",
+    "german": "Sharfax",
+    "french": "Incisache"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 156,
+    "sword-shield": 325
+  },
+  "type": {
+    "one": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Rivalry",
+      "id": 79
+    },
+    "two": {
+      "name": "Mold Breaker",
+      "id": 104
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 66,
+    "atk": 117,
+    "def": 70,
+    "spatk": 40,
+    "spdef": 50,
+    "spd": 67,
+    "total": 410
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "36.0 kg (79.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 214,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "species": "Axe Jaw Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 35,
+  "baseExp": 144,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "fracture": "to break or crack",
+    "axe": "implement used for chopping"
+  },
+  "pokedexEntries": {
+    "Fraxure": [
+      {
+        "game": "black",
+        "desc": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they’ve been fighting."
+      },
+      {
+        "game": "white",
+        "desc": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."
+      },
+      {
+        "game": "sword",
+        "desc": "After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back."
+      },
+      {
+        "game": "shield",
+        "desc": "Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time."
+      }
+    ]
+  }
+}

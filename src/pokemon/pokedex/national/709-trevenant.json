@@ -1,0 +1,109 @@
+{
+  "_id": 709,
+  "key": "trevenant",
+  "name": {
+    "english": "Trevenant",
+    "spanish": "Trevenant",
+    "italian": "Trevenant",
+    "japanese": "オーロット",
+    "chinese": "朽木妖",
+    "korean": "",
+    "german": "Trombork",
+    "french": "Desséliande"
+  },
+  "pokedexNumber": {
+    "sword-shield": 339,
+    "crown-tundra": 34
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Natural Cure",
+      "id": 30
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Harvest",
+      "id": 139
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 110,
+    "def": 76,
+    "spatk": 65,
+    "spdef": 82,
+    "spd": 56,
+    "total": 474
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "71.0 kg (156.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 246,
+  "generation": 6,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Grass",
+    "Amorphous"
+  ],
+  "species": "Elder Tree Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 166,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "tree": "large plant with a trunk",
+    "revenant": "one who has returned from the dead"
+  },
+  "pokedexEntries": {
+    "Trevenant": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "It can control trees at will. It will trap people who harm the forest, so they can never leave."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Using its roots as a nervous system, it controls the trees in the forest. It’s kind to the Pokémon that reside in its body."
+      },
+      {
+        "game": "sun",
+        "desc": "This Pokémon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness."
+      },
+      {
+        "game": "moon",
+        "desc": "Through its roots, it exerts control over other trees. A deadly curse falls upon anyone cutting down trees in forests where Trevenant dwell."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It’s feared as a ghost of the forest. Lumberjacks bring along Fire types, which Trevenant hates, when they enter the forest."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "This Pokémon controls trees via roots stretching from its feet, and it will attack anyone that dares to ravage the forest."
+      },
+      {
+        "game": "sword",
+        "desc": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it’s kind."
+      },
+      {
+        "game": "shield",
+        "desc": "Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them."
+      }
+    ]
+  }
+}

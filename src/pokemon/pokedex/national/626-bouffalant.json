@@ -1,0 +1,102 @@
+{
+  "_id": 626,
+  "key": "bouffalant",
+  "name": {
+    "english": "Bouffalant",
+    "spanish": "Bouffalant",
+    "italian": "Bouffalant",
+    "japanese": "バッフロン",
+    "chinese": "爆炸头水牛",
+    "korean": "",
+    "german": "Bisofank",
+    "french": "Frison"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 53
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Reckless",
+      "id": 120
+    },
+    "two": {
+      "name": "Sap Sipper",
+      "id": 157
+    },
+    "hidden": {
+      "name": "Soundproof",
+      "id": 43
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 110,
+    "def": 95,
+    "spatk": 40,
+    "spdef": 95,
+    "spd": 55,
+    "total": 490
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "94.6 kg (208.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "atk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Bash Buffalo Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "bouffant": "hair style",
+    "buffalo": "a large ox"
+  },
+  "pokedexEntries": {
+    "Bouffalant": [
+      {
+        "game": "black",
+        "desc": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt."
+      },
+      {
+        "game": "white",
+        "desc": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt."
+      },
+      {
+        "game": "sword",
+        "desc": "These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd."
+      },
+      {
+        "game": "shield",
+        "desc": "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason."
+      }
+    ]
+  }
+}

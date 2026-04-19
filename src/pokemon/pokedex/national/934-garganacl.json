@@ -1,0 +1,72 @@
+{
+  "_id": 934,
+  "key": "garganacl",
+  "name": {
+    "english": "Garganacl"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 131
+  },
+  "type": {
+    "one": "Rock",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Purifying Salt",
+      "id": 272
+    },
+    "two": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Clear Body",
+      "id": 29
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 130,
+    "spatk": 45,
+    "spdef": 90,
+    "spd": 35,
+    "total": 500
+  },
+  "info": {
+    "height": "2.3 m (7′07″)",
+    "weight": "240.0 kg (529.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Rock Salt Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gargantuan": "huge, giant",
+    "NaCl": "chemical formula for salt (sodium chloride)"
+  },
+  "pokedexEntries": {
+    "Garganacl": [
+      {
+        "game": "scarlet",
+        "desc": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward."
+      },
+      {
+        "game": "violet",
+        "desc": "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt."
+      }
+    ]
+  }
+}

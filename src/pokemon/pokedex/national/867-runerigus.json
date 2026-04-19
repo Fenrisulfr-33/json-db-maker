@@ -1,0 +1,73 @@
+{
+  "_id": 867,
+  "key": "runerigus",
+  "name": {
+    "english": "Runerigus",
+    "spanish": "Runerigus",
+    "italian": "Runerigus",
+    "japanese": "デスバーン",
+    "chinese": "死神板",
+    "korean": "",
+    "german": "Oghnatoll",
+    "french": "Tutétékri"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Ground",
+    "two": "Ghost"
+  },
+  "abilities": {
+    "one": {
+      "name": "Wandering Spirit",
+      "id": 254
+    }
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 95,
+    "def": 145,
+    "spatk": 50,
+    "spdef": 105,
+    "spd": 30,
+    "total": 483
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "66.6 kg (146.8 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 194,
+  "generation": 8,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Grudge Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 169,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "rune": "",
+    "egregious": ""
+  },
+  "pokedexEntries": {
+    "Runerigus": [
+      {
+        "game": "sword",
+        "desc": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move."
+      },
+      {
+        "game": "shield",
+        "desc": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it."
+      }
+    ]
+  }
+}

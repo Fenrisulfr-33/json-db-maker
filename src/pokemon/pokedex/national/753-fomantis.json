@@ -1,0 +1,95 @@
+{
+  "_id": 753,
+  "key": "fomantis",
+  "name": {
+    "english": "Fomantis",
+    "spanish": "Fomantis",
+    "italian": "Fomantis",
+    "japanese": "カリキリ",
+    "chinese": "伪螳草",
+    "korean": "",
+    "german": "Imantis",
+    "french": "Mimantis"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 247,
+    "isle-of-armor": 17
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Leaf Guard",
+      "id": 102
+    },
+    "hidden": {
+      "name": "Contrary",
+      "id": 126
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 55,
+    "def": 35,
+    "spatk": 50,
+    "spdef": 35,
+    "spd": 35,
+    "total": 250
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "1.5 kg (3.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 262,
+  "generation": 7,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Grass"
+  ],
+  "species": "Sickle Grass Pokémon",
+  "catchRate": 190,
+  "baseFriendship": 50,
+  "baseExp": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "faux": "false, artificial",
+    "mantis": "a species of insect"
+  },
+  "pokedexEntries": {
+    "Fomantis": [
+      {
+        "game": "sun",
+        "desc": "During the day, it sleeps and soaks up light. When night falls, it walks around looking for a safer place to sleep."
+      },
+      {
+        "game": "moon",
+        "desc": "They give off a sweet and refreshing scent. Cutiefly often gather near the tall grass where Fomantis are hiding."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When the sun rises, Fomantis spreads its four leaves and bathes in the sunlight. The tip of its head has a pleasant aroma."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration."
+      },
+      {
+        "game": "sword",
+        "desc": "When bathed in sunlight, this Pokémon emits a pleasantly sweet scent, which causes bug Pokémon to gather around it."
+      },
+      {
+        "game": "shield",
+        "desc": "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night."
+      }
+    ]
+  }
+}

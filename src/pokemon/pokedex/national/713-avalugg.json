@@ -1,0 +1,99 @@
+{
+  "_id": 713,
+  "key": "avalugg",
+  "name": {
+    "english": "Avalugg",
+    "spanish": "Avalugg",
+    "italian": "Avalugg",
+    "japanese": "クレベース",
+    "chinese": "冰岩怪",
+    "korean": "",
+    "german": "Arktilas",
+    "french": "Séracrawl"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 364,
+    "legends-arceus": 216,
+    "sword-shield": 359,
+    "crown-tundra": 143
+  },
+  "type": {
+    "one": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Own Tempo",
+      "id": 20
+    },
+    "two": {
+      "name": "Ice Body",
+      "id": 115
+    },
+    "hidden": {
+      "name": "Sturdy",
+      "id": 5
+    }
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 117,
+    "def": 184,
+    "spatk": 44,
+    "spdef": 46,
+    "spd": 28,
+    "total": 514
+  },
+  "info": {
+    "height": "1.4 m (4′07″)",
+    "weight": "262.4 kg (578.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 248,
+  "generation": 6,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    "Monster"
+  ],
+  "species": "Iceberg Pokémon",
+  "catchRate": 55,
+  "baseFriendship": 50,
+  "baseExp": 180,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "avalanche": "a landslide of snow",
+    "vugg": "small cavity in rock or ice"
+  },
+  "pokedexEntries": {
+    "Avalugg": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice."
+      },
+      {
+        "game": "sword",
+        "desc": "At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs."
+      },
+      {
+        "game": "shield",
+        "desc": "As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight."
+      }
+    ],
+    "Hisuian Avalugg": [
+      {
+        "game": "legends-arceus",
+        "desc": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pokémon barrels along steep mountain paths, cleaving through the deep snow."
+      }
+    ]
+  }
+}

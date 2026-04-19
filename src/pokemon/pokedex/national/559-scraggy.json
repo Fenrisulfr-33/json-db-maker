@@ -1,0 +1,112 @@
+{
+  "_id": 559,
+  "key": "scraggy",
+  "name": {
+    "english": "Scraggy",
+    "spanish": "Scraggy",
+    "italian": "Scraggy",
+    "japanese": "ズルッグ",
+    "chinese": "滑滑小子",
+    "korean": "",
+    "german": "Zurrokex",
+    "french": "Baggiguane"
+  },
+  "pokedexNumber": {
+    "sword-shield": 224,
+    "isle-of-armor": 161
+  },
+  "type": {
+    "one": "Dark",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "two": {
+      "name": "Moxie",
+      "id": 153
+    },
+    "hidden": {
+      "name": "Intimidate",
+      "id": 22
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 70,
+    "spatk": 35,
+    "spdef": 70,
+    "spd": 48,
+    "total": 348
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "11.8 kg (26.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 193,
+  "generation": 5,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "species": "Shedding Pokémon",
+  "catchRate": 180,
+  "baseFriendship": 35,
+  "baseExp": 70,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "scraggy": "thin, scrawny"
+  },
+  "pokedexEntries": {
+    "Scraggy": [
+      {
+        "game": "black",
+        "desc": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck."
+      },
+      {
+        "game": "white",
+        "desc": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner."
+      },
+      {
+        "game": "sword",
+        "desc": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out."
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_id": 798,
+  "key": "kartana",
+  "name": {
+    "english": "Kartana",
+    "spanish": "Kartana",
+    "italian": "Kartana",
+    "japanese": "カミツルギ",
+    "chinese": "纸御剑",
+    "korean": "",
+    "german": "Katagami",
+    "french": "Katagami"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Grass",
+    "two": "Steel"
+  },
+  "abilities": {
+    "one": {
+      "name": "Beast Boost",
+      "id": 224
+    }
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 181,
+    "def": 131,
+    "spatk": 59,
+    "spdef": 31,
+    "spd": 109,
+    "total": 570
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "0.1 kg (0.2 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Drawn Sword Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 0,
+  "baseExp": 257,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "katana": "Japanese samurai sword"
+  },
+  "pokedexEntries": {
+    "Kartana": [
+      {
+        "game": "sun",
+        "desc": "This Ultra Beast came from the Ultra Wormhole. It seems not to attack enemies on its own, but its sharp body is a dangerous weapon in itself."
+      },
+      {
+        "game": "moon",
+        "desc": "One of the Ultra Beast life-forms, it was observed cutting down a gigantic steel tower with one stroke of its blade."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "_id": 691,
+  "key": "dragalge",
+  "name": {
+    "english": "Dragalge",
+    "spanish": "Dragalge",
+    "italian": "Dragalge",
+    "japanese": "ドラミドロ",
+    "chinese": "毒藻龙",
+    "korean": "",
+    "german": "Tandrak",
+    "french": "Kravarech"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 338,
+    "isle-of-armor": 195
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Poison Touch",
+      "id": 143
+    },
+    "hidden": {
+      "name": "Adaptability",
+      "id": 91
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 75,
+    "def": 90,
+    "spatk": 97,
+    "spdef": 123,
+    "spd": 44,
+    "total": 494
+  },
+  "info": {
+    "height": "1.8 m (5′11″)",
+    "weight": "81.5 kg (179.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 240,
+  "generation": 6,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "species": "Mock Kelp Pokémon",
+  "catchRate": 55,
+  "baseFriendship": 50,
+  "baseExp": 173,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "dragon": "mythical fire-breathing creature",
+    "algae": "aquatic plant family that includes seaweed"
+  },
+  "pokedexEntries": {
+    "Dragalge": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Tales are told of ships that wander into seas where Dragalge live, never to return."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "This vicious Pokémon sprays a poisonous liquid on opponents that come near. For whatever reason, it gets along really well with Dhelmise."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It blends in with seaweed to ambush its prey and then takes them down with a poisonous liquid strong enough to melt metal."
+      },
+      {
+        "game": "sword",
+        "desc": "Dragalge uses a poisonous liquid capable of corroding metal to send tankers that enter its territory to the bottom of the sea."
+      },
+      {
+        "game": "shield",
+        "desc": "Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight."
+      }
+    ]
+  }
+}

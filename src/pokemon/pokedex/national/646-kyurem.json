@@ -1,0 +1,113 @@
+{
+  "_id": 646,
+  "key": "kyurem",
+  "name": {
+    "english": "Kyurem",
+    "spanish": "Kyurem",
+    "italian": "Kyurem",
+    "japanese": "キュレム",
+    "chinese": "酋雷姆",
+    "korean": "",
+    "german": "Kyurem",
+    "french": "Kyurem"
+  },
+  "pokedexNumber": {},
+  "type": {
+    "one": "Dragon",
+    "two": "Ice"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    }
+  },
+  "baseStats": {
+    "hp": 125,
+    "atk": 130,
+    "def": 90,
+    "spatk": 130,
+    "spdef": 90,
+    "spd": 95,
+    "total": 660
+  },
+  "info": {
+    "height": "3.6 m (11′10″)",
+    "weight": "325.0 kg (716.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 5,
+  "evs": {
+    "atk": 1,
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Boundary Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 297,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "kyuurei": "Japanese for ‘rapid cooling’"
+  },
+  "pokedexEntries": {
+    "Kyurem": [
+      {
+        "game": "black",
+        "desc": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out."
+      },
+      {
+        "game": "white",
+        "desc": "It can produce ultracold air. Its body is frozen."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out."
+      },
+      {
+        "game": "sword",
+        "desc": "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound."
+      },
+      {
+        "game": "shield",
+        "desc": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure."
+      }
+    ],
+    "Black Kyurem": [
+      {
+        "game": "sword",
+        "desc": "It’s said that this Pokémon battles in order to protect the ideal world that will exist in the future for people and Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice."
+      }
+    ],
+    "White Kyurem": [
+      {
+        "game": "sword",
+        "desc": "The sameness of Reshiram’s and Kyurem’s genes allowed Kyurem to absorb Reshiram. Kyurem can now use the power of both fire and ice."
+      },
+      {
+        "game": "shield",
+        "desc": "It has foreseen that a world of truth will arrive for people and Pokémon. It strives to protect that future."
+      }
+    ]
+  }
+}

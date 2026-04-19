@@ -1,0 +1,101 @@
+{
+  "_id": 518,
+  "key": "musharna",
+  "name": {
+    "english": "Musharna",
+    "spanish": "Musharna",
+    "italian": "Musharna",
+    "japanese": "ムシャーナ",
+    "chinese": "梦梦蚀",
+    "korean": "",
+    "german": "Somnivora",
+    "french": "Mushana"
+  },
+  "pokedexNumber": {
+    "sword-shield": 91
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Forewarn",
+      "id": 108
+    },
+    "two": {
+      "name": "Synchronize",
+      "id": 28
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 116,
+    "atk": 55,
+    "def": 85,
+    "spatk": 107,
+    "spdef": 95,
+    "spd": 29,
+    "total": 487
+  },
+  "info": {
+    "height": "1.1 m (3′07″)",
+    "weight": "60.5 kg (133.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 178,
+  "generation": 5,
+  "evs": {},
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Drowsing Pokémon",
+  "catchRate": 75,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Fast",
+  "eggCycles": 10,
+  "nameOrigin": {
+    "muso": "Japanese for ‘dream’",
+    "mushamusha": "Japanese for an ‘eating’ sound",
+    "lunar": "of or relating to the Moon"
+  },
+  "pokedexEntries": {
+    "Musharna": [
+      {
+        "game": "black",
+        "desc": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon."
+      },
+      {
+        "game": "white",
+        "desc": "With the mist from its forehead, it can create shapes of things from dreams it has eaten."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten."
+      },
+      {
+        "game": "sword",
+        "desc": "When dark mists emanate from its body, don’t get too near. If you do, your nightmares will become reality."
+      },
+      {
+        "game": "shield",
+        "desc": "It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep."
+      }
+    ]
+  }
+}

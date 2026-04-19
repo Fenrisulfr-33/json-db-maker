@@ -1,0 +1,109 @@
+{
+  "_id": 606,
+  "key": "beheeyem",
+  "name": {
+    "english": "Beheeyem",
+    "spanish": "Beheeyem",
+    "italian": "Beheeyem",
+    "japanese": "オーベム",
+    "chinese": "大宇怪",
+    "korean": "",
+    "german": "Megalon",
+    "french": "Neitram"
+  },
+  "pokedexNumber": {
+    "sword-shield": 278
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Telepathy",
+      "id": 140
+    },
+    "two": {
+      "name": "Synchronize",
+      "id": 28
+    },
+    "hidden": {
+      "name": "Analytic",
+      "id": 148
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 75,
+    "def": 75,
+    "spatk": 125,
+    "spdef": 95,
+    "spd": 40,
+    "total": 485
+  },
+  "info": {
+    "height": "1.0 m (3′03″)",
+    "weight": "34.5 kg (76.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 212,
+  "generation": 5,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Human-Like"
+  ],
+  "species": "Cerebral Pokémon",
+  "catchRate": 90,
+  "baseFriendship": 50,
+  "baseExp": 170,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "B.E.M.": "initials for ‘Bug Eyed Monster’, i.e. an alien"
+  },
+  "pokedexEntries": {
+    "Beheeyem": [
+      {
+        "game": "black",
+        "desc": "It can manipulate an opponent’s memory. Apparently, it communicates by flashing its three different-colored fingers."
+      },
+      {
+        "game": "white",
+        "desc": "It uses psychic power to control an opponent’s brain and tamper with its memories."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Apparently, it communicates by flashing its three fingers, but those patterns haven’t been decoded."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Apparently, it communicates by flashing its three fingers, but those patterns haven’t been decoded."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It uses psychic power to control an opponent’s brain and tamper with its memories."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "With its psychic powers, it rewrites its opponents’ memories. You, too, may have already had your memories rewritten."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories."
+      },
+      {
+        "game": "sword",
+        "desc": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears."
+      },
+      {
+        "game": "shield",
+        "desc": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents."
+      }
+    ]
+  }
+}

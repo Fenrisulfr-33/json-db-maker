@@ -1,0 +1,99 @@
+{
+  "_id": 782,
+  "key": "jangmo-o",
+  "name": {
+    "english": "Jangmo-o",
+    "spanish": "Jangmo-o",
+    "italian": "Jangmo-o",
+    "japanese": "ジャラコ",
+    "chinese": "心鳞宝",
+    "korean": "",
+    "german": "Miniras",
+    "french": "Écaïd"
+  },
+  "pokedexNumber": {
+    "sword-shield": 392,
+    "isle-of-armor": 165
+  },
+  "type": {
+    "one": "Dragon"
+  },
+  "abilities": {
+    "one": {
+      "name": "Bulletproof",
+      "id": 171
+    },
+    "two": {
+      "name": "Soundproof",
+      "id": 43
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 55,
+    "def": 65,
+    "spatk": 45,
+    "spdef": 45,
+    "spd": 45,
+    "total": 300
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "29.7 kg (65.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 270,
+  "generation": 7,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Scaly Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 60,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "jangle": "to rustle metallic objects",
+    "mo'o": "Hawaiian for ‘dragon’"
+  },
+  "pokedexEntries": {
+    "Jangmo-o": [
+      {
+        "game": "sun",
+        "desc": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives."
+      },
+      {
+        "game": "moon",
+        "desc": "They live in mountains where no trace of humans can be detected. Jangmo-o grow little by little as they battle one another."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It smacks the scales on its head against rocks or against the ground to frighten its opponents. It can also contact its friends with these noises."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own."
+      },
+      {
+        "game": "sword",
+        "desc": "They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits."
+      },
+      {
+        "game": "shield",
+        "desc": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that’s become as hard as metal."
+      }
+    ]
+  }
+}

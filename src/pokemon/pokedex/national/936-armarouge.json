@@ -1,0 +1,68 @@
+{
+  "_id": 936,
+  "key": "armarouge",
+  "name": {
+    "english": "Armarouge"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 166
+  },
+  "type": {
+    "one": "Fire",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Flash Fire",
+      "id": 18
+    },
+    "hidden": {
+      "name": "Weak Armor",
+      "id": 133
+    }
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 60,
+    "def": 100,
+    "spatk": 125,
+    "spdef": 80,
+    "spd": 75,
+    "total": 525
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "85.0 kg (187.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Fire Warrior Pokémon",
+  "catchRate": 25,
+  "baseFriendship": 20,
+  "growthRate": "Slow",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "armadura": "Spanish for ‘armor’",
+    "rouge": "French for ‘red’"
+  },
+  "pokedexEntries": {
+    "Armarouge": [
+      {
+        "game": "scarlet",
+        "desc": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokémon is incredibly loyal."
+      },
+      {
+        "game": "violet",
+        "desc": "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
+      }
+    ]
+  }
+}

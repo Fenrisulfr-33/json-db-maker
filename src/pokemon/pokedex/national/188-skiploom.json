@@ -1,0 +1,138 @@
+{
+  "_id": 188,
+  "key": "skiploom",
+  "name": {
+    "english": "Skiploom",
+    "spanish": "Skiploom",
+    "italian": "Skiploom",
+    "japanese": "ポポッコ",
+    "chinese": "毽子花",
+    "korean": "",
+    "german": "Hubelupf",
+    "french": "Floravol"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 17,
+    "crystal": 68,
+    "gold-silver": 68
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Chlorophyll",
+      "id": 34
+    },
+    "two": {
+      "name": "Leaf Guard",
+      "id": 102
+    },
+    "hidden": {
+      "name": "Infiltrator",
+      "id": 151
+    }
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 45,
+    "def": 50,
+    "spatk": 45,
+    "spdef": 65,
+    "spd": 80,
+    "total": 340
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "1.0 kg (2.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 66,
+  "generation": 2,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "species": "Cottonweed Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 119,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "skip": "walking with steps and hops",
+    "bloom": "blossoming"
+  },
+  "pokedexEntries": {
+    "Skiploom": [
+      {
+        "game": "gold",
+        "desc": "The bloom on top of its head opens and closes as the temperature fluctuates up and down."
+      },
+      {
+        "game": "silver",
+        "desc": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun."
+      },
+      {
+        "game": "crystal",
+        "desc": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SKIPLOOM’s flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "The bloom on top of its head opens and closes as the temperature fluctuates up and down."
+      },
+      {
+        "game": "emerald",
+        "desc": "It blossoms when the temperature rises above 64 degrees F. Because its flower’s blooming changes with the temperature, it is sometimes used as a thermometer."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "The bloom on top of its head opens and closes as the temperature fluctuates up and down."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible."
+      },
+      {
+        "game": "x",
+        "desc": "The bloom on top of its head opens and closes as the temperature fluctuates up and down."
+      },
+      {
+        "game": "y",
+        "desc": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible."
+      }
+    ]
+  }
+}

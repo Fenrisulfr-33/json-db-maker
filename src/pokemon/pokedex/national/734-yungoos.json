@@ -1,0 +1,90 @@
+{
+  "_id": 734,
+  "key": "yungoos",
+  "name": {
+    "english": "Yungoos",
+    "spanish": "Yungoos",
+    "italian": "Yungoos",
+    "japanese": "ヤングース",
+    "chinese": "猫鼬少",
+    "korean": "",
+    "german": "Mangunior",
+    "french": "Manglouton"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 27
+  },
+  "type": {
+    "one": "Normal"
+  },
+  "abilities": {
+    "one": {
+      "name": "Stakeout",
+      "id": 198
+    },
+    "two": {
+      "name": "Strong Jaw",
+      "id": 173
+    },
+    "hidden": {
+      "name": "Adaptability",
+      "id": 91
+    }
+  },
+  "baseStats": {
+    "hp": 48,
+    "atk": 70,
+    "def": 30,
+    "spatk": 30,
+    "spdef": 30,
+    "spd": 45,
+    "total": 253
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "6.0 kg (13.2 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 254,
+  "generation": 7,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Loitering Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 51,
+  "growthRate": "Medium Fast",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "young": "baby animal",
+    "mongoose": "weasel-like mammal"
+  },
+  "pokedexEntries": {
+    "Yungoos": [
+      {
+        "game": "sun",
+        "desc": "With its sharp fangs, it will bite anything. It did not originally live in Alola but was imported from another region."
+      },
+      {
+        "game": "moon",
+        "desc": "It wanders around in a never-ending search for food. At dusk, it collapses from exhaustion and falls asleep on the spot."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Its stomach takes up most of its long torso. It’s a big eater, so the amount Trainers have to spend on its food is no laughing matter."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey."
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_id": 844,
+  "key": "sandaconda",
+  "name": {
+    "english": "Sandaconda",
+    "spanish": "Sandaconda",
+    "italian": "Sandaconda",
+    "japanese": "サダイジャ",
+    "chinese": "沙螺蟒",
+    "korean": "",
+    "german": "Sanaconda",
+    "french": "Dunaconda"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 271,
+    "sword-shield": 313,
+    "isle-of-armor": 175
+  },
+  "type": {
+    "one": "Ground"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Spit",
+      "id": 245
+    },
+    "two": {
+      "name": "Shed Skin",
+      "id": 61
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 107,
+    "def": 125,
+    "spatk": 65,
+    "spdef": 70,
+    "spd": 71,
+    "total": 510
+  },
+  "info": {
+    "height": "3.8 m (12′06″)",
+    "weight": "65.5 kg (144.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 288,
+  "generation": 8,
+  "evs": {
+    "def": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Sand Snake Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 179,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "sand": "",
+    "anaconda": ""
+  },
+  "pokedexEntries": {
+    "Sandaconda": [
+      {
+        "game": "sword",
+        "desc": "When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened."
+      },
+      {
+        "game": "shield",
+        "desc": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "Its sand pouch has grown to tremendous proportions. More than 1,000,000 tons of sand now swirl around its body."
+      },
+      {
+        "game": "shield",
+        "desc": "Sand swirls around its body with such speed and power that it could pulverize a skyscraper."
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "_id": 3,
+  "key": "venusaur",
+  "name": {
+    "english": "Venusaur",
+    "spanish": "Venusaur",
+    "italian": "Venusaur",
+    "japanese": "フシギバナ",
+    "chinese": "妙蛙花",
+    "korean": "",
+    "german": "Bisaflor",
+    "french": "Florizarre"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 70,
+    "crystal": 233,
+    "gold-silver": 233,
+    "yellow": 3,
+    "red-blue": 3
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Poison"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Chlorophyll",
+      "id": 34
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "spatk": 100,
+    "spdef": 100,
+    "spd": 80,
+    "total": 525
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "100.0 kg (220.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 1,
+  "generation": 1,
+  "evs": {
+    "spatk": 2,
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "species": "Seed Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 236,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "venus": "from Venus Flytrap, a meat-eating plant",
+    "-saur": "Greek suffix meaning ‘lizard’"
+  },
+  "pokedexEntries": {
+    "Venusaur": [
+      {
+        "game": "red-blue",
+        "desc": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+      },
+      {
+        "game": "yellow",
+        "desc": "The flower on its back catches the sun’s rays. The sunlight is then absorbed and used for energy."
+      },
+      {
+        "game": "gold",
+        "desc": "By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power."
+      },
+      {
+        "game": "silver",
+        "desc": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime."
+      },
+      {
+        "game": "crystal",
+        "desc": "As it warms itself and absorbs the sunlight, its flower petals release a pleasant fragrance."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "There is a large flower on VENUSAUR’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+      },
+      {
+        "game": "emerald",
+        "desc": "VENUSAUR’s flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It is able to convert sunlight into energy. As a result, it is more powerful in the summertime."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+      },
+      {
+        "game": "x",
+        "desc": "By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power."
+      },
+      {
+        "game": "y",
+        "desc": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "The flower on its back catches the sun’s rays. The sunlight is then absorbed and used for energy."
+      },
+      {
+        "game": "sword",
+        "desc": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+      },
+      {
+        "game": "shield",
+        "desc": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+      }
+    ]
+  }
+}

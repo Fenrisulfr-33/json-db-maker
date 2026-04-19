@@ -1,0 +1,80 @@
+{
+  "_id": 847,
+  "key": "barraskewda",
+  "name": {
+    "english": "Barraskewda",
+    "spanish": "Barraskewda",
+    "italian": "Barraskewda",
+    "japanese": "カマスジョー",
+    "chinese": "戽斗尖梭",
+    "korean": "",
+    "german": "Barrakiefa",
+    "french": "Hastacuda"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 137,
+    "sword-shield": 181,
+    "isle-of-armor": 97
+  },
+  "type": {
+    "one": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Swift Swim",
+      "id": 33
+    },
+    "hidden": {
+      "name": "Propeller Tail",
+      "id": 239
+    }
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 123,
+    "def": 60,
+    "spatk": 60,
+    "spdef": 50,
+    "spd": 136,
+    "total": 490
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "30.0 kg (66.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 289,
+  "generation": 8,
+  "evs": {
+    "spd": 2
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Skewer Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "barracuda": "large predatory fish",
+    "skewer": "to impale"
+  },
+  "pokedexEntries": {
+    "Barraskewda": [
+      {
+        "game": "sword",
+        "desc": "This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too."
+      },
+      {
+        "game": "shield",
+        "desc": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them."
+      }
+    ]
+  }
+}

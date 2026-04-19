@@ -1,0 +1,72 @@
+{
+  "_id": 960,
+  "key": "wiglett",
+  "name": {
+    "english": "Wiglett"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 288
+  },
+  "type": {
+    "one": "Water",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Gooey",
+      "id": 183
+    },
+    "two": {
+      "name": "Rattled",
+      "id": 155
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 10,
+    "atk": 55,
+    "def": 25,
+    "spatk": 35,
+    "spdef": 25,
+    "spd": 95,
+    "total": 245
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "1.8 kg (4.0 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Garden Eel Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "wiggle": "move quickly from side to side",
+    "-lett": "suffix meaning ‘small’"
+  },
+  "pokedexEntries": {
+    "Wiglett": [
+      {
+        "game": "scarlet",
+        "desc": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand."
+      },
+      {
+        "game": "violet",
+        "desc": "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
+      }
+    ]
+  }
+}

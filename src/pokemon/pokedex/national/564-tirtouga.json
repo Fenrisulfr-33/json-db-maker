@@ -1,0 +1,119 @@
+{
+  "_id": 564,
+  "key": "tirtouga",
+  "name": {
+    "english": "Tirtouga",
+    "spanish": "Tirtouga",
+    "italian": "Tirtouga",
+    "japanese": "プロトーガ",
+    "chinese": "原盖海龟",
+    "korean": "",
+    "german": "Galapaflos",
+    "french": "Carapagos"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 147
+  },
+  "type": {
+    "one": "Water",
+    "two": "Rock"
+  },
+  "abilities": {
+    "one": {
+      "name": "Solid Rock",
+      "id": 116
+    },
+    "two": {
+      "name": "Sturdy",
+      "id": 5
+    },
+    "hidden": {
+      "name": "Swift Swim",
+      "id": 33
+    }
+  },
+  "baseStats": {
+    "hp": 54,
+    "atk": 78,
+    "def": 103,
+    "spatk": 53,
+    "spdef": 45,
+    "spd": 22,
+    "total": 355
+  },
+  "info": {
+    "height": "0.7 m (2′04″)",
+    "weight": "16.5 kg (36.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 195,
+  "generation": 5,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
+  "species": "Prototurtle Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 71,
+  "growthRate": "Medium Fast",
+  "eggCycles": 30,
+  "nameOrigin": {
+    "tortuga": "spanish for turtle"
+  },
+  "pokedexEntries": {
+    "Tirtouga": [
+      {
+        "game": "black",
+        "desc": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile."
+      },
+      {
+        "game": "white",
+        "desc": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile."
+      },
+      {
+        "game": "sun",
+        "desc": "Based on studies of its skeletal structure, it can apparently dive to ocean depths of over half a mile."
+      },
+      {
+        "game": "moon",
+        "desc": "Reputed to be the ancestor of most turtle Pokémon, it lived in warm seas approximately a hundred million years ago."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It was restored from an ancient fossil. Tirtouga lived in the sea but came up onto the land to search for prey."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean."
+      },
+      {
+        "game": "sword",
+        "desc": "This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey."
+      },
+      {
+        "game": "shield",
+        "desc": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil."
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "_id": 690,
+  "key": "skrelp",
+  "name": {
+    "english": "Skrelp",
+    "spanish": "Skrelp",
+    "italian": "Skrelp",
+    "japanese": "クズモー",
+    "chinese": "垃垃藻",
+    "korean": "",
+    "german": "Algitt",
+    "french": "Venalgue"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 337,
+    "isle-of-armor": 194
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Water"
+  },
+  "abilities": {
+    "one": {
+      "name": "Poison Point",
+      "id": 38
+    },
+    "two": {
+      "name": "Poison Touch",
+      "id": 143
+    },
+    "hidden": {
+      "name": "Adaptability",
+      "id": 91
+    }
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 60,
+    "def": 60,
+    "spatk": 60,
+    "spdef": 60,
+    "spd": 30,
+    "total": 320
+  },
+  "info": {
+    "height": "0.5 m (1′08″)",
+    "weight": "7.3 kg (16.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 240,
+  "generation": 6,
+  "evs": {
+    "spdef": 1
+  },
+  "eggGroups": [
+    "Water 1",
+    "Dragon"
+  ],
+  "species": "Mock Kelp Pokémon",
+  "catchRate": 225,
+  "baseFriendship": 50,
+  "baseExp": 64,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "screen": "disguise, cover",
+    "kelp": "seaweed"
+  },
+  "pokedexEntries": {
+    "Skrelp": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It looks just like rotten kelp. It hides from foes while storing up power for its evolution."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It vanishes into seaweed and remains perfectly still to avoid attacks from large Pokémon. Rotten seaweed is its main food source."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It’s not good at swimming, so it clings to the seaweed. In the Alola region, it’s often found near Dhelmise."
+      },
+      {
+        "game": "sword",
+        "desc": "It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead."
+      },
+      {
+        "game": "shield",
+        "desc": "Skrelp looks like a piece of rotten seaweed, so it can blend in with seaweed drifting on the ocean and avoid being detected by enemies."
+      }
+    ]
+  }
+}

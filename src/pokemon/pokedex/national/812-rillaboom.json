@@ -1,0 +1,88 @@
+{
+  "_id": 812,
+  "key": "rillaboom",
+  "name": {
+    "english": "Rillaboom",
+    "spanish": "Rillaboom",
+    "italian": "Rillaboom",
+    "japanese": "ゴリランダー",
+    "chinese": "轰擂金刚猩",
+    "korean": "",
+    "german": "Gortrom",
+    "french": "Gorythmic"
+  },
+  "pokedexNumber": {
+    "sword-shield": 3
+  },
+  "type": {
+    "one": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Overgrow",
+      "id": 65
+    },
+    "hidden": {
+      "name": "Grassy Surge",
+      "id": 229
+    }
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 125,
+    "def": 90,
+    "spatk": 60,
+    "spdef": 70,
+    "spd": 85,
+    "total": 530
+  },
+  "info": {
+    "height": "2.1 m (6′11″)",
+    "weight": "90.0 kg (198.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 274,
+  "generation": 8,
+  "evs": {
+    "atk": 3
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Drummer Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 265,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "gorilla": "",
+    "boom": ""
+  },
+  "pokedexEntries": {
+    "Rillaboom": [
+      {
+        "game": "sword",
+        "desc": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle."
+      },
+      {
+        "game": "shield",
+        "desc": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group."
+      }
+    ],
+    "Gigantamax": [
+      {
+        "game": "sword",
+        "desc": "Gigantamax energy has caused Rillaboom’s stump to grow into a drum set that resembles a forest."
+      },
+      {
+        "game": "shield",
+        "desc": "Rillaboom has become one with its forest of drums and continues to lay down beats that shake all of Galar."
+      }
+    ]
+  }
+}

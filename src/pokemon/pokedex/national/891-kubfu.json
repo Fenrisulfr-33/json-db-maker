@@ -1,0 +1,71 @@
+{
+  "_id": 891,
+  "key": "kubfu",
+  "name": {
+    "english": "Kubfu",
+    "spanish": "Kubfu",
+    "italian": "Kubfu",
+    "japanese": "ダクマ",
+    "chinese": "熊徒弟",
+    "korean": "",
+    "german": "Dakuma",
+    "french": "Wushours"
+  },
+  "pokedexNumber": {
+    "isle-of-armor": 100
+  },
+  "type": {
+    "one": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Inner Focus",
+      "id": 39
+    }
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 60,
+    "spatk": 53,
+    "spdef": 50,
+    "spd": 72,
+    "total": 385
+  },
+  "info": {
+    "height": "0.6 m (2′00″)",
+    "weight": "12.0 kg (26.5 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 302,
+  "generation": 8,
+  "evs": {
+    "atk": 1
+  },
+  "eggGroups": [
+    null
+  ],
+  "species": "Wushu Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 50,
+  "baseExp": 77,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {},
+  "pokedexEntries": {
+    "Kubfu": [
+      {
+        "game": "sword",
+        "desc": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves."
+      },
+      {
+        "game": "shield",
+        "desc": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
+      }
+    ]
+  }
+}

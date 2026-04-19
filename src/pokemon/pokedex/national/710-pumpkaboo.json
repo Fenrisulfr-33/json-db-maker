@@ -1,0 +1,123 @@
+{
+  "_id": 710,
+  "key": "pumpkaboo",
+  "name": {
+    "english": "Pumpkaboo",
+    "spanish": "Pumpkaboo",
+    "italian": "Pumpkaboo",
+    "japanese": "バケッチャ",
+    "chinese": "南瓜精",
+    "korean": "",
+    "german": "Irrbis",
+    "french": "Pitrouille"
+  },
+  "pokedexNumber": {
+    "sword-shield": 191
+  },
+  "type": {
+    "one": "Ghost",
+    "two": "Grass"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pickup",
+      "id": 53
+    },
+    "two": {
+      "name": "Frisk",
+      "id": 119
+    },
+    "hidden": {
+      "name": "Insomnia",
+      "id": 15
+    }
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 66,
+    "def": 70,
+    "spatk": 44,
+    "spdef": 55,
+    "spd": 41,
+    "total": 335
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "15.0 kg (33.1 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 247,
+  "generation": 6,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "species": "Pumpkin Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 67,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "pumpkin": "large orange fruit, often used at Halloween",
+    "peek-a-boo": "childish game involving hiding and suddenly reappearing"
+  },
+  "pokedexEntries": {
+    "Pumpkaboo": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It is said to carry wandering spirits to the place where they belong so they can move on."
+      }
+    ],
+    "Average Size": [
+      {
+        "game": "sword",
+        "desc": "Spirits that wander this world are placed into Pumpkaboo’s body. They’re then moved on to the afterlife."
+      },
+      {
+        "game": "shield",
+        "desc": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it."
+      }
+    ],
+    "Small Size": [
+      {
+        "game": "sword",
+        "desc": "When taking spirits to the afterlife, small Pumpkaboo prefer the spirits of children to those of adults."
+      },
+      {
+        "game": "shield",
+        "desc": "Small Pumpkaboo are said to be the product of areas where few lost souls lingered."
+      }
+    ],
+    "Large Size": [
+      {
+        "game": "sword",
+        "desc": "When taking spirits to the afterlife, large Pumpkaboo prefer the spirits of adults to those of children."
+      },
+      {
+        "game": "shield",
+        "desc": "Large Pumpkaboo are said to be the product of areas where many lost souls lingered."
+      }
+    ],
+    "Super Size": [
+      {
+        "game": "sword",
+        "desc": "Supersized Pumpkaboo are very partial to the spirits of people who were of similarly superior proportions."
+      },
+      {
+        "game": "shield",
+        "desc": "Massive Pumpkaboo are said to be the product of areas where a great number of lost souls lingered."
+      }
+    ]
+  }
+}

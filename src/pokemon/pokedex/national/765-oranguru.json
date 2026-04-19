@@ -1,0 +1,101 @@
+{
+  "_id": 765,
+  "key": "oranguru",
+  "name": {
+    "english": "Oranguru",
+    "spanish": "Oranguru",
+    "italian": "Oranguru",
+    "japanese": "ヤレユータン",
+    "chinese": "智挥猩",
+    "korean": "",
+    "german": "Kommandutan",
+    "french": "Gouroutan"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 313,
+    "sword-shield": 342,
+    "isle-of-armor": 89
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Inner Focus",
+      "id": 39
+    },
+    "two": {
+      "name": "Telepathy",
+      "id": 140
+    },
+    "hidden": {
+      "name": "Symbiosis",
+      "id": 180
+    }
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 60,
+    "def": 80,
+    "spatk": 90,
+    "spdef": 110,
+    "spd": 60,
+    "total": 490
+  },
+  "info": {
+    "height": "1.5 m (4′11″)",
+    "weight": "76.0 kg (167.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": null,
+  "generation": 7,
+  "evs": {
+    "spdef": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Sage Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 172,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "orangutan": "a species of ape",
+    "guru": "spiritual leader; expert"
+  },
+  "pokedexEntries": {
+    "Oranguru": [
+      {
+        "game": "sun",
+        "desc": "Known for its extreme intelligence, this Pokémon will look down on inexperienced Trainers, so it’s best suited to veteran Trainers."
+      },
+      {
+        "game": "moon",
+        "desc": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Oranguru don’t get along with each other, so they’re always engaging in battles of wits to decide which one is superior."
+      },
+      {
+        "game": "sword",
+        "desc": "With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon."
+      },
+      {
+        "game": "shield",
+        "desc": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it."
+      }
+    ]
+  }
+}

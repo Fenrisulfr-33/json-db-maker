@@ -1,0 +1,73 @@
+{
+  "_id": 961,
+  "key": "wugtrio",
+  "name": {
+    "english": "Wugtrio"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 289
+  },
+  "type": {
+    "one": "Water",
+    "two": ""
+  },
+  "abilities": {
+    "one": {
+      "name": "Gooey",
+      "id": 183
+    },
+    "two": {
+      "name": "Rattled",
+      "id": 155
+    },
+    "hidden": {
+      "name": "Sand Veil",
+      "id": 8
+    }
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 100,
+    "def": 50,
+    "spatk": 50,
+    "spdef": 70,
+    "spd": 120,
+    "total": 425
+  },
+  "info": {
+    "height": "1.2 m (3′11″)",
+    "weight": "5.4 kg (11.9 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Garden Eel Pokémon",
+  "catchRate": 50,
+  "baseFriendship": 50,
+  "growthRate": "Medium Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "wiggle": "move quickly from side to side",
+    "trio": "group of three things",
+    "Dugtrio": "similar Pokémon with three heads"
+  },
+  "pokedexEntries": {
+    "Wugtrio": [
+      {
+        "game": "scarlet",
+        "desc": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den."
+      },
+      {
+        "game": "violet",
+        "desc": "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio."
+      }
+    ]
+  }
+}

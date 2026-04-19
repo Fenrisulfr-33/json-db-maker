@@ -1,0 +1,121 @@
+{
+  "_id": 332,
+  "key": "cacturne",
+  "name": {
+    "english": "Cacturne",
+    "spanish": "Cacturne",
+    "italian": "Cacturne",
+    "japanese": "ノクタス",
+    "chinese": "梦歌仙人掌",
+    "korean": "",
+    "german": "Noktuska",
+    "french": "Cacturne"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 253
+  },
+  "type": {
+    "one": "Grass",
+    "two": "Dark"
+  },
+  "abilities": {
+    "one": {
+      "name": "Sand Veil",
+      "id": 8
+    },
+    "hidden": {
+      "name": "Water Absorb",
+      "id": 11
+    }
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 115,
+    "def": 60,
+    "spatk": 115,
+    "spdef": 60,
+    "spd": 55,
+    "total": 475
+  },
+  "info": {
+    "height": "1.3 m (4′03″)",
+    "weight": "77.4 kg (170.6 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 113,
+  "generation": 3,
+  "evs": {
+    "atk": 1,
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Grass",
+    "Human-Like"
+  ],
+  "species": "Scarecrow Pokémon",
+  "catchRate": 60,
+  "baseFriendship": 35,
+  "baseExp": 166,
+  "growthRate": "Medium Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "cactus": "a desert plant",
+    "nocturnal": "relating to the night"
+  },
+  "pokedexEntries": {
+    "Cacturne": [
+      {
+        "game": "ruby",
+        "desc": "During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops."
+      },
+      {
+        "game": "sapphire",
+        "desc": "If a traveler is going through a desert in the thick of night, CACTURNE will follow in a ragtag group. The POKéMON are biding their time, waiting for the traveler to tire and become incapable of moving."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert’s heat."
+      },
+      {
+        "game": "emerald",
+        "desc": "After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "Packs of them follow travelers through the desert until the travelers can no longer move."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat."
+      },
+      {
+        "game": "x",
+        "desc": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat."
+      },
+      {
+        "game": "y",
+        "desc": "Packs of them follow travelers through the desert until the travelers can no longer move."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat."
+      }
+    ]
+  }
+}

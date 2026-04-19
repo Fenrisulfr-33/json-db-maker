@@ -1,0 +1,153 @@
+{
+  "_id": 238,
+  "key": "smoochum",
+  "name": {
+    "english": "Smoochum",
+    "spanish": "Smoochum",
+    "italian": "Smoochum",
+    "japanese": "ムチュール",
+    "chinese": "迷唇娃",
+    "korean": "",
+    "german": "Kussilla",
+    "french": "Lippouti"
+  },
+  "pokedexNumber": {
+    "crown-tundra": 13,
+    "crystal": 154,
+    "gold-silver": 154
+  },
+  "type": {
+    "one": "Ice",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Oblivious",
+      "id": 12
+    },
+    "two": {
+      "name": "Forewarn",
+      "id": 108
+    },
+    "hidden": {
+      "name": "Hydration",
+      "id": 93
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 15,
+    "spatk": 85,
+    "spdef": 65,
+    "spd": 65,
+    "total": 305
+  },
+  "info": {
+    "height": "0.4 m (1′04″)",
+    "weight": "6.0 kg (13.2 lbs)"
+  },
+  "gender": {
+    "male": "0%",
+    "female": "100%",
+    "genderless": false
+  },
+  "evolution": 81,
+  "generation": 2,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Kiss Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 61,
+  "growthRate": "Medium Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "smooch": "to kiss",
+    "smooch ‘em": "smooch them"
+  },
+  "pokedexEntries": {
+    "Smoochum": [
+      {
+        "game": "gold",
+        "desc": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things."
+      },
+      {
+        "game": "silver",
+        "desc": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone."
+      },
+      {
+        "game": "crystal",
+        "desc": "The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty."
+      },
+      {
+        "game": "fire-red",
+        "desc": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things."
+      },
+      {
+        "game": "emerald",
+        "desc": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake’s surface to make sure its face hasn’t become dirty."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "It tests everything by touching with its lips, which remember what it likes and dislikes."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It always rocks its head slowly backwards and forwards as if it is trying to kiss someone."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "It tests everything by touching with its lips, which remember what it likes and dislikes."
+      },
+      {
+        "game": "x",
+        "desc": "Its lips are the most sensitive part of its body. It always uses its lips first to examine things."
+      },
+      {
+        "game": "y",
+        "desc": "It tests everything by touching with its lips, which remember what it likes and dislikes."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When it examines things, before touching them with its hands, it makes lip contact and then diligently licks all the dirt off its lips."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Highly perceptive sensors, Smoochum’s lips are kept moist by its daily application of tree sap."
+      },
+      {
+        "game": "sword",
+        "desc": "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn’t really seem to care."
+      },
+      {
+        "game": "shield",
+        "desc": "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "It tests everything by touching with its lips, which remember what it likes and dislikes."
+      }
+    ]
+  }
+}

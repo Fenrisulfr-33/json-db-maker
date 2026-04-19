@@ -1,0 +1,104 @@
+{
+  "_id": 661,
+  "key": "fletchling",
+  "name": {
+    "english": "Fletchling",
+    "spanish": "Fletchling",
+    "italian": "Fletchling",
+    "japanese": "ヤヤコマ",
+    "chinese": "小箭雀",
+    "korean": "",
+    "german": "Dartiri",
+    "french": "Passerouge"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 19,
+    "isle-of-armor": 22
+  },
+  "type": {
+    "one": "Normal",
+    "two": "Flying"
+  },
+  "abilities": {
+    "one": {
+      "name": "Big Pecks",
+      "id": 145
+    },
+    "hidden": {
+      "name": "Gale Wings",
+      "id": 177
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 43,
+    "spatk": 40,
+    "spdef": 38,
+    "spd": 62,
+    "total": 278
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "1.7 kg (3.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 228,
+  "generation": 6,
+  "evs": {
+    "spd": 1
+  },
+  "eggGroups": [
+    "Flying"
+  ],
+  "species": "Tiny Robin Pokémon",
+  "catchRate": 255,
+  "baseFriendship": 50,
+  "baseExp": 56,
+  "growthRate": "Medium Slow",
+  "eggCycles": 15,
+  "nameOrigin": {
+    "fletch": "a feather, as used on a dart/arrow",
+    "fledgling": "a young bird learning to fly"
+  },
+  "pokedexEntries": {
+    "Fletchling": [
+      {
+        "game": "x-omega-ruby",
+        "desc": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "Despite the beauty of its lilting voice, it’s merciless to intruders that enter its territory."
+      },
+      {
+        "game": "sun",
+        "desc": "This amiable Pokémon is easy to train. But when battle is joined, it shows its ferocious side."
+      },
+      {
+        "game": "moon",
+        "desc": "When it’s excited, its temperature can double, spiking hormone production in its body."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "While it’s an amiable Pokémon, if you touch it unexpectedly, it will heat up its body in an instant, and you’ll be burned."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed."
+      },
+      {
+        "game": "sword",
+        "desc": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory."
+      },
+      {
+        "game": "shield",
+        "desc": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned."
+      }
+    ]
+  }
+}

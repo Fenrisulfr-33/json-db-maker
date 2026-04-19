@@ -1,0 +1,153 @@
+{
+  "_id": 150,
+  "key": "mewtwo",
+  "name": {
+    "english": "Mewtwo",
+    "spanish": "Mewtwo",
+    "italian": "Mewtwo",
+    "japanese": "ミュウツー",
+    "chinese": "超梦",
+    "korean": "",
+    "german": "Mewtu",
+    "french": "Mewtwo"
+  },
+  "pokedexNumber": {
+    "crystal": 254,
+    "gold-silver": 254,
+    "yellow": 150,
+    "red-blue": 150
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Pressure",
+      "id": 46
+    },
+    "hidden": {
+      "name": "Unnerve",
+      "id": 127
+    }
+  },
+  "baseStats": {
+    "hp": 106,
+    "atk": 110,
+    "def": 90,
+    "spatk": 154,
+    "spdef": 90,
+    "spd": 130,
+    "total": 680
+  },
+  "info": {
+    "height": "2.0 m (6′07″)",
+    "weight": "122.0 kg (269.0 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": null,
+  "generation": 1,
+  "evs": {
+    "spatk": 3
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Genetic Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 0,
+  "baseExp": 306,
+  "growthRate": "Slow",
+  "eggCycles": 120,
+  "nameOrigin": {
+    "mew": "cat sound",
+    "two": "the second iteration of Mew"
+  },
+  "pokedexEntries": {
+    "Mewtwo": [
+      {
+        "game": "red-blue",
+        "desc": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments."
+      },
+      {
+        "game": "yellow",
+        "desc": "Its DNA is almost the same as MEW’s. However, its size and disposition are vastly different."
+      },
+      {
+        "game": "gold",
+        "desc": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes."
+      },
+      {
+        "game": "silver",
+        "desc": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle."
+      },
+      {
+        "game": "crystal",
+        "desc": "Said to rest quietly in an undiscovered cave, this POKéMON was created solely for battling."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "MEWTWO is a POKéMON that was created by genetic manipulation. However, even though the scientific power of humans created this POKéMON’s body, they failed to endow MEWTWO with a compassionate heart."
+      },
+      {
+        "game": "fire-red",
+        "desc": "A POKéMON whose genetic code was repeatedly recombined for research. It turned vicious as a result."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments."
+      },
+      {
+        "game": "emerald",
+        "desc": "A POKéMON that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon."
+      },
+      {
+        "game": "x",
+        "desc": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments."
+      },
+      {
+        "game": "y",
+        "desc": "A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart."
+      },
+      {
+        "game": "lets-go-pikachu-eevee",
+        "desc": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different."
+      },
+      {
+        "game": "sword",
+        "desc": "Created from the DNA of Mew, this Pokémon is a dangerous combination of overwhelming power and a savage heart."
+      },
+      {
+        "game": "shield",
+        "desc": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Mewtwo was created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon."
+      }
+    ]
+  }
+}

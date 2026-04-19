@@ -1,0 +1,129 @@
+{
+  "_id": 451,
+  "key": "skorupi",
+  "name": {
+    "english": "Skorupi",
+    "spanish": "Skorupi",
+    "italian": "Skorupi",
+    "japanese": "スコルピ",
+    "chinese": "钳尾蝎",
+    "korean": "",
+    "german": "Pionskora",
+    "french": "Rapion"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 148,
+    "sword-shield": 285,
+    "isle-of-armor": 50
+  },
+  "type": {
+    "one": "Poison",
+    "two": "Bug"
+  },
+  "abilities": {
+    "one": {
+      "name": "Battle Armor",
+      "id": 4
+    },
+    "two": {
+      "name": "Sniper",
+      "id": 97
+    },
+    "hidden": {
+      "name": "Keen Eye",
+      "id": 51
+    }
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 90,
+    "spatk": 30,
+    "spdef": 55,
+    "spd": 65,
+    "total": 330
+  },
+  "info": {
+    "height": "0.8 m (2′07″)",
+    "weight": "12.0 kg (26.5 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 158,
+  "generation": 4,
+  "evs": {
+    "def": 1
+  },
+  "eggGroups": [
+    "Bug",
+    "Water 3"
+  ],
+  "species": "Scorpion Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 66,
+  "growthRate": "Slow",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "scorpion": "creature with pincers and a stinger in its tail"
+  },
+  "pokedexEntries": {
+    "Skorupi": [
+      {
+        "game": "diamond",
+        "desc": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes."
+      },
+      {
+        "game": "pearl",
+        "desc": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey."
+      },
+      {
+        "game": "platinum",
+        "desc": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison."
+      },
+      {
+        "game": "black-white",
+        "desc": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "It lives in arid regions and can go without food for a year while waiting for prey."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison."
+      },
+      {
+        "game": "sword",
+        "desc": "After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent."
+      },
+      {
+        "game": "shield",
+        "desc": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however."
+      }
+    ]
+  }
+}

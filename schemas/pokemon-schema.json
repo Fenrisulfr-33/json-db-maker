@@ -1,0 +1,132 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://pokemon-database.com/schemas/pokemon.json",
+  "title": "Pokemon",
+  "description": "Schema for Pokemon data validation",
+  "type": "object",
+  "required": ["_id", "key", "name", "type", "baseStats"],
+  "properties": {
+    "_id": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1025,
+      "description": "Unique Pokemon ID"
+    },
+    "key": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "URL-safe key identifier"
+    },
+    "name": {
+      "type": "object",
+      "required": ["english"],
+      "properties": {
+        "english": { "type": "string", "minLength": 1 },
+        "spanish": { "type": "string" },
+        "italian": { "type": "string" },
+        "japanese": { "type": "string" },
+        "chinese": { "type": "string" },
+        "korean": { "type": "string" },
+        "german": { "type": "string" },
+        "french": { "type": "string" }
+      }
+    },
+    "pokedexNumber": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-z-]+$": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "type": {
+      "type": "object",
+      "required": ["one"],
+      "properties": {
+        "one": {
+          "type": "string",
+          "enum": ["Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"]
+        },
+        "two": {
+          "type": "string",
+          "enum": ["Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"]
+        }
+      }
+    },
+    "abilities": {
+      "type": "object",
+      "properties": {
+        "one": {
+          "type": "object",
+          "required": ["name", "id"],
+          "properties": {
+            "name": { "type": "string" },
+            "id": { "type": "integer", "minimum": 1 }
+          }
+        },
+        "two": {
+          "type": "object",
+          "required": ["name", "id"],
+          "properties": {
+            "name": { "type": "string" },
+            "id": { "type": "integer", "minimum": 1 }
+          }
+        },
+        "hidden": {
+          "type": "object",
+          "required": ["name", "id"],
+          "properties": {
+            "name": { "type": "string" },
+            "id": { "type": "integer", "minimum": 1 }
+          }
+        }
+      }
+    },
+    "baseStats": {
+      "type": "object",
+      "required": ["hp", "atk", "def", "spatk", "spdef", "spd", "total"],
+      "properties": {
+        "hp": { "type": "integer", "minimum": 1, "maximum": 255 },
+        "atk": { "type": "integer", "minimum": 1, "maximum": 255 },
+        "def": { "type": "integer", "minimum": 1, "maximum": 255 },
+        "spatk": { "type": "integer", "minimum": 1, "maximum": 255 },
+        "spdef": { "type": "integer", "minimum": 1, "maximum": 255 },
+        "spd": { "type": "integer", "minimum": 1, "maximum": 255 },
+        "total": { "type": "integer", "minimum": 6, "maximum": 1530 }
+      }
+    },
+    "info": {
+      "type": "object",
+      "properties": {
+        "species": { "type": "string" },
+        "height": { "type": "string" },
+        "weight": { "type": "string" },
+        "description": { "type": "string" }
+      }
+    },
+    "evolutions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "method": { "type": "string" },
+          "level": { "type": "integer" },
+          "item": { "type": "string" },
+          "pokemon": { "type": "string" }
+        }
+      }
+    },
+    "forms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "id": { "type": "integer" }
+        }
+      }
+    }
+  },
+  "additionalProperties": true
+}

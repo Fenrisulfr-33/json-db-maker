@@ -1,0 +1,171 @@
+{
+  "_id": 196,
+  "key": "espeon",
+  "name": {
+    "english": "Espeon",
+    "spanish": "Espeon",
+    "italian": "Espeon",
+    "japanese": "エーフィ",
+    "chinese": "太阳伊布",
+    "korean": "",
+    "german": "Psiana",
+    "french": "Mentali"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 183,
+    "legends-arceus": 29,
+    "sword-shield": 200,
+    "crown-tundra": 79,
+    "crystal": 188,
+    "gold-silver": 188
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Synchronize",
+      "id": 28
+    },
+    "hidden": {
+      "name": "Magic Bounce",
+      "id": 156
+    }
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 65,
+    "def": 60,
+    "spatk": 130,
+    "spdef": 95,
+    "spd": 110,
+    "total": 525
+  },
+  "info": {
+    "height": "0.9 m (2′11″)",
+    "weight": "26.5 kg (58.4 lbs)"
+  },
+  "gender": {
+    "male": "87.5%",
+    "female": "12.5%",
+    "genderless": false
+  },
+  "evolution": 50,
+  "generation": 2,
+  "evs": {
+    "spatk": 2
+  },
+  "eggGroups": [
+    "Field"
+  ],
+  "species": "Sun Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 184,
+  "growthRate": "Medium Fast",
+  "eggCycles": 35,
+  "nameOrigin": {
+    "ESP": "Extra Sensory Perception; psychic power",
+    "eon": "long period of time (implying evolution)"
+  },
+  "pokedexEntries": {
+    "Espeon": [
+      {
+        "game": "gold",
+        "desc": "It uses the fine hair that covers its body to sense air currents and predict its enemy’s actions."
+      },
+      {
+        "game": "silver",
+        "desc": "By reading air currents, it can predict things such as the weather or its foe’s next move."
+      },
+      {
+        "game": "crystal",
+        "desc": "The tip of its forked tail quivers when it is predicting its opponent’s next move."
+      },
+      {
+        "game": "ruby-sapphire",
+        "desc": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm."
+      },
+      {
+        "game": "fire-red",
+        "desc": "By reading air currents, it can predict things such as the weather or its foe’s next move."
+      },
+      {
+        "game": "leaf-green",
+        "desc": "It uses the fine hair that covers its body to sense air currents and predict its enemy’s actions."
+      },
+      {
+        "game": "emerald",
+        "desc": "An ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said to have developed precognitive powers to protect its TRAINER from harm."
+      },
+      {
+        "game": "diamond-pearl",
+        "desc": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power."
+      },
+      {
+        "game": "platinum",
+        "desc": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather."
+      },
+      {
+        "game": "heart-gold",
+        "desc": "It uses the fine hair that covers its body to sense air currents and predict its enemy’s actions."
+      },
+      {
+        "game": "soul-silver",
+        "desc": "By reading air currents, it can predict things such as the weather or its foe’s next move."
+      },
+      {
+        "game": "black-white",
+        "desc": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes’ thoughts."
+      },
+      {
+        "game": "x",
+        "desc": "The tip of its forked tail quivers when it is predicting its opponent’s next move."
+      },
+      {
+        "game": "y",
+        "desc": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes’ thoughts."
+      },
+      {
+        "game": "omega-ruby-alpha-sapphire",
+        "desc": "Espeon is extremely loyal to any Trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its Trainer from harm."
+      },
+      {
+        "game": "sun",
+        "desc": "It can instantaneously sense its opponent’s movements by feeling air currents with its fine fur."
+      },
+      {
+        "game": "moon",
+        "desc": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "Although it originally had no powers at all, people say its precognitive faculties were awakened by its need to protect itself."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "Psychic power builds up in the orb on its forehead as it bathes in the sunshine. Espeon is not good at battling at night."
+      },
+      {
+        "game": "sword",
+        "desc": "By reading air currents, it can predict things such as the weather or its foe’s next move."
+      },
+      {
+        "game": "shield",
+        "desc": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psychic power."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "Wields an arcane power with which it can predict the weather and even people’s thoughts. When bathed in sunshine, the scarlet orb on its brow glows and builds energy."
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "_id": 784,
+  "key": "kommo-o",
+  "name": {
+    "english": "Kommo-o",
+    "spanish": "Kommo-o",
+    "italian": "Kommo-o",
+    "japanese": "ジャラランガ",
+    "chinese": "杖尾鳞甲龙",
+    "korean": "",
+    "german": "Grandiras",
+    "french": "Tokorico"
+  },
+  "pokedexNumber": {
+    "sword-shield": 394,
+    "isle-of-armor": 167
+  },
+  "type": {
+    "one": "Dragon",
+    "two": "Fighting"
+  },
+  "abilities": {
+    "one": {
+      "name": "Bulletproof",
+      "id": 171
+    },
+    "two": {
+      "name": "Soundproof",
+      "id": 43
+    },
+    "hidden": {
+      "name": "Overcoat",
+      "id": 142
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 110,
+    "def": 125,
+    "spatk": 100,
+    "spdef": 105,
+    "spd": 85,
+    "total": 600
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "78.2 kg (172.4 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 270,
+  "generation": 7,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    "Dragon"
+  ],
+  "species": "Scaly Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "commotion": "loud noises",
+    "mo'o": "Hawaiian for ‘dragon’"
+  },
+  "pokedexEntries": {
+    "Kommo-o": [
+      {
+        "game": "sun",
+        "desc": "When it spots enemies, it threatens them by jingling the scales on its tail. Weak opponents will crack and flee in panic."
+      },
+      {
+        "game": "moon",
+        "desc": "Its rigid scales function as offense and defense. In the past, its scales were processed and used to make weapons and other commodities."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "When it howls after finishing off its prey, the metallic sounds of its celebrating comrades can be heard from all around."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts."
+      },
+      {
+        "game": "sword",
+        "desc": "It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display."
+      },
+      {
+        "game": "shield",
+        "desc": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales."
+      }
+    ]
+  }
+}

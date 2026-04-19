@@ -1,0 +1,106 @@
+{
+  "_id": 433,
+  "key": "chingling",
+  "name": {
+    "english": "Chingling",
+    "spanish": "Chingling",
+    "italian": "Chingling",
+    "japanese": "リーシャン",
+    "chinese": "铃铛响",
+    "korean": "",
+    "german": "Klingplim",
+    "french": "Korillon"
+  },
+  "pokedexNumber": {
+    "legends-arceus": 195
+  },
+  "type": {
+    "one": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Levitate",
+      "id": 26
+    }
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 50,
+    "spatk": 65,
+    "spdef": 50,
+    "spd": 45,
+    "total": 285
+  },
+  "info": {
+    "height": "0.2 m (0′08″)",
+    "weight": "0.6 kg (1.3 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 149,
+  "generation": 4,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "species": "Bell Pokémon",
+  "catchRate": 120,
+  "baseFriendship": 50,
+  "baseExp": 57,
+  "growthRate": "Fast",
+  "eggCycles": 25,
+  "nameOrigin": {
+    "chime": "to ring out (e.g. a bell)",
+    "jingling": "the sound of a bell ringing"
+  },
+  "pokedexEntries": {
+    "Chingling": [
+      {
+        "game": "diamond",
+        "desc": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops."
+      },
+      {
+        "game": "pearl",
+        "desc": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries."
+      },
+      {
+        "game": "platinum",
+        "desc": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It emits high-frequency cries that  people can’t hear. Once it starts, it can cry for an awfully long time."
+      },
+      {
+        "game": "black-white-black-2-white-2",
+        "desc": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+      },
+      {
+        "game": "x-omega-ruby",
+        "desc": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries."
+      },
+      {
+        "game": "y-alpha-sapphire",
+        "desc": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+      },
+      {
+        "game": "brilliant-diamond",
+        "desc": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops."
+      },
+      {
+        "game": "shining-pearl",
+        "desc": "Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries."
+      },
+      {
+        "game": "legends-arceus",
+        "desc": "This Pokémon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing."
+      }
+    ]
+  }
+}

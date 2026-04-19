@@ -1,0 +1,67 @@
+{
+  "_id": 954,
+  "key": "rabsca",
+  "name": {
+    "english": "Rabsca"
+  },
+  "pokedexNumber": {
+    "scarlet-violet": 255
+  },
+  "type": {
+    "one": "Bug",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Synchronize",
+      "id": 28
+    },
+    "hidden": {
+      "name": "Telepathy",
+      "id": 140
+    }
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 50,
+    "def": 85,
+    "spatk": 115,
+    "spdef": 100,
+    "spd": 45,
+    "total": 470
+  },
+  "info": {
+    "height": "0.3 m (1′00″)",
+    "weight": "3.5 kg (7.7 lbs)"
+  },
+  "gender": {
+    "male": "50%",
+    "female": "50%",
+    "genderless": false
+  },
+  "evolution": 0,
+  "evs": {},
+  "eggGroups": [
+    null
+  ],
+  "species": "Rolling Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "growthRate": "Fast",
+  "eggCycles": 20,
+  "nameOrigin": {
+    "scarab": "a type of dung beetle; ‘rabsca’ with the syllables switched is ’scarab’"
+  },
+  "pokedexEntries": {
+    "Rabsca": [
+      {
+        "game": "scarlet",
+        "desc": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokémon is actually inside the ball."
+      },
+      {
+        "game": "violet",
+        "desc": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
+      }
+    ]
+  }
+}
