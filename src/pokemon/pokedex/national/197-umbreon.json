@@ -12,12 +12,20 @@
     "french": "Noctali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 184,
-    "legends-arceus": 30,
+    "gold-silver": 185,
+    "crystal": 185,
+    "platinum": 168,
+    "heartgold-soulsilver": 189,
+    "black-2-white-2": 96,
+    "x-y-coastal": 82,
+    "sun-moon": 128,
+    "sun-moon-akala": 55,
+    "ultra-sun-ultra-moon": 158,
+    "ultra-sun-ultra-moon-akala": 59,
     "sword-shield": 201,
     "crown-tundra": 78,
-    "crystal": 189,
-    "gold-silver": 189
+    "legends-arceus": 30,
+    "scarlet-violet": 184
   },
   "type": {
     "one": "Dark"

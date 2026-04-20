@@ -12,9 +12,11 @@
     "french": "Floravol"
   },
   "pokedexNumber": {
-    "scarlet-violet": 17,
+    "gold-silver": 68,
     "crystal": 68,
-    "gold-silver": 68
+    "heartgold-soulsilver": 68,
+    "x-y-central": 136,
+    "scarlet-violet": 17
   },
   "type": {
     "one": "Grass",

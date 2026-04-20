@@ -12,8 +12,14 @@
     "french": "Desséliande"
   },
   "pokedexNumber": {
+    "x-y-mountain": 62,
+    "sun-moon": 197,
+    "sun-moon-akala": 124,
+    "ultra-sun-ultra-moon": 251,
+    "ultra-sun-ultra-moon-akala": 152,
     "sword-shield": 339,
-    "crown-tundra": 34
+    "crown-tundra": 34,
+    "the-teal-mask": 69
   },
   "type": {
     "one": "Ghost",

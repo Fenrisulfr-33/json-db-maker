@@ -12,9 +12,12 @@
     "french": "Luxray"
   },
   "pokedexNumber": {
-    "scarlet-violet": 96,
+    "diamond-pearl": 19,
+    "platinum": 19,
+    "isle-of-armor": 27,
     "legends-arceus": 17,
-    "isle-of-armor": 27
+    "scarlet-violet": 96,
+    "the-teal-mask": 111
   },
   "type": {
     "one": "Electric"

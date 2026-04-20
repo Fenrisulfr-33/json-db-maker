@@ -11,7 +11,11 @@
     "german": "Efoserp",
     "french": "Lianaja"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 2,
+    "black-2-white-2": 2,
+    "the-indigo-disk": 201
+  },
   "type": {
     "one": "Grass"
   },

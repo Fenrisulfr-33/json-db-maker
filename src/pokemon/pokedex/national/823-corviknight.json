@@ -12,9 +12,9 @@
     "french": "Corvaillus"
   },
   "pokedexNumber": {
-    "scarlet-violet": 42,
     "sword-shield": 23,
-    "crown-tundra": 165
+    "crown-tundra": 165,
+    "scarlet-violet": 42
   },
   "type": {
     "one": "Flying",

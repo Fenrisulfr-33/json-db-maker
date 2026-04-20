@@ -11,7 +11,13 @@
     "german": "Enekoro",
     "french": "Delcatty"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 62,
+    "emerald": 62,
+    "black-2-white-2": 79,
+    "x-y-central": 79,
+    "omega-ruby-alpha-sapphire": 64
+  },
   "type": {
     "one": "Normal"
   },

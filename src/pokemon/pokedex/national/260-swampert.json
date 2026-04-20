@@ -11,7 +11,12 @@
     "german": "Sumpex",
     "french": "Laggron"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 9,
+    "emerald": 9,
+    "omega-ruby-alpha-sapphire": 9,
+    "the-indigo-disk": 190
+  },
   "type": {
     "one": "Water",
     "two": "Ground"

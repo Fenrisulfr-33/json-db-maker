@@ -12,7 +12,9 @@
     "french": "Limonde"
   },
   "pokedexNumber": {
-    "sword-shield": 226
+    "black-white": 124,
+    "black-2-white-2": 231,
+    "x-y-mountain": 39
   },
   "type": {
     "one": "Ground",

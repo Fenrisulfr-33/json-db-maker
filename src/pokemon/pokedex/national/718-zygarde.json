@@ -11,7 +11,11 @@
     "german": "Zygarde",
     "french": "Zygarde"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-mountain": 150,
+    "sun-moon": 205,
+    "ultra-sun-ultra-moon": 263
+  },
   "type": {
     "one": "Dragon",
     "two": "Ground"

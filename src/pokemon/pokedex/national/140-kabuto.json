@@ -12,11 +12,16 @@
     "french": "Kabuto"
   },
   "pokedexNumber": {
-    "crown-tundra": 125,
-    "crystal": 227,
-    "gold-silver": 227,
+    "red-blue": 140,
     "yellow": 140,
-    "red-blue": 140
+    "gold-silver": 222,
+    "crystal": 222,
+    "firered-leafgreen": 140,
+    "heartgold-soulsilver": 227,
+    "ultra-sun-ultra-moon": 229,
+    "ultra-sun-ultra-moon-akala": 130,
+    "lets-go-pikachu-eevee": 140,
+    "crown-tundra": 125
   },
   "type": {
     "one": "Rock",

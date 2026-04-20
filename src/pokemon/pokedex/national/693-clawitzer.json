@@ -12,8 +12,11 @@
     "french": "Gamblast"
   },
   "pokedexNumber": {
-    "scarlet-violet": 340,
-    "isle-of-armor": 197
+    "x-y-coastal": 33,
+    "ultra-sun-ultra-moon": 350,
+    "ultra-sun-ultra-moon-poni": 97,
+    "isle-of-armor": 197,
+    "scarlet-violet": 340
   },
   "type": {
     "one": "Water"

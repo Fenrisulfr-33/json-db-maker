@@ -12,14 +12,24 @@
     "french": "Évoli"
   },
   "pokedexNumber": {
-    "scarlet-violet": 179,
-    "legends-arceus": 25,
+    "red-blue": 133,
+    "yellow": 133,
+    "gold-silver": 180,
+    "crystal": 180,
+    "firered-leafgreen": 133,
+    "platinum": 163,
+    "heartgold-soulsilver": 184,
+    "black-2-white-2": 91,
+    "x-y-coastal": 77,
+    "sun-moon": 123,
+    "sun-moon-akala": 50,
+    "ultra-sun-ultra-moon": 153,
+    "ultra-sun-ultra-moon-akala": 54,
+    "lets-go-pikachu-eevee": 133,
     "sword-shield": 196,
     "crown-tundra": 74,
-    "crystal": 184,
-    "gold-silver": 184,
-    "yellow": 133,
-    "red-blue": 133
+    "legends-arceus": 25,
+    "scarlet-violet": 179
   },
   "type": {
     "one": "Normal"

@@ -12,6 +12,11 @@
     "french": "Séléroc"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 125,
+    "emerald": 125,
+    "black-2-white-2": 214,
+    "x-y-coastal": 12,
+    "omega-ruby-alpha-sapphire": 130,
     "sword-shield": 362
   },
   "type": {

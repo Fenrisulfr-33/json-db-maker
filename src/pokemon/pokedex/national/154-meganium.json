@@ -12,8 +12,10 @@
     "french": "Méganium"
   },
   "pokedexNumber": {
+    "gold-silver": 3,
     "crystal": 3,
-    "gold-silver": 3
+    "heartgold-soulsilver": 3,
+    "the-indigo-disk": 175
   },
   "type": {
     "one": "Grass"

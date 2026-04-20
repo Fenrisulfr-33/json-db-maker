@@ -11,7 +11,13 @@
     "german": "Volbeat",
     "french": "Muciole"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 86,
+    "emerald": 86,
+    "x-y-central": 133,
+    "omega-ruby-alpha-sapphire": 89,
+    "the-teal-mask": 9
+  },
   "type": {
     "one": "Bug"
   },

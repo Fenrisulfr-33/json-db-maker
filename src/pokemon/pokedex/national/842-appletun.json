@@ -12,9 +12,10 @@
     "french": "Dratatin"
   },
   "pokedexNumber": {
-    "scarlet-violet": 110,
     "sword-shield": 207,
-    "isle-of-armor": 21
+    "isle-of-armor": 21,
+    "scarlet-violet": 110,
+    "the-teal-mask": 35
   },
   "type": {
     "one": "Grass",

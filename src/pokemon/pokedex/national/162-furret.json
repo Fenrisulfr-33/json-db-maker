@@ -12,8 +12,11 @@
     "french": "Fouinar"
   },
   "pokedexNumber": {
+    "gold-silver": 20,
     "crystal": 20,
-    "gold-silver": 20
+    "heartgold-soulsilver": 20,
+    "x-y-central": 110,
+    "the-teal-mask": 27
   },
   "type": {
     "one": "Normal"

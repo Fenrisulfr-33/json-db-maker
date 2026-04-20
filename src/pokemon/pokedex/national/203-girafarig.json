@@ -12,9 +12,16 @@
     "french": "Girafarig"
   },
   "pokedexNumber": {
+    "gold-silver": 147,
+    "crystal": 147,
+    "ruby-sapphire": 164,
+    "emerald": 164,
+    "diamond-pearl": 121,
+    "platinum": 121,
+    "heartgold-soulsilver": 149,
+    "omega-ruby-alpha-sapphire": 171,
     "scarlet-violet": 192,
-    "crystal": 149,
-    "gold-silver": 149
+    "the-indigo-disk": 25
   },
   "type": {
     "one": "Normal",

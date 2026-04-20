@@ -12,6 +12,10 @@
     "french": "Concombaffe"
   },
   "pokedexNumber": {
+    "sun-moon": 200,
+    "sun-moon-akala": 127,
+    "ultra-sun-ultra-moon": 256,
+    "ultra-sun-ultra-moon-akala": 157,
     "sword-shield": 156
   },
   "type": {

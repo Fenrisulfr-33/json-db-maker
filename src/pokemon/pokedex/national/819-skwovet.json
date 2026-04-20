@@ -12,10 +12,11 @@
     "french": "Rongourmand"
   },
   "pokedexNumber": {
-    "scarlet-violet": 29,
     "sword-shield": 24,
     "isle-of-armor": 9,
-    "crown-tundra": 5
+    "crown-tundra": 5,
+    "scarlet-violet": 29,
+    "the-teal-mask": 72
   },
   "type": {
     "one": "Normal"

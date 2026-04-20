@@ -12,7 +12,16 @@
     "french": "Tarinorme"
   },
   "pokedexNumber": {
-    "legends-arceus": 191
+    "platinum": 156,
+    "black-2-white-2": 165,
+    "x-y-coastal": 94,
+    "omega-ruby-alpha-sapphire": 62,
+    "sun-moon": 199,
+    "sun-moon-akala": 126,
+    "ultra-sun-ultra-moon": 255,
+    "ultra-sun-ultra-moon-akala": 156,
+    "legends-arceus": 191,
+    "the-teal-mask": 108
   },
   "type": {
     "one": "Rock",

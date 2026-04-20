@@ -12,10 +12,17 @@
     "french": "Momartik"
   },
   "pokedexNumber": {
-    "scarlet-violet": 359,
-    "legends-arceus": 207,
+    "platinum": 208,
+    "omega-ruby-alpha-sapphire": 181,
+    "sun-moon": 248,
+    "sun-moon-ulaula": 120,
+    "ultra-sun-ultra-moon": 325,
+    "ultra-sun-ultra-moon-ulaula": 146,
     "sword-shield": 81,
-    "crown-tundra": 27
+    "crown-tundra": 27,
+    "legends-arceus": 207,
+    "scarlet-violet": 359,
+    "the-teal-mask": 174
   },
   "type": {
     "one": "Ice",

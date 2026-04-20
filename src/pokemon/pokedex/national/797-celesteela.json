@@ -11,7 +11,10 @@
     "german": "Kaguron",
     "french": "Bamboiselle"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 297,
+    "ultra-sun-ultra-moon": 397
+  },
   "type": {
     "one": "Steel",
     "two": "Flying"

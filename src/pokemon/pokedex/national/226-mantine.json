@@ -12,11 +12,19 @@
     "french": "Démanta"
   },
   "pokedexNumber": {
-    "legends-arceus": 165,
+    "gold-silver": 197,
+    "crystal": 197,
+    "diamond-pearl": 141,
+    "platinum": 141,
+    "heartgold-soulsilver": 202,
+    "black-2-white-2": 234,
+    "x-y-coastal": 140,
+    "ultra-sun-ultra-moon": 146,
+    "ultra-sun-ultra-moon-melemele": 146,
+    "ultra-sun-ultra-moon-akala": 50,
     "sword-shield": 355,
     "isle-of-armor": 47,
-    "crystal": 202,
-    "gold-silver": 202
+    "legends-arceus": 165
   },
   "type": {
     "one": "Water",

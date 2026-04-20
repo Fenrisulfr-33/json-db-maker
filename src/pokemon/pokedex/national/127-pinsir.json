@@ -12,11 +12,25 @@
     "french": "Scarabrute"
   },
   "pokedexNumber": {
-    "isle-of-armor": 120,
-    "crystal": 113,
-    "gold-silver": 113,
+    "red-blue": 127,
     "yellow": 127,
-    "red-blue": 127
+    "gold-silver": 112,
+    "crystal": 112,
+    "ruby-sapphire": 167,
+    "emerald": 167,
+    "firered-leafgreen": 127,
+    "heartgold-soulsilver": 113,
+    "black-2-white-2": 146,
+    "x-y-coastal": 130,
+    "omega-ruby-alpha-sapphire": 174,
+    "sun-moon": 175,
+    "sun-moon-akala": 102,
+    "sun-moon-poni": 65,
+    "ultra-sun-ultra-moon": 211,
+    "ultra-sun-ultra-moon-akala": 112,
+    "ultra-sun-ultra-moon-poni": 78,
+    "lets-go-pikachu-eevee": 127,
+    "isle-of-armor": 120
   },
   "type": {
     "one": "Bug"

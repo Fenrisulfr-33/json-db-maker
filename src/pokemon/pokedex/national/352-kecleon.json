@@ -11,7 +11,14 @@
     "german": "Kecleon",
     "french": "Kecleon"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 145,
+    "emerald": 145,
+    "x-y-central": 116,
+    "omega-ruby-alpha-sapphire": 150,
+    "ultra-sun-ultra-moon": 214,
+    "ultra-sun-ultra-moon-akala": 115
+  },
   "type": {
     "one": "Normal"
   },

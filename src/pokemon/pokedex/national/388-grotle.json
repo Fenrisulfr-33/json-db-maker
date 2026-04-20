@@ -12,7 +12,10 @@
     "french": "Boskara"
   },
   "pokedexNumber": {
-    "legends-arceus": 131
+    "diamond-pearl": 2,
+    "platinum": 2,
+    "legends-arceus": 131,
+    "the-indigo-disk": 192
   },
   "type": {
     "one": "Grass"

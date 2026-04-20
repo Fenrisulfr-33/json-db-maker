@@ -12,11 +12,15 @@
     "french": "Kicklee"
   },
   "pokedexNumber": {
-    "sword-shield": 108,
-    "crystal": 146,
-    "gold-silver": 146,
+    "red-blue": 106,
     "yellow": 106,
-    "red-blue": 106
+    "gold-silver": 144,
+    "crystal": 144,
+    "firered-leafgreen": 106,
+    "heartgold-soulsilver": 146,
+    "lets-go-pikachu-eevee": 106,
+    "sword-shield": 108,
+    "the-indigo-disk": 93
   },
   "type": {
     "one": "Fighting"

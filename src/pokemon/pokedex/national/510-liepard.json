@@ -12,6 +12,9 @@
     "french": "Léopardus"
   },
   "pokedexNumber": {
+    "black-white": 16,
+    "black-2-white-2": 13,
+    "x-y-mountain": 43,
     "sword-shield": 45
   },
   "type": {

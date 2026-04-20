@@ -12,11 +12,15 @@
     "french": "Nidoking"
   },
   "pokedexNumber": {
-    "crown-tundra": 70,
-    "crystal": 100,
-    "gold-silver": 100,
+    "red-blue": 34,
     "yellow": 34,
-    "red-blue": 34
+    "gold-silver": 100,
+    "crystal": 100,
+    "firered-leafgreen": 34,
+    "heartgold-soulsilver": 100,
+    "x-y-coastal": 109,
+    "lets-go-pikachu-eevee": 34,
+    "crown-tundra": 70
   },
   "type": {
     "one": "Poison",

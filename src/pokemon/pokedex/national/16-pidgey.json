@@ -12,10 +12,14 @@
     "french": "Roucool"
   },
   "pokedexNumber": {
-    "crystal": 10,
-    "gold-silver": 10,
+    "red-blue": 16,
     "yellow": 16,
-    "red-blue": 16
+    "gold-silver": 10,
+    "crystal": 10,
+    "firered-leafgreen": 16,
+    "heartgold-soulsilver": 10,
+    "x-y-central": 17,
+    "lets-go-pikachu-eevee": 16
   },
   "type": {
     "one": "Normal",

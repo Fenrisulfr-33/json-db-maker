@@ -12,10 +12,16 @@
     "french": "Tarsal"
   },
   "pokedexNumber": {
-    "scarlet-violet": 62,
-    "legends-arceus": 101,
+    "ruby-sapphire": 29,
+    "emerald": 29,
+    "platinum": 157,
+    "x-y-central": 64,
+    "omega-ruby-alpha-sapphire": 29,
     "sword-shield": 120,
-    "isle-of-armor": 34
+    "isle-of-armor": 34,
+    "legends-arceus": 101,
+    "scarlet-violet": 62,
+    "the-teal-mask": 57
   },
   "type": {
     "one": "Psychic",

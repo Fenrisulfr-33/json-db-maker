@@ -12,8 +12,14 @@
     "french": "Golemastoc"
   },
   "pokedexNumber": {
+    "black-white": 129,
+    "black-2-white-2": 272,
+    "x-y-coastal": 92,
+    "ultra-sun-ultra-moon": 313,
+    "ultra-sun-ultra-moon-ulaula": 134,
     "sword-shield": 89,
-    "crown-tundra": 154
+    "crown-tundra": 154,
+    "the-indigo-disk": 124
   },
   "type": {
     "one": "Ground",

@@ -4,7 +4,10 @@
   "name": {
     "english": "Galarian Darumaka"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sword-shield": 367,
+    "crown-tundra": 103
+  },
   "type": {
     "one": "Ice"
   },
@@ -41,7 +44,9 @@
   "evs": {
     "atk": 1
   },
-  "eggGroups": ["Field"],
+  "eggGroups": [
+    "Field"
+  ],
   "species": "Zen Charm Pokémon",
   "catchRate": 120,
   "baseFriendship": 50,

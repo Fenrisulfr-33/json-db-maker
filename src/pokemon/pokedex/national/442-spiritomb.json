@@ -12,9 +12,11 @@
     "french": "Spiritomb"
   },
   "pokedexNumber": {
-    "scarlet-violet": 302,
+    "diamond-pearl": 108,
+    "platinum": 108,
+    "crown-tundra": 47,
     "legends-arceus": 139,
-    "crown-tundra": 47
+    "scarlet-violet": 302
   },
   "type": {
     "one": "Ghost",

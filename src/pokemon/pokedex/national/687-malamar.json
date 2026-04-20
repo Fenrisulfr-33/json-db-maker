@@ -12,8 +12,13 @@
     "french": "Sepiatroce"
   },
   "pokedexNumber": {
+    "x-y-coastal": 11,
+    "ultra-sun-ultra-moon": 27,
+    "ultra-sun-ultra-moon-melemele": 27,
+    "ultra-sun-ultra-moon-poni": 11,
     "sword-shield": 291,
-    "isle-of-armor": 109
+    "isle-of-armor": 109,
+    "the-indigo-disk": 81
   },
   "type": {
     "one": "Dark",

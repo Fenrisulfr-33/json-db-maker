@@ -12,14 +12,24 @@
     "french": "Voltali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 181,
-    "legends-arceus": 27,
+    "red-blue": 135,
+    "yellow": 135,
+    "gold-silver": 182,
+    "crystal": 182,
+    "firered-leafgreen": 135,
+    "platinum": 165,
+    "heartgold-soulsilver": 186,
+    "black-2-white-2": 93,
+    "x-y-coastal": 79,
+    "sun-moon": 125,
+    "sun-moon-akala": 52,
+    "ultra-sun-ultra-moon": 155,
+    "ultra-sun-ultra-moon-akala": 56,
+    "lets-go-pikachu-eevee": 135,
     "sword-shield": 198,
     "crown-tundra": 76,
-    "crystal": 186,
-    "gold-silver": 186,
-    "yellow": 135,
-    "red-blue": 135
+    "legends-arceus": 27,
+    "scarlet-violet": 181
   },
   "type": {
     "one": "Electric"

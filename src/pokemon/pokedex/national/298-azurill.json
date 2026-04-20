@@ -12,8 +12,15 @@
     "french": "Azurill"
   },
   "pokedexNumber": {
-    "scarlet-violet": 46,
-    "isle-of-armor": 139
+    "ruby-sapphire": 54,
+    "emerald": 54,
+    "diamond-pearl": 124,
+    "platinum": 124,
+    "black-2-white-2": 30,
+    "x-y-central": 41,
+    "omega-ruby-alpha-sapphire": 55,
+    "isle-of-armor": 139,
+    "scarlet-violet": 46
   },
   "type": {
     "one": "Normal",

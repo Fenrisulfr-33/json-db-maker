@@ -12,8 +12,14 @@
     "french": "Lockpin"
   },
   "pokedexNumber": {
-    "legends-arceus": 65,
-    "isle-of-armor": 5
+    "diamond-pearl": 68,
+    "platinum": 68,
+    "black-2-white-2": 81,
+    "ultra-sun-ultra-moon": 25,
+    "ultra-sun-ultra-moon-melemele": 25,
+    "ultra-sun-ultra-moon-poni": 9,
+    "isle-of-armor": 5,
+    "legends-arceus": 65
   },
   "type": {
     "one": "Normal"

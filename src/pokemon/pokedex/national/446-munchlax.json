@@ -12,9 +12,17 @@
     "french": "Goinfrex"
   },
   "pokedexNumber": {
-    "legends-arceus": 51,
+    "diamond-pearl": 112,
+    "platinum": 112,
+    "x-y-central": 138,
+    "sun-moon": 35,
+    "sun-moon-melemele": 35,
+    "ultra-sun-ultra-moon": 42,
+    "ultra-sun-ultra-moon-melemele": 42,
     "sword-shield": 260,
-    "crown-tundra": 172
+    "crown-tundra": 172,
+    "legends-arceus": 51,
+    "the-teal-mask": 102
   },
   "type": {
     "one": "Normal"

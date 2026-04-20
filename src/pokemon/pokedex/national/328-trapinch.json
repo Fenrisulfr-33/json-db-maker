@@ -12,7 +12,17 @@
     "french": "Kraknoix"
   },
   "pokedexNumber": {
-    "sword-shield": 321
+    "ruby-sapphire": 116,
+    "emerald": 116,
+    "black-2-white-2": 121,
+    "x-y-mountain": 3,
+    "omega-ruby-alpha-sapphire": 121,
+    "sun-moon": 235,
+    "sun-moon-ulaula": 107,
+    "ultra-sun-ultra-moon": 304,
+    "ultra-sun-ultra-moon-ulaula": 125,
+    "sword-shield": 321,
+    "the-indigo-disk": 44
   },
   "type": {
     "one": "Ground"

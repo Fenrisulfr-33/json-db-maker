@@ -11,7 +11,12 @@
     "german": "Piccolente",
     "french": "Couaneton"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 86,
+    "black-2-white-2": 153,
+    "x-y-central": 127,
+    "the-teal-mask": 181
+  },
   "type": {
     "one": "Water",
     "two": "Flying"

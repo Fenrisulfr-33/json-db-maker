@@ -12,11 +12,20 @@
     "french": "Paras"
   },
   "pokedexNumber": {
-    "legends-arceus": 53,
-    "crystal": 70,
-    "gold-silver": 70,
+    "red-blue": 46,
     "yellow": 46,
-    "red-blue": 46
+    "gold-silver": 70,
+    "crystal": 70,
+    "firered-leafgreen": 46,
+    "heartgold-soulsilver": 70,
+    "sun-moon": 147,
+    "sun-moon-akala": 74,
+    "sun-moon-ulaula": 66,
+    "ultra-sun-ultra-moon": 180,
+    "ultra-sun-ultra-moon-akala": 81,
+    "ultra-sun-ultra-moon-ulaula": 72,
+    "lets-go-pikachu-eevee": 46,
+    "legends-arceus": 53
   },
   "type": {
     "one": "Bug",

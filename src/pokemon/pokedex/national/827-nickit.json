@@ -77,5 +77,8 @@
         "desc": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 29
   }
 }

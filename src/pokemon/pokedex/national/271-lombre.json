@@ -12,7 +12,12 @@
     "french": "Lombre"
   },
   "pokedexNumber": {
-    "sword-shield": 37
+    "ruby-sapphire": 20,
+    "emerald": 20,
+    "x-y-mountain": 56,
+    "omega-ruby-alpha-sapphire": 20,
+    "sword-shield": 37,
+    "the-teal-mask": 105
   },
   "type": {
     "one": "Water",

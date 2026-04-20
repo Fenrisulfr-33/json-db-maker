@@ -12,10 +12,12 @@
     "french": "Ursaring"
   },
   "pokedexNumber": {
-    "scarlet-violet": 216,
+    "gold-silver": 194,
+    "crystal": 194,
+    "heartgold-soulsilver": 199,
+    "x-y-mountain": 133,
     "legends-arceus": 113,
-    "crystal": 199,
-    "gold-silver": 199
+    "scarlet-violet": 216
   },
   "type": {
     "one": "Normal"

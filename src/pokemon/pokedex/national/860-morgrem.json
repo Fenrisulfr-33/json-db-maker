@@ -12,9 +12,10 @@
     "french": "Fourbelin"
   },
   "pokedexNumber": {
-    "scarlet-violet": 286,
     "sword-shield": 239,
-    "crown-tundra": 38
+    "crown-tundra": 38,
+    "scarlet-violet": 286,
+    "the-teal-mask": 191
   },
   "type": {
     "one": "Dark",

@@ -11,7 +11,11 @@
     "german": "Floink",
     "french": "Gruikui"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 4,
+    "black-2-white-2": 4,
+    "the-indigo-disk": 203
+  },
   "type": {
     "one": "Fire"
   },

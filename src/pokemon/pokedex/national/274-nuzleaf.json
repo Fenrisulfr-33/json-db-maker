@@ -12,7 +12,11 @@
     "french": "Pifeuil"
   },
   "pokedexNumber": {
-    "sword-shield": 40
+    "ruby-sapphire": 23,
+    "emerald": 23,
+    "omega-ruby-alpha-sapphire": 23,
+    "sword-shield": 40,
+    "the-teal-mask": 55
   },
   "type": {
     "one": "Grass",

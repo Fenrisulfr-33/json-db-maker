@@ -12,8 +12,12 @@
     "french": "Mustéflott"
   },
   "pokedexNumber": {
-    "scarlet-violet": 52,
-    "legends-arceus": 42
+    "diamond-pearl": 57,
+    "platinum": 57,
+    "black-2-white-2": 150,
+    "x-y-mountain": 59,
+    "legends-arceus": 42,
+    "scarlet-violet": 52
   },
   "type": {
     "one": "Water"

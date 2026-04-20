@@ -12,6 +12,9 @@
     "french": "Chacripan"
   },
   "pokedexNumber": {
+    "black-white": 15,
+    "black-2-white-2": 12,
+    "x-y-mountain": 42,
     "sword-shield": 44
   },
   "type": {

@@ -12,11 +12,20 @@
     "french": "Hypnomade"
   },
   "pokedexNumber": {
-    "scarlet-violet": 67,
-    "crystal": 88,
-    "gold-silver": 88,
+    "red-blue": 97,
     "yellow": 97,
-    "red-blue": 97
+    "gold-silver": 88,
+    "crystal": 88,
+    "firered-leafgreen": 97,
+    "heartgold-soulsilver": 88,
+    "sun-moon": 55,
+    "sun-moon-melemele": 55,
+    "sun-moon-poni": 14,
+    "ultra-sun-ultra-moon": 67,
+    "ultra-sun-ultra-moon-melemele": 67,
+    "ultra-sun-ultra-moon-poni": 21,
+    "lets-go-pikachu-eevee": 97,
+    "scarlet-violet": 67
   },
   "type": {
     "one": "Psychic"

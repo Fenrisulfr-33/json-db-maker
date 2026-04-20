@@ -12,7 +12,14 @@
     "french": "Kranidos"
   },
   "pokedexNumber": {
-    "legends-arceus": 208
+    "diamond-pearl": 36,
+    "platinum": 36,
+    "sun-moon": 188,
+    "sun-moon-akala": 115,
+    "ultra-sun-ultra-moon": 235,
+    "ultra-sun-ultra-moon-akala": 136,
+    "legends-arceus": 208,
+    "the-indigo-disk": 107
   },
   "type": {
     "one": "Rock"

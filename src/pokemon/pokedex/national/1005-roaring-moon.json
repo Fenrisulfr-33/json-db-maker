@@ -60,5 +60,8 @@
         "desc": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 397
   }
 }

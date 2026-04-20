@@ -11,7 +11,20 @@
     "german": "Formeo",
     "french": "Morphéo"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 142,
+    "emerald": 142,
+    "black-2-white-2": 163,
+    "omega-ruby-alpha-sapphire": 147,
+    "sun-moon": 181,
+    "sun-moon-akala": 108,
+    "sun-moon-ulaula": 77,
+    "sun-moon-poni": 69,
+    "ultra-sun-ultra-moon": 220,
+    "ultra-sun-ultra-moon-akala": 121,
+    "ultra-sun-ultra-moon-ulaula": 84,
+    "ultra-sun-ultra-moon-poni": 82
+  },
   "type": {
     "one": "Normal"
   },

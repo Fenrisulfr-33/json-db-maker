@@ -12,8 +12,11 @@
     "french": "Brutalibré"
   },
   "pokedexNumber": {
-    "scarlet-violet": 301,
-    "sword-shield": 320
+    "x-y-coastal": 89,
+    "ultra-sun-ultra-moon": 96,
+    "ultra-sun-ultra-moon-melemele": 96,
+    "sword-shield": 320,
+    "scarlet-violet": 301
   },
   "type": {
     "one": "Fighting",

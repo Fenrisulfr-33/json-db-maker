@@ -11,7 +11,12 @@
     "german": "Lohgock",
     "french": "Braségali"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 6,
+    "emerald": 6,
+    "omega-ruby-alpha-sapphire": 6,
+    "the-indigo-disk": 187
+  },
   "type": {
     "one": "Fire",
     "two": "Fighting"

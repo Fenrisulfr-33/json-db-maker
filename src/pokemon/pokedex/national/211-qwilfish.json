@@ -12,11 +12,13 @@
     "french": "Qwilfish"
   },
   "pokedexNumber": {
-    "scarlet-violet": 331,
-    "legends-arceus": 84,
+    "gold-silver": 161,
+    "crystal": 161,
+    "heartgold-soulsilver": 163,
+    "x-y-coastal": 38,
     "sword-shield": 304,
-    "crystal": 163,
-    "gold-silver": 163
+    "legends-arceus": 84,
+    "scarlet-violet": 331
   },
   "type": {
     "one": "Water",

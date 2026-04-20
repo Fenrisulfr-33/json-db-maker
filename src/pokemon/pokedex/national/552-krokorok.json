@@ -12,8 +12,16 @@
     "french": "Escroco"
   },
   "pokedexNumber": {
+    "black-white": 58,
+    "black-2-white-2": 100,
+    "x-y-coastal": 44,
+    "sun-moon": 233,
+    "sun-moon-ulaula": 105,
+    "ultra-sun-ultra-moon": 302,
+    "ultra-sun-ultra-moon-ulaula": 123,
+    "isle-of-armor": 177,
     "scarlet-violet": 268,
-    "isle-of-armor": 177
+    "the-indigo-disk": 28
   },
   "type": {
     "one": "Ground",

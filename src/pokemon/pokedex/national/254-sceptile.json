@@ -11,7 +11,12 @@
     "german": "Gewaldro",
     "french": "Jungko"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 3,
+    "emerald": 3,
+    "omega-ruby-alpha-sapphire": 3,
+    "the-indigo-disk": 184
+  },
   "type": {
     "one": "Grass"
   },

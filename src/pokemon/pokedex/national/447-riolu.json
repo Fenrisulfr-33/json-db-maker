@@ -12,10 +12,19 @@
     "french": "Riolu"
   },
   "pokedexNumber": {
-    "scarlet-violet": 163,
-    "legends-arceus": 223,
+    "diamond-pearl": 115,
+    "platinum": 115,
+    "black-2-white-2": 33,
+    "x-y-central": 62,
+    "sun-moon": 279,
+    "sun-moon-poni": 94,
+    "ultra-sun-ultra-moon": 377,
+    "ultra-sun-ultra-moon-poni": 124,
     "sword-shield": 298,
-    "crown-tundra": 134
+    "crown-tundra": 134,
+    "legends-arceus": 223,
+    "scarlet-violet": 163,
+    "the-teal-mask": 64
   },
   "type": {
     "one": "Fighting"

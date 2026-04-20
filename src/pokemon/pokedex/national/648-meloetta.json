@@ -11,7 +11,10 @@
     "german": "Meloetta",
     "french": "Meloetta"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 154,
+    "black-2-white-2": 299
+  },
   "type": {
     "one": "Normal",
     "two": "Psychic"

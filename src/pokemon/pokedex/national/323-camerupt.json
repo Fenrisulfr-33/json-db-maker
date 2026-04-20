@@ -11,7 +11,13 @@
     "german": "Camerupt",
     "french": "Camérupt"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 102,
+    "emerald": 102,
+    "black-2-white-2": 205,
+    "omega-ruby-alpha-sapphire": 107,
+    "the-indigo-disk": 126
+  },
   "type": {
     "one": "Fire",
     "two": "Ground"

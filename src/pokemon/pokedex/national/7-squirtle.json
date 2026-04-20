@@ -12,11 +12,16 @@
     "french": "Carapuce"
   },
   "pokedexNumber": {
-    "isle-of-armor": 71,
-    "crystal": 237,
-    "gold-silver": 237,
+    "red-blue": 7,
     "yellow": 7,
-    "red-blue": 7
+    "gold-silver": 232,
+    "crystal": 232,
+    "firered-leafgreen": 7,
+    "heartgold-soulsilver": 237,
+    "x-y-central": 86,
+    "lets-go-pikachu-eevee": 7,
+    "isle-of-armor": 71,
+    "the-indigo-disk": 170
   },
   "type": {
     "one": "Water"

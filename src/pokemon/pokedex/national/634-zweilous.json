@@ -12,9 +12,12 @@
     "french": "Diamat"
   },
   "pokedexNumber": {
-    "scarlet-violet": 371,
+    "black-white": 140,
+    "black-2-white-2": 274,
+    "x-y-mountain": 143,
     "sword-shield": 387,
-    "crown-tundra": 137
+    "crown-tundra": 137,
+    "scarlet-violet": 371
   },
   "type": {
     "one": "Dark",

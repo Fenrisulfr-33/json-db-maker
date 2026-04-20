@@ -79,5 +79,9 @@
         "desc": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 10,
+    "isle-of-armor": 14
   }
 }

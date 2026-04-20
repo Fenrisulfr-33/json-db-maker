@@ -12,10 +12,17 @@
     "french": "Givrali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 186,
-    "legends-arceus": 32,
+    "platinum": 170,
+    "black-2-white-2": 98,
+    "x-y-coastal": 84,
+    "sun-moon": 130,
+    "sun-moon-akala": 57,
+    "ultra-sun-ultra-moon": 160,
+    "ultra-sun-ultra-moon-akala": 61,
     "sword-shield": 203,
-    "crown-tundra": 80
+    "crown-tundra": 80,
+    "legends-arceus": 32,
+    "scarlet-violet": 186
   },
   "type": {
     "one": "Ice"

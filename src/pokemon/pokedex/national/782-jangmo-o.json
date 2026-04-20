@@ -12,8 +12,13 @@
     "french": "Écaïd"
   },
   "pokedexNumber": {
+    "sun-moon": 271,
+    "sun-moon-poni": 86,
+    "ultra-sun-ultra-moon": 361,
+    "ultra-sun-ultra-moon-poni": 108,
     "sword-shield": 392,
-    "isle-of-armor": 165
+    "isle-of-armor": 165,
+    "the-teal-mask": 131
   },
   "type": {
     "one": "Dragon"

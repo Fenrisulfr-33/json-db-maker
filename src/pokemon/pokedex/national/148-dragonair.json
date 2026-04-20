@@ -12,12 +12,20 @@
     "french": "Draco"
   },
   "pokedexNumber": {
-    "scarlet-violet": 348,
-    "crown-tundra": 195,
-    "crystal": 247,
-    "gold-silver": 247,
+    "red-blue": 148,
     "yellow": 148,
-    "red-blue": 148
+    "gold-silver": 242,
+    "crystal": 242,
+    "firered-leafgreen": 148,
+    "heartgold-soulsilver": 247,
+    "x-y-mountain": 146,
+    "sun-moon": 282,
+    "sun-moon-poni": 97,
+    "ultra-sun-ultra-moon": 380,
+    "ultra-sun-ultra-moon-poni": 127,
+    "lets-go-pikachu-eevee": 148,
+    "crown-tundra": 195,
+    "scarlet-violet": 348
   },
   "type": {
     "one": "Dragon"

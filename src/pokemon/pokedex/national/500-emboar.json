@@ -11,7 +11,11 @@
     "german": "Flambirex",
     "french": "Roitiflam"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 6,
+    "black-2-white-2": 6,
+    "the-indigo-disk": 205
+  },
   "type": {
     "one": "Fire",
     "two": "Fighting"

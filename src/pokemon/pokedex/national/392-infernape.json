@@ -12,7 +12,10 @@
     "french": "Simiabraz"
   },
   "pokedexNumber": {
-    "legends-arceus": 63
+    "diamond-pearl": 6,
+    "platinum": 6,
+    "legends-arceus": 63,
+    "the-indigo-disk": 196
   },
   "type": {
     "one": "Fire",

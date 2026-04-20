@@ -12,7 +12,16 @@
     "french": "Rubombelle"
   },
   "pokedexNumber": {
-    "sword-shield": 188
+    "sun-moon": 84,
+    "sun-moon-melemele": 84,
+    "sun-moon-ulaula": 44,
+    "sun-moon-poni": 34,
+    "ultra-sun-ultra-moon": 99,
+    "ultra-sun-ultra-moon-melemele": 99,
+    "ultra-sun-ultra-moon-ulaula": 44,
+    "ultra-sun-ultra-moon-poni": 43,
+    "sword-shield": 188,
+    "the-teal-mask": 17
   },
   "type": {
     "one": "Bug",

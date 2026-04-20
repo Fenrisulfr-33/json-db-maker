@@ -12,12 +12,27 @@
     "french": "Mackogneur"
   },
   "pokedexNumber": {
-    "legends-arceus": 156,
-    "sword-shield": 140,
-    "crystal": 144,
-    "gold-silver": 144,
+    "red-blue": 68,
     "yellow": 68,
-    "red-blue": 68
+    "gold-silver": 142,
+    "crystal": 142,
+    "ruby-sapphire": 75,
+    "emerald": 75,
+    "firered-leafgreen": 68,
+    "diamond-pearl": 42,
+    "platinum": 42,
+    "heartgold-soulsilver": 144,
+    "x-y-coastal": 59,
+    "omega-ruby-alpha-sapphire": 77,
+    "sun-moon": 97,
+    "sun-moon-melemele": 97,
+    "sun-moon-poni": 47,
+    "ultra-sun-ultra-moon": 119,
+    "ultra-sun-ultra-moon-melemele": 119,
+    "ultra-sun-ultra-moon-poni": 59,
+    "lets-go-pikachu-eevee": 68,
+    "sword-shield": 140,
+    "legends-arceus": 156
   },
   "type": {
     "one": "Fighting"

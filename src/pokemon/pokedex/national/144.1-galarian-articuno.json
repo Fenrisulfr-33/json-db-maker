@@ -4,7 +4,9 @@
   "name": {
     "english": "Galarian Articuno"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "crown-tundra": 202
+  },
   "type": {
     "one": "Psychic",
     "two": "Flying"
@@ -38,7 +40,9 @@
   "evs": {
     "spatk": 3
   },
-  "eggGroups": ["Undiscovered"],
+  "eggGroups": [
+    "Undiscovered"
+  ],
   "species": "Cruel Pokémon",
   "catchRate": 3,
   "baseFriendship": 35,

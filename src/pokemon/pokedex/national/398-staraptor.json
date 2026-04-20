@@ -12,8 +12,12 @@
     "french": "Étouraptor"
   },
   "pokedexNumber": {
+    "diamond-pearl": 12,
+    "platinum": 12,
+    "x-y-coastal": 101,
+    "legends-arceus": 14,
     "scarlet-violet": 99,
-    "legends-arceus": 14
+    "the-teal-mask": 30
   },
   "type": {
     "one": "Normal",

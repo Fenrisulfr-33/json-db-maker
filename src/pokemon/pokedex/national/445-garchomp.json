@@ -12,9 +12,17 @@
     "french": "Carchacrok"
   },
   "pokedexNumber": {
-    "scarlet-violet": 128,
+    "diamond-pearl": 111,
+    "platinum": 111,
+    "x-y-mountain": 8,
+    "sun-moon": 240,
+    "sun-moon-ulaula": 112,
+    "ultra-sun-ultra-moon": 309,
+    "ultra-sun-ultra-moon-ulaula": 130,
+    "crown-tundra": 118,
     "legends-arceus": 189,
-    "crown-tundra": 118
+    "scarlet-violet": 128,
+    "the-teal-mask": 166
   },
   "type": {
     "one": "Dragon",

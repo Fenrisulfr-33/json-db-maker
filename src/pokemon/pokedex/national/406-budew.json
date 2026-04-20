@@ -12,8 +12,13 @@
     "french": "Rozbouton"
   },
   "pokedexNumber": {
-    "legends-arceus": 89,
-    "sword-shield": 59
+    "diamond-pearl": 25,
+    "platinum": 25,
+    "black-2-white-2": 133,
+    "x-y-central": 71,
+    "omega-ruby-alpha-sapphire": 97,
+    "sword-shield": 59,
+    "legends-arceus": 89
   },
   "type": {
     "one": "Grass",

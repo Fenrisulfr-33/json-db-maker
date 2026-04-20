@@ -12,7 +12,17 @@
     "french": "Libégon"
   },
   "pokedexNumber": {
-    "sword-shield": 323
+    "ruby-sapphire": 118,
+    "emerald": 118,
+    "black-2-white-2": 123,
+    "x-y-mountain": 5,
+    "omega-ruby-alpha-sapphire": 123,
+    "sun-moon": 237,
+    "sun-moon-ulaula": 109,
+    "ultra-sun-ultra-moon": 306,
+    "ultra-sun-ultra-moon-ulaula": 127,
+    "sword-shield": 323,
+    "the-indigo-disk": 46
   },
   "type": {
     "one": "Ground",

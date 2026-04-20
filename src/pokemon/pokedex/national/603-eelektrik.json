@@ -12,7 +12,11 @@
     "french": "Lampéroie"
   },
   "pokedexNumber": {
-    "scarlet-violet": 342
+    "black-white": 109,
+    "black-2-white-2": 178,
+    "scarlet-violet": 342,
+    "the-teal-mask": 176,
+    "the-indigo-disk": 135
   },
   "type": {
     "one": "Electric"

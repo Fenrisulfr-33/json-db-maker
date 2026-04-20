@@ -12,11 +12,16 @@
     "french": "Reptincel"
   },
   "pokedexNumber": {
-    "sword-shield": 379,
-    "crystal": 235,
-    "gold-silver": 235,
+    "red-blue": 5,
     "yellow": 5,
-    "red-blue": 5
+    "gold-silver": 230,
+    "crystal": 230,
+    "firered-leafgreen": 5,
+    "heartgold-soulsilver": 235,
+    "x-y-central": 84,
+    "lets-go-pikachu-eevee": 5,
+    "sword-shield": 379,
+    "the-indigo-disk": 168
   },
   "type": {
     "one": "Fire"

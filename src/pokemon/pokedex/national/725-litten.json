@@ -11,7 +11,13 @@
     "german": "Flamiau",
     "french": "Flamiaou"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 4,
+    "sun-moon-melemele": 4,
+    "ultra-sun-ultra-moon": 4,
+    "ultra-sun-ultra-moon-melemele": 4,
+    "the-indigo-disk": 221
+  },
   "type": {
     "one": "Fire"
   },

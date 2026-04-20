@@ -12,9 +12,12 @@
     "french": "Pomdepik"
   },
   "pokedexNumber": {
-    "scarlet-violet": 258,
+    "gold-silver": 93,
     "crystal": 93,
-    "gold-silver": 93
+    "heartgold-soulsilver": 93,
+    "ultra-sun-ultra-moon": 268,
+    "ultra-sun-ultra-moon-ulaula": 89,
+    "scarlet-violet": 258
   },
   "type": {
     "one": "Bug"

@@ -12,11 +12,16 @@
     "french": "Tortank"
   },
   "pokedexNumber": {
-    "isle-of-armor": 73,
-    "crystal": 239,
-    "gold-silver": 239,
+    "red-blue": 9,
     "yellow": 9,
-    "red-blue": 9
+    "gold-silver": 234,
+    "crystal": 234,
+    "firered-leafgreen": 9,
+    "heartgold-soulsilver": 239,
+    "x-y-central": 88,
+    "lets-go-pikachu-eevee": 9,
+    "isle-of-armor": 73,
+    "the-indigo-disk": 172
   },
   "type": {
     "one": "Water"

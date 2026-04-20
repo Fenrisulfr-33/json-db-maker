@@ -11,7 +11,13 @@
     "german": "Eneco",
     "french": "Skitty"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 61,
+    "emerald": 61,
+    "black-2-white-2": 78,
+    "x-y-central": 78,
+    "omega-ruby-alpha-sapphire": 63
+  },
   "type": {
     "one": "Normal"
   },

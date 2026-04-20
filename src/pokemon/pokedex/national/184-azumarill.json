@@ -12,10 +12,18 @@
     "french": "Azumarill"
   },
   "pokedexNumber": {
-    "scarlet-violet": 48,
+    "gold-silver": 131,
+    "crystal": 131,
+    "ruby-sapphire": 56,
+    "emerald": 56,
+    "diamond-pearl": 126,
+    "platinum": 126,
+    "heartgold-soulsilver": 133,
+    "black-2-white-2": 32,
+    "x-y-central": 43,
+    "omega-ruby-alpha-sapphire": 57,
     "isle-of-armor": 141,
-    "crystal": 133,
-    "gold-silver": 133
+    "scarlet-violet": 48
   },
   "type": {
     "one": "Water",

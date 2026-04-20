@@ -12,8 +12,12 @@
     "french": "Lugulabre"
   },
   "pokedexNumber": {
+    "black-white": 115,
+    "black-2-white-2": 192,
+    "x-y-mountain": 67,
     "sword-shield": 289,
-    "crown-tundra": 50
+    "crown-tundra": 50,
+    "the-teal-mask": 148
   },
   "type": {
     "one": "Ghost",

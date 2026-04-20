@@ -11,7 +11,10 @@
     "german": "Froxy",
     "french": "Grenousse"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 7,
+    "the-indigo-disk": 215
+  },
   "type": {
     "one": "Water"
   },

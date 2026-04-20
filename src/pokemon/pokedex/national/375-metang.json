@@ -12,7 +12,16 @@
     "french": "Métang"
   },
   "pokedexNumber": {
-    "crown-tundra": 130
+    "ruby-sapphire": 191,
+    "emerald": 191,
+    "black-2-white-2": 263,
+    "omega-ruby-alpha-sapphire": 200,
+    "sun-moon": 215,
+    "sun-moon-ulaula": 87,
+    "ultra-sun-ultra-moon": 279,
+    "ultra-sun-ultra-moon-ulaula": 100,
+    "crown-tundra": 130,
+    "the-indigo-disk": 138
   },
   "type": {
     "one": "Steel",

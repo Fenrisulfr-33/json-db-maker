@@ -12,6 +12,10 @@
     "french": "Avaltout"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 96,
+    "emerald": 96,
+    "x-y-central": 99,
+    "omega-ruby-alpha-sapphire": 101,
     "scarlet-violet": 140
   },
   "type": {

@@ -54,5 +54,8 @@
   "growthRate": null,
   "eggCycles": null,
   "nameOrigin": {},
-  "pokedexEntries": {}
+  "pokedexEntries": {},
+  "pokedexNumbers": {
+    "legends-arceus": 50
+  }
 }

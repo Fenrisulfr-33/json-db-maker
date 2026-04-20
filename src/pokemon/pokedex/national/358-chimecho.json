@@ -12,7 +12,14 @@
     "french": "Éoko"
   },
   "pokedexNumber": {
-    "legends-arceus": 196
+    "ruby-sapphire": 151,
+    "emerald": 151,
+    "diamond-pearl": 83,
+    "platinum": 83,
+    "x-y-coastal": 112,
+    "omega-ruby-alpha-sapphire": 158,
+    "legends-arceus": 196,
+    "the-teal-mask": 143
   },
   "type": {
     "one": "Psychic"

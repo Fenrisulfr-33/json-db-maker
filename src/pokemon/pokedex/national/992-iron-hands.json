@@ -60,5 +60,8 @@
         "desc": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 384
   }
 }

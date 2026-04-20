@@ -12,12 +12,20 @@
     "french": "Dracolosse"
   },
   "pokedexNumber": {
-    "scarlet-violet": 349,
-    "crown-tundra": 196,
-    "crystal": 248,
-    "gold-silver": 248,
+    "red-blue": 149,
     "yellow": 149,
-    "red-blue": 149
+    "gold-silver": 243,
+    "crystal": 243,
+    "firered-leafgreen": 149,
+    "heartgold-soulsilver": 248,
+    "x-y-mountain": 147,
+    "sun-moon": 283,
+    "sun-moon-poni": 98,
+    "ultra-sun-ultra-moon": 381,
+    "ultra-sun-ultra-moon-poni": 128,
+    "lets-go-pikachu-eevee": 149,
+    "crown-tundra": 196,
+    "scarlet-violet": 349
   },
   "type": {
     "one": "Dragon",

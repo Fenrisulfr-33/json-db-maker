@@ -12,9 +12,10 @@
     "french": "Sorcilence"
   },
   "pokedexNumber": {
-    "scarlet-violet": 284,
     "sword-shield": 243,
-    "crown-tundra": 42
+    "crown-tundra": 42,
+    "scarlet-violet": 284,
+    "the-teal-mask": 94
   },
   "type": {
     "one": "Psychic",

@@ -12,8 +12,12 @@
     "french": "Incisache"
   },
   "pokedexNumber": {
+    "black-white": 117,
+    "black-2-white-2": 184,
+    "x-y-central": 149,
+    "sword-shield": 325,
     "scarlet-violet": 156,
-    "sword-shield": 325
+    "the-indigo-disk": 141
   },
   "type": {
     "one": "Dragon"

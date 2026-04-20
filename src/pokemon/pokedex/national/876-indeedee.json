@@ -12,9 +12,10 @@
     "french": "Wimessir"
   },
   "pokedexNumber": {
-    "scarlet-violet": 241,
     "sword-shield": 337,
-    "crown-tundra": 171
+    "crown-tundra": 171,
+    "scarlet-violet": 241,
+    "the-teal-mask": 193
   },
   "type": {
     "one": "Psychic",

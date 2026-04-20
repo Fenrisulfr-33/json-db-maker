@@ -12,11 +12,23 @@
     "french": "Staross"
   },
   "pokedexNumber": {
-    "isle-of-armor": 99,
-    "crystal": 170,
-    "gold-silver": 170,
+    "red-blue": 121,
     "yellow": 121,
-    "red-blue": 121
+    "gold-silver": 168,
+    "crystal": 168,
+    "ruby-sapphire": 144,
+    "emerald": 144,
+    "firered-leafgreen": 121,
+    "heartgold-soulsilver": 170,
+    "black-2-white-2": 239,
+    "x-y-coastal": 35,
+    "omega-ruby-alpha-sapphire": 149,
+    "sun-moon": 185,
+    "sun-moon-akala": 112,
+    "ultra-sun-ultra-moon": 224,
+    "ultra-sun-ultra-moon-akala": 125,
+    "lets-go-pikachu-eevee": 121,
+    "isle-of-armor": 99
   },
   "type": {
     "one": "Water",

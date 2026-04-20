@@ -12,9 +12,14 @@
     "french": "Sonistrelle"
   },
   "pokedexNumber": {
-    "scarlet-violet": 303,
+    "x-y-mountain": 113,
+    "ultra-sun-ultra-moon": 83,
+    "ultra-sun-ultra-moon-melemele": 83,
+    "ultra-sun-ultra-moon-poni": 29,
     "sword-shield": 176,
-    "crown-tundra": 181
+    "crown-tundra": 181,
+    "scarlet-violet": 303,
+    "the-teal-mask": 88
   },
   "type": {
     "one": "Flying",

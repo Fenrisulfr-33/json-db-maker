@@ -12,9 +12,22 @@
     "french": "Airmure"
   },
   "pokedexNumber": {
+    "gold-silver": 198,
+    "crystal": 198,
+    "ruby-sapphire": 115,
+    "emerald": 115,
+    "heartgold-soulsilver": 203,
+    "black-2-white-2": 203,
+    "x-y-mountain": 112,
+    "omega-ruby-alpha-sapphire": 120,
+    "sun-moon": 208,
+    "sun-moon-ulaula": 80,
+    "sun-moon-poni": 72,
+    "ultra-sun-ultra-moon": 270,
+    "ultra-sun-ultra-moon-ulaula": 91,
+    "ultra-sun-ultra-moon-poni": 85,
     "isle-of-armor": 153,
-    "crystal": 203,
-    "gold-silver": 203
+    "the-indigo-disk": 113
   },
   "type": {
     "one": "Steel",

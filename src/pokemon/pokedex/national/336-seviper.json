@@ -12,7 +12,13 @@
     "french": "Séviper"
   },
   "pokedexNumber": {
-    "scarlet-violet": 218
+    "ruby-sapphire": 124,
+    "emerald": 124,
+    "black-2-white-2": 187,
+    "x-y-coastal": 6,
+    "omega-ruby-alpha-sapphire": 129,
+    "scarlet-violet": 218,
+    "the-indigo-disk": 71
   },
   "type": {
     "one": "Poison"

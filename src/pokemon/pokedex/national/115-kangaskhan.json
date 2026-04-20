@@ -12,11 +12,19 @@
     "french": "Kangourex"
   },
   "pokedexNumber": {
-    "isle-of-armor": 172,
-    "crystal": 210,
-    "gold-silver": 210,
+    "red-blue": 115,
     "yellow": 115,
-    "red-blue": 115
+    "gold-silver": 205,
+    "crystal": 205,
+    "firered-leafgreen": 115,
+    "heartgold-soulsilver": 210,
+    "x-y-coastal": 62,
+    "sun-moon": 165,
+    "sun-moon-akala": 92,
+    "ultra-sun-ultra-moon": 199,
+    "ultra-sun-ultra-moon-akala": 100,
+    "lets-go-pikachu-eevee": 115,
+    "isle-of-armor": 172
   },
   "type": {
     "one": "Normal"

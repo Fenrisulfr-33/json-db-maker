@@ -12,9 +12,9 @@
     "french": "Dunaconda"
   },
   "pokedexNumber": {
-    "scarlet-violet": 271,
     "sword-shield": 313,
-    "isle-of-armor": 175
+    "isle-of-armor": 175,
+    "scarlet-violet": 271
   },
   "type": {
     "one": "Ground"

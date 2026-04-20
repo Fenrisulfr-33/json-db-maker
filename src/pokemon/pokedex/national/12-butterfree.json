@@ -12,11 +12,21 @@
     "french": "Papilusion"
   },
   "pokedexNumber": {
-    "sword-shield": 15,
-    "crystal": 26,
-    "gold-silver": 26,
+    "red-blue": 12,
     "yellow": 12,
-    "red-blue": 12
+    "gold-silver": 26,
+    "crystal": 26,
+    "firered-leafgreen": 12,
+    "heartgold-soulsilver": 26,
+    "x-y-central": 25,
+    "sun-moon": 19,
+    "sun-moon-melemele": 19,
+    "sun-moon-akala": 10,
+    "ultra-sun-ultra-moon": 19,
+    "ultra-sun-ultra-moon-melemele": 19,
+    "ultra-sun-ultra-moon-akala": 10,
+    "lets-go-pikachu-eevee": 12,
+    "sword-shield": 15
   },
   "type": {
     "one": "Bug",

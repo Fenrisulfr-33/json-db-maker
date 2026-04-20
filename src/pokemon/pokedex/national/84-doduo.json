@@ -12,10 +12,18 @@
     "french": "Doduo"
   },
   "pokedexNumber": {
-    "crystal": 204,
-    "gold-silver": 204,
+    "red-blue": 84,
     "yellow": 84,
-    "red-blue": 84
+    "gold-silver": 199,
+    "crystal": 199,
+    "ruby-sapphire": 92,
+    "emerald": 92,
+    "firered-leafgreen": 84,
+    "heartgold-soulsilver": 204,
+    "x-y-central": 94,
+    "omega-ruby-alpha-sapphire": 95,
+    "lets-go-pikachu-eevee": 84,
+    "the-indigo-disk": 1
   },
   "type": {
     "one": "Normal",

@@ -4,7 +4,9 @@
   "name": {
     "english": "Iron Leaves"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "the-indigo-disk": 242
+  },
   "type": {
     "one": "Grass",
     "two": "Psychic"

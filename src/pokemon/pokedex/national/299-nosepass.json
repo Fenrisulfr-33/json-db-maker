@@ -12,7 +12,18 @@
     "french": "Tarinor"
   },
   "pokedexNumber": {
-    "legends-arceus": 190
+    "ruby-sapphire": 60,
+    "emerald": 60,
+    "platinum": 155,
+    "black-2-white-2": 164,
+    "x-y-coastal": 93,
+    "omega-ruby-alpha-sapphire": 61,
+    "sun-moon": 198,
+    "sun-moon-akala": 125,
+    "ultra-sun-ultra-moon": 254,
+    "ultra-sun-ultra-moon-akala": 155,
+    "legends-arceus": 190,
+    "the-teal-mask": 107
   },
   "type": {
     "one": "Rock"

@@ -12,6 +12,10 @@
     "french": "Gloupti"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 95,
+    "emerald": 95,
+    "x-y-central": 98,
+    "omega-ruby-alpha-sapphire": 100,
     "scarlet-violet": 139
   },
   "type": {

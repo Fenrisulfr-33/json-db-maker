@@ -12,12 +12,20 @@
     "french": "Minidraco"
   },
   "pokedexNumber": {
-    "scarlet-violet": 347,
-    "crown-tundra": 194,
-    "crystal": 246,
-    "gold-silver": 246,
+    "red-blue": 147,
     "yellow": 147,
-    "red-blue": 147
+    "gold-silver": 241,
+    "crystal": 241,
+    "firered-leafgreen": 147,
+    "heartgold-soulsilver": 246,
+    "x-y-mountain": 145,
+    "sun-moon": 281,
+    "sun-moon-poni": 96,
+    "ultra-sun-ultra-moon": 379,
+    "ultra-sun-ultra-moon-poni": 126,
+    "lets-go-pikachu-eevee": 147,
+    "crown-tundra": 194,
+    "scarlet-violet": 347
   },
   "type": {
     "one": "Dragon"

@@ -11,7 +11,10 @@
     "german": "Masskito",
     "french": "Mouscoto"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 294,
+    "ultra-sun-ultra-moon": 394
+  },
   "type": {
     "one": "Bug",
     "two": "Fighting"

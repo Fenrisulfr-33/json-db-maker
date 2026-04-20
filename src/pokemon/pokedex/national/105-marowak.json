@@ -12,11 +12,17 @@
     "french": "Ossatueur"
   },
   "pokedexNumber": {
-    "isle-of-armor": 171,
-    "crystal": 209,
-    "gold-silver": 209,
+    "red-blue": 105,
     "yellow": 105,
-    "red-blue": 105
+    "gold-silver": 204,
+    "crystal": 204,
+    "firered-leafgreen": 105,
+    "heartgold-soulsilver": 209,
+    "x-y-coastal": 61,
+    "sun-moon": 164,
+    "sun-moon-akala": 91,
+    "lets-go-pikachu-eevee": 105,
+    "isle-of-armor": 171
   },
   "type": {
     "one": "Ground"

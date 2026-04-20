@@ -12,7 +12,10 @@
     "french": "Vivaldaim"
   },
   "pokedexNumber": {
-    "scarlet-violet": 190
+    "black-white": 91,
+    "black-2-white-2": 159,
+    "scarlet-violet": 190,
+    "the-indigo-disk": 38
   },
   "type": {
     "one": "Normal",

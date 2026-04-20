@@ -12,8 +12,14 @@
     "french": "Passerouge"
   },
   "pokedexNumber": {
+    "x-y-central": 14,
+    "sun-moon": 158,
+    "sun-moon-akala": 85,
+    "ultra-sun-ultra-moon": 192,
+    "ultra-sun-ultra-moon-akala": 93,
+    "isle-of-armor": 22,
     "scarlet-violet": 19,
-    "isle-of-armor": 22
+    "the-indigo-disk": 87
   },
   "type": {
     "one": "Normal",

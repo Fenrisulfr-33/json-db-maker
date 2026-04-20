@@ -12,11 +12,16 @@
     "french": "Carabaffe"
   },
   "pokedexNumber": {
-    "isle-of-armor": 72,
-    "crystal": 238,
-    "gold-silver": 238,
+    "red-blue": 8,
     "yellow": 8,
-    "red-blue": 8
+    "gold-silver": 233,
+    "crystal": 233,
+    "firered-leafgreen": 8,
+    "heartgold-soulsilver": 238,
+    "x-y-central": 87,
+    "lets-go-pikachu-eevee": 8,
+    "isle-of-armor": 72,
+    "the-indigo-disk": 171
   },
   "type": {
     "one": "Water"

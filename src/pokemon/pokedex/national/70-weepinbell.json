@@ -12,10 +12,15 @@
     "french": "Boustiflor"
   },
   "pokedexNumber": {
-    "crystal": 65,
-    "gold-silver": 65,
+    "red-blue": 70,
     "yellow": 70,
-    "red-blue": 70
+    "gold-silver": 65,
+    "crystal": 65,
+    "firered-leafgreen": 70,
+    "heartgold-soulsilver": 65,
+    "x-y-mountain": 27,
+    "lets-go-pikachu-eevee": 70,
+    "the-teal-mask": 24
   },
   "type": {
     "one": "Grass",

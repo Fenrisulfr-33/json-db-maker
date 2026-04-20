@@ -12,6 +12,8 @@
     "french": "Poichigeon"
   },
   "pokedexNumber": {
+    "black-white": 25,
+    "black-2-white-2": 14,
     "sword-shield": 26
   },
   "type": {

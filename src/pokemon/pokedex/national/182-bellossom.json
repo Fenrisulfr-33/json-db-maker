@@ -12,9 +12,15 @@
     "french": "Joliflor"
   },
   "pokedexNumber": {
-    "sword-shield": 58,
+    "gold-silver": 86,
     "crystal": 86,
-    "gold-silver": 86
+    "ruby-sapphire": 91,
+    "emerald": 91,
+    "heartgold-soulsilver": 86,
+    "x-y-central": 108,
+    "omega-ruby-alpha-sapphire": 94,
+    "sword-shield": 58,
+    "the-indigo-disk": 65
   },
   "type": {
     "one": "Grass"

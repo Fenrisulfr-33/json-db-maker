@@ -12,7 +12,12 @@
     "french": "Parecool"
   },
   "pokedexNumber": {
-    "scarlet-violet": 78
+    "ruby-sapphire": 36,
+    "emerald": 36,
+    "black-2-white-2": 276,
+    "omega-ruby-alpha-sapphire": 37,
+    "scarlet-violet": 78,
+    "the-indigo-disk": 59
   },
   "type": {
     "one": "Normal"

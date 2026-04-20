@@ -12,6 +12,11 @@
     "french": "Pandarbare"
   },
   "pokedexNumber": {
+    "x-y-central": 92,
+    "sun-moon": 221,
+    "sun-moon-ulaula": 93,
+    "ultra-sun-ultra-moon": 285,
+    "ultra-sun-ultra-moon-ulaula": 106,
     "sword-shield": 112
   },
   "type": {

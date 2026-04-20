@@ -12,9 +12,26 @@
     "french": "Bekipan"
   },
   "pokedexNumber": {
-    "scarlet-violet": 133,
+    "ruby-sapphire": 28,
+    "emerald": 28,
+    "diamond-pearl": 120,
+    "platinum": 120,
+    "black-2-white-2": 213,
+    "x-y-coastal": 18,
+    "omega-ruby-alpha-sapphire": 28,
+    "sun-moon": 41,
+    "sun-moon-melemele": 41,
+    "sun-moon-akala": 20,
+    "sun-moon-ulaula": 22,
+    "sun-moon-poni": 12,
+    "ultra-sun-ultra-moon": 48,
+    "ultra-sun-ultra-moon-melemele": 48,
+    "ultra-sun-ultra-moon-akala": 20,
+    "ultra-sun-ultra-moon-ulaula": 22,
+    "ultra-sun-ultra-moon-poni": 19,
     "sword-shield": 63,
-    "isle-of-armor": 49
+    "isle-of-armor": 49,
+    "scarlet-violet": 133
   },
   "type": {
     "one": "Water",

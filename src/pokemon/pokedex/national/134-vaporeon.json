@@ -12,14 +12,24 @@
     "french": "Aquali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 180,
-    "legends-arceus": 26,
+    "red-blue": 134,
+    "yellow": 134,
+    "gold-silver": 181,
+    "crystal": 181,
+    "firered-leafgreen": 134,
+    "platinum": 164,
+    "heartgold-soulsilver": 185,
+    "black-2-white-2": 92,
+    "x-y-coastal": 78,
+    "sun-moon": 124,
+    "sun-moon-akala": 51,
+    "ultra-sun-ultra-moon": 154,
+    "ultra-sun-ultra-moon-akala": 55,
+    "lets-go-pikachu-eevee": 134,
     "sword-shield": 197,
     "crown-tundra": 75,
-    "crystal": 185,
-    "gold-silver": 185,
-    "yellow": 134,
-    "red-blue": 134
+    "legends-arceus": 26,
+    "scarlet-violet": 180
   },
   "type": {
     "one": "Water"

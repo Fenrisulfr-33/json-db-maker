@@ -12,12 +12,25 @@
     "french": "Abra"
   },
   "pokedexNumber": {
-    "legends-arceus": 58,
-    "isle-of-armor": 31,
-    "crystal": 89,
-    "gold-silver": 89,
+    "red-blue": 63,
     "yellow": 63,
-    "red-blue": 63
+    "gold-silver": 89,
+    "crystal": 89,
+    "ruby-sapphire": 39,
+    "emerald": 39,
+    "firered-leafgreen": 63,
+    "diamond-pearl": 20,
+    "platinum": 20,
+    "heartgold-soulsilver": 89,
+    "x-y-central": 102,
+    "omega-ruby-alpha-sapphire": 40,
+    "sun-moon": 42,
+    "sun-moon-melemele": 42,
+    "ultra-sun-ultra-moon": 49,
+    "ultra-sun-ultra-moon-melemele": 49,
+    "lets-go-pikachu-eevee": 63,
+    "isle-of-armor": 31,
+    "legends-arceus": 58
   },
   "type": {
     "one": "Psychic"

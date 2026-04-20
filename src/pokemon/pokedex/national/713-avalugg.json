@@ -12,10 +12,11 @@
     "french": "Séracrawl"
   },
   "pokedexNumber": {
-    "scarlet-violet": 364,
-    "legends-arceus": 216,
+    "x-y-mountain": 80,
     "sword-shield": 359,
-    "crown-tundra": 143
+    "crown-tundra": 143,
+    "legends-arceus": 216,
+    "scarlet-violet": 364
   },
   "type": {
     "one": "Ice"

@@ -12,11 +12,23 @@
     "french": "Grotadmorv"
   },
   "pokedexNumber": {
-    "scarlet-violet": 195,
-    "crystal": 118,
-    "gold-silver": 118,
+    "red-blue": 89,
     "yellow": 89,
-    "red-blue": 89
+    "gold-silver": 117,
+    "crystal": 117,
+    "ruby-sapphire": 107,
+    "emerald": 107,
+    "firered-leafgreen": 89,
+    "heartgold-soulsilver": 118,
+    "black-2-white-2": 65,
+    "omega-ruby-alpha-sapphire": 112,
+    "sun-moon": 51,
+    "sun-moon-melemele": 51,
+    "sun-moon-ulaula": 29,
+    "ultra-sun-ultra-moon-melemele": 58,
+    "ultra-sun-ultra-moon-ulaula": 29,
+    "lets-go-pikachu-eevee": 89,
+    "scarlet-violet": 195
   },
   "type": {
     "one": "Poison"

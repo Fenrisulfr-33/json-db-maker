@@ -12,7 +12,10 @@
     "french": "Prinplouf"
   },
   "pokedexNumber": {
-    "legends-arceus": 162
+    "diamond-pearl": 8,
+    "platinum": 8,
+    "legends-arceus": 162,
+    "the-indigo-disk": 198
   },
   "type": {
     "one": "Water"

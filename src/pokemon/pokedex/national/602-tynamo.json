@@ -12,7 +12,11 @@
     "french": "Anchwatt"
   },
   "pokedexNumber": {
-    "scarlet-violet": 341
+    "black-white": 108,
+    "black-2-white-2": 177,
+    "scarlet-violet": 341,
+    "the-teal-mask": 175,
+    "the-indigo-disk": 134
   },
   "type": {
     "one": "Electric"

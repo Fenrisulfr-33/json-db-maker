@@ -12,12 +12,20 @@
     "french": "Mentali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 183,
-    "legends-arceus": 29,
+    "gold-silver": 184,
+    "crystal": 184,
+    "platinum": 167,
+    "heartgold-soulsilver": 188,
+    "black-2-white-2": 95,
+    "x-y-coastal": 81,
+    "sun-moon": 127,
+    "sun-moon-akala": 54,
+    "ultra-sun-ultra-moon": 157,
+    "ultra-sun-ultra-moon-akala": 58,
     "sword-shield": 200,
     "crown-tundra": 79,
-    "crystal": 188,
-    "gold-silver": 188
+    "legends-arceus": 29,
+    "scarlet-violet": 183
   },
   "type": {
     "one": "Psychic"

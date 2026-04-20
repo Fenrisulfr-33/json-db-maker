@@ -12,6 +12,13 @@
     "french": "Miasmax"
   },
   "pokedexNumber": {
+    "black-white": 75,
+    "black-2-white-2": 106,
+    "x-y-mountain": 75,
+    "sun-moon": 207,
+    "sun-moon-ulaula": 79,
+    "ultra-sun-ultra-moon": 265,
+    "ultra-sun-ultra-moon-ulaula": 86,
     "sword-shield": 158
   },
   "type": {

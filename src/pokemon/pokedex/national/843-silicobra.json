@@ -12,9 +12,9 @@
     "french": "Dunaja"
   },
   "pokedexNumber": {
-    "scarlet-violet": 270,
     "sword-shield": 312,
-    "isle-of-armor": 174
+    "isle-of-armor": 174,
+    "scarlet-violet": 270
   },
   "type": {
     "one": "Ground"

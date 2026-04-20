@@ -11,7 +11,9 @@
     "german": "Oghnatoll",
     "french": "Tutétékri"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sword-shield": 328
+  },
   "type": {
     "one": "Ground",
     "two": "Ghost"

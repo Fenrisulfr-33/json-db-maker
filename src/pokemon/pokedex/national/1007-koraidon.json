@@ -70,5 +70,8 @@
         "desc": "It has similar characteristics to a creature described in an old book as the Winged King."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 399
   }
 }

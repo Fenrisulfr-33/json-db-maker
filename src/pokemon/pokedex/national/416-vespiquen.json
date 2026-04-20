@@ -12,10 +12,14 @@
     "french": "Apireine"
   },
   "pokedexNumber": {
-    "scarlet-violet": 39,
-    "legends-arceus": 71,
+    "diamond-pearl": 54,
+    "platinum": 54,
+    "black-2-white-2": 143,
+    "x-y-central": 77,
     "sword-shield": 117,
-    "isle-of-armor": 204
+    "isle-of-armor": 204,
+    "legends-arceus": 71,
+    "scarlet-violet": 39
   },
   "type": {
     "one": "Bug",

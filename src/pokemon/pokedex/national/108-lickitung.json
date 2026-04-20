@@ -12,12 +12,20 @@
     "french": "Excelangue"
   },
   "pokedexNumber": {
-    "legends-arceus": 125,
-    "isle-of-armor": 54,
-    "crystal": 180,
-    "gold-silver": 180,
+    "red-blue": 108,
     "yellow": 108,
-    "red-blue": 108
+    "gold-silver": 178,
+    "crystal": 178,
+    "firered-leafgreen": 108,
+    "platinum": 161,
+    "heartgold-soulsilver": 180,
+    "black-2-white-2": 284,
+    "x-y-mountain": 134,
+    "ultra-sun-ultra-moon": 375,
+    "ultra-sun-ultra-moon-poni": 122,
+    "lets-go-pikachu-eevee": 108,
+    "isle-of-armor": 54,
+    "legends-arceus": 125
   },
   "type": {
     "one": "Normal"

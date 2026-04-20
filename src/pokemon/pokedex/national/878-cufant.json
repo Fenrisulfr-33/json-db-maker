@@ -12,9 +12,9 @@
     "french": "Charibari"
   },
   "pokedexNumber": {
-    "scarlet-violet": 124,
     "sword-shield": 302,
-    "crown-tundra": 108
+    "crown-tundra": 108,
+    "scarlet-violet": 124
   },
   "type": {
     "one": "Steel"

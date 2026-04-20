@@ -12,9 +12,19 @@
     "french": "Ténéfix"
   },
   "pokedexNumber": {
-    "scarlet-violet": 297,
+    "ruby-sapphire": 68,
+    "emerald": 68,
+    "x-y-coastal": 123,
+    "omega-ruby-alpha-sapphire": 70,
+    "sun-moon": 102,
+    "sun-moon-melemele": 102,
+    "sun-moon-poni": 52,
+    "ultra-sun-ultra-moon": 124,
+    "ultra-sun-ultra-moon-melemele": 124,
+    "ultra-sun-ultra-moon-poni": 64,
     "sword-shield": 294,
-    "crown-tundra": 174
+    "crown-tundra": 174,
+    "scarlet-violet": 297
   },
   "type": {
     "one": "Dark",

@@ -12,6 +12,9 @@
     "french": "Scobolide"
   },
   "pokedexNumber": {
+    "black-white": 50,
+    "black-2-white-2": 44,
+    "x-y-central": 121,
     "isle-of-armor": 75
   },
   "type": {

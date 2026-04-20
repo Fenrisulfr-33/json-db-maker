@@ -12,11 +12,16 @@
     "french": "Kabutops"
   },
   "pokedexNumber": {
-    "crown-tundra": 126,
-    "crystal": 228,
-    "gold-silver": 228,
+    "red-blue": 141,
     "yellow": 141,
-    "red-blue": 141
+    "gold-silver": 223,
+    "crystal": 223,
+    "firered-leafgreen": 141,
+    "heartgold-soulsilver": 228,
+    "ultra-sun-ultra-moon": 230,
+    "ultra-sun-ultra-moon-akala": 131,
+    "lets-go-pikachu-eevee": 141,
+    "crown-tundra": 126
   },
   "type": {
     "one": "Rock",

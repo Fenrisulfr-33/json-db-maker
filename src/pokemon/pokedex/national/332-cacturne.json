@@ -12,7 +12,10 @@
     "french": "Cacturne"
   },
   "pokedexNumber": {
-    "scarlet-violet": 253
+    "ruby-sapphire": 120,
+    "emerald": 120,
+    "omega-ruby-alpha-sapphire": 125,
+    "scarlet-violet": 151
   },
   "type": {
     "one": "Grass",

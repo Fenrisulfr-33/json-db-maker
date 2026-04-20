@@ -12,11 +12,26 @@
     "french": "Grolem"
   },
   "pokedexNumber": {
-    "legends-arceus": 48,
-    "crystal": 36,
-    "gold-silver": 36,
+    "red-blue": 76,
     "yellow": 76,
-    "red-blue": 76
+    "gold-silver": 36,
+    "crystal": 36,
+    "ruby-sapphire": 59,
+    "emerald": 59,
+    "firered-leafgreen": 76,
+    "diamond-pearl": 33,
+    "platinum": 33,
+    "heartgold-soulsilver": 36,
+    "x-y-mountain": 11,
+    "omega-ruby-alpha-sapphire": 60,
+    "sun-moon": 231,
+    "sun-moon-ulaula": 103,
+    "ultra-sun-ultra-moon": 300,
+    "ultra-sun-ultra-moon-ulaula": 121,
+    "lets-go-pikachu-eevee": 76,
+    "legends-arceus": 48,
+    "the-teal-mask": 82,
+    "the-indigo-disk": 98
   },
   "type": {
     "one": "Rock",

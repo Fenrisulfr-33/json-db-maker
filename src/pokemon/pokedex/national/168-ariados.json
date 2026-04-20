@@ -12,8 +12,17 @@
     "french": "Migalos"
   },
   "pokedexNumber": {
+    "gold-silver": 33,
     "crystal": 33,
-    "gold-silver": 33
+    "heartgold-soulsilver": 33,
+    "x-y-mountain": 108,
+    "sun-moon": 23,
+    "sun-moon-melemele": 23,
+    "sun-moon-ulaula": 11,
+    "ultra-sun-ultra-moon": 23,
+    "ultra-sun-ultra-moon-melemele": 23,
+    "ultra-sun-ultra-moon-ulaula": 11,
+    "the-teal-mask": 2
   },
   "type": {
     "one": "Bug",

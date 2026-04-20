@@ -12,10 +12,18 @@
     "french": "Cornèbre"
   },
   "pokedexNumber": {
-    "scarlet-violet": 232,
+    "gold-silver": 208,
+    "crystal": 208,
+    "diamond-pearl": 74,
+    "platinum": 74,
+    "heartgold-soulsilver": 213,
+    "x-y-mountain": 51,
+    "sun-moon": 277,
+    "sun-moon-poni": 92,
+    "ultra-sun-ultra-moon": 78,
+    "ultra-sun-ultra-moon-melemele": 78,
     "legends-arceus": 140,
-    "crystal": 213,
-    "gold-silver": 213
+    "scarlet-violet": 232
   },
   "type": {
     "one": "Dark",

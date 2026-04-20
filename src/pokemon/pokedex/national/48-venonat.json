@@ -12,11 +12,15 @@
     "french": "Mimitoss"
   },
   "pokedexNumber": {
-    "scarlet-violet": 256,
-    "crystal": 109,
-    "gold-silver": 109,
+    "red-blue": 48,
     "yellow": 48,
-    "red-blue": 48
+    "gold-silver": 108,
+    "crystal": 108,
+    "firered-leafgreen": 48,
+    "heartgold-soulsilver": 109,
+    "lets-go-pikachu-eevee": 48,
+    "scarlet-violet": 256,
+    "the-indigo-disk": 8
   },
   "type": {
     "one": "Bug",

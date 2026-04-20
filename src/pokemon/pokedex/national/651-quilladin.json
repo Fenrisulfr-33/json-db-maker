@@ -11,7 +11,10 @@
     "german": "Igastarnish",
     "french": "Boguérisse"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 2,
+    "the-indigo-disk": 210
+  },
   "type": {
     "one": "Grass"
   },

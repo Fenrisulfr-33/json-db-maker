@@ -12,6 +12,9 @@
     "french": "Dragmara"
   },
   "pokedexNumber": {
+    "x-y-coastal": 67,
+    "ultra-sun-ultra-moon": 246,
+    "ultra-sun-ultra-moon-akala": 147,
     "crown-tundra": 86
   },
   "type": {

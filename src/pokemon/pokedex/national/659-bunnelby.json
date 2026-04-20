@@ -12,6 +12,7 @@
     "french": "Sapereau"
   },
   "pokedexNumber": {
+    "x-y-central": 10,
     "sword-shield": 48
   },
   "type": {

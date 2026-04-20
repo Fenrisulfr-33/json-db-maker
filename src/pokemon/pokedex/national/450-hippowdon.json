@@ -12,9 +12,12 @@
     "french": "Hippodocus"
   },
   "pokedexNumber": {
-    "scarlet-violet": 266,
+    "diamond-pearl": 123,
+    "platinum": 123,
+    "x-y-coastal": 49,
+    "sword-shield": 315,
     "legends-arceus": 108,
-    "sword-shield": 315
+    "scarlet-violet": 266
   },
   "type": {
     "one": "Ground"

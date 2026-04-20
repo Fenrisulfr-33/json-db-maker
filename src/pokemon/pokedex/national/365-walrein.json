@@ -12,8 +12,12 @@
     "french": "Kaimorse"
   },
   "pokedexNumber": {
-    "legends-arceus": 145,
-    "crown-tundra": 161
+    "ruby-sapphire": 175,
+    "emerald": 175,
+    "black-2-white-2": 245,
+    "omega-ruby-alpha-sapphire": 184,
+    "crown-tundra": 161,
+    "legends-arceus": 145
   },
   "type": {
     "one": "Ice",

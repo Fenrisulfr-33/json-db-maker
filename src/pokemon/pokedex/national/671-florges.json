@@ -12,6 +12,11 @@
     "french": "Florges"
   },
   "pokedexNumber": {
+    "x-y-central": 70,
+    "ultra-sun-ultra-moon": 102,
+    "ultra-sun-ultra-moon-melemele": 102,
+    "ultra-sun-ultra-moon-ulaula": 47,
+    "ultra-sun-ultra-moon-poni": 46,
     "scarlet-violet": 147
   },
   "type": {

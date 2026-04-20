@@ -12,10 +12,18 @@
     "french": "Bargantua"
   },
   "pokedexNumber": {
-    "scarlet-violet": 138,
-    "legends-arceus": 166,
+    "black-white": 56,
+    "black-2-white-2": 104,
+    "x-y-mountain": 60,
+    "ultra-sun-ultra-moon": 188,
+    "ultra-sun-ultra-moon-akala": 89,
+    "ultra-sun-ultra-moon-ulaula": 80,
+    "ultra-sun-ultra-moon-poni": 75,
     "sword-shield": 154,
-    "crown-tundra": 64
+    "crown-tundra": 64,
+    "legends-arceus": 166,
+    "scarlet-violet": 138,
+    "the-teal-mask": 194
   },
   "type": {
     "one": "Water"

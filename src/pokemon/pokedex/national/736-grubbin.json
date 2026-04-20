@@ -12,7 +12,16 @@
     "french": "Larvibule"
   },
   "pokedexNumber": {
-    "sword-shield": 16
+    "sun-moon": 27,
+    "sun-moon-melemele": 27,
+    "sun-moon-akala": 11,
+    "sun-moon-ulaula": 12,
+    "ultra-sun-ultra-moon": 34,
+    "ultra-sun-ultra-moon-melemele": 34,
+    "ultra-sun-ultra-moon-akala": 11,
+    "ultra-sun-ultra-moon-ulaula": 12,
+    "sword-shield": 16,
+    "the-teal-mask": 112
   },
   "type": {
     "one": "Bug"

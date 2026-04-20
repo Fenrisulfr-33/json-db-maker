@@ -68,5 +68,8 @@
         "desc": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 10
   }
 }

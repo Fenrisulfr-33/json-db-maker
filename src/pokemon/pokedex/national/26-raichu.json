@@ -12,14 +12,27 @@
     "french": "Raichu"
   },
   "pokedexNumber": {
-    "scarlet-violet": 75,
-    "legends-arceus": 57,
+    "red-blue": 26,
+    "yellow": 26,
+    "gold-silver": 23,
+    "crystal": 23,
+    "ruby-sapphire": 157,
+    "emerald": 157,
+    "firered-leafgreen": 26,
+    "diamond-pearl": 105,
+    "platinum": 105,
+    "heartgold-soulsilver": 23,
+    "x-y-central": 37,
+    "omega-ruby-alpha-sapphire": 164,
+    "sun-moon": 26,
+    "sun-moon-melemele": 26,
+    "ultra-sun-ultra-moon-melemele": 33,
+    "lets-go-pikachu-eevee": 26,
     "sword-shield": 195,
     "isle-of-armor": 86,
-    "crystal": 23,
-    "gold-silver": 23,
-    "yellow": 26,
-    "red-blue": 26
+    "legends-arceus": 57,
+    "scarlet-violet": 75,
+    "the-teal-mask": 22
   },
   "type": {
     "one": "Electric"

@@ -12,8 +12,16 @@
     "french": "Crocorible"
   },
   "pokedexNumber": {
+    "black-white": 59,
+    "black-2-white-2": 101,
+    "x-y-coastal": 45,
+    "sun-moon": 234,
+    "sun-moon-ulaula": 106,
+    "ultra-sun-ultra-moon": 303,
+    "ultra-sun-ultra-moon-ulaula": 124,
+    "isle-of-armor": 178,
     "scarlet-violet": 269,
-    "isle-of-armor": 178
+    "the-indigo-disk": 29
   },
   "type": {
     "one": "Ground",

@@ -12,12 +12,27 @@
     "french": "Poissoroy"
   },
   "pokedexNumber": {
-    "sword-shield": 147,
-    "isle-of-armor": 95,
-    "crystal": 79,
-    "gold-silver": 79,
+    "red-blue": 119,
     "yellow": 119,
-    "red-blue": 119
+    "gold-silver": 79,
+    "crystal": 79,
+    "ruby-sapphire": 51,
+    "emerald": 51,
+    "firered-leafgreen": 119,
+    "diamond-pearl": 79,
+    "platinum": 79,
+    "heartgold-soulsilver": 79,
+    "x-y-central": 54,
+    "omega-ruby-alpha-sapphire": 52,
+    "sun-moon": 154,
+    "sun-moon-akala": 81,
+    "sun-moon-ulaula": 73,
+    "ultra-sun-ultra-moon": 187,
+    "ultra-sun-ultra-moon-akala": 88,
+    "ultra-sun-ultra-moon-ulaula": 79,
+    "lets-go-pikachu-eevee": 119,
+    "sword-shield": 147,
+    "isle-of-armor": 95
   },
   "type": {
     "one": "Water"

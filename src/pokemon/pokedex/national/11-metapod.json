@@ -12,11 +12,21 @@
     "french": "Chrysacier"
   },
   "pokedexNumber": {
-    "sword-shield": 14,
-    "crystal": 25,
-    "gold-silver": 25,
+    "red-blue": 11,
     "yellow": 11,
-    "red-blue": 11
+    "gold-silver": 25,
+    "crystal": 25,
+    "firered-leafgreen": 11,
+    "heartgold-soulsilver": 25,
+    "x-y-central": 24,
+    "sun-moon": 18,
+    "sun-moon-melemele": 18,
+    "sun-moon-akala": 9,
+    "ultra-sun-ultra-moon": 18,
+    "ultra-sun-ultra-moon-melemele": 18,
+    "ultra-sun-ultra-moon-akala": 9,
+    "lets-go-pikachu-eevee": 11,
+    "sword-shield": 14
   },
   "type": {
     "one": "Bug"

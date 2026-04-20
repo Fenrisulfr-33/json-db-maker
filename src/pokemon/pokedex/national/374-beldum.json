@@ -12,7 +12,16 @@
     "french": "Terhal"
   },
   "pokedexNumber": {
-    "crown-tundra": 129
+    "ruby-sapphire": 190,
+    "emerald": 190,
+    "black-2-white-2": 262,
+    "omega-ruby-alpha-sapphire": 199,
+    "sun-moon": 214,
+    "sun-moon-ulaula": 86,
+    "ultra-sun-ultra-moon": 278,
+    "ultra-sun-ultra-moon-ulaula": 99,
+    "crown-tundra": 129,
+    "the-indigo-disk": 137
   },
   "type": {
     "one": "Steel",

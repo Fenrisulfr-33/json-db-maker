@@ -11,7 +11,11 @@
     "german": "Sodamak",
     "french": "Flotajou"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 21,
+    "black-2-white-2": 41,
+    "x-y-central": 33
+  },
   "type": {
     "one": "Water"
   },

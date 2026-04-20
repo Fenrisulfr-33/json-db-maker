@@ -12,8 +12,16 @@
     "french": "Mascaïman"
   },
   "pokedexNumber": {
+    "black-white": 57,
+    "black-2-white-2": 99,
+    "x-y-coastal": 43,
+    "sun-moon": 232,
+    "sun-moon-ulaula": 104,
+    "ultra-sun-ultra-moon": 301,
+    "ultra-sun-ultra-moon-ulaula": 122,
+    "isle-of-armor": 176,
     "scarlet-violet": 267,
-    "isle-of-armor": 176
+    "the-indigo-disk": 27
   },
   "type": {
     "one": "Ground",

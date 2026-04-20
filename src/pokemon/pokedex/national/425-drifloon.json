@@ -12,10 +12,18 @@
     "french": "Baudrive"
   },
   "pokedexNumber": {
-    "scarlet-violet": 143,
-    "legends-arceus": 37,
+    "diamond-pearl": 65,
+    "platinum": 65,
+    "black-2-white-2": 208,
+    "x-y-coastal": 1,
+    "sun-moon": 64,
+    "sun-moon-melemele": 64,
+    "ultra-sun-ultra-moon": 76,
+    "ultra-sun-ultra-moon-melemele": 76,
     "sword-shield": 124,
-    "isle-of-armor": 135
+    "isle-of-armor": 135,
+    "legends-arceus": 37,
+    "scarlet-violet": 143
   },
   "type": {
     "one": "Ghost",

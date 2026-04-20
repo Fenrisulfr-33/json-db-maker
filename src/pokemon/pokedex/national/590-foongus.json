@@ -12,8 +12,11 @@
     "french": "Trompignon"
   },
   "pokedexNumber": {
-    "scarlet-violet": 205,
-    "isle-of-armor": 77
+    "black-white": 96,
+    "black-2-white-2": 161,
+    "x-y-mountain": 53,
+    "isle-of-armor": 77,
+    "scarlet-violet": 205
   },
   "type": {
     "one": "Grass",

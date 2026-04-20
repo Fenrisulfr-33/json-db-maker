@@ -12,9 +12,10 @@
     "french": "Théffroi"
   },
   "pokedexNumber": {
-    "scarlet-violet": 237,
     "sword-shield": 335,
-    "crown-tundra": 132
+    "crown-tundra": 132,
+    "scarlet-violet": 237,
+    "the-indigo-disk": 127
   },
   "type": {
     "one": "Ghost"

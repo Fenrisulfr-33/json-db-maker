@@ -12,6 +12,15 @@
     "french": "Nodulithe"
   },
   "pokedexNumber": {
+    "black-white": 30,
+    "black-2-white-2": 68,
+    "x-y-coastal": 120,
+    "sun-moon": 98,
+    "sun-moon-melemele": 98,
+    "sun-moon-poni": 48,
+    "ultra-sun-ultra-moon": 120,
+    "ultra-sun-ultra-moon-melemele": 120,
+    "ultra-sun-ultra-moon-poni": 60,
     "sword-shield": 168,
     "isle-of-armor": 154
   },

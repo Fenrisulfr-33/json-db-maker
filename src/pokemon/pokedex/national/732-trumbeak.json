@@ -11,7 +11,19 @@
     "german": "Trompeck",
     "french": "Piclairon"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 11,
+    "sun-moon-melemele": 11,
+    "sun-moon-akala": 2,
+    "sun-moon-ulaula": 2,
+    "sun-moon-poni": 2,
+    "ultra-sun-ultra-moon": 11,
+    "ultra-sun-ultra-moon-melemele": 11,
+    "ultra-sun-ultra-moon-akala": 2,
+    "ultra-sun-ultra-moon-ulaula": 2,
+    "ultra-sun-ultra-moon-poni": 2,
+    "the-indigo-disk": 48
+  },
   "type": {
     "one": "Normal",
     "two": "Flying"

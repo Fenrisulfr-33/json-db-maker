@@ -12,8 +12,11 @@
     "french": "Fouinette"
   },
   "pokedexNumber": {
+    "gold-silver": 19,
     "crystal": 19,
-    "gold-silver": 19
+    "heartgold-soulsilver": 19,
+    "x-y-central": 109,
+    "the-teal-mask": 26
   },
   "type": {
     "one": "Normal"

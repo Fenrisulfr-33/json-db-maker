@@ -12,8 +12,12 @@
     "french": "Symbios"
   },
   "pokedexNumber": {
+    "black-white": 85,
+    "black-2-white-2": 141,
+    "x-y-coastal": 117,
     "sword-shield": 272,
-    "crown-tundra": 56
+    "crown-tundra": 56,
+    "the-indigo-disk": 150
   },
   "type": {
     "one": "Psychic"

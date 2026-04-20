@@ -12,8 +12,14 @@
     "french": "Gringolem"
   },
   "pokedexNumber": {
+    "black-white": 128,
+    "black-2-white-2": 271,
+    "x-y-coastal": 91,
+    "ultra-sun-ultra-moon": 312,
+    "ultra-sun-ultra-moon-ulaula": 133,
     "sword-shield": 88,
-    "crown-tundra": 153
+    "crown-tundra": 153,
+    "the-indigo-disk": 123
   },
   "type": {
     "one": "Ground",

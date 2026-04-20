@@ -12,8 +12,15 @@
     "french": "Élekable"
   },
   "pokedexNumber": {
+    "platinum": 199,
+    "black-2-white-2": 58,
+    "sun-moon": 228,
+    "sun-moon-ulaula": 100,
+    "ultra-sun-ultra-moon": 297,
+    "ultra-sun-ultra-moon-ulaula": 118,
+    "crown-tundra": 17,
     "legends-arceus": 184,
-    "crown-tundra": 17
+    "the-indigo-disk": 12
   },
   "type": {
     "one": "Electric"

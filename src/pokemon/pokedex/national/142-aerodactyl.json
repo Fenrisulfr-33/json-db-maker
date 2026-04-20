@@ -12,11 +12,19 @@
     "french": "Ptéra"
   },
   "pokedexNumber": {
-    "crown-tundra": 127,
-    "crystal": 229,
-    "gold-silver": 229,
+    "red-blue": 142,
     "yellow": 142,
-    "red-blue": 142
+    "gold-silver": 224,
+    "crystal": 224,
+    "firered-leafgreen": 142,
+    "heartgold-soulsilver": 229,
+    "x-y-coastal": 68,
+    "sun-moon": 284,
+    "sun-moon-poni": 99,
+    "ultra-sun-ultra-moon": 382,
+    "ultra-sun-ultra-moon-poni": 129,
+    "lets-go-pikachu-eevee": 142,
+    "crown-tundra": 127
   },
   "type": {
     "one": "Rock",

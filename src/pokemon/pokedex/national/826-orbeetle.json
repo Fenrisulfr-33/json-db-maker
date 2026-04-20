@@ -90,5 +90,9 @@
         "desc": "If it were to utilize every last bit of its power, it could control the minds of every living being in its vicinity."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 12,
+    "isle-of-armor": 16
   }
 }

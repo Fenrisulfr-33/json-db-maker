@@ -12,6 +12,11 @@
     "french": "Anorith"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 135,
+    "emerald": 135,
+    "omega-ruby-alpha-sapphire": 140,
+    "ultra-sun-ultra-moon": 233,
+    "ultra-sun-ultra-moon-akala": 134,
     "crown-tundra": 185
   },
   "type": {

@@ -12,11 +12,23 @@
     "french": "Ptitard"
   },
   "pokedexNumber": {
-    "isle-of-armor": 142,
-    "crystal": 72,
-    "gold-silver": 72,
+    "red-blue": 60,
     "yellow": 60,
-    "red-blue": 60
+    "gold-silver": 72,
+    "crystal": 72,
+    "firered-leafgreen": 60,
+    "heartgold-soulsilver": 72,
+    "black-white": 107,
+    "x-y-mountain": 33,
+    "sun-moon": 149,
+    "sun-moon-akala": 76,
+    "sun-moon-ulaula": 68,
+    "ultra-sun-ultra-moon": 182,
+    "ultra-sun-ultra-moon-akala": 83,
+    "ultra-sun-ultra-moon-ulaula": 74,
+    "lets-go-pikachu-eevee": 60,
+    "isle-of-armor": 142,
+    "the-teal-mask": 39
   },
   "type": {
     "one": "Water"

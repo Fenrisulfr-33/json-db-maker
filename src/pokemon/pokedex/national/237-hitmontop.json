@@ -12,9 +12,11 @@
     "french": "Kapoera"
   },
   "pokedexNumber": {
+    "gold-silver": 146,
+    "crystal": 146,
+    "heartgold-soulsilver": 148,
     "sword-shield": 110,
-    "crystal": 148,
-    "gold-silver": 148
+    "the-indigo-disk": 95
   },
   "type": {
     "one": "Fighting"

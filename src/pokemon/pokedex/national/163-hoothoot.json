@@ -12,9 +12,16 @@
     "french": "Hoothoot"
   },
   "pokedexNumber": {
-    "sword-shield": 19,
+    "gold-silver": 15,
     "crystal": 15,
-    "gold-silver": 15
+    "diamond-pearl": 106,
+    "platinum": 106,
+    "heartgold-soulsilver": 15,
+    "x-y-mountain": 117,
+    "ultra-sun-ultra-moon": 212,
+    "ultra-sun-ultra-moon-akala": 113,
+    "sword-shield": 19,
+    "the-teal-mask": 45
   },
   "type": {
     "one": "Normal",

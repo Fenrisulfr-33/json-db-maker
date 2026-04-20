@@ -11,7 +11,10 @@
     "german": "Cosmog",
     "french": "Cosmog"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 289,
+    "ultra-sun-ultra-moon": 387
+  },
   "type": {
     "one": "Psychic"
   },

@@ -11,7 +11,12 @@
     "german": "Schwalboss",
     "french": "Hélédelle"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 26,
+    "emerald": 26,
+    "x-y-coastal": 20,
+    "omega-ruby-alpha-sapphire": 26
+  },
   "type": {
     "one": "Normal",
     "two": "Flying"

@@ -12,8 +12,18 @@
     "french": "Vostourno"
   },
   "pokedexNumber": {
+    "black-white": 135,
+    "black-2-white-2": 111,
+    "sun-moon": 77,
+    "sun-moon-melemele": 77,
+    "sun-moon-poni": 28,
+    "ultra-sun-ultra-moon": 91,
+    "ultra-sun-ultra-moon-melemele": 91,
+    "ultra-sun-ultra-moon-poni": 37,
     "sword-shield": 283,
-    "isle-of-armor": 181
+    "isle-of-armor": 181,
+    "the-teal-mask": 127,
+    "the-indigo-disk": 34
   },
   "type": {
     "one": "Dark",

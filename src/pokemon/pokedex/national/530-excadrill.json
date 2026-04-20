@@ -12,7 +12,10 @@
     "french": "Minotaupe"
   },
   "pokedexNumber": {
-    "sword-shield": 167
+    "black-white": 36,
+    "black-2-white-2": 77,
+    "sword-shield": 167,
+    "the-indigo-disk": 100
   },
   "type": {
     "one": "Ground",

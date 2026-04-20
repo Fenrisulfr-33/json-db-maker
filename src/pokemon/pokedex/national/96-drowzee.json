@@ -12,11 +12,20 @@
     "french": "Soporifik"
   },
   "pokedexNumber": {
-    "scarlet-violet": 66,
-    "crystal": 87,
-    "gold-silver": 87,
+    "red-blue": 96,
     "yellow": 96,
-    "red-blue": 96
+    "gold-silver": 87,
+    "crystal": 87,
+    "firered-leafgreen": 96,
+    "heartgold-soulsilver": 87,
+    "sun-moon": 54,
+    "sun-moon-melemele": 54,
+    "sun-moon-poni": 13,
+    "ultra-sun-ultra-moon": 66,
+    "ultra-sun-ultra-moon-melemele": 66,
+    "ultra-sun-ultra-moon-poni": 20,
+    "lets-go-pikachu-eevee": 96,
+    "scarlet-violet": 66
   },
   "type": {
     "one": "Psychic"

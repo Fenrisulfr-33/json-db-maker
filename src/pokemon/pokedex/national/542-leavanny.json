@@ -11,7 +11,11 @@
     "german": "Matrifol",
     "french": "Manternel"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 48,
+    "black-2-white-2": 19,
+    "the-teal-mask": 15
+  },
   "type": {
     "one": "Bug",
     "two": "Grass"

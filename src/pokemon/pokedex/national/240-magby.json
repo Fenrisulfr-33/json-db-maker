@@ -12,10 +12,17 @@
     "french": "Magby"
   },
   "pokedexNumber": {
-    "legends-arceus": 174,
+    "gold-silver": 150,
+    "crystal": 150,
+    "platinum": 200,
+    "heartgold-soulsilver": 152,
+    "black-2-white-2": 53,
+    "sun-moon": 166,
+    "sun-moon-akala": 93,
+    "ultra-sun-ultra-moon": 200,
+    "ultra-sun-ultra-moon-akala": 101,
     "crown-tundra": 18,
-    "crystal": 152,
-    "gold-silver": 152
+    "legends-arceus": 174
   },
   "type": {
     "one": "Fire"

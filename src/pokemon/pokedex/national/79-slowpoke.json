@@ -12,11 +12,21 @@
     "french": "Ramoloss"
   },
   "pokedexNumber": {
-    "scarlet-violet": 324,
-    "crystal": 80,
-    "gold-silver": 80,
+    "red-blue": 79,
     "yellow": 79,
-    "red-blue": 79
+    "gold-silver": 80,
+    "crystal": 80,
+    "firered-leafgreen": 79,
+    "heartgold-soulsilver": 80,
+    "x-y-coastal": 133,
+    "sun-moon": 37,
+    "sun-moon-melemele": 37,
+    "sun-moon-ulaula": 18,
+    "ultra-sun-ultra-moon": 44,
+    "ultra-sun-ultra-moon-melemele": 44,
+    "ultra-sun-ultra-moon-ulaula": 18,
+    "lets-go-pikachu-eevee": 79,
+    "scarlet-violet": 324
   },
   "type": {
     "one": "Water",

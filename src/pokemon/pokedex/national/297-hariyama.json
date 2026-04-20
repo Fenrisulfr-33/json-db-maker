@@ -12,6 +12,16 @@
     "french": "Hariyama"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 49,
+    "emerald": 49,
+    "x-y-coastal": 96,
+    "omega-ruby-alpha-sapphire": 50,
+    "sun-moon": 57,
+    "sun-moon-melemele": 57,
+    "sun-moon-poni": 16,
+    "ultra-sun-ultra-moon": 69,
+    "ultra-sun-ultra-moon-melemele": 69,
+    "ultra-sun-ultra-moon-poni": 23,
     "scarlet-violet": 117
   },
   "type": {

@@ -12,10 +12,14 @@
     "french": "Artikodin"
   },
   "pokedexNumber": {
-    "crystal": 240,
-    "gold-silver": 240,
+    "red-blue": 144,
     "yellow": 144,
-    "red-blue": 144
+    "gold-silver": 235,
+    "crystal": 235,
+    "firered-leafgreen": 144,
+    "heartgold-soulsilver": 240,
+    "x-y-coastal": 151,
+    "lets-go-pikachu-eevee": 144
   },
   "type": {
     "one": "Ice",

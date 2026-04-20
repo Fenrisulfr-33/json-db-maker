@@ -12,7 +12,12 @@
     "french": "Korillon"
   },
   "pokedexNumber": {
-    "legends-arceus": 195
+    "diamond-pearl": 82,
+    "platinum": 82,
+    "x-y-coastal": 111,
+    "omega-ruby-alpha-sapphire": 157,
+    "legends-arceus": 195,
+    "the-teal-mask": 142
   },
   "type": {
     "one": "Psychic"

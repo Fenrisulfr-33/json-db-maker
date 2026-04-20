@@ -12,10 +12,19 @@
     "french": "Oniglali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 358,
-    "legends-arceus": 206,
+    "ruby-sapphire": 172,
+    "emerald": 172,
+    "platinum": 207,
+    "omega-ruby-alpha-sapphire": 180,
+    "sun-moon": 247,
+    "sun-moon-ulaula": 119,
+    "ultra-sun-ultra-moon": 324,
+    "ultra-sun-ultra-moon-ulaula": 145,
     "sword-shield": 80,
-    "crown-tundra": 26
+    "crown-tundra": 26,
+    "legends-arceus": 206,
+    "scarlet-violet": 358,
+    "the-teal-mask": 173
   },
   "type": {
     "one": "Ice"

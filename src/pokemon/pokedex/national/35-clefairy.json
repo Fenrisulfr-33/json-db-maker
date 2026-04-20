@@ -12,13 +12,24 @@
     "french": "Mélofée"
   },
   "pokedexNumber": {
-    "legends-arceus": 200,
+    "red-blue": 35,
+    "yellow": 35,
+    "gold-silver": 41,
+    "crystal": 41,
+    "firered-leafgreen": 35,
+    "diamond-pearl": 100,
+    "platinum": 100,
+    "heartgold-soulsilver": 41,
+    "black-2-white-2": 89,
+    "sun-moon": 211,
+    "sun-moon-ulaula": 83,
+    "ultra-sun-ultra-moon": 273,
+    "ultra-sun-ultra-moon-ulaula": 94,
+    "lets-go-pikachu-eevee": 35,
     "sword-shield": 255,
     "crown-tundra": 44,
-    "crystal": 41,
-    "gold-silver": 41,
-    "yellow": 35,
-    "red-blue": 35
+    "legends-arceus": 200,
+    "the-teal-mask": 152
   },
   "type": {
     "one": "Fairy"

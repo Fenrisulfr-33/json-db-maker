@@ -12,9 +12,10 @@
     "french": "Embrochet"
   },
   "pokedexNumber": {
-    "scarlet-violet": 136,
     "sword-shield": 180,
-    "isle-of-armor": 96
+    "isle-of-armor": 96,
+    "scarlet-violet": 136,
+    "the-teal-mask": 90
   },
   "type": {
     "one": "Water"

@@ -12,9 +12,15 @@
     "french": "Vorastérie"
   },
   "pokedexNumber": {
-    "scarlet-violet": 344,
+    "sun-moon": 113,
+    "sun-moon-melemele": 113,
+    "sun-moon-akala": 45,
+    "ultra-sun-ultra-moon": 136,
+    "ultra-sun-ultra-moon-melemele": 136,
+    "ultra-sun-ultra-moon-akala": 45,
     "sword-shield": 307,
-    "isle-of-armor": 127
+    "isle-of-armor": 127,
+    "scarlet-violet": 344
   },
   "type": {
     "one": "Poison",

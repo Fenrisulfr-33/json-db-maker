@@ -11,7 +11,10 @@
     "german": "Brigaron",
     "french": "Blindépique"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 3,
+    "the-indigo-disk": 211
+  },
   "type": {
     "one": "Grass",
     "two": "Fighting"

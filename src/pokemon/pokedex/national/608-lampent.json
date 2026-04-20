@@ -12,8 +12,12 @@
     "french": "Mélancolux"
   },
   "pokedexNumber": {
+    "black-white": 114,
+    "black-2-white-2": 191,
+    "x-y-mountain": 66,
     "sword-shield": 288,
-    "crown-tundra": 49
+    "crown-tundra": 49,
+    "the-teal-mask": 147
   },
   "type": {
     "one": "Ghost",

@@ -12,12 +12,25 @@
     "french": "Alakazam"
   },
   "pokedexNumber": {
-    "legends-arceus": 60,
-    "isle-of-armor": 33,
-    "crystal": 91,
-    "gold-silver": 91,
+    "red-blue": 65,
     "yellow": 65,
-    "red-blue": 65
+    "gold-silver": 91,
+    "crystal": 91,
+    "ruby-sapphire": 41,
+    "emerald": 41,
+    "firered-leafgreen": 65,
+    "diamond-pearl": 22,
+    "platinum": 22,
+    "heartgold-soulsilver": 91,
+    "x-y-central": 104,
+    "omega-ruby-alpha-sapphire": 42,
+    "sun-moon": 44,
+    "sun-moon-melemele": 44,
+    "ultra-sun-ultra-moon": 51,
+    "ultra-sun-ultra-moon-melemele": 51,
+    "lets-go-pikachu-eevee": 65,
+    "isle-of-armor": 33,
+    "legends-arceus": 60
   },
   "type": {
     "one": "Psychic"

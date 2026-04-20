@@ -11,7 +11,11 @@
     "german": "Latias",
     "french": "Latias"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 196,
+    "emerald": 196,
+    "omega-ruby-alpha-sapphire": 205
+  },
   "type": {
     "one": "Dragon",
     "two": "Psychic"

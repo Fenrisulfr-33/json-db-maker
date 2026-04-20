@@ -12,10 +12,19 @@
     "french": "Furaiglon"
   },
   "pokedexNumber": {
-    "scarlet-violet": 365,
-    "legends-arceus": 221,
+    "black-white": 133,
+    "black-2-white-2": 109,
+    "sun-moon": 75,
+    "sun-moon-melemele": 75,
+    "sun-moon-poni": 26,
+    "ultra-sun-ultra-moon": 89,
+    "ultra-sun-ultra-moon-melemele": 89,
+    "ultra-sun-ultra-moon-poni": 35,
     "sword-shield": 281,
-    "isle-of-armor": 179
+    "isle-of-armor": 179,
+    "legends-arceus": 221,
+    "scarlet-violet": 365,
+    "the-indigo-disk": 32
   },
   "type": {
     "one": "Normal",

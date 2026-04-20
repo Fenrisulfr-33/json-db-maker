@@ -11,7 +11,13 @@
     "german": "Illumise",
     "french": "Lumivole"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 87,
+    "emerald": 87,
+    "x-y-central": 134,
+    "omega-ruby-alpha-sapphire": 90,
+    "the-teal-mask": 10
+  },
   "type": {
     "one": "Bug"
   },

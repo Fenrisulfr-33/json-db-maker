@@ -11,7 +11,11 @@
     "german": "Serpifeu",
     "french": "Vipélierre"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 1,
+    "black-2-white-2": 1,
+    "the-indigo-disk": 200
+  },
   "type": {
     "one": "Grass"
   },

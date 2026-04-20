@@ -12,11 +12,23 @@
     "french": "Stari"
   },
   "pokedexNumber": {
-    "isle-of-armor": 98,
-    "crystal": 169,
-    "gold-silver": 169,
+    "red-blue": 120,
     "yellow": 120,
-    "red-blue": 120
+    "gold-silver": 167,
+    "crystal": 167,
+    "ruby-sapphire": 143,
+    "emerald": 143,
+    "firered-leafgreen": 120,
+    "heartgold-soulsilver": 169,
+    "black-2-white-2": 238,
+    "x-y-coastal": 34,
+    "omega-ruby-alpha-sapphire": 148,
+    "sun-moon": 184,
+    "sun-moon-akala": 111,
+    "ultra-sun-ultra-moon": 223,
+    "ultra-sun-ultra-moon-akala": 124,
+    "lets-go-pikachu-eevee": 120,
+    "isle-of-armor": 98
   },
   "type": {
     "one": "Water"

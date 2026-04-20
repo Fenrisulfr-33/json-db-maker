@@ -12,9 +12,15 @@
     "french": "Natu"
   },
   "pokedexNumber": {
-    "sword-shield": 92,
-    "crystal": 161,
-    "gold-silver": 161
+    "gold-silver": 159,
+    "crystal": 159,
+    "ruby-sapphire": 162,
+    "emerald": 162,
+    "heartgold-soulsilver": 161,
+    "omega-ruby-alpha-sapphire": 169,
+    "ultra-sun-ultra-moon": 252,
+    "ultra-sun-ultra-moon-akala": 153,
+    "sword-shield": 92
   },
   "type": {
     "one": "Psychic",

@@ -12,6 +12,16 @@
     "french": "Argouste"
   },
   "pokedexNumber": {
+    "sun-moon": 14,
+    "sun-moon-melemele": 14,
+    "sun-moon-akala": 5,
+    "sun-moon-ulaula": 5,
+    "sun-moon-poni": 5,
+    "ultra-sun-ultra-moon": 14,
+    "ultra-sun-ultra-moon-melemele": 14,
+    "ultra-sun-ultra-moon-akala": 5,
+    "ultra-sun-ultra-moon-ulaula": 5,
+    "ultra-sun-ultra-moon-poni": 5,
     "scarlet-violet": 28
   },
   "type": {

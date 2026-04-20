@@ -12,11 +12,15 @@
     "french": "Nidorino"
   },
   "pokedexNumber": {
-    "crown-tundra": 69,
-    "crystal": 99,
-    "gold-silver": 99,
+    "red-blue": 33,
     "yellow": 33,
-    "red-blue": 33
+    "gold-silver": 99,
+    "crystal": 99,
+    "firered-leafgreen": 33,
+    "heartgold-soulsilver": 99,
+    "x-y-coastal": 108,
+    "lets-go-pikachu-eevee": 33,
+    "crown-tundra": 69
   },
   "type": {
     "one": "Poison"

@@ -11,7 +11,10 @@
     "german": "Katagami",
     "french": "Katagami"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 298,
+    "ultra-sun-ultra-moon": 398
+  },
   "type": {
     "one": "Grass",
     "two": "Steel"

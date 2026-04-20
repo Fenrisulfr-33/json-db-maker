@@ -12,8 +12,10 @@
     "french": "Germignon"
   },
   "pokedexNumber": {
+    "gold-silver": 1,
     "crystal": 1,
-    "gold-silver": 1
+    "heartgold-soulsilver": 1,
+    "the-indigo-disk": 173
   },
   "type": {
     "one": "Grass"

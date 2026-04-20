@@ -12,10 +12,14 @@
     "french": "Gallame"
   },
   "pokedexNumber": {
-    "scarlet-violet": 65,
-    "legends-arceus": 104,
+    "platinum": 160,
+    "x-y-central": 67,
+    "omega-ruby-alpha-sapphire": 32,
     "sword-shield": 123,
-    "isle-of-armor": 37
+    "isle-of-armor": 37,
+    "legends-arceus": 104,
+    "scarlet-violet": 65,
+    "the-teal-mask": 60
   },
   "type": {
     "one": "Psychic",

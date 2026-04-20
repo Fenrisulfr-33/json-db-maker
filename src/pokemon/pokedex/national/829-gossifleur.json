@@ -79,5 +79,9 @@
         "desc": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 126,
+    "crown-tundra": 166
   }
 }

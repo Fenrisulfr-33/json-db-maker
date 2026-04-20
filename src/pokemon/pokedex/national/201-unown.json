@@ -12,9 +12,12 @@
     "french": "Zarbi"
   },
   "pokedexNumber": {
-    "legends-arceus": 142,
+    "gold-silver": 61,
     "crystal": 61,
-    "gold-silver": 61
+    "diamond-pearl": 114,
+    "platinum": 114,
+    "heartgold-soulsilver": 61,
+    "legends-arceus": 142
   },
   "type": {
     "one": "Psychic"

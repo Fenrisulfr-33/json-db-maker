@@ -12,10 +12,22 @@
     "french": "Rapasdepic"
   },
   "pokedexNumber": {
-    "crystal": 14,
-    "gold-silver": 14,
+    "red-blue": 22,
     "yellow": 22,
-    "red-blue": 22
+    "gold-silver": 14,
+    "crystal": 14,
+    "firered-leafgreen": 22,
+    "heartgold-soulsilver": 14,
+    "x-y-mountain": 110,
+    "sun-moon": 74,
+    "sun-moon-melemele": 74,
+    "sun-moon-ulaula": 41,
+    "sun-moon-poni": 25,
+    "ultra-sun-ultra-moon": 88,
+    "ultra-sun-ultra-moon-melemele": 88,
+    "ultra-sun-ultra-moon-ulaula": 41,
+    "ultra-sun-ultra-moon-poni": 34,
+    "lets-go-pikachu-eevee": 22
   },
   "type": {
     "one": "Normal",

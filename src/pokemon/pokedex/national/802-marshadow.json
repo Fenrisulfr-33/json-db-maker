@@ -11,7 +11,10 @@
     "german": "Marshadow",
     "french": "Marshadow"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 302,
+    "ultra-sun-ultra-moon": 402
+  },
   "type": {
     "one": "Fighting",
     "two": "Ghost"

@@ -11,7 +11,11 @@
     "german": "Rayquaza",
     "french": "Rayquaza"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 200,
+    "emerald": 200,
+    "omega-ruby-alpha-sapphire": 209
+  },
   "type": {
     "one": "Dragon",
     "two": "Flying"

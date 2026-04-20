@@ -12,12 +12,17 @@
     "french": "Persian"
   },
   "pokedexNumber": {
-    "scarlet-violet": 142,
-    "sword-shield": 184,
-    "crystal": 139,
-    "gold-silver": 139,
+    "red-blue": 53,
     "yellow": 53,
-    "red-blue": 53
+    "gold-silver": 137,
+    "crystal": 137,
+    "firered-leafgreen": 53,
+    "heartgold-soulsilver": 139,
+    "sun-moon-ulaula": 24,
+    "ultra-sun-ultra-moon-melemele": 53,
+    "lets-go-pikachu-eevee": 53,
+    "sword-shield": 184,
+    "scarlet-violet": 142
   },
   "type": {
     "one": "Normal"

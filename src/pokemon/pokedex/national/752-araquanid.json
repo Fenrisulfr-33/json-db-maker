@@ -12,8 +12,15 @@
     "french": "Tarenbulle"
   },
   "pokedexNumber": {
+    "sun-moon": 142,
+    "sun-moon-akala": 69,
+    "sun-moon-ulaula": 63,
+    "ultra-sun-ultra-moon": 175,
+    "ultra-sun-ultra-moon-akala": 76,
+    "ultra-sun-ultra-moon-ulaula": 69,
     "sword-shield": 215,
-    "crown-tundra": 92
+    "crown-tundra": 92,
+    "the-indigo-disk": 91
   },
   "type": {
     "one": "Water",

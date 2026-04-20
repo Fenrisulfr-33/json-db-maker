@@ -70,5 +70,8 @@
         "desc": "It was given the name Miraidon by the professor who discovered it. Its ecology and other details are unknown."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 400
   }
 }

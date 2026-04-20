@@ -11,7 +11,12 @@
     "german": "Hydropi",
     "french": "Gobou"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 7,
+    "emerald": 7,
+    "omega-ruby-alpha-sapphire": 7,
+    "the-indigo-disk": 188
+  },
   "type": {
     "one": "Water"
   },

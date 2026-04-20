@@ -12,8 +12,14 @@
     "french": "Laporeille"
   },
   "pokedexNumber": {
-    "legends-arceus": 64,
-    "isle-of-armor": 4
+    "diamond-pearl": 67,
+    "platinum": 67,
+    "black-2-white-2": 80,
+    "ultra-sun-ultra-moon": 24,
+    "ultra-sun-ultra-moon-melemele": 24,
+    "ultra-sun-ultra-moon-poni": 8,
+    "isle-of-armor": 4,
+    "legends-arceus": 64
   },
   "type": {
     "one": "Normal"

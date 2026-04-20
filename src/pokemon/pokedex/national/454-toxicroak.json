@@ -12,10 +12,14 @@
     "french": "Coatox"
   },
   "pokedexNumber": {
-    "scarlet-violet": 176,
-    "legends-arceus": 100,
+    "diamond-pearl": 130,
+    "platinum": 130,
+    "black-2-white-2": 291,
+    "x-y-central": 126,
     "sword-shield": 223,
-    "isle-of-armor": 83
+    "isle-of-armor": 83,
+    "legends-arceus": 100,
+    "scarlet-violet": 176
   },
   "type": {
     "one": "Poison",

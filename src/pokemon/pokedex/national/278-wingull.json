@@ -12,9 +12,26 @@
     "french": "Goélise"
   },
   "pokedexNumber": {
-    "scarlet-violet": 132,
+    "ruby-sapphire": 27,
+    "emerald": 27,
+    "diamond-pearl": 119,
+    "platinum": 119,
+    "black-2-white-2": 212,
+    "x-y-coastal": 17,
+    "omega-ruby-alpha-sapphire": 27,
+    "sun-moon": 40,
+    "sun-moon-melemele": 40,
+    "sun-moon-akala": 19,
+    "sun-moon-ulaula": 21,
+    "sun-moon-poni": 11,
+    "ultra-sun-ultra-moon": 47,
+    "ultra-sun-ultra-moon-melemele": 47,
+    "ultra-sun-ultra-moon-akala": 19,
+    "ultra-sun-ultra-moon-ulaula": 21,
+    "ultra-sun-ultra-moon-poni": 18,
     "sword-shield": 62,
-    "isle-of-armor": 48
+    "isle-of-armor": 48,
+    "scarlet-violet": 132
   },
   "type": {
     "one": "Water",

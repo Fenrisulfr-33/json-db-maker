@@ -12,10 +12,13 @@
     "french": "Bouldeneu"
   },
   "pokedexNumber": {
-    "legends-arceus": 96,
-    "isle-of-armor": 81,
+    "gold-silver": 183,
     "crystal": 183,
-    "gold-silver": 183
+    "platinum": 182,
+    "heartgold-soulsilver": 183,
+    "black-2-white-2": 218,
+    "isle-of-armor": 81,
+    "legends-arceus": 96
   },
   "type": {
     "one": "Grass"

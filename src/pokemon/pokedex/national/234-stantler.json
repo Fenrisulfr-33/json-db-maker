@@ -12,10 +12,12 @@
     "french": "Cerfrousse"
   },
   "pokedexNumber": {
-    "scarlet-violet": 204,
+    "gold-silver": 129,
+    "crystal": 129,
+    "heartgold-soulsilver": 131,
     "legends-arceus": 49,
-    "crystal": 131,
-    "gold-silver": 131
+    "scarlet-violet": 204,
+    "the-teal-mask": 53
   },
   "type": {
     "one": "Normal"

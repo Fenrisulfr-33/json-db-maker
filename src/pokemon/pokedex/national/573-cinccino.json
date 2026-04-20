@@ -12,7 +12,12 @@
     "french": "Pashmilla"
   },
   "pokedexNumber": {
-    "sword-shield": 51
+    "black-white": 79,
+    "black-2-white-2": 108,
+    "ultra-sun-ultra-moon": 267,
+    "ultra-sun-ultra-moon-ulaula": 88,
+    "sword-shield": 51,
+    "the-indigo-disk": 112
   },
   "type": {
     "one": "Normal"

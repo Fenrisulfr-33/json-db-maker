@@ -11,7 +11,10 @@
     "german": "Voltriant",
     "french": "Câblifère"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 296,
+    "ultra-sun-ultra-moon": 396
+  },
   "type": {
     "one": "Electric"
   },

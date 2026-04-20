@@ -12,8 +12,12 @@
     "french": "Tranchodon"
   },
   "pokedexNumber": {
+    "black-white": 118,
+    "black-2-white-2": 185,
+    "x-y-central": 150,
+    "sword-shield": 326,
     "scarlet-violet": 157,
-    "sword-shield": 326
+    "the-indigo-disk": 142
   },
   "type": {
     "one": "Dragon"

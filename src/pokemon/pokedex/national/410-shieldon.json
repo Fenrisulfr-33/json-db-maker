@@ -12,7 +12,14 @@
     "french": "Dinoclier"
   },
   "pokedexNumber": {
-    "legends-arceus": 210
+    "diamond-pearl": 38,
+    "platinum": 38,
+    "sun-moon": 190,
+    "sun-moon-akala": 117,
+    "ultra-sun-ultra-moon": 237,
+    "ultra-sun-ultra-moon-akala": 138,
+    "legends-arceus": 210,
+    "the-indigo-disk": 109
   },
   "type": {
     "one": "Rock",

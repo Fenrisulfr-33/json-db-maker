@@ -12,10 +12,14 @@
     "french": "Coconfort"
   },
   "pokedexNumber": {
-    "crystal": 28,
-    "gold-silver": 28,
+    "red-blue": 14,
     "yellow": 14,
-    "red-blue": 14
+    "gold-silver": 28,
+    "crystal": 28,
+    "firered-leafgreen": 14,
+    "heartgold-soulsilver": 28,
+    "x-y-central": 27,
+    "lets-go-pikachu-eevee": 14
   },
   "type": {
     "one": "Bug",

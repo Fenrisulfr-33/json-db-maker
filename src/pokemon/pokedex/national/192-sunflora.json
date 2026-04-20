@@ -12,9 +12,11 @@
     "french": "Héliatronc"
   },
   "pokedexNumber": {
-    "scarlet-violet": 32,
-    "crystal": 104,
-    "gold-silver": 104
+    "gold-silver": 103,
+    "crystal": 103,
+    "heartgold-soulsilver": 104,
+    "black-2-white-2": 21,
+    "scarlet-violet": 32
   },
   "type": {
     "one": "Grass"

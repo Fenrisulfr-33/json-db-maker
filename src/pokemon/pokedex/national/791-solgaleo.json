@@ -11,7 +11,10 @@
     "german": "Solgaleo",
     "french": "Solgaleo"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 291,
+    "ultra-sun-ultra-moon": 389
+  },
   "type": {
     "one": "Psychic",
     "two": "Steel"

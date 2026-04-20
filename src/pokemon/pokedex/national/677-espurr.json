@@ -12,7 +12,9 @@
     "french": "Psystigri"
   },
   "pokedexNumber": {
-    "sword-shield": 208
+    "x-y-central": 114,
+    "sword-shield": 208,
+    "the-indigo-disk": 104
   },
   "type": {
     "one": "Psychic"

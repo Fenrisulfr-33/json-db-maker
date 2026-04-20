@@ -12,8 +12,12 @@
     "french": "Étourvol"
   },
   "pokedexNumber": {
+    "diamond-pearl": 11,
+    "platinum": 11,
+    "x-y-coastal": 100,
+    "legends-arceus": 13,
     "scarlet-violet": 98,
-    "legends-arceus": 13
+    "the-teal-mask": 29
   },
   "type": {
     "one": "Normal",

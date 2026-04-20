@@ -10,10 +10,10 @@ const DEX_CONFIG = [
   { file: '06-platinum', games: ['platinum'] },
   { file: '07-heartgold-soulsilver', games: ['heartgold-soulsilver'] },
   { file: '08-black-white', games: ['black-white'] },
-  { file: '09-black-2-white-2', games: ['black-2-white-2'] },
-  { file: '10-x-y-central', games: ['x-y-central'] },  
-  { file: '11-x-y-coastal', games: ['x-y-coastal'] },
-  { file: '12-x-y-mountain', games: ['x-y-mountain'] },
+  { file: '09-black2-white2', games: ['black-2-white-2'] },
+  { file: '10-xy-central', games: ['x-y-central'] },  
+  { file: '11-xy-coastal', games: ['x-y-coastal'] },
+  { file: '12-xy-mountain', games: ['x-y-mountain'] },
   { file: '13-omega-ruby-alpha-sapphire', games: ['omega-ruby-alpha-sapphire'] },
   { file: '14-sun-moon-alola', games: ['sun-moon'] },
   { file: '15-sun-moon-melemele', games: ['sun-moon-melemele'] },
@@ -25,15 +25,27 @@ const DEX_CONFIG = [
   { file: '21-ultra-sun-ultra-moon-akala', games: ['ultra-sun-ultra-moon-akala'] },
   { file: '22-ultra-sun-ultra-moon-ulaula', games: ['ultra-sun-ultra-moon-ulaula'] },
   { file: '23-ultra-sun-ultra-moon-poni', games: ['ultra-sun-ultra-moon-poni'] },
-  { file: '24-lets-go-pikachu-eevee', games: ['lets-go-pikachu-eevee'] },
+  { file: '24-lets-go-pikachu-lets-go-eevee', games: ['lets-go-pikachu-eevee'] },
   { file: '25-sword-shield', games: ['sword-shield'] },
   { file: '26-isle-of-armor', games: ['isle-of-armor'] },
   { file: '27-crown-tundra', games: ['crown-tundra'] },
   { file: '28-legends-arceus', games: ['legends-arceus'] },
   { file: '29-scarlet-violet', games: ['scarlet-violet'] },
-  { file: '30-the-teal-mask', games: ['the-teal-mask'] },
-  { file: '31-the-indigo-disk', games: ['the-indigo-disk'] },
+  { file: '30-teal-mask', games: ['the-teal-mask'] },
+  { file: '31-indigo-disk', games: ['the-indigo-disk'] },
 ];
+
+function assignPokemonPokedexNumbers(pokemon) {
+  const existingNumbers = pokemon.pokedexNumbers || {};
+  const newNumbers = createPokedexNumberMap(pokemon, existingNumbers);
+
+  delete pokemon.pokedexNumbers
+  
+  return {
+    ...pokemon,
+    pokedexNumber: newNumbers
+  }
+}
 
 // Load and structure all pokedexes once
 const pokedexesByGame = DEX_CONFIG.flatMap(({ file, games }) => {
@@ -41,23 +53,25 @@ const pokedexesByGame = DEX_CONFIG.flatMap(({ file, games }) => {
   return games.map(game => ({ game, dex }));
 });
 
-function assignPokemonPokedexNumbers(pokemon) {
-  return {
-    ...pokemon,
-    pokedexNumbers: createPokedexNumberMap(pokemon)
-  }
-}
-
 function findPokemonInDex(pokemon, dex) {
   return dex.find(p => p.pokemonId === pokemon._id);
 }
 
-function createPokedexNumberMap(pokemon) {
-  const result = {};
+function createPokedexNumberMap(pokemon, existingNumbers = {}) {
+  const result = { ...existingNumbers };
+  
   for (const { game, dex } of pokedexesByGame) {
-    const entry = findPokemonInDex(pokemon, dex);
-    if (entry) {
-      result[game] = entry.dexNo;
+    // Only add if this game doesn't already have a pokedex number
+    if (!result[game]) {
+      const entry = findPokemonInDex(pokemon, dex);
+      if (entry) {
+          result[game] = entry.dexNo;
+      }
+    } else {
+      const entry = findPokemonInDex(pokemon, dex);
+      if (entry && result[game] !== entry.dexNo) {
+        result[game] = entry.dexNo;
+      }
     }
   }
   return result;

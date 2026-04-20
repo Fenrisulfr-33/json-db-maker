@@ -12,10 +12,14 @@
     "french": "Rattata"
   },
   "pokedexNumber": {
-    "crystal": 17,
-    "gold-silver": 17,
+    "red-blue": 19,
     "yellow": 19,
-    "red-blue": 19
+    "gold-silver": 17,
+    "crystal": 17,
+    "firered-leafgreen": 19,
+    "heartgold-soulsilver": 17,
+    "black-2-white-2": 59,
+    "lets-go-pikachu-eevee": 19
   },
   "type": {
     "one": "Normal"

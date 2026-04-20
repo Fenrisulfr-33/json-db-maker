@@ -11,7 +11,11 @@
     "german": "Jirachi",
     "french": "Jirachi"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 201,
+    "emerald": 201,
+    "omega-ruby-alpha-sapphire": 210
+  },
   "type": {
     "one": "Steel",
     "two": "Psychic"

@@ -60,5 +60,8 @@
         "desc": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 376
   }
 }

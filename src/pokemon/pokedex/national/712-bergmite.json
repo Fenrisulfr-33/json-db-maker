@@ -12,10 +12,11 @@
     "french": "Grelaçon"
   },
   "pokedexNumber": {
-    "scarlet-violet": 363,
-    "legends-arceus": 215,
+    "x-y-mountain": 79,
     "sword-shield": 358,
-    "crown-tundra": 142
+    "crown-tundra": 142,
+    "legends-arceus": 215,
+    "scarlet-violet": 363
   },
   "type": {
     "one": "Ice"

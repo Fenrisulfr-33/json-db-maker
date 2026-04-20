@@ -12,9 +12,15 @@
     "french": "Capumain"
   },
   "pokedexNumber": {
+    "gold-silver": 122,
+    "crystal": 122,
+    "diamond-pearl": 63,
+    "platinum": 63,
+    "heartgold-soulsilver": 123,
+    "ultra-sun-ultra-moon": 368,
+    "ultra-sun-ultra-moon-poni": 115,
     "legends-arceus": 78,
-    "crystal": 123,
-    "gold-silver": 123
+    "the-teal-mask": 47
   },
   "type": {
     "one": "Normal"

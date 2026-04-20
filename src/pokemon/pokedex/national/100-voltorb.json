@@ -12,12 +12,19 @@
     "french": "Voltorbe"
   },
   "pokedexNumber": {
-    "scarlet-violet": 207,
-    "legends-arceus": 192,
-    "crystal": 121,
-    "gold-silver": 121,
+    "red-blue": 100,
     "yellow": 100,
-    "red-blue": 100
+    "gold-silver": 120,
+    "crystal": 120,
+    "ruby-sapphire": 84,
+    "emerald": 84,
+    "firered-leafgreen": 100,
+    "heartgold-soulsilver": 121,
+    "x-y-mountain": 72,
+    "omega-ruby-alpha-sapphire": 87,
+    "lets-go-pikachu-eevee": 100,
+    "legends-arceus": 192,
+    "scarlet-violet": 207
   },
   "type": {
     "one": "Electric"

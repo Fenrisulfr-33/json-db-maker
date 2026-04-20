@@ -12,6 +12,11 @@
     "french": "Pandespiègle"
   },
   "pokedexNumber": {
+    "x-y-central": 91,
+    "sun-moon": 220,
+    "sun-moon-ulaula": 92,
+    "ultra-sun-ultra-moon": 284,
+    "ultra-sun-ultra-moon-ulaula": 105,
     "sword-shield": 111
   },
   "type": {

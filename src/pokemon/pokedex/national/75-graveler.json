@@ -12,11 +12,26 @@
     "french": "Gravalanch"
   },
   "pokedexNumber": {
-    "legends-arceus": 47,
-    "crystal": 35,
-    "gold-silver": 35,
+    "red-blue": 75,
     "yellow": 75,
-    "red-blue": 75
+    "gold-silver": 35,
+    "crystal": 35,
+    "ruby-sapphire": 58,
+    "emerald": 58,
+    "firered-leafgreen": 75,
+    "diamond-pearl": 32,
+    "platinum": 32,
+    "heartgold-soulsilver": 35,
+    "x-y-mountain": 10,
+    "omega-ruby-alpha-sapphire": 59,
+    "sun-moon": 230,
+    "sun-moon-ulaula": 102,
+    "ultra-sun-ultra-moon": 299,
+    "ultra-sun-ultra-moon-ulaula": 120,
+    "lets-go-pikachu-eevee": 75,
+    "legends-arceus": 47,
+    "the-teal-mask": 81,
+    "the-indigo-disk": 97
   },
   "type": {
     "one": "Rock",

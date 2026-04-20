@@ -12,10 +12,15 @@
     "french": "Maraiste"
   },
   "pokedexNumber": {
+    "gold-silver": 57,
+    "crystal": 57,
+    "diamond-pearl": 118,
+    "platinum": 118,
+    "heartgold-soulsilver": 57,
+    "x-y-mountain": 18,
     "sword-shield": 101,
     "isle-of-armor": 59,
-    "crystal": 57,
-    "gold-silver": 57
+    "the-teal-mask": 6
   },
   "type": {
     "one": "Water",

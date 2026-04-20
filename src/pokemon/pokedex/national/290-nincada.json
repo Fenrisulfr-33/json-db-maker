@@ -12,6 +12,10 @@
     "french": "Ningale"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 42,
+    "emerald": 42,
+    "x-y-central": 111,
+    "omega-ruby-alpha-sapphire": 43,
     "sword-shield": 104
   },
   "type": {

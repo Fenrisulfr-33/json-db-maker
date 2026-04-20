@@ -12,10 +12,15 @@
     "french": "Empiflor"
   },
   "pokedexNumber": {
-    "crystal": 66,
-    "gold-silver": 66,
+    "red-blue": 71,
     "yellow": 71,
-    "red-blue": 71
+    "gold-silver": 66,
+    "crystal": 66,
+    "firered-leafgreen": 71,
+    "heartgold-soulsilver": 66,
+    "x-y-mountain": 28,
+    "lets-go-pikachu-eevee": 71,
+    "the-teal-mask": 25
   },
   "type": {
     "one": "Grass",

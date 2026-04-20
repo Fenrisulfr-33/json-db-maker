@@ -12,9 +12,9 @@
     "french": "Monthracite"
   },
   "pokedexNumber": {
-    "scarlet-violet": 93,
     "sword-shield": 163,
-    "crown-tundra": 178
+    "crown-tundra": 178,
+    "scarlet-violet": 93
   },
   "type": {
     "one": "Rock",

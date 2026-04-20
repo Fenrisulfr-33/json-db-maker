@@ -12,10 +12,10 @@
     "french": "Wattapik"
   },
   "pokedexNumber": {
-    "scarlet-violet": 321,
     "sword-shield": 353,
     "isle-of-armor": 126,
-    "crown-tundra": 158
+    "crown-tundra": 158,
+    "scarlet-violet": 321
   },
   "type": {
     "one": "Electric"

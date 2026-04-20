@@ -12,10 +12,17 @@
     "french": "Phyllali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 185,
-    "legends-arceus": 31,
+    "platinum": 169,
+    "black-2-white-2": 97,
+    "x-y-coastal": 83,
+    "sun-moon": 129,
+    "sun-moon-akala": 56,
+    "ultra-sun-ultra-moon": 159,
+    "ultra-sun-ultra-moon-akala": 60,
     "sword-shield": 202,
-    "crown-tundra": 81
+    "crown-tundra": 81,
+    "legends-arceus": 31,
+    "scarlet-violet": 185
   },
   "type": {
     "one": "Grass"

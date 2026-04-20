@@ -12,14 +12,24 @@
     "french": "Pyroli"
   },
   "pokedexNumber": {
-    "scarlet-violet": 182,
-    "legends-arceus": 28,
+    "red-blue": 136,
+    "yellow": 136,
+    "gold-silver": 183,
+    "crystal": 183,
+    "firered-leafgreen": 136,
+    "platinum": 166,
+    "heartgold-soulsilver": 187,
+    "black-2-white-2": 94,
+    "x-y-coastal": 80,
+    "sun-moon": 126,
+    "sun-moon-akala": 53,
+    "ultra-sun-ultra-moon": 156,
+    "ultra-sun-ultra-moon-akala": 57,
+    "lets-go-pikachu-eevee": 136,
     "sword-shield": 199,
     "crown-tundra": 77,
-    "crystal": 187,
-    "gold-silver": 187,
-    "yellow": 136,
-    "red-blue": 136
+    "legends-arceus": 28,
+    "scarlet-violet": 182
   },
   "type": {
     "one": "Fire"

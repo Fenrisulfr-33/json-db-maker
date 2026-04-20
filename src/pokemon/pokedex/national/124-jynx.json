@@ -12,11 +12,17 @@
     "french": "Lippoutou"
   },
   "pokedexNumber": {
-    "crown-tundra": 14,
-    "crystal": 155,
-    "gold-silver": 155,
+    "red-blue": 124,
     "yellow": 124,
-    "red-blue": 124
+    "gold-silver": 153,
+    "crystal": 153,
+    "firered-leafgreen": 124,
+    "heartgold-soulsilver": 155,
+    "x-y-mountain": 84,
+    "ultra-sun-ultra-moon": 110,
+    "ultra-sun-ultra-moon-melemele": 110,
+    "lets-go-pikachu-eevee": 124,
+    "crown-tundra": 14
   },
   "type": {
     "one": "Ice",

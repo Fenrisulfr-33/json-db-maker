@@ -4,7 +4,9 @@
   "name": {
     "english": "Walking Wake"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "the-indigo-disk": 241
+  },
   "type": {
     "one": "Water",
     "two": "Dragon"

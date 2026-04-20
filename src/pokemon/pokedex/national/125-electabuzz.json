@@ -12,12 +12,22 @@
     "french": "Élektek"
   },
   "pokedexNumber": {
-    "legends-arceus": 183,
-    "crown-tundra": 16,
-    "crystal": 157,
-    "gold-silver": 157,
+    "red-blue": 125,
     "yellow": 125,
-    "red-blue": 125
+    "gold-silver": 155,
+    "crystal": 155,
+    "firered-leafgreen": 125,
+    "platinum": 198,
+    "heartgold-soulsilver": 157,
+    "black-2-white-2": 57,
+    "sun-moon": 227,
+    "sun-moon-ulaula": 99,
+    "ultra-sun-ultra-moon": 296,
+    "ultra-sun-ultra-moon-ulaula": 117,
+    "lets-go-pikachu-eevee": 125,
+    "crown-tundra": 16,
+    "legends-arceus": 183,
+    "the-indigo-disk": 11
   },
   "type": {
     "one": "Electric"

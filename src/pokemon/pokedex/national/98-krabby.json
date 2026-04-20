@@ -12,12 +12,15 @@
     "french": "Krabby"
   },
   "pokedexNumber": {
-    "sword-shield": 98,
-    "isle-of-armor": 38,
-    "crystal": 166,
-    "gold-silver": 166,
+    "red-blue": 98,
     "yellow": 98,
-    "red-blue": 98
+    "gold-silver": 164,
+    "crystal": 164,
+    "firered-leafgreen": 98,
+    "heartgold-soulsilver": 166,
+    "lets-go-pikachu-eevee": 98,
+    "sword-shield": 98,
+    "isle-of-armor": 38
   },
   "type": {
     "one": "Water"

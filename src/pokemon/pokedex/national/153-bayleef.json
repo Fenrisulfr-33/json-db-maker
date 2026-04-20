@@ -12,8 +12,10 @@
     "french": "Macronium"
   },
   "pokedexNumber": {
+    "gold-silver": 2,
     "crystal": 2,
-    "gold-silver": 2
+    "heartgold-soulsilver": 2,
+    "the-indigo-disk": 174
   },
   "type": {
     "one": "Grass"

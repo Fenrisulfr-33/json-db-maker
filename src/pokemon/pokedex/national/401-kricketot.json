@@ -12,8 +12,11 @@
     "french": "Crikzik"
   },
   "pokedexNumber": {
+    "diamond-pearl": 15,
+    "platinum": 15,
+    "legends-arceus": 39,
     "scarlet-violet": 33,
-    "legends-arceus": 39
+    "the-teal-mask": 61
   },
   "type": {
     "one": "Bug"

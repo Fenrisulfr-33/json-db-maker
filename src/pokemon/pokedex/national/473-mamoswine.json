@@ -12,11 +12,16 @@
     "french": "Mammochon"
   },
   "pokedexNumber": {
-    "legends-arceus": 214,
+    "gold-silver": 197,
+    "crystal": 197,
+    "platinum": 205,
+    "heartgold-soulsilver": 197,
+    "black-2-white-2": 260,
+    "x-y-mountain": 78,
     "sword-shield": 77,
     "crown-tundra": 9,
-    "crystal": 197,
-    "gold-silver": 197
+    "legends-arceus": 214,
+    "the-teal-mask": 52
   },
   "type": {
     "one": "Ice",

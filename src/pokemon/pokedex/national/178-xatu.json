@@ -12,9 +12,15 @@
     "french": "Xatu"
   },
   "pokedexNumber": {
-    "sword-shield": 93,
-    "crystal": 162,
-    "gold-silver": 162
+    "gold-silver": 160,
+    "crystal": 160,
+    "ruby-sapphire": 163,
+    "emerald": 163,
+    "heartgold-soulsilver": 162,
+    "omega-ruby-alpha-sapphire": 170,
+    "ultra-sun-ultra-moon": 253,
+    "ultra-sun-ultra-moon-akala": 154,
+    "sword-shield": 93
   },
   "type": {
     "one": "Psychic",

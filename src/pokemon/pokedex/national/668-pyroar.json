@@ -12,7 +12,11 @@
     "french": "Némélios"
   },
   "pokedexNumber": {
-    "scarlet-violet": 225
+    "x-y-central": 58,
+    "ultra-sun-ultra-moon": 371,
+    "ultra-sun-ultra-moon-poni": 118,
+    "scarlet-violet": 225,
+    "the-indigo-disk": 37
   },
   "type": {
     "one": "Fire",

@@ -12,11 +12,26 @@
     "french": "Barloche"
   },
   "pokedexNumber": {
-    "scarlet-violet": 168,
-    "legends-arceus": 97,
+    "ruby-sapphire": 127,
+    "emerald": 127,
+    "diamond-pearl": 80,
+    "platinum": 80,
+    "x-y-mountain": 40,
+    "omega-ruby-alpha-sapphire": 132,
+    "sun-moon": 93,
+    "sun-moon-melemele": 93,
+    "sun-moon-akala": 36,
+    "sun-moon-poni": 43,
+    "ultra-sun-ultra-moon": 113,
+    "ultra-sun-ultra-moon-melemele": 113,
+    "ultra-sun-ultra-moon-akala": 36,
+    "ultra-sun-ultra-moon-poni": 55,
     "sword-shield": 228,
     "isle-of-armor": 137,
-    "crown-tundra": 60
+    "crown-tundra": 60,
+    "legends-arceus": 97,
+    "scarlet-violet": 168,
+    "the-teal-mask": 162
   },
   "type": {
     "one": "Water",

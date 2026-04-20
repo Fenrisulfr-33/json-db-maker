@@ -12,9 +12,14 @@
     "french": "Yanmega"
   },
   "pokedexNumber": {
-    "legends-arceus": 106,
+    "gold-silver": 102,
     "crystal": 102,
-    "gold-silver": 102
+    "platinum": 184,
+    "heartgold-soulsilver": 102,
+    "black-2-white-2": 287,
+    "x-y-coastal": 88,
+    "legends-arceus": 106,
+    "the-teal-mask": 4
   },
   "type": {
     "one": "Bug",

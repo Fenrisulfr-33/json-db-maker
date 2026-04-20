@@ -12,9 +12,20 @@
     "french": "Corayon"
   },
   "pokedexNumber": {
-    "sword-shield": 236,
-    "crystal": 173,
-    "gold-silver": 173
+    "gold-silver": 172,
+    "crystal": 172,
+    "ruby-sapphire": 180,
+    "emerald": 180,
+    "heartgold-soulsilver": 173,
+    "black-2-white-2": 237,
+    "x-y-coastal": 146,
+    "omega-ruby-alpha-sapphire": 189,
+    "sun-moon": 112,
+    "sun-moon-melemele": 112,
+    "sun-moon-akala": 44,
+    "ultra-sun-ultra-moon": 135,
+    "ultra-sun-ultra-moon-melemele": 135,
+    "ultra-sun-ultra-moon-akala": 44
   },
   "type": {
     "one": "Water",

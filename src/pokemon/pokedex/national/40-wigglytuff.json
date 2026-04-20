@@ -12,12 +12,24 @@
     "french": "Grodoudou"
   },
   "pokedexNumber": {
-    "scarlet-violet": 61,
-    "isle-of-armor": 13,
-    "crystal": 45,
-    "gold-silver": 45,
+    "red-blue": 40,
     "yellow": 40,
-    "red-blue": 40
+    "gold-silver": 45,
+    "crystal": 45,
+    "ruby-sapphire": 139,
+    "emerald": 139,
+    "firered-leafgreen": 40,
+    "heartgold-soulsilver": 45,
+    "black-2-white-2": 283,
+    "x-y-mountain": 121,
+    "omega-ruby-alpha-sapphire": 144,
+    "sun-moon": 136,
+    "sun-moon-akala": 63,
+    "ultra-sun-ultra-moon": 169,
+    "ultra-sun-ultra-moon-akala": 70,
+    "lets-go-pikachu-eevee": 40,
+    "isle-of-armor": 13,
+    "scarlet-violet": 61
   },
   "type": {
     "one": "Normal",

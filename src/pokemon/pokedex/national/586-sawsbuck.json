@@ -12,7 +12,10 @@
     "french": "Haydaim"
   },
   "pokedexNumber": {
-    "scarlet-violet": 191
+    "black-white": 92,
+    "black-2-white-2": 160,
+    "scarlet-violet": 191,
+    "the-indigo-disk": 39
   },
   "type": {
     "one": "Normal",

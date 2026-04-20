@@ -12,10 +12,14 @@
     "french": "Archéodong"
   },
   "pokedexNumber": {
-    "scarlet-violet": 154,
-    "legends-arceus": 181,
+    "diamond-pearl": 89,
+    "platinum": 89,
+    "black-2-white-2": 251,
     "sword-shield": 119,
-    "crown-tundra": 88
+    "crown-tundra": 88,
+    "legends-arceus": 181,
+    "scarlet-violet": 154,
+    "the-teal-mask": 155
   },
   "type": {
     "one": "Steel",

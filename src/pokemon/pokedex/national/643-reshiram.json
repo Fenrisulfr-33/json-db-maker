@@ -11,7 +11,10 @@
     "german": "Reshiram",
     "french": "Reshiram"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 149,
+    "black-2-white-2": 295
+  },
   "type": {
     "one": "Dragon",
     "two": "Fire"

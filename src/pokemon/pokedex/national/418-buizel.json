@@ -12,8 +12,12 @@
     "french": "Mustébouée"
   },
   "pokedexNumber": {
-    "scarlet-violet": 51,
-    "legends-arceus": 41
+    "diamond-pearl": 56,
+    "platinum": 56,
+    "black-2-white-2": 149,
+    "x-y-mountain": 58,
+    "legends-arceus": 41,
+    "scarlet-violet": 51
   },
   "type": {
     "one": "Water"

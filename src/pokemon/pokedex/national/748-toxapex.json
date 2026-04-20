@@ -12,9 +12,15 @@
     "french": "Prédastérie"
   },
   "pokedexNumber": {
-    "scarlet-violet": 345,
+    "sun-moon": 114,
+    "sun-moon-melemele": 114,
+    "sun-moon-akala": 46,
+    "ultra-sun-ultra-moon": 137,
+    "ultra-sun-ultra-moon-melemele": 137,
+    "ultra-sun-ultra-moon-akala": 46,
     "sword-shield": 308,
-    "isle-of-armor": 128
+    "isle-of-armor": 128,
+    "scarlet-violet": 345
   },
   "type": {
     "one": "Poison",

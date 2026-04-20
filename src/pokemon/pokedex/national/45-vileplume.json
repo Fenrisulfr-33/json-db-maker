@@ -12,11 +12,19 @@
     "french": "Rafflesia"
   },
   "pokedexNumber": {
-    "sword-shield": 57,
-    "crystal": 85,
-    "gold-silver": 85,
+    "red-blue": 45,
     "yellow": 45,
-    "red-blue": 45
+    "gold-silver": 85,
+    "crystal": 85,
+    "ruby-sapphire": 90,
+    "emerald": 90,
+    "firered-leafgreen": 45,
+    "heartgold-soulsilver": 85,
+    "x-y-central": 107,
+    "omega-ruby-alpha-sapphire": 93,
+    "lets-go-pikachu-eevee": 45,
+    "sword-shield": 57,
+    "the-indigo-disk": 64
   },
   "type": {
     "one": "Grass",

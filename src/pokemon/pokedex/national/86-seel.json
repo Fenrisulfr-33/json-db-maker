@@ -12,10 +12,17 @@
     "french": "Otaria"
   },
   "pokedexNumber": {
-    "crystal": 178,
-    "gold-silver": 178,
+    "red-blue": 86,
     "yellow": 86,
-    "red-blue": 86
+    "gold-silver": 176,
+    "crystal": 176,
+    "firered-leafgreen": 86,
+    "heartgold-soulsilver": 178,
+    "black-2-white-2": 265,
+    "ultra-sun-ultra-moon": 115,
+    "ultra-sun-ultra-moon-melemele": 115,
+    "lets-go-pikachu-eevee": 86,
+    "the-indigo-disk": 143
   },
   "type": {
     "one": "Water"

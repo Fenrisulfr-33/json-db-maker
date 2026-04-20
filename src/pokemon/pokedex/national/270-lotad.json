@@ -12,7 +12,12 @@
     "french": "Nénupiot"
   },
   "pokedexNumber": {
-    "sword-shield": 36
+    "ruby-sapphire": 19,
+    "emerald": 19,
+    "x-y-mountain": 55,
+    "omega-ruby-alpha-sapphire": 19,
+    "sword-shield": 36,
+    "the-teal-mask": 104
   },
   "type": {
     "one": "Water",

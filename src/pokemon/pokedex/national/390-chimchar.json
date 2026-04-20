@@ -12,7 +12,10 @@
     "french": "Ouisticram"
   },
   "pokedexNumber": {
-    "legends-arceus": 61
+    "diamond-pearl": 4,
+    "platinum": 4,
+    "legends-arceus": 61,
+    "the-indigo-disk": 194
   },
   "type": {
     "one": "Fire"

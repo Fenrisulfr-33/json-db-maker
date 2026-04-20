@@ -11,7 +11,12 @@
     "german": "Reptain",
     "french": "Massko"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 2,
+    "emerald": 2,
+    "omega-ruby-alpha-sapphire": 2,
+    "the-indigo-disk": 183
+  },
   "type": {
     "one": "Grass"
   },

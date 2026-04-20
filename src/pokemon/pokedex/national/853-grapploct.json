@@ -75,5 +75,9 @@
         "desc": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 352,
+    "isle-of-armor": 130
   }
 }

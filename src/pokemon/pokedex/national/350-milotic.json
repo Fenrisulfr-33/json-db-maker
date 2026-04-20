@@ -12,8 +12,18 @@
     "french": "Milobellus"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 141,
+    "emerald": 141,
+    "diamond-pearl": 139,
+    "platinum": 139,
+    "omega-ruby-alpha-sapphire": 146,
+    "sun-moon": 156,
+    "sun-moon-akala": 83,
+    "ultra-sun-ultra-moon": 190,
+    "ultra-sun-ultra-moon-akala": 91,
     "sword-shield": 153,
-    "crown-tundra": 189
+    "crown-tundra": 189,
+    "the-teal-mask": 159
   },
   "type": {
     "one": "Water"

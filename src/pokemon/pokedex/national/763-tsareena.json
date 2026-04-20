@@ -12,8 +12,12 @@
     "french": "Sucreine"
   },
   "pokedexNumber": {
-    "scarlet-violet": 83,
-    "sword-shield": 54
+    "sun-moon": 173,
+    "sun-moon-akala": 100,
+    "ultra-sun-ultra-moon": 209,
+    "ultra-sun-ultra-moon-akala": 110,
+    "sword-shield": 54,
+    "scarlet-violet": 83
   },
   "type": {
     "one": "Grass"

@@ -12,8 +12,15 @@
     "french": "Queulorior"
   },
   "pokedexNumber": {
-    "crystal": 159,
-    "gold-silver": 159
+    "gold-silver": 157,
+    "crystal": 157,
+    "heartgold-soulsilver": 159,
+    "x-y-central": 124,
+    "sun-moon": 58,
+    "sun-moon-melemele": 58,
+    "ultra-sun-ultra-moon": 70,
+    "ultra-sun-ultra-moon-melemele": 70,
+    "the-indigo-disk": 40
   },
   "type": {
     "one": "Normal"

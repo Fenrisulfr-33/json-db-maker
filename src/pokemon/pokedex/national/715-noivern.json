@@ -12,9 +12,14 @@
     "french": "Bruyverne"
   },
   "pokedexNumber": {
-    "scarlet-violet": 304,
+    "x-y-mountain": 114,
+    "ultra-sun-ultra-moon": 84,
+    "ultra-sun-ultra-moon-melemele": 84,
+    "ultra-sun-ultra-moon-poni": 30,
     "sword-shield": 177,
-    "crown-tundra": 182
+    "crown-tundra": 182,
+    "scarlet-violet": 304,
+    "the-teal-mask": 89
   },
   "type": {
     "one": "Flying",

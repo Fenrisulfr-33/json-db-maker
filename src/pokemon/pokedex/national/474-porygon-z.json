@@ -12,8 +12,14 @@
     "french": "Porygon-Z"
   },
   "pokedexNumber": {
+    "platinum": 194,
+    "sun-moon": 219,
+    "sun-moon-ulaula": 91,
+    "ultra-sun-ultra-moon": 283,
+    "ultra-sun-ultra-moon-ulaula": 104,
+    "isle-of-armor": 210,
     "legends-arceus": 135,
-    "isle-of-armor": 210
+    "the-indigo-disk": 131
   },
   "type": {
     "one": "Normal"

@@ -12,12 +12,22 @@
     "french": "Farfuret"
   },
   "pokedexNumber": {
-    "scarlet-violet": 230,
-    "legends-arceus": 202,
+    "gold-silver": 213,
+    "crystal": 213,
+    "diamond-pearl": 144,
+    "platinum": 144,
+    "heartgold-soulsilver": 218,
+    "black-2-white-2": 252,
+    "x-y-mountain": 91,
+    "sun-moon": 249,
+    "sun-moon-ulaula": 121,
+    "ultra-sun-ultra-moon": 326,
+    "ultra-sun-ultra-moon-ulaula": 147,
     "sword-shield": 292,
     "crown-tundra": 28,
-    "crystal": 218,
-    "gold-silver": 218
+    "legends-arceus": 202,
+    "scarlet-violet": 230,
+    "the-teal-mask": 170
   },
   "type": {
     "one": "Dark",

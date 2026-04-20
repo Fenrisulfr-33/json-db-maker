@@ -11,7 +11,19 @@
     "german": "Tukanon",
     "french": "Bazoucan"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 12,
+    "sun-moon-melemele": 12,
+    "sun-moon-akala": 3,
+    "sun-moon-ulaula": 3,
+    "sun-moon-poni": 3,
+    "ultra-sun-ultra-moon": 12,
+    "ultra-sun-ultra-moon-melemele": 12,
+    "ultra-sun-ultra-moon-akala": 3,
+    "ultra-sun-ultra-moon-ulaula": 3,
+    "ultra-sun-ultra-moon-poni": 3,
+    "the-indigo-disk": 49
+  },
   "type": {
     "one": "Normal",
     "two": "Flying"

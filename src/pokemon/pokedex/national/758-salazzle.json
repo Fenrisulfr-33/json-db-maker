@@ -12,9 +12,14 @@
     "french": "Malamandre"
   },
   "pokedexNumber": {
-    "scarlet-violet": 121,
+    "sun-moon": 162,
+    "sun-moon-akala": 89,
+    "ultra-sun-ultra-moon": 196,
+    "ultra-sun-ultra-moon-akala": 97,
     "sword-shield": 245,
-    "isle-of-armor": 160
+    "isle-of-armor": 160,
+    "scarlet-violet": 121,
+    "the-teal-mask": 169
   },
   "type": {
     "one": "Poison",

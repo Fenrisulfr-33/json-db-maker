@@ -11,7 +11,11 @@
     "german": "Groudon",
     "french": "Groudon"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 199,
+    "emerald": 199,
+    "omega-ruby-alpha-sapphire": 208
+  },
   "type": {
     "one": "Ground"
   },

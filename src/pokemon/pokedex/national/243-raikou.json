@@ -12,8 +12,9 @@
     "french": "Raikou"
   },
   "pokedexNumber": {
-    "crystal": 243,
-    "gold-silver": 243
+    "gold-silver": 238,
+    "crystal": 238,
+    "heartgold-soulsilver": 243
   },
   "type": {
     "one": "Electric"

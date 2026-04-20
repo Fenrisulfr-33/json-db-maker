@@ -12,12 +12,17 @@
     "french": "Saquedeneu"
   },
   "pokedexNumber": {
-    "legends-arceus": 95,
-    "isle-of-armor": 80,
-    "crystal": 182,
-    "gold-silver": 182,
+    "red-blue": 114,
     "yellow": 114,
-    "red-blue": 114
+    "gold-silver": 179,
+    "crystal": 179,
+    "firered-leafgreen": 114,
+    "platinum": 181,
+    "heartgold-soulsilver": 182,
+    "black-2-white-2": 217,
+    "lets-go-pikachu-eevee": 114,
+    "isle-of-armor": 80,
+    "legends-arceus": 95
   },
   "type": {
     "one": "Grass"

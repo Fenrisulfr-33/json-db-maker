@@ -12,12 +12,27 @@
     "french": "Machopeur"
   },
   "pokedexNumber": {
-    "legends-arceus": 155,
-    "sword-shield": 139,
-    "crystal": 143,
-    "gold-silver": 143,
+    "red-blue": 67,
     "yellow": 67,
-    "red-blue": 67
+    "gold-silver": 141,
+    "crystal": 141,
+    "ruby-sapphire": 74,
+    "emerald": 74,
+    "firered-leafgreen": 67,
+    "diamond-pearl": 41,
+    "platinum": 41,
+    "heartgold-soulsilver": 143,
+    "x-y-coastal": 58,
+    "omega-ruby-alpha-sapphire": 76,
+    "sun-moon": 96,
+    "sun-moon-melemele": 96,
+    "sun-moon-poni": 46,
+    "ultra-sun-ultra-moon": 118,
+    "ultra-sun-ultra-moon-melemele": 118,
+    "ultra-sun-ultra-moon-poni": 58,
+    "lets-go-pikachu-eevee": 67,
+    "sword-shield": 139,
+    "legends-arceus": 155
   },
   "type": {
     "one": "Fighting"

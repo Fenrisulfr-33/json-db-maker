@@ -12,10 +12,14 @@
     "french": "Apitrini"
   },
   "pokedexNumber": {
-    "scarlet-violet": 38,
-    "legends-arceus": 70,
+    "diamond-pearl": 53,
+    "platinum": 53,
+    "black-2-white-2": 142,
+    "x-y-central": 76,
     "sword-shield": 116,
-    "isle-of-armor": 203
+    "isle-of-armor": 203,
+    "legends-arceus": 70,
+    "scarlet-violet": 38
   },
   "type": {
     "one": "Bug",

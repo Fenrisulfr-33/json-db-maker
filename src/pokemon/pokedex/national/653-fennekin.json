@@ -11,7 +11,10 @@
     "german": "Fynx",
     "french": "Feunnec"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 4,
+    "the-indigo-disk": 212
+  },
   "type": {
     "one": "Fire"
   },

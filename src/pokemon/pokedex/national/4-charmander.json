@@ -12,11 +12,16 @@
     "french": "Salamèche"
   },
   "pokedexNumber": {
-    "sword-shield": 378,
-    "crystal": 234,
-    "gold-silver": 234,
+    "red-blue": 4,
     "yellow": 4,
-    "red-blue": 4
+    "gold-silver": 229,
+    "crystal": 229,
+    "firered-leafgreen": 4,
+    "heartgold-soulsilver": 234,
+    "x-y-central": 83,
+    "lets-go-pikachu-eevee": 4,
+    "sword-shield": 378,
+    "the-indigo-disk": 167
   },
   "type": {
     "one": "Fire"

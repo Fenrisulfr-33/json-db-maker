@@ -12,9 +12,14 @@
     "french": "Wattouat"
   },
   "pokedexNumber": {
-    "scarlet-violet": 101,
+    "gold-silver": 53,
     "crystal": 53,
-    "gold-silver": 53
+    "heartgold-soulsilver": 53,
+    "black-2-white-2": 25,
+    "x-y-coastal": 127,
+    "ultra-sun-ultra-moon": 162,
+    "ultra-sun-ultra-moon-akala": 63,
+    "scarlet-violet": 101
   },
   "type": {
     "one": "Electric"

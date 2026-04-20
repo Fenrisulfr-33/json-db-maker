@@ -12,10 +12,14 @@
     "french": "Sulfura"
   },
   "pokedexNumber": {
-    "crystal": 242,
-    "gold-silver": 242,
+    "red-blue": 146,
     "yellow": 146,
-    "red-blue": 146
+    "gold-silver": 237,
+    "crystal": 237,
+    "firered-leafgreen": 146,
+    "heartgold-soulsilver": 242,
+    "x-y-coastal": 153,
+    "lets-go-pikachu-eevee": 146
   },
   "type": {
     "one": "Fire",

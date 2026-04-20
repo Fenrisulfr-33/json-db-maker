@@ -12,9 +12,12 @@
     "french": "Moufouette"
   },
   "pokedexNumber": {
-    "scarlet-violet": 226,
+    "diamond-pearl": 84,
+    "platinum": 84,
+    "x-y-coastal": 102,
+    "sword-shield": 130,
     "legends-arceus": 110,
-    "sword-shield": 130
+    "scarlet-violet": 226
   },
   "type": {
     "one": "Poison",

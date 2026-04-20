@@ -12,9 +12,15 @@
     "french": "Zoroark"
   },
   "pokedexNumber": {
-    "scarlet-violet": 229,
+    "black-white": 77,
+    "black-2-white-2": 152,
+    "x-y-mountain": 125,
+    "ultra-sun-ultra-moon": 29,
+    "ultra-sun-ultra-moon-melemele": 29,
+    "ultra-sun-ultra-moon-poni": 13,
+    "isle-of-armor": 88,
     "legends-arceus": 220,
-    "isle-of-armor": 88
+    "scarlet-violet": 229
   },
   "type": {
     "one": "Dark"

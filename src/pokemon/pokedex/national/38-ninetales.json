@@ -12,12 +12,21 @@
     "french": "Feunard"
   },
   "pokedexNumber": {
-    "legends-arceus": 169,
-    "sword-shield": 69,
-    "crystal": 128,
-    "gold-silver": 128,
+    "red-blue": 38,
     "yellow": 38,
-    "red-blue": 38
+    "gold-silver": 126,
+    "crystal": 126,
+    "ruby-sapphire": 154,
+    "emerald": 154,
+    "firered-leafgreen": 38,
+    "heartgold-soulsilver": 128,
+    "black-2-white-2": 249,
+    "omega-ruby-alpha-sapphire": 161,
+    "ultra-sun-ultra-moon": 331,
+    "lets-go-pikachu-eevee": 38,
+    "sword-shield": 69,
+    "legends-arceus": 169,
+    "the-teal-mask": 38
   },
   "type": {
     "one": "Fire"

@@ -79,5 +79,8 @@
         "desc": "This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 398
   }
 }

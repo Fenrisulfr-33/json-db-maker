@@ -12,9 +12,16 @@
     "french": "Babimanta"
   },
   "pokedexNumber": {
-    "legends-arceus": 164,
+    "diamond-pearl": 140,
+    "platinum": 140,
+    "black-2-white-2": 233,
+    "x-y-coastal": 139,
+    "ultra-sun-ultra-moon": 145,
+    "ultra-sun-ultra-moon-melemele": 145,
+    "ultra-sun-ultra-moon-akala": 49,
     "sword-shield": 354,
-    "isle-of-armor": 46
+    "isle-of-armor": 46,
+    "legends-arceus": 164
   },
   "type": {
     "one": "Water",

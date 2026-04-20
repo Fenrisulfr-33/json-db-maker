@@ -12,7 +12,18 @@
     "french": "Crabagarre"
   },
   "pokedexNumber": {
-    "scarlet-violet": 118
+    "sun-moon": 59,
+    "sun-moon-melemele": 59,
+    "sun-moon-akala": 21,
+    "sun-moon-ulaula": 30,
+    "sun-moon-poni": 17,
+    "ultra-sun-ultra-moon": 71,
+    "ultra-sun-ultra-moon-melemele": 71,
+    "ultra-sun-ultra-moon-akala": 21,
+    "ultra-sun-ultra-moon-ulaula": 30,
+    "ultra-sun-ultra-moon-poni": 24,
+    "scarlet-violet": 118,
+    "the-indigo-disk": 72
   },
   "type": {
     "one": "Fighting"

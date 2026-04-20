@@ -12,11 +12,21 @@
     "french": "Flagadoss"
   },
   "pokedexNumber": {
-    "scarlet-violet": 325,
-    "crystal": 81,
-    "gold-silver": 81,
+    "red-blue": 80,
     "yellow": 80,
-    "red-blue": 80
+    "gold-silver": 81,
+    "crystal": 81,
+    "firered-leafgreen": 80,
+    "heartgold-soulsilver": 81,
+    "x-y-coastal": 134,
+    "sun-moon": 38,
+    "sun-moon-melemele": 38,
+    "sun-moon-ulaula": 19,
+    "ultra-sun-ultra-moon": 45,
+    "ultra-sun-ultra-moon-melemele": 45,
+    "ultra-sun-ultra-moon-ulaula": 19,
+    "lets-go-pikachu-eevee": 80,
+    "scarlet-violet": 325
   },
   "type": {
     "one": "Water",

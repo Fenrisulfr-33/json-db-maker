@@ -11,7 +11,10 @@
     "german": "Cosmovum",
     "french": "Cosmovum"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 290,
+    "ultra-sun-ultra-moon": 388
+  },
   "type": {
     "one": "Psychic"
   },

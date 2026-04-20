@@ -12,9 +12,18 @@
     "french": "Tarpaud"
   },
   "pokedexNumber": {
-    "isle-of-armor": 145,
+    "gold-silver": 75,
     "crystal": 75,
-    "gold-silver": 75
+    "heartgold-soulsilver": 75,
+    "x-y-mountain": 36,
+    "sun-moon": 152,
+    "sun-moon-akala": 79,
+    "sun-moon-ulaula": 71,
+    "ultra-sun-ultra-moon": 185,
+    "ultra-sun-ultra-moon-akala": 86,
+    "ultra-sun-ultra-moon-ulaula": 77,
+    "isle-of-armor": 145,
+    "the-teal-mask": 42
   },
   "type": {
     "one": "Water"

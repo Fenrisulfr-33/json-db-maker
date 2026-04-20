@@ -11,7 +11,13 @@
     "german": "Primarene",
     "french": "Oratoria"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 9,
+    "sun-moon-melemele": 9,
+    "ultra-sun-ultra-moon": 9,
+    "ultra-sun-ultra-moon-melemele": 9,
+    "the-indigo-disk": 226
+  },
   "type": {
     "one": "Water",
     "two": "Fairy"

@@ -11,7 +11,12 @@
     "german": "Moorabbel",
     "french": "Flobio"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 8,
+    "emerald": 8,
+    "omega-ruby-alpha-sapphire": 8,
+    "the-indigo-disk": 189
+  },
   "type": {
     "one": "Water",
     "two": "Ground"

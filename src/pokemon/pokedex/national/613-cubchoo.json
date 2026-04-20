@@ -12,9 +12,13 @@
     "french": "Polarhume"
   },
   "pokedexNumber": {
-    "scarlet-violet": 355,
+    "black-white": 119,
+    "black-2-white-2": 195,
+    "x-y-mountain": 81,
     "sword-shield": 279,
-    "crown-tundra": 121
+    "crown-tundra": 121,
+    "scarlet-violet": 355,
+    "the-indigo-disk": 153
   },
   "type": {
     "one": "Ice"

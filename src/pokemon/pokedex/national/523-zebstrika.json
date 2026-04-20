@@ -11,7 +11,11 @@
     "german": "Zebritz",
     "french": "Zéblitz"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 29,
+    "black-2-white-2": 148,
+    "the-indigo-disk": 24
+  },
   "type": {
     "one": "Electric"
   },

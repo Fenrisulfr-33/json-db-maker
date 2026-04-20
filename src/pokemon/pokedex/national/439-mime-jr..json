@@ -12,9 +12,14 @@
     "french": "Mime Jr"
   },
   "pokedexNumber": {
-    "legends-arceus": 76,
+    "diamond-pearl": 75,
+    "platinum": 75,
+    "x-y-coastal": 113,
+    "ultra-sun-ultra-moon": 59,
+    "ultra-sun-ultra-moon-melemele": 59,
     "sword-shield": 364,
-    "crown-tundra": 10
+    "crown-tundra": 10,
+    "legends-arceus": 76
   },
   "type": {
     "one": "Psychic",

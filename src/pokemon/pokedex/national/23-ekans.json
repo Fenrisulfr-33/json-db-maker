@@ -12,10 +12,17 @@
     "french": "Abo"
   },
   "pokedexNumber": {
-    "crystal": 50,
-    "gold-silver": 50,
+    "red-blue": 23,
     "yellow": 23,
-    "red-blue": 23
+    "gold-silver": 50,
+    "crystal": 50,
+    "firered-leafgreen": 23,
+    "heartgold-soulsilver": 50,
+    "x-y-mountain": 37,
+    "ultra-sun-ultra-moon": 61,
+    "ultra-sun-ultra-moon-melemele": 61,
+    "lets-go-pikachu-eevee": 23,
+    "the-teal-mask": 18
   },
   "type": {
     "one": "Poison"

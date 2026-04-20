@@ -12,7 +12,10 @@
     "french": "Tortipouss"
   },
   "pokedexNumber": {
-    "legends-arceus": 130
+    "diamond-pearl": 1,
+    "platinum": 1,
+    "legends-arceus": 130,
+    "the-indigo-disk": 191
   },
   "type": {
     "one": "Grass"

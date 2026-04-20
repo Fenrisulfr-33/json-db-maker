@@ -11,7 +11,13 @@
     "german": "Robball",
     "french": "Otaquin"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 7,
+    "sun-moon-melemele": 7,
+    "ultra-sun-ultra-moon": 7,
+    "ultra-sun-ultra-moon-melemele": 7,
+    "the-indigo-disk": 224
+  },
   "type": {
     "one": "Water"
   },

@@ -12,7 +12,12 @@
     "french": "Draïeul"
   },
   "pokedexNumber": {
-    "scarlet-violet": 335
+    "sun-moon": 243,
+    "sun-moon-ulaula": 115,
+    "ultra-sun-ultra-moon": 320,
+    "ultra-sun-ultra-moon-ulaula": 141,
+    "scarlet-violet": 335,
+    "the-indigo-disk": 55
   },
   "type": {
     "one": "Water",

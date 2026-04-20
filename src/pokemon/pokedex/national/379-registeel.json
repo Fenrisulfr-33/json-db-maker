@@ -12,6 +12,9 @@
     "french": "Registeel"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 195,
+    "emerald": 195,
+    "omega-ruby-alpha-sapphire": 204,
     "crown-tundra": 199
   },
   "type": {

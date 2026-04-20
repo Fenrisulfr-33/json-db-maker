@@ -12,10 +12,20 @@
     "french": "Loupio"
   },
   "pokedexNumber": {
+    "gold-silver": 174,
+    "crystal": 174,
+    "ruby-sapphire": 181,
+    "emerald": 181,
+    "heartgold-soulsilver": 176,
+    "x-y-coastal": 147,
+    "omega-ruby-alpha-sapphire": 190,
+    "sun-moon": 201,
+    "sun-moon-akala": 128,
+    "ultra-sun-ultra-moon": 257,
+    "ultra-sun-ultra-moon-akala": 158,
     "sword-shield": 220,
     "isle-of-armor": 188,
-    "crystal": 176,
-    "gold-silver": 176
+    "the-indigo-disk": 78
   },
   "type": {
     "one": "Water",

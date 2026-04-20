@@ -12,9 +12,15 @@
     "french": "Zorua"
   },
   "pokedexNumber": {
-    "scarlet-violet": 228,
+    "black-white": 76,
+    "black-2-white-2": 151,
+    "x-y-mountain": 124,
+    "ultra-sun-ultra-moon": 28,
+    "ultra-sun-ultra-moon-melemele": 28,
+    "ultra-sun-ultra-moon-poni": 12,
+    "isle-of-armor": 87,
     "legends-arceus": 219,
-    "isle-of-armor": 87
+    "scarlet-violet": 228
   },
   "type": {
     "one": "Dark"

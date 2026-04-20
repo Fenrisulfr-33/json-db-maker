@@ -11,7 +11,13 @@
     "german": "Plusle",
     "french": "Posipi"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 80,
+    "emerald": 80,
+    "x-y-central": 96,
+    "omega-ruby-alpha-sapphire": 82,
+    "the-indigo-disk": 119
+  },
   "type": {
     "one": "Electric"
   },

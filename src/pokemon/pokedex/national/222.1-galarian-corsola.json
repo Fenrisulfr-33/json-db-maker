@@ -4,7 +4,9 @@
   "name": {
     "english": "Galarian Corsola"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sword-shield": 236
+  },
   "type": {
     "one": "Ghost"
   },
@@ -41,7 +43,10 @@
   "evs": {
     "spdef": 1
   },
-  "eggGroups": ["Water 1", "Water 3"],
+  "eggGroups": [
+    "Water 1",
+    "Water 3"
+  ],
   "species": "Coral Pokémon",
   "catchRate": 60,
   "baseFriendship": 50,

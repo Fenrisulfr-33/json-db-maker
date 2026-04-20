@@ -12,8 +12,10 @@
     "french": "Ceribou"
   },
   "pokedexNumber": {
-    "legends-arceus": 66,
-    "sword-shield": 128
+    "diamond-pearl": 58,
+    "platinum": 58,
+    "sword-shield": 128,
+    "legends-arceus": 66
   },
   "type": {
     "one": "Grass"

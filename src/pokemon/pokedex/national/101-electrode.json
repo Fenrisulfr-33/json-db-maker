@@ -12,12 +12,19 @@
     "french": "Électrode"
   },
   "pokedexNumber": {
-    "scarlet-violet": 208,
-    "legends-arceus": 193,
-    "crystal": 122,
-    "gold-silver": 122,
+    "red-blue": 101,
     "yellow": 101,
-    "red-blue": 101
+    "gold-silver": 121,
+    "crystal": 121,
+    "ruby-sapphire": 85,
+    "emerald": 85,
+    "firered-leafgreen": 101,
+    "heartgold-soulsilver": 122,
+    "x-y-mountain": 73,
+    "omega-ruby-alpha-sapphire": 88,
+    "lets-go-pikachu-eevee": 101,
+    "legends-arceus": 193,
+    "scarlet-violet": 208
   },
   "type": {
     "one": "Electric"

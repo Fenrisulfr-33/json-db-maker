@@ -12,11 +12,16 @@
     "french": "Embrylex"
   },
   "pokedexNumber": {
-    "scarlet-violet": 316,
+    "gold-silver": 244,
+    "crystal": 244,
+    "heartgold-soulsilver": 249,
+    "black-2-white-2": 292,
+    "x-y-mountain": 102,
+    "ultra-sun-ultra-moon": 247,
+    "ultra-sun-ultra-moon-akala": 148,
     "sword-shield": 383,
     "crown-tundra": 139,
-    "crystal": 249,
-    "gold-silver": 249
+    "scarlet-violet": 316
   },
   "type": {
     "one": "Rock",

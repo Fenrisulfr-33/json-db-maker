@@ -12,10 +12,14 @@
     "french": "Roucarnage"
   },
   "pokedexNumber": {
-    "crystal": 12,
-    "gold-silver": 12,
+    "red-blue": 18,
     "yellow": 18,
-    "red-blue": 18
+    "gold-silver": 12,
+    "crystal": 12,
+    "firered-leafgreen": 18,
+    "heartgold-soulsilver": 12,
+    "x-y-central": 19,
+    "lets-go-pikachu-eevee": 18
   },
   "type": {
     "one": "Normal",

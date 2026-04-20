@@ -12,8 +12,12 @@
     "french": "Bétochef"
   },
   "pokedexNumber": {
+    "black-white": 40,
+    "black-2-white-2": 75,
+    "x-y-mountain": 95,
     "sword-shield": 173,
-    "crown-tundra": 59
+    "crown-tundra": 59,
+    "the-teal-mask": 87
   },
   "type": {
     "one": "Fighting"

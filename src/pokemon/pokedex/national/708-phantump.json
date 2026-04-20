@@ -12,8 +12,14 @@
     "french": "Brocélôme"
   },
   "pokedexNumber": {
+    "x-y-mountain": 61,
+    "sun-moon": 196,
+    "sun-moon-akala": 123,
+    "ultra-sun-ultra-moon": 250,
+    "ultra-sun-ultra-moon-akala": 151,
     "sword-shield": 338,
-    "crown-tundra": 33
+    "crown-tundra": 33,
+    "the-teal-mask": 68
   },
   "type": {
     "one": "Ghost",

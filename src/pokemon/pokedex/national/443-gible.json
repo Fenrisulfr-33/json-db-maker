@@ -12,9 +12,17 @@
     "french": "Griknot"
   },
   "pokedexNumber": {
-    "scarlet-violet": 126,
+    "diamond-pearl": 109,
+    "platinum": 109,
+    "x-y-mountain": 6,
+    "sun-moon": 238,
+    "sun-moon-ulaula": 110,
+    "ultra-sun-ultra-moon": 307,
+    "ultra-sun-ultra-moon-ulaula": 128,
+    "crown-tundra": 116,
     "legends-arceus": 187,
-    "crown-tundra": 116
+    "scarlet-violet": 126,
+    "the-teal-mask": 164
   },
   "type": {
     "one": "Dragon",

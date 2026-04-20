@@ -11,7 +11,13 @@
     "german": "Fuegro",
     "french": "Félinferno"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 6,
+    "sun-moon-melemele": 6,
+    "ultra-sun-ultra-moon": 6,
+    "ultra-sun-ultra-moon-melemele": 6,
+    "the-indigo-disk": 223
+  },
   "type": {
     "one": "Fire",
     "two": "Dark"

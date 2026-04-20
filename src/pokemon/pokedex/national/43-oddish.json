@@ -12,11 +12,19 @@
     "french": "Mystherbe"
   },
   "pokedexNumber": {
-    "sword-shield": 55,
-    "crystal": 83,
-    "gold-silver": 83,
+    "red-blue": 43,
     "yellow": 43,
-    "red-blue": 43
+    "gold-silver": 83,
+    "crystal": 83,
+    "ruby-sapphire": 88,
+    "emerald": 88,
+    "firered-leafgreen": 43,
+    "heartgold-soulsilver": 83,
+    "x-y-central": 105,
+    "omega-ruby-alpha-sapphire": 91,
+    "lets-go-pikachu-eevee": 43,
+    "sword-shield": 55,
+    "the-indigo-disk": 62
   },
   "type": {
     "one": "Grass",

@@ -60,5 +60,8 @@
         "desc": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 398
   }
 }

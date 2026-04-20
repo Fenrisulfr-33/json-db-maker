@@ -12,12 +12,16 @@
     "french": "Ponyta"
   },
   "pokedexNumber": {
-    "legends-arceus": 23,
-    "sword-shield": 333,
-    "crystal": 206,
-    "gold-silver": 206,
+    "red-blue": 77,
     "yellow": 77,
-    "red-blue": 77
+    "gold-silver": 201,
+    "crystal": 201,
+    "firered-leafgreen": 77,
+    "diamond-pearl": 90,
+    "platinum": 90,
+    "heartgold-soulsilver": 206,
+    "lets-go-pikachu-eevee": 77,
+    "legends-arceus": 23
   },
   "type": {
     "one": "Fire"

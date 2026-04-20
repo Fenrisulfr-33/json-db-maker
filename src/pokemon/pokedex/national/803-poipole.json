@@ -11,7 +11,9 @@
     "german": "Venicro",
     "french": "Vémini"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ultra-sun-ultra-moon": 261
+  },
   "type": {
     "one": "Poison"
   },

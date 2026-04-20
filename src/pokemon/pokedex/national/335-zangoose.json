@@ -12,7 +12,13 @@
     "french": "Mangriff"
   },
   "pokedexNumber": {
-    "scarlet-violet": 217
+    "ruby-sapphire": 123,
+    "emerald": 123,
+    "black-2-white-2": 186,
+    "x-y-coastal": 5,
+    "omega-ruby-alpha-sapphire": 128,
+    "scarlet-violet": 217,
+    "the-indigo-disk": 70
   },
   "type": {
     "one": "Normal"

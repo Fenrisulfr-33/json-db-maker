@@ -12,10 +12,14 @@
     "french": "Rattatac"
   },
   "pokedexNumber": {
-    "crystal": 18,
-    "gold-silver": 18,
+    "red-blue": 20,
     "yellow": 20,
-    "red-blue": 20
+    "gold-silver": 18,
+    "crystal": 18,
+    "firered-leafgreen": 20,
+    "heartgold-soulsilver": 18,
+    "black-2-white-2": 60,
+    "lets-go-pikachu-eevee": 20
   },
   "type": {
     "one": "Normal"

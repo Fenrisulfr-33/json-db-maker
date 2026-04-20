@@ -12,8 +12,21 @@
     "french": "Écayon"
   },
   "pokedexNumber": {
+    "diamond-pearl": 134,
+    "platinum": 134,
+    "sun-moon": 108,
+    "sun-moon-melemele": 108,
+    "sun-moon-akala": 40,
+    "sun-moon-ulaula": 55,
+    "sun-moon-poni": 57,
+    "ultra-sun-ultra-moon": 131,
+    "ultra-sun-ultra-moon-melemele": 131,
+    "ultra-sun-ultra-moon-akala": 40,
+    "ultra-sun-ultra-moon-ulaula": 58,
+    "ultra-sun-ultra-moon-poni": 69,
+    "legends-arceus": 172,
     "scarlet-violet": 333,
-    "legends-arceus": 172
+    "the-indigo-disk": 83
   },
   "type": {
     "one": "Water"

@@ -12,8 +12,15 @@
     "french": "Araqua"
   },
   "pokedexNumber": {
+    "sun-moon": 141,
+    "sun-moon-akala": 68,
+    "sun-moon-ulaula": 62,
+    "ultra-sun-ultra-moon": 174,
+    "ultra-sun-ultra-moon-akala": 75,
+    "ultra-sun-ultra-moon-ulaula": 68,
     "sword-shield": 214,
-    "crown-tundra": 91
+    "crown-tundra": 91,
+    "the-indigo-disk": 90
   },
   "type": {
     "one": "Water",

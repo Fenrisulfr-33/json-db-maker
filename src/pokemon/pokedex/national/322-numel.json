@@ -12,7 +12,12 @@
     "french": "Chamallot"
   },
   "pokedexNumber": {
-    "isle-of-armor": 191
+    "ruby-sapphire": 101,
+    "emerald": 101,
+    "black-2-white-2": 204,
+    "omega-ruby-alpha-sapphire": 106,
+    "isle-of-armor": 191,
+    "the-indigo-disk": 125
   },
   "type": {
     "one": "Fire",

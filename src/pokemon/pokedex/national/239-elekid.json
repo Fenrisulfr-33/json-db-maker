@@ -12,10 +12,18 @@
     "french": "Élekid"
   },
   "pokedexNumber": {
-    "legends-arceus": 182,
+    "gold-silver": 154,
+    "crystal": 154,
+    "platinum": 197,
+    "heartgold-soulsilver": 156,
+    "black-2-white-2": 56,
+    "sun-moon": 226,
+    "sun-moon-ulaula": 98,
+    "ultra-sun-ultra-moon": 295,
+    "ultra-sun-ultra-moon-ulaula": 116,
     "crown-tundra": 15,
-    "crystal": 156,
-    "gold-silver": 156
+    "legends-arceus": 182,
+    "the-indigo-disk": 10
   },
   "type": {
     "one": "Electric"

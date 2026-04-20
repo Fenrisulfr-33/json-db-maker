@@ -12,10 +12,17 @@
     "french": "Arbok"
   },
   "pokedexNumber": {
-    "crystal": 51,
-    "gold-silver": 51,
+    "red-blue": 24,
     "yellow": 24,
-    "red-blue": 24
+    "gold-silver": 51,
+    "crystal": 51,
+    "firered-leafgreen": 24,
+    "heartgold-soulsilver": 51,
+    "x-y-mountain": 38,
+    "ultra-sun-ultra-moon": 62,
+    "ultra-sun-ultra-moon-melemele": 62,
+    "lets-go-pikachu-eevee": 24,
+    "the-teal-mask": 19
   },
   "type": {
     "one": "Poison"

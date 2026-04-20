@@ -12,8 +12,13 @@
     "french": "Trousselin"
   },
   "pokedexNumber": {
-    "scarlet-violet": 240,
-    "isle-of-armor": 28
+    "x-y-mountain": 50,
+    "sun-moon": 241,
+    "sun-moon-ulaula": 113,
+    "ultra-sun-ultra-moon": 314,
+    "ultra-sun-ultra-moon-ulaula": 135,
+    "isle-of-armor": 28,
+    "scarlet-violet": 240
   },
   "type": {
     "one": "Steel",

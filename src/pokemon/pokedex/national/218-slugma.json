@@ -12,8 +12,14 @@
     "french": "Limagma"
   },
   "pokedexNumber": {
-    "crystal": 216,
-    "gold-silver": 216
+    "gold-silver": 211,
+    "crystal": 211,
+    "ruby-sapphire": 103,
+    "emerald": 103,
+    "heartgold-soulsilver": 216,
+    "x-y-mountain": 12,
+    "omega-ruby-alpha-sapphire": 108,
+    "the-teal-mask": 144
   },
   "type": {
     "one": "Fire"

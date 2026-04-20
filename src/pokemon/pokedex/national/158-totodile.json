@@ -12,8 +12,10 @@
     "french": "Kaiminus"
   },
   "pokedexNumber": {
+    "gold-silver": 7,
     "crystal": 7,
-    "gold-silver": 7
+    "heartgold-soulsilver": 7,
+    "the-indigo-disk": 179
   },
   "type": {
     "one": "Water"

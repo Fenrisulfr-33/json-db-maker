@@ -12,9 +12,13 @@
     "french": "Sidérella"
   },
   "pokedexNumber": {
-    "scarlet-violet": 236,
+    "black-white": 82,
+    "black-2-white-2": 138,
+    "x-y-mountain": 128,
     "sword-shield": 269,
-    "crown-tundra": 53
+    "crown-tundra": 53,
+    "scarlet-violet": 236,
+    "the-indigo-disk": 103
   },
   "type": {
     "one": "Psychic"

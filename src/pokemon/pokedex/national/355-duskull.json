@@ -12,8 +12,13 @@
     "french": "Skelénox"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 148,
+    "emerald": 148,
+    "platinum": 189,
+    "omega-ruby-alpha-sapphire": 153,
+    "sword-shield": 135,
     "legends-arceus": 158,
-    "sword-shield": 135
+    "the-teal-mask": 139
   },
   "type": {
     "one": "Ghost"

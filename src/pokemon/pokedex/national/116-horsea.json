@@ -12,11 +12,19 @@
     "french": "Hypotrempe"
   },
   "pokedexNumber": {
-    "isle-of-armor": 198,
-    "crystal": 190,
-    "gold-silver": 190,
+    "red-blue": 116,
     "yellow": 116,
-    "red-blue": 116
+    "gold-silver": 186,
+    "crystal": 186,
+    "ruby-sapphire": 184,
+    "emerald": 184,
+    "firered-leafgreen": 116,
+    "heartgold-soulsilver": 190,
+    "x-y-coastal": 39,
+    "omega-ruby-alpha-sapphire": 193,
+    "lets-go-pikachu-eevee": 116,
+    "isle-of-armor": 198,
+    "the-indigo-disk": 52
   },
   "type": {
     "one": "Water"

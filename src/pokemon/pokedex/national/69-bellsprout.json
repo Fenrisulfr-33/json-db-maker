@@ -12,10 +12,15 @@
     "french": "Chétiflor"
   },
   "pokedexNumber": {
-    "crystal": 64,
-    "gold-silver": 64,
+    "red-blue": 69,
     "yellow": 69,
-    "red-blue": 69
+    "gold-silver": 64,
+    "crystal": 64,
+    "firered-leafgreen": 69,
+    "heartgold-soulsilver": 64,
+    "x-y-mountain": 26,
+    "lets-go-pikachu-eevee": 69,
+    "the-teal-mask": 23
   },
   "type": {
     "one": "Grass",

@@ -12,9 +12,9 @@
     "french": "Bekaglaçon"
   },
   "pokedexNumber": {
-    "scarlet-violet": 320,
     "sword-shield": 370,
-    "crown-tundra": 90
+    "crown-tundra": 90,
+    "scarlet-violet": 320
   },
   "type": {
     "one": "Ice"

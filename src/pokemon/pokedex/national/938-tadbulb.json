@@ -68,5 +68,8 @@
         "desc": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 170
   }
 }

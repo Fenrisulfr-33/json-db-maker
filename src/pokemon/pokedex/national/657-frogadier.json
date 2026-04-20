@@ -11,7 +11,10 @@
     "german": "Amphizel",
     "french": "Croâporal"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 8,
+    "the-indigo-disk": 216
+  },
   "type": {
     "one": "Water"
   },

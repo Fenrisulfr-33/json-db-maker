@@ -11,7 +11,9 @@
     "german": "Meltan",
     "french": "Meltan"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "lets-go-pikachu-eevee": 152
+  },
   "type": {
     "one": "Steel"
   },

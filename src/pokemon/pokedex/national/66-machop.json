@@ -12,12 +12,27 @@
     "french": "Machoc"
   },
   "pokedexNumber": {
-    "legends-arceus": 154,
-    "sword-shield": 138,
-    "crystal": 142,
-    "gold-silver": 142,
+    "red-blue": 66,
     "yellow": 66,
-    "red-blue": 66
+    "gold-silver": 140,
+    "crystal": 140,
+    "ruby-sapphire": 73,
+    "emerald": 73,
+    "firered-leafgreen": 66,
+    "diamond-pearl": 40,
+    "platinum": 40,
+    "heartgold-soulsilver": 142,
+    "x-y-coastal": 57,
+    "omega-ruby-alpha-sapphire": 75,
+    "sun-moon": 95,
+    "sun-moon-melemele": 95,
+    "sun-moon-poni": 45,
+    "ultra-sun-ultra-moon": 117,
+    "ultra-sun-ultra-moon-melemele": 117,
+    "ultra-sun-ultra-moon-poni": 57,
+    "lets-go-pikachu-eevee": 66,
+    "sword-shield": 138,
+    "legends-arceus": 154
   },
   "type": {
     "one": "Fighting"

@@ -12,8 +12,11 @@
     "french": "Kravarech"
   },
   "pokedexNumber": {
-    "scarlet-violet": 338,
-    "isle-of-armor": 195
+    "x-y-coastal": 31,
+    "ultra-sun-ultra-moon": 348,
+    "ultra-sun-ultra-moon-poni": 95,
+    "isle-of-armor": 195,
+    "scarlet-violet": 338
   },
   "type": {
     "one": "Poison",

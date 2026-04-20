@@ -12,9 +12,10 @@
     "french": "Chapotus"
   },
   "pokedexNumber": {
-    "scarlet-violet": 283,
     "sword-shield": 242,
-    "crown-tundra": 41
+    "crown-tundra": 41,
+    "scarlet-violet": 283,
+    "the-teal-mask": 93
   },
   "type": {
     "one": "Psychic"

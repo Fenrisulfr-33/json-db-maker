@@ -12,7 +12,12 @@
     "french": "Archéduc"
   },
   "pokedexNumber": {
-    "legends-arceus": 3
+    "sun-moon": 3,
+    "sun-moon-melemele": 3,
+    "ultra-sun-ultra-moon": 3,
+    "ultra-sun-ultra-moon-melemele": 3,
+    "legends-arceus": 3,
+    "the-indigo-disk": 220
   },
   "type": {
     "one": "Grass",

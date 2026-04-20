@@ -12,7 +12,16 @@
     "french": "Métalosse"
   },
   "pokedexNumber": {
-    "crown-tundra": 131
+    "ruby-sapphire": 192,
+    "emerald": 192,
+    "black-2-white-2": 264,
+    "omega-ruby-alpha-sapphire": 201,
+    "sun-moon": 216,
+    "sun-moon-ulaula": 88,
+    "ultra-sun-ultra-moon": 280,
+    "ultra-sun-ultra-moon-ulaula": 101,
+    "crown-tundra": 131,
+    "the-indigo-disk": 139
   },
   "type": {
     "one": "Steel",

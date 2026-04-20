@@ -11,7 +11,10 @@
     "german": "Zekrom",
     "french": "Zekrom"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 150,
+    "black-2-white-2": 296
+  },
   "type": {
     "one": "Dragon",
     "two": "Electric"

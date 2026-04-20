@@ -12,11 +12,15 @@
     "french": "Nidoran♂"
   },
   "pokedexNumber": {
-    "crown-tundra": 68,
-    "crystal": 98,
-    "gold-silver": 98,
+    "red-blue": 32,
     "yellow": 32,
-    "red-blue": 32
+    "gold-silver": 98,
+    "crystal": 98,
+    "firered-leafgreen": 32,
+    "heartgold-soulsilver": 98,
+    "x-y-coastal": 107,
+    "lets-go-pikachu-eevee": 32,
+    "crown-tundra": 68
   },
   "type": {
     "one": "Poison"

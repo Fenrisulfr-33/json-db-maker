@@ -11,7 +11,15 @@
     "german": "Aalabyss",
     "french": "Serpang"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 177,
+    "emerald": 177,
+    "x-y-coastal": 142,
+    "omega-ruby-alpha-sapphire": 186,
+    "ultra-sun-ultra-moon": 141,
+    "ultra-sun-ultra-moon-melemele": 141,
+    "ultra-sun-ultra-moon-ulaula": 62
+  },
   "type": {
     "one": "Water"
   },

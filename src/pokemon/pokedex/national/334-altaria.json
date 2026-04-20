@@ -12,8 +12,15 @@
     "french": "Altaria"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 122,
+    "emerald": 122,
+    "platinum": 172,
+    "black-2-white-2": 247,
+    "x-y-mountain": 140,
+    "omega-ruby-alpha-sapphire": 127,
+    "crown-tundra": 36,
     "scarlet-violet": 220,
-    "crown-tundra": 36
+    "the-indigo-disk": 115
   },
   "type": {
     "one": "Dragon",

@@ -12,9 +12,14 @@
     "french": "Denticrisse"
   },
   "pokedexNumber": {
-    "scarlet-violet": 239,
+    "sun-moon": 242,
+    "sun-moon-ulaula": 114,
+    "ultra-sun-ultra-moon": 315,
+    "ultra-sun-ultra-moon-ulaula": 136,
     "sword-shield": 301,
-    "crown-tundra": 46
+    "crown-tundra": 46,
+    "scarlet-violet": 239,
+    "the-teal-mask": 189
   },
   "type": {
     "one": "Ghost",

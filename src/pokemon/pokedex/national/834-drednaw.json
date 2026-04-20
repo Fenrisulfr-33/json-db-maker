@@ -12,9 +12,10 @@
     "french": "Torgamord"
   },
   "pokedexNumber": {
-    "scarlet-violet": 58,
     "sword-shield": 43,
-    "isle-of-armor": 57
+    "isle-of-armor": 57,
+    "scarlet-violet": 58,
+    "the-teal-mask": 184
   },
   "type": {
     "one": "Water",

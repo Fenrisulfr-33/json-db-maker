@@ -60,5 +60,8 @@
         "desc": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 378
   }
 }

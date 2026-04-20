@@ -12,8 +12,12 @@
     "french": "Méios"
   },
   "pokedexNumber": {
+    "black-white": 84,
+    "black-2-white-2": 140,
+    "x-y-coastal": 116,
     "sword-shield": 271,
-    "crown-tundra": 55
+    "crown-tundra": 55,
+    "the-indigo-disk": 149
   },
   "type": {
     "one": "Psychic"

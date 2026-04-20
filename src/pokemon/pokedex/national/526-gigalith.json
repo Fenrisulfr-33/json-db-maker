@@ -12,6 +12,15 @@
     "french": "Gigalithe"
   },
   "pokedexNumber": {
+    "black-white": 32,
+    "black-2-white-2": 70,
+    "x-y-coastal": 122,
+    "sun-moon": 100,
+    "sun-moon-melemele": 100,
+    "sun-moon-poni": 50,
+    "ultra-sun-ultra-moon": 122,
+    "ultra-sun-ultra-moon-melemele": 122,
+    "ultra-sun-ultra-moon-poni": 62,
     "sword-shield": 170,
     "isle-of-armor": 156
   },

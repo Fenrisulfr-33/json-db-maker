@@ -12,10 +12,16 @@
     "french": "Kirlia"
   },
   "pokedexNumber": {
-    "scarlet-violet": 63,
-    "legends-arceus": 102,
+    "ruby-sapphire": 30,
+    "emerald": 30,
+    "platinum": 158,
+    "x-y-central": 65,
+    "omega-ruby-alpha-sapphire": 30,
     "sword-shield": 121,
-    "isle-of-armor": 35
+    "isle-of-armor": 35,
+    "legends-arceus": 102,
+    "scarlet-violet": 63,
+    "the-teal-mask": 58
   },
   "type": {
     "one": "Psychic",

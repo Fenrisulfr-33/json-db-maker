@@ -12,7 +12,10 @@
     "french": "Linéon"
   },
   "pokedexNumber": {
-    "sword-shield": 32
+    "ruby-sapphire": 13,
+    "emerald": 13,
+    "x-y-central": 13,
+    "omega-ruby-alpha-sapphire": 13
   },
   "type": {
     "one": "Normal"

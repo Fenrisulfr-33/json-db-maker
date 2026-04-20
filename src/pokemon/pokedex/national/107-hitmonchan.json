@@ -12,11 +12,15 @@
     "french": "Tygnon"
   },
   "pokedexNumber": {
-    "sword-shield": 109,
-    "crystal": 147,
-    "gold-silver": 147,
+    "red-blue": 107,
     "yellow": 107,
-    "red-blue": 107
+    "gold-silver": 145,
+    "crystal": 145,
+    "firered-leafgreen": 107,
+    "heartgold-soulsilver": 147,
+    "lets-go-pikachu-eevee": 107,
+    "sword-shield": 109,
+    "the-indigo-disk": 94
   },
   "type": {
     "one": "Fighting"

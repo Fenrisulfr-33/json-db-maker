@@ -12,9 +12,13 @@
     "french": "Donphan"
   },
   "pokedexNumber": {
-    "scarlet-violet": 123,
-    "crystal": 201,
-    "gold-silver": 201
+    "gold-silver": 196,
+    "crystal": 196,
+    "ruby-sapphire": 166,
+    "emerald": 166,
+    "heartgold-soulsilver": 201,
+    "omega-ruby-alpha-sapphire": 173,
+    "scarlet-violet": 123
   },
   "type": {
     "one": "Ground"

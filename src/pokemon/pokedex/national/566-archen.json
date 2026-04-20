@@ -12,6 +12,12 @@
     "french": "Arkéapti"
   },
   "pokedexNumber": {
+    "black-white": 72,
+    "black-2-white-2": 128,
+    "sun-moon": 192,
+    "sun-moon-akala": 119,
+    "ultra-sun-ultra-moon": 239,
+    "ultra-sun-ultra-moon-akala": 140,
     "crown-tundra": 149
   },
   "type": {

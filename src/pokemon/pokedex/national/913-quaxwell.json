@@ -63,5 +63,8 @@
         "desc": "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 8
   }
 }

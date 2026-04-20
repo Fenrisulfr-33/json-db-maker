@@ -64,5 +64,8 @@
         "desc": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 15
   }
 }

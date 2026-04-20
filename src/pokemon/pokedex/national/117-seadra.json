@@ -12,11 +12,19 @@
     "french": "Hypocéan"
   },
   "pokedexNumber": {
-    "isle-of-armor": 199,
-    "crystal": 191,
-    "gold-silver": 191,
+    "red-blue": 117,
     "yellow": 117,
-    "red-blue": 117
+    "gold-silver": 187,
+    "crystal": 187,
+    "ruby-sapphire": 185,
+    "emerald": 185,
+    "firered-leafgreen": 117,
+    "heartgold-soulsilver": 191,
+    "x-y-coastal": 40,
+    "omega-ruby-alpha-sapphire": 194,
+    "lets-go-pikachu-eevee": 117,
+    "isle-of-armor": 199,
+    "the-indigo-disk": 53
   },
   "type": {
     "one": "Water"

@@ -79,5 +79,9 @@
         "desc": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 35,
+    "crown-tundra": 4
   }
 }

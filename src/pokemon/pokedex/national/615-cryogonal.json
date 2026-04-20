@@ -12,8 +12,11 @@
     "french": "Hexagel"
   },
   "pokedexNumber": {
-    "scarlet-violet": 360,
-    "crown-tundra": 30
+    "black-white": 121,
+    "black-2-white-2": 197,
+    "x-y-mountain": 111,
+    "crown-tundra": 30,
+    "scarlet-violet": 360
   },
   "type": {
     "one": "Ice"

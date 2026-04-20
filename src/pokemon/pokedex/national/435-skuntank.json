@@ -12,9 +12,12 @@
     "french": "Moufflair"
   },
   "pokedexNumber": {
-    "scarlet-violet": 227,
+    "diamond-pearl": 85,
+    "platinum": 85,
+    "x-y-coastal": 103,
+    "sword-shield": 131,
     "legends-arceus": 111,
-    "sword-shield": 131
+    "scarlet-violet": 227
   },
   "type": {
     "one": "Poison",

@@ -12,8 +12,16 @@
     "french": "Écrapince"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 129,
+    "emerald": 129,
+    "black-2-white-2": 279,
+    "x-y-central": 51,
+    "omega-ruby-alpha-sapphire": 134,
+    "ultra-sun-ultra-moon": 357,
+    "ultra-sun-ultra-moon-poni": 104,
     "sword-shield": 102,
-    "isle-of-armor": 91
+    "isle-of-armor": 91,
+    "the-teal-mask": 11
   },
   "type": {
     "one": "Water"

@@ -12,11 +12,15 @@
     "french": "Nidoqueen"
   },
   "pokedexNumber": {
-    "crown-tundra": 67,
-    "crystal": 97,
-    "gold-silver": 97,
+    "red-blue": 31,
     "yellow": 31,
-    "red-blue": 31
+    "gold-silver": 97,
+    "crystal": 97,
+    "firered-leafgreen": 31,
+    "heartgold-soulsilver": 97,
+    "x-y-coastal": 106,
+    "lets-go-pikachu-eevee": 31,
+    "crown-tundra": 67
   },
   "type": {
     "one": "Poison",

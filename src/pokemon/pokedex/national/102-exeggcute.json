@@ -12,11 +12,20 @@
     "french": "Noeunoeuf"
   },
   "pokedexNumber": {
-    "isle-of-armor": 205,
-    "crystal": 105,
-    "gold-silver": 105,
+    "red-blue": 102,
     "yellow": 102,
-    "red-blue": 102
+    "gold-silver": 104,
+    "crystal": 104,
+    "firered-leafgreen": 102,
+    "heartgold-soulsilver": 105,
+    "x-y-coastal": 136,
+    "sun-moon": 269,
+    "sun-moon-poni": 84,
+    "ultra-sun-ultra-moon": 355,
+    "ultra-sun-ultra-moon-poni": 102,
+    "lets-go-pikachu-eevee": 102,
+    "isle-of-armor": 205,
+    "the-indigo-disk": 3
   },
   "type": {
     "one": "Grass",

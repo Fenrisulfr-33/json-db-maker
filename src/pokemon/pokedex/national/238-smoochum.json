@@ -12,9 +12,13 @@
     "french": "Lippouti"
   },
   "pokedexNumber": {
-    "crown-tundra": 13,
-    "crystal": 154,
-    "gold-silver": 154
+    "gold-silver": 152,
+    "crystal": 152,
+    "heartgold-soulsilver": 154,
+    "x-y-mountain": 83,
+    "ultra-sun-ultra-moon": 109,
+    "ultra-sun-ultra-moon-melemele": 109,
+    "crown-tundra": 13
   },
   "type": {
     "one": "Ice",

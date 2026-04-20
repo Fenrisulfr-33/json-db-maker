@@ -11,7 +11,12 @@
     "german": "Swaroness",
     "french": "Lakmécygne"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 87,
+    "black-2-white-2": 154,
+    "x-y-central": 128,
+    "the-teal-mask": 182
+  },
   "type": {
     "one": "Water",
     "two": "Flying"

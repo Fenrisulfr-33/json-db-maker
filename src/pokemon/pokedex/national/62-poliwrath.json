@@ -12,11 +12,22 @@
     "french": "Tartard"
   },
   "pokedexNumber": {
-    "isle-of-armor": 144,
-    "crystal": 74,
-    "gold-silver": 74,
+    "red-blue": 62,
     "yellow": 62,
-    "red-blue": 62
+    "gold-silver": 74,
+    "crystal": 74,
+    "firered-leafgreen": 62,
+    "heartgold-soulsilver": 74,
+    "x-y-mountain": 35,
+    "sun-moon": 151,
+    "sun-moon-akala": 78,
+    "sun-moon-ulaula": 70,
+    "ultra-sun-ultra-moon": 184,
+    "ultra-sun-ultra-moon-akala": 85,
+    "ultra-sun-ultra-moon-ulaula": 76,
+    "lets-go-pikachu-eevee": 62,
+    "isle-of-armor": 144,
+    "the-teal-mask": 41
   },
   "type": {
     "one": "Water",

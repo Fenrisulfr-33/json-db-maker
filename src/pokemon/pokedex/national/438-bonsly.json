@@ -12,9 +12,19 @@
     "french": "Manzaï"
   },
   "pokedexNumber": {
-    "scarlet-violet": 87,
+    "diamond-pearl": 92,
+    "platinum": 92,
+    "x-y-mountain": 129,
+    "sun-moon": 30,
+    "sun-moon-melemele": 30,
+    "sun-moon-akala": 14,
+    "ultra-sun-ultra-moon": 37,
+    "ultra-sun-ultra-moon-melemele": 37,
+    "ultra-sun-ultra-moon-akala": 14,
+    "sword-shield": 252,
     "legends-arceus": 123,
-    "sword-shield": 252
+    "scarlet-violet": 87,
+    "the-teal-mask": 83
   },
   "type": {
     "one": "Rock"

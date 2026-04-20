@@ -12,11 +12,16 @@
     "french": "Marcacrin"
   },
   "pokedexNumber": {
-    "legends-arceus": 212,
+    "gold-silver": 191,
+    "crystal": 191,
+    "platinum": 203,
+    "heartgold-soulsilver": 195,
+    "black-2-white-2": 258,
+    "x-y-mountain": 76,
     "sword-shield": 75,
     "crown-tundra": 7,
-    "crystal": 195,
-    "gold-silver": 195
+    "legends-arceus": 212,
+    "the-teal-mask": 50
   },
   "type": {
     "one": "Ice",

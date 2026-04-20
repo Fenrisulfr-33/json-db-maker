@@ -12,9 +12,10 @@
     "french": "Angoliath"
   },
   "pokedexNumber": {
-    "scarlet-violet": 287,
     "sword-shield": 240,
-    "crown-tundra": 39
+    "crown-tundra": 39,
+    "scarlet-violet": 287,
+    "the-teal-mask": 192
   },
   "type": {
     "one": "Dark",

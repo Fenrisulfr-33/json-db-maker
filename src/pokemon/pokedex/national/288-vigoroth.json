@@ -12,7 +12,12 @@
     "french": "Vigoroth"
   },
   "pokedexNumber": {
-    "scarlet-violet": 79
+    "ruby-sapphire": 37,
+    "emerald": 37,
+    "black-2-white-2": 277,
+    "omega-ruby-alpha-sapphire": 38,
+    "scarlet-violet": 79,
+    "the-indigo-disk": 60
   },
   "type": {
     "one": "Normal"

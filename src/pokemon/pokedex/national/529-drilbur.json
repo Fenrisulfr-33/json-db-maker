@@ -12,7 +12,10 @@
     "french": "Rototaupe"
   },
   "pokedexNumber": {
-    "sword-shield": 166
+    "black-white": 35,
+    "black-2-white-2": 76,
+    "sword-shield": 166,
+    "the-indigo-disk": 99
   },
   "type": {
     "one": "Ground"

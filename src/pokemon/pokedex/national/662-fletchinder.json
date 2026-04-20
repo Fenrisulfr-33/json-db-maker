@@ -12,8 +12,14 @@
     "french": "Braisillon"
   },
   "pokedexNumber": {
+    "x-y-central": 15,
+    "sun-moon": 159,
+    "sun-moon-akala": 86,
+    "ultra-sun-ultra-moon": 193,
+    "ultra-sun-ultra-moon-akala": 94,
+    "isle-of-armor": 23,
     "scarlet-violet": 20,
-    "isle-of-armor": 23
+    "the-indigo-disk": 88
   },
   "type": {
     "one": "Fire",

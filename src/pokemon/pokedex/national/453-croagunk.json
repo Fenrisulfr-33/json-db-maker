@@ -12,10 +12,14 @@
     "french": "Cradopaud"
   },
   "pokedexNumber": {
-    "scarlet-violet": 175,
-    "legends-arceus": 99,
+    "diamond-pearl": 129,
+    "platinum": 129,
+    "black-2-white-2": 290,
+    "x-y-central": 125,
     "sword-shield": 222,
-    "isle-of-armor": 93
+    "isle-of-armor": 82,
+    "legends-arceus": 99,
+    "scarlet-violet": 175
   },
   "type": {
     "one": "Poison",

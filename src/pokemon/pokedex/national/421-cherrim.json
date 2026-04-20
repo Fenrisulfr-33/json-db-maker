@@ -12,8 +12,10 @@
     "french": "Ceriflor"
   },
   "pokedexNumber": {
-    "legends-arceus": 67,
-    "sword-shield": 129
+    "diamond-pearl": 59,
+    "platinum": 59,
+    "sword-shield": 129,
+    "legends-arceus": 67
   },
   "type": {
     "one": "Grass"

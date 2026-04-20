@@ -12,12 +12,21 @@
     "french": "Goupix"
   },
   "pokedexNumber": {
-    "legends-arceus": 168,
-    "sword-shield": 68,
-    "crystal": 127,
-    "gold-silver": 127,
+    "red-blue": 37,
     "yellow": 37,
-    "red-blue": 37
+    "gold-silver": 125,
+    "crystal": 125,
+    "ruby-sapphire": 153,
+    "emerald": 153,
+    "firered-leafgreen": 37,
+    "heartgold-soulsilver": 127,
+    "black-2-white-2": 248,
+    "omega-ruby-alpha-sapphire": 160,
+    "ultra-sun-ultra-moon": 330,
+    "lets-go-pikachu-eevee": 37,
+    "sword-shield": 68,
+    "legends-arceus": 168,
+    "the-teal-mask": 37
   },
   "type": {
     "one": "Fire"

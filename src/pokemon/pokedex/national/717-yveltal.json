@@ -11,7 +11,9 @@
     "german": "Yveltal",
     "french": "Yveltal"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-mountain": 149
+  },
   "type": {
     "one": "Dark",
     "two": "Flying"

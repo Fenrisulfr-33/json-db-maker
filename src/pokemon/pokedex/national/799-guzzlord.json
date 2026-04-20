@@ -11,7 +11,10 @@
     "german": "Schlingking",
     "french": "Engloutyran"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 299,
+    "ultra-sun-ultra-moon": 399
+  },
   "type": {
     "one": "Dark",
     "two": "Dragon"

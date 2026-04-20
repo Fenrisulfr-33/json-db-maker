@@ -12,10 +12,17 @@
     "french": "Lamantine"
   },
   "pokedexNumber": {
-    "crystal": 179,
-    "gold-silver": 179,
+    "red-blue": 87,
     "yellow": 87,
-    "red-blue": 87
+    "gold-silver": 177,
+    "crystal": 177,
+    "firered-leafgreen": 87,
+    "heartgold-soulsilver": 179,
+    "black-2-white-2": 266,
+    "ultra-sun-ultra-moon": 116,
+    "ultra-sun-ultra-moon-melemele": 116,
+    "lets-go-pikachu-eevee": 87,
+    "the-indigo-disk": 144
   },
   "type": {
     "one": "Water",

@@ -12,7 +12,15 @@
     "french": "Strassie"
   },
   "pokedexNumber": {
-    "crown-tundra": 128
+    "x-y-coastal": 124,
+    "sun-moon": 101,
+    "sun-moon-melemele": 101,
+    "sun-moon-poni": 51,
+    "ultra-sun-ultra-moon": 123,
+    "ultra-sun-ultra-moon-melemele": 123,
+    "ultra-sun-ultra-moon-poni": 63,
+    "crown-tundra": 128,
+    "the-teal-mask": 167
   },
   "type": {
     "one": "Rock",

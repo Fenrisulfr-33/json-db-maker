@@ -11,7 +11,10 @@
     "german": "Lunala",
     "french": "Lunala"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 292,
+    "ultra-sun-ultra-moon": 390
+  },
   "type": {
     "one": "Psychic",
     "two": "Ghost"

@@ -12,7 +12,17 @@
     "french": "Vibraninf"
   },
   "pokedexNumber": {
-    "sword-shield": 322
+    "ruby-sapphire": 117,
+    "emerald": 117,
+    "black-2-white-2": 122,
+    "x-y-mountain": 4,
+    "omega-ruby-alpha-sapphire": 122,
+    "sun-moon": 236,
+    "sun-moon-ulaula": 108,
+    "ultra-sun-ultra-moon": 305,
+    "ultra-sun-ultra-moon-ulaula": 126,
+    "sword-shield": 322,
+    "the-indigo-disk": 45
   },
   "type": {
     "one": "Ground",

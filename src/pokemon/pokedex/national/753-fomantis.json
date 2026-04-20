@@ -12,8 +12,13 @@
     "french": "Mimantis"
   },
   "pokedexNumber": {
+    "sun-moon": 143,
+    "sun-moon-akala": 70,
+    "ultra-sun-ultra-moon": 176,
+    "ultra-sun-ultra-moon-akala": 77,
+    "isle-of-armor": 17,
     "scarlet-violet": 247,
-    "isle-of-armor": 17
+    "the-teal-mask": 31
   },
   "type": {
     "one": "Grass"

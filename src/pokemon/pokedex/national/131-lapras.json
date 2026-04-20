@@ -12,12 +12,22 @@
     "french": "Lokhlass"
   },
   "pokedexNumber": {
+    "red-blue": 131,
+    "yellow": 131,
+    "gold-silver": 219,
+    "crystal": 219,
+    "firered-leafgreen": 131,
+    "heartgold-soulsilver": 224,
+    "black-2-white-2": 242,
+    "x-y-coastal": 150,
+    "sun-moon": 268,
+    "sun-moon-poni": 83,
+    "ultra-sun-ultra-moon": 353,
+    "ultra-sun-ultra-moon-poni": 100,
+    "lets-go-pikachu-eevee": 131,
     "sword-shield": 361,
     "crown-tundra": 190,
-    "crystal": 224,
-    "gold-silver": 224,
-    "yellow": 131,
-    "red-blue": 131
+    "the-indigo-disk": 145
   },
   "type": {
     "one": "Water",

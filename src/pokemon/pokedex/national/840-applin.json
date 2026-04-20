@@ -12,9 +12,10 @@
     "french": "Verpom"
   },
   "pokedexNumber": {
-    "scarlet-violet": 108,
     "sword-shield": 205,
-    "isle-of-armor": 19
+    "isle-of-armor": 19,
+    "scarlet-violet": 108,
+    "the-teal-mask": 33
   },
   "type": {
     "one": "Grass",

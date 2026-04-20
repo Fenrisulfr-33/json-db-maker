@@ -12,12 +12,21 @@
     "french": "Triopikeur"
   },
   "pokedexNumber": {
-    "scarlet-violet": 149,
-    "sword-shield": 165,
-    "crystal": 135,
-    "gold-silver": 135,
+    "red-blue": 51,
     "yellow": 51,
-    "red-blue": 51
+    "gold-silver": 133,
+    "crystal": 133,
+    "firered-leafgreen": 51,
+    "heartgold-soulsilver": 135,
+    "x-y-mountain": 2,
+    "sun-moon-ulaula": 39,
+    "sun-moon-poni": 23,
+    "ultra-sun-ultra-moon-melemele": 86,
+    "ultra-sun-ultra-moon-akala": 30,
+    "ultra-sun-ultra-moon-poni": 32,
+    "lets-go-pikachu-eevee": 51,
+    "sword-shield": 165,
+    "scarlet-violet": 149
   },
   "type": {
     "one": "Ground"

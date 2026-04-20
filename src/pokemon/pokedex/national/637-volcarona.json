@@ -12,8 +12,12 @@
     "french": "Pyrax"
   },
   "pokedexNumber": {
-    "scarlet-violet": 275,
-    "isle-of-armor": 187
+    "black-white": 143,
+    "black-2-white-2": 172,
+    "ultra-sun-ultra-moon": 204,
+    "ultra-sun-ultra-moon-akala": 105,
+    "isle-of-armor": 187,
+    "scarlet-violet": 275
   },
   "type": {
     "one": "Bug",

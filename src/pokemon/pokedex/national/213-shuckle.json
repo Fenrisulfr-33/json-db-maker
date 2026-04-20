@@ -12,10 +12,13 @@
     "french": "Caratroc"
   },
   "pokedexNumber": {
+    "gold-silver": 166,
+    "crystal": 166,
+    "heartgold-soulsilver": 168,
+    "black-2-white-2": 232,
+    "x-y-mountain": 14,
     "sword-shield": 227,
-    "crown-tundra": 170,
-    "crystal": 168,
-    "gold-silver": 168
+    "crown-tundra": 170
   },
   "type": {
     "one": "Bug",

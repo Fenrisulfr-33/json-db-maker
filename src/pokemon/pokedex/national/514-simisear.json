@@ -11,7 +11,11 @@
     "german": "Grillchita",
     "french": "Flamoutan"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 20,
+    "black-2-white-2": 40,
+    "x-y-central": 32
+  },
   "type": {
     "one": "Fire"
   },

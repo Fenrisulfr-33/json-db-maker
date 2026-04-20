@@ -12,7 +12,13 @@
     "french": "Kungfouine"
   },
   "pokedexNumber": {
-    "isle-of-armor": 163
+    "black-white": 125,
+    "black-2-white-2": 219,
+    "x-y-coastal": 3,
+    "ultra-sun-ultra-moon": 359,
+    "ultra-sun-ultra-moon-poni": 106,
+    "isle-of-armor": 163,
+    "the-teal-mask": 137
   },
   "type": {
     "one": "Fighting"

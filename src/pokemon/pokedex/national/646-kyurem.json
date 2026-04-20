@@ -11,7 +11,10 @@
     "german": "Kyurem",
     "french": "Kyurem"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 152,
+    "black-2-white-2": 297
+  },
   "type": {
     "one": "Dragon",
     "two": "Ice"

@@ -12,13 +12,23 @@
     "french": "Insécateur"
   },
   "pokedexNumber": {
-    "scarlet-violet": 260,
-    "legends-arceus": 72,
-    "isle-of-armor": 118,
-    "crystal": 111,
-    "gold-silver": 111,
+    "red-blue": 123,
     "yellow": 123,
-    "red-blue": 123
+    "gold-silver": 110,
+    "crystal": 110,
+    "firered-leafgreen": 123,
+    "platinum": 195,
+    "heartgold-soulsilver": 111,
+    "x-y-mountain": 136,
+    "sun-moon": 275,
+    "sun-moon-poni": 90,
+    "ultra-sun-ultra-moon": 365,
+    "ultra-sun-ultra-moon-poni": 112,
+    "lets-go-pikachu-eevee": 123,
+    "isle-of-armor": 118,
+    "legends-arceus": 72,
+    "scarlet-violet": 260,
+    "the-indigo-disk": 19
   },
   "type": {
     "one": "Bug",

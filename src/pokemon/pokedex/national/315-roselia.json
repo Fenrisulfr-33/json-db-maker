@@ -12,8 +12,15 @@
     "french": "Rosélia"
   },
   "pokedexNumber": {
-    "legends-arceus": 90,
-    "sword-shield": 60
+    "ruby-sapphire": 94,
+    "emerald": 94,
+    "diamond-pearl": 26,
+    "platinum": 26,
+    "black-2-white-2": 134,
+    "x-y-central": 72,
+    "omega-ruby-alpha-sapphire": 98,
+    "sword-shield": 60,
+    "legends-arceus": 90
   },
   "type": {
     "one": "Grass",

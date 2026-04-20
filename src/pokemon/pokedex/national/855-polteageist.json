@@ -12,9 +12,10 @@
     "french": "Polthégeist"
   },
   "pokedexNumber": {
-    "scarlet-violet": 238,
     "sword-shield": 336,
-    "crown-tundra": 133
+    "crown-tundra": 133,
+    "scarlet-violet": 238,
+    "the-indigo-disk": 128
   },
   "type": {
     "one": "Ghost"

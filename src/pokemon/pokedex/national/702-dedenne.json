@@ -12,8 +12,11 @@
     "french": "DEDENNE"
   },
   "pokedexNumber": {
-    "scarlet-violet": 200,
-    "isle-of-armor": 103
+    "x-y-coastal": 110,
+    "ultra-sun-ultra-moon": 291,
+    "ultra-sun-ultra-moon-ulaula": 112,
+    "isle-of-armor": 103,
+    "scarlet-violet": 200
   },
   "type": {
     "one": "Electric",

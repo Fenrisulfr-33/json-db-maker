@@ -12,9 +12,14 @@
     "french": "Scorplane"
   },
   "pokedexNumber": {
+    "gold-silver": 189,
+    "crystal": 189,
+    "platinum": 153,
+    "heartgold-soulsilver": 193,
+    "black-2-white-2": 221,
+    "x-y-mountain": 115,
     "legends-arceus": 185,
-    "crystal": 193,
-    "gold-silver": 193
+    "the-teal-mask": 121
   },
   "type": {
     "one": "Ground",

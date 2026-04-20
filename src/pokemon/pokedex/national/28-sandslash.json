@@ -12,11 +12,21 @@
     "french": "Sablaireau"
   },
   "pokedexNumber": {
-    "isle-of-armor": 169,
-    "crystal": 49,
-    "gold-silver": 49,
+    "red-blue": 28,
     "yellow": 28,
-    "red-blue": 28
+    "gold-silver": 49,
+    "crystal": 49,
+    "ruby-sapphire": 113,
+    "emerald": 113,
+    "firered-leafgreen": 28,
+    "heartgold-soulsilver": 49,
+    "black-2-white-2": 114,
+    "x-y-mountain": 98,
+    "omega-ruby-alpha-sapphire": 118,
+    "ultra-sun-ultra-moon": 329,
+    "lets-go-pikachu-eevee": 28,
+    "isle-of-armor": 169,
+    "the-teal-mask": 117
   },
   "type": {
     "one": "Ground"

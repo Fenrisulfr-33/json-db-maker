@@ -12,9 +12,13 @@
     "french": "Polagriffe"
   },
   "pokedexNumber": {
-    "scarlet-violet": 356,
+    "black-white": 120,
+    "black-2-white-2": 196,
+    "x-y-mountain": 82,
     "sword-shield": 280,
-    "crown-tundra": 122
+    "crown-tundra": 122,
+    "scarlet-violet": 356,
+    "the-indigo-disk": 154
   },
   "type": {
     "one": "Ice"

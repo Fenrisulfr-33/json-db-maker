@@ -12,9 +12,20 @@
     "french": "Fragilady"
   },
   "pokedexNumber": {
-    "scarlet-violet": 105,
+    "black-white": 55,
+    "black-2-white-2": 85,
+    "sun-moon": 86,
+    "sun-moon-melemele": 86,
+    "sun-moon-ulaula": 46,
+    "sun-moon-poni": 36,
+    "ultra-sun-ultra-moon": 104,
+    "ultra-sun-ultra-moon-melemele": 104,
+    "ultra-sun-ultra-moon-ulaula": 49,
+    "ultra-sun-ultra-moon-poni": 48,
+    "isle-of-armor": 202,
     "legends-arceus": 94,
-    "isle-of-armor": 202
+    "scarlet-violet": 105,
+    "the-teal-mask": 67
   },
   "type": {
     "one": "Grass"

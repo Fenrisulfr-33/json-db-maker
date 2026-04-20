@@ -12,9 +12,12 @@
     "french": "Lixy"
   },
   "pokedexNumber": {
-    "scarlet-violet": 94,
+    "diamond-pearl": 17,
+    "platinum": 17,
+    "isle-of-armor": 25,
     "legends-arceus": 15,
-    "isle-of-armor": 25
+    "scarlet-violet": 94,
+    "the-teal-mask": 109
   },
   "type": {
     "one": "Electric"

@@ -12,12 +12,19 @@
     "french": "M. Mime"
   },
   "pokedexNumber": {
-    "legends-arceus": 77,
-    "sword-shield": 365,
-    "crystal": 158,
-    "gold-silver": 158,
+    "red-blue": 122,
     "yellow": 122,
-    "red-blue": 122
+    "gold-silver": 156,
+    "crystal": 156,
+    "firered-leafgreen": 122,
+    "diamond-pearl": 95,
+    "platinum": 95,
+    "heartgold-soulsilver": 158,
+    "x-y-coastal": 114,
+    "ultra-sun-ultra-moon": 60,
+    "ultra-sun-ultra-moon-melemele": 60,
+    "lets-go-pikachu-eevee": 122,
+    "legends-arceus": 77
   },
   "type": {
     "one": "Psychic",

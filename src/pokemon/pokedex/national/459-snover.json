@@ -12,10 +12,14 @@
     "french": "Blizzi"
   },
   "pokedexNumber": {
-    "scarlet-violet": 352,
-    "legends-arceus": 217,
+    "diamond-pearl": 142,
+    "platinum": 142,
+    "x-y-mountain": 88,
     "sword-shield": 96,
-    "crown-tundra": 31
+    "crown-tundra": 31,
+    "legends-arceus": 217,
+    "scarlet-violet": 352,
+    "the-indigo-disk": 159
   },
   "type": {
     "one": "Grass",

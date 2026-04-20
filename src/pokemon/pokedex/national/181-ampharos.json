@@ -12,9 +12,14 @@
     "french": "Pharamp"
   },
   "pokedexNumber": {
-    "scarlet-violet": 103,
+    "gold-silver": 55,
     "crystal": 55,
-    "gold-silver": 55
+    "heartgold-soulsilver": 55,
+    "black-2-white-2": 27,
+    "x-y-coastal": 129,
+    "ultra-sun-ultra-moon": 164,
+    "ultra-sun-ultra-moon-akala": 65,
+    "scarlet-violet": 103
   },
   "type": {
     "one": "Electric"

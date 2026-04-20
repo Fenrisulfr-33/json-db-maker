@@ -11,7 +11,12 @@
     "german": "Schwalbini",
     "french": "Nirondelle"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 25,
+    "emerald": 25,
+    "x-y-coastal": 19,
+    "omega-ruby-alpha-sapphire": 25
+  },
   "type": {
     "one": "Normal",
     "two": "Flying"

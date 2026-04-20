@@ -12,9 +12,13 @@
     "french": "Phanpy"
   },
   "pokedexNumber": {
-    "scarlet-violet": 122,
-    "crystal": 200,
-    "gold-silver": 200
+    "gold-silver": 195,
+    "crystal": 195,
+    "ruby-sapphire": 165,
+    "emerald": 165,
+    "heartgold-soulsilver": 200,
+    "omega-ruby-alpha-sapphire": 172,
+    "scarlet-violet": 122
   },
   "type": {
     "one": "Ground"

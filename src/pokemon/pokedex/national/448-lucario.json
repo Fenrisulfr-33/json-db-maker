@@ -12,10 +12,19 @@
     "french": "Lucario"
   },
   "pokedexNumber": {
-    "scarlet-violet": 164,
-    "legends-arceus": 224,
+    "diamond-pearl": 116,
+    "platinum": 116,
+    "black-2-white-2": 34,
+    "x-y-central": 63,
+    "sun-moon": 280,
+    "sun-moon-poni": 95,
+    "ultra-sun-ultra-moon": 378,
+    "ultra-sun-ultra-moon-poni": 125,
     "sword-shield": 299,
-    "crown-tundra": 135
+    "crown-tundra": 135,
+    "legends-arceus": 224,
+    "scarlet-violet": 164,
+    "the-teal-mask": 65
   },
   "type": {
     "one": "Fighting",

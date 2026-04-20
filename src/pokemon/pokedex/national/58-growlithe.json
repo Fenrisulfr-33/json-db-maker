@@ -12,13 +12,22 @@
     "french": "Caninos"
   },
   "pokedexNumber": {
-    "scarlet-violet": 213,
-    "legends-arceus": 150,
-    "sword-shield": 70,
-    "crystal": 129,
-    "gold-silver": 129,
+    "red-blue": 58,
     "yellow": 58,
-    "red-blue": 58
+    "gold-silver": 127,
+    "crystal": 127,
+    "firered-leafgreen": 58,
+    "heartgold-soulsilver": 129,
+    "black-2-white-2": 51,
+    "sun-moon": 52,
+    "sun-moon-melemele": 52,
+    "ultra-sun-ultra-moon": 64,
+    "ultra-sun-ultra-moon-melemele": 64,
+    "lets-go-pikachu-eevee": 58,
+    "sword-shield": 70,
+    "legends-arceus": 150,
+    "scarlet-violet": 213,
+    "the-teal-mask": 78
   },
   "type": {
     "one": "Fire"

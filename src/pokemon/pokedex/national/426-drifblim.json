@@ -12,10 +12,18 @@
     "french": "Grodrive"
   },
   "pokedexNumber": {
-    "scarlet-violet": 144,
-    "legends-arceus": 38,
+    "diamond-pearl": 66,
+    "platinum": 66,
+    "black-2-white-2": 209,
+    "x-y-coastal": 2,
+    "sun-moon": 65,
+    "sun-moon-melemele": 65,
+    "ultra-sun-ultra-moon": 77,
+    "ultra-sun-ultra-moon-melemele": 77,
     "sword-shield": 125,
-    "isle-of-armor": 136
+    "isle-of-armor": 136,
+    "legends-arceus": 38,
+    "scarlet-violet": 144
   },
   "type": {
     "one": "Ghost",

@@ -12,10 +12,15 @@
     "french": "Axoloto"
   },
   "pokedexNumber": {
+    "gold-silver": 56,
+    "crystal": 56,
+    "diamond-pearl": 117,
+    "platinum": 117,
+    "heartgold-soulsilver": 56,
+    "x-y-mountain": 17,
     "sword-shield": 100,
     "isle-of-armor": 58,
-    "crystal": 56,
-    "gold-silver": 56
+    "the-teal-mask": 5
   },
   "type": {
     "one": "Water",

@@ -12,13 +12,22 @@
     "french": "Rhinocorne"
   },
   "pokedexNumber": {
-    "legends-arceus": 120,
+    "red-blue": 111,
+    "yellow": 111,
+    "gold-silver": 206,
+    "crystal": 206,
+    "ruby-sapphire": 169,
+    "emerald": 169,
+    "firered-leafgreen": 111,
+    "platinum": 186,
+    "heartgold-soulsilver": 211,
+    "x-y-coastal": 50,
+    "omega-ruby-alpha-sapphire": 176,
+    "lets-go-pikachu-eevee": 111,
     "sword-shield": 264,
     "isle-of-armor": 183,
-    "crystal": 211,
-    "gold-silver": 211,
-    "yellow": 111,
-    "red-blue": 111
+    "legends-arceus": 120,
+    "the-indigo-disk": 5
   },
   "type": {
     "one": "Ground",

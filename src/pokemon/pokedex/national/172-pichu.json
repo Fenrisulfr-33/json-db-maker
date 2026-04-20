@@ -12,12 +12,24 @@
     "french": "Pichu"
   },
   "pokedexNumber": {
-    "scarlet-violet": 73,
-    "legends-arceus": 55,
+    "gold-silver": 21,
+    "crystal": 21,
+    "ruby-sapphire": 155,
+    "emerald": 155,
+    "diamond-pearl": 103,
+    "platinum": 103,
+    "heartgold-soulsilver": 21,
+    "x-y-central": 35,
+    "omega-ruby-alpha-sapphire": 162,
+    "sun-moon": 24,
+    "sun-moon-melemele": 24,
+    "ultra-sun-ultra-moon": 31,
+    "ultra-sun-ultra-moon-melemele": 31,
     "sword-shield": 193,
     "isle-of-armor": 84,
-    "crystal": 21,
-    "gold-silver": 21
+    "legends-arceus": 55,
+    "scarlet-violet": 73,
+    "the-teal-mask": 20
   },
   "type": {
     "one": "Electric"

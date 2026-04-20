@@ -68,5 +68,8 @@
         "desc": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 280
   }
 }

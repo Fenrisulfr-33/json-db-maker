@@ -12,8 +12,11 @@
     "french": "Gaulet"
   },
   "pokedexNumber": {
-    "scarlet-violet": 206,
-    "isle-of-armor": 78
+    "black-white": 97,
+    "black-2-white-2": 162,
+    "x-y-mountain": 54,
+    "isle-of-armor": 78,
+    "scarlet-violet": 206
   },
   "type": {
     "one": "Grass",

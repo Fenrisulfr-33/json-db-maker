@@ -11,7 +11,11 @@
     "german": "Ferkokel",
     "french": "Grotichon"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 5,
+    "black-2-white-2": 5,
+    "the-indigo-disk": 204
+  },
   "type": {
     "one": "Fire",
     "two": "Fighting"

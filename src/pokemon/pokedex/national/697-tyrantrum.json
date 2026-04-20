@@ -12,6 +12,9 @@
     "french": "Rexillius"
   },
   "pokedexNumber": {
+    "x-y-coastal": 65,
+    "ultra-sun-ultra-moon": 244,
+    "ultra-sun-ultra-moon-akala": 145,
     "crown-tundra": 84
   },
   "type": {

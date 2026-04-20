@@ -12,7 +12,10 @@
     "french": "Noctunoir"
   },
   "pokedexNumber": {
-    "legends-arceus": 160
+    "platinum": 191,
+    "omega-ruby-alpha-sapphire": 155,
+    "legends-arceus": 160,
+    "the-teal-mask": 141
   },
   "type": {
     "one": "Ghost"

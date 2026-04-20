@@ -12,12 +12,21 @@
     "french": "Porygon"
   },
   "pokedexNumber": {
-    "legends-arceus": 133,
-    "isle-of-armor": 208,
-    "crystal": 220,
-    "gold-silver": 220,
+    "red-blue": 137,
     "yellow": 137,
-    "red-blue": 137
+    "gold-silver": 215,
+    "crystal": 215,
+    "firered-leafgreen": 137,
+    "platinum": 192,
+    "heartgold-soulsilver": 220,
+    "sun-moon": 217,
+    "sun-moon-ulaula": 89,
+    "ultra-sun-ultra-moon": 281,
+    "ultra-sun-ultra-moon-ulaula": 102,
+    "lets-go-pikachu-eevee": 137,
+    "isle-of-armor": 208,
+    "legends-arceus": 133,
+    "the-indigo-disk": 129
   },
   "type": {
     "one": "Normal"

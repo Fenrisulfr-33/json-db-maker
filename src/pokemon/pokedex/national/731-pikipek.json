@@ -11,7 +11,19 @@
     "german": "Peppeck",
     "french": "Picassaut"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 10,
+    "sun-moon-melemele": 10,
+    "sun-moon-akala": 1,
+    "sun-moon-ulaula": 1,
+    "sun-moon-poni": 1,
+    "ultra-sun-ultra-moon": 10,
+    "ultra-sun-ultra-moon-melemele": 10,
+    "ultra-sun-ultra-moon-akala": 1,
+    "ultra-sun-ultra-moon-ulaula": 1,
+    "ultra-sun-ultra-moon-poni": 1,
+    "the-indigo-disk": 47
+  },
   "type": {
     "one": "Normal",
     "two": "Flying"

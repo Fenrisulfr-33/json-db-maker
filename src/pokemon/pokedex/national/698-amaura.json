@@ -12,6 +12,9 @@
     "french": "Amagara"
   },
   "pokedexNumber": {
+    "x-y-coastal": 66,
+    "ultra-sun-ultra-moon": 245,
+    "ultra-sun-ultra-moon-akala": 146,
     "crown-tundra": 85
   },
   "type": {

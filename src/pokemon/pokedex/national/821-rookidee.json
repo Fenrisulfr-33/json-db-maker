@@ -12,9 +12,9 @@
     "french": "Minisange"
   },
   "pokedexNumber": {
-    "scarlet-violet": 40,
     "sword-shield": 21,
-    "crown-tundra": 163
+    "crown-tundra": 163,
+    "scarlet-violet": 40
   },
   "type": {
     "one": "Flying"

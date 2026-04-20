@@ -12,8 +12,13 @@
     "french": "Ékaïser"
   },
   "pokedexNumber": {
+    "sun-moon": 272,
+    "sun-moon-poni": 87,
+    "ultra-sun-ultra-moon": 362,
+    "ultra-sun-ultra-moon-poni": 109,
     "sword-shield": 393,
-    "isle-of-armor": 166
+    "isle-of-armor": 166,
+    "the-teal-mask": 132
   },
   "type": {
     "one": "Dragon",

@@ -11,7 +11,9 @@
     "german": "Hoopa",
     "french": "Hoopa"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 152
+  },
   "type": {
     "one": "Psychic",
     "two": "Ghost"

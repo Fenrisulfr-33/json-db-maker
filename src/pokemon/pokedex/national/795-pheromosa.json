@@ -11,7 +11,10 @@
     "german": "Schabelle",
     "french": "Cancrelove"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 295,
+    "ultra-sun-ultra-moon": 395
+  },
   "type": {
     "one": "Bug",
     "two": "Fighting"

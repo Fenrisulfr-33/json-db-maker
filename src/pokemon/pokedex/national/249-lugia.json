@@ -12,8 +12,10 @@
     "french": "Lugia"
   },
   "pokedexNumber": {
-    "crystal": 252,
-    "gold-silver": 252
+    "gold-silver": 247,
+    "crystal": 247,
+    "heartgold-soulsilver": 252,
+    "the-indigo-disk": 13
   },
   "type": {
     "one": "Psychic",

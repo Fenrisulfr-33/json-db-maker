@@ -12,12 +12,16 @@
     "french": "Miaouss"
   },
   "pokedexNumber": {
-    "scarlet-violet": 141,
-    "sword-shield": 182,
-    "crystal": 138,
-    "gold-silver": 138,
+    "red-blue": 52,
     "yellow": 52,
-    "red-blue": 52
+    "gold-silver": 136,
+    "crystal": 136,
+    "firered-leafgreen": 52,
+    "heartgold-soulsilver": 138,
+    "sun-moon-ulaula": 23,
+    "ultra-sun-ultra-moon-melemele": 52,
+    "lets-go-pikachu-eevee": 52,
+    "scarlet-violet": 141
   },
   "type": {
     "one": "Normal"

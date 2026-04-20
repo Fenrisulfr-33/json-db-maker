@@ -11,7 +11,13 @@
     "german": "Minun",
     "french": "Négapi"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 81,
+    "emerald": 81,
+    "x-y-central": 97,
+    "omega-ruby-alpha-sapphire": 83,
+    "the-indigo-disk": 120
+  },
   "type": {
     "one": "Electric"
   },

@@ -12,8 +12,19 @@
     "french": "Doudouvet"
   },
   "pokedexNumber": {
+    "black-white": 52,
+    "black-2-white-2": 82,
+    "sun-moon": 87,
+    "sun-moon-melemele": 87,
+    "sun-moon-ulaula": 47,
+    "sun-moon-poni": 37,
+    "ultra-sun-ultra-moon": 105,
+    "ultra-sun-ultra-moon-melemele": 105,
+    "ultra-sun-ultra-moon-ulaula": 50,
+    "ultra-sun-ultra-moon-poni": 49,
     "sword-shield": 262,
-    "crown-tundra": 168
+    "crown-tundra": 168,
+    "the-indigo-disk": 56
   },
   "type": {
     "one": "Grass",

@@ -12,8 +12,12 @@
     "french": "Trépassable"
   },
   "pokedexNumber": {
-    "scarlet-violet": 323,
-    "isle-of-armor": 134
+    "sun-moon": 187,
+    "sun-moon-akala": 114,
+    "ultra-sun-ultra-moon": 226,
+    "ultra-sun-ultra-moon-akala": 127,
+    "isle-of-armor": 134,
+    "scarlet-violet": 323
   },
   "type": {
     "one": "Ghost",

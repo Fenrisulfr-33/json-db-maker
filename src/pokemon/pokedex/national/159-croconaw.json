@@ -12,8 +12,10 @@
     "french": "Crocrodil"
   },
   "pokedexNumber": {
+    "gold-silver": 8,
     "crystal": 8,
-    "gold-silver": 8
+    "heartgold-soulsilver": 8,
+    "the-indigo-disk": 180
   },
   "type": {
     "one": "Water"

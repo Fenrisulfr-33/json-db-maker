@@ -12,6 +12,11 @@
     "french": "FLOETTE"
   },
   "pokedexNumber": {
+    "x-y-central": 69,
+    "ultra-sun-ultra-moon": 101,
+    "ultra-sun-ultra-moon-melemele": 101,
+    "ultra-sun-ultra-moon-ulaula": 46,
+    "ultra-sun-ultra-moon-poni": 45,
     "scarlet-violet": 146
   },
   "type": {

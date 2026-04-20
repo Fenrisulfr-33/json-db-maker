@@ -12,8 +12,16 @@
     "french": "Draby"
   },
   "pokedexNumber": {
-    "scarlet-violet": 276,
-    "crown-tundra": 113
+    "ruby-sapphire": 187,
+    "emerald": 187,
+    "x-y-coastal": 14,
+    "omega-ruby-alpha-sapphire": 196,
+    "sun-moon": 117,
+    "sun-moon-melemele": 117,
+    "ultra-sun-ultra-moon": 147,
+    "ultra-sun-ultra-moon-melemele": 147,
+    "crown-tundra": 113,
+    "scarlet-violet": 276
   },
   "type": {
     "one": "Dragon"

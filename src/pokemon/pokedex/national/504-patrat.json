@@ -11,7 +11,11 @@
     "german": "Nagelotz",
     "french": "Ratentif"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 10,
+    "black-2-white-2": 10,
+    "x-y-mountain": 46
+  },
   "type": {
     "one": "Normal"
   },

@@ -12,12 +12,24 @@
     "french": "Rondoudou"
   },
   "pokedexNumber": {
-    "scarlet-violet": 60,
-    "isle-of-armor": 12,
-    "crystal": 44,
-    "gold-silver": 44,
+    "red-blue": 39,
     "yellow": 39,
-    "red-blue": 39
+    "gold-silver": 44,
+    "crystal": 44,
+    "ruby-sapphire": 138,
+    "emerald": 138,
+    "firered-leafgreen": 39,
+    "heartgold-soulsilver": 44,
+    "black-2-white-2": 282,
+    "x-y-mountain": 120,
+    "omega-ruby-alpha-sapphire": 143,
+    "sun-moon": 135,
+    "sun-moon-akala": 62,
+    "ultra-sun-ultra-moon": 168,
+    "ultra-sun-ultra-moon-akala": 69,
+    "lets-go-pikachu-eevee": 39,
+    "isle-of-armor": 12,
+    "scarlet-violet": 60
   },
   "type": {
     "one": "Normal",

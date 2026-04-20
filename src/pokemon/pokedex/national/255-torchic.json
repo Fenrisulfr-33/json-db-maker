@@ -11,7 +11,12 @@
     "german": "Flemmli",
     "french": "Poussifeu"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 4,
+    "emerald": 4,
+    "omega-ruby-alpha-sapphire": 4,
+    "the-indigo-disk": 185
+  },
   "type": {
     "one": "Fire"
   },

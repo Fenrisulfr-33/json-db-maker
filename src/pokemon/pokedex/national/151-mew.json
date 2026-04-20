@@ -12,10 +12,13 @@
     "french": "Mew"
   },
   "pokedexNumber": {
-    "crystal": 255,
-    "gold-silver": 255,
+    "red-blue": 151,
     "yellow": 151,
-    "red-blue": 151
+    "gold-silver": 250,
+    "crystal": 250,
+    "firered-leafgreen": 151,
+    "heartgold-soulsilver": 255,
+    "lets-go-pikachu-eevee": 151
   },
   "type": {
     "one": "Psychic"

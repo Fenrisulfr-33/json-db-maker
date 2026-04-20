@@ -12,14 +12,28 @@
     "french": "Pikachu"
   },
   "pokedexNumber": {
-    "scarlet-violet": 74,
-    "legends-arceus": 56,
+    "red-blue": 25,
+    "yellow": 25,
+    "gold-silver": 22,
+    "crystal": 22,
+    "ruby-sapphire": 156,
+    "emerald": 156,
+    "firered-leafgreen": 25,
+    "diamond-pearl": 104,
+    "platinum": 104,
+    "heartgold-soulsilver": 22,
+    "x-y-central": 36,
+    "omega-ruby-alpha-sapphire": 163,
+    "sun-moon": 25,
+    "sun-moon-melemele": 25,
+    "ultra-sun-ultra-moon": 32,
+    "ultra-sun-ultra-moon-melemele": 32,
+    "lets-go-pikachu-eevee": 25,
     "sword-shield": 194,
     "isle-of-armor": 85,
-    "crystal": 22,
-    "gold-silver": 22,
-    "yellow": 25,
-    "red-blue": 25
+    "legends-arceus": 56,
+    "scarlet-violet": 74,
+    "the-teal-mask": 21
   },
   "type": {
     "one": "Electric"

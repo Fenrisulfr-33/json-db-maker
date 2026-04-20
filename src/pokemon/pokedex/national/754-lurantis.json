@@ -12,8 +12,13 @@
     "french": "Floramantis"
   },
   "pokedexNumber": {
+    "sun-moon": 144,
+    "sun-moon-akala": 71,
+    "ultra-sun-ultra-moon": 177,
+    "ultra-sun-ultra-moon-akala": 78,
+    "isle-of-armor": 18,
     "scarlet-violet": 248,
-    "isle-of-armor": 18
+    "the-teal-mask": 32
   },
   "type": {
     "one": "Grass"

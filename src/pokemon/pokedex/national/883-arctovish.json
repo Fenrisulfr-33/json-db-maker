@@ -79,5 +79,8 @@
         "desc": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 377
   }
 }

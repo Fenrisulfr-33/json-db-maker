@@ -12,8 +12,12 @@
     "french": "Obalie"
   },
   "pokedexNumber": {
-    "legends-arceus": 143,
-    "crown-tundra": 159
+    "ruby-sapphire": 173,
+    "emerald": 173,
+    "black-2-white-2": 243,
+    "omega-ruby-alpha-sapphire": 182,
+    "crown-tundra": 159,
+    "legends-arceus": 143
   },
   "type": {
     "one": "Ice",

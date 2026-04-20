@@ -12,9 +12,9 @@
     "french": "Frissonille"
   },
   "pokedexNumber": {
-    "scarlet-violet": 350,
     "sword-shield": 349,
-    "crown-tundra": 1
+    "crown-tundra": 1,
+    "scarlet-violet": 350
   },
   "type": {
     "one": "Ice",

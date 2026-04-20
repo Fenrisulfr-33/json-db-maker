@@ -80,5 +80,9 @@
         "desc": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 366,
+    "crown-tundra": 12
   }
 }

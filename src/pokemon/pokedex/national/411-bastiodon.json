@@ -12,7 +12,14 @@
     "french": "Bastiodon"
   },
   "pokedexNumber": {
-    "legends-arceus": 211
+    "diamond-pearl": 39,
+    "platinum": 39,
+    "sun-moon": 191,
+    "sun-moon-akala": 118,
+    "ultra-sun-ultra-moon": 238,
+    "ultra-sun-ultra-moon-akala": 139,
+    "legends-arceus": 211,
+    "the-indigo-disk": 110
   },
   "type": {
     "one": "Rock",

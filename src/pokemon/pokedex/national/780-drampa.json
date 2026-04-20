@@ -12,6 +12,10 @@
     "french": "Sinistrail"
   },
   "pokedexNumber": {
+    "sun-moon": 244,
+    "sun-moon-ulaula": 116,
+    "ultra-sun-ultra-moon": 321,
+    "ultra-sun-ultra-moon-ulaula": 142,
     "sword-shield": 346
   },
   "type": {

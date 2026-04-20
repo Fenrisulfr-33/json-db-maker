@@ -12,8 +12,17 @@
     "french": "Tiboudet"
   },
   "pokedexNumber": {
+    "sun-moon": 132,
+    "sun-moon-akala": 59,
+    "sun-moon-ulaula": 58,
+    "sun-moon-poni": 59,
+    "ultra-sun-ultra-moon": 165,
+    "ultra-sun-ultra-moon-akala": 66,
+    "ultra-sun-ultra-moon-ulaula": 64,
+    "ultra-sun-ultra-moon-poni": 71,
+    "sword-shield": 84,
     "scarlet-violet": 272,
-    "sword-shield": 84
+    "the-teal-mask": 129
   },
   "type": {
     "one": "Ground"

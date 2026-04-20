@@ -12,8 +12,12 @@
     "french": "Funécire"
   },
   "pokedexNumber": {
+    "black-white": 113,
+    "black-2-white-2": 190,
+    "x-y-mountain": 65,
     "sword-shield": 287,
-    "crown-tundra": 48
+    "crown-tundra": 48,
+    "the-teal-mask": 146
   },
   "type": {
     "one": "Ghost",

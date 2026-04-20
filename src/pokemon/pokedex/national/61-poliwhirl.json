@@ -12,11 +12,22 @@
     "french": "Têtarte"
   },
   "pokedexNumber": {
-    "isle-of-armor": 143,
-    "crystal": 73,
-    "gold-silver": 73,
+    "red-blue": 61,
     "yellow": 61,
-    "red-blue": 61
+    "gold-silver": 73,
+    "crystal": 73,
+    "firered-leafgreen": 61,
+    "heartgold-soulsilver": 73,
+    "x-y-mountain": 34,
+    "sun-moon": 150,
+    "sun-moon-akala": 77,
+    "sun-moon-ulaula": 69,
+    "ultra-sun-ultra-moon": 183,
+    "ultra-sun-ultra-moon-akala": 84,
+    "ultra-sun-ultra-moon-ulaula": 75,
+    "lets-go-pikachu-eevee": 61,
+    "isle-of-armor": 143,
+    "the-teal-mask": 40
   },
   "type": {
     "one": "Water"

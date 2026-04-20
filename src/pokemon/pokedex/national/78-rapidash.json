@@ -12,12 +12,16 @@
     "french": "Galopa"
   },
   "pokedexNumber": {
-    "legends-arceus": 24,
-    "sword-shield": 334,
-    "crystal": 207,
-    "gold-silver": 207,
+    "red-blue": 78,
     "yellow": 78,
-    "red-blue": 78
+    "gold-silver": 202,
+    "crystal": 202,
+    "firered-leafgreen": 78,
+    "diamond-pearl": 91,
+    "platinum": 91,
+    "heartgold-soulsilver": 207,
+    "lets-go-pikachu-eevee": 78,
+    "legends-arceus": 24
   },
   "type": {
     "one": "Fire"

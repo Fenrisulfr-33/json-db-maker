@@ -12,11 +12,20 @@
     "french": "Noadkoko"
   },
   "pokedexNumber": {
-    "isle-of-armor": 206,
-    "crystal": 106,
-    "gold-silver": 106,
+    "red-blue": 103,
     "yellow": 103,
-    "red-blue": 103
+    "gold-silver": 105,
+    "crystal": 105,
+    "firered-leafgreen": 103,
+    "heartgold-soulsilver": 106,
+    "x-y-coastal": 137,
+    "sun-moon": 270,
+    "sun-moon-poni": 85,
+    "ultra-sun-ultra-moon": 356,
+    "ultra-sun-ultra-moon-poni": 103,
+    "lets-go-pikachu-eevee": 103,
+    "isle-of-armor": 206,
+    "the-indigo-disk": 4
   },
   "type": {
     "one": "Grass",

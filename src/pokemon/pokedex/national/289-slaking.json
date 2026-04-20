@@ -12,7 +12,12 @@
     "french": "Monaflèmit"
   },
   "pokedexNumber": {
-    "scarlet-violet": 80
+    "ruby-sapphire": 38,
+    "emerald": 38,
+    "black-2-white-2": 278,
+    "omega-ruby-alpha-sapphire": 39,
+    "scarlet-violet": 80,
+    "the-indigo-disk": 61
   },
   "type": {
     "one": "Normal"

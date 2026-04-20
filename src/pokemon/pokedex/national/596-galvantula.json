@@ -12,8 +12,11 @@
     "french": "Mygavolt"
   },
   "pokedexNumber": {
+    "black-white": 102,
+    "black-2-white-2": 174,
     "sword-shield": 65,
-    "crown-tundra": 94
+    "crown-tundra": 94,
+    "the-indigo-disk": 133
   },
   "type": {
     "one": "Bug",

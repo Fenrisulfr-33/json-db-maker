@@ -12,11 +12,15 @@
     "french": "Aéromite"
   },
   "pokedexNumber": {
-    "scarlet-violet": 257,
-    "crystal": 110,
-    "gold-silver": 110,
+    "red-blue": 49,
     "yellow": 49,
-    "red-blue": 49
+    "gold-silver": 109,
+    "crystal": 109,
+    "firered-leafgreen": 49,
+    "heartgold-soulsilver": 110,
+    "lets-go-pikachu-eevee": 49,
+    "scarlet-violet": 257,
+    "the-indigo-disk": 9
   },
   "type": {
     "one": "Bug",

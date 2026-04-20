@@ -12,8 +12,14 @@
     "french": "Magirêve"
   },
   "pokedexNumber": {
-    "scarlet-violet": 115,
-    "legends-arceus": 198
+    "diamond-pearl": 73,
+    "platinum": 73,
+    "sun-moon": 67,
+    "sun-moon-melemele": 67,
+    "ultra-sun-ultra-moon": 373,
+    "ultra-sun-ultra-moon-poni": 120,
+    "legends-arceus": 198,
+    "scarlet-violet": 115
   },
   "type": {
     "one": "Ghost"

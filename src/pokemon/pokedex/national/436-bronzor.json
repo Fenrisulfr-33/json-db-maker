@@ -12,10 +12,14 @@
     "french": "Archéomire"
   },
   "pokedexNumber": {
-    "scarlet-violet": 153,
-    "legends-arceus": 180,
+    "diamond-pearl": 88,
+    "platinum": 88,
+    "black-2-white-2": 250,
     "sword-shield": 118,
-    "crown-tundra": 87
+    "crown-tundra": 87,
+    "legends-arceus": 180,
+    "scarlet-violet": 153,
+    "the-teal-mask": 154
   },
   "type": {
     "one": "Steel",

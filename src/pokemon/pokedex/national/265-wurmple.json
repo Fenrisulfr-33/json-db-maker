@@ -12,6 +12,11 @@
     "french": "Chenipotte"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 14,
+    "emerald": 14,
+    "diamond-pearl": 48,
+    "platinum": 48,
+    "omega-ruby-alpha-sapphire": 14,
     "legends-arceus": 18
   },
   "type": {

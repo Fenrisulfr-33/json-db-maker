@@ -12,9 +12,10 @@
     "french": "Grimalin"
   },
   "pokedexNumber": {
-    "scarlet-violet": 285,
     "sword-shield": 238,
-    "crown-tundra": 37
+    "crown-tundra": 37,
+    "scarlet-violet": 285,
+    "the-teal-mask": 190
   },
   "type": {
     "one": "Dark",

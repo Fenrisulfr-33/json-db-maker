@@ -12,11 +12,16 @@
     "french": "Dracaufeu"
   },
   "pokedexNumber": {
-    "sword-shield": 380,
-    "crystal": 236,
-    "gold-silver": 236,
+    "red-blue": 6,
     "yellow": 6,
-    "red-blue": 6
+    "gold-silver": 231,
+    "crystal": 231,
+    "firered-leafgreen": 6,
+    "heartgold-soulsilver": 236,
+    "x-y-central": 85,
+    "lets-go-pikachu-eevee": 6,
+    "sword-shield": 380,
+    "the-indigo-disk": 169
   },
   "type": {
     "one": "Fire",

@@ -12,8 +12,14 @@
     "french": "Baggiguane"
   },
   "pokedexNumber": {
+    "black-white": 65,
+    "black-2-white-2": 117,
+    "x-y-central": 100,
+    "ultra-sun-ultra-moon": 335,
+    "ultra-sun-ultra-moon-ulaula": 156,
     "sword-shield": 224,
-    "isle-of-armor": 161
+    "isle-of-armor": 161,
+    "the-indigo-disk": 121
   },
   "type": {
     "one": "Dark",

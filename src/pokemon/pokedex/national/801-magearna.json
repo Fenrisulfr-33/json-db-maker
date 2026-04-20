@@ -11,7 +11,10 @@
     "german": "Magearna",
     "french": "Magearna"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 301,
+    "ultra-sun-ultra-moon": 401
+  },
   "type": {
     "one": "Steel",
     "two": "Fairy"

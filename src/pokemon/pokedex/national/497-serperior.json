@@ -11,7 +11,11 @@
     "german": "Serpiroyal",
     "french": "Majaspic"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 3,
+    "black-2-white-2": 3,
+    "the-indigo-disk": 202
+  },
   "type": {
     "one": "Grass"
   },

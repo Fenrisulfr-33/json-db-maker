@@ -12,10 +12,14 @@
     "french": "Mewtwo"
   },
   "pokedexNumber": {
-    "crystal": 254,
-    "gold-silver": 254,
+    "red-blue": 150,
     "yellow": 150,
-    "red-blue": 150
+    "gold-silver": 249,
+    "crystal": 249,
+    "firered-leafgreen": 150,
+    "heartgold-soulsilver": 254,
+    "x-y-mountain": 151,
+    "lets-go-pikachu-eevee": 150
   },
   "type": {
     "one": "Psychic"

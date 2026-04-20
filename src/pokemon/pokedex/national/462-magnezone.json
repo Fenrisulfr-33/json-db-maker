@@ -12,9 +12,20 @@
     "french": "Magnézone"
   },
   "pokedexNumber": {
-    "scarlet-violet": 211,
+    "platinum": 180,
+    "black-2-white-2": 50,
+    "x-y-mountain": 71,
+    "omega-ruby-alpha-sapphire": 86,
+    "sun-moon": 49,
+    "sun-moon-melemele": 49,
+    "sun-moon-ulaula": 27,
+    "ultra-sun-ultra-moon": 56,
+    "ultra-sun-ultra-moon-melemele": 56,
+    "ultra-sun-ultra-moon-ulaula": 27,
+    "isle-of-armor": 107,
     "legends-arceus": 179,
-    "isle-of-armor": 107
+    "scarlet-violet": 211,
+    "the-indigo-disk": 118
   },
   "type": {
     "one": "Electric",

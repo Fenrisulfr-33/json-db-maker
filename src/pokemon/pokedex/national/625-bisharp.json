@@ -12,9 +12,15 @@
     "french": "Scalproie"
   },
   "pokedexNumber": {
-    "scarlet-violet": 368,
+    "black-white": 131,
+    "black-2-white-2": 224,
+    "x-y-mountain": 49,
+    "ultra-sun-ultra-moon": 338,
+    "ultra-sun-ultra-moon-ulaula": 159,
     "sword-shield": 247,
-    "isle-of-armor": 30
+    "isle-of-armor": 30,
+    "scarlet-violet": 368,
+    "the-teal-mask": 187
   },
   "type": {
     "one": "Dark",

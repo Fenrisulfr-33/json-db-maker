@@ -12,8 +12,10 @@
     "french": "Aligatueur"
   },
   "pokedexNumber": {
+    "gold-silver": 9,
     "crystal": 9,
-    "gold-silver": 9
+    "heartgold-soulsilver": 9,
+    "the-indigo-disk": 181
   },
   "type": {
     "one": "Water"

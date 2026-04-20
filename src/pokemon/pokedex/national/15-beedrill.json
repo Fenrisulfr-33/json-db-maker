@@ -12,10 +12,14 @@
     "french": "Dardargnan"
   },
   "pokedexNumber": {
-    "crystal": 29,
-    "gold-silver": 29,
+    "red-blue": 15,
     "yellow": 15,
-    "red-blue": 15
+    "gold-silver": 29,
+    "crystal": 29,
+    "firered-leafgreen": 15,
+    "heartgold-soulsilver": 29,
+    "x-y-central": 28,
+    "lets-go-pikachu-eevee": 15
   },
   "type": {
     "one": "Bug",

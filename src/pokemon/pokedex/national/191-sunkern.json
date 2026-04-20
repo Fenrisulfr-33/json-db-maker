@@ -12,9 +12,11 @@
     "french": "Tournegrin"
   },
   "pokedexNumber": {
-    "scarlet-violet": 31,
-    "crystal": 103,
-    "gold-silver": 103
+    "gold-silver": 102,
+    "crystal": 102,
+    "heartgold-soulsilver": 103,
+    "black-2-white-2": 20,
+    "scarlet-violet": 31
   },
   "type": {
     "one": "Grass"

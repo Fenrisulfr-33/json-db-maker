@@ -12,8 +12,14 @@
     "french": "Volcaropod"
   },
   "pokedexNumber": {
-    "crystal": 217,
-    "gold-silver": 217
+    "gold-silver": 212,
+    "crystal": 212,
+    "ruby-sapphire": 104,
+    "emerald": 104,
+    "heartgold-soulsilver": 217,
+    "x-y-mountain": 13,
+    "omega-ruby-alpha-sapphire": 109,
+    "the-teal-mask": 145
   },
   "type": {
     "one": "Fire",

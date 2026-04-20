@@ -78,5 +78,8 @@
         "desc": "Infinite amounts of energy pour from this Pokémon’s enlarged core, warping the surrounding space-time."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 400
   }
 }

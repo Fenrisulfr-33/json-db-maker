@@ -11,7 +11,12 @@
     "german": "Kapu-Toro",
     "french": "Tokopisco"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 287,
+    "sun-moon-ulaula": 130,
+    "ultra-sun-ultra-moon": 385,
+    "ultra-sun-ultra-moon-ulaula": 160
+  },
   "type": {
     "one": "Grass",
     "two": "Fairy"

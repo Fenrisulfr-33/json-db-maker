@@ -12,11 +12,21 @@
     "french": "Colossinge"
   },
   "pokedexNumber": {
-    "scarlet-violet": 159,
-    "crystal": 137,
-    "gold-silver": 137,
+    "red-blue": 57,
     "yellow": 57,
-    "red-blue": 57
+    "gold-silver": 135,
+    "crystal": 135,
+    "firered-leafgreen": 57,
+    "heartgold-soulsilver": 137,
+    "sun-moon": 80,
+    "sun-moon-melemele": 80,
+    "sun-moon-poni": 31,
+    "ultra-sun-ultra-moon": 94,
+    "ultra-sun-ultra-moon-melemele": 94,
+    "ultra-sun-ultra-moon-poni": 40,
+    "lets-go-pikachu-eevee": 57,
+    "scarlet-violet": 159,
+    "the-teal-mask": 100
   },
   "type": {
     "one": "Fighting"

@@ -12,9 +12,14 @@
     "french": "Tritox"
   },
   "pokedexNumber": {
-    "scarlet-violet": 120,
+    "sun-moon": 161,
+    "sun-moon-akala": 88,
+    "ultra-sun-ultra-moon": 195,
+    "ultra-sun-ultra-moon-akala": 96,
     "sword-shield": 244,
-    "isle-of-armor": 159
+    "isle-of-armor": 159,
+    "scarlet-violet": 120,
+    "the-teal-mask": 168
   },
   "type": {
     "one": "Poison",

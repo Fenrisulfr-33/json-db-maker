@@ -11,7 +11,9 @@
     "german": "Xerneas",
     "french": "Xerneas"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-mountain": 148
+  },
   "type": {
     "one": "Fairy"
   },

@@ -12,12 +12,15 @@
     "french": "Krabboss"
   },
   "pokedexNumber": {
-    "sword-shield": 99,
-    "isle-of-armor": 39,
-    "crystal": 167,
-    "gold-silver": 167,
+    "red-blue": 99,
     "yellow": 99,
-    "red-blue": 99
+    "gold-silver": 165,
+    "crystal": 165,
+    "firered-leafgreen": 99,
+    "heartgold-soulsilver": 167,
+    "lets-go-pikachu-eevee": 99,
+    "sword-shield": 99,
+    "isle-of-armor": 39
   },
   "type": {
     "one": "Water"

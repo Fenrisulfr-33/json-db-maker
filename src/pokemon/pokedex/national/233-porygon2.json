@@ -12,10 +12,17 @@
     "french": "Porygon2"
   },
   "pokedexNumber": {
-    "legends-arceus": 134,
+    "gold-silver": 216,
+    "crystal": 216,
+    "platinum": 193,
+    "heartgold-soulsilver": 221,
+    "sun-moon": 218,
+    "sun-moon-ulaula": 90,
+    "ultra-sun-ultra-moon": 282,
+    "ultra-sun-ultra-moon-ulaula": 103,
     "isle-of-armor": 209,
-    "crystal": 221,
-    "gold-silver": 221
+    "legends-arceus": 134,
+    "the-indigo-disk": 130
   },
   "type": {
     "one": "Normal"

@@ -11,7 +11,11 @@
     "german": "Grillmak",
     "french": "Flamajou"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 19,
+    "black-2-white-2": 39,
+    "x-y-central": 31
+  },
   "type": {
     "one": "Fire"
   },

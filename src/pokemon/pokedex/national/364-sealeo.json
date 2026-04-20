@@ -12,8 +12,12 @@
     "french": "Phogleur"
   },
   "pokedexNumber": {
-    "legends-arceus": 144,
-    "crown-tundra": 160
+    "ruby-sapphire": 174,
+    "emerald": 174,
+    "black-2-white-2": 244,
+    "omega-ruby-alpha-sapphire": 183,
+    "crown-tundra": 160,
+    "legends-arceus": 144
   },
   "type": {
     "one": "Ice",

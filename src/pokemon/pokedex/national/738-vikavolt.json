@@ -12,7 +12,16 @@
     "french": "Lucanon"
   },
   "pokedexNumber": {
-    "sword-shield": 18
+    "sun-moon": 29,
+    "sun-moon-melemele": 29,
+    "sun-moon-akala": 13,
+    "sun-moon-ulaula": 14,
+    "ultra-sun-ultra-moon": 36,
+    "ultra-sun-ultra-moon-melemele": 36,
+    "ultra-sun-ultra-moon-akala": 13,
+    "ultra-sun-ultra-moon-ulaula": 14,
+    "sword-shield": 18,
+    "the-teal-mask": 114
   },
   "type": {
     "one": "Bug",

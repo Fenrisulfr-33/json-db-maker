@@ -12,11 +12,16 @@
     "french": "Amonistar"
   },
   "pokedexNumber": {
-    "crown-tundra": 124,
-    "crystal": 226,
-    "gold-silver": 226,
+    "red-blue": 139,
     "yellow": 139,
-    "red-blue": 139
+    "gold-silver": 221,
+    "crystal": 221,
+    "firered-leafgreen": 139,
+    "heartgold-soulsilver": 226,
+    "ultra-sun-ultra-moon": 228,
+    "ultra-sun-ultra-moon-akala": 129,
+    "lets-go-pikachu-eevee": 139,
+    "crown-tundra": 124
   },
   "type": {
     "one": "Rock",

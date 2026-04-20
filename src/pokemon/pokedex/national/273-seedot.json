@@ -12,7 +12,11 @@
     "french": "Grainipiot"
   },
   "pokedexNumber": {
-    "sword-shield": 39
+    "ruby-sapphire": 22,
+    "emerald": 22,
+    "omega-ruby-alpha-sapphire": 22,
+    "sword-shield": 39,
+    "the-teal-mask": 54
   },
   "type": {
     "one": "Grass"

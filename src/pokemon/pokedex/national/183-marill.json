@@ -12,11 +12,19 @@
     "french": "Marill"
   },
   "pokedexNumber": {
-    "scarlet-violet": 47,
-    "legends-arceus": 105,
+    "gold-silver": 130,
+    "crystal": 130,
+    "ruby-sapphire": 55,
+    "emerald": 55,
+    "diamond-pearl": 125,
+    "platinum": 125,
+    "heartgold-soulsilver": 132,
+    "black-2-white-2": 31,
+    "x-y-central": 42,
+    "omega-ruby-alpha-sapphire": 56,
     "isle-of-armor": 140,
-    "crystal": 132,
-    "gold-silver": 132
+    "legends-arceus": 105,
+    "scarlet-violet": 47
   },
   "type": {
     "one": "Water",

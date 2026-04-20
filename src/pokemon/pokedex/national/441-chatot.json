@@ -12,6 +12,9 @@
     "french": "Pijako"
   },
   "pokedexNumber": {
+    "diamond-pearl": 102,
+    "platinum": 102,
+    "x-y-coastal": 138,
     "legends-arceus": 157
   },
   "type": {

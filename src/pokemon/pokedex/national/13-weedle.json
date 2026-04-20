@@ -12,10 +12,14 @@
     "french": "Aspicot"
   },
   "pokedexNumber": {
-    "crystal": 27,
-    "gold-silver": 27,
+    "red-blue": 13,
     "yellow": 13,
-    "red-blue": 13
+    "gold-silver": 27,
+    "crystal": 27,
+    "firered-leafgreen": 13,
+    "heartgold-soulsilver": 27,
+    "x-y-central": 26,
+    "lets-go-pikachu-eevee": 13
   },
   "type": {
     "one": "Bug",

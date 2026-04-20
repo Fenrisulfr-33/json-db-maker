@@ -12,6 +12,10 @@
     "french": "Lewsor"
   },
   "pokedexNumber": {
+    "black-white": 111,
+    "black-2-white-2": 188,
+    "ultra-sun-ultra-moon": 275,
+    "ultra-sun-ultra-moon-ulaula": 96,
     "sword-shield": 277
   },
   "type": {

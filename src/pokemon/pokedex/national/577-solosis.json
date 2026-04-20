@@ -12,8 +12,12 @@
     "french": "Nucléos"
   },
   "pokedexNumber": {
+    "black-white": 83,
+    "black-2-white-2": 139,
+    "x-y-coastal": 115,
     "sword-shield": 270,
-    "crown-tundra": 54
+    "crown-tundra": 54,
+    "the-indigo-disk": 148
   },
   "type": {
     "one": "Psychic"

@@ -12,13 +12,22 @@
     "french": "Métamorph"
   },
   "pokedexNumber": {
-    "scarlet-violet": 212,
+    "red-blue": 132,
+    "yellow": 132,
+    "gold-silver": 92,
+    "crystal": 92,
+    "firered-leafgreen": 132,
+    "heartgold-soulsilver": 92,
+    "black-2-white-2": 261,
+    "x-y-mountain": 138,
+    "sun-moon": 209,
+    "sun-moon-ulaula": 81,
+    "ultra-sun-ultra-moon": 271,
+    "ultra-sun-ultra-moon-ulaula": 92,
+    "lets-go-pikachu-eevee": 132,
     "sword-shield": 373,
     "isle-of-armor": 207,
-    "crystal": 92,
-    "gold-silver": 92,
-    "yellow": 132,
-    "red-blue": 132
+    "scarlet-violet": 212
   },
   "type": {
     "one": "Normal"

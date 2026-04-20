@@ -12,8 +12,16 @@
     "french": "Drackhaus"
   },
   "pokedexNumber": {
-    "scarlet-violet": 277,
-    "crown-tundra": 114
+    "ruby-sapphire": 188,
+    "emerald": 188,
+    "x-y-coastal": 15,
+    "omega-ruby-alpha-sapphire": 197,
+    "sun-moon": 118,
+    "sun-moon-melemele": 118,
+    "ultra-sun-ultra-moon": 148,
+    "ultra-sun-ultra-moon-melemele": 148,
+    "crown-tundra": 114,
+    "scarlet-violet": 277
   },
   "type": {
     "one": "Dragon"

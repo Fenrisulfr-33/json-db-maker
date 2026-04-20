@@ -12,9 +12,10 @@
     "french": "Khélocrok"
   },
   "pokedexNumber": {
-    "scarlet-violet": 57,
     "sword-shield": 42,
-    "isle-of-armor": 56
+    "isle-of-armor": 56,
+    "scarlet-violet": 57,
+    "the-teal-mask": 183
   },
   "type": {
     "one": "Water"

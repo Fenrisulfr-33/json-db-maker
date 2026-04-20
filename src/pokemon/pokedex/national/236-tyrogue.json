@@ -12,9 +12,11 @@
     "french": "Debugant"
   },
   "pokedexNumber": {
+    "gold-silver": 143,
+    "crystal": 143,
+    "heartgold-soulsilver": 145,
     "sword-shield": 107,
-    "crystal": 145,
-    "gold-silver": 145
+    "the-indigo-disk": 92
   },
   "type": {
     "one": "Fighting"

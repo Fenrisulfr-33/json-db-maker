@@ -12,6 +12,11 @@
     "french": "Flabébé"
   },
   "pokedexNumber": {
+    "x-y-central": 68,
+    "ultra-sun-ultra-moon": 100,
+    "ultra-sun-ultra-moon-melemele": 100,
+    "ultra-sun-ultra-moon-ulaula": 45,
+    "ultra-sun-ultra-moon-poni": 44,
     "scarlet-violet": 145
   },
   "type": {

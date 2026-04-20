@@ -12,7 +12,12 @@
     "french": "Efflèche"
   },
   "pokedexNumber": {
-    "legends-arceus": 2
+    "sun-moon": 2,
+    "sun-moon-melemele": 2,
+    "ultra-sun-ultra-moon": 2,
+    "ultra-sun-ultra-moon-melemele": 2,
+    "legends-arceus": 2,
+    "the-indigo-disk": 219
   },
   "type": {
     "one": "Grass",

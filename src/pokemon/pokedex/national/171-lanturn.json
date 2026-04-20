@@ -12,10 +12,20 @@
     "french": "Lanturn"
   },
   "pokedexNumber": {
+    "gold-silver": 175,
+    "crystal": 175,
+    "ruby-sapphire": 182,
+    "emerald": 182,
+    "heartgold-soulsilver": 177,
+    "x-y-coastal": 148,
+    "omega-ruby-alpha-sapphire": 191,
+    "sun-moon": 202,
+    "sun-moon-akala": 129,
+    "ultra-sun-ultra-moon": 258,
+    "ultra-sun-ultra-moon-akala": 159,
     "sword-shield": 221,
     "isle-of-armor": 189,
-    "crystal": 177,
-    "gold-silver": 177
+    "the-indigo-disk": 79
   },
   "type": {
     "one": "Water",

@@ -12,6 +12,8 @@
     "french": "Palkia"
   },
   "pokedexNumber": {
+    "diamond-pearl": 150,
+    "platinum": 150,
     "legends-arceus": 236
   },
   "type": {

@@ -11,7 +11,16 @@
     "german": "Pandir",
     "french": "Spinda"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 114,
+    "emerald": 114,
+    "x-y-mountain": 131,
+    "omega-ruby-alpha-sapphire": 119,
+    "sun-moon": 105,
+    "sun-moon-melemele": 105,
+    "ultra-sun-ultra-moon": 128,
+    "ultra-sun-ultra-moon-melemele": 128
+  },
   "type": {
     "one": "Normal"
   },

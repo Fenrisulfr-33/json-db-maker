@@ -12,9 +12,9 @@
     "french": "Beldeneige"
   },
   "pokedexNumber": {
-    "scarlet-violet": 351,
     "sword-shield": 350,
-    "crown-tundra": 2
+    "crown-tundra": 2,
+    "scarlet-violet": 351
   },
   "type": {
     "one": "Ice",

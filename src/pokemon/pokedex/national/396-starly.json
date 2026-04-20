@@ -12,8 +12,12 @@
     "french": "Étourmi"
   },
   "pokedexNumber": {
+    "diamond-pearl": 10,
+    "platinum": 10,
+    "x-y-coastal": 99,
+    "legends-arceus": 12,
     "scarlet-violet": 97,
-    "legends-arceus": 12
+    "the-teal-mask": 28
   },
   "type": {
     "one": "Normal",

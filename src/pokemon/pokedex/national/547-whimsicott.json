@@ -12,8 +12,19 @@
     "french": "Farfaduvet"
   },
   "pokedexNumber": {
+    "black-white": 53,
+    "black-2-white-2": 83,
+    "sun-moon": 88,
+    "sun-moon-melemele": 88,
+    "sun-moon-ulaula": 48,
+    "sun-moon-poni": 38,
+    "ultra-sun-ultra-moon": 106,
+    "ultra-sun-ultra-moon-melemele": 106,
+    "ultra-sun-ultra-moon-ulaula": 51,
+    "ultra-sun-ultra-moon-poni": 50,
     "sword-shield": 263,
-    "crown-tundra": 169
+    "crown-tundra": 169,
+    "the-indigo-disk": 57
   },
   "type": {
     "one": "Grass",

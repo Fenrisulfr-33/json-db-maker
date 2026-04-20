@@ -12,7 +12,10 @@
     "french": "Chimpenfeu"
   },
   "pokedexNumber": {
-    "legends-arceus": 62
+    "diamond-pearl": 5,
+    "platinum": 5,
+    "legends-arceus": 62,
+    "the-indigo-disk": 195
   },
   "type": {
     "one": "Fire",

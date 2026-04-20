@@ -12,10 +12,16 @@
     "french": "Steelix"
   },
   "pokedexNumber": {
-    "legends-arceus": 119,
-    "sword-shield": 179,
+    "gold-silver": 63,
     "crystal": 63,
-    "gold-silver": 63
+    "diamond-pearl": 35,
+    "platinum": 35,
+    "heartgold-soulsilver": 63,
+    "black-2-white-2": 72,
+    "x-y-coastal": 54,
+    "sword-shield": 179,
+    "legends-arceus": 119,
+    "the-teal-mask": 122
   },
   "type": {
     "one": "Steel",

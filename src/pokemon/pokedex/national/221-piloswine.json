@@ -12,11 +12,16 @@
     "french": "Cochignon"
   },
   "pokedexNumber": {
-    "legends-arceus": 213,
+    "gold-silver": 192,
+    "crystal": 192,
+    "platinum": 204,
+    "heartgold-soulsilver": 196,
+    "black-2-white-2": 259,
+    "x-y-mountain": 77,
     "sword-shield": 76,
     "crown-tundra": 8,
-    "crystal": 196,
-    "gold-silver": 196
+    "legends-arceus": 213,
+    "the-teal-mask": 51
   },
   "type": {
     "one": "Ice",

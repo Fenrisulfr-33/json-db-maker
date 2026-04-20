@@ -68,5 +68,8 @@
         "desc": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 249
   }
 }

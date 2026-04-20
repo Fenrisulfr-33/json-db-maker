@@ -11,7 +11,11 @@
     "german": "Vegichita",
     "french": "Feuiloutan"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 18,
+    "black-2-white-2": 38,
+    "x-y-central": 30
+  },
   "type": {
     "one": "Grass"
   },

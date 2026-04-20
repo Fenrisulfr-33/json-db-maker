@@ -12,7 +12,10 @@
     "french": "Tiplouf"
   },
   "pokedexNumber": {
-    "legends-arceus": 161
+    "diamond-pearl": 7,
+    "platinum": 7,
+    "legends-arceus": 161,
+    "the-indigo-disk": 197
   },
   "type": {
     "one": "Water"

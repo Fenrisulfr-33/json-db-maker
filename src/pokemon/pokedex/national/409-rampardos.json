@@ -12,7 +12,14 @@
     "french": "Charkos"
   },
   "pokedexNumber": {
-    "legends-arceus": 209
+    "diamond-pearl": 37,
+    "platinum": 37,
+    "sun-moon": 189,
+    "sun-moon-akala": 116,
+    "ultra-sun-ultra-moon": 236,
+    "ultra-sun-ultra-moon-akala": 137,
+    "legends-arceus": 209,
+    "the-indigo-disk": 108
   },
   "type": {
     "one": "Rock"

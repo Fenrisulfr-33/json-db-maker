@@ -68,5 +68,8 @@
         "desc": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 203
   }
 }

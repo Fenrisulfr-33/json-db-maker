@@ -12,7 +12,13 @@
     "french": "Groret"
   },
   "pokedexNumber": {
-    "scarlet-violet": 112
+    "ruby-sapphire": 111,
+    "emerald": 111,
+    "black-2-white-2": 207,
+    "x-y-coastal": 8,
+    "omega-ruby-alpha-sapphire": 116,
+    "scarlet-violet": 112,
+    "the-teal-mask": 126
   },
   "type": {
     "one": "Psychic"

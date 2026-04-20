@@ -11,7 +11,11 @@
     "german": "Elezeba",
     "french": "Zébibron"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 28,
+    "black-2-white-2": 147,
+    "the-indigo-disk": 23
+  },
   "type": {
     "one": "Electric"
   },

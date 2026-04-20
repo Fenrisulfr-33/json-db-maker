@@ -11,7 +11,11 @@
     "german": "Kukmarda",
     "french": "Miradar"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 11,
+    "black-2-white-2": 11,
+    "x-y-mountain": 47
+  },
   "type": {
     "one": "Normal"
   },

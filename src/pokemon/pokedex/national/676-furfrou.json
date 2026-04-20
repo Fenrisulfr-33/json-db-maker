@@ -11,7 +11,12 @@
     "german": "Coiffwaff",
     "french": "Couafarel"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 93,
+    "ultra-sun-ultra-moon": 30,
+    "ultra-sun-ultra-moon-melemele": 30,
+    "ultra-sun-ultra-moon-poni": 14
+  },
   "type": {
     "one": "Normal"
   },

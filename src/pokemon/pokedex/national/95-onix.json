@@ -12,12 +12,19 @@
     "french": "Onix"
   },
   "pokedexNumber": {
-    "legends-arceus": 118,
-    "sword-shield": 178,
-    "crystal": 62,
-    "gold-silver": 62,
+    "red-blue": 95,
     "yellow": 95,
-    "red-blue": 95
+    "gold-silver": 62,
+    "crystal": 62,
+    "firered-leafgreen": 95,
+    "diamond-pearl": 34,
+    "platinum": 34,
+    "heartgold-soulsilver": 62,
+    "black-2-white-2": 71,
+    "x-y-coastal": 53,
+    "lets-go-pikachu-eevee": 95,
+    "sword-shield": 178,
+    "legends-arceus": 118
   },
   "type": {
     "one": "Rock",

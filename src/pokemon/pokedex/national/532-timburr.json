@@ -12,8 +12,12 @@
     "french": "Charpenti"
   },
   "pokedexNumber": {
+    "black-white": 38,
+    "black-2-white-2": 73,
+    "x-y-mountain": 93,
     "sword-shield": 171,
-    "crown-tundra": 57
+    "crown-tundra": 57,
+    "the-teal-mask": 85
   },
   "type": {
     "one": "Fighting"

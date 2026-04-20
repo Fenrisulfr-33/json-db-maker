@@ -12,8 +12,9 @@
     "french": "Entei"
   },
   "pokedexNumber": {
-    "crystal": 244,
-    "gold-silver": 244
+    "gold-silver": 239,
+    "crystal": 239,
+    "heartgold-soulsilver": 244
   },
   "type": {
     "one": "Fire"

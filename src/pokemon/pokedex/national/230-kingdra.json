@@ -12,9 +12,15 @@
     "french": "Hyporoi"
   },
   "pokedexNumber": {
+    "gold-silver": 188,
+    "crystal": 188,
+    "ruby-sapphire": 186,
+    "emerald": 186,
+    "heartgold-soulsilver": 192,
+    "x-y-coastal": 41,
+    "omega-ruby-alpha-sapphire": 195,
     "isle-of-armor": 200,
-    "crystal": 192,
-    "gold-silver": 192
+    "the-indigo-disk": 54
   },
   "type": {
     "one": "Water",

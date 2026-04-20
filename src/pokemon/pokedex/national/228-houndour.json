@@ -12,9 +12,15 @@
     "french": "Malosse"
   },
   "pokedexNumber": {
+    "gold-silver": 209,
+    "crystal": 209,
+    "platinum": 176,
+    "heartgold-soulsilver": 214,
+    "x-y-coastal": 75,
+    "ultra-sun-ultra-moon": 289,
+    "ultra-sun-ultra-moon-ulaula": 110,
     "scarlet-violet": 25,
-    "crystal": 214,
-    "gold-silver": 214
+    "the-teal-mask": 123
   },
   "type": {
     "one": "Dark",

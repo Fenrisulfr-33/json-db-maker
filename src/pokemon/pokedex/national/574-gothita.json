@@ -12,9 +12,13 @@
     "french": "Scrutella"
   },
   "pokedexNumber": {
-    "scarlet-violet": 234,
+    "black-white": 80,
+    "black-2-white-2": 136,
+    "x-y-mountain": 126,
     "sword-shield": 267,
-    "crown-tundra": 51
+    "crown-tundra": 51,
+    "scarlet-violet": 234,
+    "the-indigo-disk": 101
   },
   "type": {
     "one": "Psychic"

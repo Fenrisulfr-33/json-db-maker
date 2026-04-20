@@ -12,7 +12,18 @@
     "french": "Maskadra"
   },
   "pokedexNumber": {
-    "scarlet-violet": 50
+    "ruby-sapphire": 33,
+    "emerald": 33,
+    "x-y-central": 48,
+    "omega-ruby-alpha-sapphire": 34,
+    "sun-moon": 140,
+    "sun-moon-akala": 67,
+    "sun-moon-ulaula": 61,
+    "ultra-sun-ultra-moon": 173,
+    "ultra-sun-ultra-moon-akala": 74,
+    "ultra-sun-ultra-moon-ulaula": 67,
+    "scarlet-violet": 50,
+    "the-teal-mask": 150
   },
   "type": {
     "one": "Bug",

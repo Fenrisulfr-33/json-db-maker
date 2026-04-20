@@ -12,8 +12,15 @@
     "french": "Granbull"
   },
   "pokedexNumber": {
-    "crystal": 126,
-    "gold-silver": 126
+    "gold-silver": 124,
+    "crystal": 124,
+    "heartgold-soulsilver": 126,
+    "x-y-coastal": 72,
+    "sun-moon": 259,
+    "sun-moon-poni": 74,
+    "ultra-sun-ultra-moon": 340,
+    "ultra-sun-ultra-moon-poni": 87,
+    "the-indigo-disk": 152
   },
   "type": {
     "one": "Fairy"

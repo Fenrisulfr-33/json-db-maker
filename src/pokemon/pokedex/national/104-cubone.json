@@ -12,11 +12,19 @@
     "french": "Osselait"
   },
   "pokedexNumber": {
-    "isle-of-armor": 170,
-    "crystal": 208,
-    "gold-silver": 208,
+    "red-blue": 104,
     "yellow": 104,
-    "red-blue": 104
+    "gold-silver": 203,
+    "crystal": 203,
+    "firered-leafgreen": 104,
+    "heartgold-soulsilver": 208,
+    "x-y-coastal": 60,
+    "sun-moon": 163,
+    "sun-moon-akala": 90,
+    "ultra-sun-ultra-moon": 197,
+    "ultra-sun-ultra-moon-akala": 98,
+    "lets-go-pikachu-eevee": 104,
+    "isle-of-armor": 170
   },
   "type": {
     "one": "Ground"

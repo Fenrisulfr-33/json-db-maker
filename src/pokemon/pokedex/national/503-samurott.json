@@ -12,7 +12,10 @@
     "french": "Clamiral"
   },
   "pokedexNumber": {
-    "legends-arceus": 9
+    "black-white": 9,
+    "black-2-white-2": 9,
+    "legends-arceus": 9,
+    "the-indigo-disk": 208
   },
   "type": {
     "one": "Water"

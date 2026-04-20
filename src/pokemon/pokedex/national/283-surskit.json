@@ -12,7 +12,17 @@
     "french": "Arakdo"
   },
   "pokedexNumber": {
-    "scarlet-violet": 49
+    "ruby-sapphire": 32,
+    "emerald": 32,
+    "x-y-central": 47,
+    "omega-ruby-alpha-sapphire": 33,
+    "sun-moon-akala": 66,
+    "sun-moon-ulaula": 60,
+    "ultra-sun-ultra-moon": 172,
+    "ultra-sun-ultra-moon-akala": 73,
+    "ultra-sun-ultra-moon-ulaula": 66,
+    "scarlet-violet": 49,
+    "the-teal-mask": 149
   },
   "type": {
     "one": "Bug",

@@ -12,10 +12,17 @@
     "french": "Feuforêve"
   },
   "pokedexNumber": {
-    "scarlet-violet": 114,
+    "gold-silver": 214,
+    "crystal": 214,
+    "diamond-pearl": 72,
+    "platinum": 72,
+    "heartgold-soulsilver": 219,
+    "sun-moon": 66,
+    "sun-moon-melemele": 66,
+    "ultra-sun-ultra-moon": 372,
+    "ultra-sun-ultra-moon-poni": 119,
     "legends-arceus": 197,
-    "crystal": 219,
-    "gold-silver": 219
+    "scarlet-violet": 114
   },
   "type": {
     "one": "Ghost"

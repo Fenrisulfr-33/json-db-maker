@@ -12,10 +12,15 @@
     "french": "Nymphali"
   },
   "pokedexNumber": {
-    "scarlet-violet": 187,
-    "legends-arceus": 33,
+    "x-y-coastal": 85,
+    "sun-moon": 131,
+    "sun-moon-akala": 58,
+    "ultra-sun-ultra-moon": 161,
+    "ultra-sun-ultra-moon-akala": 62,
     "sword-shield": 204,
-    "crown-tundra": 82
+    "crown-tundra": 82,
+    "legends-arceus": 33,
+    "scarlet-violet": 187
   },
   "type": {
     "one": "Fairy"

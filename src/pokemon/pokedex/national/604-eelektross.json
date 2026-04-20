@@ -12,7 +12,11 @@
     "french": "Ohmassacre"
   },
   "pokedexNumber": {
-    "scarlet-violet": 343
+    "black-white": 110,
+    "black-2-white-2": 179,
+    "scarlet-violet": 343,
+    "the-teal-mask": 177,
+    "the-indigo-disk": 136
   },
   "type": {
     "one": "Electric"

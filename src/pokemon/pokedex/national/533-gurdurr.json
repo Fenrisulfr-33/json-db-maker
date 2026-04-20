@@ -12,8 +12,12 @@
     "french": "Ouvrifier"
   },
   "pokedexNumber": {
+    "black-white": 39,
+    "black-2-white-2": 74,
+    "x-y-mountain": 94,
     "sword-shield": 172,
-    "crown-tundra": 58
+    "crown-tundra": 58,
+    "the-teal-mask": 86
   },
   "type": {
     "one": "Fighting"

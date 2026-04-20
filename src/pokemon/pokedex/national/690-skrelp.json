@@ -12,8 +12,11 @@
     "french": "Venalgue"
   },
   "pokedexNumber": {
-    "scarlet-violet": 337,
-    "isle-of-armor": 194
+    "x-y-coastal": 30,
+    "ultra-sun-ultra-moon": 347,
+    "ultra-sun-ultra-moon-poni": 94,
+    "isle-of-armor": 194,
+    "scarlet-violet": 337
   },
   "type": {
     "one": "Poison",

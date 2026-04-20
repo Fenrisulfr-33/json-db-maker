@@ -12,6 +12,11 @@
     "french": "Blindalys"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 17,
+    "emerald": 17,
+    "diamond-pearl": 51,
+    "platinum": 51,
+    "omega-ruby-alpha-sapphire": 17,
     "legends-arceus": 21
   },
   "type": {

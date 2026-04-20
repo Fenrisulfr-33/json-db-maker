@@ -12,8 +12,15 @@
     "french": "Tylton"
   },
   "pokedexNumber": {
-    "scarlet-violet": 219,
-    "crown-tundra": 35
+    "ruby-sapphire": 121,
+    "emerald": 121,
+    "platinum": 171,
+    "black-2-white-2": 246,
+    "x-y-mountain": 139,
+    "omega-ruby-alpha-sapphire": 126,
+    "crown-tundra": 35,
+    "scarlet-violet": 152,
+    "the-indigo-disk": 114
   },
   "type": {
     "one": "Normal",

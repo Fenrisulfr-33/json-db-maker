@@ -12,9 +12,12 @@
     "french": "Luxio"
   },
   "pokedexNumber": {
-    "scarlet-violet": 95,
+    "diamond-pearl": 18,
+    "platinum": 18,
+    "isle-of-armor": 26,
     "legends-arceus": 16,
-    "isle-of-armor": 26
+    "scarlet-violet": 95,
+    "the-teal-mask": 110
   },
   "type": {
     "one": "Electric"

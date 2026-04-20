@@ -12,9 +12,10 @@
     "french": "Pomdrapi"
   },
   "pokedexNumber": {
-    "scarlet-violet": 109,
     "sword-shield": 206,
-    "isle-of-armor": 20
+    "isle-of-armor": 20,
+    "scarlet-violet": 109,
+    "the-teal-mask": 34
   },
   "type": {
     "one": "Grass",

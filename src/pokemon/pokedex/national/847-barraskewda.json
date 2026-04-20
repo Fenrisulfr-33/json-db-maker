@@ -12,9 +12,10 @@
     "french": "Hastacuda"
   },
   "pokedexNumber": {
-    "scarlet-violet": 137,
     "sword-shield": 181,
-    "isle-of-armor": 97
+    "isle-of-armor": 97,
+    "scarlet-violet": 137,
+    "the-teal-mask": 91
   },
   "type": {
     "one": "Water"

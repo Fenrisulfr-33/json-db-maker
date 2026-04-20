@@ -11,7 +11,11 @@
     "german": "Strawickl",
     "french": "Larveyette"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 46,
+    "black-2-white-2": 17,
+    "the-teal-mask": 13
+  },
   "type": {
     "one": "Bug",
     "two": "Grass"

@@ -12,10 +12,12 @@
     "french": "Teddiursa"
   },
   "pokedexNumber": {
-    "scarlet-violet": 215,
+    "gold-silver": 193,
+    "crystal": 193,
+    "heartgold-soulsilver": 198,
+    "x-y-mountain": 132,
     "legends-arceus": 112,
-    "crystal": 198,
-    "gold-silver": 198
+    "scarlet-violet": 215
   },
   "type": {
     "one": "Normal"

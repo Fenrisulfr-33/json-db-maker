@@ -67,5 +67,8 @@
         "desc": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 279
   }
 }

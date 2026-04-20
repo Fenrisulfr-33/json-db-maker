@@ -11,7 +11,10 @@
     "german": "Fennexis",
     "french": "Goupelin"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 6,
+    "the-indigo-disk": 214
+  },
   "type": {
     "one": "Fire",
     "two": "Psychic"

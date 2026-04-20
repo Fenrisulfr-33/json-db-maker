@@ -12,9 +12,9 @@
     "french": "Dispareptil"
   },
   "pokedexNumber": {
-    "scarlet-violet": 306,
     "sword-shield": 396,
-    "crown-tundra": 111
+    "crown-tundra": 111,
+    "scarlet-violet": 306
   },
   "type": {
     "one": "Dragon",

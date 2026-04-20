@@ -11,7 +11,9 @@
     "german": "Kopplosio",
     "french": "Pierroteknik"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ultra-sun-ultra-moon": 393
+  },
   "type": {
     "one": "Fire",
     "two": "Ghost"

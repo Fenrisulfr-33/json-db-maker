@@ -12,10 +12,20 @@
     "french": "Toudoudou"
   },
   "pokedexNumber": {
-    "scarlet-violet": 59,
-    "isle-of-armor": 11,
+    "gold-silver": 43,
     "crystal": 43,
-    "gold-silver": 43
+    "ruby-sapphire": 137,
+    "emerald": 137,
+    "heartgold-soulsilver": 43,
+    "black-2-white-2": 281,
+    "x-y-mountain": 119,
+    "omega-ruby-alpha-sapphire": 142,
+    "sun-moon": 134,
+    "sun-moon-akala": 61,
+    "ultra-sun-ultra-moon": 167,
+    "ultra-sun-ultra-moon-akala": 68,
+    "isle-of-armor": 11,
+    "scarlet-violet": 59
   },
   "type": {
     "one": "Normal",

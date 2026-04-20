@@ -11,7 +11,15 @@
     "german": "Perlu",
     "french": "Coquiperl"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 176,
+    "emerald": 176,
+    "x-y-coastal": 141,
+    "omega-ruby-alpha-sapphire": 185,
+    "ultra-sun-ultra-moon": 140,
+    "ultra-sun-ultra-moon-melemele": 140,
+    "ultra-sun-ultra-moon-ulaula": 61
+  },
   "type": {
     "one": "Water"
   },

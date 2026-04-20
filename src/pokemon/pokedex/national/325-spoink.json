@@ -12,7 +12,13 @@
     "french": "Spoink"
   },
   "pokedexNumber": {
-    "scarlet-violet": 111
+    "ruby-sapphire": 110,
+    "emerald": 110,
+    "black-2-white-2": 206,
+    "x-y-coastal": 7,
+    "omega-ruby-alpha-sapphire": 115,
+    "scarlet-violet": 111,
+    "the-teal-mask": 125
   },
   "type": {
     "one": "Psychic"

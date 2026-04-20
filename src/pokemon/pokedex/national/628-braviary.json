@@ -12,10 +12,19 @@
     "french": "Gueriaigle"
   },
   "pokedexNumber": {
-    "scarlet-violet": 366,
-    "legends-arceus": 222,
+    "black-white": 134,
+    "black-2-white-2": 110,
+    "sun-moon": 76,
+    "sun-moon-melemele": 76,
+    "sun-moon-poni": 27,
+    "ultra-sun-ultra-moon": 90,
+    "ultra-sun-ultra-moon-melemele": 90,
+    "ultra-sun-ultra-moon-poni": 36,
     "sword-shield": 282,
-    "isle-of-armor": 180
+    "isle-of-armor": 180,
+    "legends-arceus": 222,
+    "scarlet-violet": 366,
+    "the-indigo-disk": 33
   },
   "type": {
     "one": "Normal",

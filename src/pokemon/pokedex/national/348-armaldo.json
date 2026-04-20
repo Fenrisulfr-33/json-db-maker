@@ -12,6 +12,11 @@
     "french": "Armaldo"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 136,
+    "emerald": 136,
+    "omega-ruby-alpha-sapphire": 141,
+    "ultra-sun-ultra-moon": 234,
+    "ultra-sun-ultra-moon-akala": 135,
     "crown-tundra": 186
   },
   "type": {

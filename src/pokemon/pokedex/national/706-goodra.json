@@ -12,10 +12,20 @@
     "french": "Muplodocus"
   },
   "pokedexNumber": {
-    "scarlet-violet": 174,
-    "legends-arceus": 117,
+    "x-y-mountain": 21,
+    "sun-moon": 180,
+    "sun-moon-akala": 107,
+    "sun-moon-ulaula": 76,
+    "sun-moon-poni": 68,
+    "ultra-sun-ultra-moon": 219,
+    "ultra-sun-ultra-moon-akala": 120,
+    "ultra-sun-ultra-moon-ulaula": 83,
+    "ultra-sun-ultra-moon-poni": 81,
     "sword-shield": 391,
-    "isle-of-armor": 62
+    "isle-of-armor": 62,
+    "legends-arceus": 117,
+    "scarlet-violet": 174,
+    "the-teal-mask": 180
   },
   "type": {
     "one": "Dragon"

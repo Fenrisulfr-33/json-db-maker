@@ -12,9 +12,14 @@
     "french": "Lainergie"
   },
   "pokedexNumber": {
-    "scarlet-violet": 102,
+    "gold-silver": 54,
     "crystal": 54,
-    "gold-silver": 54
+    "heartgold-soulsilver": 54,
+    "black-2-white-2": 26,
+    "x-y-coastal": 128,
+    "ultra-sun-ultra-moon": 163,
+    "ultra-sun-ultra-moon-akala": 64,
+    "scarlet-violet": 102
   },
   "type": {
     "one": "Electric"

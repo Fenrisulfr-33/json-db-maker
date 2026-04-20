@@ -73,5 +73,9 @@
         "desc": "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "sword-shield": 46,
+    "crown-tundra": 155
   }
 }

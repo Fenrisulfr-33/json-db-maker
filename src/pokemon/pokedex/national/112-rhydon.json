@@ -12,13 +12,22 @@
     "french": "Rhinoféros"
   },
   "pokedexNumber": {
-    "legends-arceus": 121,
+    "red-blue": 112,
+    "yellow": 112,
+    "gold-silver": 212,
+    "crystal": 212,
+    "ruby-sapphire": 170,
+    "emerald": 170,
+    "firered-leafgreen": 112,
+    "platinum": 187,
+    "heartgold-soulsilver": 212,
+    "x-y-coastal": 51,
+    "omega-ruby-alpha-sapphire": 177,
+    "lets-go-pikachu-eevee": 112,
     "sword-shield": 265,
     "isle-of-armor": 184,
-    "crystal": 212,
-    "gold-silver": 212,
-    "yellow": 112,
-    "red-blue": 112
+    "legends-arceus": 121,
+    "the-indigo-disk": 6
   },
   "type": {
     "one": "Ground",

@@ -12,8 +12,11 @@
     "french": "Flingouste"
   },
   "pokedexNumber": {
-    "scarlet-violet": 339,
-    "isle-of-armor": 196
+    "x-y-coastal": 32,
+    "ultra-sun-ultra-moon": 349,
+    "ultra-sun-ultra-moon-poni": 96,
+    "isle-of-armor": 196,
+    "scarlet-violet": 339
   },
   "type": {
     "one": "Water"

@@ -12,8 +12,12 @@
     "french": "Sepiatop"
   },
   "pokedexNumber": {
+    "ultra-sun-ultra-moon": 26,
+    "ultra-sun-ultra-moon-melemele": 26,
+    "ultra-sun-ultra-moon-poni": 10,
     "sword-shield": 290,
-    "isle-of-armor": 108
+    "isle-of-armor": 108,
+    "the-indigo-disk": 80
   },
   "type": {
     "one": "Dark",

@@ -12,10 +12,14 @@
     "french": "Blizzaroi"
   },
   "pokedexNumber": {
-    "scarlet-violet": 353,
-    "legends-arceus": 218,
+    "diamond-pearl": 143,
+    "platinum": 143,
+    "x-y-mountain": 89,
     "sword-shield": 97,
-    "crown-tundra": 32
+    "crown-tundra": 32,
+    "legends-arceus": 218,
+    "scarlet-violet": 353,
+    "the-indigo-disk": 160
   },
   "type": {
     "one": "Grass",

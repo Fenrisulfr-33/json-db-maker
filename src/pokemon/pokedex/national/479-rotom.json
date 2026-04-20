@@ -12,9 +12,12 @@
     "french": "Motisma"
   },
   "pokedexNumber": {
-    "scarlet-violet": 310,
+    "platinum": 152,
+    "x-y-mountain": 68,
+    "sword-shield": 372,
     "legends-arceus": 194,
-    "sword-shield": 372
+    "scarlet-violet": 310,
+    "the-indigo-disk": 41
   },
   "type": {
     "one": "Electric",

@@ -12,9 +12,13 @@
     "french": "Drascore"
   },
   "pokedexNumber": {
-    "legends-arceus": 149,
+    "diamond-pearl": 128,
+    "platinum": 128,
+    "black-2-white-2": 202,
+    "x-y-mountain": 16,
     "sword-shield": 286,
-    "isle-of-armor": 51
+    "isle-of-armor": 51,
+    "legends-arceus": 149
   },
   "type": {
     "one": "Poison",

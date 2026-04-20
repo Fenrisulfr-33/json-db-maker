@@ -12,11 +12,20 @@
     "french": "Parasect"
   },
   "pokedexNumber": {
-    "legends-arceus": 54,
-    "crystal": 71,
-    "gold-silver": 71,
+    "red-blue": 47,
     "yellow": 47,
-    "red-blue": 47
+    "gold-silver": 71,
+    "crystal": 71,
+    "firered-leafgreen": 47,
+    "heartgold-soulsilver": 71,
+    "sun-moon": 148,
+    "sun-moon-akala": 75,
+    "sun-moon-ulaula": 67,
+    "ultra-sun-ultra-moon": 181,
+    "ultra-sun-ultra-moon-akala": 82,
+    "ultra-sun-ultra-moon-ulaula": 73,
+    "lets-go-pikachu-eevee": 47,
+    "legends-arceus": 54
   },
   "type": {
     "one": "Bug",

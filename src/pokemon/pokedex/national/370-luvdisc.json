@@ -12,7 +12,18 @@
     "french": "Lovdisc"
   },
   "pokedexNumber": {
-    "scarlet-violet": 332
+    "ruby-sapphire": 183,
+    "emerald": 183,
+    "x-y-coastal": 29,
+    "omega-ruby-alpha-sapphire": 192,
+    "sun-moon": 111,
+    "sun-moon-melemele": 111,
+    "sun-moon-akala": 43,
+    "ultra-sun-ultra-moon": 134,
+    "ultra-sun-ultra-moon-melemele": 134,
+    "ultra-sun-ultra-moon-akala": 43,
+    "scarlet-violet": 332,
+    "the-indigo-disk": 82
   },
   "type": {
     "one": "Water"

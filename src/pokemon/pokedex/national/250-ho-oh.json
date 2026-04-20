@@ -12,8 +12,9 @@
     "french": "Ho-Oh"
   },
   "pokedexNumber": {
-    "crystal": 253,
-    "gold-silver": 253
+    "gold-silver": 248,
+    "crystal": 248,
+    "heartgold-soulsilver": 253
   },
   "type": {
     "one": "Fire",

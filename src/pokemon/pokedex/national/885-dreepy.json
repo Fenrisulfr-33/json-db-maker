@@ -12,9 +12,9 @@
     "french": "Fantyrm"
   },
   "pokedexNumber": {
-    "scarlet-violet": 305,
     "sword-shield": 395,
-    "crown-tundra": 110
+    "crown-tundra": 110,
+    "scarlet-violet": 305
   },
   "type": {
     "one": "Dragon",

@@ -12,11 +12,26 @@
     "french": "Barbicha"
   },
   "pokedexNumber": {
-    "scarlet-violet": 169,
-    "legends-arceus": 98,
+    "ruby-sapphire": 128,
+    "emerald": 128,
+    "diamond-pearl": 81,
+    "platinum": 81,
+    "x-y-mountain": 41,
+    "omega-ruby-alpha-sapphire": 133,
+    "sun-moon": 94,
+    "sun-moon-melemele": 94,
+    "sun-moon-akala": 37,
+    "sun-moon-poni": 44,
+    "ultra-sun-ultra-moon": 114,
+    "ultra-sun-ultra-moon-melemele": 114,
+    "ultra-sun-ultra-moon-akala": 37,
+    "ultra-sun-ultra-moon-poni": 56,
     "sword-shield": 229,
     "isle-of-armor": 138,
-    "crown-tundra": 61
+    "crown-tundra": 61,
+    "legends-arceus": 98,
+    "scarlet-violet": 169,
+    "the-teal-mask": 163
   },
   "type": {
     "one": "Water",

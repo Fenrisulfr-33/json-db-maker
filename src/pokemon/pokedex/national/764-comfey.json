@@ -12,7 +12,12 @@
     "french": "Guérilande"
   },
   "pokedexNumber": {
-    "isle-of-armor": 79
+    "sun-moon": 174,
+    "sun-moon-akala": 101,
+    "ultra-sun-ultra-moon": 210,
+    "ultra-sun-ultra-moon-akala": 111,
+    "isle-of-armor": 79,
+    "the-indigo-disk": 58
   },
   "type": {
     "one": "Fairy"

@@ -12,7 +12,11 @@
     "french": "Tengalice"
   },
   "pokedexNumber": {
-    "sword-shield": 41
+    "ruby-sapphire": 24,
+    "emerald": 24,
+    "omega-ruby-alpha-sapphire": 24,
+    "sword-shield": 41,
+    "the-teal-mask": 56
   },
   "type": {
     "one": "Grass",

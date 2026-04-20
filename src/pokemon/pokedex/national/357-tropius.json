@@ -12,6 +12,13 @@
     "french": "Tropius"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 150,
+    "emerald": 150,
+    "platinum": 185,
+    "black-2-white-2": 288,
+    "omega-ruby-alpha-sapphire": 156,
+    "ultra-sun-ultra-moon": 354,
+    "ultra-sun-ultra-moon-poni": 101,
     "scarlet-violet": 246
   },
   "type": {

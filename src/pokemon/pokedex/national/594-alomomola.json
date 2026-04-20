@@ -12,7 +12,15 @@
     "french": "Mamanbo"
   },
   "pokedexNumber": {
-    "scarlet-violet": 336
+    "black-white": 100,
+    "black-2-white-2": 182,
+    "x-y-coastal": 149,
+    "sun-moon": 157,
+    "sun-moon-akala": 84,
+    "ultra-sun-ultra-moon": 191,
+    "ultra-sun-ultra-moon-akala": 92,
+    "scarlet-violet": 336,
+    "the-indigo-disk": 85
   },
   "type": {
     "one": "Water"

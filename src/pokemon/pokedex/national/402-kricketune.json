@@ -12,8 +12,11 @@
     "french": "Mélokrik"
   },
   "pokedexNumber": {
+    "diamond-pearl": 16,
+    "platinum": 16,
+    "legends-arceus": 40,
     "scarlet-violet": 34,
-    "legends-arceus": 40
+    "the-teal-mask": 62
   },
   "type": {
     "one": "Bug"

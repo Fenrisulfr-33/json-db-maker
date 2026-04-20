@@ -12,8 +12,13 @@
     "french": "Téraclope"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 149,
+    "emerald": 149,
+    "platinum": 190,
+    "omega-ruby-alpha-sapphire": 154,
+    "sword-shield": 136,
     "legends-arceus": 159,
-    "sword-shield": 136
+    "the-teal-mask": 140
   },
   "type": {
     "one": "Ghost"

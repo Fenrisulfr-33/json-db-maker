@@ -12,11 +12,22 @@
     "french": "Scarhino"
   },
   "pokedexNumber": {
-    "scarlet-violet": 262,
-    "legends-arceus": 75,
+    "gold-silver": 113,
+    "crystal": 113,
+    "ruby-sapphire": 168,
+    "emerald": 168,
+    "diamond-pearl": 62,
+    "platinum": 62,
+    "heartgold-soulsilver": 114,
+    "black-2-white-2": 145,
+    "x-y-coastal": 131,
+    "omega-ruby-alpha-sapphire": 175,
+    "ultra-sun-ultra-moon": 367,
+    "ultra-sun-ultra-moon-poni": 114,
     "isle-of-armor": 121,
-    "crystal": 114,
-    "gold-silver": 114
+    "legends-arceus": 75,
+    "scarlet-violet": 262,
+    "the-teal-mask": 49
   },
   "type": {
     "one": "Bug",

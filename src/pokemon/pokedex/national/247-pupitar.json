@@ -12,11 +12,16 @@
     "french": "Ymphect"
   },
   "pokedexNumber": {
-    "scarlet-violet": 317,
+    "gold-silver": 245,
+    "crystal": 245,
+    "heartgold-soulsilver": 250,
+    "black-2-white-2": 293,
+    "x-y-mountain": 103,
+    "ultra-sun-ultra-moon": 248,
+    "ultra-sun-ultra-moon-akala": 149,
     "sword-shield": 384,
     "crown-tundra": 140,
-    "crystal": 250,
-    "gold-silver": 250
+    "scarlet-violet": 317
   },
   "type": {
     "one": "Rock",

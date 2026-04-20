@@ -12,6 +12,10 @@
     "french": "Neitram"
   },
   "pokedexNumber": {
+    "black-white": 112,
+    "black-2-white-2": 189,
+    "ultra-sun-ultra-moon": 276,
+    "ultra-sun-ultra-moon-ulaula": 97,
     "sword-shield": 278
   },
   "type": {

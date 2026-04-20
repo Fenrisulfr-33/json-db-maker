@@ -12,11 +12,19 @@
     "french": "Rémoraid"
   },
   "pokedexNumber": {
-    "legends-arceus": 146,
+    "gold-silver": 173,
+    "crystal": 173,
+    "diamond-pearl": 132,
+    "platinum": 132,
+    "heartgold-soulsilver": 174,
+    "black-2-white-2": 235,
+    "x-y-coastal": 144,
+    "ultra-sun-ultra-moon": 143,
+    "ultra-sun-ultra-moon-melemele": 143,
+    "ultra-sun-ultra-moon-akala": 47,
     "sword-shield": 148,
     "isle-of-armor": 44,
-    "crystal": 174,
-    "gold-silver": 174
+    "legends-arceus": 146
   },
   "type": {
     "one": "Water"

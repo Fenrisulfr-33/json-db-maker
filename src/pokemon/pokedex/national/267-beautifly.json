@@ -12,6 +12,11 @@
     "french": "Charmillon"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 16,
+    "emerald": 16,
+    "diamond-pearl": 50,
+    "platinum": 50,
+    "omega-ruby-alpha-sapphire": 16,
     "legends-arceus": 20
   },
   "type": {

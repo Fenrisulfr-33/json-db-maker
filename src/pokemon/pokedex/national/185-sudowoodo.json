@@ -12,11 +12,22 @@
     "french": "Simularbre"
   },
   "pokedexNumber": {
-    "scarlet-violet": 88,
-    "legends-arceus": 124,
+    "gold-silver": 106,
+    "crystal": 106,
+    "diamond-pearl": 93,
+    "platinum": 93,
+    "heartgold-soulsilver": 107,
+    "x-y-mountain": 130,
+    "sun-moon": 31,
+    "sun-moon-melemele": 31,
+    "sun-moon-akala": 15,
+    "ultra-sun-ultra-moon": 38,
+    "ultra-sun-ultra-moon-melemele": 38,
+    "ultra-sun-ultra-moon-akala": 15,
     "sword-shield": 253,
-    "crystal": 107,
-    "gold-silver": 107
+    "legends-arceus": 124,
+    "scarlet-violet": 88,
+    "the-teal-mask": 84
   },
   "type": {
     "one": "Rock"

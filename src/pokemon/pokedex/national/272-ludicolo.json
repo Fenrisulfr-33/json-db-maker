@@ -12,7 +12,12 @@
     "french": "Ludicolo"
   },
   "pokedexNumber": {
-    "sword-shield": 38
+    "ruby-sapphire": 21,
+    "emerald": 21,
+    "x-y-mountain": 57,
+    "omega-ruby-alpha-sapphire": 21,
+    "sword-shield": 38,
+    "the-teal-mask": 106
   },
   "type": {
     "one": "Water",

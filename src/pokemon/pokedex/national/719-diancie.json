@@ -11,7 +11,9 @@
     "german": "Diancie",
     "french": "Diancie"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 151
+  },
   "type": {
     "one": "Rock",
     "two": "Fairy"

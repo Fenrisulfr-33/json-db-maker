@@ -12,9 +12,11 @@
     "french": "Typhlosion"
   },
   "pokedexNumber": {
-    "legends-arceus": 6,
+    "gold-silver": 6,
     "crystal": 6,
-    "gold-silver": 6
+    "heartgold-soulsilver": 6,
+    "legends-arceus": 6,
+    "the-indigo-disk": 178
   },
   "type": {
     "one": "Fire"

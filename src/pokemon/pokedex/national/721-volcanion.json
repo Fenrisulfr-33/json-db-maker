@@ -11,7 +11,9 @@
     "german": "Volcanion",
     "french": "Volcanion"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 153
+  },
   "type": {
     "one": "Fire",
     "two": "Water"

@@ -11,7 +11,10 @@
     "german": "Quajutsu",
     "french": "Amphinobi"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 9,
+    "the-indigo-disk": 217
+  },
   "type": {
     "one": "Water",
     "two": "Dark"

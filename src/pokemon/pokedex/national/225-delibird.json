@@ -12,11 +12,18 @@
     "french": "Cadoizo"
   },
   "pokedexNumber": {
-    "scarlet-violet": 354,
+    "gold-silver": 190,
+    "crystal": 190,
+    "heartgold-soulsilver": 194,
+    "black-2-white-2": 254,
+    "x-y-mountain": 90,
+    "sun-moon": 81,
+    "sun-moon-melemele": 81,
+    "ultra-sun-ultra-moon": 95,
+    "ultra-sun-ultra-moon-melemele": 95,
     "sword-shield": 78,
     "crown-tundra": 120,
-    "crystal": 194,
-    "gold-silver": 194
+    "scarlet-violet": 354
   },
   "type": {
     "one": "Ice",

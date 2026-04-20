@@ -12,6 +12,9 @@
     "french": "Cacnea"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 119,
+    "emerald": 119,
+    "omega-ruby-alpha-sapphire": 124,
     "scarlet-violet": 252
   },
   "type": {

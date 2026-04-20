@@ -12,8 +12,9 @@
     "french": "Celebi"
   },
   "pokedexNumber": {
-    "crystal": 256,
-    "gold-silver": 256
+    "gold-silver": 251,
+    "crystal": 251,
+    "heartgold-soulsilver": 256
   },
   "type": {
     "one": "Psychic",

@@ -12,9 +12,14 @@
     "french": "Qulbutoké"
   },
   "pokedexNumber": {
-    "sword-shield": 217,
-    "crystal": 108,
-    "gold-silver": 108
+    "gold-silver": 107,
+    "crystal": 107,
+    "ruby-sapphire": 161,
+    "emerald": 161,
+    "heartgold-soulsilver": 108,
+    "x-y-coastal": 119,
+    "omega-ruby-alpha-sapphire": 168,
+    "sword-shield": 217
   },
   "type": {
     "one": "Psychic"

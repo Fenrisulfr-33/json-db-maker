@@ -12,11 +12,16 @@
     "french": "Florizarre"
   },
   "pokedexNumber": {
-    "isle-of-armor": 70,
-    "crystal": 233,
-    "gold-silver": 233,
+    "red-blue": 3,
     "yellow": 3,
-    "red-blue": 3
+    "gold-silver": 228,
+    "crystal": 228,
+    "firered-leafgreen": 3,
+    "heartgold-soulsilver": 233,
+    "x-y-central": 82,
+    "lets-go-pikachu-eevee": 3,
+    "isle-of-armor": 70,
+    "the-indigo-disk": 166
   },
   "type": {
     "one": "Grass",

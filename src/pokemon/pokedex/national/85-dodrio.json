@@ -12,10 +12,18 @@
     "french": "Dodrio"
   },
   "pokedexNumber": {
-    "crystal": 205,
-    "gold-silver": 205,
+    "red-blue": 85,
     "yellow": 85,
-    "red-blue": 85
+    "gold-silver": 200,
+    "crystal": 200,
+    "ruby-sapphire": 93,
+    "emerald": 93,
+    "firered-leafgreen": 85,
+    "heartgold-soulsilver": 205,
+    "x-y-central": 95,
+    "omega-ruby-alpha-sapphire": 96,
+    "lets-go-pikachu-eevee": 85,
+    "the-indigo-disk": 2
   },
   "type": {
     "one": "Normal",

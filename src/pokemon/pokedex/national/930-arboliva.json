@@ -64,5 +64,8 @@
         "desc": "This Pokémon drives back enemies by launching its rich, aromatic oil at them with enough force to smash a boulder."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 86
   }
 }

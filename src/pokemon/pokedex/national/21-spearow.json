@@ -12,10 +12,22 @@
     "french": "Piafabec"
   },
   "pokedexNumber": {
-    "crystal": 13,
-    "gold-silver": 13,
+    "red-blue": 21,
     "yellow": 21,
-    "red-blue": 21
+    "gold-silver": 13,
+    "crystal": 13,
+    "firered-leafgreen": 21,
+    "heartgold-soulsilver": 13,
+    "x-y-mountain": 109,
+    "sun-moon": 73,
+    "sun-moon-melemele": 73,
+    "sun-moon-ulaula": 40,
+    "sun-moon-poni": 24,
+    "ultra-sun-ultra-moon": 87,
+    "ultra-sun-ultra-moon-melemele": 87,
+    "ultra-sun-ultra-moon-ulaula": 40,
+    "ultra-sun-ultra-moon-poni": 33,
+    "lets-go-pikachu-eevee": 21
   },
   "type": {
     "one": "Normal",

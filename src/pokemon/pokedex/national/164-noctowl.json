@@ -12,9 +12,16 @@
     "french": "Noarfang"
   },
   "pokedexNumber": {
-    "sword-shield": 20,
+    "gold-silver": 16,
     "crystal": 16,
-    "gold-silver": 16
+    "diamond-pearl": 107,
+    "platinum": 107,
+    "heartgold-soulsilver": 16,
+    "x-y-mountain": 118,
+    "ultra-sun-ultra-moon": 213,
+    "ultra-sun-ultra-moon-akala": 114,
+    "sword-shield": 20,
+    "the-teal-mask": 46
   },
   "type": {
     "one": "Normal",

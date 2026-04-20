@@ -12,7 +12,13 @@
     "french": "Shaofouine"
   },
   "pokedexNumber": {
-    "isle-of-armor": 164
+    "black-white": 126,
+    "black-2-white-2": 220,
+    "x-y-coastal": 4,
+    "ultra-sun-ultra-moon": 360,
+    "ultra-sun-ultra-moon-poni": 107,
+    "isle-of-armor": 164,
+    "the-teal-mask": 138
   },
   "type": {
     "one": "Fighting"

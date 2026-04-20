@@ -12,10 +12,14 @@
     "french": "Électhor"
   },
   "pokedexNumber": {
-    "crystal": 241,
-    "gold-silver": 241,
+    "red-blue": 145,
     "yellow": 145,
-    "red-blue": 145
+    "gold-silver": 236,
+    "crystal": 236,
+    "firered-leafgreen": 145,
+    "heartgold-soulsilver": 241,
+    "x-y-coastal": 152,
+    "lets-go-pikachu-eevee": 145
   },
   "type": {
     "one": "Electric",

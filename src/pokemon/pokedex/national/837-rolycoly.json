@@ -12,9 +12,9 @@
     "french": "Charbi"
   },
   "pokedexNumber": {
-    "scarlet-violet": 91,
     "sword-shield": 161,
-    "crown-tundra": 176
+    "crown-tundra": 176,
+    "scarlet-violet": 91
   },
   "type": {
     "one": "Rock"

@@ -68,5 +68,8 @@
         "desc": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
       }
     ]
+  },
+  "pokedexNumbers": {
+    "scarlet-violet": 177
   }
 }

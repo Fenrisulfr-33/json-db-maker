@@ -12,6 +12,12 @@
     "french": "Charmina"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 77,
+    "emerald": 77,
+    "diamond-pearl": 87,
+    "platinum": 87,
+    "x-y-central": 144,
+    "omega-ruby-alpha-sapphire": 79,
     "scarlet-violet": 162
   },
   "type": {

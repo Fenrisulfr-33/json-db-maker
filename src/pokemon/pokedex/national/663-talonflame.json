@@ -12,8 +12,14 @@
     "french": "Flambusard"
   },
   "pokedexNumber": {
+    "x-y-central": 16,
+    "sun-moon": 160,
+    "sun-moon-akala": 87,
+    "ultra-sun-ultra-moon": 194,
+    "ultra-sun-ultra-moon-akala": 95,
+    "isle-of-armor": 24,
     "scarlet-violet": 21,
-    "isle-of-armor": 24
+    "the-indigo-disk": 89
   },
   "type": {
     "one": "Fire",

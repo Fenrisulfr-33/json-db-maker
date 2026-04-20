@@ -12,8 +12,14 @@
     "french": "Baggaïd"
   },
   "pokedexNumber": {
+    "black-white": 66,
+    "black-2-white-2": 118,
+    "x-y-central": 101,
+    "ultra-sun-ultra-moon": 336,
+    "ultra-sun-ultra-moon-ulaula": 157,
     "sword-shield": 225,
-    "isle-of-armor": 162
+    "isle-of-armor": 162,
+    "the-indigo-disk": 122
   },
   "type": {
     "one": "Dark",

@@ -12,9 +12,17 @@
     "french": "Roigada"
   },
   "pokedexNumber": {
-    "scarlet-violet": 326,
+    "gold-silver": 82,
     "crystal": 82,
-    "gold-silver": 82
+    "heartgold-soulsilver": 82,
+    "x-y-coastal": 135,
+    "sun-moon": 39,
+    "sun-moon-melemele": 39,
+    "sun-moon-ulaula": 20,
+    "ultra-sun-ultra-moon": 46,
+    "ultra-sun-ultra-moon-melemele": 46,
+    "ultra-sun-ultra-moon-ulaula": 20,
+    "scarlet-violet": 326
   },
   "type": {
     "one": "Water",

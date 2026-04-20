@@ -12,10 +12,14 @@
     "french": "Roucoups"
   },
   "pokedexNumber": {
-    "crystal": 11,
-    "gold-silver": 11,
+    "red-blue": 17,
     "yellow": 17,
-    "red-blue": 17
+    "gold-silver": 11,
+    "crystal": 11,
+    "firered-leafgreen": 17,
+    "heartgold-soulsilver": 11,
+    "x-y-central": 18,
+    "lets-go-pikachu-eevee": 17
   },
   "type": {
     "one": "Normal",

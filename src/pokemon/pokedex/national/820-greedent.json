@@ -12,10 +12,11 @@
     "french": "Rongrigou"
   },
   "pokedexNumber": {
-    "scarlet-violet": 30,
     "sword-shield": 25,
     "isle-of-armor": 10,
-    "crown-tundra": 6
+    "crown-tundra": 6,
+    "scarlet-violet": 30,
+    "the-teal-mask": 73
   },
   "type": {
     "one": "Normal"

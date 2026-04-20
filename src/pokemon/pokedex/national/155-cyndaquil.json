@@ -12,9 +12,11 @@
     "french": "Héricendre"
   },
   "pokedexNumber": {
-    "legends-arceus": 4,
+    "gold-silver": 4,
     "crystal": 4,
-    "gold-silver": 4
+    "heartgold-soulsilver": 4,
+    "legends-arceus": 4,
+    "the-indigo-disk": 176
   },
   "type": {
     "one": "Fire"

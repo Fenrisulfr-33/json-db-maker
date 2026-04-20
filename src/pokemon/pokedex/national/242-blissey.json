@@ -12,11 +12,25 @@
     "french": "Leuphorie"
   },
   "pokedexNumber": {
-    "scarlet-violet": 45,
-    "legends-arceus": 88,
+    "gold-silver": 218,
+    "crystal": 218,
+    "diamond-pearl": 98,
+    "platinum": 98,
+    "heartgold-soulsilver": 223,
+    "sun-moon": 34,
+    "sun-moon-melemele": 34,
+    "sun-moon-akala": 18,
+    "sun-moon-ulaula": 17,
+    "sun-moon-poni": 10,
+    "ultra-sun-ultra-moon": 41,
+    "ultra-sun-ultra-moon-melemele": 41,
+    "ultra-sun-ultra-moon-akala": 18,
+    "ultra-sun-ultra-moon-ulaula": 17,
+    "ultra-sun-ultra-moon-poni": 17,
     "isle-of-armor": 8,
-    "crystal": 223,
-    "gold-silver": 223
+    "legends-arceus": 88,
+    "scarlet-violet": 45,
+    "the-indigo-disk": 18
   },
   "type": {
     "one": "Normal"

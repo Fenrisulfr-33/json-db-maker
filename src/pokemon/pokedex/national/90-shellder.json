@@ -12,13 +12,21 @@
     "french": "Kokiyas"
   },
   "pokedexNumber": {
-    "scarlet-violet": 329,
+    "red-blue": 90,
+    "yellow": 90,
+    "gold-silver": 169,
+    "crystal": 169,
+    "firered-leafgreen": 90,
+    "heartgold-soulsilver": 171,
+    "x-y-coastal": 36,
+    "sun-moon": 115,
+    "sun-moon-melemele": 115,
+    "ultra-sun-ultra-moon": 138,
+    "ultra-sun-ultra-moon-melemele": 138,
+    "lets-go-pikachu-eevee": 90,
     "sword-shield": 150,
     "isle-of-armor": 131,
-    "crystal": 171,
-    "gold-silver": 171,
-    "yellow": 90,
-    "red-blue": 90
+    "scarlet-violet": 329
   },
   "type": {
     "one": "Water"

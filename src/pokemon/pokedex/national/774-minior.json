@@ -11,7 +11,13 @@
     "german": "Meteno",
     "french": "Dodoala"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 213,
+    "sun-moon-ulaula": 85,
+    "ultra-sun-ultra-moon": 277,
+    "ultra-sun-ultra-moon-ulaula": 98,
+    "the-indigo-disk": 106
+  },
   "type": {
     "one": "Rock",
     "two": "Flying"

@@ -12,9 +12,13 @@
     "french": "Rhinastoc"
   },
   "pokedexNumber": {
-    "legends-arceus": 122,
+    "platinum": 188,
+    "x-y-coastal": 52,
+    "omega-ruby-alpha-sapphire": 178,
     "sword-shield": 266,
-    "isle-of-armor": 185
+    "isle-of-armor": 185,
+    "legends-arceus": 122,
+    "the-indigo-disk": 7
   },
   "type": {
     "one": "Ground",

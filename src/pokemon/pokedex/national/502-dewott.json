@@ -12,7 +12,10 @@
     "french": "Mateloutre"
   },
   "pokedexNumber": {
-    "legends-arceus": 8
+    "black-white": 8,
+    "black-2-white-2": 8,
+    "legends-arceus": 8,
+    "the-indigo-disk": 207
   },
   "type": {
     "one": "Water"

@@ -12,9 +12,15 @@
     "french": "Capidextre"
   },
   "pokedexNumber": {
-    "legends-arceus": 79,
+    "gold-silver": 124,
     "crystal": 124,
-    "gold-silver": 124
+    "diamond-pearl": 64,
+    "platinum": 64,
+    "heartgold-soulsilver": 124,
+    "ultra-sun-ultra-moon": 369,
+    "ultra-sun-ultra-moon-poni": 116,
+    "legends-arceus": 79,
+    "the-teal-mask": 48
   },
   "type": {
     "one": "Normal"

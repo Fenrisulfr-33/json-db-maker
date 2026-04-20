@@ -12,11 +12,14 @@
     "french": "Canarticho"
   },
   "pokedexNumber": {
-    "sword-shield": 218,
-    "crystal": 160,
-    "gold-silver": 160,
+    "red-blue": 83,
     "yellow": 83,
-    "red-blue": 83
+    "gold-silver": 158,
+    "crystal": 158,
+    "firered-leafgreen": 83,
+    "heartgold-soulsilver": 160,
+    "x-y-central": 61,
+    "lets-go-pikachu-eevee": 83
   },
   "type": {
     "one": "Normal",

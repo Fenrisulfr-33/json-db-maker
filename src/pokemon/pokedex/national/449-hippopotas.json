@@ -12,9 +12,12 @@
     "french": "Hippopotas"
   },
   "pokedexNumber": {
-    "scarlet-violet": 265,
+    "diamond-pearl": 122,
+    "platinum": 122,
+    "x-y-coastal": 48,
+    "sword-shield": 314,
     "legends-arceus": 107,
-    "sword-shield": 314
+    "scarlet-violet": 265
   },
   "type": {
     "one": "Ground"

@@ -12,6 +12,11 @@
     "french": "Armulys"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 15,
+    "emerald": 15,
+    "diamond-pearl": 49,
+    "platinum": 49,
+    "omega-ruby-alpha-sapphire": 15,
     "legends-arceus": 19
   },
   "type": {

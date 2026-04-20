@@ -12,11 +12,21 @@
     "french": "Férosinge"
   },
   "pokedexNumber": {
-    "scarlet-violet": 158,
-    "crystal": 136,
-    "gold-silver": 136,
+    "red-blue": 56,
     "yellow": 56,
-    "red-blue": 56
+    "gold-silver": 134,
+    "crystal": 134,
+    "firered-leafgreen": 56,
+    "heartgold-soulsilver": 136,
+    "sun-moon": 79,
+    "sun-moon-melemele": 79,
+    "sun-moon-poni": 30,
+    "ultra-sun-ultra-moon": 93,
+    "ultra-sun-ultra-moon-melemele": 93,
+    "ultra-sun-ultra-moon-poni": 39,
+    "lets-go-pikachu-eevee": 56,
+    "scarlet-violet": 158,
+    "the-teal-mask": 99
   },
   "type": {
     "one": "Fighting"

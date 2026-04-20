@@ -12,7 +12,10 @@
     "french": "Zigzaton"
   },
   "pokedexNumber": {
-    "sword-shield": 31
+    "ruby-sapphire": 12,
+    "emerald": 12,
+    "x-y-central": 12,
+    "omega-ruby-alpha-sapphire": 12
   },
   "type": {
     "one": "Normal"

@@ -11,7 +11,12 @@
     "german": "Jungglut",
     "french": "Galifeu"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 5,
+    "emerald": 5,
+    "omega-ruby-alpha-sapphire": 5,
+    "the-indigo-disk": 186
+  },
   "type": {
     "one": "Fire",
     "two": "Fighting"

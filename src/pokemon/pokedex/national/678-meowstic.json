@@ -12,7 +12,9 @@
     "french": "Mistigrix"
   },
   "pokedexNumber": {
-    "sword-shield": 209
+    "x-y-central": 115,
+    "sword-shield": 209,
+    "the-indigo-disk": 105
   },
   "type": {
     "one": "Psychic"

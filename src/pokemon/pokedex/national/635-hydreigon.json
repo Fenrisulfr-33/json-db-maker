@@ -12,9 +12,12 @@
     "french": "Trioxhydre"
   },
   "pokedexNumber": {
-    "scarlet-violet": 372,
+    "black-white": 141,
+    "black-2-white-2": 275,
+    "x-y-mountain": 144,
     "sword-shield": 388,
-    "crown-tundra": 138
+    "crown-tundra": 138,
+    "scarlet-violet": 372
   },
   "type": {
     "one": "Dark",

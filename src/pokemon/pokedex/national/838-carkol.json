@@ -12,9 +12,9 @@
     "french": "Wagomine"
   },
   "pokedexNumber": {
-    "scarlet-violet": 92,
     "sword-shield": 162,
-    "crown-tundra": 177
+    "crown-tundra": 177,
+    "scarlet-violet": 92
   },
   "type": {
     "one": "Rock",

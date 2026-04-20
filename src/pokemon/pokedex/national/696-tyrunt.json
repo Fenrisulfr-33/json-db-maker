@@ -12,6 +12,9 @@
     "french": "Ptyranidur"
   },
   "pokedexNumber": {
+    "x-y-coastal": 10,
+    "ultra-sun-ultra-moon": 243,
+    "ultra-sun-ultra-moon-akala": 144,
     "crown-tundra": 83
   },
   "type": {

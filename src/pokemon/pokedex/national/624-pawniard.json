@@ -12,9 +12,15 @@
     "french": "Scalpion"
   },
   "pokedexNumber": {
-    "scarlet-violet": 367,
+    "black-white": 130,
+    "black-2-white-2": 223,
+    "x-y-mountain": 48,
+    "ultra-sun-ultra-moon": 337,
+    "ultra-sun-ultra-moon-ulaula": 158,
     "sword-shield": 246,
-    "isle-of-armor": 29
+    "isle-of-armor": 29,
+    "scarlet-violet": 367,
+    "the-teal-mask": 186
   },
   "type": {
     "one": "Dark",

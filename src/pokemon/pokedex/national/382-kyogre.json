@@ -11,7 +11,11 @@
     "german": "Kyogre",
     "french": "Kyogre"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 198,
+    "emerald": 198,
+    "omega-ruby-alpha-sapphire": 207
+  },
   "type": {
     "one": "Water"
   },

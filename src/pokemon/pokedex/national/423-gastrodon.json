@@ -12,9 +12,15 @@
     "french": "Tritosor"
   },
   "pokedexNumber": {
-    "scarlet-violet": 328,
+    "diamond-pearl": 61,
+    "platinum": 61,
+    "sun-moon": 261,
+    "sun-moon-poni": 76,
+    "ultra-sun-ultra-moon": 342,
+    "ultra-sun-ultra-moon-poni": 89,
+    "sword-shield": 231,
     "legends-arceus": 83,
-    "sword-shield": 231
+    "scarlet-violet": 328
   },
   "type": {
     "one": "Water",

@@ -12,7 +12,10 @@
     "french": "Moustillon"
   },
   "pokedexNumber": {
-    "legends-arceus": 7
+    "black-white": 7,
+    "black-2-white-2": 7,
+    "legends-arceus": 7,
+    "the-indigo-disk": 206
   },
   "type": {
     "one": "Water"

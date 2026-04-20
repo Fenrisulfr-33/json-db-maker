@@ -12,12 +12,27 @@
     "french": "Poissirène"
   },
   "pokedexNumber": {
-    "sword-shield": 146,
-    "isle-of-armor": 94,
-    "crystal": 78,
-    "gold-silver": 78,
+    "red-blue": 118,
     "yellow": 118,
-    "red-blue": 118
+    "gold-silver": 78,
+    "crystal": 78,
+    "ruby-sapphire": 50,
+    "emerald": 50,
+    "firered-leafgreen": 118,
+    "diamond-pearl": 78,
+    "platinum": 78,
+    "heartgold-soulsilver": 78,
+    "x-y-central": 53,
+    "omega-ruby-alpha-sapphire": 51,
+    "sun-moon": 153,
+    "sun-moon-akala": 80,
+    "sun-moon-ulaula": 72,
+    "ultra-sun-ultra-moon": 186,
+    "ultra-sun-ultra-moon-akala": 87,
+    "ultra-sun-ultra-moon-ulaula": 78,
+    "lets-go-pikachu-eevee": 118,
+    "sword-shield": 146,
+    "isle-of-armor": 94
   },
   "type": {
     "one": "Water"

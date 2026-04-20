@@ -12,9 +12,22 @@
     "french": "Ptiravi"
   },
   "pokedexNumber": {
-    "scarlet-violet": 43,
+    "diamond-pearl": 96,
+    "platinum": 96,
+    "sun-moon": 32,
+    "sun-moon-melemele": 32,
+    "sun-moon-akala": 16,
+    "sun-moon-ulaula": 15,
+    "sun-moon-poni": 8,
+    "ultra-sun-ultra-moon": 39,
+    "ultra-sun-ultra-moon-melemele": 39,
+    "ultra-sun-ultra-moon-akala": 16,
+    "ultra-sun-ultra-moon-ulaula": 15,
+    "ultra-sun-ultra-moon-poni": 15,
+    "isle-of-armor": 6,
     "legends-arceus": 86,
-    "isle-of-armor": 6
+    "scarlet-violet": 43,
+    "the-indigo-disk": 16
   },
   "type": {
     "one": "Normal"

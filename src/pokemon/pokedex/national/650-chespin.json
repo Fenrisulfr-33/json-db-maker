@@ -11,7 +11,10 @@
     "german": "Igamaro",
     "french": "Marisson"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 1,
+    "the-indigo-disk": 209
+  },
   "type": {
     "one": "Grass"
   },

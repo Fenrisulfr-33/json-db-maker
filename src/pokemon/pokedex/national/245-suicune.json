@@ -12,8 +12,9 @@
     "french": "Suicune"
   },
   "pokedexNumber": {
-    "crystal": 245,
-    "gold-silver": 245
+    "gold-silver": 240,
+    "crystal": 240,
+    "heartgold-soulsilver": 245
   },
   "type": {
     "one": "Water"

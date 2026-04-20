@@ -12,11 +12,19 @@
     "french": "Octillery"
   },
   "pokedexNumber": {
-    "legends-arceus": 147,
+    "gold-silver": 175,
+    "crystal": 175,
+    "diamond-pearl": 133,
+    "platinum": 133,
+    "heartgold-soulsilver": 175,
+    "black-2-white-2": 236,
+    "x-y-coastal": 145,
+    "ultra-sun-ultra-moon": 144,
+    "ultra-sun-ultra-moon-melemele": 144,
+    "ultra-sun-ultra-moon-akala": 48,
     "sword-shield": 149,
     "isle-of-armor": 45,
-    "crystal": 175,
-    "gold-silver": 175
+    "legends-arceus": 147
   },
   "type": {
     "one": "Water"

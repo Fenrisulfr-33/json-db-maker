@@ -12,9 +12,12 @@
     "french": "Solochi"
   },
   "pokedexNumber": {
-    "scarlet-violet": 370,
+    "black-white": 139,
+    "black-2-white-2": 273,
+    "x-y-mountain": 142,
     "sword-shield": 386,
-    "crown-tundra": 136
+    "crown-tundra": 136,
+    "scarlet-violet": 370
   },
   "type": {
     "one": "Dark",

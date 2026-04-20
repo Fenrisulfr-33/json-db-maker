@@ -12,6 +12,10 @@
     "french": "Togedemaru"
   },
   "pokedexNumber": {
+    "sun-moon": 224,
+    "sun-moon-ulaula": 96,
+    "ultra-sun-ultra-moon": 288,
+    "ultra-sun-ultra-moon-ulaula": 109,
     "sword-shield": 347
   },
   "type": {

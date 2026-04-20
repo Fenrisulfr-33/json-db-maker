@@ -12,11 +12,19 @@
     "french": "Ortide"
   },
   "pokedexNumber": {
-    "sword-shield": 56,
-    "crystal": 84,
-    "gold-silver": 84,
+    "red-blue": 44,
     "yellow": 44,
-    "red-blue": 44
+    "gold-silver": 84,
+    "crystal": 84,
+    "ruby-sapphire": 89,
+    "emerald": 89,
+    "firered-leafgreen": 44,
+    "heartgold-soulsilver": 84,
+    "x-y-central": 106,
+    "omega-ruby-alpha-sapphire": 92,
+    "lets-go-pikachu-eevee": 44,
+    "sword-shield": 56,
+    "the-indigo-disk": 63
   },
   "type": {
     "one": "Grass",

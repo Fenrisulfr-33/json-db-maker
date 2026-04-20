@@ -12,12 +12,22 @@
     "french": "Magmar"
   },
   "pokedexNumber": {
-    "legends-arceus": 175,
-    "crown-tundra": 19,
-    "crystal": 153,
-    "gold-silver": 153,
+    "red-blue": 126,
     "yellow": 126,
-    "red-blue": 126
+    "gold-silver": 151,
+    "crystal": 151,
+    "firered-leafgreen": 126,
+    "platinum": 201,
+    "heartgold-soulsilver": 153,
+    "black-2-white-2": 54,
+    "sun-moon": 167,
+    "sun-moon-akala": 94,
+    "ultra-sun-ultra-moon": 201,
+    "ultra-sun-ultra-moon-akala": 102,
+    "lets-go-pikachu-eevee": 126,
+    "crown-tundra": 19,
+    "legends-arceus": 175,
+    "the-indigo-disk": 14
   },
   "type": {
     "one": "Fire"

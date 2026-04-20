@@ -12,11 +12,19 @@
     "french": "Smogo"
   },
   "pokedexNumber": {
-    "sword-shield": 250,
-    "crystal": 115,
-    "gold-silver": 115,
+    "red-blue": 109,
     "yellow": 109,
-    "red-blue": 109
+    "gold-silver": 114,
+    "crystal": 114,
+    "ruby-sapphire": 108,
+    "emerald": 108,
+    "firered-leafgreen": 109,
+    "heartgold-soulsilver": 115,
+    "black-2-white-2": 46,
+    "omega-ruby-alpha-sapphire": 113,
+    "lets-go-pikachu-eevee": 109,
+    "sword-shield": 250,
+    "the-teal-mask": 135
   },
   "type": {
     "one": "Poison"

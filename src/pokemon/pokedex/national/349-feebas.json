@@ -12,8 +12,18 @@
     "french": "Barpau"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 140,
+    "emerald": 140,
+    "diamond-pearl": 138,
+    "platinum": 138,
+    "omega-ruby-alpha-sapphire": 145,
+    "sun-moon": 155,
+    "sun-moon-akala": 82,
+    "ultra-sun-ultra-moon": 189,
+    "ultra-sun-ultra-moon-akala": 90,
     "sword-shield": 152,
-    "crown-tundra": 188
+    "crown-tundra": 188,
+    "the-teal-mask": 158
   },
   "type": {
     "one": "Water"

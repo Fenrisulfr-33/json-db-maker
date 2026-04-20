@@ -11,7 +11,10 @@
     "german": "Rutena",
     "french": "Roussil"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "x-y-central": 5,
+    "the-indigo-disk": 213
+  },
   "type": {
     "one": "Fire"
   },

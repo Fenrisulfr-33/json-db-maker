@@ -12,9 +12,13 @@
     "french": "Quartermac"
   },
   "pokedexNumber": {
-    "scarlet-violet": 314,
+    "sun-moon": 177,
+    "sun-moon-akala": 104,
+    "ultra-sun-ultra-moon": 216,
+    "ultra-sun-ultra-moon-akala": 117,
     "sword-shield": 343,
-    "isle-of-armor": 90
+    "isle-of-armor": 90,
+    "scarlet-violet": 314
   },
   "type": {
     "one": "Fighting"

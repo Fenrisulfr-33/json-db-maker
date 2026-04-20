@@ -11,7 +11,10 @@
     "german": "Keldeo",
     "french": "Keldeo"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 153,
+    "black-2-white-2": 298
+  },
   "type": {
     "one": "Water",
     "two": "Fighting"

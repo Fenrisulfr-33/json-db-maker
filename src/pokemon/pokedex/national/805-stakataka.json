@@ -11,7 +11,9 @@
     "german": "Muramura",
     "french": "Ama - Ama"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ultra-sun-ultra-moon": 392
+  },
   "type": {
     "one": "Rock",
     "two": "Steel"

@@ -12,9 +12,9 @@
     "french": "Lanssorien"
   },
   "pokedexNumber": {
-    "scarlet-violet": 307,
     "sword-shield": 397,
-    "crown-tundra": 112
+    "crown-tundra": 112,
+    "scarlet-violet": 307
   },
   "type": {
     "one": "Dragon",

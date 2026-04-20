@@ -11,7 +11,15 @@
     "german": "Saganabyss",
     "french": "Rosabyss"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 178,
+    "emerald": 178,
+    "x-y-coastal": 143,
+    "omega-ruby-alpha-sapphire": 187,
+    "ultra-sun-ultra-moon": 142,
+    "ultra-sun-ultra-moon-melemele": 142,
+    "ultra-sun-ultra-moon-ulaula": 63
+  },
   "type": {
     "one": "Water"
   },

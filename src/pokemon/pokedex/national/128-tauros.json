@@ -12,11 +12,22 @@
     "french": "Tauros"
   },
   "pokedexNumber": {
-    "isle-of-armor": 116,
-    "crystal": 150,
-    "gold-silver": 150,
+    "red-blue": 128,
     "yellow": 128,
-    "red-blue": 128
+    "gold-silver": 148,
+    "crystal": 148,
+    "firered-leafgreen": 128,
+    "heartgold-soulsilver": 150,
+    "x-y-coastal": 125,
+    "sun-moon": 137,
+    "sun-moon-akala": 64,
+    "sun-moon-poni": 61,
+    "ultra-sun-ultra-moon": 170,
+    "ultra-sun-ultra-moon-akala": 71,
+    "ultra-sun-ultra-moon-poni": 73,
+    "lets-go-pikachu-eevee": 128,
+    "isle-of-armor": 116,
+    "the-indigo-disk": 22
   },
   "type": {
     "one": "Normal"

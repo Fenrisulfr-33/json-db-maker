@@ -12,8 +12,15 @@
     "french": "Lougaroc"
   },
   "pokedexNumber": {
+    "sun-moon": 104,
+    "sun-moon-melemele": 104,
+    "sun-moon-poni": 54,
+    "ultra-sun-ultra-moon": 127,
+    "ultra-sun-ultra-moon-melemele": 127,
+    "ultra-sun-ultra-moon-poni": 66,
+    "isle-of-armor": 158,
     "scarlet-violet": 90,
-    "isle-of-armor": 158
+    "the-teal-mask": 71
   },
   "type": {
     "one": "Rock"

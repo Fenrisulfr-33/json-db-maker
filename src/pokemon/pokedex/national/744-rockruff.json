@@ -12,8 +12,15 @@
     "french": "Rocabot"
   },
   "pokedexNumber": {
+    "sun-moon": 103,
+    "sun-moon-melemele": 103,
+    "sun-moon-poni": 53,
+    "ultra-sun-ultra-moon": 126,
+    "ultra-sun-ultra-moon-melemele": 126,
+    "ultra-sun-ultra-moon-poni": 65,
+    "isle-of-armor": 157,
     "scarlet-violet": 89,
-    "isle-of-armor": 157
+    "the-teal-mask": 70
   },
   "type": {
     "one": "Rock"

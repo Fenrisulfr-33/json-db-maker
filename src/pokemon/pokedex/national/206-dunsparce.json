@@ -12,10 +12,16 @@
     "french": "Insolourdo"
   },
   "pokedexNumber": {
-    "scarlet-violet": 188,
-    "isle-of-armor": 52,
+    "gold-silver": 52,
     "crystal": 52,
-    "gold-silver": 52
+    "heartgold-soulsilver": 52,
+    "black-2-white-2": 35,
+    "x-y-central": 40,
+    "ultra-sun-ultra-moon": 63,
+    "ultra-sun-ultra-moon-melemele": 63,
+    "isle-of-armor": 52,
+    "scarlet-violet": 188,
+    "the-teal-mask": 160
   },
   "type": {
     "one": "Normal"

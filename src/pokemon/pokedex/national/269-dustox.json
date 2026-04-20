@@ -12,6 +12,11 @@
     "french": "Papinox"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 18,
+    "emerald": 18,
+    "diamond-pearl": 52,
+    "platinum": 52,
+    "omega-ruby-alpha-sapphire": 18,
     "legends-arceus": 22
   },
   "type": {

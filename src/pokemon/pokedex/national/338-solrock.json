@@ -12,6 +12,11 @@
     "french": "Solaroc"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 126,
+    "emerald": 126,
+    "black-2-white-2": 215,
+    "x-y-coastal": 13,
+    "omega-ruby-alpha-sapphire": 131,
     "sword-shield": 363
   },
   "type": {

@@ -12,9 +12,11 @@
     "french": "Feurisson"
   },
   "pokedexNumber": {
-    "legends-arceus": 5,
+    "gold-silver": 5,
     "crystal": 5,
-    "gold-silver": 5
+    "heartgold-soulsilver": 5,
+    "legends-arceus": 5,
+    "the-indigo-disk": 177
   },
   "type": {
     "one": "Fire"

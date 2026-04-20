@@ -12,10 +12,20 @@
     "french": "Colimucus"
   },
   "pokedexNumber": {
-    "scarlet-violet": 173,
-    "legends-arceus": 116,
+    "x-y-mountain": 20,
+    "sun-moon": 179,
+    "sun-moon-akala": 106,
+    "sun-moon-ulaula": 75,
+    "sun-moon-poni": 67,
+    "ultra-sun-ultra-moon": 218,
+    "ultra-sun-ultra-moon-akala": 119,
+    "ultra-sun-ultra-moon-ulaula": 82,
+    "ultra-sun-ultra-moon-poni": 80,
     "sword-shield": 390,
-    "isle-of-armor": 61
+    "isle-of-armor": 61,
+    "legends-arceus": 116,
+    "scarlet-violet": 173,
+    "the-teal-mask": 179
   },
   "type": {
     "one": "Dragon"

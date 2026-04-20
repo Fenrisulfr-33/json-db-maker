@@ -12,8 +12,13 @@
     "french": "Tokorico"
   },
   "pokedexNumber": {
+    "sun-moon": 273,
+    "sun-moon-poni": 88,
+    "ultra-sun-ultra-moon": 363,
+    "ultra-sun-ultra-moon-poni": 110,
     "sword-shield": 394,
-    "isle-of-armor": 167
+    "isle-of-armor": 167,
+    "the-teal-mask": 133
   },
   "type": {
     "one": "Dragon",

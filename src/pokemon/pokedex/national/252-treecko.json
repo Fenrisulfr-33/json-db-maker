@@ -11,7 +11,12 @@
     "german": "Geckarbor",
     "french": "Arcko"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 1,
+    "emerald": 1,
+    "omega-ruby-alpha-sapphire": 1,
+    "the-indigo-disk": 182
+  },
   "type": {
     "one": "Grass"
   },

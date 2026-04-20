@@ -12,11 +12,16 @@
     "french": "Tyranocif"
   },
   "pokedexNumber": {
-    "scarlet-violet": 318,
+    "gold-silver": 246,
+    "crystal": 246,
+    "heartgold-soulsilver": 251,
+    "black-2-white-2": 294,
+    "x-y-mountain": 104,
+    "ultra-sun-ultra-moon": 249,
+    "ultra-sun-ultra-moon-akala": 150,
     "sword-shield": 385,
     "crown-tundra": 141,
-    "crystal": 251,
-    "gold-silver": 251
+    "scarlet-violet": 318
   },
   "type": {
     "one": "Rock",

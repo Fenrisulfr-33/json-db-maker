@@ -12,9 +12,13 @@
     "french": "Rapion"
   },
   "pokedexNumber": {
-    "legends-arceus": 148,
+    "diamond-pearl": 127,
+    "platinum": 127,
+    "black-2-white-2": 201,
+    "x-y-mountain": 15,
     "sword-shield": 285,
-    "isle-of-armor": 50
+    "isle-of-armor": 50,
+    "legends-arceus": 148
   },
   "type": {
     "one": "Poison",

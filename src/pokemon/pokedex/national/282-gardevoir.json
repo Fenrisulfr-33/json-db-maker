@@ -12,10 +12,16 @@
     "french": "Gardevoir"
   },
   "pokedexNumber": {
-    "scarlet-violet": 64,
-    "legends-arceus": 103,
+    "ruby-sapphire": 31,
+    "emerald": 31,
+    "platinum": 159,
+    "x-y-central": 66,
+    "omega-ruby-alpha-sapphire": 31,
     "sword-shield": 122,
-    "isle-of-armor": 36
+    "isle-of-armor": 36,
+    "legends-arceus": 103,
+    "scarlet-violet": 64,
+    "the-teal-mask": 59
   },
   "type": {
     "one": "Psychic",

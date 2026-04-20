@@ -11,7 +11,10 @@
     "german": "Genesect",
     "french": "Genesect"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "black-white": 155,
+    "black-2-white-2": 300
+  },
   "type": {
     "one": "Bug",
     "two": "Steel"

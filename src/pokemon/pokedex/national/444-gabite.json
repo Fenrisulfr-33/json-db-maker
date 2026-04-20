@@ -12,9 +12,17 @@
     "french": "Carmache"
   },
   "pokedexNumber": {
-    "scarlet-violet": 127,
+    "diamond-pearl": 110,
+    "platinum": 110,
+    "x-y-mountain": 7,
+    "sun-moon": 239,
+    "sun-moon-ulaula": 111,
+    "ultra-sun-ultra-moon": 308,
+    "ultra-sun-ultra-moon-ulaula": 129,
+    "crown-tundra": 117,
     "legends-arceus": 188,
-    "crown-tundra": 117
+    "scarlet-violet": 127,
+    "the-teal-mask": 165
   },
   "type": {
     "one": "Dragon",

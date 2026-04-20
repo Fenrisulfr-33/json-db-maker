@@ -12,8 +12,15 @@
     "french": "Snubbull"
   },
   "pokedexNumber": {
-    "crystal": 125,
-    "gold-silver": 125
+    "gold-silver": 123,
+    "crystal": 123,
+    "heartgold-soulsilver": 125,
+    "x-y-coastal": 71,
+    "sun-moon": 258,
+    "sun-moon-poni": 73,
+    "ultra-sun-ultra-moon": 339,
+    "ultra-sun-ultra-moon-poni": 86,
+    "the-indigo-disk": 151
   },
   "type": {
     "one": "Fairy"

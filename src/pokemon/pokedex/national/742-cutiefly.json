@@ -12,7 +12,16 @@
     "french": "Bombydou"
   },
   "pokedexNumber": {
-    "sword-shield": 187
+    "sun-moon": 83,
+    "sun-moon-melemele": 83,
+    "sun-moon-ulaula": 43,
+    "sun-moon-poni": 33,
+    "ultra-sun-ultra-moon": 98,
+    "ultra-sun-ultra-moon-melemele": 98,
+    "ultra-sun-ultra-moon-ulaula": 43,
+    "ultra-sun-ultra-moon-poni": 42,
+    "sword-shield": 187,
+    "the-teal-mask": 16
   },
   "type": {
     "one": "Bug",

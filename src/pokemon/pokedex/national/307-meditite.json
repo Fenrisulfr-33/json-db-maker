@@ -12,6 +12,12 @@
     "french": "Méditikka"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 76,
+    "emerald": 76,
+    "diamond-pearl": 86,
+    "platinum": 86,
+    "x-y-central": 143,
+    "omega-ruby-alpha-sapphire": 78,
     "scarlet-violet": 161
   },
   "type": {

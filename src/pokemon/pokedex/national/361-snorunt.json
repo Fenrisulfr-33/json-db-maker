@@ -12,9 +12,18 @@
     "french": "Stalgamin"
   },
   "pokedexNumber": {
-    "scarlet-violet": 357,
+    "ruby-sapphire": 171,
+    "emerald": 171,
+    "platinum": 206,
+    "omega-ruby-alpha-sapphire": 179,
+    "sun-moon": 246,
+    "sun-moon-ulaula": 118,
+    "ultra-sun-ultra-moon": 323,
+    "ultra-sun-ultra-moon-ulaula": 144,
+    "sword-shield": 79,
     "legends-arceus": 205,
-    "sword-shield": 79
+    "scarlet-violet": 357,
+    "the-teal-mask": 172
   },
   "type": {
     "one": "Ice"

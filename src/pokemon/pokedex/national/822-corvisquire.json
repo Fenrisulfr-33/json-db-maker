@@ -12,9 +12,9 @@
     "french": "Bleuseille"
   },
   "pokedexNumber": {
-    "scarlet-violet": 41,
     "sword-shield": 22,
-    "crown-tundra": 164
+    "crown-tundra": 164,
+    "scarlet-violet": 41
   },
   "type": {
     "one": "Flying"

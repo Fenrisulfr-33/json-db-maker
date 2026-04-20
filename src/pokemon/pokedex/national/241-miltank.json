@@ -12,9 +12,17 @@
     "french": "Écrémeuh"
   },
   "pokedexNumber": {
-    "isle-of-armor": 117,
-    "crystal": 151,
-    "gold-silver": 151
+    "gold-silver": 149,
+    "crystal": 149,
+    "heartgold-soulsilver": 151,
+    "x-y-coastal": 126,
+    "sun-moon": 138,
+    "sun-moon-akala": 65,
+    "sun-moon-poni": 62,
+    "ultra-sun-ultra-moon": 171,
+    "ultra-sun-ultra-moon-akala": 72,
+    "ultra-sun-ultra-moon-poni": 74,
+    "isle-of-armor": 117
   },
   "type": {
     "one": "Normal"

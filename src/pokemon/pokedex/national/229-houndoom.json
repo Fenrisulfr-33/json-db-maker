@@ -12,9 +12,15 @@
     "french": "Démolosse"
   },
   "pokedexNumber": {
+    "gold-silver": 210,
+    "crystal": 210,
+    "platinum": 177,
+    "heartgold-soulsilver": 215,
+    "x-y-coastal": 76,
+    "ultra-sun-ultra-moon": 290,
+    "ultra-sun-ultra-moon-ulaula": 111,
     "scarlet-violet": 26,
-    "crystal": 215,
-    "gold-silver": 215
+    "the-teal-mask": 124
   },
   "type": {
     "one": "Dark",

@@ -12,11 +12,20 @@
     "french": "Mélo"
   },
   "pokedexNumber": {
-    "legends-arceus": 199,
+    "gold-silver": 40,
+    "crystal": 40,
+    "diamond-pearl": 99,
+    "platinum": 99,
+    "heartgold-soulsilver": 40,
+    "black-2-white-2": 88,
+    "sun-moon": 210,
+    "sun-moon-ulaula": 82,
+    "ultra-sun-ultra-moon": 272,
+    "ultra-sun-ultra-moon-ulaula": 93,
     "sword-shield": 254,
     "crown-tundra": 43,
-    "crystal": 40,
-    "gold-silver": 40
+    "legends-arceus": 199,
+    "the-teal-mask": 151
   },
   "type": {
     "one": "Fairy"

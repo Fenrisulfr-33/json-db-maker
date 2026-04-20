@@ -12,8 +12,21 @@
     "french": "Luminéon"
   },
   "pokedexNumber": {
+    "diamond-pearl": 135,
+    "platinum": 135,
+    "sun-moon": 109,
+    "sun-moon-melemele": 109,
+    "sun-moon-akala": 41,
+    "sun-moon-ulaula": 56,
+    "sun-moon-poni": 58,
+    "ultra-sun-ultra-moon": 132,
+    "ultra-sun-ultra-moon-melemele": 132,
+    "ultra-sun-ultra-moon-akala": 41,
+    "ultra-sun-ultra-moon-ulaula": 59,
+    "ultra-sun-ultra-moon-poni": 70,
+    "legends-arceus": 173,
     "scarlet-violet": 334,
-    "legends-arceus": 173
+    "the-indigo-disk": 84
   },
   "type": {
     "one": "Water"

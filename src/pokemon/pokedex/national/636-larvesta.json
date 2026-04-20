@@ -12,8 +12,12 @@
     "french": "Pyronille"
   },
   "pokedexNumber": {
-    "scarlet-violet": 274,
-    "isle-of-armor": 186
+    "black-white": 142,
+    "black-2-white-2": 171,
+    "ultra-sun-ultra-moon": 203,
+    "ultra-sun-ultra-moon-akala": 104,
+    "isle-of-armor": 186,
+    "scarlet-violet": 274
   },
   "type": {
     "one": "Bug",

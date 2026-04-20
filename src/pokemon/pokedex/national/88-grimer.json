@@ -12,11 +12,23 @@
     "french": "Tadmorv"
   },
   "pokedexNumber": {
-    "scarlet-violet": 194,
-    "crystal": 117,
-    "gold-silver": 117,
+    "red-blue": 88,
     "yellow": 88,
-    "red-blue": 88
+    "gold-silver": 116,
+    "crystal": 116,
+    "ruby-sapphire": 106,
+    "emerald": 106,
+    "firered-leafgreen": 88,
+    "heartgold-soulsilver": 117,
+    "black-2-white-2": 64,
+    "omega-ruby-alpha-sapphire": 111,
+    "sun-moon": 50,
+    "sun-moon-melemele": 50,
+    "sun-moon-ulaula": 28,
+    "ultra-sun-ultra-moon-melemele": 57,
+    "ultra-sun-ultra-moon-ulaula": 28,
+    "lets-go-pikachu-eevee": 88,
+    "scarlet-violet": 194
   },
   "type": {
     "one": "Poison"

@@ -12,6 +12,9 @@
     "french": "Balignon"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 34,
+    "emerald": 34,
+    "omega-ruby-alpha-sapphire": 35,
     "scarlet-violet": 106
   },
   "type": {

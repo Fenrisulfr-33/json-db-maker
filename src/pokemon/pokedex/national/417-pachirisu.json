@@ -12,8 +12,12 @@
     "french": "Pachirisu"
   },
   "pokedexNumber": {
+    "diamond-pearl": 55,
+    "platinum": 55,
+    "x-y-coastal": 132,
+    "legends-arceus": 109,
     "scarlet-violet": 201,
-    "legends-arceus": 109
+    "the-teal-mask": 63
   },
   "type": {
     "one": "Electric"

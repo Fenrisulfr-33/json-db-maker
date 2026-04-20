@@ -11,7 +11,13 @@
     "german": "Marikeck",
     "french": "Otarlette"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 8,
+    "sun-moon-melemele": 8,
+    "ultra-sun-ultra-moon": 8,
+    "ultra-sun-ultra-moon-melemele": 8,
+    "the-indigo-disk": 225
+  },
   "type": {
     "one": "Water"
   },

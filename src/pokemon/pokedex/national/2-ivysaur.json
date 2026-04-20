@@ -12,11 +12,16 @@
     "french": "Herbizarre"
   },
   "pokedexNumber": {
-    "isle-of-armor": 69,
-    "crystal": 232,
-    "gold-silver": 232,
+    "red-blue": 2,
     "yellow": 2,
-    "red-blue": 2
+    "gold-silver": 227,
+    "crystal": 227,
+    "firered-leafgreen": 2,
+    "heartgold-soulsilver": 232,
+    "x-y-central": 81,
+    "lets-go-pikachu-eevee": 2,
+    "isle-of-armor": 69,
+    "the-indigo-disk": 165
   },
   "type": {
     "one": "Grass",

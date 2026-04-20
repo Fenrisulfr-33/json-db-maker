@@ -12,9 +12,12 @@
     "french": "Foretress"
   },
   "pokedexNumber": {
-    "scarlet-violet": 259,
+    "gold-silver": 94,
     "crystal": 94,
-    "gold-silver": 94
+    "heartgold-soulsilver": 94,
+    "ultra-sun-ultra-moon": 269,
+    "ultra-sun-ultra-moon-ulaula": 90,
+    "scarlet-violet": 259
   },
   "type": {
     "one": "Bug",

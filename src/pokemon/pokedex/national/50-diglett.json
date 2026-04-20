@@ -12,12 +12,21 @@
     "french": "Taupiqueur"
   },
   "pokedexNumber": {
-    "scarlet-violet": 148,
-    "sword-shield": 164,
-    "crystal": 134,
-    "gold-silver": 134,
+    "red-blue": 50,
     "yellow": 50,
-    "red-blue": 50
+    "gold-silver": 132,
+    "crystal": 132,
+    "firered-leafgreen": 50,
+    "heartgold-soulsilver": 134,
+    "x-y-mountain": 1,
+    "sun-moon-ulaula": 38,
+    "sun-moon-poni": 22,
+    "ultra-sun-ultra-moon-melemele": 85,
+    "ultra-sun-ultra-moon-akala": 29,
+    "ultra-sun-ultra-moon-poni": 31,
+    "lets-go-pikachu-eevee": 50,
+    "sword-shield": 164,
+    "scarlet-violet": 148
   },
   "type": {
     "one": "Ground"

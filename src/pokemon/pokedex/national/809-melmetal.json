@@ -11,7 +11,9 @@
     "german": "Melmetal",
     "french": "Melmetal"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "lets-go-pikachu-eevee": 153
+  },
   "type": {
     "one": "Steel"
   },

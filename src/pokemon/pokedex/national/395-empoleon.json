@@ -12,7 +12,10 @@
     "french": "Pingoléon"
   },
   "pokedexNumber": {
-    "legends-arceus": 163
+    "diamond-pearl": 9,
+    "platinum": 9,
+    "legends-arceus": 163,
+    "the-indigo-disk": 199
   },
   "type": {
     "one": "Water",

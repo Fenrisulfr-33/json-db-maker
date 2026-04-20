@@ -12,9 +12,9 @@
     "french": "Pachyradjah"
   },
   "pokedexNumber": {
-    "scarlet-violet": 125,
     "sword-shield": 303,
-    "crown-tundra": 109
+    "crown-tundra": 109,
+    "scarlet-violet": 125
   },
   "type": {
     "one": "Steel"

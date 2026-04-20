@@ -12,10 +12,12 @@
     "french": "Togetic"
   },
   "pokedexNumber": {
-    "legends-arceus": 128,
-    "sword-shield": 258,
+    "gold-silver": 47,
     "crystal": 47,
-    "gold-silver": 47
+    "platinum": 174,
+    "heartgold-soulsilver": 47,
+    "sword-shield": 258,
+    "legends-arceus": 128
   },
   "type": {
     "one": "Fairy",

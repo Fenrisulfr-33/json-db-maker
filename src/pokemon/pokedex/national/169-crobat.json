@@ -12,10 +12,28 @@
     "french": "Nostenfer"
   },
   "pokedexNumber": {
-    "legends-arceus": 36,
-    "crown-tundra": 146,
+    "gold-silver": 39,
     "crystal": 39,
-    "gold-silver": 39
+    "ruby-sapphire": 65,
+    "emerald": 65,
+    "diamond-pearl": 30,
+    "platinum": 30,
+    "heartgold-soulsilver": 39,
+    "black-2-white-2": 63,
+    "x-y-central": 147,
+    "omega-ruby-alpha-sapphire": 67,
+    "sun-moon": 70,
+    "sun-moon-melemele": 70,
+    "sun-moon-akala": 28,
+    "sun-moon-ulaula": 37,
+    "sun-moon-poni": 21,
+    "ultra-sun-ultra-moon": 82,
+    "ultra-sun-ultra-moon-melemele": 82,
+    "ultra-sun-ultra-moon-akala": 28,
+    "ultra-sun-ultra-moon-ulaula": 37,
+    "ultra-sun-ultra-moon-poni": 28,
+    "crown-tundra": 146,
+    "legends-arceus": 36
   },
   "type": {
     "one": "Poison",

@@ -12,8 +12,16 @@
     "french": "Colhomard"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 130,
+    "emerald": 130,
+    "black-2-white-2": 280,
+    "x-y-central": 52,
+    "omega-ruby-alpha-sapphire": 135,
+    "ultra-sun-ultra-moon": 358,
+    "ultra-sun-ultra-moon-poni": 105,
     "sword-shield": 103,
-    "isle-of-armor": 92
+    "isle-of-armor": 92,
+    "the-teal-mask": 12
   },
   "type": {
     "one": "Water",

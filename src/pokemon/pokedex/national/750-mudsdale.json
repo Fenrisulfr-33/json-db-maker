@@ -12,8 +12,17 @@
     "french": "Bourrinos"
   },
   "pokedexNumber": {
+    "sun-moon": 133,
+    "sun-moon-akala": 60,
+    "sun-moon-ulaula": 59,
+    "sun-moon-poni": 60,
+    "ultra-sun-ultra-moon": 166,
+    "ultra-sun-ultra-moon-akala": 67,
+    "ultra-sun-ultra-moon-ulaula": 65,
+    "ultra-sun-ultra-moon-poni": 72,
+    "sword-shield": 85,
     "scarlet-violet": 273,
-    "sword-shield": 85
+    "the-teal-mask": 130
   },
   "type": {
     "one": "Ground"

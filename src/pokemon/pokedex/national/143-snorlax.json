@@ -12,13 +12,24 @@
     "french": "Ronflex"
   },
   "pokedexNumber": {
-    "legends-arceus": 52,
+    "red-blue": 143,
+    "yellow": 143,
+    "gold-silver": 225,
+    "crystal": 225,
+    "firered-leafgreen": 143,
+    "diamond-pearl": 113,
+    "platinum": 113,
+    "heartgold-soulsilver": 230,
+    "x-y-central": 139,
+    "sun-moon": 36,
+    "sun-moon-melemele": 36,
+    "ultra-sun-ultra-moon": 43,
+    "ultra-sun-ultra-moon-melemele": 43,
+    "lets-go-pikachu-eevee": 143,
     "sword-shield": 261,
     "crown-tundra": 173,
-    "crystal": 230,
-    "gold-silver": 230,
-    "yellow": 143,
-    "red-blue": 143
+    "legends-arceus": 52,
+    "the-teal-mask": 103
   },
   "type": {
     "one": "Normal"

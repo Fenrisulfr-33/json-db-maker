@@ -12,11 +12,16 @@
     "french": "Bulbizarre"
   },
   "pokedexNumber": {
-    "isle-of-armor": 68,
-    "crystal": 231,
-    "gold-silver": 231,
+    "red-blue": 1,
     "yellow": 1,
-    "red-blue": 1
+    "gold-silver": 226,
+    "crystal": 226,
+    "firered-leafgreen": 1,
+    "heartgold-soulsilver": 231,
+    "x-y-central": 80,
+    "lets-go-pikachu-eevee": 1,
+    "isle-of-armor": 68,
+    "the-indigo-disk": 164
   },
   "type": {
     "one": "Grass",

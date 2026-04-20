@@ -12,9 +12,9 @@
     "french": "Dolman"
   },
   "pokedexNumber": {
-    "scarlet-violet": 319,
     "sword-shield": 369,
-    "crown-tundra": 89
+    "crown-tundra": 89,
+    "scarlet-violet": 319
   },
   "type": {
     "one": "Rock"

@@ -11,7 +11,13 @@
     "german": "Fiffyen",
     "french": "Medhyèna"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "ruby-sapphire": 10,
+    "emerald": 10,
+    "x-y-mountain": 44,
+    "omega-ruby-alpha-sapphire": 10,
+    "the-teal-mask": 7
+  },
   "type": {
     "one": "Dark"
   },

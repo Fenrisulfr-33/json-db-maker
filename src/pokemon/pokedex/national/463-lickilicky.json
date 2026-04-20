@@ -12,10 +12,16 @@
     "french": "Coudlangue"
   },
   "pokedexNumber": {
-    "legends-arceus": 126,
-    "isle-of-armor": 55,
+    "gold-silver": 181,
     "crystal": 181,
-    "gold-silver": 181
+    "platinum": 162,
+    "heartgold-soulsilver": 181,
+    "black-2-white-2": 285,
+    "x-y-mountain": 135,
+    "ultra-sun-ultra-moon": 376,
+    "ultra-sun-ultra-moon-poni": 123,
+    "isle-of-armor": 55,
+    "legends-arceus": 126
   },
   "type": {
     "one": "Normal"

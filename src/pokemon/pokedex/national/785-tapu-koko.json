@@ -11,7 +11,11 @@
     "german": "Kapu-Riki",
     "french": "Tokopiyon"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 285,
+    "sun-moon-melemele": 120,
+    "ultra-sun-ultra-moon": 383
+  },
   "type": {
     "one": "Electric",
     "two": "Fairy"

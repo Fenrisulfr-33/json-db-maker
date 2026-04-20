@@ -12,7 +12,18 @@
     "french": "Crabominable"
   },
   "pokedexNumber": {
-    "scarlet-violet": 119
+    "sun-moon": 60,
+    "sun-moon-melemele": 60,
+    "sun-moon-akala": 22,
+    "sun-moon-ulaula": 31,
+    "sun-moon-poni": 18,
+    "ultra-sun-ultra-moon": 72,
+    "ultra-sun-ultra-moon-melemele": 72,
+    "ultra-sun-ultra-moon-akala": 22,
+    "ultra-sun-ultra-moon-ulaula": 31,
+    "ultra-sun-ultra-moon-poni": 25,
+    "scarlet-violet": 119,
+    "the-indigo-disk": 73
   },
   "type": {
     "one": "Fighting",

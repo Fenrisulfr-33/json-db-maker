@@ -12,11 +12,26 @@
     "french": "Racaillou"
   },
   "pokedexNumber": {
-    "legends-arceus": 46,
-    "crystal": 34,
-    "gold-silver": 34,
+    "red-blue": 74,
     "yellow": 74,
-    "red-blue": 74
+    "gold-silver": 34,
+    "crystal": 34,
+    "ruby-sapphire": 57,
+    "emerald": 57,
+    "firered-leafgreen": 74,
+    "diamond-pearl": 31,
+    "platinum": 31,
+    "heartgold-soulsilver": 34,
+    "x-y-mountain": 9,
+    "omega-ruby-alpha-sapphire": 58,
+    "sun-moon": 229,
+    "sun-moon-ulaula": 101,
+    "ultra-sun-ultra-moon": 298,
+    "ultra-sun-ultra-moon-ulaula": 119,
+    "lets-go-pikachu-eevee": 74,
+    "legends-arceus": 46,
+    "the-teal-mask": 80,
+    "the-indigo-disk": 96
   },
   "type": {
     "one": "Rock",

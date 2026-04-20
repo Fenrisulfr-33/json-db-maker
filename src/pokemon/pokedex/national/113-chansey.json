@@ -12,13 +12,29 @@
     "french": "Leveinard"
   },
   "pokedexNumber": {
-    "scarlet-violet": 44,
-    "legends-arceus": 87,
-    "isle-of-armor": 7,
-    "crystal": 222,
-    "gold-silver": 222,
+    "red-blue": 113,
     "yellow": 113,
-    "red-blue": 113
+    "gold-silver": 207,
+    "crystal": 207,
+    "firered-leafgreen": 113,
+    "diamond-pearl": 97,
+    "platinum": 97,
+    "heartgold-soulsilver": 222,
+    "sun-moon": 33,
+    "sun-moon-melemele": 33,
+    "sun-moon-akala": 17,
+    "sun-moon-ulaula": 16,
+    "sun-moon-poni": 9,
+    "ultra-sun-ultra-moon": 40,
+    "ultra-sun-ultra-moon-melemele": 40,
+    "ultra-sun-ultra-moon-akala": 17,
+    "ultra-sun-ultra-moon-ulaula": 16,
+    "ultra-sun-ultra-moon-poni": 16,
+    "lets-go-pikachu-eevee": 113,
+    "isle-of-armor": 7,
+    "legends-arceus": 87,
+    "scarlet-violet": 44,
+    "the-indigo-disk": 17
   },
   "type": {
     "one": "Normal"

@@ -12,12 +12,25 @@
     "french": "Kadabra"
   },
   "pokedexNumber": {
-    "legends-arceus": 59,
-    "isle-of-armor": 32,
-    "crystal": 90,
-    "gold-silver": 90,
+    "red-blue": 64,
     "yellow": 64,
-    "red-blue": 64
+    "gold-silver": 90,
+    "crystal": 90,
+    "ruby-sapphire": 40,
+    "emerald": 40,
+    "firered-leafgreen": 64,
+    "diamond-pearl": 21,
+    "platinum": 21,
+    "heartgold-soulsilver": 90,
+    "x-y-central": 103,
+    "omega-ruby-alpha-sapphire": 41,
+    "sun-moon": 43,
+    "sun-moon-melemele": 43,
+    "ultra-sun-ultra-moon": 50,
+    "ultra-sun-ultra-moon-melemele": 50,
+    "lets-go-pikachu-eevee": 64,
+    "isle-of-armor": 32,
+    "legends-arceus": 59
   },
   "type": {
     "one": "Psychic"

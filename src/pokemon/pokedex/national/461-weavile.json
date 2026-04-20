@@ -12,10 +12,19 @@
     "french": "Dimoret"
   },
   "pokedexNumber": {
-    "scarlet-violet": 231,
-    "legends-arceus": 204,
+    "diamond-pearl": 145,
+    "platinum": 145,
+    "black-2-white-2": 253,
+    "x-y-mountain": 92,
+    "sun-moon": 250,
+    "sun-moon-ulaula": 122,
+    "ultra-sun-ultra-moon": 327,
+    "ultra-sun-ultra-moon-ulaula": 148,
     "sword-shield": 293,
-    "crown-tundra": 29
+    "crown-tundra": 29,
+    "legends-arceus": 204,
+    "scarlet-violet": 231,
+    "the-teal-mask": 171
   },
   "type": {
     "one": "Dark",

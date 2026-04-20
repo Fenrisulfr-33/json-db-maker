@@ -12,7 +12,12 @@
     "french": "Chinchidou"
   },
   "pokedexNumber": {
-    "sword-shield": 50
+    "black-white": 78,
+    "black-2-white-2": 107,
+    "ultra-sun-ultra-moon": 266,
+    "ultra-sun-ultra-moon-ulaula": 87,
+    "sword-shield": 50,
+    "the-indigo-disk": 111
   },
   "type": {
     "one": "Normal"

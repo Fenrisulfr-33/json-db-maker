@@ -12,7 +12,11 @@
     "french": "Hélionceau"
   },
   "pokedexNumber": {
-    "scarlet-violet": 224
+    "x-y-central": 57,
+    "ultra-sun-ultra-moon": 370,
+    "ultra-sun-ultra-moon-poni": 117,
+    "scarlet-violet": 224,
+    "the-indigo-disk": 36
   },
   "type": {
     "one": "Fire",

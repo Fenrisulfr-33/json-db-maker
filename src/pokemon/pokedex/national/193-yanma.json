@@ -12,8 +12,13 @@
     "french": "Yanma"
   },
   "pokedexNumber": {
+    "gold-silver": 101,
     "crystal": 101,
-    "gold-silver": 101
+    "platinum": 183,
+    "heartgold-soulsilver": 101,
+    "black-2-white-2": 286,
+    "x-y-coastal": 87,
+    "the-teal-mask": 3
   },
   "type": {
     "one": "Bug",

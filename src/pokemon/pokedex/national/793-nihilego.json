@@ -11,7 +11,10 @@
     "german": "Anego",
     "french": "Zéroïd"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 293,
+    "ultra-sun-ultra-moon": 391
+  },
   "type": {
     "one": "Rock",
     "two": "Poison"

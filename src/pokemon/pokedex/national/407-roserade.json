@@ -12,8 +12,13 @@
     "french": "Roserade"
   },
   "pokedexNumber": {
-    "legends-arceus": 91,
-    "sword-shield": 61
+    "diamond-pearl": 27,
+    "platinum": 27,
+    "black-2-white-2": 135,
+    "x-y-central": 73,
+    "omega-ruby-alpha-sapphire": 99,
+    "sword-shield": 61,
+    "legends-arceus": 91
   },
   "type": {
     "one": "Grass",

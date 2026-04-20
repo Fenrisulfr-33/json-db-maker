@@ -12,8 +12,16 @@
     "french": "Coxy"
   },
   "pokedexNumber": {
+    "gold-silver": 30,
     "crystal": 30,
-    "gold-silver": 30
+    "heartgold-soulsilver": 30,
+    "x-y-central": 74,
+    "sun-moon": 20,
+    "sun-moon-melemele": 20,
+    "sun-moon-ulaula": 8,
+    "ultra-sun-ultra-moon": 20,
+    "ultra-sun-ultra-moon-melemele": 20,
+    "ultra-sun-ultra-moon-ulaula": 8
   },
   "type": {
     "one": "Bug",

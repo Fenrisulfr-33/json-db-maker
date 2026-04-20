@@ -12,8 +12,18 @@
     "french": "Vaututrice"
   },
   "pokedexNumber": {
+    "black-white": 136,
+    "black-2-white-2": 112,
+    "sun-moon": 78,
+    "sun-moon-melemele": 78,
+    "sun-moon-poni": 29,
+    "ultra-sun-ultra-moon": 92,
+    "ultra-sun-ultra-moon-melemele": 92,
+    "ultra-sun-ultra-moon-poni": 38,
     "sword-shield": 284,
-    "isle-of-armor": 182
+    "isle-of-armor": 182,
+    "the-teal-mask": 128,
+    "the-indigo-disk": 35
   },
   "type": {
     "one": "Dark",

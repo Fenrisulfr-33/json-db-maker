@@ -12,13 +12,21 @@
     "french": "Crustabri"
   },
   "pokedexNumber": {
-    "scarlet-violet": 330,
+    "red-blue": 91,
+    "yellow": 91,
+    "gold-silver": 170,
+    "crystal": 170,
+    "firered-leafgreen": 91,
+    "heartgold-soulsilver": 172,
+    "x-y-coastal": 37,
+    "sun-moon": 116,
+    "sun-moon-melemele": 116,
+    "ultra-sun-ultra-moon": 139,
+    "ultra-sun-ultra-moon-melemele": 139,
+    "lets-go-pikachu-eevee": 91,
     "sword-shield": 151,
     "isle-of-armor": 132,
-    "crystal": 172,
-    "gold-silver": 172,
-    "yellow": 91,
-    "red-blue": 91
+    "scarlet-violet": 330
   },
   "type": {
     "one": "Water",

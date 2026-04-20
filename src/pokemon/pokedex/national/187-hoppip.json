@@ -12,9 +12,11 @@
     "french": "Granivol"
   },
   "pokedexNumber": {
-    "scarlet-violet": 16,
+    "gold-silver": 67,
     "crystal": 67,
-    "gold-silver": 67
+    "heartgold-soulsilver": 67,
+    "x-y-central": 135,
+    "scarlet-violet": 16
   },
   "type": {
     "one": "Grass",

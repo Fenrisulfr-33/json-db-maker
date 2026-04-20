@@ -12,9 +12,18 @@
     "french": "Chartor"
   },
   "pokedexNumber": {
-    "scarlet-violet": 150,
+    "ruby-sapphire": 105,
+    "emerald": 105,
+    "x-y-mountain": 96,
+    "omega-ruby-alpha-sapphire": 110,
+    "sun-moon": 223,
+    "sun-moon-ulaula": 95,
+    "ultra-sun-ultra-moon": 287,
+    "ultra-sun-ultra-moon-ulaula": 108,
     "sword-shield": 300,
-    "isle-of-armor": 173
+    "isle-of-armor": 173,
+    "scarlet-violet": 150,
+    "the-indigo-disk": 86
   },
   "type": {
     "one": "Fire"

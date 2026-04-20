@@ -12,6 +12,9 @@
     "french": "Chapignon"
   },
   "pokedexNumber": {
+    "ruby-sapphire": 35,
+    "emerald": 35,
+    "omega-ruby-alpha-sapphire": 36,
     "scarlet-violet": 107
   },
   "type": {

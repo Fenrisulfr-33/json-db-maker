@@ -12,8 +12,13 @@
     "french": "Corboss"
   },
   "pokedexNumber": {
-    "scarlet-violet": 233,
-    "legends-arceus": 141
+    "x-y-mountain": 52,
+    "sun-moon": 278,
+    "sun-moon-poni": 93,
+    "ultra-sun-ultra-moon": 79,
+    "ultra-sun-ultra-moon-melemele": 79,
+    "legends-arceus": 141,
+    "scarlet-violet": 233
   },
   "type": {
     "one": "Dark",

@@ -12,8 +12,16 @@
     "french": "Drattak"
   },
   "pokedexNumber": {
-    "scarlet-violet": 278,
-    "crown-tundra": 115
+    "ruby-sapphire": 189,
+    "emerald": 189,
+    "x-y-coastal": 16,
+    "omega-ruby-alpha-sapphire": 198,
+    "sun-moon": 119,
+    "sun-moon-melemele": 119,
+    "ultra-sun-ultra-moon": 149,
+    "ultra-sun-ultra-moon-melemele": 149,
+    "crown-tundra": 115,
+    "scarlet-violet": 278
   },
   "type": {
     "one": "Dragon",

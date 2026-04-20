@@ -12,7 +12,10 @@
     "french": "Torterra"
   },
   "pokedexNumber": {
-    "legends-arceus": 132
+    "diamond-pearl": 3,
+    "platinum": 3,
+    "legends-arceus": 132,
+    "the-indigo-disk": 193
   },
   "type": {
     "one": "Grass",
