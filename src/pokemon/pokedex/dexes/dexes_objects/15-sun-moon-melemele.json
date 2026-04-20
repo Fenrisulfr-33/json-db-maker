@@ -1,7 +1,7 @@
 [
   {
     "dexNo": 1,
-    "pokemonId": 772
+    "pokemonId": 722
   },
   {
     "dexNo": 2,
@@ -57,11 +57,11 @@
   },
   {
     "dexNo": 15,
-    "pokemonId": 19.1
+    "pokemonId": 19
   },
   {
     "dexNo": 16,
-    "pokemonId": 20.1
+    "pokemonId": 20
   },
   {
     "dexNo": 17,
@@ -177,11 +177,11 @@
   },
   {
     "dexNo": 45,
-    "pokemonId": 52.1
+    "pokemonId": 52
   },
   {
     "dexNo": 46,
-    "pokemonId": 53.1
+    "pokemonId": 53
   },
   {
     "dexNo": 47,
@@ -281,11 +281,11 @@
   },
   {
     "dexNo": 71,
-    "pokemonId": 50.1
+    "pokemonId": 50
   },
   {
     "dexNo": 72,
-    "pokemonId": 51.1
+    "pokemonId": 51
   },
   {
     "dexNo": 73,
@@ -476,7 +476,7 @@
     "pokemonId": 373
   },
   {
-    "dexNo": 120,
+    "dexNo": 298,
     "pokemonId": 785
   }
 ]
