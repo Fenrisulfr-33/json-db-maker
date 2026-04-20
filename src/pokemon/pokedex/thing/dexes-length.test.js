@@ -18,6 +18,7 @@ describe('Pokedex Length Validation', () => {
     for (const [dexName, dexData] of dexMap.entries()) {
       const actualLength = dexData.length;
       const constantName = dexName.toUpperCase();
+      console.log(`Checking dex: ${dexName}, constant: ${constantName}, actual length: ${actualLength}`);
       const expectedLength = DEXES_LENGTH[constantName];
       
       // Check if constant exists
