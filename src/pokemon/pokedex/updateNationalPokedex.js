@@ -86,24 +86,24 @@ function updateNationalFiles(transformFn, options = {}) {
  * Example transformation functions
  */
 
-// Example 1: Add a new field to all pokemon
-function exampleAddField(pokemon) {
+// Add a new field to all pokemon
+function addField(pokemon) {
   return {
     ...pokemon,
     // newField: 'some value'
   };
 }
 
-// Example 2: Modify an existing field
-function exampleModifyField(pokemon) {
+// Edit an existing field
+function editField(pokemon) {
   return {
     ...pokemon,
     // key: pokemon.key.toUpperCase()
   };
 }
 
-// Example 3: Remove a field
-function exampleRemoveField(pokemon) {
+// Remove a field
+function removeField(pokemon) {
   const { /* fieldToRemove, */ ...rest } = pokemon;
   return rest;
 }
