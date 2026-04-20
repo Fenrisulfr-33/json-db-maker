@@ -57,11 +57,11 @@
   },
   {
     "dexNo": 15,
-    "pokemonId": 19
+    "pokemonId": 19.1
   },
   {
     "dexNo": 16,
-    "pokemonId": 20
+    "pokemonId": 20.1
   },
   {
     "dexNo": 17,
@@ -101,7 +101,7 @@
   },
   {
     "dexNo": 26,
-    "pokemonId": 26
+    "pokemonId": 26.1
   },
   {
     "dexNo": 27,
@@ -177,11 +177,11 @@
   },
   {
     "dexNo": 45,
-    "pokemonId": 52
+    "pokemonId": 52.1
   },
   {
     "dexNo": 46,
-    "pokemonId": 53
+    "pokemonId": 53.1
   },
   {
     "dexNo": 47,
@@ -197,11 +197,11 @@
   },
   {
     "dexNo": 50,
-    "pokemonId": 88
+    "pokemonId": 88.1
   },
   {
     "dexNo": 51,
-    "pokemonId": 89
+    "pokemonId": 89.1
   },
   {
     "dexNo": 52,
@@ -281,11 +281,11 @@
   },
   {
     "dexNo": 71,
-    "pokemonId": 50
+    "pokemonId": 50.1
   },
   {
     "dexNo": 72,
-    "pokemonId": 51
+    "pokemonId": 51.1
   },
   {
     "dexNo": 73,
@@ -653,7 +653,7 @@
   },
   {
     "dexNo": 164,
-    "pokemonId": 105
+    "pokemonId": 105.1
   },
   {
     "dexNo": 165,
@@ -781,51 +781,51 @@
   },
   {
     "dexNo": 196,
-    "pokemonId": 138
+    "pokemonId": 208
   },
   {
     "dexNo": 197,
-    "pokemonId": 139
+    "pokemonId": 209
   },
   {
     "dexNo": 198,
-    "pokemonId": 140
+    "pokemonId": 299
   },
   {
     "dexNo": 199,
-    "pokemonId": 141
+    "pokemonId": 476
   },
   {
     "dexNo": 200,
-    "pokemonId": 142
+    "pokemonId": 771
   },
   {
     "dexNo": 201,
-    "pokemonId": 345
+    "pokemonId": 170
   },
   {
     "dexNo": 202,
-    "pokemonId": 346
+    "pokemonId": 171
   },
   {
     "dexNo": 203,
-    "pokemonId": 347
+    "pokemonId": 772
   },
   {
     "dexNo": 204,
-    "pokemonId": 348
+    "pokemonId": 773
   },
   {
     "dexNo": 205,
-    "pokemonId": 557
+    "pokemonId": 718
   },
   {
     "dexNo": 206,
-    "pokemonId": 558
+    "pokemonId": 568
   },
   {
     "dexNo": 207,
-    "pokemonId": 213
+    "pokemonId": 569
   },
   {
     "dexNo": 208,
@@ -837,374 +837,374 @@
   },
   {
     "dexNo": 210,
-    "pokemonId": 710
-  },
-  {
-    "dexNo": 211,
-    "pokemonId": 711
-  },
-  {
-    "dexNo": 212,
-    "pokemonId": 299
-  },
-  {
-    "dexNo": 213,
-    "pokemonId": 476
-  },
-  {
-    "dexNo": 214,
-    "pokemonId": 771
-  },
-  {
-    "dexNo": 215,
-    "pokemonId": 170
-  },
-  {
-    "dexNo": 216,
-    "pokemonId": 171
-  },
-  {
-    "dexNo": 217,
-    "pokemonId": 772
-  },
-  {
-    "dexNo": 218,
-    "pokemonId": 773
-  },
-  {
-    "dexNo": 219,
-    "pokemonId": 718
-  },
-  {
-    "dexNo": 220,
-    "pokemonId": 568
-  },
-  {
-    "dexNo": 221,
-    "pokemonId": 569
-  },
-  {
-    "dexNo": 222,
-    "pokemonId": 227
-  },
-  {
-    "dexNo": 223,
-    "pokemonId": 132
-  },
-  {
-    "dexNo": 224,
     "pokemonId": 173
   },
   {
-    "dexNo": 225,
+    "dexNo": 211,
     "pokemonId": 35
   },
   {
-    "dexNo": 226,
+    "dexNo": 212,
     "pokemonId": 36
   },
   {
-    "dexNo": 227,
+    "dexNo": 213,
     "pokemonId": 774
   },
   {
-    "dexNo": 228,
+    "dexNo": 214,
     "pokemonId": 374
   },
   {
-    "dexNo": 229,
+    "dexNo": 215,
     "pokemonId": 375
   },
   {
-    "dexNo": 230,
+    "dexNo": 216,
     "pokemonId": 376
   },
   {
-    "dexNo": 231,
+    "dexNo": 217,
     "pokemonId": 137
   },
   {
-    "dexNo": 232,
+    "dexNo": 218,
     "pokemonId": 233
   },
   {
-    "dexNo": 233,
+    "dexNo": 219,
     "pokemonId": 474
   },
   {
-    "dexNo": 234,
+    "dexNo": 220,
     "pokemonId": 674
   },
   {
-    "dexNo": 235,
+    "dexNo": 221,
     "pokemonId": 675
   },
   {
-    "dexNo": 236,
+    "dexNo": 222,
     "pokemonId": 775
   },
   {
-    "dexNo": 237,
+    "dexNo": 223,
     "pokemonId": 324
   },
   {
-    "dexNo": 238,
+    "dexNo": 224,
     "pokemonId": 776
   },
   {
-    "dexNo": 239,
+    "dexNo": 225,
     "pokemonId": 777
   },
   {
-    "dexNo": 240,
+    "dexNo": 226,
     "pokemonId": 239
   },
   {
-    "dexNo": 241,
+    "dexNo": 227,
     "pokemonId": 125
   },
   {
-    "dexNo": 242,
+    "dexNo": 228,
     "pokemonId": 466
   },
   {
-    "dexNo": 243,
-    "pokemonId": 74
+    "dexNo": 229,
+    "pokemonId": 74.1
   },
   {
-    "dexNo": 244,
-    "pokemonId": 75
+    "dexNo": 230,
+    "pokemonId": 75.1
   },
   {
-    "dexNo": 245,
-    "pokemonId": 76
+    "dexNo": 231,
+    "pokemonId": 76.1
   },
   {
-    "dexNo": 246,
+    "dexNo": 232,
     "pokemonId": 551
   },
   {
-    "dexNo": 247,
+    "dexNo": 233,
     "pokemonId": 552
   },
   {
-    "dexNo": 248,
+    "dexNo": 234,
     "pokemonId": 553
   },
   {
-    "dexNo": 249,
+    "dexNo": 235,
     "pokemonId": 328
   },
   {
-    "dexNo": 250,
+    "dexNo": 236,
     "pokemonId": 329
   },
   {
-    "dexNo": 251,
+    "dexNo": 237,
     "pokemonId": 330
   },
   {
-    "dexNo": 252,
+    "dexNo": 238,
     "pokemonId": 443
   },
   {
-    "dexNo": 253,
+    "dexNo": 239,
     "pokemonId": 444
   },
   {
-    "dexNo": 254,
+    "dexNo": 240,
     "pokemonId": 445
   },
   {
-    "dexNo": 255,
+    "dexNo": 241,
     "pokemonId": 707
   },
   {
-    "dexNo": 256,
+    "dexNo": 242,
     "pokemonId": 778
   },
   {
-    "dexNo": 257,
+    "dexNo": 243,
     "pokemonId": 779
   },
   {
-    "dexNo": 258,
+    "dexNo": 244,
     "pokemonId": 780
   },
   {
-    "dexNo": 259,
+    "dexNo": 245,
     "pokemonId": 359
   },
   {
-    "dexNo": 260,
+    "dexNo": 246,
     "pokemonId": 361
   },
   {
-    "dexNo": 261,
+    "dexNo": 247,
     "pokemonId": 362
   },
   {
-    "dexNo": 262,
+    "dexNo": 248,
     "pokemonId": 478
   },
   {
-    "dexNo": 263,
+    "dexNo": 249,
     "pokemonId": 215
   },
   {
-    "dexNo": 264,
+    "dexNo": 250,
     "pokemonId": 461
   },
   {
-    "dexNo": 265,
-    "pokemonId": 27
+    "dexNo": 251,
+    "pokemonId": 27.1
   },
   {
-    "dexNo": 266,
-    "pokemonId": 28
+    "dexNo": 252,
+    "pokemonId": 28.1
   },
   {
-    "dexNo": 267,
-    "pokemonId": 37
+    "dexNo": 253,
+    "pokemonId": 37.1
   },
   {
-    "dexNo": 268,
-    "pokemonId": 38
+    "dexNo": 254,
+    "pokemonId": 38.1
   },
   {
-    "dexNo": 269,
+    "dexNo": 255,
     "pokemonId": 582
   },
   {
-    "dexNo": 270,
+    "dexNo": 256,
     "pokemonId": 583
   },
   {
-    "dexNo": 271,
+    "dexNo": 257,
     "pokemonId": 584
   },
   {
-    "dexNo": 272,
-    "pokemonId": 781
-  },
-  {
-    "dexNo": 273,
-    "pokemonId": 782
-  },
-  {
-    "dexNo": 274,
-    "pokemonId": 783
-  },
-  {
-    "dexNo": 275,
+    "dexNo": 258,
     "pokemonId": 209
   },
   {
-    "dexNo": 276,
+    "dexNo": 259,
     "pokemonId": 210
   },
   {
-    "dexNo": 277,
+    "dexNo": 260,
     "pokemonId": 422
   },
   {
-    "dexNo": 278,
+    "dexNo": 261,
     "pokemonId": 423
   },
   {
-    "dexNo": 279,
+    "dexNo": 262,
     "pokemonId": 369
   },
   {
-    "dexNo": 280,
-    "pokemonId": 784
+    "dexNo": 263,
+    "pokemonId": 781
   },
   {
-    "dexNo": 281,
+    "dexNo": 264,
     "pokemonId": 318
   },
   {
-    "dexNo": 282,
+    "dexNo": 265,
     "pokemonId": 319
   },
   {
-    "dexNo": 283,
+    "dexNo": 266,
     "pokemonId": 320
   },
   {
-    "dexNo": 284,
+    "dexNo": 267,
     "pokemonId": 321
   },
   {
-    "dexNo": 285,
+    "dexNo": 268,
     "pokemonId": 131
   },
   {
-    "dexNo": 286,
+    "dexNo": 269,
     "pokemonId": 102
   },
   {
-    "dexNo": 287,
-    "pokemonId": 103
+    "dexNo": 270,
+    "pokemonId": 103.1
   },
   {
-    "dexNo": 288,
+    "dexNo": 271,
+    "pokemonId": 782
+  },
+  {
+    "dexNo": 272,
+    "pokemonId": 783
+  },
+  {
+    "dexNo": 273,
+    "pokemonId": 784
+  },
+  {
+    "dexNo": 274,
     "pokemonId": 587
   },
   {
-    "dexNo": 289,
+    "dexNo": 275,
     "pokemonId": 123
   },
   {
-    "dexNo": 290,
+    "dexNo": 276,
     "pokemonId": 212
   },
   {
-    "dexNo": 291,
+    "dexNo": 277,
     "pokemonId": 198
   },
   {
-    "dexNo": 292,
+    "dexNo": 278,
     "pokemonId": 430
   },
   {
-    "dexNo": 293,
+    "dexNo": 279,
     "pokemonId": 447
   },
   {
-    "dexNo": 294,
+    "dexNo": 280,
     "pokemonId": 448
   },
   {
-    "dexNo": 295,
+    "dexNo": 281,
     "pokemonId": 147
   },
   {
-    "dexNo": 296,
+    "dexNo": 282,
     "pokemonId": 148
   },
   {
-    "dexNo": 297,
+    "dexNo": 283,
     "pokemonId": 149
   },
   {
-    "dexNo": 298,
+    "dexNo": 284,
+    "pokemonId": 142
+  },
+  {
+    "dexNo": 285,
     "pokemonId": 785
   },
   {
-    "dexNo": 299,
+    "dexNo": 286,
     "pokemonId": 786
   },
   {
-    "dexNo": 300,
+    "dexNo": 287,
     "pokemonId": 787
   },
   {
-    "dexNo": 301,
+    "dexNo": 288,
     "pokemonId": 788
   },
   {
-    "dexNo": 302,
+    "dexNo": 289,
     "pokemonId": 789
+  },
+  {
+    "dexNo": 290,
+    "pokemonId": 790
+  },
+  {
+    "dexNo": 291,
+    "pokemonId": 791
+  },
+  {
+    "dexNo": 292,
+    "pokemonId": 792
+  },
+  {
+    "dexNo": 293,
+    "pokemonId": 793
+  },
+  {
+    "dexNo": 294,
+    "pokemonId": 794
+  },
+  {
+    "dexNo": 295,
+    "pokemonId": 795
+  },
+  {
+    "dexNo": 296,
+    "pokemonId": 796
+  },
+  {
+    "dexNo": 297,
+    "pokemonId": 797
+  },
+  {
+    "dexNo": 298,
+    "pokemonId": 798
+  },
+  {
+    "dexNo": 299,
+    "pokemonId": 799
+  },
+  {
+    "dexNo": 300,
+    "pokemonId": 800
+  },
+  {
+    "dexNo": 301,
+    "pokemonId": 801
+  },
+  {
+    "dexNo": 302,
+    "pokemonId": 802
   }
 ]

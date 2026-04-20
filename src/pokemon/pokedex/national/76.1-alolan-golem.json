@@ -11,7 +11,9 @@
     "german": "Geowaz",
     "french": "Grolem"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 231
+  },
   "type": {
     "one": "Rock",
     "two": "Electric"
@@ -88,6 +90,5 @@
         "desc": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn’t score a direct hit, the jolt of electricity will do the job."
       }
     ]
-  },
-  "pokedexNumbers": {}
+  }
 }

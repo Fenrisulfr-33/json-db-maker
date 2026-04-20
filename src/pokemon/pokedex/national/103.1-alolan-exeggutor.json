@@ -11,7 +11,9 @@
     "german": "Kokowei",
     "french": "Noadkoko"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 270
+  },
   "type": {
     "one": "Grass",
     "two": "Dragon"
@@ -93,6 +95,5 @@
         "desc": "This Pokémon’s psychic powers aren’t as strong as they once were. The head on this Exeggutor’s tail scans surrounding areas with weak telepathy."
       }
     ]
-  },
-  "pokedexNumbers": {}
+  }
 }

@@ -11,7 +11,9 @@
     "german": "Georok",
     "french": "Gravalanch"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 230
+  },
   "type": {
     "one": "Rock",
     "two": "Electric"
@@ -88,6 +90,5 @@
         "desc": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying."
       }
     ]
-  },
-  "pokedexNumbers": {}
+  }
 }

@@ -11,7 +11,9 @@
     "german": "Kleinstein",
     "french": "Racaillou"
   },
-  "pokedexNumber": {},
+  "pokedexNumber": {
+    "sun-moon": 229
+  },
   "type": {
     "one": "Rock",
     "two": "Electric"
@@ -89,6 +91,5 @@
         "desc": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you’ll be in for a painful shock."
       }
     ]
-  },
-  "pokedexNumbers": {}
+  }
 }

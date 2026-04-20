@@ -1,17 +1,38 @@
 {
   "_id": 137,
+  "key": null,
   "name": {
     "english": "Porygon"
   },
+  "pokedexNumber": {},
   "type": {
     "one": "Normal"
   },
-  "species": "Virtual Pokémon",
-  "height": "0.8 m (2'07\")",
-  "weight": "36.5 kg (80.5 lbs)",
   "abilities": {
     "one": "Trace",
     "two": "Download"
   },
-  "pokedexNumber": {}
+  "baseStats": {},
+  "info": {
+    "height": null,
+    "weight": null
+  },
+  "gender": {
+    "male": null,
+    "female": null,
+    "genderless": null
+  },
+  "evolution": null,
+  "generation": null,
+  "evs": {
+    "spatk": 1
+  },
+  "eggGroups": [],
+  "species": "Virtual Pokémon",
+  "catchRate": 45,
+  "baseFriendship": 50,
+  "baseExp": 79,
+  "growthRate": "Medium Fast",
+  "height": "0.8 m (2'07\")",
+  "weight": "36.5 kg (80.5 lbs)"
 }
