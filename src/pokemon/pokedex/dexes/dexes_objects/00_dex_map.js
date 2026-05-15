@@ -36,7 +36,7 @@ const indigo_disk = require('./31-indigo-disk.json');
 const dexMap = new Map();
 
 // Populate the Map with dex name as key and dex data as value
-// dexMap.set('red_blue_yellow', red_blue_yellow);
+dexMap.set('red_blue_yellow', red_blue_yellow);
 // dexMap.set('gold_silver_crystal', gold_silver_crystal);
 // dexMap.set('ruby_sapphire_emerald', ruby_sapphire_emerald);
 // dexMap.set('firered_leafgreen', firered_leafgreen);

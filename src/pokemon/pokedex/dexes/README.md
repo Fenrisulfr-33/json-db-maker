@@ -10,7 +10,8 @@ TODO: Once dexes_objects has been verified, combine dexes that are exactly the s
 
 | Game | Done/Not | Human Verification | Claude Verification |
 | - | - | - | - |
-| Sun & Moon - Alola | Done | - | - |
+| Red, Blue, & Yellow | Done | Done | - |
+| Sun & Moon - Alola | Done | Done | - |
 
 
 - [ ] Sun & Moon - Alola 
