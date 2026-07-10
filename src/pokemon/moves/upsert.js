@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const fs = require("fs");
 const path = require("path");
-const upsertMany = require("../helpers/upsertToMongo");
+const upsertEntries = require("../helpers/upsertEntries");
 
 const ENTRIES_DIR = path.join(__dirname, "entries");
 
@@ -20,7 +20,7 @@ function loadMoves() {
 async function run() {
 	const moves = loadMoves();
 	console.log(`Loaded ${moves.length} moves from ${ENTRIES_DIR}`);
-	await upsertMany(process.env.MONGO_URI, "pokemon", "moves", moves);
+	await upsertEntries({ environment: process.env.MONGO_ENV, dbName: `pokemon-${process.env.MONGO_ENV}`, collectionName: "moves", entries: moves });
 }
 
 if (require.main === module) {

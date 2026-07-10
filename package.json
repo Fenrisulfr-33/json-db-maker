@@ -18,7 +18,12 @@
   },
   "scripts": {
     "test": "jest",
-    "start": ""
+    "start": "",
+    "create-dex": "node src/pokemon/pokedex/dexes/createNewDex.js -- arg1 arg2",
+    "upsert:abilities": "node src/pokemon/abilities/upsert.js",
+    "upsert:moves": "node src/pokemon/moves/upsert.js",
+    "upsert:pokemon": "node src/pokemon/pokedex/upsert.js",
+    "upsert:all": "npm run upsert:abilities && npm run upsert:moves && npm run upsert:pokemon"
   },
   "repository": {
     "type": "git",
