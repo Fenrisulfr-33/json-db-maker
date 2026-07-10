@@ -1,0 +1,47 @@
+{
+  "_id": 208,
+  "key": "milk-drink",
+  "name": {
+    "english": "Milk Drink",
+    "japanese": "ミルクのみ",
+    "chinese": "饮奶",
+    "korean": "우유마시기",
+    "german": "Batido",
+    "french": "Milchgetränk",
+    "italian": "Milk Drink",
+    "spanish": "Buonlatte"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Restores HP by 1/2\nthe max HP.",
+    "crystal": "Restores HP by 1/2\nthe max HP.",
+    "ruby-sapphire": "Recovers up to half the\nuser’s maximum HP.",
+    "emerald": "Recovers up to half the\nuser’s maximum HP.",
+    "firered-leafgreen": "Heals the user by\nup to half its full\nHP. It can be used\nto heal an ally.",
+    "diamond-pearl": "The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP.",
+    "platinum": "The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP.",
+    "heartgold-soulsilver": "The user restores its\nown HP by up to half\nof its maximum HP.\nIt may also be used\nto heal an ally’s HP.",
+    "black-white": "The user restores its own HP\nby up to half of its maximum HP.\nMay also be used in the field to heal HP.",
+    "black-2-white-2": "The user restores its own HP\nby up to half of its maximum HP.\nMay also be used in the field to heal HP.",
+    "x-y": "The user restores its own HP\nby up to half of its max HP.\nMay also be used in the field to heal HP.",
+    "omega-ruby-alpha-sapphire": "The user restores its own HP\nby up to half of its max HP.\nMay also be used in the field to heal HP.",
+    "sun-moon": "The user restores its own HP by up to half of its\nmax HP.",
+    "ultra-sun-ultra-moon": "The user restores its own HP by up to half of its\nmax HP.",
+    "lets-go-pikachu-lets-go-eevee": "The user restores its own HP by up to half of its\nmax HP.",
+    "sword-shield": "The user restores its own HP by up to half of its\nmax HP."
+  },
+  "effect": {
+    "full": "Heals the user for half its max HP.",
+    "shortEffect": "Heals the user by half its max HP."
+  },
+  "priority": 0
+}

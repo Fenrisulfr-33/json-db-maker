@@ -1,0 +1,30 @@
+{
+  "_id": 80,
+  "evoLine": [
+    [
+      {
+        "id": 137,
+        "name": "Porygon",
+        "type": {
+          "one": "Normal"
+        }
+      },
+      {
+        "id": 233,
+        "name": "Porygon2",
+        "type": {
+          "one": "Normal"
+        },
+        "how": "trade holding Upgrade"
+      },
+      {
+        "id": 474,
+        "name": "Porygon-Z",
+        "type": {
+          "one": "Normal"
+        },
+        "how": "trade holding Dubious Disc"
+      }
+    ]
+  ]
+}

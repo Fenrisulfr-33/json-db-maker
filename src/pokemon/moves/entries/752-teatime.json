@@ -1,0 +1,29 @@
+{
+  "_id": 752,
+  "key": "teatime",
+  "name": {
+    "english": "Teatime",
+    "japanese": "おちゃかい",
+    "chinese": "茶會",
+    "korean": "다과회",
+    "german": "Hora del Té",
+    "french": "Teatime",
+    "italian": "Teatime",
+    "spanish": "Ora del Tè"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "all-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user has teatime with all the Pokémon in the battle.\nEach Pokémon eats its held Berry."
+  },
+  "effect": {},
+  "priority": 0
+}

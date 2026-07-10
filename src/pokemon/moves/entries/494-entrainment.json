@@ -1,0 +1,39 @@
+{
+  "_id": 494,
+  "key": "entrainment",
+  "name": {
+    "english": "Entrainment",
+    "japanese": "なかまづくり",
+    "chinese": "变为同伴",
+    "korean": "동료만들기",
+    "german": "Danza Amiga",
+    "french": "Zwango",
+    "italian": "Entrainment",
+    "spanish": "Saltamicizia"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user dances with an odd rhythm that\ncompels the target to mimic it, making the\ntarget’s Ability the same as the user’s.",
+    "black-2-white-2": "The user dances with an odd rhythm that\ncompels the target to mimic it, making the\ntarget’s Ability the same as the user’s.",
+    "x-y": "The user dances with an odd rhythm that\ncompels the target to mimic it, making the\ntarget’s Ability the same as the user’s.",
+    "omega-ruby-alpha-sapphire": "The user dances with an odd rhythm that\ncompels the target to mimic it, making the\ntarget’s Ability the same as the user’s.",
+    "sun-moon": "The user dances with an odd rhythm that compels\nthe target to mimic it, making the target’s Ability\nthe same as the user’s.",
+    "ultra-sun-ultra-moon": "The user dances with an odd rhythm that compels\nthe target to mimic it, making the target’s Ability\nthe same as the user’s.",
+    "lets-go-pikachu-lets-go-eevee": "The user dances with an odd rhythm that compels\nthe target to mimic it, making the target’s Ability\nthe same as the user’s.",
+    "sword-shield": "The user dances with an odd rhythm that compels\nthe target to mimic it, making the target’s Ability\nthe same as the user’s."
+  },
+  "effect": {
+    "full": "Changes the target's ability to match the user's.  This effect ends when the target leaves battle.",
+    "shortEffect": "Copies the user's ability onto the target."
+  },
+  "priority": 0
+}

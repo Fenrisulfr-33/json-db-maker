@@ -1,0 +1,67 @@
+{
+  "_id": 83,
+  "key": "anger-point",
+  "name": {
+    "english": "Anger Point"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Raises Attack to the maximum of six stages upon receiving a critical hit.",
+    "full": "Whenever this Pokémon receives a critical hit, its Attack rises to the maximum of 6 stages. This ability will still take effect if the critical hit is received by a substitute."
+  },
+  "description": {
+    "diamond-pearl": "Raises Attack upon taking a critical hit.",
+    "platinum": "Raises Attack upon taking a critical hit.",
+    "heartgold-soulsilver": "Raises Attack upon taking a critical hit.",
+    "black-white": "Maxes Attack after taking a critical hit.",
+    "black-2-white-2": "Maxes Attack after taking a critical hit.",
+    "x-y": "Maxes the Attack stat after the Pokémon takes a critical hit.",
+    "omega-ruby-alpha-sapphire": "Maxes the Attack stat after the Pokémon takes a critical hit.",
+    "sun-moon": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
+    "ultra-sun-ultra-moon": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.",
+    "sword-shield": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Mankey",
+        "id": 56
+      },
+      {
+        "name": "Primeape",
+        "id": 57
+      },
+      {
+        "name": "Tauros",
+        "id": 128
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Camerupt",
+        "id": 323
+      },
+      {
+        "name": "Sandile",
+        "id": 551
+      },
+      {
+        "name": "Krokorok",
+        "id": 552
+      },
+      {
+        "name": "Krookodile",
+        "id": 553
+      },
+      {
+        "name": "Crabrawler",
+        "id": 739
+      },
+      {
+        "name": "Crabominable",
+        "id": 740
+      }
+    ]
+  }
+}

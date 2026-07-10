@@ -1,0 +1,47 @@
+{
+  "_id": 84,
+  "key": "thunder-shock",
+  "name": {
+    "english": "Thunder Shock",
+    "japanese": "でんきショック",
+    "chinese": "电击",
+    "korean": "전기쇼크",
+    "german": "Impactrueno",
+    "french": "Donnerschock",
+    "italian": "Thunder Shock",
+    "spanish": "Tuonoshock"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause paralysis.",
+    "crystal": "An attack that may\ncause paralysis.",
+    "ruby-sapphire": "An electrical attack that\nmay paralyze the foe.",
+    "emerald": "An electrical attack that\nmay paralyze the foe.",
+    "firered-leafgreen": "An electric shock\nattack that may\nalso leave the foe\nparalyzed.",
+    "diamond-pearl": "A jolt of electricity\nis hurled at the foe\nto inflict damage.\nIt may also leave the\nfoe paralyzed.",
+    "platinum": "A jolt of electricity\nis hurled at the foe\nto inflict damage.\nIt may also leave the\nfoe paralyzed.",
+    "heartgold-soulsilver": "A jolt of electricity\nis hurled at the foe\nto inflict damage.\nIt may also leave the\nfoe paralyzed.",
+    "black-white": "A jolt of electricity is hurled\nat the target to inflict damage. It may\nalso leave the target with paralysis.",
+    "black-2-white-2": "A jolt of electricity is hurled\nat the target to inflict damage. It may\nalso leave the target with paralysis.",
+    "x-y": "A jolt of electricity crashes down on\nthe target to inflict damage. This may\nalso leave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "A jolt of electricity crashes down on\nthe target to inflict damage. This may\nalso leave the target with paralysis.",
+    "sun-moon": "A jolt of electricity crashes down on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+    "ultra-sun-ultra-moon": "A jolt of electricity crashes down on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "A jolt of electricity crashes down on the target to\ninflict damage. This may also leave the target\nwith paralysis.",
+    "sword-shield": "A jolt of electricity crashes down on the target to\ninflict damage. This may also leave the target\nwith paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

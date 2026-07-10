@@ -1,0 +1,37 @@
+{
+  "_id": 573,
+  "key": "freeze-dry",
+  "name": {
+    "english": "Freeze-Dry",
+    "japanese": "フリーズドライ",
+    "chinese": "冰冻干燥",
+    "korean": "프리즈드라이",
+    "german": "Liofilización",
+    "french": "Gefriertrockner",
+    "italian": "Freeze-Dry",
+    "spanish": "Liofilizzazione"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user rapidly cools the target.\nThis may also leave the target frozen.\nThis move is super effective on Water types.",
+    "omega-ruby-alpha-sapphire": "The user rapidly cools the target.\nThis may also leave the target frozen.\nThis move is super effective on Water types.",
+    "sun-moon": "The user rapidly cools the target. This may also\nleave the target frozen. This move is super effective\non Water types.",
+    "ultra-sun-ultra-moon": "The user rapidly cools the target. This may also\nleave the target frozen. This move is super effective\non Water types.",
+    "lets-go-pikachu-lets-go-eevee": "The user rapidly cools the target. This may also\nleave the target frozen. This move is super effective\non Water types.",
+    "sword-shield": "The user rapidly cools the target. This may also\nleave the target frozen. This move is super effective\non Water types."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  This move is super-effective against the water type.\n\nThe target's other type will affect damage as usual.  If this move's type is changed, it remains super-effective against Water regardless of its type.",
+    "shortEffect": "Super-effective against water."
+  },
+  "priority": 0
+}

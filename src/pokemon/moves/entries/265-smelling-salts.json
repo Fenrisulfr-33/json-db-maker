@@ -1,0 +1,45 @@
+{
+  "_id": 265,
+  "key": "smelling-salts",
+  "name": {
+    "english": "Smelling Salts",
+    "japanese": "きつけ",
+    "chinese": "苏醒",
+    "korean": "정신차리기",
+    "german": "Estímulo",
+    "french": "Riechsalz",
+    "italian": "Smelling Salts",
+    "spanish": "Maniereforti"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Powerful against paralyzed\nfoes, but also heals them.",
+    "emerald": "Powerful against paralyzed\nfoes, but also heals them.",
+    "firered-leafgreen": "Doubly effective on\na paralyzed foe,\nbut it also cures\nthe foe’s paralysis.",
+    "diamond-pearl": "This attack inflicts\ndouble damage on a\nparalyzed foe. It\nalso cures the foe’s\nparalysis, however.",
+    "platinum": "This attack inflicts\ndouble damage on a\nparalyzed foe. It\nalso cures the foe’s\nparalysis, however.",
+    "heartgold-soulsilver": "This attack inflicts\ndouble damage on a\nparalyzed foe. It\nalso cures the foe’s\nparalysis, however.",
+    "black-white": "This attack inflicts double damage on a\ntarget with paralysis. It also cures the\ntarget’s paralysis, however.",
+    "black-2-white-2": "This attack inflicts double damage on a\ntarget with paralysis. It also cures the\ntarget’s paralysis, however.",
+    "x-y": "This attack inflicts double damage on a\ntarget with paralysis. This also cures the\ntarget’s paralysis, however.",
+    "omega-ruby-alpha-sapphire": "This attack inflicts double damage on a\ntarget with paralysis. This also cures the\ntarget’s paralysis, however.",
+    "sun-moon": "This attack’s power is doubled when used on a\ntarget with paralysis. This also cures the target’s\nparalysis, however.",
+    "ultra-sun-ultra-moon": "This attack’s power is doubled when used on a\ntarget with paralysis. This also cures the target’s\nparalysis, however.",
+    "lets-go-pikachu-lets-go-eevee": "This attack’s power is doubled when used on a\ntarget with paralysis. This also cures the target’s\nparalysis, however.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target is paralyzed, this move has double power, and the target is cured of its paralysis.",
+    "shortEffect": "If the target is paralyzed, inflicts double damage and cures the paralysis."
+  },
+  "priority": 0
+}

@@ -1,0 +1,17 @@
+{
+  "_id": 845,
+  "key": "ceaseless-edge",
+  "name": {
+    "english": "Ceaseless Edge"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 65,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

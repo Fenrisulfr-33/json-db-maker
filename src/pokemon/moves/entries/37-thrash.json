@@ -1,0 +1,47 @@
+{
+  "_id": 37,
+  "key": "thrash",
+  "name": {
+    "english": "Thrash",
+    "japanese": "あばれる",
+    "chinese": "横冲直撞",
+    "korean": "난동부리기",
+    "german": "Golpe",
+    "french": "Fuchtler",
+    "italian": "Thrash",
+    "spanish": "Colpo"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "random-opponent",
+  "changes": [],
+  "description": {
+    "gold-silver": "Works 2-3 turns\nand confuses user.",
+    "crystal": "Works 2-3 turns\nand confuses user.",
+    "ruby-sapphire": "A rampage of 2 to 3 turns\nthat confuses the user.",
+    "emerald": "A rampage of 2 to 3 turns\nthat confuses the user.",
+    "firered-leafgreen": "The user rampages\nabout for two to\nthree turns, then\nbecomes confused.",
+    "diamond-pearl": "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.",
+    "platinum": "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.",
+    "heartgold-soulsilver": "The user rampages\nand attacks for two\nto three turns.\nIt then becomes\nconfused, however.",
+    "black-white": "The user rampages and attacks for two\nto three turns. It then becomes\nconfused, however.",
+    "black-2-white-2": "The user rampages and attacks for two\nto three turns. It then becomes\nconfused, however.",
+    "x-y": "The user rampages and attacks\nfor two to three turns.\nThe user then becomes confused.",
+    "omega-ruby-alpha-sapphire": "The user rampages and attacks\nfor two to three turns.\nThe user then becomes confused.",
+    "sun-moon": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+    "ultra-sun-ultra-moon": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+    "lets-go-pikachu-lets-go-eevee": "The user rampages and attacks for two to three\nturns. The user then becomes confused.",
+    "sword-shield": "The user rampages and attacks for two to three\nturns. The user then becomes confused."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User is forced to attack with this move for 2–3 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+    "shortEffect": "Hits every turn for 2-3 turns, then confuses the user."
+  },
+  "priority": 0
+}

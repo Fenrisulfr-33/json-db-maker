@@ -1,0 +1,47 @@
+{
+  "_id": 183,
+  "key": "mach-punch",
+  "name": {
+    "english": "Mach Punch",
+    "japanese": "マッハパンチ",
+    "chinese": "音速拳",
+    "korean": "마하펀치",
+    "german": "Ultrapuño",
+    "french": "Tempohieb",
+    "italian": "Mach Punch",
+    "spanish": "Pugnorapido"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A fast punch that\nlands first.",
+    "crystal": "A fast punch that\nlands first.",
+    "ruby-sapphire": "A punch is thrown at wicked\nspeed to strike first.",
+    "emerald": "A punch is thrown at wicked\nspeed to strike first.",
+    "firered-leafgreen": "A punch thrown at\nblinding speed.\nIt is certain to\nstrike first.",
+    "diamond-pearl": "The user throws a\npunch at blinding\nspeed.\nIt is certain to\nstrike first.",
+    "platinum": "The user throws a\npunch at blinding\nspeed.\nIt is certain to\nstrike first.",
+    "heartgold-soulsilver": "The user throws a\npunch at blinding\nspeed.\nIt is certain to\nstrike first.",
+    "black-white": "The user throws a punch at blinding\nspeed. It is certain to strike first.",
+    "black-2-white-2": "The user throws a punch at blinding\nspeed. It is certain to strike first.",
+    "x-y": "The user throws a punch at blinding\nspeed. This move always goes first.",
+    "omega-ruby-alpha-sapphire": "The user throws a punch at blinding\nspeed. This move always goes first.",
+    "sun-moon": "The user throws a punch at blinding speed. This\nmove always goes first.",
+    "ultra-sun-ultra-moon": "The user throws a punch at blinding speed. This\nmove always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user throws a punch at blinding speed. This\nmove always goes first.",
+    "sword-shield": "The user throws a punch at blinding speed. This\nmove always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 1
+}

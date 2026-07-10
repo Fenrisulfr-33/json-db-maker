@@ -1,0 +1,16 @@
+{
+  "_id": 257,
+  "key": "pastel-veil",
+  "name": {
+    "english": "Pastel Veil"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Protects the Pokémon and its ally Pokémon from being poisoned."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

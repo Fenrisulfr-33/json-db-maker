@@ -1,0 +1,47 @@
+{
+  "_id": 75,
+  "key": "razor-leaf",
+  "name": {
+    "english": "Razor Leaf",
+    "japanese": "はっぱカッター",
+    "chinese": "飞叶快刀",
+    "korean": "잎날가르기",
+    "german": "Hoja Afilada",
+    "french": "Rasierblatt",
+    "italian": "Razor Leaf",
+    "spanish": "Foglielama"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 25,
+  "power": 55,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "Has a high criti­\ncal hit ratio.",
+    "crystal": "Has a high criti­\ncal hit ratio.",
+    "ruby-sapphire": "Cuts the enemy with leaves.\nHigh critical-hit ratio.",
+    "emerald": "Cuts the enemy with leaves.\nHigh critical-hit ratio.",
+    "firered-leafgreen": "The foe is hit with\na cutting leaf.\nIt has a high\ncritical-hit ratio.",
+    "diamond-pearl": "A sharp-edged leaf is\nlaunched to slash at\nthe foe. It has a\nhigh critical-hit\nratio.",
+    "platinum": "Sharp-edged leaves\nare launched to slash\nat the foe. It has a\nhigh critical-hit\nratio.",
+    "heartgold-soulsilver": "Sharp-edged leaves\nare launched to slash\nat the foe. It has a\nhigh critical-hit\nratio.",
+    "black-white": "Sharp-edged leaves are launched\nto slash at the opposing team.\nCritical hits land more easily.",
+    "black-2-white-2": "Sharp-edged leaves are launched\nto slash at the opposing team.\nCritical hits land more easily.",
+    "x-y": "Sharp-edged leaves are launched\nto slash at the opposing Pokémon.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "Sharp-edged leaves are launched\nto slash at the opposing Pokémon.\nCritical hits land more easily.",
+    "sun-moon": "Sharp-edged leaves are launched to slash at the\nopposing Pokémon. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "Sharp-edged leaves are launched to slash at the\nopposing Pokémon. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "Sharp-edged leaves are launched to slash at the\nopposing Pokémon. Critical hits land more easily.",
+    "sword-shield": "Sharp-edged leaves are launched to slash at opposing\nPokémon. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

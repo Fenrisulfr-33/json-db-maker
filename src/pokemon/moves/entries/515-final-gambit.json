@@ -1,0 +1,39 @@
+{
+  "_id": 515,
+  "key": "final-gambit",
+  "name": {
+    "english": "Final Gambit",
+    "japanese": "いのちがけ",
+    "chinese": "赌命",
+    "korean": "목숨걸기",
+    "german": "Sacrificio",
+    "french": "Wagemut",
+    "italian": "Final Gambit",
+    "spanish": "Azzardo"
+  },
+  "type": "Fighting",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to the user’s HP.",
+    "black-2-white-2": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to the user’s HP.",
+    "x-y": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to its HP.",
+    "omega-ruby-alpha-sapphire": "The user risks everything to attack its\ntarget. The user faints but does damage\nequal to its HP.",
+    "sun-moon": "The user risks everything to attack its target. The\nuser faints but does damage equal to its HP.",
+    "ultra-sun-ultra-moon": "The user risks everything to attack its target. The\nuser faints but does damage equal to its HP.",
+    "lets-go-pikachu-lets-go-eevee": "The user risks everything to attack its target. The\nuser faints but does damage equal to its HP.",
+    "sword-shield": "The user risks everything to attack its target. The\nuser faints but does damage equal to its HP."
+  },
+  "effect": {
+    "full": "Inflicts damage equal to the user's remaining HP.  User faints.",
+    "shortEffect": "Inflicts damage equal to the user's remaining HP.  User faints."
+  },
+  "priority": 0
+}

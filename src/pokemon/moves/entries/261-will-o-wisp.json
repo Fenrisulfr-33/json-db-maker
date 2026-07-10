@@ -1,0 +1,45 @@
+{
+  "_id": 261,
+  "key": "will-o-wisp",
+  "name": {
+    "english": "Will-O-Wisp",
+    "japanese": "おにび",
+    "chinese": "鬼火",
+    "korean": "도깨비불",
+    "german": "Fuego Fatuo",
+    "french": "Irrlicht",
+    "italian": "Will-O-Wisp",
+    "spanish": "Fuocofatuo"
+  },
+  "type": "Fire",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": null,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Inflicts a burn on the foe\nwith intense fire.",
+    "emerald": "Inflicts a burn on the foe\nwith intense fire.",
+    "firered-leafgreen": "A sinister, bluish\nwhite flame is shot\nat the foe to\ninflict a burn.",
+    "diamond-pearl": "The user shoots a\nsinister, bluish white\nflame at the foe to\ninflict a burn.\n",
+    "platinum": "The user shoots a\nsinister, bluish white\nflame at the foe to\ninflict a burn.\n",
+    "heartgold-soulsilver": "The user shoots a\nsinister, bluish white\nflame at the foe to\ninflict a burn.\n",
+    "black-white": "The user shoots a sinister, bluish-white\nflame at the target to inflict a burn.",
+    "black-2-white-2": "The user shoots a sinister, bluish-white\nflame at the target to inflict a burn.",
+    "x-y": "The user shoots a sinister, bluish-white\nflame at the target to inflict a burn.",
+    "omega-ruby-alpha-sapphire": "The user shoots a sinister, bluish-white\nflame at the target to inflict a burn.",
+    "sun-moon": "The user shoots a sinister, bluish-white flame at the\ntarget to inflict a burn.",
+    "ultra-sun-ultra-moon": "The user shoots a sinister, bluish-white flame at the\ntarget to inflict a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user shoots a sinister flame at the target to inflict\na burn.",
+    "sword-shield": "The user shoots a sinister flame at the target to inflict\na burn."
+  },
+  "effect": {
+    "full": "Burns the target.",
+    "shortEffect": "Burns the target."
+  },
+  "priority": 0
+}

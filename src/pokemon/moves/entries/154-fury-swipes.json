@@ -1,0 +1,47 @@
+{
+  "_id": 154,
+  "key": "fury-swipes",
+  "name": {
+    "english": "Fury Swipes",
+    "japanese": "みだれひっかき",
+    "chinese": "疯狂乱抓",
+    "korean": "마구할퀴기",
+    "german": "Golpes Furia",
+    "french": "Kratzfurie",
+    "italian": "Fury Swipes",
+    "spanish": "Sfuriate"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 18,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Quickly scratches\n2-5 times.",
+    "crystal": "Quickly scratches\n2-5 times.",
+    "ruby-sapphire": "Rakes the foe with sharp\nclaws, etc., 2 to 5 times.",
+    "emerald": "Rakes the foe with sharp\nclaws, etc., 2 to 5 times.",
+    "firered-leafgreen": "The foe is raked\nwith sharp claws or\nscythes two to five\ntimes.",
+    "diamond-pearl": "The foe is raked with\nsharp claws or\nscythes for two to\nfive times in quick\nsuccession.",
+    "platinum": "The foe is raked with\nsharp claws or\nscythes for two to\nfive times in quick\nsuccession.",
+    "heartgold-soulsilver": "The foe is raked with\nsharp claws or\nscythes for two to\nfive times in quick\nsuccession.",
+    "black-white": "The target is raked with sharp claws or\nscythes for two to five times in\nquick succession.",
+    "black-2-white-2": "The target is raked with sharp claws or\nscythes for two to five times in\nquick succession.",
+    "x-y": "The target is raked with sharp claws or\nscythes quickly two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "The target is raked with sharp claws or\nscythes quickly two to five times in a row.",
+    "sun-moon": "The target is raked with sharp claws or scythes\nquickly two to five times in a row.",
+    "ultra-sun-ultra-moon": "The target is raked with sharp claws or scythes\nquickly two to five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The target is raked with sharp claws or scythes\nquickly two to five times in a row.",
+    "sword-shield": "The target is raked with sharp claws or scythes\nquickly two to five times in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

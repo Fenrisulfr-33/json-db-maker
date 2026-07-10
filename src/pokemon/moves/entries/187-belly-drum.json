@@ -1,0 +1,47 @@
+{
+  "_id": 187,
+  "key": "belly-drum",
+  "name": {
+    "english": "Belly Drum",
+    "japanese": "はらだいこ",
+    "chinese": "肚子大鼓",
+    "korean": "배북",
+    "german": "Tambor",
+    "french": "Bauchtrommel",
+    "italian": "Belly Drum",
+    "spanish": "Panciamburo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Reduces own HP to\nmaximize ATTACK.",
+    "crystal": "Reduces own HP to\nmaximize ATTACK.",
+    "ruby-sapphire": "Maximizes ATTACK while\nsacrificing HP.",
+    "emerald": "Maximizes ATTACK while\nsacrificing HP.",
+    "firered-leafgreen": "The user maximizes\nits ATTACK stat at\nthe cost of half\nits full HP.",
+    "diamond-pearl": "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.",
+    "platinum": "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.",
+    "heartgold-soulsilver": "The user maximizes\nits Attack stat in\nexchange for HP\nequal to half its max\nHP.",
+    "black-white": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+    "black-2-white-2": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+    "x-y": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+    "omega-ruby-alpha-sapphire": "The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.",
+    "sun-moon": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.",
+    "ultra-sun-ultra-moon": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.",
+    "lets-go-pikachu-lets-go-eevee": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP.",
+    "sword-shield": "The user maximizes its Attack stat in exchange for\nHP equal to half its max HP."
+  },
+  "effect": {
+    "full": "User pays half its max HP to raise its Attack to +6 stages.  If the user cannot pay the HP cost, this move will fail.",
+    "shortEffect": "User pays half its max HP to max out its Attack."
+  },
+  "priority": 0
+}

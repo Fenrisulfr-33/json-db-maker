@@ -1,0 +1,32 @@
+{
+  "_id": 802,
+  "key": "misty-explosion",
+  "name": {
+    "english": "Misty Explosion",
+    "japanese": "ミストバースト",
+    "chinese": "薄霧炸裂",
+    "korean": "미스트버스트",
+    "german": "Bruma Explosiva",
+    "french": "Nebelexplosion",
+    "italian": "Misty Explosion",
+    "spanish": "Nebbioscoppio"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks everything around it and faints upon\nusing this move. This move’s power is increased on\nMisty Terrain."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

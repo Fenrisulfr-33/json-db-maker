@@ -1,0 +1,37 @@
+{
+  "_id": 576,
+  "key": "topsy-turvy",
+  "name": {
+    "english": "Topsy-Turvy",
+    "japanese": "ひっくりかえす",
+    "chinese": "翻倒",
+    "korean": "뒤집어엎기",
+    "german": "Reversión",
+    "french": "Invertigo",
+    "italian": "Topsy-Turvy",
+    "spanish": "Sottosopra"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "All stat changes affecting the target\nturn topsy-turvy and become the\nopposite of what they were.",
+    "omega-ruby-alpha-sapphire": "All stat changes affecting the target\nturn topsy-turvy and become the\nopposite of what they were.",
+    "sun-moon": "All stat changes affecting the target turn\ntopsy-turvy and become the opposite of what\nthey were.",
+    "ultra-sun-ultra-moon": "All stat changes affecting the target turn\ntopsy-turvy and become the opposite of what\nthey were.",
+    "lets-go-pikachu-lets-go-eevee": "All stat changes affecting the target turn\ntopsy-turvy and become the opposite of what\nthey were.",
+    "sword-shield": "All stat changes affecting the target turn\ntopsy-turvy and become the opposite of what\nthey were."
+  },
+  "effect": {
+    "full": "Inverts the target's stat modifiers.",
+    "shortEffect": "Inverts the target's stat modifiers."
+  },
+  "priority": 0
+}

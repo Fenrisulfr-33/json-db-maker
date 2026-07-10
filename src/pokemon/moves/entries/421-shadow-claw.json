@@ -1,0 +1,42 @@
+{
+  "_id": 421,
+  "key": "shadow-claw",
+  "name": {
+    "english": "Shadow Claw",
+    "japanese": "シャドークロー",
+    "chinese": "影子钩爪",
+    "korean": "섀도크루",
+    "german": "Garra Umbría",
+    "french": "Dunkelklaue",
+    "italian": "Shadow Claw",
+    "spanish": "Ombrartigli"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 15,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "The user slashes with\na sharp claw made\nfrom shadows.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+    "black-2-white-2": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+    "x-y": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.",
+    "sun-moon": "The user slashes with a sharp claw made from\nshadows. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user slashes with a sharp claw made from\nshadows. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user slashes with a sharp claw made from\nshadows. Critical hits land more easily.",
+    "sword-shield": "The user slashes with a sharp claw made from\nshadows. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

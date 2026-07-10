@@ -1,0 +1,47 @@
+{
+  "_id": 196,
+  "key": "icy-wind",
+  "name": {
+    "english": "Icy Wind",
+    "japanese": "こごえるかぜ",
+    "chinese": "冻风",
+    "korean": "얼다바람",
+    "german": "Viento Hielo",
+    "french": "Eissturm",
+    "italian": "Icy Wind",
+    "spanish": "Ventogelato"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 55,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 2,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A chilling attack that\nlowers the foe’s SPEED.",
+    "emerald": "A chilling attack that\nlowers the foe’s SPEED.",
+    "firered-leafgreen": "A chilling wind is\nused to attack.\nIt also lowers the\nSPEED stat.",
+    "diamond-pearl": "The user attacks with\na gust of chilled air.\nIt also lowers the\ntarget’s Speed stat.\n",
+    "crystal": "An icy attack that\nlowers SPEED.",
+    "gold-silver": "An icy attack that\nlowers SPEED.",
+    "platinum": "The user attacks with\na gust of chilled air.\nIt also lowers the\ntarget’s Speed stat.\n",
+    "heartgold-soulsilver": "The user attacks with\na gust of chilled air.\nIt also lowers the\ntarget’s Speed stat.\n",
+    "black-white": "The user attacks with a gust of\nchilled air. It also reduces the targets’\nSpeed stat.",
+    "black-2-white-2": "The user attacks with a gust of\nchilled air. It also reduces the targets’\nSpeed stat.",
+    "x-y": "The user attacks with a gust of chilled air.\nThis also lowers the opposing Pokémon’s\nSpeed stats.",
+    "omega-ruby-alpha-sapphire": "The user attacks with a gust of chilled air.\nThis also lowers the opposing Pokémon’s\nSpeed stats.",
+    "sun-moon": "The user attacks with a gust of chilled air. This also\nlowers the opposing Pokémon’s Speed stats.",
+    "ultra-sun-ultra-moon": "The user attacks with a gust of chilled air. This also\nlowers the opposing Pokémon’s Speed stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a gust of chilled air. This also\nlowers the opposing Pokémon’s Speed stats.",
+    "sword-shield": "The user attacks with a gust of chilled air. This also\nlowers opposing Pokémon’s Speed stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

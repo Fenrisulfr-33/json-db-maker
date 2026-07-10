@@ -1,0 +1,47 @@
+{
+  "_id": 114,
+  "key": "haze",
+  "name": {
+    "english": "Haze",
+    "japanese": "くろいきり",
+    "chinese": "黑雾",
+    "korean": "흑안개",
+    "german": "Niebla",
+    "french": "Dunkelnebel",
+    "italian": "Haze",
+    "spanish": "Nube"
+  },
+  "type": "Ice",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "gold-silver": "Eliminates all\nstat changes.",
+    "crystal": "Eliminates all\nstat changes.",
+    "ruby-sapphire": "Creates a black haze that\neliminates all stat changes.",
+    "emerald": "Creates a black haze that\neliminates all stat changes.",
+    "firered-leafgreen": "Eliminates all stat\nchanges among all\nPOKéMON engaged in\nbattle.",
+    "diamond-pearl": "The user creates a\nhaze that eliminates\nevery stat change\namong all the Pokémon\nengaged in battle.",
+    "platinum": "The user creates a\nhaze that eliminates\nevery stat change\namong all the Pokémon\nengaged in battle.",
+    "heartgold-soulsilver": "The user creates a\nhaze that eliminates\nevery stat change\namong all the Pokémon\nengaged in battle.",
+    "black-white": "The user creates a haze that eliminates\nevery stat change among all the Pokémon\nengaged in battle.",
+    "black-2-white-2": "The user creates a haze that eliminates\nevery stat change among all the Pokémon\nengaged in battle.",
+    "x-y": "The user creates a haze that eliminates\nevery stat change among all the Pokémon\nengaged in battle.",
+    "omega-ruby-alpha-sapphire": "The user creates a haze that eliminates\nevery stat change among all the Pokémon\nengaged in battle.",
+    "sun-moon": "The user creates a haze that eliminates every stat\nchange among all the Pokémon engaged in battle.",
+    "ultra-sun-ultra-moon": "The user creates a haze that eliminates every stat\nchange among all the Pokémon engaged in battle.",
+    "lets-go-pikachu-lets-go-eevee": "The user creates a haze that eliminates every stat\nchange among all the Pokémon engaged in battle.",
+    "sword-shield": "The user creates a haze that eliminates every stat\nchange among all the Pokémon engaged in battle."
+  },
+  "effect": {
+    "full": "Removes stat, accuracy, and evasion modifiers from every Pokémon on the field.\n\nThis does not count as a stat reduction for the purposes of clear body or white smoke.",
+    "shortEffect": "Resets all Pokémon's stats, accuracy, and evasion."
+  },
+  "priority": 0
+}

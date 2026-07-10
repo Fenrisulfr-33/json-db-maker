@@ -1,0 +1,80 @@
+{
+  "_id": 159,
+  "key": "sand-force",
+  "name": {
+    "english": "Sand Force"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Strengthens rock, ground, and steel moves to 1.3× their power during a sandstorm. Protects against sandstorm damage.",
+    "full": "During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power. This Pokémon does not take sandstorm damage, regardless of type."
+  },
+  "description": {
+    "black-white": "Boosts certain moves’ power in a sandstorm.",
+    "black-2-white-2": "Boosts certain moves’ power in a sandstorm.",
+    "x-y": "Boosts certain moves’ power in a sandstorm.",
+    "omega-ruby-alpha-sapphire": "Boosts certain moves’ power in a sandstorm.",
+    "sun-moon": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
+    "ultra-sun-ultra-moon": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.",
+    "sword-shield": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Drilbur",
+        "id": 529
+      },
+      {
+        "name": "Excadrill",
+        "id": 530
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Diglett",
+        "id": 50
+      },
+      {
+        "name": "Dugtrio",
+        "id": 51
+      },
+      {
+        "name": "Nosepass",
+        "id": 299
+      },
+      {
+        "name": "Shellos",
+        "id": 422
+      },
+      {
+        "name": "Gastrodon",
+        "id": 423
+      },
+      {
+        "name": "Hippopotas",
+        "id": 449
+      },
+      {
+        "name": "Hippowdon",
+        "id": 450
+      },
+      {
+        "name": "Probopass",
+        "id": 476
+      },
+      {
+        "name": "Roggenrola",
+        "id": 524
+      },
+      {
+        "name": "Boldore",
+        "id": 525
+      },
+      {
+        "name": "Gigalith",
+        "id": 526
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": 617,
+  "key": "light-of-ruin",
+  "name": {
+    "english": "Light of Ruin",
+    "japanese": "はめつのひかり",
+    "chinese": "破滅之光",
+    "korean": "파멸의빛",
+    "german": "Luz Aniquiladora",
+    "french": "Lux Calamitatis",
+    "italian": "Light of Ruin",
+    "spanish": "Luce Nefasta"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 140,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "Drawing power from the Eternal Flower,\nthe user fires a powerful beam of light.\nThis also damages the user quite a lot.",
+    "omega-ruby-alpha-sapphire": "Drawing power from the Eternal Flower,\nthe user fires a powerful beam of light.\nThis also damages the user quite a lot.",
+    "sun-moon": "Drawing power from the Eternal Flower, the user\nfires a powerful beam of light. This also damages the\nuser quite a lot.",
+    "ultra-sun-ultra-moon": "Drawing power from the Eternal Flower, the user\nfires a powerful beam of light. This also damages the\nuser quite a lot.",
+    "lets-go-pikachu-lets-go-eevee": "Drawing power from the Eternal Flower, the user\nfires a powerful beam of light. This also damages the\nuser quite a lot.",
+    "sword-shield": "Drawing power from the Eternal Flower, the user\nfires a powerful beam of light. This also damages the\nuser quite a lot."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/2 the damage inflicted in recoil."
+  },
+  "priority": 0
+}

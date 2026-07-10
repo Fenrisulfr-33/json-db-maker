@@ -1,0 +1,35 @@
+{
+  "_id": 694,
+  "key": "aurora-veil",
+  "name": {
+    "english": "Aurora Veil",
+    "japanese": "オーロラベール",
+    "chinese": "極光幕",
+    "korean": "오로라베일",
+    "german": "Velo Aurora",
+    "french": "Auroraschleier",
+    "italian": "Aurora Veil",
+    "spanish": "Velaurora"
+  },
+  "type": "Ice",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "sun-moon": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+    "ultra-sun-ultra-moon": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+    "lets-go-pikachu-lets-go-eevee": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm.",
+    "sword-shield": "This move reduces damage from physical and\nspecial moves for five turns. This can be used only\nin a hailstorm."
+  },
+  "effect": {
+    "full": "Places the Aurora Veil effect on the user's side of the field for the next 5 turns.  If the weather is not hail, or the weather is disabled by the effects of cloud nine or air lock, this move will fail.\n\nAny regular damage dealt to an affected Pokémon is reduced by ½.  (If there are multiple Pokémon on the affected field, the reduction is ⅓.)",
+    "shortEffect": "Reduces damage five turns, but must be used during hail."
+  },
+  "priority": 0
+}

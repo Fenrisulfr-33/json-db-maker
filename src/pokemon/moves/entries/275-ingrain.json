@@ -1,0 +1,45 @@
+{
+  "_id": 275,
+  "key": "ingrain",
+  "name": {
+    "english": "Ingrain",
+    "japanese": "ねをはる",
+    "chinese": "根深蒂固",
+    "korean": "뿌리박기",
+    "german": "Arraigo",
+    "french": "Verwurzler",
+    "italian": "Ingrain",
+    "spanish": "Radicamento"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Lays roots that restore HP.\nThe user can’t switch out.",
+    "emerald": "Lays roots that restore HP.\nThe user can’t switch out.",
+    "firered-leafgreen": "The user lays roots\nthat restore HP on\nevery turn.\nIt can’t switch out.",
+    "diamond-pearl": "The user lays roots\nthat restore HP on\nevery turn.\nBecause it is rooted,\nit can’t switch out.",
+    "platinum": "The user lays roots\nthat restore HP on\nevery turn.\nBecause it is rooted,\nit can’t switch out.",
+    "heartgold-soulsilver": "The user lays roots\nthat restore HP on\nevery turn.\nBecause it is rooted,\nit can’t switch out.",
+    "black-white": "The user lays roots that restore\nits HP on every turn. Because it is\nrooted, it can’t switch out.",
+    "black-2-white-2": "The user lays roots that restore\nits HP on every turn. Because it is\nrooted, it can’t switch out.",
+    "x-y": "The user lays roots that restore\nits HP on every turn. Because it is\nrooted, it can’t switch out.",
+    "omega-ruby-alpha-sapphire": "The user lays roots that restore\nits HP on every turn. Because it is\nrooted, it can’t switch out.",
+    "sun-moon": "The user lays roots that restore its HP on every turn.\nBecause it’s rooted, it can’t switch out.",
+    "ultra-sun-ultra-moon": "The user lays roots that restore its HP on every turn.\nBecause it’s rooted, it can’t switch out.",
+    "lets-go-pikachu-lets-go-eevee": "The user lays roots that restore its HP on every turn.\nBecause it’s rooted, it can’t switch out.",
+    "sword-shield": "The user lays roots that restore its HP on every turn.\nBecause it’s rooted, it can’t switch out."
+  },
+  "effect": {
+    "full": "Prevents the user from switching out.  User regains 1/16 of its max HP at the end of every turn.  If the user was immune to ground attacks, it will now take normal damage from them.\n\nroar and whirlwind will not affect the user.  The user cannot use magnet rise.\n\nThe user may still use u turn to leave the field.\n\nThis effect can be passed with baton pass.",
+    "shortEffect": "Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn."
+  },
+  "priority": 0
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 267,
+  "key": "nature-power",
+  "name": {
+    "english": "Nature Power",
+    "japanese": "しぜんのちから",
+    "chinese": "自然能力",
+    "korean": "자연의힘",
+    "german": "Adaptación",
+    "french": "Natur-Kraft",
+    "italian": "Nature Power",
+    "spanish": "Naturforza"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "The type of attack varies\ndepending on the location.",
+    "emerald": "The type of attack varies\ndepending on the location.",
+    "firered-leafgreen": "An attack that\nchanges type\ndepending on the\nuser’s location.",
+    "diamond-pearl": "An attack that makes\nuse of nature’s\npower. Its effects\nvary depending on the\nuser’s environment.",
+    "platinum": "An attack that makes\nuse of nature’s\npower. Its effects\nvary depending on the\nuser’s environment.",
+    "heartgold-soulsilver": "An attack that makes\nuse of nature’s\npower. Its effects\nvary depending on the\nuser’s environment.",
+    "black-white": "An attack that makes use of nature’s\npower. Its effects vary depending on the\nuser’s environment.",
+    "black-2-white-2": "An attack that makes use of nature’s\npower. Its effects vary depending on the\nuser’s environment.",
+    "x-y": "An attack that makes use of nature’s\npower. Its effects vary depending on the\nuser’s environment.",
+    "omega-ruby-alpha-sapphire": "An attack that makes use of nature’s\npower. Its effects vary depending on the\nuser’s environment.",
+    "sun-moon": "This attack makes use of nature’s power. Its\neffects vary depending on the user’s environment.",
+    "ultra-sun-ultra-moon": "This attack makes use of nature’s power. Its\neffects vary depending on the user’s environment.",
+    "lets-go-pikachu-lets-go-eevee": "This attack makes use of nature’s power. Its\neffects vary depending on the user’s environment.",
+    "sword-shield": "This attack makes use of nature’s power. Its\neffects vary depending on the user’s environment."
+  },
+  "effect": {
+    "full": "Uses another move chosen according to the terrain.\n\nTerrain                   | Selected move\n------------------------- | ------------------\nBuilding                  | tri attack\nCave                      | rock slide\nDeep water                | hydro pump\nDesert                    | earthquake\nGrass                     | seed bomb\nMountain                  | rock slide\nRoad                      | earthquake\nShallow water             | hydro pump\nSnow                      | blizzard\nTall grass                | seed bomb\nelectric terrain | thunderbolt\ngrassy terrain   | energy ball\nmisty terrain    | moonblast\n\nIn Pokémon Battle Revolution:\n\nTerrain        | Selected move\n-------------- | ------------------\nCourtyard      | tri attack\nCrystal        | rock slide\nGateway        | hydro pump\nMagma          | rock slide\nMain Street    | tri attack\nNeon           | tri attack\nStargazer      | rock slide\nSunny Park     | seed bomb\nSunset         | earthquake\nWaterfall      | seed bomb\n\nThis move cannot be copied by mirror move.",
+    "shortEffect": "Uses a move which depends upon the terrain."
+  },
+  "priority": 0
+}

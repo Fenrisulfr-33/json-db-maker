@@ -1,0 +1,27 @@
+{
+  "_id": 217,
+  "key": "battery",
+  "name": {
+    "english": "Battery"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Ally Pokémon's moves have their power increased to 1.3×.",
+    "full": "Ally Pokémon's moves have their power increased to 1.3×."
+  },
+  "description": {
+    "sun-moon": "Powers up ally Pokémon’s special moves.",
+    "ultra-sun-ultra-moon": "Powers up ally Pokémon’s special moves.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up ally Pokémon’s special moves.",
+    "sword-shield": "Powers up ally Pokémon’s special moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Charjabug",
+        "id": 737
+      }
+    ],
+    "hidden": []
+  }
+}

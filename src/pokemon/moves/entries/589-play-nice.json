@@ -1,0 +1,37 @@
+{
+  "_id": 589,
+  "key": "play-nice",
+  "name": {
+    "english": "Play Nice",
+    "japanese": "なかよくする",
+    "chinese": "做朋友",
+    "korean": "친해지기",
+    "german": "Camaradería",
+    "french": "Kameradschaft",
+    "italian": "Play Nice",
+    "spanish": "Simpatia"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user and the target become friends,\nand the target loses its will to fight.\nThis lowers the target’s Attack stat.",
+    "omega-ruby-alpha-sapphire": "The user and the target become friends,\nand the target loses its will to fight.\nThis lowers the target’s Attack stat.",
+    "sun-moon": "The user and the target become friends, and the\ntarget loses its will to fight. This lowers the target’s\nAttack stat.",
+    "ultra-sun-ultra-moon": "The user and the target become friends, and the\ntarget loses its will to fight. This lowers the target’s\nAttack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user and the target become friends, and the\ntarget loses its will to fight. This lowers the target’s\nAttack stat.",
+    "sword-shield": "The user and the target become friends, and the\ntarget loses its will to fight. This lowers the target’s\nAttack stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack by one stage.",
+    "shortEffect": "Lowers the target's Attack by one stage."
+  },
+  "priority": 0
+}

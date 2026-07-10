@@ -1,0 +1,39 @@
+{
+  "_id": 521,
+  "key": "volt-switch",
+  "name": {
+    "english": "Volt Switch",
+    "japanese": "ボルトチェンジ",
+    "chinese": "交换伏特",
+    "korean": "볼트체인지",
+    "german": "Voltiocambio",
+    "french": "Voltwechsel",
+    "italian": "Volt Switch",
+    "spanish": "Invertivolt"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "After making its attack, the user\nrushes back to switch places with\na party Pokémon in waiting.",
+    "black-2-white-2": "After making its attack, the user\nrushes back to switch places with\na party Pokémon in waiting.",
+    "x-y": "After making its attack, the user\nrushes back to switch places with\na party Pokémon in waiting.",
+    "omega-ruby-alpha-sapphire": "After making its attack, the user\nrushes back to switch places with\na party Pokémon in waiting.",
+    "sun-moon": "After making its attack, the user rushes back to\nswitch places with a party Pokémon in waiting.",
+    "ultra-sun-ultra-moon": "After making its attack, the user rushes back to\nswitch places with a party Pokémon in waiting.",
+    "lets-go-pikachu-lets-go-eevee": "After making its attack, the user rushes back to\nswitch places with a party Pokémon in waiting.",
+    "sword-shield": "After making its attack, the user rushes back to\nswitch places with a party Pokémon in waiting."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pokémon from the party.  If the target faints from this attack, the user's trainer selects the new Pokémon to send out first.  If the user is the last Pokémon in its party that can battle, it will not switch out.\n\nThe user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used.\n\nThis move may be used even if the user is under the effect of ingrain.  ingrain's effect will end.",
+    "shortEffect": "User must switch out after attacking."
+  },
+  "priority": 0
+}

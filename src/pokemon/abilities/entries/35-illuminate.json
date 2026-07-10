@@ -1,0 +1,65 @@
+{
+  "_id": 35,
+  "key": "illuminate",
+  "name": {
+    "english": "Illuminate"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Doubles the wild encounter rate.",
+    "full": "Overworld: If the lead Pokémon has this ability, the wild encounter rate is doubled. This ability has no effect in battle."
+  },
+  "description": {
+    "ruby-sapphire": "Encounter rate increases.",
+    "emerald": "Encounter rate increases.",
+    "firered-leafgreen": "Encounter rate increases.",
+    "diamond-pearl": "Raises the likelihood of meeting wild Pokémon.",
+    "platinum": "Raises the likelihood of meeting wild Pokémon.",
+    "heartgold-soulsilver": "Raises the likelihood of meeting wild Pokémon.",
+    "black-white": "Raises the likelihood of meeting wild Pokémon.",
+    "black-2-white-2": "Raises the likelihood of meeting wild Pokémon.",
+    "x-y": "Raises the likelihood of meeting wild Pokémon.",
+    "omega-ruby-alpha-sapphire": "Raises the likelihood of meeting wild Pokémon.",
+    "sun-moon": "Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.",
+    "ultra-sun-ultra-moon": "Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.",
+    "lets-go-pikachu-lets-go-eevee": "Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.",
+    "sword-shield": "Raises the likelihood of meeting wild Pokémon by illuminating the surroundings."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Staryu",
+        "id": 120
+      },
+      {
+        "name": "Starmie",
+        "id": 121
+      },
+      {
+        "name": "Chinchou",
+        "id": 170
+      },
+      {
+        "name": "Lanturn",
+        "id": 171
+      },
+      {
+        "name": "Volbeat",
+        "id": 313
+      },
+      {
+        "name": "Watchog",
+        "id": 505
+      },
+      {
+        "name": "Morelull",
+        "id": 755
+      },
+      {
+        "name": "Shiinotic",
+        "id": 756
+      }
+    ],
+    "hidden": []
+  }
+}

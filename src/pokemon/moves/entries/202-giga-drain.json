@@ -1,0 +1,47 @@
+{
+  "_id": 202,
+  "key": "giga-drain",
+  "name": {
+    "english": "Giga Drain",
+    "japanese": "ギガドレイン",
+    "chinese": "超级吸收",
+    "korean": "기가드레인",
+    "german": "Gigadrenado",
+    "french": "Gigasauger",
+    "italian": "Giga Drain",
+    "spanish": "Gigassorbimento"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Steals 1/2 of the\ndamage inflicted.",
+    "crystal": "Steals 1/2 of the\ndamage inflicted.",
+    "ruby-sapphire": "An attack that steals half\nthe damage inflicted.",
+    "emerald": "An attack that steals half\nthe damage inflicted.",
+    "firered-leafgreen": "A harsh attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.",
+    "diamond-pearl": "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "platinum": "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "heartgold-soulsilver": "A nutrient-draining\nattack. The user’s\nHP is restored by\nhalf the damage taken\nby the target.",
+    "black-white": "A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.",
+    "black-2-white-2": "A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.",
+    "x-y": "A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.",
+    "omega-ruby-alpha-sapphire": "A nutrient-draining attack. The user’s\nHP is restored by half the damage\ntaken by the target.",
+    "sun-moon": "A nutrient-draining attack. The user’s HP is restored\nby half the damage taken by the target.",
+    "ultra-sun-ultra-moon": "A nutrient-draining attack. The user’s HP is restored\nby half the damage taken by the target.",
+    "lets-go-pikachu-lets-go-eevee": "A nutrient-draining attack. The user’s HP is restored\nby half the damage taken by the target.",
+    "sword-shield": "A nutrient-draining attack. The user’s HP is restored\nby half the damage taken by the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.",
+    "shortEffect": "Drains half the damage inflicted to heal the user."
+  },
+  "priority": 0
+}

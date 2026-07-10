@@ -1,0 +1,124 @@
+{
+  "_id": 140,
+  "key": "telepathy",
+  "name": {
+    "english": "Telepathy"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Protects against friendly Pokémon's damaging moves.",
+    "full": "This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it."
+  },
+  "description": {
+    "black-white": "Anticipates an ally’s attack and dodges it.",
+    "black-2-white-2": "Anticipates an ally’s attack and dodges it.",
+    "x-y": "Anticipates an ally’s attack and dodges it.",
+    "omega-ruby-alpha-sapphire": "Anticipates an ally’s attack and dodges it.",
+    "sun-moon": "Anticipates an ally’s attack and dodges it.",
+    "ultra-sun-ultra-moon": "Anticipates an ally’s attack and dodges it.",
+    "lets-go-pikachu-lets-go-eevee": "Anticipates an ally’s attack and dodges it.",
+    "sword-shield": "Anticipates an ally’s attack and dodges it."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Elgyem",
+        "id": 605
+      },
+      {
+        "name": "Beheeyem",
+        "id": 606
+      },
+      {
+        "name": "Oranguru",
+        "id": 765
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Wobbuffet",
+        "id": 202
+      },
+      {
+        "name": "Ralts",
+        "id": 280
+      },
+      {
+        "name": "Kirlia",
+        "id": 281
+      },
+      {
+        "name": "Gardevoir",
+        "id": 282
+      },
+      {
+        "name": "Meditite",
+        "id": 307
+      },
+      {
+        "name": "Medicham",
+        "id": 308
+      },
+      {
+        "name": "Wynaut",
+        "id": 360
+      },
+      {
+        "name": "Dialga",
+        "id": 483
+      },
+      {
+        "name": "Palkia",
+        "id": 484
+      },
+      {
+        "name": "Munna",
+        "id": 517
+      },
+      {
+        "name": "Musharna",
+        "id": 518
+      },
+      {
+        "name": "Noibat",
+        "id": 714
+      },
+      {
+        "name": "Noivern",
+        "id": 715
+      },
+      {
+        "name": "Tapu Koko",
+        "id": 785
+      },
+      {
+        "name": "Tapu Lele",
+        "id": 786
+      },
+      {
+        "name": "Tapu Bulu",
+        "id": 787
+      },
+      {
+        "name": "Tapu Fini",
+        "id": 788
+      },
+      {
+        "name": "Blipbug",
+        "id": 824
+      },
+      {
+        "name": "Dottler",
+        "id": 825
+      },
+      {
+        "name": "Orbeetle",
+        "id": 826
+      },
+      {
+        "name": "Rabsca",
+        "id": 954
+      }
+    ]
+  }
+}

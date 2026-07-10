@@ -1,0 +1,33 @@
+{
+  "_id": 742,
+  "key": "double-iron-bash",
+  "name": {
+    "english": "Double Iron Bash",
+    "japanese": "ダブルパンツァー",
+    "chinese": "鋼拳雙擊",
+    "korean": "더블펀처",
+    "german": "Ferropuño Doble",
+    "french": "Panzerfäuste",
+    "italian": "Double Iron Bash",
+    "spanish": "Pugni Corazzati"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user rotates, centering the hex nut in its chest,\nand then strikes with its arms twice in a row. This may\nalso make the target flinch.",
+    "sword-shield": "The user rotates, centering the hex nut in its chest,\nand then strikes with its arms twice in a row. This may\nalso make the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits twice in one turn.",
+    "shortEffect": "Hits twice in one turn."
+  },
+  "priority": 0
+}

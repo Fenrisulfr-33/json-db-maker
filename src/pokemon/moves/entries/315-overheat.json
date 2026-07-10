@@ -1,0 +1,45 @@
+{
+  "_id": 315,
+  "key": "overheat",
+  "name": {
+    "english": "Overheat",
+    "japanese": "オーバーヒート",
+    "chinese": "过热",
+    "korean": "오버히트",
+    "german": "Sofoco",
+    "french": "Hitzekoller",
+    "italian": "Overheat",
+    "spanish": "Vampata"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 130,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Allows a full-power attack,\nbut sharply lowers SP. ATK.",
+    "emerald": "Allows a full-power attack,\nbut sharply lowers SP. ATK.",
+    "firered-leafgreen": "An intense attack\nthat also sharply\nreduces the user’s\nSP. ATK stat.",
+    "diamond-pearl": "The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "platinum": "The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "heartgold-soulsilver": "The user attacks the\nfoe at full power.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "black-white": "The user attacks the target at full power.\nThe attack’s recoil harshly reduces the\nuser’s Sp. Atk stat.",
+    "black-2-white-2": "The user attacks the target at full power.\nThe attack’s recoil harshly reduces the\nuser’s Sp. Atk stat.",
+    "x-y": "The user attacks the target at full power.\nThe attack’s recoil harshly lowers the\nuser’s Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target at full power.\nThe attack’s recoil harshly lowers the\nuser’s Sp. Atk stat.",
+    "sun-moon": "The user attacks the target at full power. The\nattack’s recoil harshly lowers the user’s Sp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user attacks the target at full power. The\nattack’s recoil harshly lowers the user’s Sp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target at full power. The\nattack’s recoil harshly lowers the user’s Sp. Atk stat.",
+    "sword-shield": "The user attacks the target at full power. The attack’s\nrecoil harshly lowers the user’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+    "shortEffect": "Lowers the user's Special Attack by two stages after inflicting damage."
+  },
+  "priority": 0
+}

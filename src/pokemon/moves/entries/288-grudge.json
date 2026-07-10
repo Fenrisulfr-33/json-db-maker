@@ -1,0 +1,45 @@
+{
+  "_id": 288,
+  "key": "grudge",
+  "name": {
+    "english": "Grudge",
+    "japanese": "おんねん",
+    "chinese": "怨恨",
+    "korean": "원념",
+    "german": "Rabia",
+    "french": "Nachspiel",
+    "italian": "Grudge",
+    "spanish": "Rancore"
+  },
+  "type": "Ghost",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "If the user faints, deletes\nthe PP of the final move.",
+    "emerald": "If the user faints, deletes\nall PP of foe’s last move.",
+    "firered-leafgreen": "If the user faints,\nthis move deletes\nthe PP of the move\nthat finished it.",
+    "diamond-pearl": "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.",
+    "platinum": "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.",
+    "heartgold-soulsilver": "If the user faints,\nthe user’s grudge\nfully depletes the PP\nof the foe’s move\nthat knocked it out.",
+    "black-white": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+    "black-2-white-2": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+    "x-y": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+    "omega-ruby-alpha-sapphire": "If the user faints, the user’s grudge\nfully depletes the PP of the opponent’s\nmove that knocked it out.",
+    "sun-moon": "If the user faints, the user’s grudge fully depletes\nthe PP of the opponent’s move that knocked it out.",
+    "ultra-sun-ultra-moon": "If the user faints, the user’s grudge fully depletes\nthe PP of the opponent’s move that knocked it out.",
+    "lets-go-pikachu-lets-go-eevee": "If the user faints, the user’s grudge fully depletes\nthe PP of the opponent’s move that knocked it out.",
+    "sword-shield": "If the user faints, the user’s grudge fully depletes\nthe PP of the opponent’s move that knocked it out."
+  },
+  "effect": {
+    "full": "If the user faints before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect.",
+    "shortEffect": "If the user faints this turn, the PP of the move that fainted it drops to 0."
+  },
+  "priority": 0
+}

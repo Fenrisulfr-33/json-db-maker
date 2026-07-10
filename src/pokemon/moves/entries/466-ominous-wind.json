@@ -1,0 +1,42 @@
+{
+  "_id": 466,
+  "key": "ominous-wind",
+  "name": {
+    "english": "Ominous Wind",
+    "japanese": "あやしいかぜ",
+    "chinese": "奇异之风",
+    "korean": "괴상한바람",
+    "german": "Viento Aciago",
+    "french": "Unheilböen",
+    "italian": "Ominous Wind",
+    "spanish": "Funestovento"
+  },
+  "type": "Ghost",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 5,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.",
+    "platinum": "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.",
+    "heartgold-soulsilver": "The user creates a\ngust of repulsive\nwind. It may also\nraise all the user’s\nstats at once.",
+    "black-white": "The user blasts the target with a gust of\nrepulsive wind. It may also raise all the\nuser’s stats at once.",
+    "black-2-white-2": "The user blasts the target with a gust of\nrepulsive wind. It may also raise all the\nuser’s stats at once.",
+    "x-y": "The user blasts the target with a gust of\nrepulsive wind. This may also raise all the\nuser’s stats at once.",
+    "omega-ruby-alpha-sapphire": "The user blasts the target with a gust of\nrepulsive wind. This may also raise all the\nuser’s stats at once.",
+    "sun-moon": "The user blasts the target with a gust of repulsive\nwind. This may also raise all the user’s stats at once.",
+    "ultra-sun-ultra-moon": "The user blasts the target with a gust of repulsive\nwind. This may also raise all the user’s stats at once.",
+    "lets-go-pikachu-lets-go-eevee": "The user blasts the target with a gust of repulsive\nwind. This may also raise all the user’s stats at once.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage. Has a $effect_chance% chance to raise all of the user's stats one stage.",
+    "shortEffect": "Has a $effect_chance% chance to raise all of the user's stats by one stage."
+  },
+  "priority": 0
+}

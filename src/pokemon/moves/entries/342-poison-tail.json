@@ -1,0 +1,45 @@
+{
+  "_id": 342,
+  "key": "poison-tail",
+  "name": {
+    "english": "Poison Tail",
+    "japanese": "ポイズンテール",
+    "chinese": "毒尾",
+    "korean": "포이즌테일",
+    "german": "Cola Veneno",
+    "french": "Giftschweif",
+    "italian": "Poison Tail",
+    "spanish": "Velenocoda"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 25,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Has a high critical-hit\nratio. May also poison.",
+    "emerald": "Has a high critical-hit\nratio. May also poison.",
+    "firered-leafgreen": "An attack with a\nhigh critical-hit\nratio. It may also\npoison the foe.",
+    "diamond-pearl": "An attack with a\nhigh critical-hit\nratio. This tail \nattack may also \npoison the foe.",
+    "platinum": "An attack with a\nhigh critical-hit\nratio. This tail \nattack may also \npoison the foe.",
+    "heartgold-soulsilver": "An attack with a\nhigh critical-hit\nratio. This tail \nattack may also \npoison the foe.",
+    "black-white": "The user hits the target with its tail.\nIt may also poison the target.\nCritical hits land more easily.",
+    "black-2-white-2": "The user hits the target with its tail.\nIt may also poison the target.\nCritical hits land more easily.",
+    "x-y": "The user hits the target with its tail.\nThis may also poison the target.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user hits the target with its tail.\nThis may also poison the target.\nCritical hits land more easily.",
+    "sun-moon": "The user hits the target with its tail. This may also\npoison the target. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user hits the target with its tail. This may also\npoison the target. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user hits the target with its tail. This may also\npoison the target. Critical hits land more easily.",
+    "sword-shield": "The user hits the target with its tail. This may also\npoison the target. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Has an increased chance for a critical hit and a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

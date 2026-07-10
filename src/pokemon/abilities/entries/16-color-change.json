@@ -1,0 +1,37 @@
+{
+  "_id": 16,
+  "key": "color-change",
+  "name": {
+    "english": "Color Change"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Changes type to match when hit by a damaging move.",
+    "full": "Whenever this Pokémon takes damage from a move, the Pokémon's type changes to match the move. If the Pokémon has two types, both are overridden. The Pokémon must directly take damage; for example, moves blocked by a substitute will not trigger this ability, nor will moves that deal damage indirectly, such as spikes. This ability takes effect on only the last hit of a multiple-hit attack. In Pokémon Colosseum and XD: Gale of Darkness, this ability does not take effect on Shadow-type moves."
+  },
+  "description": {
+    "ruby-sapphire": "Changes type to foe’s move.",
+    "emerald": "Changes type to foe’s move.",
+    "firered-leafgreen": "Changes type to foe’s move.",
+    "diamond-pearl": "Changes the Pokémon’s type to the foe’s move.",
+    "platinum": "Changes the Pokémon’s type to the foe’s move.",
+    "heartgold-soulsilver": "Changes the Pokémon’s type to the foe’s move.",
+    "black-white": "Changes the Pokémon’s type to the foe’s move.",
+    "black-2-white-2": "Changes the Pokémon’s type to the foe’s move.",
+    "x-y": "The Pokémon’s type becomes the type of the move used on it.",
+    "omega-ruby-alpha-sapphire": "The Pokémon’s type becomes the type of the move used on it.",
+    "sun-moon": "The Pokémon’s type becomes the type of the move used on it.",
+    "ultra-sun-ultra-moon": "The Pokémon’s type becomes the type of the move used on it.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon’s type becomes the type of the move used on it.",
+    "sword-shield": "The Pokémon’s type becomes the type of the move used on it."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Kecleon",
+        "id": 352
+      }
+    ],
+    "hidden": []
+  }
+}

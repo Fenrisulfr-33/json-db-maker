@@ -1,0 +1,33 @@
+{
+  "_id": 178,
+  "key": "mega-launcher",
+  "name": {
+    "english": "Mega Launcher"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Strengthens aura and pulse moves to 1.5× their power.",
+    "full": "Strengthens aura and pulse moves to 1.5× their power."
+  },
+  "description": {
+    "x-y": "Powers up aura and pulse moves.",
+    "omega-ruby-alpha-sapphire": "Powers up aura and pulse moves.",
+    "sun-moon": "Powers up aura and pulse moves.",
+    "ultra-sun-ultra-moon": "Powers up aura and pulse moves.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up aura and pulse moves.",
+    "sword-shield": "Powers up aura and pulse moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Clauncher",
+        "id": 692
+      },
+      {
+        "name": "Clawitzer",
+        "id": 693
+      }
+    ],
+    "hidden": []
+  }
+}

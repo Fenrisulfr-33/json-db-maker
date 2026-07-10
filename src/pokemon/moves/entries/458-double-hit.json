@@ -1,0 +1,42 @@
+{
+  "_id": 458,
+  "key": "double-hit",
+  "name": {
+    "english": "Double Hit",
+    "japanese": "ダブルアタック",
+    "chinese": "双重攻击",
+    "korean": "더블어택",
+    "german": "Doble Golpe",
+    "french": "Doppelschlag",
+    "italian": "Double Hit",
+    "spanish": "Doppiosmash"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 35,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user slams the\nfoe with a tail, etc.\nThe target is hit\ntwice in a row.\n",
+    "platinum": "The user slams the\nfoe with a tail, etc.\nThe target is hit\ntwice in a row.\n",
+    "heartgold-soulsilver": "The user slams the\nfoe with a long tail,\nvines, etc. The\ntarget is hit\ntwice in a row.",
+    "black-white": "The user slams the target with a long tail,\nvines, or tentacle.\nThe target is hit twice in a row.",
+    "black-2-white-2": "The user slams the target with a long tail,\nvines, or tentacle.\nThe target is hit twice in a row.",
+    "x-y": "The user slams the target with a long tail,\nvines, or a tentacle.\nThe target is hit twice in a row.",
+    "omega-ruby-alpha-sapphire": "The user slams the target with a long tail,\nvines, or a tentacle.\nThe target is hit twice in a row.",
+    "sun-moon": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row.",
+    "ultra-sun-ultra-moon": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row.",
+    "sword-shield": "The user slams the target with a long tail, vines, or a\ntentacle. The target is hit twice in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits twice in one turn.",
+    "shortEffect": "Hits twice in one turn."
+  },
+  "priority": 0
+}

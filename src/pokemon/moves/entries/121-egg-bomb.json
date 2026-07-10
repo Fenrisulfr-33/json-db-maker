@@ -1,0 +1,47 @@
+{
+  "_id": 121,
+  "key": "egg-bomb",
+  "name": {
+    "english": "Egg Bomb",
+    "japanese": "タマゴばくだん",
+    "chinese": "炸蛋",
+    "korean": "알폭탄",
+    "german": "Bomba Huevo",
+    "french": "Eierbombe",
+    "italian": "Egg Bomb",
+    "spanish": "Uovobomba"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 100,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Eggs are hurled at\nthe foe.",
+    "crystal": "Eggs are hurled at\nthe foe.",
+    "ruby-sapphire": "An egg is forcibly hurled at\nthe foe.",
+    "emerald": "An egg is forcibly hurled at\nthe foe.",
+    "firered-leafgreen": "A large egg is\nhurled with great\nforce at the foe to\ninflict damage.",
+    "diamond-pearl": "A large egg is hurled\nwith maximum force at\nthe foe to inflict\ndamage.\n",
+    "platinum": "A large egg is hurled\nwith maximum force at\nthe foe to inflict\ndamage.\n",
+    "heartgold-soulsilver": "A large egg is hurled\nwith maximum force at\nthe foe to inflict\ndamage.\n",
+    "black-white": "A large egg is hurled at the target\nwith maximum force to inflict damage.",
+    "black-2-white-2": "A large egg is hurled at the target\nwith maximum force to inflict damage.",
+    "x-y": "A large egg is hurled at the target\nwith maximum force to inflict damage.",
+    "omega-ruby-alpha-sapphire": "A large egg is hurled at the target\nwith maximum force to inflict damage.",
+    "sun-moon": "A large egg is hurled at the target with maximum\nforce to inflict damage.",
+    "ultra-sun-ultra-moon": "A large egg is hurled at the target with maximum\nforce to inflict damage.",
+    "lets-go-pikachu-lets-go-eevee": "A large egg is hurled at the target with maximum\nforce to inflict damage.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

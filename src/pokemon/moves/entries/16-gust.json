@@ -1,0 +1,47 @@
+{
+  "_id": 16,
+  "key": "gust",
+  "name": {
+    "english": "Gust",
+    "japanese": "かぜおこし",
+    "chinese": "烈暴风",
+    "korean": "바람일으키기",
+    "german": "Tornado",
+    "french": "Windstoß",
+    "italian": "Gust",
+    "spanish": "Raffica"
+  },
+  "type": "Flying",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 35,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Whips up a strong\ngust of wind.",
+    "crystal": "Whips up a strong\ngust of wind.",
+    "ruby-sapphire": "Strikes the foe with a gust\nof wind whipped up by wings.",
+    "emerald": "Strikes the foe with a gust\nof wind whipped up by wings.",
+    "firered-leafgreen": "Strikes the foe\nwith a gust of wind\nwhipped up by\nwings.",
+    "diamond-pearl": "A gust of wind is\nwhipped up by wings\nand launched at the\nfoe to inflict damage.\n",
+    "platinum": "A gust of wind is\nwhipped up by wings\nand launched at the\nfoe to inflict damage.\n",
+    "heartgold-soulsilver": "A gust of wind is\nwhipped up by wings\nand launched at the\nfoe to inflict damage.\n",
+    "black-white": "A gust of wind is whipped up by wings and\nlaunched at the target to inflict damage.",
+    "black-2-white-2": "A gust of wind is whipped up by wings and\nlaunched at the target to inflict damage.",
+    "x-y": "A gust of wind is whipped up by wings and\nlaunched at the target to inflict damage.",
+    "omega-ruby-alpha-sapphire": "A gust of wind is whipped up by wings and\nlaunched at the target to inflict damage.",
+    "sun-moon": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
+    "ultra-sun-ultra-moon": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
+    "lets-go-pikachu-lets-go-eevee": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage.",
+    "sword-shield": "A gust of wind is whipped up by wings and launched\nat the target to inflict damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power.",
+    "shortEffect": "Inflicts regular damage and can hit Pokémon in the air."
+  },
+  "priority": 0
+}

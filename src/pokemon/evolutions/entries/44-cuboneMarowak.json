@@ -1,0 +1,35 @@
+{
+    "_id": 44,
+    "evoLine": [
+      [
+        {
+          "id": 104,
+          "name": "Cubone",
+          "type": {
+            "one": "Ground"
+          }
+        },
+        [
+          {
+            "id": 105,
+            "name": "Marowak",
+            "type": {
+              "one": "Ground"
+            },
+            "how": "Level 28, outside Alola"
+          },
+          {
+            "id": 105.1,
+            "name": "Marowak",
+            "form": "Alolan Marowak",
+            "type": {
+              "one": "Fire",
+              "two": "Ghost"
+            },
+            "how": "Level 28, Nighttime in Alola"
+          }
+        ]
+      ]
+    ]
+  }
+  

@@ -1,0 +1,45 @@
+{
+  "_id": 332,
+  "key": "aerial-ace",
+  "name": {
+    "english": "Aerial Ace",
+    "japanese": "つばめがえし",
+    "chinese": "回转攻",
+    "korean": "제비반환",
+    "german": "Golpe Aéreo",
+    "french": "Aero-Ass",
+    "italian": "Aerial Ace",
+    "spanish": "Aeroassalto"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 60,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "An extremely speedy and\nunavoidable attack.",
+    "emerald": "An extremely speedy and\nunavoidable attack.",
+    "firered-leafgreen": "An extremely fast\nattack against one\ntarget. It can’t be\nevaded.",
+    "diamond-pearl": "The user confounds\nthe foe with speed,\nthen slashes.\nThe attack lands\nwithout fail.",
+    "platinum": "The user confounds\nthe foe with speed,\nthen slashes.\nThe attack lands\nwithout fail.",
+    "heartgold-soulsilver": "The user confounds\nthe foe with speed,\nthen slashes.\nThe attack lands\nwithout fail.",
+    "black-white": "The user confounds the target with speed,\nthen slashes.\nThe attack lands without fail.",
+    "black-2-white-2": "The user confounds the target with speed,\nthen slashes.\nThe attack lands without fail.",
+    "x-y": "The user confounds the target with speed,\nthen slashes.\nThis attack never misses.",
+    "omega-ruby-alpha-sapphire": "The user confounds the target with speed,\nthen slashes.\nThis attack never misses.",
+    "sun-moon": "The user confounds the target with speed, then\nslashes. This attack never misses.",
+    "ultra-sun-ultra-moon": "The user confounds the target with speed, then\nslashes. This attack never misses.",
+    "lets-go-pikachu-lets-go-eevee": "The user confounds the target with speed, then\nslashes. This attack never misses.",
+    "sword-shield": "The user confounds the target with speed, then\nslashes. This attack never misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

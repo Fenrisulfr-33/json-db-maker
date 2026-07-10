@@ -1,0 +1,42 @@
+{
+  "_id": 444,
+  "key": "stone-edge",
+  "name": {
+    "english": "Stone Edge",
+    "japanese": "ストーンエッジ",
+    "chinese": "尖石攻击",
+    "korean": "스톤에지",
+    "german": "Roca Afilada",
+    "french": "Steinkante",
+    "italian": "Stone Edge",
+    "spanish": "Pietrataglio"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 5,
+  "power": 100,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n",
+    "platinum": "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n",
+    "heartgold-soulsilver": "The user stabs the\nfoe with a sharpened\nstone. It has a high\ncritical-hit ratio.\n",
+    "black-white": "The user stabs the foe with\nsharpened stones from below.\nIt has a high critical-hit ratio.",
+    "black-2-white-2": "The user stabs the foe with\nsharpened stones from below.\nIt has a high critical-hit ratio.",
+    "x-y": "The user stabs the target with\nsharpened stones from below.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user stabs the target with\nsharpened stones from below.\nCritical hits land more easily.",
+    "sun-moon": "The user stabs the target from below with\nsharpened stones. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user stabs the target from below with\nsharpened stones. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user stabs the target from below with\nsharpened stones. Critical hits land more easily.",
+    "sword-shield": "The user stabs the target from below with\nsharpened stones. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

@@ -1,0 +1,37 @@
+{
+  "_id": 580,
+  "key": "grassy-terrain",
+  "name": {
+    "english": "Grassy Terrain",
+    "japanese": "グラスフィールド",
+    "chinese": "草原场地",
+    "korean": "그래스필드",
+    "german": "Campo de Hierba",
+    "french": "Grasfeld",
+    "italian": "Grassy Terrain",
+    "spanish": "Campo Erboso"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "x-y": "The user turns the ground under everyone’s feet\nto grass for five turns. This restores the HP of\nPokémon on the ground a little every turn.",
+    "omega-ruby-alpha-sapphire": "The user turns the ground under everyone’s feet\nto grass for five turns. This restores the HP of\nPokémon on the ground a little every turn.",
+    "sun-moon": "The user turns the ground to grass for five turns.\nThis restores the HP of Pokémon on the ground a\nlittle every turn and powers up Grass type-moves.",
+    "ultra-sun-ultra-moon": "The user turns the ground to grass for five turns.\nThis restores the HP of Pokémon on the ground a\nlittle every turn and powers up Grass type-moves.",
+    "lets-go-pikachu-lets-go-eevee": "The user turns the ground to grass for five turns.\nThis restores the HP of Pokémon on the ground a\nlittle every turn and powers up Grass-type moves.",
+    "sword-shield": "The user turns the ground to grass for five turns.\nThis restores the HP of Pokémon on the ground a\nlittle every turn and powers up Grass-type moves."
+  },
+  "effect": {
+    "full": "For five turns, heals all Pokémon on the ground for 1/16 their max HP each turn and strengthens their grass moves to 1.5× their power.\n\nChanges nature power to energy ball.",
+    "shortEffect": "For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power."
+  },
+  "priority": 0
+}

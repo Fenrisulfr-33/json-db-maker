@@ -1,0 +1,45 @@
+{
+  "_id": 346,
+  "key": "water-sport",
+  "name": {
+    "english": "Water Sport",
+    "japanese": "みずあそび",
+    "chinese": "水之游",
+    "korean": "물놀이",
+    "german": "Hidrochorro",
+    "french": "Nassmacher",
+    "italian": "Water Sport",
+    "spanish": "Docciascudo"
+  },
+  "type": "Water",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "emerald": "The user becomes soaked to\nraise resistance to fire.",
+    "ruby-sapphire": "The user becomes soaked to\nraise resistance to fire.",
+    "firered-leafgreen": "Weakens FIRE-type\nattacks while the\nuser is in the\nbattle.",
+    "diamond-pearl": "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.",
+    "platinum": "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.",
+    "heartgold-soulsilver": "The user soaks itself\nwith water. The move\nweakens Fire-type\nmoves while the user\nis in the battle.",
+    "black-white": "The user soaks itself with water. The move\nweakens Fire-type moves while the user\nis in the battle.",
+    "black-2-white-2": "The user soaks itself with water. The move\nweakens Fire-type moves while the user\nis in the battle.",
+    "x-y": "The user soaks itself with water.\nThis weakens Fire-type moves\nfor five turns.",
+    "omega-ruby-alpha-sapphire": "The user soaks itself with water.\nThis weakens Fire-type moves\nfor five turns.",
+    "sun-moon": "The user soaks the battlefield with water. This\nweakens Fire-type moves for five turns.",
+    "ultra-sun-ultra-moon": "The user soaks the battlefield with water. This\nweakens Fire-type moves for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user soaks the battlefield with water. This\nweakens Fire-type moves for five turns.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "fire moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends.",
+    "shortEffect": "Halves all Fire-type damage."
+  },
+  "priority": 0
+}

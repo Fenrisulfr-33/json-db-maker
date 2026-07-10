@@ -1,0 +1,39 @@
+{
+  "_id": 488,
+  "key": "flame-charge",
+  "name": {
+    "english": "Flame Charge",
+    "japanese": "ニトロチャージ",
+    "chinese": "火焰袭击",
+    "korean": "니트로차지",
+    "german": "Nitrocarga",
+    "french": "Nitroladung",
+    "italian": "Flame Charge",
+    "spanish": "Nitrocarica"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user’s Speed stat.",
+    "black-2-white-2": "The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user’s Speed stat.",
+    "x-y": "Cloaking itself in flame, the user attacks.\nThen, building up more power,\nthe user raises its Speed stat.",
+    "omega-ruby-alpha-sapphire": "Cloaking itself in flame, the user attacks.\nThen, building up more power,\nthe user raises its Speed stat.",
+    "sun-moon": "Cloaking itself in flame, the user attacks. Then,\nbuilding up more power, the user raises its\nSpeed stat.",
+    "ultra-sun-ultra-moon": "Cloaking itself in flame, the user attacks. Then,\nbuilding up more power, the user raises its\nSpeed stat.",
+    "lets-go-pikachu-lets-go-eevee": "Cloaking itself in flame, the user attacks. Then,\nbuilding up more power, the user raises its\nSpeed stat.",
+    "sword-shield": "Cloaking itself in flame, the user attacks the target.\nThen, building up more power, the user raises its\nSpeed stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Raises the user's Speed by one stage.",
+    "shortEffect": "Inflicts regular damage.  Raises the user's Speed by one stage."
+  },
+  "priority": 0
+}

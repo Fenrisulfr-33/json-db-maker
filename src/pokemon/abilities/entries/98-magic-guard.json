@@ -1,0 +1,71 @@
+{
+  "_id": 98,
+  "key": "magic-guard",
+  "name": {
+    "english": "Magic Guard"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Protects against damage not directly caused by a move.",
+    "full": "This Pokémon is immune to damage not directly caused by a move. For example, this Pokémon takes no damage from from weather, recoil, status ailments, or spikes, but it still suffers from the Attack cut when burned, and a life orb will still power up this Pokémon's moves without damaging it. Anything that directly depends on such damage will also not happen; for example, leech seed will neither hurt this Pokémon nor heal the opponent, and Pokémon with a jaboca berry or rowap berry will not consume the berry when hit by this Pokémon. The following are unaffected: struggle, pain split (whether used by or against this Pokémon), belly drum, substitute, curse, moves that knock the user out, and damage from confusion. This Pokémon will neither lose nor regain HP if it drains HP from a Pokémon with liquid ooze. If this Pokémon is badly poisoned, the poison counter is still increased each turn; if the Pokémon loses this ability, it will begin taking as much damage as it would be if it had been taking increasing damage each turn."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon only takes damage from attacks.",
+    "platinum": "The Pokémon only takes damage from attacks.",
+    "heartgold-soulsilver": "The Pokémon only takes damage from attacks.",
+    "black-white": "The Pokémon only takes damage from attacks.",
+    "black-2-white-2": "The Pokémon only takes damage from attacks.",
+    "x-y": "The Pokémon only takes damage from attacks.",
+    "omega-ruby-alpha-sapphire": "The Pokémon only takes damage from attacks.",
+    "sun-moon": "The Pokémon only takes damage from attacks.",
+    "ultra-sun-ultra-moon": "The Pokémon only takes damage from attacks.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon only takes damage from attacks.",
+    "sword-shield": "The Pokémon only takes damage from attacks."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Clefairy",
+        "id": 35
+      },
+      {
+        "name": "Clefable",
+        "id": 36
+      },
+      {
+        "name": "Cleffa",
+        "id": 173
+      },
+      {
+        "name": "Sigilyph",
+        "id": 561
+      },
+      {
+        "name": "Solosis",
+        "id": 577
+      },
+      {
+        "name": "Duosion",
+        "id": 578
+      },
+      {
+        "name": "Reuniclus",
+        "id": 579
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Abra",
+        "id": 63
+      },
+      {
+        "name": "Kadabra",
+        "id": 64
+      },
+      {
+        "name": "Alakazam",
+        "id": 65
+      }
+    ]
+  }
+}

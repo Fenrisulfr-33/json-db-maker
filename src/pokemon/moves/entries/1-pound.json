@@ -1,0 +1,47 @@
+{
+  "_id": 1,
+  "key": "pound",
+  "name": {
+    "english": "Pound",
+    "japanese": "はたく",
+    "chinese": "拍击",
+    "korean": "막치기",
+    "german": "Destructor",
+    "french": "Klaps",
+    "italian": "Pound",
+    "spanish": "Botta"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 35,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Pounds with fore­\nlegs or tail.",
+    "crystal": "Pounds with fore­\nlegs or tail.",
+    "ruby-sapphire": "Pounds the foe with\nforelegs or tail.",
+    "emerald": "Pounds the foe with\nforelegs or tail.",
+    "firered-leafgreen": "A physical attack\ndelivered with a\nlong tail or a\nforeleg, etc.",
+    "diamond-pearl": "The foe is physically\npounded with a long\ntail or a foreleg,\netc.\n",
+    "platinum": "The foe is physically\npounded with a long\ntail or a foreleg,\netc.\n",
+    "heartgold-soulsilver": "The foe is physically\npounded with a long\ntail or a foreleg,\netc.\n",
+    "black-white": "The target is physically pounded with\na long tail or a foreleg, etc.",
+    "black-2-white-2": "The target is physically pounded with\na long tail or a foreleg, etc.",
+    "x-y": "The target is physically pounded with\na long tail, a foreleg, or the like.",
+    "omega-ruby-alpha-sapphire": "The target is physically pounded with\na long tail, a foreleg, or the like.",
+    "sun-moon": "The target is physically pounded with a long tail, a\nforeleg, or the like.",
+    "ultra-sun-ultra-moon": "The target is physically pounded with a long tail, a\nforeleg, or the like.",
+    "lets-go-pikachu-lets-go-eevee": "The target is physically pounded with a long tail, a\nforeleg, or the like.",
+    "sword-shield": "The target is physically pounded with a long tail, a\nforeleg, or the like."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

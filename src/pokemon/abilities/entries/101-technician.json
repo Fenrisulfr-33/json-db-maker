@@ -1,0 +1,95 @@
+{
+  "_id": 101,
+  "key": "technician",
+  "name": {
+    "english": "Technician"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Strengthens moves of 60 base power or less to 1.5× their power.",
+    "full": "This Pokémon's moves have 1.5× their power if their base power is 60 or less. This includes moves of variable power, such as hidden power and magnitude, when their power is 60 or less. helping hand's power boost is taken into account for any move, as is defense curl's power boost for rollout."
+  },
+  "description": {
+    "black-white": "Powers up the Pokémon’s weaker moves.",
+    "diamond-pearl": "Powers up the Pokémon’s weaker moves.",
+    "platinum": "Powers up the Pokémon’s weaker moves.",
+    "heartgold-soulsilver": "Powers up the Pokémon’s weaker moves.",
+    "black-2-white-2": "Powers up the Pokémon’s weaker moves.",
+    "x-y": "Powers up the Pokémon’s weaker moves.",
+    "omega-ruby-alpha-sapphire": "Powers up the Pokémon’s weaker moves.",
+    "sun-moon": "Powers up the Pokémon’s weaker moves.",
+    "ultra-sun-ultra-moon": "Powers up the Pokémon’s weaker moves.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up the Pokémon’s weaker moves.",
+    "sword-shield": "Powers up the Pokémon’s weaker moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Meowth",
+        "id": 52
+      },
+      {
+        "name": "Persian",
+        "id": 53
+      },
+      {
+        "name": "Scyther",
+        "id": 123
+      },
+      {
+        "name": "Scizor",
+        "id": 212
+      },
+      {
+        "name": "Smeargle",
+        "id": 235
+      },
+      {
+        "name": "Hitmontop",
+        "id": 237
+      },
+      {
+        "name": "Ambipom",
+        "id": 424
+      },
+      {
+        "name": "Minccino",
+        "id": 572
+      },
+      {
+        "name": "Cinccino",
+        "id": 573
+      },
+      {
+        "name": "Marshadow",
+        "id": 802
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Breloom",
+        "id": 286
+      },
+      {
+        "name": "Kricketune",
+        "id": 402
+      },
+      {
+        "name": "Roserade",
+        "id": 407
+      },
+      {
+        "name": "Clobbopus",
+        "id": 852
+      },
+      {
+        "name": "Grapploct",
+        "id": 853
+      },
+      {
+        "name": "Maushold",
+        "id": 925
+      }
+    ]
+  }
+}

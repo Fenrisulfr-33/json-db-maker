@@ -1,0 +1,35 @@
+{
+  "_id": 698,
+  "key": "guardian-of-alola",
+  "name": {
+    "english": "Guardian of Alola",
+    "japanese": "ガーディアン・デ・アローラ",
+    "chinese": "巨人衛士・阿羅拉",
+    "korean": "알로라의수호자",
+    "german": "Cólera del Guardián",
+    "french": "Alolas Wächter",
+    "italian": "Guardian of Alola",
+    "spanish": "Collera del Guardiano"
+  },
+  "type": "Fairy",
+  "category": "Special",
+  "contest": null,
+  "pp": 1,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user, the Land Spirit Pokémon, obtains Alola’s\nenergy using its Z-Power and attacks the target with\nfull force. This reduces the target’s HP greatly.",
+    "ultra-sun-ultra-moon": "The user, the Land Spirit Pokémon, obtains Alola’s\nenergy using its Z-Power and attacks the target with\nfull force. This reduces the target’s HP greatly.",
+    "lets-go-pikachu-lets-go-eevee": "The user, the Land Spirit Pokémon, obtains Alola’s\nenergy using its Z-Power and attacks the target with\nfull force. This reduces the target’s HP greatly.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts direct damage equal to ¾ of the target's remaining HP.",
+    "shortEffect": "Damages the target for 75% of its remaining HP."
+  },
+  "priority": 0
+}

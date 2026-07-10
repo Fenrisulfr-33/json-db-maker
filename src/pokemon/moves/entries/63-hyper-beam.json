@@ -1,0 +1,47 @@
+{
+  "_id": 63,
+  "key": "hyper-beam",
+  "name": {
+    "english": "Hyper Beam",
+    "japanese": "はかいこうせん",
+    "chinese": "破坏死光",
+    "korean": "파괴광선",
+    "german": "Hiperrayo",
+    "french": "Hyperstrahl",
+    "italian": "Hyper Beam",
+    "spanish": "Iper Raggio"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "1st turn: Attack\n2nd turn: Rest",
+    "crystal": "1st turn: Attack\n2nd turn: Rest",
+    "ruby-sapphire": "Powerful, but leaves the\nuser immobile the next turn.",
+    "emerald": "Powerful, but leaves the\nuser immobile the next turn.",
+    "firered-leafgreen": "A severely damaging\nattack that makes\nthe user rest on\nthe next turn.",
+    "diamond-pearl": "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.",
+    "platinum": "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.",
+    "heartgold-soulsilver": "The foe is attacked\nwith a powerful beam.\nThe user must rest\non the next turn to\nregain its energy.",
+    "black-white": "The target is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.",
+    "black-2-white-2": "The target is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.",
+    "x-y": "The target is attacked with a powerful\nbeam. The user can’t move on the next turn.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a powerful\nbeam. The user can’t move on the next turn.",
+    "sun-moon": "The target is attacked with a powerful beam.\nThe user can’t move on the next turn.",
+    "ultra-sun-ultra-moon": "The target is attacked with a powerful beam.\nThe user can’t move on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with a powerful beam.\nThe user can’t move on the next turn.",
+    "sword-shield": "The target is attacked with a powerful beam.\nThe user can’t move on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "shortEffect": "User foregoes its next turn to recharge."
+  },
+  "priority": 0
+}

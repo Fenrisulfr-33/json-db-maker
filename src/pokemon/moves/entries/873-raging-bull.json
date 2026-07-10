@@ -1,0 +1,17 @@
+{
+  "_id": 873,
+  "key": "raging-bull",
+  "name": {
+    "english": "Raging Bull"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

@@ -1,0 +1,24 @@
+{
+  "_id": 61,
+  "evoLine": [
+    [
+      {
+        "id": 167,
+        "name": "Spinarak",
+        "type": {
+          "one": "Bug",
+          "two": "Poison"
+        }
+      },
+      {
+        "id": 166,
+        "name": "Ariados",
+        "type": {
+          "one": "Bug",
+          "two": "Poison"
+        },
+        "how": "Level 22"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 166,
+  "key": "sketch",
+  "name": {
+    "english": "Sketch",
+    "japanese": "スケッチ",
+    "chinese": "写生",
+    "korean": "스케치",
+    "german": "Esquema",
+    "french": "Nachahmer",
+    "italian": "Sketch",
+    "spanish": "Schizzo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 1,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Copies the foe's\nmove permanently.",
+    "crystal": "Copies the foe's\nmove permanently.",
+    "ruby-sapphire": "Copies the foe’s last move\npermanently.",
+    "emerald": "Copies the foe’s last move\npermanently.",
+    "firered-leafgreen": "This move copies\nthe move last used\nby the foe, then\ndisappears.",
+    "diamond-pearl": "It enables the user\nto learn a move used\nby the foe.\nOnce used, the move\nSketch disappears.",
+    "platinum": "It enables the user\nto learn a move used\nby the foe.\nOnce used, the move\nSketch disappears.",
+    "heartgold-soulsilver": "It enables the user\nto permanently learn\nthe move last used by\nthe foe. Once used,\nSketch disappears.",
+    "black-white": "It enables the user to permanently learn\nthe move last used by the target.\nOnce used, Sketch disappears.",
+    "black-2-white-2": "It enables the user to permanently learn\nthe move last used by the target.\nOnce used, Sketch disappears.",
+    "x-y": "It enables the user to permanently learn\nthe move last used by the target.\nOnce used, Sketch disappears.",
+    "omega-ruby-alpha-sapphire": "It enables the user to permanently learn\nthe move last used by the target.\nOnce used, Sketch disappears.",
+    "sun-moon": "It enables the user to permanently learn the move\nlast used by the target. Once used,\nSketch disappears.",
+    "ultra-sun-ultra-moon": "It enables the user to permanently learn the move\nlast used by the target. Once used,\nSketch disappears.",
+    "lets-go-pikachu-lets-go-eevee": "It enables the user to permanently learn the move\nlast used by the target. Once used,\nSketch disappears.",
+    "sword-shield": "It enables the user to permanently learn the move\nlast used by the target. Once used,\nSketch disappears."
+  },
+  "effect": {
+    "full": "Permanently replaces itself with the target's last used move.  If that move is chatter or struggle, this move will fail.\n\nThis move cannot be copied by mimic or mirror move, nor selected by assist or metronome, nor forced by encore.",
+    "shortEffect": "Permanently becomes the target's last used move."
+  },
+  "priority": 0
+}

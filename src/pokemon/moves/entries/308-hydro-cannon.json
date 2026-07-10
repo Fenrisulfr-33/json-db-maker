@@ -1,0 +1,45 @@
+{
+  "_id": 308,
+  "key": "hydro-cannon",
+  "name": {
+    "english": "Hydro Cannon",
+    "japanese": "ハイドロカノン",
+    "chinese": "水电炮",
+    "korean": "하이드로캐논",
+    "german": "Hidrocañón",
+    "french": "Aquahaubitze",
+    "italian": "Hydro Cannon",
+    "spanish": "Idrocannone"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Powerful, but leaves the\nuser immobile the next turn.",
+    "emerald": "Powerful, but leaves the\nuser immobile the next turn.",
+    "firered-leafgreen": "The foe is hit with\na watery cannon.\nThe user can’t move\non the next turn.",
+    "diamond-pearl": "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.",
+    "platinum": "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.",
+    "heartgold-soulsilver": "The foe is hit with\na watery blast.\nThe user must rest\non the next turn,\nhowever.",
+    "black-white": "The target is hit with a watery blast.\nThe user must rest on the\nnext turn, however.",
+    "black-2-white-2": "The target is hit with a watery blast.\nThe user must rest on the\nnext turn, however.",
+    "x-y": "The target is hit with a watery blast.\nThe user can’t move on the next turn.",
+    "omega-ruby-alpha-sapphire": "The target is hit with a watery blast.\nThe user can’t move on the next turn.",
+    "sun-moon": "The target is hit with a watery blast. The user can’t\nmove on the next turn.",
+    "ultra-sun-ultra-moon": "The target is hit with a watery blast. The user can’t\nmove on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit with a watery blast. The user can’t\nmove on the next turn.",
+    "sword-shield": "The target is hit with a watery blast. The user can’t\nmove on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "shortEffect": "User foregoes its next turn to recharge."
+  },
+  "priority": 0
+}

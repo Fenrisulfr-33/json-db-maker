@@ -1,0 +1,47 @@
+{
+  "_id": 94,
+  "key": "psychic",
+  "name": {
+    "english": "Psychic",
+    "japanese": "サイコキネシス",
+    "chinese": "幻象术",
+    "korean": "사이코키네시스",
+    "german": "Psíquico",
+    "french": "Psychokinese",
+    "italian": "Psychic",
+    "spanish": "Psichico"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nlower SPCL.DEF.",
+    "crystal": "An attack that may\nlower SPCL.DEF.",
+    "ruby-sapphire": "A powerful psychic attack\nthat may lower SP. DEF.",
+    "emerald": "A powerful psychic attack\nthat may lower SP. DEF.",
+    "firered-leafgreen": "A strong telekinetic\nattack. It may also\nlower the foe’s\nSP. DEF stat.",
+    "diamond-pearl": "The foe is hit by a\nstrong telekinetic\nforce. It may also\nreduce the foe’s\nSp. Def stat.",
+    "platinum": "The foe is hit by a\nstrong telekinetic\nforce. It may also\nreduce the foe’s\nSp. Def stat.",
+    "heartgold-soulsilver": "The foe is hit by a\nstrong telekinetic\nforce. It may also\nreduce the foe’s\nSp. Def stat.",
+    "black-white": "The target is hit by a strong telekinetic\nforce. It may also reduce the target’s\nSp. Def stat.",
+    "black-2-white-2": "The target is hit by a strong telekinetic\nforce. It may also reduce the target’s\nSp. Def stat.",
+    "x-y": "The target is hit by a strong telekinetic\nforce. This may also lower the target’s\nSp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The target is hit by a strong telekinetic\nforce. This may also lower the target’s\nSp. Def stat.",
+    "sun-moon": "The target is hit by a strong telekinetic force.\nThis may also lower the target’s Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The target is hit by a strong telekinetic force.\nThis may also lower the target’s Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit by a strong telekinetic force.\nThis may also lower the target’s Sp. Def stat.",
+    "sword-shield": "The target is hit by a strong telekinetic force.\nThis may also lower the target’s Sp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

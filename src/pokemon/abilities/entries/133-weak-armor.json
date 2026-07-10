@@ -1,0 +1,120 @@
+{
+  "_id": 133,
+  "key": "weak-armor",
+  "name": {
+    "english": "Weak Armor"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
+    "full": "Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage. This ability triggers on every hit of a multiple-hit move."
+  },
+  "description": {
+    "black-white": "Physical attacks lower Defense and raise Speed.",
+    "black-2-white-2": "Physical attacks lower Defense and raise Speed.",
+    "x-y": "Physical attacks lower its Defense stat and raise its Speed stat.",
+    "omega-ruby-alpha-sapphire": "Physical attacks lower its Defense stat and raise its Speed stat.",
+    "sun-moon": "Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.",
+    "ultra-sun-ultra-moon": "Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.",
+    "sword-shield": "Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Roggenrola",
+        "id": 524
+      },
+      {
+        "name": "Boldore",
+        "id": 525
+      },
+      {
+        "name": "Garbodor",
+        "id": 569
+      },
+      {
+        "name": "Sinistea",
+        "id": 854
+      },
+      {
+        "name": "Polteageist",
+        "id": 855
+      },
+      {
+        "name": "Cursola",
+        "id": 864
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Onix",
+        "id": 95
+      },
+      {
+        "name": "Omanyte",
+        "id": 138
+      },
+      {
+        "name": "Omastar",
+        "id": 139
+      },
+      {
+        "name": "Kabuto",
+        "id": 140
+      },
+      {
+        "name": "Kabutops",
+        "id": 141
+      },
+      {
+        "name": "Slugma",
+        "id": 218
+      },
+      {
+        "name": "Magcargo",
+        "id": 219
+      },
+      {
+        "name": "Skarmory",
+        "id": 227
+      },
+      {
+        "name": "Dwebble",
+        "id": 557
+      },
+      {
+        "name": "Crustle",
+        "id": 558
+      },
+      {
+        "name": "Vanillite",
+        "id": 582
+      },
+      {
+        "name": "Vanillish",
+        "id": 583
+      },
+      {
+        "name": "Vanilluxe",
+        "id": 584
+      },
+      {
+        "name": "Vullaby",
+        "id": 629
+      },
+      {
+        "name": "Mandibuzz",
+        "id": 630
+      },
+      {
+        "name": "Armarouge",
+        "id": 936
+      },
+      {
+        "name": "Ceruledge",
+        "id": 937
+      }
+    ]
+  }
+}

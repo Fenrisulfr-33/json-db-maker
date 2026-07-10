@@ -1,0 +1,25 @@
+{
+    "_id": 35,
+    "evoLine": [
+      [
+        {
+          "id": 84,
+          "name": "Doduo",
+          "type": {
+            "one": "Normal",
+            "two": "Flying"
+          }
+        },
+        {
+          "id": 85,
+          "name": "Dodrio",
+          "type": {
+            "one": "Normal",
+            "two": "Flying"
+          },
+          "how": "Level 31"
+        }
+      ]
+    ]
+  }
+  

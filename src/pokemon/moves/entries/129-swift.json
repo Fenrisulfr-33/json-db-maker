@@ -1,0 +1,47 @@
+{
+  "_id": 129,
+  "key": "swift",
+  "name": {
+    "english": "Swift",
+    "japanese": "スピードスター",
+    "chinese": "高速星星",
+    "korean": "스피드스타",
+    "german": "Rapidez",
+    "french": "Sternschauer",
+    "italian": "Swift",
+    "spanish": "Comete"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 60,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that\nnever misses.",
+    "crystal": "An attack that\nnever misses.",
+    "ruby-sapphire": "Sprays star-shaped rays\nthat never miss.",
+    "emerald": "Sprays star-shaped rays\nthat never miss.",
+    "firered-leafgreen": "Star-shaped rays\nthat never miss are\nfired at all foes in\nbattle.",
+    "diamond-pearl": "Star-shaped rays are\nshot at the foe.\nThis attack never\nmisses.\n",
+    "platinum": "Star-shaped rays are\nshot at the foe.\nThis attack never\nmisses.\n",
+    "heartgold-soulsilver": "Star-shaped rays are\nshot at the foe.\nThis attack never\nmisses.\n",
+    "black-white": "Star-shaped rays are shot at the opposing\nteam. This attack never misses.",
+    "black-2-white-2": "Star-shaped rays are shot at the opposing\nteam. This attack never misses.",
+    "x-y": "Star-shaped rays are shot at the opposing\nPokémon. This attack never misses.",
+    "omega-ruby-alpha-sapphire": "Star-shaped rays are shot at the opposing\nPokémon. This attack never misses.",
+    "sun-moon": "Star-shaped rays are shot at the opposing Pokémon.\nThis attack never misses.",
+    "ultra-sun-ultra-moon": "Star-shaped rays are shot at the opposing Pokémon.\nThis attack never misses.",
+    "lets-go-pikachu-lets-go-eevee": "Star-shaped rays are shot at the opposing Pokémon.\nThis attack never misses.",
+    "sword-shield": "Star-shaped rays are shot at opposing Pokémon.\nThis attack never misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

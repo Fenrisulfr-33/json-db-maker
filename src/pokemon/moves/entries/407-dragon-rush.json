@@ -1,0 +1,42 @@
+{
+  "_id": 407,
+  "key": "dragon-rush",
+  "name": {
+    "english": "Dragon Rush",
+    "japanese": "ドラゴンダイブ",
+    "chinese": "龙神俯冲",
+    "korean": "드래곤다이브",
+    "german": "Carga Dragón",
+    "french": "Drachenstoß",
+    "italian": "Dragon Rush",
+    "spanish": "Dragofuria"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 100,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user tackles the\nfoe while exhibiting\noverwhelming menace.\nIt may also make the\ntarget flinch.",
+    "platinum": "The user tackles the\nfoe while exhibiting\noverwhelming menace.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "The user tackles the\nfoe while exhibiting\noverwhelming menace.\nIt may also make the\ntarget flinch.",
+    "black-white": "The user tackles the target while\nexhibiting overwhelming menace.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user tackles the target while\nexhibiting overwhelming menace.\nIt may also make the target flinch.",
+    "x-y": "The user tackles the target while\nexhibiting overwhelming menace.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user tackles the target while\nexhibiting overwhelming menace.\nThis may also make the target flinch.",
+    "sun-moon": "The user tackles the target while exhibiting\noverwhelming menace. This may also make the\ntarget flinch.",
+    "ultra-sun-ultra-moon": "The user tackles the target while exhibiting\noverwhelming menace. This may also make the\ntarget flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user tackles the target while exhibiting\noverwhelming menace. This may also make the\ntarget flinch.",
+    "sword-shield": "The user tackles the target while exhibiting\noverwhelming menace. This may also make the\ntarget flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 242,
+  "key": "crunch",
+  "name": {
+    "english": "Crunch",
+    "japanese": "かみくだく",
+    "chinese": "咬碎",
+    "korean": "깨물어부수기",
+    "german": "Triturar",
+    "french": "Knirscher",
+    "italian": "Crunch",
+    "spanish": "Sgranocchio"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nlower SPCL.DEF.",
+    "crystal": "An attack that may\nlower SPCL.DEF.",
+    "ruby-sapphire": "Crunches with sharp fangs.\nMay lower SP. DEF.",
+    "emerald": "Crunches with sharp fangs.\nMay lower SP. DEF.",
+    "firered-leafgreen": "The foe is crunched\nwith sharp fangs.\nIt may lower the\nfoe’s SP. DEF.",
+    "diamond-pearl": "The user crunches up\nthe foe with sharp\nfangs. It may also\nlower the target’s\nDefense stat.",
+    "platinum": "The user crunches up\nthe foe with sharp\nfangs. It may also\nlower the target’s\nDefense stat.",
+    "heartgold-soulsilver": "The user crunches up\nthe foe with sharp\nfangs. It may also\nlower the target’s\nDefense stat.",
+    "black-white": "The user crunches up the target\nwith sharp fangs. It may also lower\nthe target’s Defense stat.",
+    "black-2-white-2": "The user crunches up the target\nwith sharp fangs. It may also lower\nthe target’s Defense stat.",
+    "x-y": "The user crunches up the target\nwith sharp fangs. This may also lower\nthe target’s Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user crunches up the target\nwith sharp fangs. This may also lower\nthe target’s Defense stat.",
+    "sun-moon": "The user crunches up the target with sharp fangs.\nThis may also lower the target’s Defense stat.",
+    "ultra-sun-ultra-moon": "The user crunches up the target with sharp fangs.\nThis may also lower the target’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user crunches up the target with sharp fangs.\nThis may also lower the target’s Defense stat.",
+    "sword-shield": "The user crunches up the target with sharp fangs.\nThis may also lower the target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
+  },
+  "priority": 0
+}

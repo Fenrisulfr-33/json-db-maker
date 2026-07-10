@@ -1,0 +1,47 @@
+{
+  "_id": 170,
+  "key": "mind-reader",
+  "name": {
+    "english": "Mind Reader",
+    "japanese": "こころのめ",
+    "chinese": "心眼",
+    "korean": "마음의눈",
+    "german": "Telépata",
+    "french": "Willensleser",
+    "italian": "Mind Reader",
+    "spanish": "Leggimente"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Ensures the next\nattack will hit.",
+    "crystal": "Ensures the next\nattack will hit.",
+    "ruby-sapphire": "Senses the foe’s action to\nensure the next move’s hit.",
+    "emerald": "Senses the foe’s action to\nensure the next move’s hit.",
+    "firered-leafgreen": "The user predicts\nthe foe’s action to\nensure its next\nattack hits.",
+    "diamond-pearl": "The user senses the\nfoe’s movements\nwith its mind to\nensure its next\nattack does not miss.",
+    "platinum": "The user senses the\nfoe’s movements\nwith its mind to\nensure its next\nattack does not miss.",
+    "heartgold-soulsilver": "The user senses the\nfoe’s movements\nwith its mind to\nensure its next\nattack does not miss.",
+    "black-white": "The user senses the target’s movements\nwith its mind to ensure its next\nattack does not miss the target.",
+    "black-2-white-2": "The user senses the target’s movements\nwith its mind to ensure its next\nattack does not miss the target.",
+    "x-y": "The user senses the target’s movements\nwith its mind to ensure its next\nattack does not miss the target.",
+    "omega-ruby-alpha-sapphire": "The user senses the target’s movements\nwith its mind to ensure its next\nattack does not miss the target.",
+    "sun-moon": "The user senses the target’s movements with its\nmind to ensure its next attack does not miss\nthe target.",
+    "ultra-sun-ultra-moon": "The user senses the target’s movements with its\nmind to ensure its next attack does not miss\nthe target.",
+    "lets-go-pikachu-lets-go-eevee": "The user senses the target’s movements with its\nmind to ensure its next attack does not miss\nthe target.",
+    "sword-shield": "The user senses the target’s movements with its\nmind to ensure its next attack does not miss\nthe target."
+  },
+  "effect": {
+    "full": "If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.\n\nOne-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pokémon that are off the field due to moves such as dig or fly.\n\nIf the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.\n\nThis effect is passed on by baton pass.",
+    "shortEffect": "Ensures that the user's next move will hit the target."
+  },
+  "priority": 0
+}

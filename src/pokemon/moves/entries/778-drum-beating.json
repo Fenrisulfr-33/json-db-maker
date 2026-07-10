@@ -1,0 +1,32 @@
+{
+  "_id": 778,
+  "key": "drum-beating",
+  "name": {
+    "english": "Drum Beating",
+    "japanese": "ドラムアタック",
+    "chinese": "鼓擊",
+    "korean": "드럼어택",
+    "german": "Batería Asalto",
+    "french": "Trommelschläge",
+    "italian": "Drum Beating",
+    "spanish": "Tamburattacco"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user plays its drum, controlling the drum’s roots\nto attack the target. This also lowers the target’s\nSpeed stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

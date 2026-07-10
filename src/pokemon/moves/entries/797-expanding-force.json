@@ -1,0 +1,32 @@
+{
+  "_id": 797,
+  "key": "expanding-force",
+  "name": {
+    "english": "Expanding Force",
+    "japanese": "ワイドフォース",
+    "chinese": "廣域戰力",
+    "korean": "와이드포스",
+    "german": "Vasta Fuerza",
+    "french": "Flächenmacht",
+    "italian": "Expanding Force",
+    "spanish": "Vastenergia"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks the target with its psychic power.\nThis move’s power goes up and damages all opposing\nPokémon on Psychic Terrain."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

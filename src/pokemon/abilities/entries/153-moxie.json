@@ -1,0 +1,92 @@
+{
+  "_id": 153,
+  "key": "moxie",
+  "name": {
+    "english": "Moxie"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Raises Attack one stage upon KOing a Pokémon.",
+    "full": "This Pokémon's Attack rises one stage upon knocking out another Pokémon, even a friendly Pokémon. This ability does not take effect when the Pokémon indirectly causes another Pokémon to faint, e.g. through poison or spikes. If this Pokémon knocks out a Pokémon with mummy, the former's ability will change without taking effect."
+  },
+  "description": {
+    "black-white": "Boosts Attack after knocking out any Pokémon.",
+    "black-2-white-2": "Boosts Attack after knocking out any Pokémon.",
+    "x-y": "Boosts the Attack stat after knocking out any Pokémon.",
+    "omega-ruby-alpha-sapphire": "Boosts the Attack stat after knocking out any Pokémon.",
+    "sun-moon": "The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon.",
+    "ultra-sun-ultra-moon": "The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon.",
+    "sword-shield": "The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Sandile",
+        "id": 551
+      },
+      {
+        "name": "Krokorok",
+        "id": 552
+      },
+      {
+        "name": "Krookodile",
+        "id": 553
+      },
+      {
+        "name": "Scraggy",
+        "id": 559
+      },
+      {
+        "name": "Scrafty",
+        "id": 560
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Pinsir",
+        "id": 127
+      },
+      {
+        "name": "Gyarados",
+        "id": 130
+      },
+      {
+        "name": "Heracross",
+        "id": 214
+      },
+      {
+        "name": "Mightyena",
+        "id": 262
+      },
+      {
+        "name": "Salamence",
+        "id": 373
+      },
+      {
+        "name": "Honchkrow",
+        "id": 430
+      },
+      {
+        "name": "Litleo",
+        "id": 667
+      },
+      {
+        "name": "Pyroar",
+        "id": 668
+      },
+      {
+        "name": "Quaxly",
+        "id": 912
+      },
+      {
+        "name": "Quaxwell",
+        "id": 913
+      },
+      {
+        "name": "Quaquaval",
+        "id": 914
+      }
+    ]
+  }
+}

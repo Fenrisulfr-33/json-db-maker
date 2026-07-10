@@ -1,0 +1,47 @@
+{
+  "_id": 106,
+  "key": "harden",
+  "name": {
+    "english": "Harden",
+    "japanese": "かたくなる",
+    "chinese": "硬梆梆",
+    "korean": "단단해지기",
+    "german": "Fortaleza",
+    "french": "Härtner",
+    "italian": "Harden",
+    "spanish": "Rafforzatore"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Raises the user's\nDEFENSE.",
+    "crystal": "Raises the user's\nDEFENSE.",
+    "ruby-sapphire": "Stiffens the body’s \nmuscles to raise DEFENSE.",
+    "emerald": "Stiffens the body’s \nmuscles to raise DEFENSE.",
+    "firered-leafgreen": "The user stiffens\nall the muscles in\nits body to raise\nits DEFENSE stat.",
+    "diamond-pearl": "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n",
+    "platinum": "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n",
+    "heartgold-soulsilver": "The user stiffens all\nthe muscles in its\nbody to raise its\nDefense stat.\n",
+    "black-white": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+    "black-2-white-2": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+    "x-y": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user stiffens all the muscles in its\nbody to raise its Defense stat.",
+    "sun-moon": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+    "ultra-sun-ultra-moon": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user stiffens all the muscles in its body to raise\nits Defense stat.",
+    "sword-shield": "The user stiffens all the muscles in its body to raise\nits Defense stat."
+  },
+  "effect": {
+    "full": "Raises the user's Defense by one stage.",
+    "shortEffect": "Raises the user's Defense by one stage."
+  },
+  "priority": 0
+}

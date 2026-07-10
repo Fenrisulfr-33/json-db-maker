@@ -1,0 +1,32 @@
+{
+  "_id": 226,
+  "key": "electric-surge",
+  "name": {
+    "english": "Electric Surge"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "When this Pokémon enters battle, it changes the terrain to Electric Terrain.",
+    "full": "When this Pokémon enters battle, it changes the terrain to electric terrain."
+  },
+  "description": {
+    "sun-moon": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
+    "ultra-sun-ultra-moon": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
+    "lets-go-pikachu-lets-go-eevee": "Turns the ground into Electric Terrain when the Pokémon enters a battle.",
+    "sword-shield": "Turns the ground into Electric Terrain when the Pokémon enters a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tapu Koko",
+        "id": 785
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Pincurchin",
+        "id": 871
+      }
+    ]
+  }
+}

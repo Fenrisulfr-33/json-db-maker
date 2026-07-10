@@ -1,0 +1,42 @@
+{
+  "_id": 437,
+  "key": "leaf-storm",
+  "name": {
+    "english": "Leaf Storm",
+    "japanese": "リーフストーム",
+    "chinese": "叶暴风",
+    "korean": "리프스톰",
+    "german": "Lluevehojas",
+    "french": "Blättersturm",
+    "italian": "Leaf Storm",
+    "spanish": "Verdebufera"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Cute",
+  "pp": 5,
+  "power": 130,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "A storm of sharp\nleaves is whipped up.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "platinum": "A storm of sharp\nleaves is whipped up.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "heartgold-soulsilver": "A storm of sharp\nleaves is whipped up.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "black-white": "The user whips up a storm of leaves around\nthe target. The attack’s recoil harshly\nreduces the user’s Sp. Atk stat.",
+    "black-2-white-2": "The user whips up a storm of leaves around\nthe target. The attack’s recoil harshly\nreduces the user’s Sp. Atk stat.",
+    "x-y": "The user whips up a storm of leaves around\nthe target. The attack’s recoil harshly\nlowers the user’s Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "The user whips up a storm of leaves around\nthe target. The attack’s recoil harshly\nlowers the user’s Sp. Atk stat.",
+    "sun-moon": "The user whips up a storm of leaves around the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user whips up a storm of leaves around the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user whips up a storm of leaves around the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+    "sword-shield": "The user whips up a storm of leaves around the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+    "shortEffect": "Lowers the user's Special Attack by two stages after inflicting damage."
+  },
+  "priority": 0
+}

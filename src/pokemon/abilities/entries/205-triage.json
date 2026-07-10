@@ -1,0 +1,27 @@
+{
+  "_id": 205,
+  "key": "triage",
+  "name": {
+    "english": "Triage"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon's healing moves have their priority increased by 3.",
+    "full": "This Pokémon's healing moves have their priority increased by 3."
+  },
+  "description": {
+    "sun-moon": "Gives priority to a healing move.",
+    "ultra-sun-ultra-moon": "Gives priority to a healing move.",
+    "lets-go-pikachu-lets-go-eevee": "Gives priority to a healing move.",
+    "sword-shield": "Gives priority to a healing move."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Comfey",
+        "id": 764
+      }
+    ],
+    "hidden": []
+  }
+}

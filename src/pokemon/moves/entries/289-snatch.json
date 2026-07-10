@@ -1,0 +1,45 @@
+{
+  "_id": 289,
+  "key": "snatch",
+  "name": {
+    "english": "Snatch",
+    "japanese": "よこどり",
+    "chinese": "抢夺",
+    "korean": "가로챔",
+    "german": "Robo",
+    "french": "Übernahme",
+    "italian": "Snatch",
+    "spanish": "Scippo"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Steals the effects of the\nmove the foe uses next.",
+    "emerald": "Steals the effects of the\nmove the target uses next.",
+    "firered-leafgreen": "Steals the effects\nof the foe’s\nhealing or status-\nchanging move.",
+    "diamond-pearl": "The user steals the\neffects of any\nhealing or status-\nchanging move the foe\nattempts to use.",
+    "platinum": "The user steals the\neffects of any\nhealing or stat-\nchanging move the foe\nattempts to use.",
+    "heartgold-soulsilver": "The user steals the\neffects of any\nhealing or stat-\nchanging move the foe\nattempts to use.",
+    "black-white": "The user steals the effects of any\nhealing or stat-changing move the\nopponent attempts to use.",
+    "black-2-white-2": "The user steals the effects of any\nhealing or stat-changing move the\nopponent attempts to use.",
+    "x-y": "The user steals the effects of any attempts\nto use a healing or stat-changing move.",
+    "omega-ruby-alpha-sapphire": "The user steals the effects of any attempts\nto use a healing or stat-changing move.",
+    "sun-moon": "The user steals the effects of any attempts to use a\nhealing or stat-changing move.",
+    "ultra-sun-ultra-moon": "The user steals the effects of any attempts to use a\nhealing or stat-changing move.",
+    "lets-go-pikachu-lets-go-eevee": "The user steals the effects of any attempts to use a\nhealing or stat-changing move.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "The next time a Pokémon uses a beneficial move on itself or itself and its ally this turn, the user of this move will steal the move and use it itself.  Moves which may be stolen by this move are identified by the \"snatchable\" flag.\n\nIf two Pokémon use this move on the same turn, the faster Pokémon will steal the first beneficial move, and the slower Pokémon will then steal it again—thus, only the slowest Pokémon using this move ultimately gains a stolen move's effect.\n\nIf the user steals psych up, it will target the Pokémon that used psych up.  If the user was the original target of psych up, and the Pokémon that originally used it's affected by pressure, it will only lose 1 PP.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+    "shortEffect": "Steals the target's move, if it's self-targeted."
+  },
+  "priority": 4
+}

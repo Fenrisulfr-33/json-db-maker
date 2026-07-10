@@ -1,0 +1,29 @@
+{
+  "_id": 169,
+  "key": "fur-coat",
+  "name": {
+    "english": "Fur Coat"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Halves damage from physical attacks.",
+    "full": "Halves damage from physical attacks."
+  },
+  "description": {
+    "x-y": "Halves damage from physical moves.",
+    "omega-ruby-alpha-sapphire": "Halves damage from physical moves.",
+    "sun-moon": "Halves the damage from physical moves.",
+    "ultra-sun-ultra-moon": "Halves the damage from physical moves.",
+    "lets-go-pikachu-lets-go-eevee": "Halves the damage from physical moves.",
+    "sword-shield": "Halves the damage from physical moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Furfrou",
+        "id": 676
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_id": 769,
+  "key": "max-mindstorm",
+  "name": {
+    "english": "Max Mindstorm",
+    "japanese": "ダイサイコ",
+    "chinese": "極巨超能",
+    "korean": "다이사이코",
+    "german": "Maxionda",
+    "french": "Dyna-Kinese",
+    "italian": "Max Mindstorm",
+    "spanish": "Dynapsiche"
+  },
+  "type": "Psychic",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 10,
+  "accuracy": null,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon-me-first",
+  "changes": [],
+  "description": {
+    "sword-shield": "This is a Psychic-type attack Dynamax Pokémon use.\nThe user turns the ground into Psychic Terrain for\nfive turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

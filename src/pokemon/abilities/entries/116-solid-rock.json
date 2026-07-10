@@ -1,0 +1,46 @@
+{
+  "_id": 116,
+  "key": "solid-rock",
+  "name": {
+    "english": "Solid Rock"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Decreases damage taken from super-effective moves by 1/4.",
+    "full": "This Pokémon takes 0.75× as much damage from moves that are super effective against it. This ability functions identically to filter."
+  },
+  "description": {
+    "x-y": "Reduces damage from supereffective attacks.",
+    "diamond-pearl": "Powers down super­ effective moves.",
+    "platinum": "Powers down super­ effective moves.",
+    "heartgold-soulsilver": "Reduces damage from supereffective attacks",
+    "black-white": "Reduces damage from supereffective attacks.",
+    "black-2-white-2": "Reduces damage from supereffective attacks.",
+    "omega-ruby-alpha-sapphire": "Reduces damage from supereffective attacks.",
+    "sun-moon": "Reduces the power of supereffective attacks taken.",
+    "ultra-sun-ultra-moon": "Reduces the power of supereffective attacks taken.",
+    "lets-go-pikachu-lets-go-eevee": "Reduces the power of supereffective attacks taken.",
+    "sword-shield": "Reduces the power of supereffective attacks taken."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Camerupt",
+        "id": 323
+      },
+      {
+        "name": "Rhyperior",
+        "id": 464
+      },
+      {
+        "name": "Tirtouga",
+        "id": 564
+      },
+      {
+        "name": "Carracosta",
+        "id": 565
+      }
+    ],
+    "hidden": []
+  }
+}

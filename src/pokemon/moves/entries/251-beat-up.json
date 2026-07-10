@@ -1,0 +1,47 @@
+{
+  "_id": 251,
+  "key": "beat-up",
+  "name": {
+    "english": "Beat Up",
+    "japanese": "ふくろだたき",
+    "chinese": "痛打一气",
+    "korean": "집단구타",
+    "german": "Paliza",
+    "french": "Prügler",
+    "italian": "Beat Up",
+    "spanish": "Picchiaduro"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Party POKéMON join\nin the attack.\n",
+    "crystal": "Party POKéMON join\nin the attack.\n",
+    "ruby-sapphire": "Summons party POKéMON to\njoin in the attack.",
+    "emerald": "Summons party POKéMON to\njoin in the attack.",
+    "firered-leafgreen": "All party POKéMON\njoin in the attack.\nThe more allies,\nthe more damage.",
+    "diamond-pearl": "The user gets all the\nparty Pokémon to\nattack the foe. The\nmore party Pokémon,\nthe more damage.",
+    "platinum": "The user gets all the\nparty Pokémon to\nattack the foe. The\nmore party Pokémon,\nthe more damage.",
+    "heartgold-soulsilver": "The user gets all the\nparty Pokémon to\nattack the foe. The\nmore party Pokémon,\nthe more damage.",
+    "black-white": "The user gets all party Pokémon to attack\nthe target. The more party Pokémon,\nthe greater the number of attacks.",
+    "black-2-white-2": "The user gets all party Pokémon to attack\nthe target. The more party Pokémon,\nthe greater the number of attacks.",
+    "x-y": "The user gets all party Pokémon to attack\nthe target. The more party Pokémon,\nthe greater the number of attacks.",
+    "omega-ruby-alpha-sapphire": "The user gets all party Pokémon to attack\nthe target. The more party Pokémon,\nthe greater the number of attacks.",
+    "sun-moon": "The user gets all party Pokémon to attack the target.\nThe more party Pokémon, the greater the number\nof attacks.",
+    "ultra-sun-ultra-moon": "The user gets all party Pokémon to attack the target.\nThe more party Pokémon, the greater the number\nof attacks.",
+    "lets-go-pikachu-lets-go-eevee": "The user gets all party Pokémon to attack the target.\nThe more party Pokémon, the greater the number\nof attacks.",
+    "sword-shield": "The user gets all party Pokémon to attack the target.\nThe more party Pokémon, the greater the number\nof attacks."
+  },
+  "effect": {
+    "full": "Inflicts typeless regular damage.  Every Pokémon in the user's party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pokémon still get STAB.\n\nThis effect breaks through wonder guard.",
+    "shortEffect": "Hits once for every conscious Pokémon the trainer has."
+  },
+  "priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 373,
+  "key": "embargo",
+  "name": {
+    "english": "Embargo",
+    "japanese": "さしおさえ",
+    "chinese": "征收",
+    "korean": "금제",
+    "german": "Embargo",
+    "french": "Itemsperre",
+    "italian": "Embargo",
+    "spanish": "Divieto"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.",
+    "platinum": "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.",
+    "heartgold-soulsilver": "It prevents the foe\nfrom using its held\nitem. Its Trainer is\nalso prevented from\nusing items on it.",
+    "black-white": "It prevents the target from using its held\nitem. Its Trainer is also prevented from\nusing items on it.",
+    "black-2-white-2": "It prevents the target from using its held\nitem. Its Trainer is also prevented from\nusing items on it.",
+    "x-y": "This move prevents the target from\nusing its held item. Its Trainer is\nalso prevented from using items on it.",
+    "omega-ruby-alpha-sapphire": "This move prevents the target from\nusing its held item. Its Trainer is\nalso prevented from using items on it.",
+    "sun-moon": "This move prevents the target from using its held\nitem for five turns. Its Trainer is also prevented from\nusing items on it.",
+    "ultra-sun-ultra-moon": "This move prevents the target from using its held\nitem for five turns. Its Trainer is also prevented from\nusing items on it.",
+    "lets-go-pikachu-lets-go-eevee": "This move prevents the target from using its held\nitem for five turns. Its Trainer is also prevented from\nusing items on it.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Target cannot use its held item for five turns.  If the target leaves the field, this effect ends.\n\nIf a Pokémon under this effect uses bug bite or pluck on a Pokémon holding a berry, the berry is destroyed but not used.  If a Pokémon under this effect uses fling, it will fail.\n\nThis effect is passed by baton pass.",
+    "shortEffect": "Target cannot use held items."
+  },
+  "priority": 0
+}

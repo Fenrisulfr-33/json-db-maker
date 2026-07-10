@@ -1,0 +1,17 @@
+{
+  "_id": 849,
+  "key": "lunar-blessing",
+  "name": {
+    "english": "Lunar Blessing"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 5,
+  "power": 0,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "All-allies",
+  "changes": []
+}

@@ -1,0 +1,19 @@
+{
+  "_id": 287,
+  "key": "beads-of-ruin",
+  "name": {
+    "english": "Beads of Ruin"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Lowers Special Defense of all Pokémon except itself.",
+    "full": "Lowers Special Defense of all Pokémon except itself."
+  },
+  "description": {
+    "scarlet-violet": "The power of the Pokémon’s ruinous beads lowers the Sp. Def stats of all Pokémon except itself."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

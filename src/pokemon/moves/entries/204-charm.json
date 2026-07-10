@@ -1,0 +1,47 @@
+{
+  "_id": 204,
+  "key": "charm",
+  "name": {
+    "english": "Charm",
+    "japanese": "あまえる",
+    "chinese": "撒娇",
+    "korean": "애교부리기",
+    "german": "Encanto",
+    "french": "Charme",
+    "italian": "Charm",
+    "spanish": "Fascino"
+  },
+  "type": "Fairy",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Sharply lowers the\nfoe's ATTACK.",
+    "crystal": "Sharply lowers the\nfoe's ATTACK.",
+    "ruby-sapphire": "Charms the foe and sharply\nreduces its ATTACK.",
+    "emerald": "Charms the foe and sharply\nreduces its ATTACK.",
+    "firered-leafgreen": "The foe is charmed\nby the user’s cute\nappeals, sharply\ncutting its ATTACK.",
+    "diamond-pearl": "The user charmingly\nstares at the foe,\nmaking it less wary.\nThe target’s Attack\nis sharply lowered.",
+    "platinum": "The user charmingly\nstares at the foe,\nmaking it less wary.\nThe target’s Attack\nis sharply lowered.",
+    "heartgold-soulsilver": "The user charmingly\nstares at the foe,\nmaking it less wary.\nThe target’s Attack\nis sharply lowered.",
+    "black-white": "The user gazes at the target rather\ncharmingly, making it less wary.\nThe target’s Attack is harshly lowered.",
+    "black-2-white-2": "The user gazes at the target rather\ncharmingly, making it less wary.\nThe target’s Attack is harshly lowered.",
+    "x-y": "The user gazes at the target rather\ncharmingly, making it less wary.\nThis harshly lowers its Attack stat.",
+    "omega-ruby-alpha-sapphire": "The user gazes at the target rather\ncharmingly, making it less wary.\nThis harshly lowers its Attack stat.",
+    "sun-moon": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers its\nAttack stat.",
+    "ultra-sun-ultra-moon": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers its\nAttack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers its\nAttack stat.",
+    "sword-shield": "The user gazes at the target rather charmingly,\nmaking it less wary. This harshly lowers the target’s\nAttack stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack by two stages.",
+    "shortEffect": "Lowers the target's Attack by two stages."
+  },
+  "priority": 0
+}

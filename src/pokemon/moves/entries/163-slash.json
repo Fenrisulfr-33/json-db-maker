@@ -1,0 +1,47 @@
+{
+  "_id": 163,
+  "key": "slash",
+  "name": {
+    "english": "Slash",
+    "japanese": "きりさく",
+    "chinese": "劈开",
+    "korean": "베어가르기",
+    "german": "Cuchillada",
+    "french": "Schlitzer",
+    "italian": "Slash",
+    "spanish": "Lacerazione"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Has a high criti­\ncal hit ratio.",
+    "crystal": "Has a high criti­\ncal hit ratio.",
+    "ruby-sapphire": "Slashes with claws, etc. Has\na high critical-hit ratio.",
+    "emerald": "Slashes with claws, etc. Has\na high critical-hit ratio.",
+    "firered-leafgreen": "The foe is slashed\nwith claws, etc.\nIt has a high\ncritical-hit ratio.",
+    "diamond-pearl": "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "The foe is attacked\nwith a slash of\nclaws, etc.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+    "black-2-white-2": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+    "x-y": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.",
+    "sun-moon": "The target is attacked with a slash of claws or\nblades. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The target is attacked with a slash of claws or\nblades. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with a slash of claws or\nblades. Critical hits land more easily.",
+    "sword-shield": "The target is attacked with a slash of claws or\nblades. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

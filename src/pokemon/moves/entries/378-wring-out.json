@@ -1,0 +1,42 @@
+{
+  "_id": 378,
+  "key": "wring-out",
+  "name": {
+    "english": "Wring Out",
+    "japanese": "しぼりとる",
+    "chinese": "拧干",
+    "korean": "쥐어짜기",
+    "german": "Estrujón",
+    "french": "Auswringen",
+    "italian": "Wring Out",
+    "spanish": "Strizzata"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 5,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user powerfully\nwrings the foe.\nThe more HP the foe\nhas, the greater this\nattack’s power.",
+    "platinum": "The user powerfully\nwrings the foe.\nThe more HP the foe\nhas, the greater this\nattack’s power.",
+    "heartgold-soulsilver": "The user powerfully\nwrings the foe.\nThe more HP the foe\nhas, the greater this\nattack’s power.",
+    "black-white": "The user powerfully wrings the target.\nThe more HP the target has, the greater\nthis attack’s power.",
+    "black-2-white-2": "The user powerfully wrings the target.\nThe more HP the target has, the greater\nthis attack’s power.",
+    "x-y": "The user powerfully wrings the target.\nThe more HP the target has, the greater\nthe move’s power.",
+    "omega-ruby-alpha-sapphire": "The user powerfully wrings the target.\nThe more HP the target has, the greater\nthe move’s power.",
+    "sun-moon": "The user powerfully wrings the target. The more HP\nthe target has, the greater the move’s power.",
+    "ultra-sun-ultra-moon": "The user powerfully wrings the target. The more HP\nthe target has, the greater the move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user powerfully wrings the target. The more HP\nthe target has, the greater the move’s power.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121.",
+    "shortEffect": "Power increases against targets with more HP remaining, up to a maximum of 121 power."
+  },
+  "priority": 0
+}

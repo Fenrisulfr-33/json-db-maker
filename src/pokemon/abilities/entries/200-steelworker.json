@@ -1,0 +1,27 @@
+{
+  "_id": 200,
+  "key": "steelworker",
+  "name": {
+    "english": "Steelworker"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon's Steel moves have 1.5× power.",
+    "full": "This Pokémon's Steel moves have 1.5× power."
+  },
+  "description": {
+    "sun-moon": "Powers up Steel-type moves.",
+    "ultra-sun-ultra-moon": "Powers up Steel-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up Steel-type moves.",
+    "sword-shield": "Powers up Steel-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Dhelmise",
+        "id": 781
+      }
+    ],
+    "hidden": []
+  }
+}

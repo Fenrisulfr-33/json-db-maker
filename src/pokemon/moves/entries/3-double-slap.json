@@ -1,0 +1,47 @@
+{
+  "_id": 3,
+  "key": "double-slap",
+  "name": {
+    "english": "Double Slap",
+    "japanese": "おうふくビンタ",
+    "chinese": "连环巴掌",
+    "korean": "연속뺨치기",
+    "german": "Doble Bofetón",
+    "french": "Duplexhieb",
+    "italian": "Double Slap",
+    "spanish": "Doppiasberla"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 15,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Repeatedly slaps\n2-5 times.",
+    "crystal": "Repeatedly slaps\n2-5 times.",
+    "ruby-sapphire": "Repeatedly slaps the foe\n2 to 5 times.",
+    "emerald": "Repeatedly slaps the foe\n2 to 5 times.",
+    "firered-leafgreen": "The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times.",
+    "diamond-pearl": "The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times in a row.\n",
+    "platinum": "The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times in a row.\n",
+    "heartgold-soulsilver": "The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times in a row.\n",
+    "black-white": "The target is slapped repeatedly, back\nand forth, two to five times in a row.",
+    "black-2-white-2": "The target is slapped repeatedly, back\nand forth, two to five times in a row.",
+    "x-y": "The target is slapped repeatedly, back\nand forth, two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "The target is slapped repeatedly, back\nand forth, two to five times in a row.",
+    "sun-moon": "The target is slapped repeatedly, back and forth,\ntwo to five times in a row.",
+    "ultra-sun-ultra-moon": "The target is slapped repeatedly, back and forth,\ntwo to five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The target is slapped repeatedly, back and forth,\ntwo to five times in a row.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

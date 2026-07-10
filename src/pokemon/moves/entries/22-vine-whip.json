@@ -1,0 +1,47 @@
+{
+  "_id": 22,
+  "key": "vine-whip",
+  "name": {
+    "english": "Vine Whip",
+    "japanese": "つるのムチ",
+    "chinese": "藤鞭",
+    "korean": "덩굴채찍",
+    "german": "Látigo Cepa",
+    "french": "Rankenhieb",
+    "italian": "Vine Whip",
+    "spanish": "Frustata"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 25,
+  "power": 45,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Whips the foe with\nslender vines.",
+    "crystal": "Whips the foe with\nslender vines.",
+    "ruby-sapphire": "Strikes the foe with\nslender, whiplike vines.",
+    "emerald": "Strikes the foe with\nslender, whiplike vines.",
+    "firered-leafgreen": "The foe is struck\nwith slender, whip­\nlike vines.",
+    "diamond-pearl": "The foe is struck\nwith slender, whiplike\nvines to inflict\ndamage.\n",
+    "platinum": "The foe is struck\nwith slender, whiplike\nvines to inflict\ndamage.\n",
+    "heartgold-soulsilver": "The foe is struck\nwith slender, whiplike\nvines to inflict\ndamage.\n",
+    "black-white": "The target is struck with slender,\nwhiplike vines to inflict damage.",
+    "black-2-white-2": "The target is struck with slender,\nwhiplike vines to inflict damage.",
+    "x-y": "The target is struck with slender,\nwhiplike vines to inflict damage.",
+    "omega-ruby-alpha-sapphire": "The target is struck with slender,\nwhiplike vines to inflict damage.",
+    "sun-moon": "The target is struck with slender, whiplike vines to\ninflict damage.",
+    "ultra-sun-ultra-moon": "The target is struck with slender, whiplike vines to\ninflict damage.",
+    "lets-go-pikachu-lets-go-eevee": "The target is struck with slender, whiplike vines to\ninflict damage.",
+    "sword-shield": "The target is struck with slender, whiplike vines to\ninflict damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

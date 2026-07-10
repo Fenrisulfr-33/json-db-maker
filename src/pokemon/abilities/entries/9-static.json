@@ -1,0 +1,114 @@
+{
+  "_id": 9,
+  "key": "static",
+  "name": {
+    "english": "Static"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Has a 30% chance of paralyzing attacking Pokémon on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being paralyzed. Pokémon that are immune to electric-type moves can still be paralyzed by this ability. Overworld: If the lead Pokémon has this ability, there is a 50% chance that encounters will be with an electric Pokémon, if applicable."
+  },
+  "description": {
+    "ruby-sapphire": "Paralyzes on contact.",
+    "emerald": "Paralyzes on contact.",
+    "firered-leafgreen": "Paralyzes on contact.",
+    "diamond-pearl": "Contact with the Pokémon may cause paralysis.",
+    "platinum": "Contact with the Pokémon may cause paralysis.",
+    "heartgold-soulsilver": "Contact with the Pokémon may cause paralysis.",
+    "black-white": "Contact with the Pokémon may cause paralysis.",
+    "black-2-white-2": "Contact with the Pokémon may cause paralysis.",
+    "x-y": "Contact with the Pokémon may cause paralysis.",
+    "omega-ruby-alpha-sapphire": "Contact with the Pokémon may cause paralysis.",
+    "sun-moon": "The Pokémon is charged with static electricity, so contact with it may cause paralysis.",
+    "ultra-sun-ultra-moon": "The Pokémon is charged with static electricity, so contact with it may cause paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon is charged with static electricity, so contact with it may cause paralysis.",
+    "sword-shield": "The Pokémon is charged with static electricity, so contact with it may cause paralysis."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Pikachu",
+        "id": 25
+      },
+      {
+        "name": "Raichu",
+        "id": 26
+      },
+      {
+        "name": "Voltorb",
+        "id": 100
+      },
+      {
+        "name": "Electrode",
+        "id": 101
+      },
+      {
+        "name": "Electabuzz",
+        "id": 125
+      },
+      {
+        "name": "Pichu",
+        "id": 172
+      },
+      {
+        "name": "Mareep",
+        "id": 179
+      },
+      {
+        "name": "Flaaffy",
+        "id": 180
+      },
+      {
+        "name": "Ampharos",
+        "id": 181
+      },
+      {
+        "name": "Elekid",
+        "id": 239
+      },
+      {
+        "name": "Electrike",
+        "id": 309
+      },
+      {
+        "name": "Manectric",
+        "id": 310
+      },
+      {
+        "name": "Emolga",
+        "id": 587
+      },
+      {
+        "name": "Stunfisk",
+        "id": 618
+      },
+      {
+        "name": "Toxel",
+        "id": 848
+      },
+      {
+        "name": "Arctozolt",
+        "id": 881
+      },
+      {
+        "name": "Pawmi",
+        "id": 921
+      },
+      {
+        "name": "Tadbulb",
+        "id": 938
+      },
+      {
+        "name": "Bellibolt",
+        "id": 939
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Zapdos",
+        "id": 145
+      }
+    ]
+  }
+}

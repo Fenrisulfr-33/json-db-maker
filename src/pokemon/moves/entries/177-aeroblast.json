@@ -1,0 +1,47 @@
+{
+  "_id": 177,
+  "key": "aeroblast",
+  "name": {
+    "english": "Aeroblast",
+    "japanese": "エアロブラスト",
+    "chinese": "空气爆炸",
+    "korean": "에어로블라스트",
+    "german": "Aerochorro",
+    "french": "Luftstoß",
+    "italian": "Aeroblast",
+    "spanish": "Aerocolpo"
+  },
+  "type": "Flying",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 100,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Has a high criti­\ncal hit ratio.",
+    "crystal": "Has a high criti­\ncal hit ratio.",
+    "ruby-sapphire": "Launches a vacuumed blast.\nHigh critical-hit ratio.",
+    "emerald": "Launches a vacuumed blast.\nHigh critical-hit ratio.",
+    "firered-leafgreen": "A vortex of air is\nshot at the foe.\nIt has a high\ncritical-hit ratio.",
+    "diamond-pearl": "A vortex of air is\nshot at the foe to\ninflict damage.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "A vortex of air is\nshot at the foe to\ninflict damage.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "A vortex of air is\nshot at the foe to\ninflict damage.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "A vortex of air is shot at the target to\ninflict damage.\nCritical hits land more easily.",
+    "black-2-white-2": "A vortex of air is shot at the target to\ninflict damage.\nCritical hits land more easily.",
+    "x-y": "A vortex of air is shot at the target to\ninflict damage.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "A vortex of air is shot at the target to\ninflict damage.\nCritical hits land more easily.",
+    "sun-moon": "A vortex of air is shot at the target to inflict damage.\nCritical hits land more easily.",
+    "ultra-sun-ultra-moon": "A vortex of air is shot at the target to inflict damage.\nCritical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "A vortex of air is shot at the target to inflict damage.\nCritical hits land more easily.",
+    "sword-shield": "A vortex of air is shot at the target to inflict damage.\nCritical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 7,
+  "key": "fire-punch",
+  "name": {
+    "english": "Fire Punch",
+    "japanese": "ほのおのパンチ",
+    "chinese": "火焰拳",
+    "korean": "불꽃펀치",
+    "german": "Puño Fuego",
+    "french": "Feuerschlag",
+    "italian": "Fire Punch",
+    "spanish": "Fuocopugno"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A fiery punch. May\ncause a burn.",
+    "crystal": "A fiery punch. May\ncause a burn.",
+    "ruby-sapphire": "A fiery punch that may burn\nthe foe.",
+    "emerald": "A fiery punch that may burn\nthe foe.",
+    "firered-leafgreen": "The foe is punched\nwith a fiery fist.\nIt may leave the\nfoe with a burn.",
+    "diamond-pearl": "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n",
+    "platinum": "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n",
+    "heartgold-soulsilver": "The foe is punched\nwith a fiery fist.\nIt may leave the\ntarget with a burn.\n",
+    "black-white": "The target is punched with a fiery fist.\nIt may also leave the target with a burn.",
+    "black-2-white-2": "The target is punched with a fiery fist.\nIt may also leave the target with a burn.",
+    "x-y": "The target is punched with a fiery fist.\nThis may also leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "The target is punched with a fiery fist.\nThis may also leave the target with a burn.",
+    "sun-moon": "The target is punched with a fiery fist. This may also\nleave the target with a burn.",
+    "ultra-sun-ultra-moon": "The target is punched with a fiery fist. This may also\nleave the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is punched with a fiery fist. This may also\nleave the target with a burn.",
+    "sword-shield": "The target is punched with a fiery fist. This may also\nleave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

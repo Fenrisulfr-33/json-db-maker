@@ -1,0 +1,45 @@
+{
+  "_id": 300,
+  "key": "mud-sport",
+  "name": {
+    "english": "Mud Sport",
+    "japanese": "どろあそび",
+    "chinese": "玩泥巴",
+    "korean": "흙놀이",
+    "german": "Chapoteo Lodo",
+    "french": "Lehmsuhler",
+    "italian": "Mud Sport",
+    "spanish": "Fangata"
+  },
+  "type": "Ground",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Covers the user in mud to\nraise electrical resistance.",
+    "emerald": "Covers the user in mud to\nraise electrical resistance.",
+    "firered-leafgreen": "Weakens ELECTRIC-\ntype attacks while\nthe user is in the\nbattle.",
+    "diamond-pearl": "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.",
+    "platinum": "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.",
+    "heartgold-soulsilver": "The user covers\nitself with mud. It\nweakens Electric-\ntype moves while the\nuser is in the battle.",
+    "black-white": "The user covers itself with mud. It\nweakens Electric-type moves while the\nuser is in the battle.",
+    "black-2-white-2": "The user covers itself with mud. It\nweakens Electric-type moves while the\nuser is in the battle.",
+    "x-y": "The user covers itself with mud.\nThis weakens Electric-type moves\nfor five turns.",
+    "omega-ruby-alpha-sapphire": "The user covers itself with mud.\nThis weakens Electric-type moves\nfor five turns.",
+    "sun-moon": "The user kicks up mud on the battlefield. This\nweakens Electric-type moves for five turns.",
+    "ultra-sun-ultra-moon": "The user kicks up mud on the battlefield. This\nweakens Electric-type moves for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user kicks up mud on the battlefield. This\nweakens Electric-type moves for five turns.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "electric moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends.",
+    "shortEffect": "Halves all Electric-type damage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 418,
+  "key": "bullet-punch",
+  "name": {
+    "english": "Bullet Punch",
+    "japanese": "バレットパンチ",
+    "chinese": "飞弹拳",
+    "korean": "불릿펀치",
+    "german": "Puño Bala",
+    "french": "Patronenhieb",
+    "italian": "Bullet Punch",
+    "spanish": "Pugnoscarica"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user strikes\nwith a tough punch as\nfast as a bullet.\nThis move always goes\nfirst.",
+    "platinum": "The user strikes\nwith a tough punch as\nfast as a bullet.\nThis move always goes\nfirst.",
+    "heartgold-soulsilver": "The user strikes\nwith a tough punch as\nfast as a bullet.\nThis move always goes\nfirst.",
+    "black-white": "The user strikes the target\nwith tough punches as fast as bullets.\nThis move always goes first.",
+    "black-2-white-2": "The user strikes the target\nwith tough punches as fast as bullets.\nThis move always goes first.",
+    "x-y": "The user strikes the target\nwith tough punches as fast as bullets.\nThis move always goes first.",
+    "omega-ruby-alpha-sapphire": "The user strikes the target\nwith tough punches as fast as bullets.\nThis move always goes first.",
+    "sun-moon": "The user strikes the target with tough punches as\nfast as bullets. This move always goes first.",
+    "ultra-sun-ultra-moon": "The user strikes the target with tough punches as\nfast as bullets. This move always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes the target with tough punches as\nfast as bullets. This move always goes first.",
+    "sword-shield": "The user strikes the target with tough punches as\nfast as bullets. This move always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 1
+}

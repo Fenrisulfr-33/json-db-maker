@@ -1,0 +1,42 @@
+{
+  "_id": 360,
+  "key": "gyro-ball",
+  "name": {
+    "english": "Gyro Ball",
+    "japanese": "ジャイロボール",
+    "chinese": "回转球",
+    "korean": "자이로볼",
+    "german": "Giro Bola",
+    "french": "Gyroball",
+    "italian": "Gyro Ball",
+    "spanish": "Vortexpalla"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user tackles the\nfoe with a high-speed\nspin. The slower the\nuser, the greater\nthe damage.",
+    "platinum": "The user tackles the\nfoe with a high-speed\nspin. The slower the\nuser, the greater\nthe damage.",
+    "heartgold-soulsilver": "The user tackles the\nfoe with a high-speed\nspin. The slower the\nuser, the greater\nthe damage.",
+    "black-white": "The user tackles the target with a\nhigh-speed spin. The slower the\nuser, the greater the damage.",
+    "black-2-white-2": "The user tackles the target with a\nhigh-speed spin. The slower the\nuser, the greater the damage.",
+    "x-y": "The user tackles the target with a high-speed\nspin. The slower the user compared to the\ntarget, the greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user tackles the target with a high-speed\nspin. The slower the user compared to the\ntarget, the greater the move’s power.",
+    "sun-moon": "The user tackles the target with a high-speed spin.\nThe slower the user compared to the target, the\ngreater the move’s power.",
+    "ultra-sun-ultra-moon": "The user tackles the target with a high-speed spin.\nThe slower the user compared to the target, the\ngreater the move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user tackles the target with a high-speed spin.\nThe slower the user compared to the target, the\ngreater the move’s power.",
+    "sword-shield": "The user tackles the target with a high-speed spin.\nThe slower the user compared to the target, the\ngreater the move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power increases with the target's current Speed compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150.",
+    "shortEffect": "Power raises when the user has lower Speed, up to a maximum of 150."
+  },
+  "priority": 0
+}

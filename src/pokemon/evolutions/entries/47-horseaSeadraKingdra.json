@@ -1,0 +1,32 @@
+{
+    "_id": 47,
+    "evoLine": [
+      [
+        {
+          "id": 116,
+          "name": "Horsea",
+          "type": {
+            "one": "Water"
+          }
+        },
+        {
+          "id": 117,
+          "name": "Seadra",
+          "type": {
+            "one": "Water"
+          },
+          "how": "Level 32"
+        },
+        {
+            "id": 230,
+            "name": "Kingdra",
+            "type": {
+              "one": "Water",
+              "two": "Dragon"
+            },
+            "how": "trade holding Dragon Scale"
+          }
+      ]
+    ]
+  }
+  

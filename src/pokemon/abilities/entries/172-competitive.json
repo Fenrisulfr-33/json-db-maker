@@ -1,0 +1,66 @@
+{
+  "_id": 172,
+  "key": "competitive",
+  "name": {
+    "english": "Competitive"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Raises Special Attack by two stages upon having any stat lowered.",
+    "full": "Raises Special Attack by two stages upon having any stat lowered."
+  },
+  "description": {
+    "x-y": "Boosts the Sp. Atk stat when a stat is lowered.",
+    "omega-ruby-alpha-sapphire": "Boosts the Sp. Atk stat when a stat is lowered.",
+    "sun-moon": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
+    "ultra-sun-ultra-moon": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Sp. Atk stat sharply when a stat is lowered.",
+    "sword-shield": "Boosts the Sp. Atk stat sharply when a stat is lowered."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Jigglypuff",
+        "id": 39
+      },
+      {
+        "name": "Wigglytuff",
+        "id": 40
+      },
+      {
+        "name": "Igglybuff",
+        "id": 174
+      },
+      {
+        "name": "Milotic",
+        "id": 350
+      },
+      {
+        "name": "Gothita",
+        "id": 574
+      },
+      {
+        "name": "Gothorita",
+        "id": 575
+      },
+      {
+        "name": "Gothitelle",
+        "id": 576
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Boltund",
+        "id": 836
+      },
+      {
+        "name": "Wattrel",
+        "id": 940
+      },
+      {
+        "name": "Kilowattrel",
+        "id": 941
+      }
+    ]
+  }
+}

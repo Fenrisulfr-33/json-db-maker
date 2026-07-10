@@ -1,0 +1,42 @@
+{
+  "_id": 375,
+  "key": "psycho-shift",
+  "name": {
+    "english": "Psycho Shift",
+    "japanese": "サイコシフト",
+    "chinese": "幻象转移",
+    "korean": "사이코시프트",
+    "german": "Psicocambio",
+    "french": "Psybann",
+    "italian": "Psycho Shift",
+    "spanish": "Psicotransfer"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "Using its psychic\npower of suggestion,\nthe user transfers\nits status problems\nto the target.",
+    "platinum": "Using its psychic\npower of suggestion,\nthe user transfers\nits status problems\nto the target.",
+    "heartgold-soulsilver": "Using its psychic\npower of suggestion,\nthe user transfers\nits status problems\nto the target.",
+    "black-white": "Using its psychic power of suggestion,\nthe user transfers its status problems\nto the target.",
+    "black-2-white-2": "Using its psychic power of suggestion,\nthe user transfers its status problems\nto the target.",
+    "x-y": "Using its psychic power of suggestion,\nthe user transfers its status conditions\nto the target.",
+    "omega-ruby-alpha-sapphire": "Using its psychic power of suggestion,\nthe user transfers its status conditions\nto the target.",
+    "sun-moon": "Using its psychic power of suggestion, the user\ntransfers its status conditions to the target.",
+    "ultra-sun-ultra-moon": "Using its psychic power of suggestion, the user\ntransfers its status conditions to the target.",
+    "lets-go-pikachu-lets-go-eevee": "Using its psychic power of suggestion, the user\ntransfers its status conditions to the target.",
+    "sword-shield": "Using its psychic power of suggestion, the user\ntransfers its status conditions to the target."
+  },
+  "effect": {
+    "full": "If the user has a major status effect and the target does not, the user's status is transferred to the target.",
+    "shortEffect": "Transfers the user's major status effect to the target."
+  },
+  "priority": 0
+}

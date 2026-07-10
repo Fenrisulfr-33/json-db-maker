@@ -1,0 +1,39 @@
+{
+  "_id": 536,
+  "key": "leaf-tornado",
+  "name": {
+    "english": "Leaf Tornado",
+    "japanese": "グラスミキサー",
+    "chinese": "青草搅拌器",
+    "korean": "그래스믹서",
+    "german": "Ciclón de Hojas",
+    "french": "Grasmixer",
+    "italian": "Leaf Tornado",
+    "spanish": "Vorticerba"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 65,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks its target by\nencircling it in sharp leaves. This attack\nmay also lower the target’s accuracy.",
+    "black-2-white-2": "The user attacks its target by\nencircling it in sharp leaves. This attack\nmay also lower the target’s accuracy.",
+    "x-y": "The user attacks its target by\nencircling it in sharp leaves. This attack\nmay also lower the target’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user attacks its target by\nencircling it in sharp leaves. This attack\nmay also lower the target’s accuracy.",
+    "sun-moon": "The user attacks its target by encircling it in sharp\nleaves. This attack may also lower the\ntarget’s accuracy.",
+    "ultra-sun-ultra-moon": "The user attacks its target by encircling it in sharp\nleaves. This attack may also lower the\ntarget’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks its target by encircling it in sharp\nleaves. This attack may also lower the\ntarget’s accuracy.",
+    "sword-shield": "The user attacks its target by encircling it in sharp\nleaves. This attack may also lower the\ntarget’s accuracy."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,30 @@
+{
+  "_id": 55,
+  "evoLine": [
+    [
+      {
+        "id": 152,
+        "name": "Chikorita",
+        "type": {
+          "one": "Grass"
+        }
+      },
+      {
+        "id": 153,
+        "name": "Bayleef",
+        "type": {
+          "one": "Grass"
+        },
+        "how": "Level 16"
+      },
+      {
+        "id": 154,
+        "name": "Meganium",
+        "type": {
+          "one": "Grass"
+        },
+        "how": "Level 32"
+      }
+    ]
+  ]
+}

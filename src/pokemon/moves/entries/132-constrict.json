@@ -1,0 +1,47 @@
+{
+  "_id": 132,
+  "key": "constrict",
+  "name": {
+    "english": "Constrict",
+    "japanese": "からみつく",
+    "chinese": "纠缠",
+    "korean": "휘감기",
+    "german": "Restricción",
+    "french": "Umklammerung",
+    "italian": "Constrict",
+    "spanish": "Limitazione"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 35,
+  "power": 10,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nlower SPEED.",
+    "crystal": "An attack that may\nlower SPEED.",
+    "ruby-sapphire": "Constricts to inflict pain.\nMay lower SPEED.",
+    "emerald": "Constricts to inflict pain.\nMay lower SPEED.",
+    "firered-leafgreen": "The foe is attacked\nwith long tentacles\nor vines. It may\nlower SPEED.",
+    "diamond-pearl": "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed.",
+    "platinum": "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed.",
+    "heartgold-soulsilver": "The foe is attacked\nwith long, creeping\ntentacles or vines.\nIt may also lower the\ntarget’s Speed.",
+    "black-white": "The target is attacked with long, creeping\ntentacles or vines.\nIt may also lower the target’s Speed stat.",
+    "black-2-white-2": "The target is attacked with long, creeping\ntentacles or vines.\nIt may also lower the target’s Speed stat.",
+    "x-y": "The target is attacked with long, creeping\ntentacles or vines.\nThis may also lower the target’s Speed stat.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with long, creeping\ntentacles or vines.\nThis may also lower the target’s Speed stat.",
+    "sun-moon": "The target is attacked with long, creeping tentacles,\nvines, or the like. This may also lower the target’s \nSpeed stat.",
+    "ultra-sun-ultra-moon": "The target is attacked with long, creeping tentacles,\nvines, or the like. This may also lower the target’s \nSpeed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with long, creeping tentacles,\nvines, or the like. This may also lower the target’s\nSpeed stat.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

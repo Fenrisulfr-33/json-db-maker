@@ -1,0 +1,42 @@
+{
+  "_id": 412,
+  "key": "energy-ball",
+  "name": {
+    "english": "Energy Ball",
+    "japanese": "エナジーボール",
+    "chinese": "能源球",
+    "korean": "에너지볼",
+    "german": "Energibola",
+    "french": "Energieball",
+    "italian": "Energy Ball",
+    "spanish": "Energipalla"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user draws power\nfrom nature and\nfires it at the foe.\nIt may also lower the\ntarget’s Sp. Def.",
+    "platinum": "The user draws power\nfrom nature and\nfires it at the foe.\nIt may also lower the\ntarget’s Sp. Def.",
+    "heartgold-soulsilver": "The user draws power\nfrom nature and\nfires it at the foe.\nIt may also lower the\ntarget’s Sp. Def.",
+    "black-white": "The user draws power from nature and\nfires it at the target.\nIt may also lower the target’s Sp. Def.",
+    "black-2-white-2": "The user draws power from nature and\nfires it at the target.\nIt may also lower the target’s Sp. Def.",
+    "x-y": "The user draws power from nature and\nfires it at the target.\nThis may also lower the target’s Sp. Def.",
+    "omega-ruby-alpha-sapphire": "The user draws power from nature and\nfires it at the target.\nThis may also lower the target’s Sp. Def.",
+    "sun-moon": "The user draws power from nature and fires it at the\ntarget. This may also lower the target’s Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The user draws power from nature and fires it at the\ntarget. This may also lower the target’s Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user draws power from nature and fires it at the\ntarget. This may also lower the target’s Sp. Def stat.",
+    "sword-shield": "The user draws power from nature and fires it at the\ntarget. This may also lower the target’s Sp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

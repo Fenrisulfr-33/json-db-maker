@@ -1,0 +1,37 @@
+{
+  "_id": 566,
+  "key": "phantom-force",
+  "name": {
+    "english": "Phantom Force",
+    "japanese": "ゴーストダイブ",
+    "chinese": "幽灵俯冲",
+    "korean": "고스트다이브",
+    "german": "Golpe Fantasma",
+    "french": "Phantomkraft",
+    "italian": "Phantom Force",
+    "spanish": "Spettrotuffo"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user vanishes somewhere, then strikes\nthe target on the next turn.\nThis move hits even if the target protects itself.",
+    "omega-ruby-alpha-sapphire": "The user vanishes somewhere, then strikes\nthe target on the next turn.\nThis move hits even if the target protects itself.",
+    "sun-moon": "The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself.",
+    "ultra-sun-ultra-moon": "The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself.",
+    "lets-go-pikachu-lets-go-eevee": "The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself.",
+    "sword-shield": "The user vanishes somewhere, then strikes the\ntarget on the next turn. This move hits even if the\ntarget protects itself."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of detect and protect.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect."
+  },
+  "priority": 0
+}

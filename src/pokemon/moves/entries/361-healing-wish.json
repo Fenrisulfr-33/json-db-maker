@@ -1,0 +1,42 @@
+{
+  "_id": 361,
+  "key": "healing-wish",
+  "name": {
+    "english": "Healing Wish",
+    "japanese": "いやしのねがい",
+    "chinese": "治愈愿望",
+    "korean": "치유소원",
+    "german": "Deseo Cura",
+    "french": "Heilopfer",
+    "italian": "Healing Wish",
+    "spanish": "Curardore"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its HP restored\nand status cured.",
+    "platinum": "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its HP restored\nand status cured.",
+    "heartgold-soulsilver": "The user faints. In\nreturn, the Pokémon\ntaking its place will\nhave its HP restored\nand status cured.",
+    "black-white": "The user faints. In return, the Pokémon\ntaking its place will have its HP restored\nand status cured.",
+    "black-2-white-2": "The user faints. In return, the Pokémon\ntaking its place will have its HP restored\nand status cured.",
+    "x-y": "The user faints. In return, the Pokémon\ntaking its place will have its HP restored\nand status conditions cured.",
+    "omega-ruby-alpha-sapphire": "The user faints. In return, the Pokémon\ntaking its place will have its HP restored\nand status conditions cured.",
+    "sun-moon": "The user faints. In return, the Pokémon taking its\nplace will have its HP restored and status\nconditions cured.",
+    "ultra-sun-ultra-moon": "The user faints. In return, the Pokémon taking its\nplace will have its HP restored and status\nconditions cured.",
+    "lets-go-pikachu-lets-go-eevee": "The user faints. In return, the Pokémon taking its\nplace will have its HP restored and status\nconditions cured.",
+    "sword-shield": "The user faints. In return, the Pokémon taking its\nplace will have its HP restored and status\nconditions cured."
+  },
+  "effect": {
+    "full": "User faints.  Its replacement's HP is fully restored, and any major status effect is removed.  If the replacement Pokémon is immediately fainted by a switch-in effect, the next replacement is healed by this move instead.",
+    "shortEffect": "User faints.  Its replacement has its HP fully restored and any major status effect removed."
+  },
+  "priority": 0
+}

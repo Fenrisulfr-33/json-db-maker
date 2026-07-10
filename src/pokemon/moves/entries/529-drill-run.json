@@ -1,0 +1,39 @@
+{
+  "_id": 529,
+  "key": "drill-run",
+  "name": {
+    "english": "Drill Run",
+    "japanese": "ドリルライナー",
+    "chinese": "低空钻",
+    "korean": "드릴라이너",
+    "german": "Taladradora",
+    "french": "Schlagbohrer",
+    "italian": "Drill Run",
+    "spanish": "Giravvita"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user crashes into its target while\nrotating its body like a drill.\nCritical hits land more easily.",
+    "black-2-white-2": "The user crashes into its target while\nrotating its body like a drill.\nCritical hits land more easily.",
+    "x-y": "The user crashes into its target while\nrotating its body like a drill.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user crashes into its target while\nrotating its body like a drill.\nCritical hits land more easily.",
+    "sun-moon": "The user crashes into its target while rotating its\nbody like a drill. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user crashes into its target while rotating its\nbody like a drill. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user crashes into its target while rotating its\nbody like a drill. Critical hits land more easily.",
+    "sword-shield": "The user crashes into its target while rotating its\nbody like a drill. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

@@ -1,0 +1,17 @@
+{
+  "_id": 841,
+  "key": "bitter-malice",
+  "name": {
+    "english": "Bitter Malice"
+  },
+  "type": "Ghost",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

@@ -1,0 +1,38 @@
+{
+  "_id": 96,
+  "key": "normalize",
+  "name": {
+    "english": "Normalize"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Makes the Pokémon's moves all act normal-type.",
+    "full": "This Pokémon's moves all act as if they were normal-type. Moves that inflict typeless damage do so as usual. Moves of variable type, such as hidden power, are affected. They otherwise work as usual, however; weather ball, for example, is always forced to be Normal, but it still has doubled power and looks different during weather. As thunder wave is prevented by immunities, unlike most non-damaging moves, it does not affect ghost-type Pokémon under the effect of this ability."
+  },
+  "description": {
+    "diamond-pearl": "All the Pokémon’s moves become the Normal type.",
+    "platinum": "All the Pokémon’s moves become the Normal type.",
+    "heartgold-soulsilver": "All the Pokémon’s moves become the Normal type.",
+    "black-white": "All the Pokémon’s moves become the Normal type.",
+    "black-2-white-2": "All the Pokémon’s moves become the Normal type.",
+    "x-y": "All the Pokémon’s moves become Normal type.",
+    "omega-ruby-alpha-sapphire": "All the Pokémon’s moves become Normal type.",
+    "sun-moon": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.",
+    "ultra-sun-ultra-moon": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.",
+    "lets-go-pikachu-lets-go-eevee": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.",
+    "sword-shield": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Skitty",
+        "id": 300
+      },
+      {
+        "name": "Delcatty",
+        "id": 301
+      }
+    ],
+    "hidden": []
+  }
+}

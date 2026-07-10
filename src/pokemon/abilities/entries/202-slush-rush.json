@@ -1,0 +1,44 @@
+{
+  "_id": 202,
+  "key": "slush-rush",
+  "name": {
+    "english": "Slush Rush"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "During Hail, this Pokémon has double Speed.",
+    "full": "During Hail, this Pokémon has double Speed."
+  },
+  "description": {
+    "sun-moon": "Boosts the Pokémon’s Speed stat in a hailstorm.",
+    "ultra-sun-ultra-moon": "Boosts the Pokémon’s Speed stat in a hailstorm.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Pokémon’s Speed stat in a hailstorm.",
+    "sword-shield": "Boosts the Pokémon’s Speed stat in a hailstorm."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Cubchoo",
+        "id": 613
+      },
+      {
+        "name": "Beartic",
+        "id": 614
+      },
+      {
+        "name": "Cetitan",
+        "id": 975
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Arctozolt",
+        "id": 881
+      },
+      {
+        "name": "Arctovish",
+        "id": 883
+      }
+    ]
+  }
+}

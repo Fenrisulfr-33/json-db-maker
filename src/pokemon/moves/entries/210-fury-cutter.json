@@ -1,0 +1,47 @@
+{
+  "_id": 210,
+  "key": "fury-cutter",
+  "name": {
+    "english": "Fury Cutter",
+    "japanese": "れんぞくぎり",
+    "chinese": "连切",
+    "korean": "연속자르기",
+    "german": "Corte Furia",
+    "french": "Zornklinge",
+    "italian": "Fury Cutter",
+    "spanish": "Tagliofuria"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 40,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "An attack that intensifies\non each successive hit.",
+    "emerald": "An attack that intensifies\non each successive hit.",
+    "firered-leafgreen": "An attack that\ngrows stronger on\neach successive\nhit.",
+    "gold-silver": "Successive hits\nraise power.",
+    "crystal": "Successive hits\nraise power.",
+    "diamond-pearl": "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.",
+    "platinum": "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.",
+    "heartgold-soulsilver": "The foe is slashed\nwith scythes or\nclaws. Its power\nincreases if it hits\nin succession.",
+    "black-white": "The target is slashed with scythes or\nclaws. Its power increases if it hits\nin succession.",
+    "black-2-white-2": "The target is slashed with scythes or\nclaws. Its power increases if it hits\nin succession.",
+    "x-y": "The target is slashed with scythes or\nclaws. This attack becomes more powerful\nif it hits in succession.",
+    "omega-ruby-alpha-sapphire": "The target is slashed with scythes or\nclaws. This attack becomes more powerful\nif it hits in succession.",
+    "sun-moon": "The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession.",
+    "ultra-sun-ultra-moon": "The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession.",
+    "lets-go-pikachu-lets-go-eevee": "The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession.",
+    "sword-shield": "The target is slashed with scythes or claws. This\nattack becomes more powerful if it hits\nin succession."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power doubles after every time this move is used, whether consecutively or not, maxing out at 16x.  If this move misses or the user leaves the field, power resets.",
+    "shortEffect": "Power doubles every turn this move is used in succession after the first, maxing out after five turns."
+  },
+  "priority": 0
+}

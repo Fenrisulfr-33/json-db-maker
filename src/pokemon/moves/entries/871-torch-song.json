@@ -1,0 +1,17 @@
+{
+  "_id": 871,
+  "key": "torch-song",
+  "name": {
+    "english": "Torch Song"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

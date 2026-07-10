@@ -1,0 +1,47 @@
+{
+  "_id": 179,
+  "key": "reversal",
+  "name": {
+    "english": "Reversal",
+    "japanese": "きしかいせい",
+    "chinese": "起死回生",
+    "korean": "기사회생",
+    "german": "Inversión",
+    "french": "Gegenschlag",
+    "italian": "Reversal",
+    "spanish": "Contropiede"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Stronger if the\nuser's HP is low.",
+    "crystal": "Stronger if the\nuser's HP is low.",
+    "ruby-sapphire": "Inflicts more damage when\nthe user’s HP is down.",
+    "emerald": "Inflicts more damage when\nthe user’s HP is down.",
+    "firered-leafgreen": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.",
+    "diamond-pearl": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n",
+    "platinum": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n",
+    "heartgold-soulsilver": "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.\n",
+    "black-white": "An all-out attack that becomes more\npowerful the less HP the user has.",
+    "black-2-white-2": "An all-out attack that becomes more\npowerful the less HP the user has.",
+    "x-y": "An all-out attack that becomes more\npowerful the less HP the user has.",
+    "omega-ruby-alpha-sapphire": "An all-out attack that becomes more\npowerful the less HP the user has.",
+    "sun-moon": "An all-out attack that becomes more powerful the\nless HP the user has.",
+    "ultra-sun-ultra-moon": "An all-out attack that becomes more powerful the\nless HP the user has.",
+    "lets-go-pikachu-lets-go-eevee": "An all-out attack that becomes more powerful the\nless HP the user has.",
+    "sword-shield": "An all-out attack that becomes more powerful the\nless HP the user has."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0– 1                    |  200\n 2– 5                    |  150\n 6–12                    |  100\n13–21                    |   80\n22–42                    |   40\n43–64                    |   20\n",
+    "shortEffect": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
+  },
+  "priority": 0
+}

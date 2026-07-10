@@ -1,0 +1,29 @@
+{
+  "_id": 782,
+  "key": "behemoth-bash",
+  "name": {
+    "english": "Behemoth Bash",
+    "japanese": "きょじゅうだん",
+    "chinese": "巨獸彈",
+    "korean": "거수탄",
+    "german": "Embate Supremo",
+    "french": "Gigantenstoß",
+    "italian": "Behemoth Bash",
+    "spanish": "Colpo Maestoso"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user becomes a gigantic shield and slams into\nthe target. This move deals twice the damage if the\ntarget is Dynamaxed."
+  },
+  "effect": {},
+  "priority": 0
+}

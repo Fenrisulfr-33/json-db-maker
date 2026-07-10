@@ -1,0 +1,47 @@
+{
+  "_id": 225,
+  "key": "dragon-breath",
+  "name": {
+    "english": "Dragon Breath",
+    "japanese": "りゅうのいぶき",
+    "chinese": "龙吸",
+    "korean": "용의숨결",
+    "german": "Dragoaliento",
+    "french": "Feuerodem",
+    "italian": "Dragon Breath",
+    "spanish": "Dragospiro"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A strong breath\nattack.",
+    "crystal": "A strong breath\nattack.",
+    "ruby-sapphire": "Strikes the foe with an\nincredible blast of breath.",
+    "emerald": "Strikes the foe with an\nincredible blast of breath.",
+    "firered-leafgreen": "The foe is hit with\nan incredible blast\nof breath that may\nalso paralyze.",
+    "diamond-pearl": "The user exhales\na mighty gust that\ninflicts damage.\nIt may also paralyze\nthe target.",
+    "platinum": "The user exhales\na mighty gust that\ninflicts damage.\nIt may also paralyze\nthe target.",
+    "heartgold-soulsilver": "The user exhales\na mighty gust that\ninflicts damage.\nIt may also paralyze\nthe target.",
+    "black-white": "The user exhales a mighty gust that\ninflicts damage. It may also leave the\ntarget with paralysis.",
+    "black-2-white-2": "The user exhales a mighty gust that\ninflicts damage. It may also leave the\ntarget with paralysis.",
+    "x-y": "The user exhales a mighty gust that\ninflicts damage. This may also leave the\ntarget with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user exhales a mighty gust that\ninflicts damage. This may also leave the\ntarget with paralysis.",
+    "sun-moon": "The user exhales a mighty gust that inflicts damage.\nThis may also leave the target with paralysis.",
+    "ultra-sun-ultra-moon": "The user exhales a mighty gust that inflicts damage.\nThis may also leave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user exhales a mighty gust that inflicts damage.\nThis may also leave the target with paralysis.",
+    "sword-shield": "The user exhales a mighty gust that inflicts damage.\nThis may also leave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

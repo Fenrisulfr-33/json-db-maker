@@ -1,0 +1,24 @@
+{
+    "_id": 30,
+    "evoLine": [
+        [
+            {
+                "id": 72,
+                "name": "Tentacool",
+                "type": {
+                    "one": "Water",
+                    "two": "Poison"
+                }
+            },
+            {
+                "id": 73,
+                "name": "Tentacruel",
+                "type": {
+                    "one": "Water",
+                    "two": "Poison"
+                },
+                "how": "Level 30"
+            }
+        ]
+    ]
+}

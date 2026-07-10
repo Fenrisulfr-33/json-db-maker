@@ -1,0 +1,45 @@
+{
+  "_id": 262,
+  "key": "memento",
+  "name": {
+    "english": "Memento",
+    "japanese": "おきみやげ",
+    "chinese": "临别礼物",
+    "korean": "추억의선물",
+    "german": "Legado",
+    "french": "Memento-Mori",
+    "italian": "Memento",
+    "spanish": "Memento"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "The user faints and lowers\nthe foe’s abilities.",
+    "emerald": "The user faints and lowers\nthe foe’s abilities.",
+    "firered-leafgreen": "The user faints,\nbut sharply lowers\nthe foe’s ATTACK\nand SP. ATK.",
+    "diamond-pearl": "The user faints upon\nusing this move.\nIn return, it sharply\nlowers the target’s\nAttack and Sp. Atk.",
+    "platinum": "The user faints upon\nusing this move.\nIn return, it sharply\nlowers the target’s\nAttack and Sp. Atk.",
+    "heartgold-soulsilver": "The user faints upon\nusing this move.\nIn return, it sharply\nlowers the target’s\nAttack and Sp. Atk.",
+    "black-white": "The user faints when using this move.\nIn return, it harshly lowers the target’s\nAttack and Sp. Atk.",
+    "black-2-white-2": "The user faints when using this move.\nIn return, it harshly lowers the target’s\nAttack and Sp. Atk.",
+    "x-y": "The user faints when using this move.\nIn return, this harshly lowers the target’s\nAttack and Sp. Atk stats.",
+    "omega-ruby-alpha-sapphire": "The user faints when using this move.\nIn return, this harshly lowers the target’s\nAttack and Sp. Atk stats.",
+    "sun-moon": "The user faints when using this move. In return, this\nharshly lowers the target’s Attack and Sp. Atk stats.",
+    "ultra-sun-ultra-moon": "The user faints when using this move. In return, this\nharshly lowers the target’s Attack and Sp. Atk stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user faints when using this move. In return, this\nharshly lowers the target’s Attack and Sp. Atk stats.",
+    "sword-shield": "The user faints when using this move. In return, this\nharshly lowers the target’s Attack and Sp. Atk stats."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack and Special Attack by two stages.  User faints.",
+    "shortEffect": "Lowers the target's Attack and Special Attack by two stages.  User faints."
+  },
+  "priority": 0
+}

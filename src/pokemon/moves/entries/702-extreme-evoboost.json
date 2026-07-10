@@ -1,0 +1,35 @@
+{
+  "_id": 702,
+  "key": "extreme-evoboost",
+  "name": {
+    "english": "Extreme Evoboost",
+    "japanese": "ナインエボルブースト",
+    "chinese": "九彩昇華齊聚頂",
+    "korean": "나인이볼부스트",
+    "german": "Novena Potencia",
+    "french": "Macht der Neun",
+    "italian": "Extreme Evoboost",
+    "spanish": "Potenziamento Eevolutivo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 1,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "sun-moon": "After obtaining Z-Power, the user, Eevee, gets\nenergy from its evolved friends and boosts its\nstats sharply.",
+    "ultra-sun-ultra-moon": "After obtaining Z-Power, the user, Eevee, gets\nenergy from its evolved friends and boosts its\nstats sharply.",
+    "lets-go-pikachu-lets-go-eevee": "After obtaining Z-Power, the user, Eevee, gets\nenergy from its evolved friends and boosts its\nstats sharply.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Raises the user's Attack, Defense, Special Attack, Special Defense, and Speed by two stages each.",
+    "shortEffect": "Raises all of the user's stats by two stages."
+  },
+  "priority": 0
+}

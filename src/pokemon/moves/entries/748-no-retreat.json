@@ -1,0 +1,32 @@
+{
+  "_id": 748,
+  "key": "no-retreat",
+  "name": {
+    "english": "No Retreat",
+    "japanese": "はいすいのじん",
+    "chinese": "背水一戰",
+    "korean": "배수의진",
+    "german": "Bastión Final",
+    "french": "Finalformation",
+    "italian": "No Retreat",
+    "spanish": "Spalle al Muro"
+  },
+  "type": "Fighting",
+  "category": "Status",
+  "contest": null,
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "sword-shield": "This move raises all the user’s stats but prevents\nthe user from switching out or fleeing."
+  },
+  "effect": {
+    "full": " with a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Hits twice in one turn"
+  },
+  "priority": 0
+}

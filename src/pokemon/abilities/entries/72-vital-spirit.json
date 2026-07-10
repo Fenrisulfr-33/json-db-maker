@@ -1,0 +1,90 @@
+{
+  "_id": 72,
+  "key": "vital-spirit",
+  "name": {
+    "english": "Vital Spirit"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents sleep.",
+    "full": "This Pokémon cannot be asleep. This causes rest to fail altogether. If a Pokémon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle. This ability functions identically to insomnia in battle. Overworld: If the lead Pokémon has this ability, higher-levelled Pokémon have their encounter rate increased."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents sleep.",
+    "emerald": "Prevents sleep.",
+    "firered-leafgreen": "Prevents sleep.",
+    "diamond-pearl": "Prevents the Pokémon from falling asleep.",
+    "platinum": "Prevents the Pokémon from falling asleep.",
+    "heartgold-soulsilver": "Prevents the Pokémon from falling asleep.",
+    "black-white": "Prevents the Pokémon from falling asleep.",
+    "black-2-white-2": "Prevents the Pokémon from falling asleep.",
+    "x-y": "Prevents the Pokémon from falling asleep.",
+    "omega-ruby-alpha-sapphire": "Prevents the Pokémon from falling asleep.",
+    "sun-moon": "The Pokémon is full of vitality, and that prevents it from falling asleep.",
+    "ultra-sun-ultra-moon": "The Pokémon is full of vitality, and that prevents it from falling asleep.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon is full of vitality, and that prevents it from falling asleep.",
+    "sword-shield": "The Pokémon is full of vitality, and that prevents it from falling asleep."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Mankey",
+        "id": 56
+      },
+      {
+        "name": "Primeape",
+        "id": 57
+      },
+      {
+        "name": "Delibird",
+        "id": 225
+      },
+      {
+        "name": "Vigoroth",
+        "id": 288
+      },
+      {
+        "name": "Lillipup",
+        "id": 506
+      },
+      {
+        "name": "Rockruff",
+        "id": 744
+      },
+      {
+        "name": "Annihilape",
+        "id": 979
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Electabuzz",
+        "id": 125
+      },
+      {
+        "name": "Magmar",
+        "id": 126
+      },
+      {
+        "name": "Tyrogue",
+        "id": 236
+      },
+      {
+        "name": "Elekid",
+        "id": 239
+      },
+      {
+        "name": "Magby",
+        "id": 240
+      },
+      {
+        "name": "Electivire",
+        "id": 466
+      },
+      {
+        "name": "Magmortar",
+        "id": 467
+      }
+    ]
+  }
+}

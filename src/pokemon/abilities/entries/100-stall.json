@@ -1,0 +1,34 @@
+{
+  "_id": 100,
+  "key": "stall",
+  "name": {
+    "english": "Stall"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Makes the Pokémon move last within its move's priority bracket.",
+    "full": "This Pokémon moves last within its priority bracket. Multiple Pokémon with this ability move in order of Speed amongst themselves. The full incense and lagging tail take precedence over this ability; that is, Pokémon with these items move after Pokémon with this ability. Pokémon with both this ability and one of these items are delayed as much as if they had only the item. This ability works as usual during trick room: Pokémon with this ability will move in reverse order of Speed after Pokémon without it."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon moves after even slower foes.",
+    "platinum": "The Pokémon moves after even slower foes.",
+    "heartgold-soulsilver": "The Pokémon moves after even slower foes.",
+    "black-white": "The Pokémon moves after all other Pokémon do.",
+    "black-2-white-2": "The Pokémon moves after all other Pokémon do.",
+    "x-y": "The Pokémon moves after all other Pokémon do.",
+    "omega-ruby-alpha-sapphire": "The Pokémon moves after all other Pokémon do.",
+    "sun-moon": "The Pokémon moves after all other Pokémon do.",
+    "ultra-sun-ultra-moon": "The Pokémon moves after all other Pokémon do.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon moves after all other Pokémon do.",
+    "sword-shield": "The Pokémon moves after all other Pokémon do."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Sableye",
+        "id": 302
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": 210,
+  "key": "battle-bond",
+  "name": {
+    "english": "Battle Bond"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Transforms this Pokémon into Ash-Greninja after fainting an opponent. Water Shuriken's power is 20 and always hits three times.",
+    "full": "Transforms this Pokémon into Ash-Greninja after fainting an opponent. Water Shuriken's power is 20 and always hits three times. This ability cannot be copied or replaced. This ability only takes effect for Greninja."
+  },
+  "description": {
+    "sun-moon": "Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful.",
+    "ultra-sun-ultra-moon": "Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful.",
+    "lets-go-pikachu-lets-go-eevee": "Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful.",
+    "sword-shield": "Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

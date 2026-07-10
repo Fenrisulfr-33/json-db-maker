@@ -1,0 +1,39 @@
+{
+  "_id": 540,
+  "key": "psystrike",
+  "name": {
+    "english": "Psystrike",
+    "japanese": "サイコブレイク",
+    "chinese": "精神破坏",
+    "korean": "사이코브레이크",
+    "german": "Onda Mental",
+    "french": "Psychostoß",
+    "italian": "Psystrike",
+    "spanish": "Psicobotta"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+    "black-2-white-2": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+    "x-y": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+    "omega-ruby-alpha-sapphire": "The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.",
+    "sun-moon": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
+    "ultra-sun-ultra-moon": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
+    "lets-go-pikachu-lets-go-eevee": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage.",
+    "sword-shield": "The user materializes an odd psychic wave to attack\nthe target. This attack does physical damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.",
+    "shortEffect": "Inflicts damage based on the target's Defense, not Special Defense."
+  },
+  "priority": 0
+}

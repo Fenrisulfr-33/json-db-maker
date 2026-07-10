@@ -1,0 +1,35 @@
+{
+  "_id": 672,
+  "key": "toxic-thread",
+  "name": {
+    "english": "Toxic Thread",
+    "japanese": "どくのいと",
+    "chinese": "毒絲",
+    "korean": "독실",
+    "german": "Hilo Venenoso",
+    "french": "Giftfaden",
+    "italian": "Toxic Thread",
+    "spanish": "Velenotela"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user shoots poisonous threads to poison the\ntarget and lower the target’s Speed stat.",
+    "ultra-sun-ultra-moon": "The user shoots poisonous threads to poison the\ntarget and lower the target’s Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user shoots poisonous threads to poison the\ntarget and lower the target’s Speed stat.",
+    "sword-shield": "The user shoots poisonous threads to poison the\ntarget and lower the target’s Speed stat."
+  },
+  "effect": {
+    "full": "Poisons the target and lowers its Speed by one stage.",
+    "shortEffect": "Poisons the target and lowers its Speed by one stage."
+  },
+  "priority": 0
+}

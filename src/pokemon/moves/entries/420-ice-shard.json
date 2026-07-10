@@ -1,0 +1,42 @@
+{
+  "_id": 420,
+  "key": "ice-shard",
+  "name": {
+    "english": "Ice Shard",
+    "japanese": "こおりのつぶて",
+    "chinese": "冰粒",
+    "korean": "얼음뭉치",
+    "german": "Canto Helado",
+    "french": "Eissplitter",
+    "italian": "Ice Shard",
+    "spanish": "Geloscheggia"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user flash\nfreezes chunks of\nice and hurls them.\nThis move always goes\nfirst.",
+    "platinum": "The user flash\nfreezes chunks of\nice and hurls them.\nThis move always goes\nfirst.",
+    "heartgold-soulsilver": "The user flash\nfreezes chunks of\nice and hurls them.\nThis move always goes\nfirst.",
+    "black-white": "The user flash freezes chunks of\nice and hurls them at the target.\nThis move always goes first.",
+    "black-2-white-2": "The user flash freezes chunks of\nice and hurls them at the target.\nThis move always goes first.",
+    "x-y": "The user flash-freezes chunks of\nice and hurls them at the target.\nThis move always goes first.",
+    "omega-ruby-alpha-sapphire": "The user flash-freezes chunks of\nice and hurls them at the target.\nThis move always goes first.",
+    "sun-moon": "The user flash-freezes chunks of ice and hurls them\nat the target. This move always goes first.",
+    "ultra-sun-ultra-moon": "The user flash-freezes chunks of ice and hurls them\nat the target. This move always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user flash-freezes chunks of ice and hurls them\nat the target. This move always goes first.",
+    "sword-shield": "The user flash-freezes chunks of ice and hurls them\nat the target. This move always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 1
+}

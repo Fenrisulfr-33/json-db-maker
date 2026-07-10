@@ -1,0 +1,39 @@
+{
+  "_id": 549,
+  "key": "glaciate",
+  "name": {
+    "english": "Glaciate",
+    "japanese": "こごえるせかい",
+    "chinese": "冰冻世界",
+    "korean": "얼다세계",
+    "german": "Mundo Gélido",
+    "french": "Eiszeit",
+    "italian": "Glaciate",
+    "spanish": "Gelamondo"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 65,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 5,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by blowing freezing cold\nair at opposing Pokémon. This attack\nreduces the targets’ Speed stat.",
+    "black-2-white-2": "The user attacks by blowing freezing cold\nair at opposing Pokémon. This attack\nreduces the targets’ Speed stat.",
+    "x-y": "The user attacks by blowing freezing\ncold air at opposing Pokémon.\nThis lowers their Speed stat.",
+    "omega-ruby-alpha-sapphire": "The user attacks by blowing freezing\ncold air at opposing Pokémon.\nThis lowers their Speed stat.",
+    "sun-moon": "The user attacks by blowing freezing cold air at\nopposing Pokémon. This lowers their Speed stat.",
+    "ultra-sun-ultra-moon": "The user attacks by blowing freezing cold air at\nopposing Pokémon. This lowers their Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by blowing freezing cold air at\nopposing Pokémon. This lowers their Speed stat.",
+    "sword-shield": "The user attacks by blowing freezing cold air at\nopposing Pokémon. This lowers their Speed stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Lowers the target's Speed by one stage.",
+    "shortEffect": "Lowers the target's Speed by one stage."
+  },
+  "priority": 0
+}

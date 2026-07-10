@@ -1,0 +1,146 @@
+{
+  "_id": 20,
+  "key": "own-tempo",
+  "name": {
+    "english": "Own Tempo"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents confusion.",
+    "full": "This Pokémon cannot be confused. If a Pokémon is confused and acquires this ability, its confusion will immediately be healed."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents confusion.",
+    "emerald": "Prevents confusion.",
+    "firered-leafgreen": "Prevents confusion.",
+    "diamond-pearl": "Prevents the Pokémon from becoming confused.",
+    "platinum": "Prevents the Pokémon from becoming confused.",
+    "heartgold-soulsilver": "Prevents the Pokémon from becoming confused.",
+    "black-white": "Prevents the Pokémon from becoming confused.",
+    "black-2-white-2": "Prevents the Pokémon from becoming confused.",
+    "x-y": "Prevents the Pokémon from becoming confused.",
+    "omega-ruby-alpha-sapphire": "Prevents the Pokémon from becoming confused.",
+    "sun-moon": "This Pokémon has its own tempo, and that prevents it from becoming confused.",
+    "ultra-sun-ultra-moon": "This Pokémon has its own tempo, and that prevents it from becoming confused.",
+    "lets-go-pikachu-lets-go-eevee": "This Pokémon has its own tempo, and that prevents it from becoming confused.",
+    "sword-shield": "This Pokémon has its own tempo, and that prevents it from becoming confused."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Slowpoke",
+        "id": 79
+      },
+      {
+        "name": "Slowbro",
+        "id": 80
+      },
+      {
+        "name": "Lickitung",
+        "id": 108
+      },
+      {
+        "name": "Slowking",
+        "id": 199
+      },
+      {
+        "name": "Smeargle",
+        "id": 235
+      },
+      {
+        "name": "Spoink",
+        "id": 325
+      },
+      {
+        "name": "Grumpig",
+        "id": 326
+      },
+      {
+        "name": "Spinda",
+        "id": 327
+      },
+      {
+        "name": "Glameow",
+        "id": 431
+      },
+      {
+        "name": "Purugly",
+        "id": 432
+      },
+      {
+        "name": "Lickilicky",
+        "id": 463
+      },
+      {
+        "name": "Petilil",
+        "id": 548
+      },
+      {
+        "name": "Lilligant",
+        "id": 549
+      },
+      {
+        "name": "Bergmite",
+        "id": 712
+      },
+      {
+        "name": "Avalugg",
+        "id": 713
+      },
+      {
+        "name": "Mudbray",
+        "id": 749
+      },
+      {
+        "name": "Mudsdale",
+        "id": 750
+      },
+      {
+        "name": "Fidough",
+        "id": 926
+      },
+      {
+        "name": "Tadbulb",
+        "id": 938
+      },
+      {
+        "name": "Tinkatink",
+        "id": 957
+      },
+      {
+        "name": "Tinkatuff",
+        "id": 958
+      },
+      {
+        "name": "Tinkaton",
+        "id": 959
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Lotad",
+        "id": 270
+      },
+      {
+        "name": "Lombre",
+        "id": 271
+      },
+      {
+        "name": "Ludicolo",
+        "id": 272
+      },
+      {
+        "name": "Numel",
+        "id": 322
+      },
+      {
+        "name": "Espurr",
+        "id": 677
+      },
+      {
+        "name": "Tandemaus",
+        "id": 924
+      }
+    ]
+  }
+}

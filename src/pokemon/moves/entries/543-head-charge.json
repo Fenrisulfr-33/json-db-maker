@@ -1,0 +1,39 @@
+{
+  "_id": 543,
+  "key": "head-charge",
+  "name": {
+    "english": "Head Charge",
+    "japanese": "アフロブレイク",
+    "chinese": "爆爆头突击",
+    "korean": "아프로브레이크",
+    "german": "Ariete",
+    "french": "Steinschädel",
+    "italian": "Head Charge",
+    "spanish": "Ricciolata"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user charges its head into its\ntarget, using its powerful guard hair.\nIt also damages the user a little.",
+    "black-2-white-2": "The user charges its head into its\ntarget, using its powerful guard hair.\nIt also damages the user a little.",
+    "x-y": "The user charges its head into its\ntarget, using its powerful guard hair.\nThis also damages the user a little.",
+    "omega-ruby-alpha-sapphire": "The user charges its head into its\ntarget, using its powerful guard hair.\nThis also damages the user a little.",
+    "sun-moon": "The user charges its head into its target, using its\npowerful guard hair. This also damages the user\na little.",
+    "ultra-sun-ultra-moon": "The user charges its head into its target, using its\npowerful guard hair. This also damages the user\na little.",
+    "lets-go-pikachu-lets-go-eevee": "The user charges its head into its target, using its\npowerful guard hair. This also damages the user\na little.",
+    "sword-shield": "The user charges its head into its target, using its\npowerful guard hair. This also damages the user\na little."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/4 the damage it inflicts in recoil."
+  },
+  "priority": 0
+}

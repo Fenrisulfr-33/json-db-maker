@@ -1,0 +1,30 @@
+{
+  "_id": 83,
+  "evoLine": [
+    [
+      {
+        "id": 239,
+        "name": "Elekid",
+        "type": {
+          "one": "Electric"
+        }
+      },
+      {
+        "id": 125,
+        "name": "Electabuzz",
+        "type": {
+          "one": "Electric"
+        },
+        "how": "Level 30"
+      },
+      {
+        "id": 466,
+        "name": "Electivire",
+        "type": {
+          "one": "Electric"
+        },
+        "how": "trade holding Electirizer"
+      }
+    ]
+  ]
+}

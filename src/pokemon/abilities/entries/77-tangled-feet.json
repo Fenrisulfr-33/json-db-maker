@@ -1,0 +1,63 @@
+{
+  "_id": 77,
+  "key": "tangled-feet",
+  "name": {
+    "english": "Tangled Feet"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Doubles evasion when confused.",
+    "full": "When this Pokémon is confused, it has twice its evasion."
+  },
+  "description": {
+    "diamond-pearl": "Raises evasion if the Pokémon is confused.",
+    "platinum": "Raises evasion if the Pokémon is confused.",
+    "heartgold-soulsilver": "Raises evasion if the Pokémon is confused.",
+    "black-white": "Raises evasion if the Pokémon is confused.",
+    "black-2-white-2": "Raises evasion if the Pokémon is confused.",
+    "x-y": "Raises evasion if the Pokémon is confused.",
+    "omega-ruby-alpha-sapphire": "Raises evasion if the Pokémon is confused.",
+    "sun-moon": "Raises evasion if the Pokémon is confused.",
+    "ultra-sun-ultra-moon": "Raises evasion if the Pokémon is confused.",
+    "lets-go-pikachu-lets-go-eevee": "Raises evasion if the Pokémon is confused.",
+    "sword-shield": "Raises evasiveness if the Pokémon is confused."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Pidgey",
+        "id": 16
+      },
+      {
+        "name": "Pidgeotto",
+        "id": 17
+      },
+      {
+        "name": "Pidgeot",
+        "id": 18
+      },
+      {
+        "name": "Spinda",
+        "id": 327
+      },
+      {
+        "name": "Chatot",
+        "id": 441
+      },
+      {
+        "name": "Flamigo",
+        "id": 973
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Doduo",
+        "id": 84
+      },
+      {
+        "name": "Dodrio",
+        "id": 85
+      }
+    ]
+  }
+}

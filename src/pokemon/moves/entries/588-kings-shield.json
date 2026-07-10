@@ -1,0 +1,37 @@
+{
+  "_id": 588,
+  "key": "kings-shield",
+  "name": {
+    "english": "King's Shield",
+    "japanese": "キングシールド",
+    "chinese": "王者之盾",
+    "korean": "킹실드",
+    "german": "Escudo Real",
+    "french": "Königsschild",
+    "italian": "King’s Shield",
+    "spanish": "Scudo Reale"
+  },
+  "type": "Steel",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "x-y": "The user takes a defensive stance while it protects\nitself from damage. It also harshly lowers the Attack\nstat of any attacker who makes direct contact.",
+    "omega-ruby-alpha-sapphire": "The user takes a defensive stance while it protects\nitself from damage. It also harshly lowers the Attack\nstat of any attacker who makes direct contact.",
+    "sun-moon": "The user takes a defensive stance while it protects\nitself from damage. It also harshly lowers the Attack\nstat of any attacker who makes direct contact.",
+    "ultra-sun-ultra-moon": "The user takes a defensive stance while it protects\nitself from damage. It also harshly lowers the Attack\nstat of any attacker who makes direct contact.",
+    "lets-go-pikachu-lets-go-eevee": "The user takes a defensive stance while it protects\nitself from damage. It also harshly lowers the Attack\nstat of any attacker who makes direct contact.",
+    "sword-shield": "The user takes a defensive stance while it protects\nitself from damage. It also lowers the Attack stat of any\nattacker that makes direct contact."
+  },
+  "effect": {
+    "full": "Blocks damaging attacks and lowers attacking Pokémon's Attack by two stages on contact.  Switches Aegislash to Shield Forme.",
+    "shortEffect": "Blocks damaging attacks and lowers attacking Pokémon's Attack by two stages on contact.  Switches Aegislash to Shield Forme."
+  },
+  "priority": 4
+}

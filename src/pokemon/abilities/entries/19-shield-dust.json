@@ -1,0 +1,77 @@
+{
+  "_id": 19,
+  "key": "shield-dust",
+  "name": {
+    "english": "Shield Dust"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Protects against incoming moves' extra effects.",
+    "full": "This Pokémon is immune to the extra effects of moves used against it. An extra effect is a move's chance, listed as an \"effect chance\", to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents added effects.",
+    "emerald": "Prevents added effects.",
+    "firered-leafgreen": "Prevents added effects.",
+    "diamond-pearl": "Blocks the added effects of attacks taken.",
+    "platinum": "Blocks the added effects of attacks taken.",
+    "heartgold-soulsilver": "Blocks the added effects of attacks taken.",
+    "black-white": "Blocks the added effects of attacks taken.",
+    "black-2-white-2": "Blocks the added effects of attacks taken.",
+    "x-y": "Blocks the additional effects of attacks taken.",
+    "omega-ruby-alpha-sapphire": "Blocks the additional effects of attacks taken.",
+    "sun-moon": "This Pokémon’s dust blocks the additional effects of attacks taken.",
+    "ultra-sun-ultra-moon": "This Pokémon’s dust blocks the additional effects of attacks taken.",
+    "lets-go-pikachu-lets-go-eevee": "This Pokémon’s dust blocks the additional effects of attacks taken.",
+    "sword-shield": "This Pokémon’s dust blocks the additional effects of attacks taken."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Caterpie",
+        "id": 10
+      },
+      {
+        "name": "Weedle",
+        "id": 13
+      },
+      {
+        "name": "Venomoth",
+        "id": 49
+      },
+      {
+        "name": "Wurmple",
+        "id": 265
+      },
+      {
+        "name": "Dustox",
+        "id": 269
+      },
+      {
+        "name": "Scatterbug",
+        "id": 664
+      },
+      {
+        "name": "Vivillon",
+        "id": 666
+      },
+      {
+        "name": "Cutiefly",
+        "id": 742
+      },
+      {
+        "name": "Ribombee",
+        "id": 743
+      },
+      {
+        "name": "Snom",
+        "id": 872
+      },
+      {
+        "name": "Frosmoth",
+        "id": 873
+      }
+    ],
+    "hidden": []
+  }
+}

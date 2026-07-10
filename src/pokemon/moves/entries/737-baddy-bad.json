@@ -1,0 +1,33 @@
+{
+  "_id": 737,
+  "key": "baddy-bad",
+  "name": {
+    "english": "Baddy Bad",
+    "japanese": "わるわるゾーン",
+    "chinese": "壞壞領域",
+    "korean": "아그아그존",
+    "german": "Umbreozona",
+    "french": "Quälzone",
+    "italian": "Baddy Bad",
+    "spanish": "Zona Buiabuia"
+  },
+  "type": "Dark",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user acts bad and attacks the target.\nA wondrous wall of light is put up to weaken the power\nof the opposing Pokémon’s physical moves.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

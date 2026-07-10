@@ -1,0 +1,44 @@
+{
+    "_id": 56,
+    "evoLine": [
+      [
+        {
+          "id": 155,
+          "name": "Cyndaquil",
+          "type": {
+            "one": "Fire"
+          }
+        },
+        {
+          "id": 156,
+          "name": "Quilava",
+          "type": {
+            "one": "Fire"
+          },
+          "how": "Level 14, or Level 17 in Legends: Arceus"
+        },
+        [
+            {
+                "id": 157,
+                "name": "Typhlosion",
+                "type": {
+                  "one": "Fire"
+                },
+                "how": "Level 36"
+              },
+              {
+                "id": 157.1,
+                "name": "Typhlosion",
+                "form": "Hisuian Typhlosion",
+                "type": {
+                  "one": "Fire",
+                  "two": "Ghost"
+                },
+                "how": "Level 36 in Legends: Arceus"
+              }
+        ]
+
+      ]
+    ]
+  }
+  

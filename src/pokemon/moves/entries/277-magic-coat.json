@@ -1,0 +1,45 @@
+{
+  "_id": 277,
+  "key": "magic-coat",
+  "name": {
+    "english": "Magic Coat",
+    "japanese": "マジックコート",
+    "chinese": "魔术外衣",
+    "korean": "매직코트",
+    "german": "Capa Mágica",
+    "french": "Magiemantel",
+    "italian": "Magic Coat",
+    "spanish": "Magivelo"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Reflects special effects\nback to the attacker.",
+    "emerald": "Reflects special effects\nback to the attacker.",
+    "firered-leafgreen": "Reflects back the\nfoe’s LEECH SEED\nand any status-\ndamaging move.",
+    "diamond-pearl": "A barrier reflects\nback to the foe\nmoves like Leech\nSeed and moves\nthat damage status.",
+    "platinum": "A barrier reflects\nback to the foe\nmoves like Leech\nSeed and moves\nthat damage status.",
+    "heartgold-soulsilver": "A barrier reflects\nback to the foe\nmoves like Leech\nSeed and moves\nthat damage status.",
+    "black-white": "A barrier reflects back to the target\nmoves like Leech Seed and moves\nthat damage status.",
+    "black-2-white-2": "A barrier reflects back to the target\nmoves like Leech Seed and moves\nthat damage status.",
+    "x-y": "A barrier reflects back to the target\nmoves like Leech Seed and moves\nthat damage status.",
+    "omega-ruby-alpha-sapphire": "A barrier reflects back to the target\nmoves like Leech Seed and moves\nthat damage status.",
+    "sun-moon": "A barrier reflects back to the target moves like\nLeech Seed and moves that damage status.",
+    "ultra-sun-ultra-moon": "A barrier reflects back to the target moves like\nLeech Seed and moves that damage status.",
+    "lets-go-pikachu-lets-go-eevee": "A barrier reflects back to the target moves like\nLeech Seed and moves that damage status.",
+    "sword-shield": "Moves like Leech Seed and moves that inflict status\nconditions are blocked by a barrier and reflected back\nto the user of those moves."
+  },
+  "effect": {
+    "full": "The first non-damaging move targeting the user this turn that inflicts major status effects, stat changes, or trapping effects will be reflected at its user.\n\ndefog, memento, and teeter dance are not reflected.\n\nattract, flatter, gastro acid, leech seed, swagger, worry seed, and yawn are reflected.\n\nThis move cannot be copied by mirror move.",
+    "shortEffect": "Reflects back the first effect move used on the user this turn."
+  },
+  "priority": 4
+}

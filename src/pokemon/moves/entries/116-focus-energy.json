@@ -1,0 +1,47 @@
+{
+  "_id": 116,
+  "key": "focus-energy",
+  "name": {
+    "english": "Focus Energy",
+    "japanese": "きあいだめ",
+    "chinese": "集气",
+    "korean": "기충전",
+    "german": "Foco Energía",
+    "french": "Energiefokus",
+    "italian": "Focus Energy",
+    "spanish": "Focalenergia"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Raises the criti­\ncal hit ratio.",
+    "crystal": "Raises the criti­\ncal hit ratio.",
+    "ruby-sapphire": "Focuses power to raise the\ncritical-hit ratio.",
+    "emerald": "Focuses power to raise the\ncritical-hit ratio.",
+    "firered-leafgreen": "The user takes a\ndeep breath and\nfocuses to raise its\ncritical-hit ratio.",
+    "diamond-pearl": "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.",
+    "platinum": "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.",
+    "heartgold-soulsilver": "The user takes a\ndeep breath and\nfocuses to raise the\ncritical-hit ratio of\nits attacks.",
+    "black-white": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+    "black-2-white-2": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+    "x-y": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+    "omega-ruby-alpha-sapphire": "The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.",
+    "sun-moon": "The user takes a deep breath and focuses so that\ncritical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user takes a deep breath and focuses so that\ncritical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user takes a deep breath and focuses so that\ncritical hits land more easily.",
+    "sword-shield": "The user takes a deep breath and focuses so that\ncritical hits land more easily."
+  },
+  "effect": {
+    "full": "User's critical hit rate is two levels higher until it leaves the field.  If the user has already used focus energy since entering the field, this move will fail.\n\nThis effect is passed on by baton pass.",
+    "shortEffect": "Increases the user's chance to score a critical hit."
+  },
+  "priority": 0
+}

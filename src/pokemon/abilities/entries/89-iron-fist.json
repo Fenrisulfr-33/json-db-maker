@@ -1,0 +1,103 @@
+{
+  "_id": 89,
+  "key": "iron-fist",
+  "name": {
+    "english": "Iron Fist"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Strengthens punch-based moves to 1.2× their power.",
+    "full": "Moves flagged as being punch-based have 1.2× their base power for this Pokémon. sucker punch is not flagged as punch-based; its original, Japanese name only means \"surprise attack\"."
+  },
+  "description": {
+    "diamond-pearl": "Boosts the power of punching moves.",
+    "platinum": "Boosts the power of punching moves.",
+    "heartgold-soulsilver": "Boosts the power of punching moves.",
+    "black-white": "Boosts the power of punching moves.",
+    "black-2-white-2": "Boosts the power of punching moves.",
+    "x-y": "Powers up punching moves.",
+    "omega-ruby-alpha-sapphire": "Powers up punching moves.",
+    "sun-moon": "Powers up punching moves.",
+    "ultra-sun-ultra-moon": "Powers up punching moves.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up punching moves.",
+    "sword-shield": "Powers up punching moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Hitmonchan",
+        "id": 107
+      },
+      {
+        "name": "Golett",
+        "id": 622
+      },
+      {
+        "name": "Golurk",
+        "id": 623
+      },
+      {
+        "name": "Pancham",
+        "id": 674
+      },
+      {
+        "name": "Pangoro",
+        "id": 675
+      },
+      {
+        "name": "Crabrawler",
+        "id": 739
+      },
+      {
+        "name": "Crabominable",
+        "id": 740
+      },
+      {
+        "name": "Melmetal",
+        "id": 809
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Ledian",
+        "id": 166
+      },
+      {
+        "name": "Chimchar",
+        "id": 390
+      },
+      {
+        "name": "Monferno",
+        "id": 391
+      },
+      {
+        "name": "Infernape",
+        "id": 392
+      },
+      {
+        "name": "Timburr",
+        "id": 532
+      },
+      {
+        "name": "Gurdurr",
+        "id": 533
+      },
+      {
+        "name": "Conkeldurr",
+        "id": 534
+      },
+      {
+        "name": "Pawmi",
+        "id": 921
+      },
+      {
+        "name": "Pawmo",
+        "id": 922
+      },
+      {
+        "name": "Pawmot",
+        "id": 923
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": 212,
+  "key": "corrosion",
+  "name": {
+    "english": "Corrosion"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon can inflict poison on Poison and Steel Pokémon.",
+    "full": "This Pokémon's moves and item ignore the usual immunity of Poison and Steel Pokémon when attempting to inflict poison."
+  },
+  "description": {
+    "sun-moon": "The Pokémon can poison the target even if it’s a Steel or Poison type.",
+    "ultra-sun-ultra-moon": "The Pokémon can poison the target even if it’s a Steel or Poison type.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon can poison the target even if it’s a Steel or Poison type.",
+    "sword-shield": "The Pokémon can poison the target even if it’s a Steel or Poison type."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Salandit",
+        "id": 757
+      },
+      {
+        "name": "Salazzle",
+        "id": 758
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Glimmet",
+        "id": 969
+      },
+      {
+        "name": "Glimmora",
+        "id": 970
+      }
+    ]
+  }
+}

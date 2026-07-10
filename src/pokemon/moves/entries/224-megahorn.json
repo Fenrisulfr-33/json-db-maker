@@ -1,0 +1,47 @@
+{
+  "_id": 224,
+  "key": "megahorn",
+  "name": {
+    "english": "Megahorn",
+    "japanese": "メガホーン",
+    "chinese": "百万吨角击",
+    "korean": "메가폰",
+    "german": "Megacuerno",
+    "french": "Vielender",
+    "italian": "Megahorn",
+    "spanish": "Megacorno"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 120,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A powerful charge\nattack.",
+    "crystal": "A powerful charge\nattack.",
+    "ruby-sapphire": "A brutal ramming attack\nusing out-thrust horns.",
+    "emerald": "A brutal ramming attack\nusing out-thrust horns.",
+    "firered-leafgreen": "A brutal ramming\nattack delivered\nwith a tough and\nimpressive horn.",
+    "diamond-pearl": "Utilizing its tough\nand impressive\nhorn, the user\nrams into the foe \nwith no letup.\n",
+    "platinum": "Utilizing its tough\nand impressive\nhorn, the user\nrams into the foe \nwith no letup.\n",
+    "heartgold-soulsilver": "Using its tough\nand impressive\nhorn, the user\nrams into the foe \nwith no letup.\n",
+    "black-white": "Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.",
+    "black-2-white-2": "Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.",
+    "x-y": "Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.",
+    "omega-ruby-alpha-sapphire": "Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.",
+    "sun-moon": "Using its tough and impressive horn, the user rams\ninto the target with no letup.",
+    "ultra-sun-ultra-moon": "Using its tough and impressive horn, the user rams\ninto the target with no letup.",
+    "lets-go-pikachu-lets-go-eevee": "Using its tough and impressive horn, the user rams\ninto the target with no letup.",
+    "sword-shield": "Using its tough and impressive horn, the user rams\ninto the target with no letup."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

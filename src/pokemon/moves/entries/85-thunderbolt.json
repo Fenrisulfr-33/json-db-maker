@@ -1,0 +1,47 @@
+{
+  "_id": 85,
+  "key": "thunderbolt",
+  "name": {
+    "english": "Thunderbolt",
+    "japanese": "１０まんボルト",
+    "chinese": "十万伏特",
+    "korean": "10만볼트",
+    "german": "Rayo",
+    "french": "Donnerblitz",
+    "italian": "Thunderbolt",
+    "spanish": "Fulmine"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause paralysis.",
+    "crystal": "An attack that may\ncause paralysis.",
+    "ruby-sapphire": "A strong electrical attack\nthat may paralyze the foe.",
+    "emerald": "A strong electrical attack\nthat may paralyze the foe.",
+    "firered-leafgreen": "A strong electrical\nattack that may\nalso leave the foe\nparalyzed.",
+    "diamond-pearl": "A strong electric\nblast is loosed at\nthe foe.\nIt may also leave the\nfoe paralyzed.",
+    "platinum": "A strong electric\nblast is loosed at\nthe foe.\nIt may also leave the\nfoe paralyzed.",
+    "heartgold-soulsilver": "A strong electric\nblast is loosed at\nthe foe.\nIt may also leave the\nfoe paralyzed.",
+    "black-white": "A strong electric blast is loosed at the\ntarget. It may also leave the target\nwith paralysis.",
+    "black-2-white-2": "A strong electric blast is loosed at the\ntarget. It may also leave the target\nwith paralysis.",
+    "x-y": "A strong electric blast crashes down on the\ntarget. This may also leave the target\nwith paralysis.",
+    "omega-ruby-alpha-sapphire": "A strong electric blast crashes down on the\ntarget. This may also leave the target\nwith paralysis.",
+    "sun-moon": "A strong electric blast crashes down on the target.\nThis may also leave the target with paralysis.",
+    "ultra-sun-ultra-moon": "A strong electric blast crashes down on the target.\nThis may also leave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "A strong electric blast crashes down on the target.\nThis may also leave the target with paralysis.",
+    "sword-shield": "A strong electric blast crashes down on the target.\nThis may also leave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

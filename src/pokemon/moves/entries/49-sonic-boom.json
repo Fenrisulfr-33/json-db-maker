@@ -1,0 +1,47 @@
+{
+  "_id": 49,
+  "key": "sonic-boom",
+  "name": {
+    "english": "Sonic Boom",
+    "japanese": "ソニックブーム",
+    "chinese": "音爆",
+    "korean": "소닉붐",
+    "german": "Bomba Sónica",
+    "french": "Ultraschall",
+    "italian": "Sonic Boom",
+    "spanish": "Sonicboom"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 20,
+  "power": null,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Always inflicts\n20HP damage.",
+    "crystal": "Always inflicts\n20HP damage.",
+    "ruby-sapphire": "Launches shock waves that\nalways inflict 20 HP damage.",
+    "emerald": "Launches shock waves that\nalways inflict 20 HP damage.",
+    "firered-leafgreen": "The foe is hit with\na shock wave that\nalways inflicts 20-\nHP damage.",
+    "diamond-pearl": "The foe is hit with a\ndestructive shock\nwave that always\ninflicts 20 HP damage.\n",
+    "platinum": "The foe is hit with a\ndestructive shock\nwave that always\ninflicts 20 HP damage.\n",
+    "heartgold-soulsilver": "The foe is hit with a\ndestructive shock\nwave that always\ninflicts 20 HP damage.\n",
+    "black-white": "The target is hit with a destructive shock\nwave that always inflicts 20 HP damage.",
+    "black-2-white-2": "The target is hit with a destructive shock\nwave that always inflicts 20 HP damage.",
+    "x-y": "The target is hit with a destructive shock\nwave that always inflicts 20 HP damage.",
+    "omega-ruby-alpha-sapphire": "The target is hit with a destructive shock\nwave that always inflicts 20 HP damage.",
+    "sun-moon": "The target is hit with a destructive shock wave that\nalways inflicts 20 HP damage.",
+    "ultra-sun-ultra-moon": "The target is hit with a destructive shock wave that\nalways inflicts 20 HP damage.",
+    "lets-go-pikachu-lets-go-eevee": "The target is hit with a destructive shock wave that\nalways inflicts 20 HP damage.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts exactly 20 damage.",
+    "shortEffect": "Inflicts 20 points of damage."
+  },
+  "priority": 0
+}

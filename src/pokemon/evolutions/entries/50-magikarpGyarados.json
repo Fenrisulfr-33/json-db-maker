@@ -1,0 +1,24 @@
+{
+    "_id": 50,
+    "evoLine": [
+      [
+        {
+          "id": 129,
+          "name": "Magikarp",
+          "type": {
+            "one": "Water"
+          }
+        },
+        {
+          "id": 130,
+          "name": "Gyarados",
+          "type": {
+            "one": "Water",
+            "two": "Flying"
+          },
+          "how": "Level 20"
+        }
+      ]
+    ]
+  }
+  

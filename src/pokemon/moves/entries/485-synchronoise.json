@@ -1,0 +1,39 @@
+{
+  "_id": 485,
+  "key": "synchronoise",
+  "name": {
+    "english": "Synchronoise",
+    "japanese": "シンクロノイズ",
+    "chinese": "同步干扰",
+    "korean": "싱크로노이즈",
+    "german": "Sincrorruido",
+    "french": "Synchrolärm",
+    "italian": "Synchronoise",
+    "spanish": "Sincrumore"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+    "black-2-white-2": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+    "x-y": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+    "omega-ruby-alpha-sapphire": "Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.",
+    "sun-moon": "Using an odd shock wave, the user inflicts damage\non any Pokémon of the same type in the area\naround it.",
+    "ultra-sun-ultra-moon": "Using an odd shock wave, the user inflicts damage\non any Pokémon of the same type in the area\naround it.",
+    "lets-go-pikachu-lets-go-eevee": "Using an odd shock wave, the user inflicts damage\non any Pokémon of the same type in the area\naround it.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.",
+    "shortEffect": "Hits any Pokémon that shares a type with the user."
+  },
+  "priority": 0
+}

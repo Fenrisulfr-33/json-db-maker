@@ -1,0 +1,37 @@
+{
+  "_id": 579,
+  "key": "flower-shield",
+  "name": {
+    "english": "Flower Shield",
+    "japanese": "フラワーガード",
+    "chinese": "鲜花防御",
+    "korean": "플라워가드",
+    "german": "Defensa Floral",
+    "french": "Floraschutz",
+    "italian": "Flower Shield",
+    "spanish": "Fiordifesa"
+  },
+  "type": "Fairy",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 6,
+  "target": "all-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user raises the Defense stat\nof all Grass-type Pokémon in battle\nwith a mysterious power.",
+    "omega-ruby-alpha-sapphire": "The user raises the Defense stat\nof all Grass-type Pokémon in battle\nwith a mysterious power.",
+    "sun-moon": "The user raises the Defense stat of all Grass-type\nPokémon in battle with a mysterious power.",
+    "ultra-sun-ultra-moon": "The user raises the Defense stat of all Grass-type\nPokémon in battle with a mysterious power.",
+    "lets-go-pikachu-lets-go-eevee": "The user raises the Defense stat of all Grass-type\nPokémon in battle with a mysterious power.",
+    "sword-shield": "The user raises the Defense stats of all Grass-type\nPokémon in battle with a mysterious power."
+  },
+  "effect": {
+    "full": "Raises the Defense of all grass Pokémon in battle.",
+    "shortEffect": "Raises the Defense of all grass Pokémon in battle."
+  },
+  "priority": 0
+}

@@ -1,0 +1,16 @@
+{
+  "_id": 248,
+  "key": "ice-face",
+  "name": {
+    "english": "Ice Face"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "The Pokémon’s ice head can take a physical attack as a substitute, but the attack also changes the Pokémon’s appearance. The ice will be restored when it hails."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

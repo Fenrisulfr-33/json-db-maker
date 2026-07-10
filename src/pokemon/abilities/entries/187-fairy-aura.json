@@ -1,0 +1,29 @@
+{
+  "_id": 187,
+  "key": "fairy-aura",
+  "name": {
+    "english": "Fairy Aura"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Strengthens fairy moves to 1.33× their power for all friendly and opposing Pokémon.",
+    "full": "Strengthens fairy moves for all friendly and opposing Pokémon."
+  },
+  "description": {
+    "x-y": "Powers up each Pokémon’s Fairy-type moves.",
+    "omega-ruby-alpha-sapphire": "Powers up each Pokémon’s Fairy-type moves.",
+    "sun-moon": "Powers up each Pokémon’s Fairy-type moves.",
+    "ultra-sun-ultra-moon": "Powers up each Pokémon’s Fairy-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up each Pokémon’s Fairy-type moves.",
+    "sword-shield": "Powers up each Pokémon’s Fairy-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Xerneas",
+        "id": 716
+      }
+    ],
+    "hidden": []
+  }
+}

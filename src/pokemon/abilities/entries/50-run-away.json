@@ -1,0 +1,154 @@
+{
+  "_id": 50,
+  "key": "run-away",
+  "name": {
+    "english": "Run Away"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Ensures success fleeing from wild battles.",
+    "full": "This Pokémon is always successful fleeing from wild battles, even if trapped by a move or ability."
+  },
+  "description": {
+    "ruby-sapphire": "Makes escaping easier.",
+    "emerald": "Makes escaping easier.",
+    "firered-leafgreen": "Makes escaping easier.",
+    "diamond-pearl": "Enables sure getaway from wild Pokémon.",
+    "platinum": "Enables sure getaway from wild Pokémon.",
+    "heartgold-soulsilver": "Enables sure getaway from wild Pokémon.",
+    "black-white": "Enables a sure getaway from wild Pokémon.",
+    "black-2-white-2": "Enables a sure getaway from wild Pokémon.",
+    "x-y": "Enables a sure getaway from wild Pokémon.",
+    "omega-ruby-alpha-sapphire": "Enables a sure getaway from wild Pokémon.",
+    "sun-moon": "Enables a sure getaway from wild Pokémon.",
+    "ultra-sun-ultra-moon": "Enables a sure getaway from wild Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "Enables a sure getaway from wild Pokémon.",
+    "sword-shield": "Enables a sure getaway from wild Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Rattata",
+        "id": 19
+      },
+      {
+        "name": "Raticate",
+        "id": 20
+      },
+      {
+        "name": "Ponyta",
+        "id": 77
+      },
+      {
+        "name": "Rapidash",
+        "id": 78
+      },
+      {
+        "name": "Doduo",
+        "id": 84
+      },
+      {
+        "name": "Dodrio",
+        "id": 85
+      },
+      {
+        "name": "Eevee",
+        "id": 133
+      },
+      {
+        "name": "Sentret",
+        "id": 161
+      },
+      {
+        "name": "Furret",
+        "id": 162
+      },
+      {
+        "name": "Aipom",
+        "id": 190
+      },
+      {
+        "name": "Dunsparce",
+        "id": 206
+      },
+      {
+        "name": "Snubbull",
+        "id": 209
+      },
+      {
+        "name": "Poochyena",
+        "id": 261
+      },
+      {
+        "name": "Pachirisu",
+        "id": 417
+      },
+      {
+        "name": "Buneary",
+        "id": 427
+      },
+      {
+        "name": "Patrat",
+        "id": 504
+      },
+      {
+        "name": "Nickit",
+        "id": 827
+      },
+      {
+        "name": "Thievul",
+        "id": 828
+      },
+      {
+        "name": "Wooloo",
+        "id": 831
+      },
+      {
+        "name": "Tandemaus",
+        "id": 924
+      },
+      {
+        "name": "Maschiff",
+        "id": 942
+      },
+      {
+        "name": "Dudunsparce",
+        "id": 982
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Caterpie",
+        "id": 10
+      },
+      {
+        "name": "Weedle",
+        "id": 13
+      },
+      {
+        "name": "Oddish",
+        "id": 43
+      },
+      {
+        "name": "Venonat",
+        "id": 48
+      },
+      {
+        "name": "Wurmple",
+        "id": 265
+      },
+      {
+        "name": "Nincada",
+        "id": 290
+      },
+      {
+        "name": "Kricketot",
+        "id": 401
+      },
+      {
+        "name": "Lillipup",
+        "id": 506
+      }
+    ]
+  }
+}

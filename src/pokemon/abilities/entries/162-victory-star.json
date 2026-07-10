@@ -1,0 +1,31 @@
+{
+  "_id": 162,
+  "key": "victory-star",
+  "name": {
+    "english": "Victory Star"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Increases moves' accuracy to 1.1× for friendly Pokémon.",
+    "full": "All friendly Pokémon's moves, including this Pokémon's own moves, have 1.1× their usual accuracy while this Pokémon is in battle."
+  },
+  "description": {
+    "black-white": "Boosts the accuracy of its allies and itself.",
+    "black-2-white-2": "Boosts the accuracy of its allies and itself.",
+    "x-y": "Boosts the accuracy of its allies and itself.",
+    "omega-ruby-alpha-sapphire": "Boosts the accuracy of its allies and itself.",
+    "sun-moon": "Boosts the accuracy of its allies and itself.",
+    "ultra-sun-ultra-moon": "Boosts the accuracy of its allies and itself.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the accuracy of its allies and itself.",
+    "sword-shield": "Boosts the accuracy of its allies and itself."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Victini",
+        "id": 494
+      }
+    ],
+    "hidden": []
+  }
+}

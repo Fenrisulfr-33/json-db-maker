@@ -1,0 +1,25 @@
+{
+    "_id": 53,
+    "evoLine": [
+      [
+        {
+          "id": 140,
+          "name": "Kabuto",
+          "type": {
+            "one": "Rock",
+            "two": "Water"
+          }
+        },
+        {
+          "id": 141,
+          "name": "Kabutops",
+          "type": {
+            "one": "Rock",
+            "two": "Water"
+          },
+          "how": "Level 40"
+        }
+      ]
+    ]
+  }
+  

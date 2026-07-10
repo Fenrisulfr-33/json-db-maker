@@ -1,0 +1,33 @@
+{
+  "_id": 739,
+  "key": "freezy-frost",
+  "name": {
+    "english": "Freezy Frost",
+    "japanese": "こちこちフロスト",
+    "chinese": "冰冰霜凍",
+    "korean": "꽁꽁프로스트",
+    "german": "Glaceoprisma",
+    "french": "Klirrfrost",
+    "italian": "Freezy Frost",
+    "spanish": "Scricchiagelo"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a crystal made of cold frozen\nhaze. It eliminates every stat change among all the\nPokémon engaged in battle.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 254,
+    "evoLine": [
+        [
+            {
+                "id": 728,
+                "name": "Popplio",
+                "type": {
+                    "one": "Water"
+                }
+            },
+            {
+                "id": 729,
+                "name": "Brionne",
+                "type": {
+                    "one": "Water"
+                },
+                "how": "Level 17"
+            },
+            {
+                "id": 730,
+                "name": "Primarina",
+                "type": {
+                    "one": "Water",
+                    "two": "Fairy"
+                },
+                "how": "Level 34"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+  "_id": 114,
+  "key": "storm-drain",
+  "name": {
+    "english": "Storm Drain"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Redirects single-target water moves to this Pokémon where possible. Absorbs Water moves, raising Special Attack one stage.",
+    "full": "All other Pokémon's single-target water-type moves are redirected to this Pokémon, if it is an eligible target. Other Pokémon's Water moves raise this Pokémon's Special Attack one stage, negating any other effect on it, and cannot miss it. If the move's intended target also has this ability, the move is not redirected. When multiple Pokémon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pokémon. follow me takes precedence over this ability."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon draws in all Water-type moves.",
+    "platinum": "The Pokémon draws in all Water-type moves.",
+    "heartgold-soulsilver": "The Pokémon draws in all Water-type moves.",
+    "black-white": "Draws in all Water-type moves to up Sp. Attack.",
+    "black-2-white-2": "Draws in all Water-type moves to up Sp. Attack.",
+    "x-y": "Draws in all Water-type moves to boost its Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "Draws in all Water-type moves to boost its Sp. Atk stat.",
+    "sun-moon": "Draws in all Water-type moves. Instead of being hit  by Water-type moves, it boosts its Sp. Atk.",
+    "ultra-sun-ultra-moon": "Draws in all Water-type moves. Instead of being hit  by Water-type moves, it boosts its Sp. Atk.",
+    "lets-go-pikachu-lets-go-eevee": "Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk.",
+    "sword-shield": "Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Shellos",
+        "id": 422
+      },
+      {
+        "name": "Gastrodon",
+        "id": 423
+      },
+      {
+        "name": "Finneon",
+        "id": 456
+      },
+      {
+        "name": "Lumineon",
+        "id": 457
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Lileep",
+        "id": 345
+      },
+      {
+        "name": "Cradily",
+        "id": 346
+      },
+      {
+        "name": "Maractus",
+        "id": 556
+      },
+      {
+        "name": "Tatsugiri",
+        "id": 978
+      }
+    ]
+  }
+}

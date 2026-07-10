@@ -1,0 +1,47 @@
+{
+  "_id": 47,
+  "key": "sing",
+  "name": {
+    "english": "Sing",
+    "japanese": "うたう",
+    "chinese": "唱歌",
+    "korean": "노래하기",
+    "german": "Canto",
+    "french": "Gesang",
+    "italian": "Sing",
+    "spanish": "Canto"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": 55,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "May cause the foe\nto fall asleep.",
+    "crystal": "May cause the foe\nto fall asleep.",
+    "ruby-sapphire": "A soothing song lulls the\nfoe into a deep slumber.",
+    "emerald": "A soothing song lulls the\nfoe into a deep slumber.",
+    "firered-leafgreen": "A soothing song\nin a calming voice\nlulls the foe into\na deep slumber.",
+    "diamond-pearl": "A soothing lullaby is\nsung in a calming\nvoice that puts the\nfoe into a deep\nslumber.",
+    "platinum": "A soothing lullaby is\nsung in a calming\nvoice that puts the\nfoe into a deep\nslumber.",
+    "heartgold-soulsilver": "A soothing lullaby is\nsung in a calming\nvoice that puts the\nfoe into a deep\nslumber.",
+    "black-white": "A soothing lullaby is sung in a calming\nvoice that puts the target into a deep\nslumber.",
+    "black-2-white-2": "A soothing lullaby is sung in a calming\nvoice that puts the target into a deep\nslumber.",
+    "x-y": "A soothing lullaby is sung in a calming\nvoice that puts the target into a\ndeep slumber.",
+    "omega-ruby-alpha-sapphire": "A soothing lullaby is sung in a calming\nvoice that puts the target into a\ndeep slumber.",
+    "sun-moon": "A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber.",
+    "ultra-sun-ultra-moon": "A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber.",
+    "lets-go-pikachu-lets-go-eevee": "A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber.",
+    "sword-shield": "A soothing lullaby is sung in a calming voice that\nputs the target into a deep slumber."
+  },
+  "effect": {
+    "full": "Puts the target to sleep.",
+    "shortEffect": "Puts the target to sleep."
+  },
+  "priority": 0
+}

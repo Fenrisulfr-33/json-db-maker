@@ -1,0 +1,47 @@
+{
+  "_id": 95,
+  "key": "hypnosis",
+  "name": {
+    "english": "Hypnosis",
+    "japanese": "さいみんじゅつ",
+    "chinese": "催眠术",
+    "korean": "최면술",
+    "german": "Hipnosis",
+    "french": "Hypnose",
+    "italian": "Hypnosis",
+    "spanish": "Ipnosi"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 60,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "May put the foe to\nsleep.",
+    "crystal": "May put the foe to\nsleep.",
+    "ruby-sapphire": "A hypnotizing move that\nmay induce sleep.",
+    "emerald": "A hypnotizing move that\nmay induce sleep.",
+    "firered-leafgreen": "Hypnotic suggestion\nis used to make the\nfoe fall into a\ndeep sleep.",
+    "diamond-pearl": "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.",
+    "platinum": "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.",
+    "heartgold-soulsilver": "The user employs\nhypnotic suggestion\nto make the target\nfall into a deep\nsleep.",
+    "black-white": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+    "black-2-white-2": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+    "x-y": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+    "omega-ruby-alpha-sapphire": "The user employs hypnotic suggestion\nto make the target fall into a deep sleep.",
+    "sun-moon": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+    "ultra-sun-ultra-moon": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+    "lets-go-pikachu-lets-go-eevee": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep.",
+    "sword-shield": "The user employs hypnotic suggestion to make the\ntarget fall into a deep sleep."
+  },
+  "effect": {
+    "full": "Puts the target to sleep.",
+    "shortEffect": "Puts the target to sleep."
+  },
+  "priority": 0
+}

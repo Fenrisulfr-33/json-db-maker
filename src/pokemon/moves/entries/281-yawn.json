@@ -1,0 +1,45 @@
+{
+  "_id": 281,
+  "key": "yawn",
+  "name": {
+    "english": "Yawn",
+    "japanese": "あくび",
+    "chinese": "哈欠",
+    "korean": "하품",
+    "german": "Bostezo",
+    "french": "Gähner",
+    "italian": "Yawn",
+    "spanish": "Sbadiglio"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Lulls the foe into yawning,\nthen sleeping next turn.",
+    "emerald": "Lulls the foe into yawning,\nthen sleeping next turn.",
+    "firered-leafgreen": "A huge yawn lulls\nthe foe into falling\nasleep on the next\nturn.",
+    "diamond-pearl": "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.",
+    "platinum": "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.",
+    "heartgold-soulsilver": "The user lets loose a\nhuge yawn that lulls\nthe foe into falling\nasleep on the next\nturn.",
+    "black-white": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
+    "black-2-white-2": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
+    "x-y": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
+    "omega-ruby-alpha-sapphire": "The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.",
+    "sun-moon": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
+    "ultra-sun-ultra-moon": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn.",
+    "sword-shield": "The user lets loose a huge yawn that lulls the target\ninto falling asleep on the next turn."
+  },
+  "effect": {
+    "full": "Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.  If the target leaves the field, this effect is canceled.  If the target has a status effect when this move is used, this move will fail.\n\nIf the target is protected by safeguard when this move is used, this move will fail.\n\ninsomnia and vital spirit prevent the sleep if the target has either at the end of the next turn, but will not cause this move to fail on use.",
+    "shortEffect": "Target sleeps at the end of the next turn."
+  },
+  "priority": 0
+}

@@ -1,0 +1,32 @@
+{
+  "_id": 817,
+  "key": "wicked-blow",
+  "name": {
+    "english": "Wicked Blow",
+    "japanese": "あんこくきょうだ",
+    "chinese": "暗冥強擊",
+    "korean": "암흑강타",
+    "german": "Golpe Oscuro",
+    "french": "Finstertreffer",
+    "italian": "Wicked Blow",
+    "spanish": "Pugnotenebra"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user, having mastered the Dark style, strikes the\ntarget with a fierce blow. This attack always results\nin a critical hit."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

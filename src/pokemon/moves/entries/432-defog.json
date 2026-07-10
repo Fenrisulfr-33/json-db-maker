@@ -1,0 +1,42 @@
+{
+  "_id": 432,
+  "key": "defog",
+  "name": {
+    "english": "Defog",
+    "japanese": "きりばらい",
+    "chinese": "清除浓雾",
+    "korean": "안개제거",
+    "german": "Despejar",
+    "french": "Auflockern",
+    "italian": "Defog",
+    "spanish": "Scacciabruma"
+  },
+  "type": "Flying",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "Obstacles are moved,\nreducing the foe’s\nevasion stat. It can\nalso be used to\nclear deep fog, etc.",
+    "platinum": "Obstacles are moved,\nreducing the foe’s\nevasion stat. It can\nalso be used to\nclear deep fog, etc.",
+    "heartgold-soulsilver": "It reduces the foe’s\nevasion stat. It also\nremoves spikes,\nlight screens, etc.",
+    "black-white": "A strong wind blows away the target’s\nobstacles such as Reflect or Light Screen.\nIt also lowers the target’s evasiveness.",
+    "black-2-white-2": "A strong wind blows away the target’s\nobstacles such as Reflect or Light Screen.\nIt also lowers the target’s evasiveness.",
+    "x-y": "A strong wind blows away the target’s\nbarriers such as Reflect or Light Screen.\nThis also lowers the target’s evasiveness.",
+    "omega-ruby-alpha-sapphire": "A strong wind blows away the target’s\nbarriers such as Reflect or Light Screen.\nThis also lowers the target’s evasiveness.",
+    "sun-moon": "A strong wind blows away the target’s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget’s evasiveness.",
+    "ultra-sun-ultra-moon": "A strong wind blows away the target’s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget’s evasiveness.",
+    "lets-go-pikachu-lets-go-eevee": "A strong wind blows away the target’s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget’s evasiveness.",
+    "sword-shield": "A strong wind blows away the target’s barriers such\nas Reflect or Light Screen. This also lowers the\ntarget’s evasiveness."
+  },
+  "effect": {
+    "full": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move.",
+    "shortEffect": "Lowers the target's evasion by one stage.  Removes field effects from the enemy field."
+  },
+  "priority": 0
+}

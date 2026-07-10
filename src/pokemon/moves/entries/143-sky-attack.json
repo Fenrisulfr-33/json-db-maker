@@ -1,0 +1,47 @@
+{
+  "_id": 143,
+  "key": "sky-attack",
+  "name": {
+    "english": "Sky Attack",
+    "japanese": "ゴッドバード",
+    "chinese": "高空攻击",
+    "korean": "불새",
+    "german": "Ataque Aéreo",
+    "french": "Himmelsfeger",
+    "italian": "Sky Attack",
+    "spanish": "Aeroattacco"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 140,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "1st turn: Prepare\n2nd turn: Attack",
+    "crystal": "1st turn: Prepare\n2nd turn: Attack",
+    "ruby-sapphire": "Searches out weak spots,\nthen strikes the next turn.",
+    "emerald": "Searches out weak spots,\nthen strikes the next turn.",
+    "firered-leafgreen": "A 2nd-turn attack\nmove with a high\ncritical-hit ratio.\nThe foe may flinch.",
+    "diamond-pearl": "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.",
+    "platinum": "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "A second-turn attack\nmove with a high\ncritical-hit ratio.\nIt may also make the\ntarget flinch.",
+    "black-white": "A second-turn attack move where\ncritical hits land more easily.\nIt may also make the target flinch.",
+    "black-2-white-2": "A second-turn attack move where\ncritical hits land more easily.\nIt may also make the target flinch.",
+    "x-y": "A second-turn attack move where\ncritical hits land more easily.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "A second-turn attack move where\ncritical hits land more easily.\nThis may also make the target flinch.",
+    "sun-moon": "A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch.",
+    "ultra-sun-ultra-moon": "A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch.",
+    "sword-shield": "A second-turn attack move where critical hits land\nmore easily. This may also make the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User charges for one turn before attacking.  Critical hit chance is one level higher than normal.  Has a $effect_chance% chance to make the target flinch.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User charges for one turn before attacking.  Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

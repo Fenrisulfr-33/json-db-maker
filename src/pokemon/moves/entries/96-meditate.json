@@ -1,0 +1,47 @@
+{
+  "_id": 96,
+  "key": "meditate",
+  "name": {
+    "english": "Meditate",
+    "japanese": "ヨガのポーズ",
+    "chinese": "瑜伽姿势",
+    "korean": "요가포즈",
+    "german": "Meditación",
+    "french": "Meditation",
+    "italian": "Meditate",
+    "spanish": "Meditazione"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 40,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Raises the user's\nATTACK.",
+    "crystal": "Raises the user's\nATTACK.",
+    "ruby-sapphire": "Meditates in a peaceful\nfashion to raise ATTACK.",
+    "emerald": "Meditates in a peaceful\nfashion to raise ATTACK.",
+    "firered-leafgreen": "The user meditates\nto awaken its power\nand raise its\nATTACK stat.",
+    "diamond-pearl": "The user meditates\nto awaken the power\ndeep within its body\nand raise its Attack\nstat.",
+    "platinum": "The user meditates\nto awaken the power\ndeep within its body\nand raise its Attack\nstat.",
+    "heartgold-soulsilver": "The user meditates\nto awaken the power\ndeep within its body\nand raise its Attack\nstat.",
+    "black-white": "The user meditates to awaken the power\ndeep within its body and raise its\nAttack stat.",
+    "black-2-white-2": "The user meditates to awaken the power\ndeep within its body and raise its\nAttack stat.",
+    "x-y": "The user meditates to awaken the power\ndeep within its body and raise its\nAttack stat.",
+    "omega-ruby-alpha-sapphire": "The user meditates to awaken the power\ndeep within its body and raise its\nAttack stat.",
+    "sun-moon": "The user meditates to awaken the power deep\nwithin its body and raise its Attack stat.",
+    "ultra-sun-ultra-moon": "The user meditates to awaken the power deep\nwithin its body and raise its Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user meditates to awaken the power deep\nwithin its body and raise its Attack stat.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Raises the user's Attack by one stage.",
+    "shortEffect": "Raises the user's Attack by one stage."
+  },
+  "priority": 0
+}

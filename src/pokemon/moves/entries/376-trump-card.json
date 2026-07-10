@@ -1,0 +1,42 @@
+{
+  "_id": 376,
+  "key": "trump-card",
+  "name": {
+    "english": "Trump Card",
+    "japanese": "きりふだ",
+    "chinese": "王牌",
+    "korean": "마지막수단",
+    "german": "As Oculto",
+    "french": "Trumpfkarte",
+    "italian": "Trump Card",
+    "spanish": "Asso"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-2-white-2": "The fewer PP this move has, the greater\nits attack power.",
+    "diamond-pearl": "The fewer PP this\nmove has, the more\npower it has for\nattack.\n",
+    "platinum": "The fewer PP this\nmove has, the more\npower it has for\nattack.\n",
+    "heartgold-soulsilver": "The fewer PP this\nmove has, the more\npower it has for\nattack.\n",
+    "black-white": "The fewer PP this move has, the greater\nits attack power.",
+    "x-y": "The fewer PP this move has,\nthe greater its power.",
+    "omega-ruby-alpha-sapphire": "The fewer PP this move has,\nthe greater its power.",
+    "sun-moon": "The fewer PP this move has, the greater its power.",
+    "ultra-sun-ultra-moon": "The fewer PP this move has, the greater its power.",
+    "lets-go-pikachu-lets-go-eevee": "The fewer PP this move has, the greater its power.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power is determined by the PP remaining for this move, after its PP cost is deducted.  Ignores accuracy and evasion modifiers.\n\nPP remaining | Power\n------------ | ----:\n4 or more    |    40\n3            |    50\n2            |    60\n1            |    80\n0            |   200\n\nIf this move is activated by another move, the activating move's PP is used to calculate power.",
+    "shortEffect": "Power increases when this move has less PP, up to a maximum of 200."
+  },
+  "priority": 0
+}

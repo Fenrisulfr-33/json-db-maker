@@ -1,0 +1,47 @@
+{
+  "_id": 125,
+  "key": "bone-club",
+  "name": {
+    "english": "Bone Club",
+    "japanese": "ホネこんぼう",
+    "chinese": "骨棒",
+    "korean": "뼈다귀치기",
+    "german": "Hueso Palo",
+    "french": "Knochenkeule",
+    "italian": "Bone Club",
+    "spanish": "Ossoclava"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 65,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause flinching.",
+    "crystal": "An attack that may\ncause flinching.",
+    "ruby-sapphire": "Clubs the foe with a bone.\nMay cause flinching.",
+    "emerald": "Clubs the foe with a bone.\nMay cause flinching.",
+    "firered-leafgreen": "The foe is clubbed\nwith a bone held in\nhand. It may make\nthe foe flinch.",
+    "diamond-pearl": "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n",
+    "platinum": "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n",
+    "heartgold-soulsilver": "The user clubs the\nfoe with a bone.\nIt may also make the\ntarget flinch.\n",
+    "black-white": "The user clubs the target with a bone.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user clubs the target with a bone.\nIt may also make the target flinch.",
+    "x-y": "The user clubs the target with a bone.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user clubs the target with a bone.\nThis may also make the target flinch.",
+    "sun-moon": "The user clubs the target with a bone. This may also\nmake the target flinch.",
+    "ultra-sun-ultra-moon": "The user clubs the target with a bone. This may also\nmake the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user clubs the target with a bone. This may also\nmake the target flinch.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

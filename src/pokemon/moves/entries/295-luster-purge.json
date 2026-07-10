@@ -1,0 +1,45 @@
+{
+  "_id": 295,
+  "key": "luster-purge",
+  "name": {
+    "english": "Luster Purge",
+    "japanese": "ラスターパージ",
+    "chinese": "洁净光泽",
+    "korean": "라스트버지",
+    "german": "Resplandor",
+    "french": "Scheinwerfer",
+    "italian": "Luster Purge",
+    "spanish": "Abbagliante"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 5,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks with a burst of\nlight. May lower SP. DEF.",
+    "emerald": "Attacks with a burst of\nlight. May lower SP. DEF.",
+    "firered-leafgreen": "A burst of light\ninjures the foe. It\nmay also lower the\nfoe’s SP. DEF.",
+    "diamond-pearl": "The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat.",
+    "platinum": "The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat.",
+    "heartgold-soulsilver": "The user looses a\ndamaging burst of\nlight. It may also\nreduce the target’s\nSp. Def stat.",
+    "black-white": "The user lets loose a damaging burst\nof light. It may also reduce the target’s\nSp. Def stat.",
+    "black-2-white-2": "The user lets loose a damaging burst\nof light. It may also reduce the target’s\nSp. Def stat.",
+    "x-y": "The user lets loose a damaging burst\nof light. This may also lower the target’s\nSp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user lets loose a damaging burst\nof light. This may also lower the target’s\nSp. Def stat.",
+    "sun-moon": "The user lets loose a damaging burst of light. This\nmay also lower the target’s Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The user lets loose a damaging burst of light. This\nmay also lower the target’s Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user lets loose a damaging burst of light. This\nmay also lower the target’s Sp. Def stat.",
+    "sword-shield": "The user lets loose a damaging burst of light. This\nmay also lower the target’s Sp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

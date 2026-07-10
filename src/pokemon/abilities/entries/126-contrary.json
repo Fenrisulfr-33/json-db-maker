@@ -1,0 +1,64 @@
+{
+  "_id": 126,
+  "key": "contrary",
+  "name": {
+    "english": "Contrary"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Inverts stat changes.",
+    "full": "Whenever this Pokémon's stats would be raised, they are instead lowered by the same amount, and vice versa."
+  },
+  "description": {
+    "black-white": "Makes stat changes have an opposite effect.",
+    "black-2-white-2": "Makes stat changes have an opposite effect.",
+    "x-y": "Makes stat changes have an opposite effect.",
+    "omega-ruby-alpha-sapphire": "Makes stat changes have an opposite effect.",
+    "sun-moon": "Makes stat changes have an opposite effect.",
+    "ultra-sun-ultra-moon": "Makes stat changes have an opposite effect.",
+    "lets-go-pikachu-lets-go-eevee": "Makes stat changes have an opposite effect.",
+    "sword-shield": "Makes stat changes have an opposite effect."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Inkay",
+        "id": 686
+      },
+      {
+        "name": "Malamar",
+        "id": 687
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Shuckle",
+        "id": 213
+      },
+      {
+        "name": "Spinda",
+        "id": 327
+      },
+      {
+        "name": "Snivy",
+        "id": 495
+      },
+      {
+        "name": "Servine",
+        "id": 496
+      },
+      {
+        "name": "Serperior",
+        "id": 497
+      },
+      {
+        "name": "Fomantis",
+        "id": 753
+      },
+      {
+        "name": "Lurantis",
+        "id": 754
+      }
+    ]
+  }
+}

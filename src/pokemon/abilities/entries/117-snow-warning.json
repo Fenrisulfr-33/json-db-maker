@@ -1,0 +1,51 @@
+{
+  "_id": 117,
+  "key": "snow-warning",
+  "name": {
+    "english": "Snow Warning"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Summons hail that lasts indefinitely upon entering battle.",
+    "full": "The weather changes to hail when this Pokémon enters battle and does not end unless cancelled by another weather condition. If multiple Pokémon with this ability, drizzle, drought, or sand stream are sent out at the same time, the abilities will activate in order of Speed, respecting trick room. Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokémon will stay."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon summons a hailstorm in battle.",
+    "platinum": "The Pokémon summons a hailstorm in battle.",
+    "heartgold-soulsilver": "The Pokémon summons a hailstorm in battle.",
+    "black-white": "The Pokémon summons a hailstorm in battle.",
+    "black-2-white-2": "The Pokémon summons a hailstorm in battle.",
+    "x-y": "The Pokémon summons a hailstorm when it enters a battle.",
+    "omega-ruby-alpha-sapphire": "The Pokémon summons a hailstorm when it enters a battle.",
+    "sun-moon": "The Pokémon summons a hailstorm when it enters a battle.",
+    "ultra-sun-ultra-moon": "The Pokémon summons a hailstorm when it enters a battle.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon summons a hailstorm when it enters a battle.",
+    "sword-shield": "The Pokémon summons a hailstorm when it enters a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Snover",
+        "id": 459
+      },
+      {
+        "name": "Abomasnow",
+        "id": 460
+      },
+      {
+        "name": "Vanilluxe",
+        "id": 584
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Amaura",
+        "id": 698
+      },
+      {
+        "name": "Aurorus",
+        "id": 699
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 388,
+  "key": "worry-seed",
+  "name": {
+    "english": "Worry Seed",
+    "japanese": "なやみのタネ",
+    "chinese": "烦恼种子",
+    "korean": "고민씨",
+    "german": "Abatidoras",
+    "french": "Sorgensamen",
+    "italian": "Worry Seed",
+    "spanish": "Affannoseme"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.",
+    "platinum": "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.",
+    "heartgold-soulsilver": "A seed that causes\nworry is planted on\nthe foe. It prevents\nsleep by making its\nability Insomnia.",
+    "black-white": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nits Ability Insomnia.",
+    "black-2-white-2": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nits Ability Insomnia.",
+    "x-y": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nthe target’s Ability Insomnia.",
+    "omega-ruby-alpha-sapphire": "A seed that causes worry is planted on\nthe target. It prevents sleep by making\nthe target’s Ability Insomnia.",
+    "sun-moon": "A seed that causes worry is planted on the target.\nIt prevents sleep by making the target’s\nAbility Insomnia.",
+    "ultra-sun-ultra-moon": "A seed that causes worry is planted on the target.\nIt prevents sleep by making the target’s\nAbility Insomnia.",
+    "lets-go-pikachu-lets-go-eevee": "A seed that causes worry is planted on the target.\nIt prevents sleep by making the target’s\nAbility Insomnia.",
+    "sword-shield": "A seed that causes worry is planted on the target.\nIt prevents sleep by making the target’s\nAbility Insomnia."
+  },
+  "effect": {
+    "full": "Changes the target's ability to insomnia.\n\nIf the target's ability is truant or multitype, this move will fail.",
+    "shortEffect": "Changes the target's ability to Insomnia."
+  },
+  "priority": 0
+}

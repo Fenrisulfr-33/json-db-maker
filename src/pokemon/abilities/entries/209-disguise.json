@@ -1,0 +1,22 @@
+{
+  "_id": 209,
+  "key": "disguise",
+  "name": {
+    "english": "Disguise"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Prevents the first instance of battle damage.",
+    "full": "If this Pokémon is in its Disguised Form and takes damage from a move, it switches to its Busted Form and the damage is prevented. Other effects are not prevented. This ability cannot be copied or replaced. This ability only takes effect for Mimikyu."
+  },
+  "description": {
+    "sun-moon": "Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
+    "ultra-sun-ultra-moon": "Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
+    "lets-go-pikachu-lets-go-eevee": "Once per battle, the shroud that covers the Pokémon can protect it from an attack.",
+    "sword-shield": "Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

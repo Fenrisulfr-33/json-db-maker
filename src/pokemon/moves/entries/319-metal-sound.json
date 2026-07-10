@@ -1,0 +1,45 @@
+{
+  "_id": 319,
+  "key": "metal-sound",
+  "name": {
+    "english": "Metal Sound",
+    "japanese": "きんぞくおん",
+    "chinese": "金属音",
+    "korean": "금속음",
+    "german": "Eco Metálico",
+    "french": "Metallsound",
+    "italian": "Metal Sound",
+    "spanish": "Ferrostrido"
+  },
+  "type": "Steel",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 40,
+  "power": null,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Emits a horrible screech\nthat sharply lowers SP. DEF.",
+    "emerald": "Emits a horrible screech\nthat sharply lowers SP. DEF.",
+    "firered-leafgreen": "A horrible metallic\nscreech is used to\nsharply lower the\nfoe’s SP. DEF.",
+    "diamond-pearl": "A horrible sound like\nscraping metal is\nemitted to sharply\nreduce the foe’s\nSp. Def stat.",
+    "platinum": "A horrible sound like\nscraping metal is\nemitted to sharply\nreduce the foe’s\nSp. Def stat.",
+    "heartgold-soulsilver": "A horrible sound like\nscraping metal is\nemitted to sharply\nreduce the foe’s\nSp. Def stat.",
+    "black-white": "A horrible sound like scraping metal\nharshly reduces the target’s\nSp. Def stat.",
+    "black-2-white-2": "A horrible sound like scraping metal\nharshly reduces the target’s\nSp. Def stat.",
+    "x-y": "A horrible sound like scraping metal\nharshly lowers the target’s\nSp. Def stat.",
+    "omega-ruby-alpha-sapphire": "A horrible sound like scraping metal\nharshly lowers the target’s\nSp. Def stat.",
+    "sun-moon": "A horrible sound like scraping metal harshly lowers\nthe target’s Sp. Def stat.",
+    "ultra-sun-ultra-moon": "A horrible sound like scraping metal harshly lowers\nthe target’s Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "A horrible sound like scraping metal harshly lowers\nthe target’s Sp. Def stat.",
+    "sword-shield": "A horrible sound like scraping metal harshly lowers\nthe target’s Sp. Def stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Special Defense by two stages.",
+    "shortEffect": "Lowers the target's Special Defense by two stages."
+  },
+  "priority": 0
+}

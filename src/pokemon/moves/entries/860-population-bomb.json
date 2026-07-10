@@ -1,0 +1,17 @@
+{
+  "_id": 860,
+  "key": "population-bomb",
+  "name": {
+    "english": "Population Bomb"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 20,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

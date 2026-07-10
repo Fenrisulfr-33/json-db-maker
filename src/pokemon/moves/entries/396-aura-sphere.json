@@ -1,0 +1,42 @@
+{
+  "_id": 396,
+  "key": "aura-sphere",
+  "name": {
+    "english": "Aura Sphere",
+    "japanese": "はどうだん",
+    "chinese": "波导弹",
+    "korean": "파동탄",
+    "german": "Esfera Aural",
+    "french": "Aurasphäre",
+    "italian": "Aura Sphere",
+    "spanish": "Forzasfera"
+  },
+  "type": "Fighting",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 80,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.",
+    "platinum": "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.",
+    "heartgold-soulsilver": "The user looses a\nblast of aura power\nfrom deep within its\nbody. This move is\ncertain to hit.",
+    "black-white": "The user looses a blast of aura power\nfrom deep within its body at the target.\nThis move is certain to hit.",
+    "black-2-white-2": "The user looses a blast of aura power\nfrom deep within its body at the target.\nThis move is certain to hit.",
+    "x-y": "The user lets loose a blast of aura power\nfrom deep within its body at the target.\nThis attack never misses.",
+    "omega-ruby-alpha-sapphire": "The user lets loose a blast of aura power\nfrom deep within its body at the target.\nThis attack never misses.",
+    "sun-moon": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.",
+    "ultra-sun-ultra-moon": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.",
+    "lets-go-pikachu-lets-go-eevee": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses.",
+    "sword-shield": "The user lets loose a blast of aura power from deep\nwithin its body at the target. This attack\nnever misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

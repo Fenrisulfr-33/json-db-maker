@@ -1,0 +1,17 @@
+{
+  "_id": 870,
+  "key": "flower-trick",
+  "name": {
+    "english": "Flower Trick"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 70,
+  "accuracy": null,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

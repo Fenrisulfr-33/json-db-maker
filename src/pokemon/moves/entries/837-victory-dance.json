@@ -1,0 +1,17 @@
+{
+  "_id": 837,
+  "key": "victory-dance",
+  "name": {
+    "english": "Victory Dance"
+  },
+  "type": "Fighting",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": 0,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 8,
+  "target": "User",
+  "changes": []
+}

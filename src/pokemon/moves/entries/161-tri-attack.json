@@ -1,0 +1,47 @@
+{
+  "_id": 161,
+  "key": "tri-attack",
+  "name": {
+    "english": "Tri Attack",
+    "japanese": "トライアタック",
+    "chinese": "三角攻击",
+    "korean": "트라이어택",
+    "german": "Triataque",
+    "french": "Triplette",
+    "italian": "Tri Attack",
+    "spanish": "Tripletta"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Fires three kinds\nof beams at once.",
+    "crystal": "Fires three kinds\nof beams at once.",
+    "ruby-sapphire": "Fires three types of beams\nat the same time.",
+    "emerald": "Fires three types of beams\nat the same time.",
+    "firered-leafgreen": "A simultaneous\n3-beam attack that\nmay paralyze, burn,\nor freeze the foe.",
+    "diamond-pearl": "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.",
+    "platinum": "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.",
+    "heartgold-soulsilver": "The user strikes with\na simultaneous three-\nbeam attack. May also\nparalyze, burn, or\nfreeze the target.",
+    "black-white": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+    "black-2-white-2": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+    "x-y": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.",
+    "sun-moon": "The user strikes with a simultaneous three-beam\nattack. May also burn, freeze, or paralyze the target.",
+    "ultra-sun-ultra-moon": "The user strikes with a simultaneous three-beam\nattack. May also burn, freeze, or paralyze the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes with a simultaneous three-beam attack.\nThis may also burn, freeze, or paralyze the target.",
+    "sword-shield": "The user strikes with a simultaneous three-beam attack.\nThis may also burn, freeze, or paralyze the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn, freeze, or paralyze the target.  One of these effects is selected at random; they do not each have independent chances to occur.",
+    "shortEffect": "Has a $effect_chance% chance to burn, freeze, or paralyze the target."
+  },
+  "priority": 0
+}

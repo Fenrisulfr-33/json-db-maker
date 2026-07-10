@@ -1,0 +1,17 @@
+{
+  "_id": 847,
+  "key": "wildbolt-storm",
+  "name": {
+    "english": "Wildbolt Storm"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 8,
+  "target": "All-opponents",
+  "changes": []
+}

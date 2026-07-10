@@ -1,0 +1,39 @@
+{
+  "_id": 503,
+  "key": "scald",
+  "name": {
+    "english": "Scald",
+    "japanese": "ねっとう",
+    "chinese": "热水",
+    "korean": "열탕",
+    "german": "Escaldar",
+    "french": "Siedewasser",
+    "italian": "Scald",
+    "spanish": "Idrovampata"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user shoots boiling hot water at\nits target. It may also leave the target\nwith a burn.",
+    "black-2-white-2": "The user shoots boiling hot water at\nits target. It may also leave the target\nwith a burn.",
+    "x-y": "The user shoots boiling hot water at\nits target. This may also leave the target\nwith a burn.",
+    "omega-ruby-alpha-sapphire": "The user shoots boiling hot water at\nits target. This may also leave the target\nwith a burn.",
+    "sun-moon": "The user shoots boiling hot water at its target.\nThis may also leave the target with a burn.",
+    "ultra-sun-ultra-moon": "The user shoots boiling hot water at its target.\nThis may also leave the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user shoots boiling hot water at its target.\nThis may also leave the target with a burn.",
+    "sword-shield": "The user shoots boiling hot water at its target.\nThis may also leave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

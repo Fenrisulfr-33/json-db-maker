@@ -1,0 +1,16 @@
+{
+  "_id": 250,
+  "key": "mimicry",
+  "name": {
+    "english": "Mimicry"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Changes the Pokémon’s type depending on the terrain."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

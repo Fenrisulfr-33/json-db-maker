@@ -1,0 +1,23 @@
+{
+    "_id": 41,
+    "evoLine": [
+      [
+        {
+          "id": 98,
+          "name": "Krabby",
+          "type": {
+            "one": "Water"
+          }
+        },
+        {
+          "id": 99,
+          "name": "Kingler",
+          "type": {
+            "one": "Water"
+          },
+          "how": "Level 28"
+        }
+      ]
+    ]
+  }
+  

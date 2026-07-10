@@ -1,0 +1,42 @@
+{
+  "_id": 402,
+  "key": "seed-bomb",
+  "name": {
+    "english": "Seed Bomb",
+    "japanese": "タネばくだん",
+    "chinese": "种子爆弹",
+    "korean": "씨폭탄",
+    "german": "Bomba Germen",
+    "french": "Samenbomben",
+    "italian": "Seed Bomb",
+    "spanish": "Semebomba"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user slams a\nbarrage of hard-\nshelled seeds\ndown on the foe\nfrom above.",
+    "platinum": "The user slams a\nbarrage of hard-\nshelled seeds\ndown on the foe\nfrom above.",
+    "heartgold-soulsilver": "The user slams a\nbarrage of hard-\nshelled seeds\ndown on the foe\nfrom above.",
+    "black-white": "The user slams a barrage of hard-shelled\nseeds down on the target from above.",
+    "black-2-white-2": "The user slams a barrage of hard-shelled\nseeds down on the target from above.",
+    "x-y": "The user slams a barrage of hard-shelled\nseeds down on the target from above.",
+    "omega-ruby-alpha-sapphire": "The user slams a barrage of hard-shelled\nseeds down on the target from above.",
+    "sun-moon": "The user slams a barrage of hard-shelled seeds\ndown on the target from above.",
+    "ultra-sun-ultra-moon": "The user slams a barrage of hard-shelled seeds\ndown on the target from above.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams a barrage of hard-shelled seeds\ndown on the target from above.",
+    "sword-shield": "The user slams a barrage of hard-shelled seeds\ndown on the target from above."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

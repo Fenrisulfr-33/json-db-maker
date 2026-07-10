@@ -1,0 +1,47 @@
+{
+  "_id": 41,
+  "key": "twineedle",
+  "name": {
+    "english": "Twineedle",
+    "japanese": "ダブルニードル",
+    "chinese": "双针",
+    "korean": "더블니들",
+    "german": "Doble Ataque",
+    "french": "Duonadel",
+    "italian": "Twineedle",
+    "spanish": "Doppio Ago"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 25,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Jabs the foe twice\nusing stingers.",
+    "crystal": "Jabs the foe twice\nusing stingers.",
+    "ruby-sapphire": "Stingers on the forelegs\njab the foe twice.",
+    "emerald": "Stingers on the forelegs\njab the foe twice.",
+    "firered-leafgreen": "The foe is stabbed\ntwice with foreleg\nstingers. It may\npoison the foe.",
+    "diamond-pearl": "The foe is stabbed\ntwice by a pair of\nstingers.\nIt may also poison\nthe target.",
+    "platinum": "The foe is stabbed\ntwice by a pair of\nstingers.\nIt may also poison\nthe target.",
+    "heartgold-soulsilver": "The foe is stabbed\ntwice by a pair of\nstingers.\nIt may also poison\nthe target.",
+    "black-white": "The user damages the target twice in\nsuccession by jabbing it with two spikes.\nIt may also poison the target.",
+    "black-2-white-2": "The user damages the target twice in\nsuccession by jabbing it with two spikes.\nIt may also poison the target.",
+    "x-y": "The user damages the target twice in\nsuccession by jabbing it with two spikes.\nThis may also poison the target.",
+    "omega-ruby-alpha-sapphire": "The user damages the target twice in\nsuccession by jabbing it with two spikes.\nThis may also poison the target.",
+    "sun-moon": "The user damages the target twice in succession\nby jabbing it with two spikes. This may also poison\nthe target.",
+    "ultra-sun-ultra-moon": "The user damages the target twice in succession\nby jabbing it with two spikes. This may also poison\nthe target.",
+    "lets-go-pikachu-lets-go-eevee": "The user damages the target twice in succession\nby jabbing it with two spikes. This may also poison\nthe target.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits twice in the same turn.  Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Hits twice in the same turn.  Has a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

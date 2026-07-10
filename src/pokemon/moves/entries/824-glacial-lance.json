@@ -1,0 +1,32 @@
+{
+  "_id": 824,
+  "key": "glacial-lance",
+  "name": {
+    "english": "Glacial Lance",
+    "japanese": "ブリザードランス",
+    "chinese": "雪矛",
+    "korean": "블리자드랜스",
+    "german": "Lanza Glacial",
+    "french": "Blizzardlanze",
+    "italian": "Glacial Lance",
+    "spanish": "Lancia Glaciale"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 130,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks by hurling a blizzard-cloaked\nicicle lance at opposing Pokémon."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

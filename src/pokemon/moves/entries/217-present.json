@@ -1,0 +1,47 @@
+{
+  "_id": 217,
+  "key": "present",
+  "name": {
+    "english": "Present",
+    "japanese": "プレゼント",
+    "chinese": "礼物",
+    "korean": "프레젠트",
+    "german": "Presente",
+    "french": "Geschenk",
+    "italian": "Present",
+    "spanish": "Regalino"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A bomb that may\nrestore HP.",
+    "crystal": "A bomb that may\nrestore HP.",
+    "ruby-sapphire": "A gift in the form of a\nbomb. May restore HP.",
+    "emerald": "A gift in the form of a\nbomb. May restore HP.",
+    "firered-leafgreen": "The foe is given a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.",
+    "diamond-pearl": "The user attacks by\ngiving the foe a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.",
+    "platinum": "The user attacks by\ngiving the foe a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.",
+    "heartgold-soulsilver": "The user attacks by\ngiving the foe a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.",
+    "black-white": "The user attacks by giving the target a\ngift with a hidden trap. It restores\nHP sometimes, however.",
+    "black-2-white-2": "The user attacks by giving the target a\ngift with a hidden trap. It restores\nHP sometimes, however.",
+    "x-y": "The user attacks by giving the target a\ngift with a hidden trap. It restores\nHP sometimes, however.",
+    "omega-ruby-alpha-sapphire": "The user attacks by giving the target a\ngift with a hidden trap. It restores\nHP sometimes, however.",
+    "sun-moon": "The user attacks by giving the target a gift with a\nhidden trap. It restores HP sometimes, however.",
+    "ultra-sun-ultra-moon": "The user attacks by giving the target a gift with a\nhidden trap. It restores HP sometimes, however.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by giving the target a gift with a\nhidden trap. It restores HP sometimes, however.",
+    "sword-shield": "The user attacks by giving the target a gift with a\nhidden trap. It restores HP sometimes, however."
+  },
+  "effect": {
+    "full": "Randomly uses one of the following effects.\n\nEffect                                             | Chance\n-------------------------------------------------- | -----:\nInflicts regular damage with 40 power  |    40%\nInflicts regular damage with 80 power  |    30%\nInflicts regular damage with 120 power |    10%\nHeals the target for 1/4 its max HP    |    20%\n\nOn average, this move inflicts regular damage with 52 power and heals the target for 1/20 its max HP.",
+    "shortEffect": "Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP."
+  },
+  "priority": 0
+}

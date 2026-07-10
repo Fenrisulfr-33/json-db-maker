@@ -1,0 +1,37 @@
+{
+  "_id": 607,
+  "key": "hold-hands",
+  "name": {
+    "english": "Hold Hands",
+    "japanese": "てをつなぐ",
+    "chinese": "牽手",
+    "korean": "손에손잡기",
+    "german": "Manos Juntas",
+    "french": "Händchenhalten",
+    "italian": "Hold Hands",
+    "spanish": "Mano nella Mano"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 40,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 6,
+  "target": "ally",
+  "changes": [],
+  "description": {
+    "x-y": "The user and an ally hold hands.\nThis makes them very happy.",
+    "omega-ruby-alpha-sapphire": "The user and an ally hold hands.\nThis makes them very happy.",
+    "sun-moon": "The user and an ally hold hands. This makes them\nvery happy.",
+    "ultra-sun-ultra-moon": "The user and an ally hold hands. This makes them\nvery happy.",
+    "lets-go-pikachu-lets-go-eevee": "The user and an ally hold hands. This makes them\nvery happy.",
+    "sword-shield": "The user and an ally hold hands. This makes them\nvery happy."
+  },
+  "effect": {
+    "full": "Does nothing.",
+    "shortEffect": "Does nothing."
+  },
+  "priority": 0
+}

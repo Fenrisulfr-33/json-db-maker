@@ -1,0 +1,24 @@
+{
+    "_id": 297,
+    "evoLine": [
+      [
+        {
+          "id": 83.1,
+          "name": "Farfetch'd",
+          "form": "Galarian Farfetch'd",
+          "type": {
+            "one": "Fighting"
+          }
+        },
+        {
+          "id": 865,
+          "name": "Sirfetch'd",
+          "type": {
+            "one": "Fighting"
+          },
+          "how": "achieve 3 critical hits in one battle"
+        }
+      ]
+    ]
+  }
+  

@@ -1,0 +1,124 @@
+{
+  "_id": 151,
+  "key": "infiltrator",
+  "name": {
+    "english": "Infiltrator"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Bypasses light screen, reflect, and safeguard.",
+    "full": "This Pokémon's moves ignore light screen, reflect, and safeguard."
+  },
+  "description": {
+    "black-white": "Passes through the foe’s barrier and strikes.",
+    "black-2-white-2": "Passes through the foe’s barrier and strikes.",
+    "x-y": "Passes through the opposing Pokémon’s barrier and strikes.",
+    "omega-ruby-alpha-sapphire": "Passes through the opposing Pokémon’s barrier and strikes.",
+    "sun-moon": "Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes.",
+    "ultra-sun-ultra-moon": "Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes.",
+    "lets-go-pikachu-lets-go-eevee": "Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes.",
+    "sword-shield": "Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Cottonee",
+        "id": 546
+      },
+      {
+        "name": "Whimsicott",
+        "id": 547
+      },
+      {
+        "name": "Espurr",
+        "id": 677
+      },
+      {
+        "name": "Noibat",
+        "id": 714
+      },
+      {
+        "name": "Noivern",
+        "id": 715
+      },
+      {
+        "name": "Dreepy",
+        "id": 885
+      },
+      {
+        "name": "Drakloak",
+        "id": 886
+      },
+      {
+        "name": "Dragapult",
+        "id": 887
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Zubat",
+        "id": 41
+      },
+      {
+        "name": "Golbat",
+        "id": 42
+      },
+      {
+        "name": "Crobat",
+        "id": 169
+      },
+      {
+        "name": "Hoppip",
+        "id": 187
+      },
+      {
+        "name": "Skiploom",
+        "id": 188
+      },
+      {
+        "name": "Jumpluff",
+        "id": 189
+      },
+      {
+        "name": "Ninjask",
+        "id": 291
+      },
+      {
+        "name": "Seviper",
+        "id": 336
+      },
+      {
+        "name": "Spiritomb",
+        "id": 442
+      },
+      {
+        "name": "Litwick",
+        "id": 607
+      },
+      {
+        "name": "Lampent",
+        "id": 608
+      },
+      {
+        "name": "Chandelure",
+        "id": 609
+      },
+      {
+        "name": "Inkay",
+        "id": 686
+      },
+      {
+        "name": "Malamar",
+        "id": 687
+      },
+      {
+        "name": "Bramblin",
+        "id": 946
+      },
+      {
+        "name": "Brambleghast",
+        "id": 947
+      }
+    ]
+  }
+}

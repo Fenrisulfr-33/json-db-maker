@@ -1,0 +1,42 @@
+{
+  "_id": 377,
+  "key": "heal-block",
+  "name": {
+    "english": "Heal Block",
+    "japanese": "かいふくふうじ",
+    "chinese": "回复阻挡",
+    "korean": "회복봉인",
+    "german": "Anticura",
+    "french": "Heilblockade",
+    "italian": "Heal Block",
+    "spanish": "Anticura"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user prevents\nthe foe from using\nany HP-recovery\nmoves for five turns.\n",
+    "platinum": "The user prevents\nthe foe from using\nany HP-recovery\nmoves for five turns.\n",
+    "heartgold-soulsilver": "The user prevents\nthe foe from using\nany HP-recovery\nmoves for five turns.\n",
+    "black-white": "For five turns, the user prevents the\nopposing team from using any moves,\nAbilities, or held items that recover HP.",
+    "black-2-white-2": "For five turns, the user prevents the\nopposing team from using any moves,\nAbilities, or held items that recover HP.",
+    "x-y": "For five turns, the user prevents the\nopposing team from using any moves,\nAbilities, or held items that recover HP.",
+    "omega-ruby-alpha-sapphire": "For five turns, the user prevents the\nopposing team from using any moves,\nAbilities, or held items that recover HP.",
+    "sun-moon": "For five turns, the user prevents the opposing team\nfrom using any moves, Abilities, or held items that\nrecover HP.",
+    "ultra-sun-ultra-moon": "For five turns, the user prevents the opposing team\nfrom using any moves, Abilities, or held items that\nrecover HP.",
+    "lets-go-pikachu-lets-go-eevee": "For five turns, the user prevents the opposing team\nfrom using any moves, Abilities, or held items that\nrecover HP.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "For the next five turns, the target may not use any moves that only restore HP, and move effects that heal the target are disabled.  Moves that steal HP may still be used, but will only inflict damage and not heal the target.",
+    "shortEffect": "Prevents target from restoring its HP for five turns."
+  },
+  "priority": 0
+}

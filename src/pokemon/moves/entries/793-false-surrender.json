@@ -1,0 +1,32 @@
+{
+  "_id": 793,
+  "key": "false-surrender",
+  "name": {
+    "english": "False Surrender",
+    "japanese": "どげざつき",
+    "chinese": "假跪真撞",
+    "korean": "사죄의찌르기",
+    "german": "Irreverencia",
+    "french": "Kniefalltrick",
+    "italian": "False Surrender",
+    "spanish": "Supplicolpo"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": null,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user pretends to bow its head, but then it stabs the\ntarget with its disheveled hair. This attack never misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

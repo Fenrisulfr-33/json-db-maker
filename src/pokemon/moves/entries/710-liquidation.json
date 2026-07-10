@@ -1,0 +1,35 @@
+{
+  "_id": 710,
+  "key": "liquidation",
+  "name": {
+    "english": "Liquidation",
+    "japanese": "アクアブレイク",
+    "chinese": "水流裂破",
+    "korean": "아쿠아브레이크",
+    "german": "Hidroariete",
+    "french": "Aquadurchstoß",
+    "italian": "Liquidation",
+    "spanish": "Idrobreccia"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 85,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user slams into the target using a full-force\nblast of water. This may also lower the target’s\nDefense stat.",
+    "ultra-sun-ultra-moon": "The user slams into the target using a full-force\nblast of water. This may also lower the target’s\nDefense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams into the target using a full-force\nblast of water. This may also lower the target’s\nDefense stat.",
+    "sword-shield": "The user slams into the target using a full-force\nblast of water. This may also lower the target’s\nDefense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
+  },
+  "priority": 0
+}

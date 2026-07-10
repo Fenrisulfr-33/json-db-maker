@@ -1,0 +1,39 @@
+{
+  "_id": 556,
+  "key": "icicle-crash",
+  "name": {
+    "english": "Icicle Crash",
+    "japanese": "つららおとし",
+    "chinese": "掉落冰柱",
+    "korean": "고드름떨구기",
+    "german": "Chuzos",
+    "french": "Eiszapfhagel",
+    "italian": "Icicle Crash",
+    "spanish": "Scagliagelo"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 85,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by harshly dropping\nan icicle onto the target.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user attacks by harshly dropping\nan icicle onto the target.\nIt may also make the target flinch.",
+    "x-y": "The user attacks by harshly dropping\nlarge icicles onto the target.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user attacks by harshly dropping\nlarge icicles onto the target.\nThis may also make the target flinch.",
+    "sun-moon": "The user attacks by harshly dropping large icicles\nonto the target. This may also make the target flinch.",
+    "ultra-sun-ultra-moon": "The user attacks by harshly dropping large icicles\nonto the target. This may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by harshly dropping large icicles\nonto the target. This may also make the target flinch.",
+    "sword-shield": "The user attacks by harshly dropping large icicles\nonto the target. This may also make the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

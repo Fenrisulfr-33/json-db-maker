@@ -1,0 +1,47 @@
+{
+  "_id": 27,
+  "key": "rolling-kick",
+  "name": {
+    "english": "Rolling Kick",
+    "japanese": "まわしげり",
+    "chinese": "旋风腿",
+    "korean": "돌려차기",
+    "german": "Patada Giro",
+    "french": "Fegekick",
+    "italian": "Rolling Kick",
+    "spanish": "Calciorullo"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 60,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A fast, spinning\nkick.",
+    "crystal": "A fast, spinning\nkick.",
+    "ruby-sapphire": "A fast kick delivered from\na rapid spin.",
+    "emerald": "A fast kick delivered from\na rapid spin.",
+    "firered-leafgreen": "A quick kick from a\nrolling spin.\nIt may make the\nfoe flinch.",
+    "diamond-pearl": "The user cuts a\nquick spin and lashes\nout with a sharp\nkick.\n",
+    "platinum": "The user cuts a\nquick spin and lashes\nout with a sharp\nkick.\n",
+    "heartgold-soulsilver": "The user lashes \nout with a quick,\nspinning kick. It\nmay also make the\ntarget flinch.",
+    "black-white": "The user lashes out with a quick, spinning\nkick. It may also make the target flinch.",
+    "black-2-white-2": "The user lashes out with a quick, spinning\nkick. It may also make the target flinch.",
+    "x-y": "The user lashes out with a quick, spinning\nkick. This may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user lashes out with a quick, spinning\nkick. This may also make the target flinch.",
+    "sun-moon": "The user lashes out with a quick, spinning kick.\nThis may also make the target flinch.",
+    "ultra-sun-ultra-moon": "The user lashes out with a quick, spinning kick.\nThis may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user lashes out with a quick, spinning kick.\nThis may also make the target flinch.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

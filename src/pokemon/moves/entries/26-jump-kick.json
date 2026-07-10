@@ -1,0 +1,47 @@
+{
+  "_id": 26,
+  "key": "jump-kick",
+  "name": {
+    "english": "Jump Kick",
+    "japanese": "とびげり",
+    "chinese": "飞踢",
+    "korean": "점프킥",
+    "german": "Patada Salto",
+    "french": "Sprungkick",
+    "italian": "Jump Kick",
+    "spanish": "Calciosalto"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 130,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A strong jumping kick. May\nmiss and hurt the kicker.",
+    "gold-silver": "May miss, damaging\nthe user.",
+    "crystal": "May miss, damaging\nthe user.",
+    "emerald": "A strong jumping kick. May\nmiss and hurt the kicker.",
+    "firered-leafgreen": "The user jumps up\nhigh, then kicks.\nIf it misses, the\nuser hurts itself.",
+    "diamond-pearl": "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.",
+    "platinum": "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.",
+    "heartgold-soulsilver": "The user jumps up\nhigh, then strikes\nwith a kick. If the\nkick misses, the\nuser hurts itself.",
+    "black-white": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+    "black-2-white-2": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+    "x-y": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+    "omega-ruby-alpha-sapphire": "The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.",
+    "sun-moon": "The user jumps up high, then strikes with a kick.\nIf the kick misses, the user hurts itself.",
+    "ultra-sun-ultra-moon": "The user jumps up high, then strikes with a kick.\nIf the kick misses, the user hurts itself.",
+    "lets-go-pikachu-lets-go-eevee": "The user jumps up high, then strikes with a kick.\nIf the kick misses, the user hurts itself.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.\n\nThis move cannot be used while gravity is in effect.",
+    "shortEffect": "If the user misses, it takes half the damage it would have inflicted in recoil."
+  },
+  "priority": 0
+}

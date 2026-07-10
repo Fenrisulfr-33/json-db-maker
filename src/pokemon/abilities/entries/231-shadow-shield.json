@@ -1,0 +1,27 @@
+{
+  "_id": 231,
+  "key": "shadow-shield",
+  "name": {
+    "english": "Shadow Shield"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "When this Pokémon has full HP, regular damage from moves is halved.",
+    "full": "When this Pokémon has full HP, regular damage (not fixed damage!) from moves is halved. This ability cannot be nullified."
+  },
+  "description": {
+    "sun-moon": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+    "ultra-sun-ultra-moon": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+    "lets-go-pikachu-lets-go-eevee": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+    "sword-shield": "Reduces the amount of damage the Pokémon takes while its HP is full."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Lunala",
+        "id": 792
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "_id": 38,
+    "evoLine": [
+      [
+        {
+          "id": 90,
+          "name": "Shellder",
+          "type": {
+            "one": "Water"
+          }
+        },
+        {
+          "id": 91,
+          "name": "Cloyster",
+          "type": {
+            "one": "Water",
+            "two": "Ice"
+          },
+          "how": "use Water Stone"
+        }
+      ]
+    ]
+  }
+  

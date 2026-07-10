@@ -1,0 +1,45 @@
+{
+  "_id": 345,
+  "key": "magical-leaf",
+  "name": {
+    "english": "Magical Leaf",
+    "japanese": "マジカルリーフ",
+    "chinese": "魔法叶",
+    "korean": "메지컬리프",
+    "german": "Hoja Mágica",
+    "french": "Zauberblatt",
+    "italian": "Magical Leaf",
+    "spanish": "Fogliamagica"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 60,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks with a strange leaf\nthat cannot be evaded.",
+    "emerald": "Attacks with a strange leaf\nthat cannot be evaded.",
+    "firered-leafgreen": "The foe is attacked\nwith a strange leaf\nthat cannot be\nevaded.",
+    "diamond-pearl": "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.",
+    "platinum": "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.",
+    "heartgold-soulsilver": "The user scatters\ncurious leaves that\nchase the foe.\nThis attack will not\nmiss.",
+    "black-white": "The user scatters curious leaves\nthat chase the target.\nThis attack will not miss.",
+    "black-2-white-2": "The user scatters curious leaves\nthat chase the target.\nThis attack will not miss.",
+    "x-y": "The user scatters curious leaves\nthat chase the target.\nThis attack never misses.",
+    "omega-ruby-alpha-sapphire": "The user scatters curious leaves\nthat chase the target.\nThis attack never misses.",
+    "sun-moon": "The user scatters curious leaves that chase the\ntarget. This attack never misses.",
+    "ultra-sun-ultra-moon": "The user scatters curious leaves that chase the\ntarget. This attack never misses.",
+    "lets-go-pikachu-lets-go-eevee": "The user scatters curious leaves that chase the\ntarget. This attack never misses.",
+    "sword-shield": "The user scatters curious leaves that chase the\ntarget. This attack never misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

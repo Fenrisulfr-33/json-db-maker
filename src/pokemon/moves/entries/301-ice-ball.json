@@ -1,0 +1,45 @@
+{
+  "_id": 301,
+  "key": "ice-ball",
+  "name": {
+    "english": "Ice Ball",
+    "japanese": "アイスボール",
+    "chinese": "冰球",
+    "korean": "아이스볼",
+    "german": "Bola Hielo",
+    "french": "Frostbeule",
+    "italian": "Ice Ball",
+    "spanish": "Palla Gelo"
+  },
+  "type": "Ice",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 30,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A 5-turn attack that gains\npower on successive hits.",
+    "emerald": "A 5-turn attack that gains\npower on successive hits.",
+    "firered-leafgreen": "A 5-turn rolling\nattack that becomes\nstronger each time\nit rolls.",
+    "diamond-pearl": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+    "platinum": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+    "heartgold-soulsilver": "The user continually\nrolls into the foe\nover five turns. It\nbecomes stronger\neach time it hits.",
+    "black-white": "The user continually rolls into the target\nover five turns. It becomes stronger\neach time it hits.",
+    "black-2-white-2": "The user continually rolls into the target\nover five turns. It becomes stronger\neach time it hits.",
+    "x-y": "The user continually rolls into the target\nover five turns. It becomes stronger\neach time it hits.",
+    "omega-ruby-alpha-sapphire": "The user continually rolls into the target\nover five turns. It becomes stronger\neach time it hits.",
+    "sun-moon": "The user attacks the target for five turns.\nThe move’s power increases each time it hits.",
+    "ultra-sun-ultra-moon": "The user attacks the target for five turns.\nThe move’s power increases each time it hits.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target for five turns.\nThe move’s power increases each time it hits.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.\n\nIf the user has used defense curl since entering the field, this move has double power.",
+    "shortEffect": "Power doubles every turn this move is used in succession after the first, resetting after five turns."
+  },
+  "priority": 0
+}

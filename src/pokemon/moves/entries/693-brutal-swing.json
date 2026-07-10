@@ -1,0 +1,35 @@
+{
+  "_id": 693,
+  "key": "brutal-swing",
+  "name": {
+    "english": "Brutal Swing",
+    "japanese": "ぶんまわす",
+    "chinese": "狂舞揮打",
+    "korean": "세차게휘두르기",
+    "german": "Giro Vil",
+    "french": "Wirbler",
+    "italian": "Brutal Swing",
+    "spanish": "Vorticolpo"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user swings its body around violently to inflict\ndamage on everything in its vicinity.",
+    "ultra-sun-ultra-moon": "The user swings its body around violently to inflict\ndamage on everything in its vicinity.",
+    "lets-go-pikachu-lets-go-eevee": "The user swings its body around violently to inflict\ndamage on everything in its vicinity.",
+    "sword-shield": "The user swings its body around violently to inflict\ndamage on everything in its vicinity."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

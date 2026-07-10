@@ -1,0 +1,52 @@
+{
+  "_id": 135,
+  "key": "light-metal",
+  "name": {
+    "english": "Light Metal"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Halves the Pokémon's weight.",
+    "full": "This Pokémon has half the usual weight for its species."
+  },
+  "description": {
+    "black-white": "Halves the Pokémon’s weight.",
+    "black-2-white-2": "Halves the Pokémon’s weight.",
+    "x-y": "Halves the Pokémon’s weight.",
+    "omega-ruby-alpha-sapphire": "Halves the Pokémon’s weight.",
+    "sun-moon": "Halves the Pokémon’s weight.",
+    "ultra-sun-ultra-moon": "Halves the Pokémon’s weight.",
+    "lets-go-pikachu-lets-go-eevee": "Halves the Pokémon’s weight.",
+    "sword-shield": "Halves the Pokémon’s weight."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Duraludon",
+        "id": 884
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Scizor",
+        "id": 212
+      },
+      {
+        "name": "Beldum",
+        "id": 374
+      },
+      {
+        "name": "Metang",
+        "id": 375
+      },
+      {
+        "name": "Metagross",
+        "id": 376
+      },
+      {
+        "name": "Registeel",
+        "id": 379
+      }
+    ]
+  }
+}

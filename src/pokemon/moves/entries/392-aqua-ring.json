@@ -1,0 +1,42 @@
+{
+  "_id": 392,
+  "key": "aqua-ring",
+  "name": {
+    "english": "Aqua Ring",
+    "japanese": "アクアリング",
+    "chinese": "水柱圈",
+    "korean": "아쿠아링",
+    "german": "Acua Aro",
+    "french": "Wasserring",
+    "italian": "Aqua Ring",
+    "spanish": "Acquanello"
+  },
+  "type": "Water",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.",
+    "platinum": "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.",
+    "heartgold-soulsilver": "The user envelops\nitself in a veil made\nof water. It regains\nsome HP on every\nturn.",
+    "black-white": "The user envelops itself in a veil made\nof water. It regains some HP on\nevery turn.",
+    "black-2-white-2": "The user envelops itself in a veil made\nof water. It regains some HP on\nevery turn.",
+    "x-y": "The user envelops itself in a veil made\nof water. It regains some HP every turn.",
+    "omega-ruby-alpha-sapphire": "The user envelops itself in a veil made\nof water. It regains some HP every turn.",
+    "sun-moon": "The user envelops itself in a veil made of water.\nIt regains some HP every turn.",
+    "ultra-sun-ultra-moon": "The user envelops itself in a veil made of water.\nIt regains some HP every turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user envelops itself in a veil made of water.\nIt regains some HP every turn.",
+    "sword-shield": "The user envelops itself in a veil made of water.\nIt regains some HP every turn."
+  },
+  "effect": {
+    "full": "Restores 1/16 of the user's max HP at the end of each turn.  If the user leaves the field, this effect ends.\n\nThis effect is passed on by baton pass.",
+    "shortEffect": "Restores 1/16 of the user's max HP each turn."
+  },
+  "priority": 0
+}

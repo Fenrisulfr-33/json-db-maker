@@ -1,0 +1,47 @@
+{
+  "_id": 101,
+  "key": "night-shade",
+  "name": {
+    "english": "Night Shade",
+    "japanese": "ナイトヘッド",
+    "chinese": "黑夜诅咒",
+    "korean": "나이트헤드",
+    "german": "Tinieblas",
+    "french": "Nachtnebel",
+    "italian": "Night Shade",
+    "spanish": "Ombra Notturna"
+  },
+  "type": "Ghost",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "The user's level\nequals damage HP.",
+    "crystal": "The user's level\nequals damage HP.",
+    "ruby-sapphire": "Inflicts damage identical\nto the user’s level.",
+    "emerald": "Inflicts damage identical\nto the user’s level.",
+    "firered-leafgreen": "An attack with a\nmirage that inflicts\ndamage matching\nthe user’s level.",
+    "diamond-pearl": "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.",
+    "platinum": "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.",
+    "heartgold-soulsilver": "The user makes the\nfoe see a mirage.\nIt inflicts damage\nmatching the user’s\nlevel.",
+    "black-white": "The user makes the target see a\nfrightening mirage. It inflicts damage\nmatching the user’s level.",
+    "black-2-white-2": "The user makes the target see a\nfrightening mirage. It inflicts damage\nmatching the user’s level.",
+    "x-y": "The user makes the target see a\nfrightening mirage. It inflicts damage\nequal to the user’s level.",
+    "omega-ruby-alpha-sapphire": "The user makes the target see a\nfrightening mirage. It inflicts damage\nequal to the user’s level.",
+    "sun-moon": "The user makes the target see a frightening mirage.\nIt inflicts damage equal to the user’s level.",
+    "ultra-sun-ultra-moon": "The user makes the target see a frightening mirage.\nIt inflicts damage equal to the user’s level.",
+    "lets-go-pikachu-lets-go-eevee": "The user makes the target see a frightening mirage.\nIt inflicts damage equal to the user’s level.",
+    "sword-shield": "The user makes the target see a frightening mirage.\nIt inflicts damage equal to the user’s level."
+  },
+  "effect": {
+    "full": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.",
+    "shortEffect": "Inflicts damage equal to the user's level."
+  },
+  "priority": 0
+}

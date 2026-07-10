@@ -1,0 +1,45 @@
+{
+  "_id": 296,
+  "key": "mist-ball",
+  "name": {
+    "english": "Mist Ball",
+    "japanese": "ミストボール",
+    "chinese": "薄雾球",
+    "korean": "미스트볼",
+    "german": "Bola Neblina",
+    "french": "Nebelball",
+    "italian": "Mist Ball",
+    "spanish": "Foschisfera"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 5,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks with a flurry of\ndown. May lower SP. ATK.",
+    "emerald": "Attacks with a flurry of\ndown. May lower SP. ATK.",
+    "firered-leafgreen": "A flurry of down\nhits the foe. It\nmay also lower the\nfoe’s SP. ATK.",
+    "diamond-pearl": "A mistlike flurry of\ndown envelops and\ndamages the foe. It\nmay also lower the\ntarget’s Sp. Atk.",
+    "platinum": "A mistlike flurry of\ndown envelops and\ndamages the foe. It\nmay also lower the\ntarget’s Sp. Atk.",
+    "heartgold-soulsilver": "A mistlike flurry of\ndown envelops and\ndamages the foe. It\nmay also lower the\ntarget’s Sp. Atk.",
+    "black-white": "A mistlike flurry of down envelops and\ndamages the target. It may also lower\nthe target’s Sp. Atk.",
+    "black-2-white-2": "A mistlike flurry of down envelops and\ndamages the target. It may also lower\nthe target’s Sp. Atk.",
+    "x-y": "A mist-like flurry of down envelops and\ndamages the target. This may also lower\nthe target’s Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "A mist-like flurry of down envelops and\ndamages the target. This may also lower\nthe target’s Sp. Atk stat.",
+    "sun-moon": "A mist-like flurry of down envelops and damages the\ntarget. This may also lower the target’s Sp. Atk stat.",
+    "ultra-sun-ultra-moon": "A mist-like flurry of down envelops and damages the\ntarget. This may also lower the target’s Sp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "A mist-like flurry of down envelops and damages the\ntarget. This may also lower the target’s Sp. Atk stat.",
+    "sword-shield": "A mist-like flurry of down envelops and damages the\ntarget. This may also lower the target’s Sp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Attack by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Attack by one stage."
+  },
+  "priority": 0
+}

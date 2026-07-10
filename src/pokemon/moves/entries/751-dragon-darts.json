@@ -1,0 +1,29 @@
+{
+  "_id": 751,
+  "key": "dragon-darts",
+  "name": {
+    "english": "Dragon Darts",
+    "japanese": "ドラゴンアロー",
+    "chinese": "龍箭",
+    "korean": "드래곤애로",
+    "german": "Dracoflechas",
+    "french": "Drachenpfeile",
+    "italian": "Dragon Darts",
+    "spanish": "Dragofrecce"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks twice using Dreepy. If there are two\ntargets, this move hits each target once."
+  },
+  "effect": {},
+  "priority": 0
+}

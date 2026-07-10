@@ -1,0 +1,22 @@
+{
+  "_id": 216,
+  "key": "dancer",
+  "name": {
+    "english": "Dancer"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards.",
+    "full": "Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards."
+  },
+  "description": {
+    "sun-moon": "When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed.",
+    "ultra-sun-ultra-moon": "When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed.",
+    "lets-go-pikachu-lets-go-eevee": "When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed.",
+    "sword-shield": "When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

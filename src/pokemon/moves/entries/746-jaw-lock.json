@@ -1,0 +1,32 @@
+{
+  "_id": 746,
+  "key": "jaw-lock",
+  "name": {
+    "english": "Jaw Lock",
+    "japanese": "くらいつく",
+    "chinese": "緊咬不放",
+    "korean": "물고버티기",
+    "german": "Presa Maxilar",
+    "french": "Fesselbiss",
+    "italian": "Jaw Lock",
+    "spanish": "Morsostretto"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "This move prevents the user and the target from\nswitching out until either of them faints. The effect goes\naway if either of the Pokémon leaves the field."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then (if successful) sets leech seed on the target.",
+    "shortEffect": "Seeds the target after inflicting damage."
+  },
+  "priority": 0
+}

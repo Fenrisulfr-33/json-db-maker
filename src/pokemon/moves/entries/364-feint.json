@@ -1,0 +1,42 @@
+{
+  "_id": 364,
+  "key": "feint",
+  "name": {
+    "english": "Feint",
+    "japanese": "フェイント",
+    "chinese": "佯攻",
+    "korean": "페인트",
+    "german": "Amago",
+    "french": "Offenlegung",
+    "italian": "Feint",
+    "spanish": "Fintoattacco"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.",
+    "platinum": "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.",
+    "heartgold-soulsilver": "An attack that hits a\nfoe using Protect or\nDetect. It also lifts\nthe effects of those\nmoves.",
+    "black-white": "An attack that hits a target using\nProtect or Detect. It also lifts\nthe effects of those moves.",
+    "black-2-white-2": "An attack that hits a target using\nProtect or Detect. It also lifts\nthe effects of those moves.",
+    "x-y": "An attack that hits a target using\nProtect or Detect. This also lifts\nthe effects of those moves.",
+    "omega-ruby-alpha-sapphire": "An attack that hits a target using\nProtect or Detect. This also lifts\nthe effects of those moves.",
+    "sun-moon": "This attack hits a target using a move such as\nProtect or Detect.\nThis also lifts the effects of those moves.",
+    "ultra-sun-ultra-moon": "This attack hits a target using a move such as\nProtect or Detect.\nThis also lifts the effects of those moves.",
+    "lets-go-pikachu-lets-go-eevee": "This attack hits a target using Protect.\nThis also lifts the effects of the move.",
+    "sword-shield": "This attack hits a target using a move such as\nProtect or Detect.\nThis also lifts the effects of those moves."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+    "shortEffect": "Hits through Protect and Detect."
+  },
+  "priority": 2
+}

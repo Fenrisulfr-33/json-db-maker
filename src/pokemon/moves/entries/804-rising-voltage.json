@@ -1,0 +1,32 @@
+{
+  "_id": 804,
+  "key": "rising-voltage",
+  "name": {
+    "english": "Rising Voltage",
+    "japanese": "ライジングボルト",
+    "chinese": "電力上升",
+    "korean": "라이징볼트",
+    "german": "Alto Voltaje",
+    "french": "Hochspannung",
+    "italian": "Rising Voltage",
+    "spanish": "Elettroimpennata"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks with electric voltage rising from\nthe ground. This move’s power doubles when the target\nis on Electric Terrain."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

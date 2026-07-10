@@ -1,0 +1,39 @@
+{
+  "_id": 528,
+  "key": "wild-charge",
+  "name": {
+    "english": "Wild Charge",
+    "japanese": "ワイルドボルト",
+    "chinese": "疯狂伏特",
+    "korean": "와일드볼트",
+    "german": "Voltio Cruel",
+    "french": "Stromstoß",
+    "italian": "Wild Charge",
+    "spanish": "Sprizzalampo"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user shrouds itself in electricity\nand smashes into its target.\nIt also damages the user a little.",
+    "black-2-white-2": "The user shrouds itself in electricity\nand smashes into its target.\nIt also damages the user a little.",
+    "x-y": "The user shrouds itself in electricity\nand smashes into its target.\nThis also damages the user a little.",
+    "omega-ruby-alpha-sapphire": "The user shrouds itself in electricity\nand smashes into its target.\nThis also damages the user a little.",
+    "sun-moon": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
+    "ultra-sun-ultra-moon": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
+    "lets-go-pikachu-lets-go-eevee": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little.",
+    "sword-shield": "The user shrouds itself in electricity and smashes\ninto its target. This also damages the user a little."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/4 the damage it inflicts in recoil."
+  },
+  "priority": 0
+}

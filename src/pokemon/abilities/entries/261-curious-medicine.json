@@ -1,0 +1,16 @@
+{
+  "_id": 261,
+  "key": "curious-medicine",
+  "name": {
+    "english": "Curious Medicine"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

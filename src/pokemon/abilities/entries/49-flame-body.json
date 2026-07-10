@@ -1,0 +1,118 @@
+{
+  "_id": 49,
+  "key": "flame-body",
+  "name": {
+    "english": "Flame Body"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Has a 30% chance of burning attacking Pokémon on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being burned. Overworld: If any Pokémon in the party has this ability, each egg in the party has its hatch counter decreased by 2 (rather than 1) each step cycle, making eggs hatch roughly twice as quickly. This effect does not stack if multiple Pokémon have this ability or magma armor."
+  },
+  "description": {
+    "ruby-sapphire": "Burns the foe on contact.",
+    "emerald": "Burns the foe on contact.",
+    "firered-leafgreen": "Burns the foe on contact.",
+    "diamond-pearl": "Contact with the Pokémon may burn the foe.",
+    "platinum": "Contact with the Pokémon may burn the foe.",
+    "heartgold-soulsilver": "Contact with the Pokémon may burn the foe.",
+    "black-white": "Contact with the Pokémon may burn the attacker.",
+    "black-2-white-2": "Contact with the Pokémon may burn the attacker.",
+    "x-y": "Contact with the Pokémon may burn the attacker.",
+    "omega-ruby-alpha-sapphire": "Contact with the Pokémon may burn the attacker.",
+    "sun-moon": "Contact with the Pokémon may burn the attacker.",
+    "ultra-sun-ultra-moon": "Contact with the Pokémon may burn the attacker.",
+    "lets-go-pikachu-lets-go-eevee": "Contact with the Pokémon may burn the attacker.",
+    "sword-shield": "Contact with the Pokémon may burn the attacker."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Magmar",
+        "id": 126
+      },
+      {
+        "name": "Slugma",
+        "id": 218
+      },
+      {
+        "name": "Magcargo",
+        "id": 219
+      },
+      {
+        "name": "Magby",
+        "id": 240
+      },
+      {
+        "name": "Magmortar",
+        "id": 467
+      },
+      {
+        "name": "Litwick",
+        "id": 607
+      },
+      {
+        "name": "Lampent",
+        "id": 608
+      },
+      {
+        "name": "Chandelure",
+        "id": 609
+      },
+      {
+        "name": "Larvesta",
+        "id": 636
+      },
+      {
+        "name": "Volcarona",
+        "id": 637
+      },
+      {
+        "name": "Fletchinder",
+        "id": 662
+      },
+      {
+        "name": "Talonflame",
+        "id": 663
+      },
+      {
+        "name": "Carkol",
+        "id": 838
+      },
+      {
+        "name": "Coalossal",
+        "id": 839
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Ponyta",
+        "id": 77
+      },
+      {
+        "name": "Rapidash",
+        "id": 78
+      },
+      {
+        "name": "Moltres",
+        "id": 146
+      },
+      {
+        "name": "Heatran",
+        "id": 485
+      },
+      {
+        "name": "Sizzlipede",
+        "id": 850
+      },
+      {
+        "name": "Centiskorch",
+        "id": 851
+      },
+      {
+        "name": "Charcadet",
+        "id": 935
+      }
+    ]
+  }
+}

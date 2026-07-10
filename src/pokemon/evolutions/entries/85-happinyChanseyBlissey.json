@@ -1,0 +1,30 @@
+{
+    "_id": 85,
+    "evoLine": [
+      [
+        {
+          "id": 440,
+          "name": "Happiny",
+          "type": {
+            "one": "Normal"
+          }
+        },
+        {
+          "id": 113,
+          "name": "Chansey",
+          "type": {
+            "one": "Normal"
+          },
+          "how": "hold Oval Stone during daytime"
+        },
+        {
+            "id": 242,
+            "name": "Blissey",
+            "type": {
+              "one": "Normal"
+            },
+            "how": "high Friendship"
+          }
+      ]
+    ]
+  }

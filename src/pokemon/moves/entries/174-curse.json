@@ -1,0 +1,47 @@
+{
+  "_id": 174,
+  "key": "curse",
+  "name": {
+    "english": "Curse",
+    "japanese": "のろい",
+    "chinese": "咒语",
+    "korean": "저주",
+    "german": "Maldición",
+    "french": "Fluch",
+    "italian": "Curse",
+    "spanish": "Maledizione"
+  },
+  "type": "Ghost",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": null,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "specific-move",
+  "changes": [],
+  "description": {
+    "gold-silver": "Works differently\nfor ghost-types.",
+    "crystal": "Works differently\nfor ghost-types.",
+    "ruby-sapphire": "A move that functions\ndifferently for GHOSTS.",
+    "emerald": "A move that functions\ndifferently for GHOSTS.",
+    "firered-leafgreen": "A move that works\ndifferently for the\nGHOST-type and all\nthe other types.",
+    "diamond-pearl": "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n",
+    "platinum": "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n",
+    "heartgold-soulsilver": "A move that works\ndifferently for the\nGhost type than for\nall the other types.\n",
+    "black-white": "A move that works differently for the\nGhost type than for all other types.",
+    "black-2-white-2": "A move that works differently for the\nGhost type than for all other types.",
+    "x-y": "A move that works differently for the\nGhost type than for all other types.",
+    "omega-ruby-alpha-sapphire": "A move that works differently for the\nGhost type than for all other types.",
+    "sun-moon": "A move that works differently for the Ghost type\nthan for all other types.",
+    "ultra-sun-ultra-moon": "A move that works differently for the Ghost type\nthan for all other types.",
+    "lets-go-pikachu-lets-go-eevee": "A move that works differently for the Ghost type\nthan for all other types.",
+    "sword-shield": "A move that works differently for the Ghost type\nthan for all other types."
+  },
+  "effect": {
+    "full": "If the user is a ghost: user pays half its max HP to place a curse on the target, damaging it for 1/4 its max HP every turn.\nOtherwise: Lowers the user's Speed by one stage, and raises its Attack and Defense by one stage each.\n\nThe curse effect is passed on by baton pass.\n\nThis move cannot be copied by mirror move.",
+    "shortEffect": "Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense."
+  },
+  "priority": 0
+}

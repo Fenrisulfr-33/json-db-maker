@@ -1,0 +1,14 @@
+{
+    "_id": 306,
+    "key": "teraform-zero",
+    "name": {
+      "english": "Teraform Zero"
+    },
+    "generation": 9,
+    "effect": {
+      "shortEffect": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.",
+      "full": ""
+    },
+    "description": {},
+    "pokemonWithAbility": {}
+  }

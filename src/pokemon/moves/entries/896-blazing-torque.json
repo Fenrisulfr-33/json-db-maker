@@ -1,0 +1,17 @@
+{
+  "_id": 896,
+  "key": "blazing-torque",
+  "name": {
+    "english": "Blazing Torque"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

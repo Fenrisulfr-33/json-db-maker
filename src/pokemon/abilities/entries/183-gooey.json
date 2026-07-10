@@ -1,0 +1,46 @@
+{
+  "_id": 183,
+  "key": "gooey",
+  "name": {
+    "english": "Gooey"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Lowers attacking Pokémon's Speed by one stage on contact.",
+    "full": "Lowers attacking Pokémon's Speed by one stage on contact."
+  },
+  "description": {
+    "x-y": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "omega-ruby-alpha-sapphire": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "sun-moon": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "ultra-sun-ultra-moon": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "Contact with the Pokémon lowers the attacker’s Speed stat.",
+    "sword-shield": "Contact with the Pokémon lowers the attacker’s Speed stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Wiglett",
+        "id": 960
+      },
+      {
+        "name": "Wugtrio",
+        "id": 961
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Goomy",
+        "id": 704
+      },
+      {
+        "name": "Sliggoo",
+        "id": 705
+      },
+      {
+        "name": "Goodra",
+        "id": 706
+      }
+    ]
+  }
+}

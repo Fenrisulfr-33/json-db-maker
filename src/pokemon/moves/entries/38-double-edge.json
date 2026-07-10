@@ -1,0 +1,47 @@
+{
+  "_id": 38,
+  "key": "double-edge",
+  "name": {
+    "english": "Double-Edge",
+    "japanese": "すてみタックル",
+    "chinese": "舍身攻击",
+    "korean": "이판사판태클",
+    "german": "Doble Filo",
+    "french": "Risikotackle",
+    "italian": "Double-Edge",
+    "spanish": "Sdoppiatore"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A tackle that also\nhurts the user.",
+    "crystal": "A tackle that also\nhurts the user.",
+    "ruby-sapphire": "A life-risking tackle that\nalso hurts the user.",
+    "emerald": "A life-risking tackle that\nalso hurts the user.",
+    "firered-leafgreen": "A reckless, life-\nrisking tackle that\nalso hurts the user\na little.",
+    "diamond-pearl": "A reckless, life-\nrisking tackle.\nIt also damages the\nuser by a fairly large\namount, however.",
+    "platinum": "A reckless, life-\nrisking tackle.\nIt also damages the\nuser by a fairly large\namount, however.",
+    "heartgold-soulsilver": "A reckless, life-\nrisking tackle.\nIt also damages the\nuser by a fairly large\namount, however.",
+    "black-white": "A reckless, life-risking tackle.\nIt also damages the user by a fairly large\namount, however.",
+    "black-2-white-2": "A reckless, life-risking tackle.\nIt also damages the user by a fairly large\namount, however.",
+    "x-y": "A reckless, life-risking tackle.\nThis also damages the user\nquite a lot.",
+    "omega-ruby-alpha-sapphire": "A reckless, life-risking tackle.\nThis also damages the user\nquite a lot.",
+    "sun-moon": "A reckless, life-risking tackle. This also damages the\nuser quite a lot.",
+    "ultra-sun-ultra-moon": "A reckless, life-risking tackle. This also damages the\nuser quite a lot.",
+    "lets-go-pikachu-lets-go-eevee": "A reckless, life-risking tackle. This also damages the\nuser quite a lot.",
+    "sword-shield": "A reckless, life-risking tackle in which the user rushes\nthe target. This also damages the user quite a lot."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.",
+    "shortEffect": "User receives 1/3 the damage inflicted in recoil."
+  },
+  "priority": 0
+}

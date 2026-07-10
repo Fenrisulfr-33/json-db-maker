@@ -1,0 +1,37 @@
+{
+  "_id": 166,
+  "key": "flower-veil",
+  "name": {
+    "english": "Flower Veil"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon.",
+    "full": "Protects friendly grass Pokémon from having their stats lowered by other Pokémon."
+  },
+  "description": {
+    "x-y": "Prevents lowering of ally Grass-type Pokémon’s stats.",
+    "omega-ruby-alpha-sapphire": "Prevents lowering of ally Grass-type Pokémon’s stats.",
+    "sun-moon": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.",
+    "ultra-sun-ultra-moon": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.",
+    "lets-go-pikachu-lets-go-eevee": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.",
+    "sword-shield": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Floette",
+        "id": 670
+      },
+      {
+        "name": "Florges",
+        "id": 671
+      },
+      {
+        "name": "Comfey",
+        "id": 764
+      }
+    ],
+    "hidden": []
+  }
+}

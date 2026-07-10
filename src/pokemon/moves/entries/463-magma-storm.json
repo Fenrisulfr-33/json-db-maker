@@ -1,0 +1,42 @@
+{
+  "_id": 463,
+  "key": "magma-storm",
+  "name": {
+    "english": "Magma Storm",
+    "japanese": "マグマストーム",
+    "chinese": "岩浆暴风",
+    "korean": "마그마스톰",
+    "german": "Lluvia Ígnea",
+    "french": "Lavasturm",
+    "italian": "Magma Storm",
+    "spanish": "Magmaclisma"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The foe becomes\ntrapped within a\nmaelstrom of fire\nthat rages for two\nto five turns.",
+    "platinum": "The foe becomes\ntrapped within a\nmaelstrom of fire\nthat rages for two\nto five turns.",
+    "heartgold-soulsilver": "The foe becomes\ntrapped within a\nmaelstrom of fire\nthat rages for two\nto five turns.",
+    "black-white": "The target becomes trapped\nwithin a maelstrom of fire that rages\nfor four to five turns.",
+    "black-2-white-2": "The target becomes trapped\nwithin a maelstrom of fire that rages\nfor four to five turns.",
+    "x-y": "The target becomes trapped\nwithin a maelstrom of fire that rages\nfor four to five turns.",
+    "omega-ruby-alpha-sapphire": "The target becomes trapped\nwithin a maelstrom of fire that rages\nfor four to five turns.",
+    "sun-moon": "The target becomes trapped within a maelstrom of\nfire that rages for four to five turns.",
+    "ultra-sun-ultra-moon": "The target becomes trapped within a maelstrom of\nfire that rages for four to five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The target becomes trapped within a maelstrom of\nfire that rages for four to five turns.",
+    "sword-shield": "The target becomes trapped within a maelstrom of\nfire that rages for four to five turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+    "shortEffect": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+  },
+  "priority": 0
+}

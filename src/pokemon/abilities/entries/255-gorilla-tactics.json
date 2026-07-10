@@ -1,0 +1,16 @@
+{
+  "_id": 255,
+  "key": "gorilla-tactics",
+  "name": {
+    "english": "Gorilla Tactics"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Boosts the Pokémon’s Attack stat but only allows the use of the first selected move."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

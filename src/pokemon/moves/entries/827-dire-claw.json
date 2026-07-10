@@ -1,0 +1,17 @@
+{
+  "_id": 827,
+  "key": "dire-claw",
+  "name": {
+    "english": "Dire Claw"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

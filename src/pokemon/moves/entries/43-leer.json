@@ -1,0 +1,47 @@
+{
+  "_id": 43,
+  "key": "leer",
+  "name": {
+    "english": "Leer",
+    "japanese": "にらみつける",
+    "chinese": "瞪眼",
+    "korean": "째려보기",
+    "german": "Malicioso",
+    "french": "Silberblick",
+    "italian": "Leer",
+    "spanish": "Fulmisguardo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 30,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "Reduces the foe's\nDEFENSE.",
+    "crystal": "Reduces the foe's\nDEFENSE.",
+    "ruby-sapphire": "Frightens the foe with a\nleer to lower DEFENSE.",
+    "emerald": "Frightens the foe with a\nleer to lower DEFENSE.",
+    "firered-leafgreen": "The foe is given an\nintimidating look\nthat lowers its\nDEFENSE stat.",
+    "diamond-pearl": "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.",
+    "platinum": "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.",
+    "heartgold-soulsilver": "The foe is given an\nintimidating leer with\nsharp eyes.\nThe target’s Defense\nstat is reduced.",
+    "black-white": "The opposing team gains an intimidating\nleer with sharp eyes. The opposing team’s\nDefense stats are reduced.",
+    "black-2-white-2": "The user gains an intimidating leer with\nsharp eyes. The opposing team’s\nDefense stats are reduced.",
+    "x-y": "The user gives opposing Pokémon\nan intimidating leer that lowers the Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user gives opposing Pokémon\nan intimidating leer that lowers the Defense stat.",
+    "sun-moon": "The user gives opposing Pokémon an intimidating\nleer that lowers the Defense stat.",
+    "ultra-sun-ultra-moon": "The user gives opposing Pokémon an intimidating\nleer that lowers the Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user gives opposing Pokémon an intimidating\nleer that lowers the Defense stat.",
+    "sword-shield": "The user gives opposing Pokémon an intimidating\nleer that lowers the Defense stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Defense by one stage.",
+    "shortEffect": "Lowers the target's Defense by one stage."
+  },
+  "priority": 0
+}

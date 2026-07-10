@@ -1,0 +1,45 @@
+{
+  "_id": 255,
+  "key": "spit-up",
+  "name": {
+    "english": "Spit Up",
+    "japanese": "はきだす",
+    "chinese": "喷出",
+    "korean": "토해내기",
+    "german": "Escupir",
+    "french": "Entfessler",
+    "italian": "Spit Up",
+    "spanish": "Sfoghenergia"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Releases stockpiled power\n(the more the better).",
+    "emerald": "Releases stockpiled power\n(the more the better).",
+    "firered-leafgreen": "The power built\nusing STOCKPILE is\nreleased at once\nfor attack.",
+    "diamond-pearl": "The power stored\nusing the move\nStockpile is released\nat once in an attack.\n",
+    "platinum": "The power stored\nusing the move\nStockpile is released\nat once in an attack.\n",
+    "heartgold-soulsilver": "The power stored\nusing the move\nStockpile is released\nat once in an attack.\n",
+    "black-white": "The power stored using the move Stockpile\nis released at once in an attack. The more\npower is stored, the greater the damage.",
+    "black-2-white-2": "The power stored using the move Stockpile\nis released at once in an attack. The more\npower is stored, the greater the damage.",
+    "x-y": "The power stored using the move Stockpile\nis released at once in an attack. The more\npower is stored, the greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The power stored using the move Stockpile\nis released at once in an attack. The more\npower is stored, the greater the move’s power.",
+    "sun-moon": "The power stored using the move Stockpile is\nreleased at once in an attack. The more power\nis stored, the greater the move’s power.",
+    "ultra-sun-ultra-moon": "The power stored using the move Stockpile is\nreleased at once in an attack. The more power\nis stored, the greater the move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The power stored using the move Stockpile is\nreleased at once in an attack. The more power\nis stored, the greater the move’s power.",
+    "sword-shield": "The power stored using the move Stockpile is\nreleased at once in an attack. The more power\nis stored, the greater the move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power is equal to 100 times the amount of energy stored by stockpile.  Ignores the random factor in the damage formula.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail.\n\nThis move cannot be copied by mirror move.",
+    "shortEffect": "Power is 100 times the amount of energy Stockpiled."
+  },
+  "priority": 0
+}

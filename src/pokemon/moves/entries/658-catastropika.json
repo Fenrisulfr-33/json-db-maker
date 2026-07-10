@@ -1,0 +1,35 @@
+{
+  "_id": 658,
+  "key": "catastropika",
+  "name": {
+    "english": "Catastropika",
+    "japanese": "ひっさつのピカチュート",
+    "chinese": "皮卡皮卡必殺擊",
+    "korean": "필살피카슛",
+    "german": "Pikavoltio Letal",
+    "french": "Perfektes Pika-Projektil",
+    "italian": "Catastropika",
+    "spanish": "Super Pikaboom"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": null,
+  "pp": 1,
+  "power": 210,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user, Pikachu, surrounds itself with the\nmaximum amount of electricity using its Z-Power\nand pounces on its target with full force.",
+    "ultra-sun-ultra-moon": "The user, Pikachu, surrounds itself with the\nmaximum amount of electricity using its Z-Power\nand pounces on its target with full force.",
+    "lets-go-pikachu-lets-go-eevee": "The user, Pikachu, surrounds itself with the\nmaximum amount of electricity using its Z-Power\nand pounces on its target with full force.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

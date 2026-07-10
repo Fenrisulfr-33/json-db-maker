@@ -1,0 +1,42 @@
+{
+  "_id": 410,
+  "key": "vacuum-wave",
+  "name": {
+    "english": "Vacuum Wave",
+    "japanese": "しんくうは",
+    "chinese": "真空波",
+    "korean": "진공파",
+    "german": "Onda Vacío",
+    "french": "Vakuumwelle",
+    "italian": "Vacuum Wave",
+    "spanish": "Vuotonda"
+  },
+  "type": "Fighting",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user whirls its\nfists to send a wave\nof pure vacuum at\nthe foe. This move\nalways goes first.",
+    "platinum": "The user whirls its\nfists to send a wave\nof pure vacuum at\nthe foe. This move\nalways goes first.",
+    "heartgold-soulsilver": "The user whirls its\nfists to send a wave\nof pure vacuum at\nthe foe. This move\nalways goes first.",
+    "black-white": "The user whirls its fists to send a wave\nof pure vacuum at the target. This move\nalways goes first.",
+    "black-2-white-2": "The user whirls its fists to send a wave\nof pure vacuum at the target. This move\nalways goes first.",
+    "x-y": "The user whirls its fists to send a wave\nof pure vacuum at the target.\nThis move always goes first.",
+    "omega-ruby-alpha-sapphire": "The user whirls its fists to send a wave\nof pure vacuum at the target.\nThis move always goes first.",
+    "sun-moon": "The user whirls its fists to send a wave of pure\nvacuum at the target. This move always goes first.",
+    "ultra-sun-ultra-moon": "The user whirls its fists to send a wave of pure\nvacuum at the target. This move always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user whirls its fists to send a wave of pure\nvacuum at the target. This move always goes first.",
+    "sword-shield": "The user whirls its fists to send a wave of pure\nvacuum at the target. This move always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 1
+}

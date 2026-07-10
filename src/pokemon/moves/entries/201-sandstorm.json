@@ -1,0 +1,47 @@
+{
+  "_id": 201,
+  "key": "sandstorm",
+  "name": {
+    "english": "Sandstorm",
+    "japanese": "すなあらし",
+    "chinese": "沙雹",
+    "korean": "모래바람",
+    "german": "Tormenta Arena",
+    "french": "Sandsturm",
+    "italian": "Sandstorm",
+    "spanish": "Terrempesta"
+  },
+  "type": "Rock",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "gold-silver": "Inflicts damage\nevery turn.",
+    "crystal": "Inflicts damage\nevery turn.",
+    "ruby-sapphire": "Causes a sandstorm that\nrages for several turns.",
+    "emerald": "Causes a sandstorm that\nrages for several turns.",
+    "firered-leafgreen": "A 5-turn sandstorm\nthat damages all\ntypes except ROCK,\nGROUND, and STEEL.",
+    "diamond-pearl": "A five-turn sand­\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.",
+    "platinum": "A five-turn sand­\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.",
+    "heartgold-soulsilver": "A five-turn sand­\nstorm is summoned\nto hurt all combatant\ntypes except Rock, \nGround, and Steel.",
+    "black-white": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+    "black-2-white-2": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+    "x-y": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+    "omega-ruby-alpha-sapphire": "A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.",
+    "sun-moon": "A five-turn sandstorm is summoned to hurt all\ncombatants except the Rock, Ground, and\nSteel types. It raises the Sp. Def stat of Rock types.",
+    "ultra-sun-ultra-moon": "A five-turn sandstorm is summoned to hurt all\ncombatants except the Rock, Ground, and\nSteel types. It raises the Sp. Def stat of Rock types.",
+    "lets-go-pikachu-lets-go-eevee": "A five-turn sandstorm is summoned to hurt all\ncombatants except the Rock, Ground, and\nSteel types. It raises the Sp. Def stat of Rock types.",
+    "sword-shield": "A five-turn sandstorm is summoned to hurt all\ncombatants except Rock, Ground, and Steel types.\nIt raises the Sp. Def stat of Rock types."
+  },
+  "effect": {
+    "full": "Changes the weather to a sandstorm for five turns.  Pokémon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pokémon's original Special Defense is raised by 50% for the duration of this effect.\n\nsolar beam's power is halved.\n\nmoonlight, morning sun, and synthesis only heal 1/4 the user's max HP.",
+    "shortEffect": "Changes the weather to a sandstorm for five turns."
+  },
+  "priority": 0
+}

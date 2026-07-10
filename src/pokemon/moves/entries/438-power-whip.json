@@ -1,0 +1,42 @@
+{
+  "_id": 438,
+  "key": "power-whip",
+  "name": {
+    "english": "Power Whip",
+    "japanese": "パワーウィップ",
+    "chinese": "能量鞭打",
+    "korean": "파워휩",
+    "german": "Latigazo",
+    "french": "Blattgeißel",
+    "italian": "Power Whip",
+    "spanish": "Vigorcolpo"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 120,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user violently\nwhirls its vines or\ntentacles to harshly\nlash the foe.\n",
+    "platinum": "The user violently\nwhirls its vines or\ntentacles to harshly\nlash the foe.\n",
+    "heartgold-soulsilver": "The user violently\nwhirls its vines or\ntentacles to harshly\nlash the foe.\n",
+    "black-white": "The user violently whirls its vines or\ntentacles to harshly lash the target.",
+    "black-2-white-2": "The user violently whirls its vines or\ntentacles to harshly lash the target.",
+    "x-y": "The user violently whirls its vines or\ntentacles to harshly lash the target.",
+    "omega-ruby-alpha-sapphire": "The user violently whirls its vines or\ntentacles to harshly lash the target.",
+    "sun-moon": "The user violently whirls its vines, tentacles, or the \nlike to harshly lash the target.",
+    "ultra-sun-ultra-moon": "The user violently whirls its vines, tentacles, or the \nlike to harshly lash the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user violently whirls its vines, tentacles, or the\nlike to harshly lash the target.",
+    "sword-shield": "The user violently whirls its vines, tentacles, or the\nlike to harshly lash the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

@@ -1,0 +1,35 @@
+{
+  "_id": 708,
+  "key": "shadow-bone",
+  "name": {
+    "english": "Shadow Bone",
+    "japanese": "シャドーボーン",
+    "chinese": "暗影之骨",
+    "korean": "섀도본",
+    "german": "Hueso Sombrío",
+    "french": "Schattenknochen",
+    "italian": "Shadow Bone",
+    "spanish": "Ossotetro"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 85,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user attacks by beating the target with a\nbone that contains a spirit. This may also lower\nthe target’s Defense stat.",
+    "ultra-sun-ultra-moon": "The user attacks by beating the target with a\nbone that contains a spirit. This may also lower\nthe target’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by beating the target with a\nbone that contains a spirit. This may also lower\nthe target’s Defense stat.",
+    "sword-shield": "The user attacks by beating the target with a\nbone that contains a spirit. This may also lower\nthe target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
+  },
+  "priority": 0
+}

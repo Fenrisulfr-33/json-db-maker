@@ -1,0 +1,34 @@
+{
+  "_id": 727,
+  "key": "splintered-stormshards",
+  "name": {
+    "english": "Splintered Stormshards",
+    "japanese": "ラジアルエッジストーム",
+    "chinese": "狼嘯石牙颶風暴",
+    "korean": "레이디얼에지스톰",
+    "german": "Tempestad Rocosa",
+    "french": "Fataler Steinregen",
+    "italian": "Splintered Stormshards",
+    "spanish": "Litotempesta Radiale"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": null,
+  "pp": 1,
+  "power": 190,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "After obtaining Z-Power, the user, Lycanroc,\nattacks the target with full force. This move negates\nthe effect on the battlefield.",
+    "lets-go-pikachu-lets-go-eevee": "After obtaining Z-Power, the user, Lycanroc,\nattacks the target with full force. This move negates\nthe effect on the battlefield.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts damage and removes any terrain present on the battlefield.",
+    "shortEffect": "Inflicts damage and removes any terrain present on the battlefield."
+  },
+  "priority": 0
+}

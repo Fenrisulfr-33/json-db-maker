@@ -1,0 +1,33 @@
+{
+  "_id": 741,
+  "key": "veevee-volley",
+  "name": {
+    "english": "Veevee Volley",
+    "japanese": "ブイブイブレイク",
+    "chinese": "砰砰擊破",
+    "korean": "브이브이브레이크",
+    "german": "Eevimpacto",
+    "french": "Evo-Crash",
+    "italian": "Veevee Volley",
+    "spanish": "Eeveempatto"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The more Eevee loves its Trainer, the greater the\nmove’s power. It never misses.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

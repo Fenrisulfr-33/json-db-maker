@@ -1,0 +1,16 @@
+{
+  "_id": 244,
+  "key": "punk-rock",
+  "name": {
+    "english": "Punk Rock"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

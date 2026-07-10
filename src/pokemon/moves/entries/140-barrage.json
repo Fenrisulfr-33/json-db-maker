@@ -1,0 +1,47 @@
+{
+  "_id": 140,
+  "key": "barrage",
+  "name": {
+    "english": "Barrage",
+    "japanese": "たまなげ",
+    "chinese": "丢球",
+    "korean": "구슬던지기",
+    "german": "Bombardeo",
+    "french": "Stakkato",
+    "italian": "Barrage",
+    "spanish": "Attacco Pioggia"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 15,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Throws orbs to hit\n2-5 times.",
+    "crystal": "Throws orbs to hit\n2-5 times.",
+    "ruby-sapphire": "Hurls round objects at the\nfoe 2 to 5 times.",
+    "emerald": "Hurls round objects at the\nfoe 2 to 5 times.",
+    "firered-leafgreen": "Round objects are\nhurled at the foe\nto strike two to\nfive times.",
+    "diamond-pearl": "Round objects are\nhurled at the foe to\nstrike two to five\ntimes in a row.\n",
+    "platinum": "Round objects are\nhurled at the foe to\nstrike two to five\ntimes in a row.\n",
+    "heartgold-soulsilver": "Round objects are\nhurled at the foe to\nstrike two to five\ntimes in a row.\n",
+    "black-white": "Round objects are hurled at the target\nto strike two to five times in a row.",
+    "black-2-white-2": "Round objects are hurled at the target\nto strike two to five times in a row.",
+    "x-y": "Round objects are hurled at the target\nto strike two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "Round objects are hurled at the target\nto strike two to five times in a row.",
+    "sun-moon": "Round objects are hurled at the target to strike two\nto five times in a row.",
+    "ultra-sun-ultra-moon": "Round objects are hurled at the target to strike two\nto five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "Round objects are hurled at the target to strike two\nto five times in a row.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 64,
+  "key": "peck",
+  "name": {
+    "english": "Peck",
+    "japanese": "つつく",
+    "chinese": "啄",
+    "korean": "쪼기",
+    "german": "Picotazo",
+    "french": "Pikser",
+    "italian": "Peck",
+    "spanish": "Beccata"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 35,
+  "power": 35,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Jabs the foe with\na beak, etc.",
+    "crystal": "Jabs the foe with\na beak, etc.",
+    "ruby-sapphire": "Attacks the foe with a\njabbing beak, etc.",
+    "emerald": "Attacks the foe with a\njabbing beak, etc.",
+    "firered-leafgreen": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.",
+    "diamond-pearl": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n",
+    "platinum": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n",
+    "heartgold-soulsilver": "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.\n",
+    "black-white": "The target is jabbed with a sharply\npointed beak or horn.",
+    "black-2-white-2": "The target is jabbed with a sharply\npointed beak or horn.",
+    "x-y": "The target is jabbed with a sharply\npointed beak or horn.",
+    "omega-ruby-alpha-sapphire": "The target is jabbed with a sharply\npointed beak or horn.",
+    "sun-moon": "The target is jabbed with a sharply pointed beak\nor horn.",
+    "ultra-sun-ultra-moon": "The target is jabbed with a sharply pointed beak\nor horn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is jabbed with a sharply pointed beak\nor horn.",
+    "sword-shield": "The target is jabbed with a sharply pointed beak\nor horn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

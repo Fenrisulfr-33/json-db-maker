@@ -1,0 +1,33 @@
+{
+  "_id": 179,
+  "key": "grass-pelt",
+  "name": {
+    "english": "Grass Pelt"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Boosts Defense while grassy terrain is in effect.",
+    "full": "Boosts Defense while grassy terrain is in effect."
+  },
+  "description": {
+    "x-y": "Boosts the Defense stat in Grassy Terrain.",
+    "omega-ruby-alpha-sapphire": "Boosts the Defense stat in Grassy Terrain.",
+    "sun-moon": "Boosts the Pokémon’s Defense stat in  Grassy Terrain.",
+    "ultra-sun-ultra-moon": "Boosts the Pokémon’s Defense stat in  Grassy Terrain.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Pokémon’s Defense stat in Grassy Terrain.",
+    "sword-shield": "Boosts the Pokémon’s Defense stat on Grassy Terrain."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Skiddo",
+        "id": 672
+      },
+      {
+        "name": "Gogoat",
+        "id": 673
+      }
+    ]
+  }
+}

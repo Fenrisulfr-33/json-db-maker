@@ -1,0 +1,45 @@
+{
+  "_id": 258,
+  "key": "hail",
+  "name": {
+    "english": "Hail",
+    "japanese": "あられ",
+    "chinese": "冰雹",
+    "korean": "싸라기눈",
+    "german": "Granizo",
+    "french": "Hagelsturm",
+    "italian": "Hail",
+    "spanish": "Grandine"
+  },
+  "type": "Ice",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Summons a hailstorm that\nstrikes every turn.",
+    "emerald": "Summons a hailstorm that\nstrikes every turn.",
+    "firered-leafgreen": "A hailstorm lasting\nfive turns damages\nall POKéMON except\nthe ICE-type.",
+    "diamond-pearl": "The user summons a\nhailstorm lasting five\nturns. It damages all\nPokémon except the\nIce type.",
+    "platinum": "The user summons a\nhailstorm lasting five\nturns. It damages all\nPokémon except the\nIce type.",
+    "heartgold-soulsilver": "The user summons a\nhailstorm lasting five\nturns. It damages all\nPokémon except the\nIce type.",
+    "black-white": "The user summons a hailstorm lasting five\nturns. It damages all Pokémon except the\nIce type.",
+    "black-2-white-2": "The user summons a hailstorm lasting five\nturns. It damages all Pokémon except the\nIce type.",
+    "x-y": "The user summons a hailstorm lasting five\nturns. It damages all Pokémon except the\nIce type.",
+    "omega-ruby-alpha-sapphire": "The user summons a hailstorm lasting five\nturns. It damages all Pokémon except the\nIce type.",
+    "sun-moon": "The user summons a hailstorm lasting five turns.\nIt damages all Pokémon except the Ice type.",
+    "ultra-sun-ultra-moon": "The user summons a hailstorm lasting five turns.\nIt damages all Pokémon except the Ice type.",
+    "lets-go-pikachu-lets-go-eevee": "The user summons a hailstorm lasting five turns.\nIt damages all Pokémon except the Ice type.",
+    "sword-shield": "The user summons a hailstorm lasting five turns.\nIt damages all Pokémon except Ice types."
+  },
+  "effect": {
+    "full": "Changes the weather to hail for five turns, during which non-ice Pokémon are damaged for 1/16 their max HP at the end of every turn.\n\nIf the user is holding icy rock, this effect lasts for eight turns.\n\nblizzard has 100% accuracy.  If the target has used detect or protect, blizzard has a (100 - accuracy)% chance to break through the protection.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPokémon with snow cloak are exempt from this effect's damage.",
+    "shortEffect": "Changes the weather to a hailstorm for five turns."
+  },
+  "priority": 0
+}

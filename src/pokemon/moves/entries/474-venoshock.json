@@ -1,0 +1,39 @@
+{
+  "_id": 474,
+  "key": "venoshock",
+  "name": {
+    "english": "Venoshock",
+    "japanese": "ベノムショック",
+    "chinese": "毒液攻击",
+    "korean": "베놈쇼크",
+    "german": "Carga Tóxica",
+    "french": "Giftschock",
+    "italian": "Venoshock",
+    "spanish": "Velenoshock"
+  },
+  "type": "Poison",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user drenches the target in a special\npoisonous liquid. Its power is doubled\nif the target is poisoned.",
+    "black-2-white-2": "The user drenches the target in a special\npoisonous liquid. Its power is doubled\nif the target is poisoned.",
+    "x-y": "The user drenches the target in a special\npoisonous liquid. This move’s power is doubled\nif the target is poisoned.",
+    "omega-ruby-alpha-sapphire": "The user drenches the target in a special\npoisonous liquid. This move’s power is doubled\nif the target is poisoned.",
+    "sun-moon": "The user drenches the target in a special poisonous\nliquid. This move’s power is doubled if the target\nis poisoned.",
+    "ultra-sun-ultra-moon": "The user drenches the target in a special poisonous\nliquid. This move’s power is doubled if the target\nis poisoned.",
+    "lets-go-pikachu-lets-go-eevee": "The user drenches the target in a special poisonous\nliquid. This move’s power is doubled if the target\nis poisoned.",
+    "sword-shield": "The user drenches the target in a special poisonous\nliquid. This move’s power is doubled if the target\nis poisoned."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target is poisoned, this move has double power.",
+    "shortEffect": "Inflicts double damage if the target is Poisoned."
+  },
+  "priority": 0
+}

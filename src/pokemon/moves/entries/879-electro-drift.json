@@ -1,0 +1,17 @@
+{
+  "_id": 879,
+  "key": "electro-drift",
+  "name": {
+    "english": "Electro Drift"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

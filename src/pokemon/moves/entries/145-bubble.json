@@ -1,0 +1,47 @@
+{
+  "_id": 145,
+  "key": "bubble",
+  "name": {
+    "english": "Bubble",
+    "japanese": "あわ",
+    "chinese": "泡泡",
+    "korean": "거품",
+    "german": "Burbuja",
+    "french": "Blubber",
+    "italian": "Bubble",
+    "spanish": "Bolla"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Cute",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nreduce SPEED.",
+    "crystal": "An attack that may\nreduce SPEED.",
+    "ruby-sapphire": "An attack using bubbles.\nMay lower the foe’s SPEED.",
+    "emerald": "An attack using bubbles.\nMay lower the foe’s SPEED.",
+    "firered-leafgreen": "A spray of bubbles\nhits the foe.\nIt may lower the\nfoe’s SPEED stat.",
+    "diamond-pearl": "A spray of countless\nbubbles is jetted at\nthe foe.\nIt may also lower the\ntarget’s Speed stat.",
+    "platinum": "A spray of countless\nbubbles is jetted at\nthe foe.\nIt may also lower the\ntarget’s Speed stat.",
+    "heartgold-soulsilver": "A spray of countless\nbubbles is jetted at\nthe foe.\nIt may also lower the\ntarget’s Speed stat.",
+    "black-white": "A spray of countless bubbles is jetted at\nthe opposing team. It may also lower the\ntargets’ Speed stats.",
+    "black-2-white-2": "A spray of countless bubbles is jetted at\nthe opposing team. It may also lower the\ntargets’ Speed stats.",
+    "x-y": "A spray of countless bubbles is jetted at\nthe opposing Pokémon.\nThis may also lower their Speed stats.",
+    "omega-ruby-alpha-sapphire": "A spray of countless bubbles is jetted at\nthe opposing Pokémon.\nThis may also lower their Speed stats.",
+    "sun-moon": "A spray of countless bubbles is jetted at the\nopposing Pokémon. This may also lower their\nSpeed stat.",
+    "ultra-sun-ultra-moon": "A spray of countless bubbles is jetted at the\nopposing Pokémon. This may also lower their\nSpeed stat.",
+    "lets-go-pikachu-lets-go-eevee": "A spray of countless bubbles is jetted at the\nopposing Pokémon. This may also lower their\nSpeed stat.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

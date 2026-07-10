@@ -1,0 +1,17 @@
+{
+  "_id": 872,
+  "key": "aqua-step",
+  "name": {
+    "english": "Aqua Step"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

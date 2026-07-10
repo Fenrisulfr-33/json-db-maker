@@ -1,0 +1,79 @@
+{
+  "_id": 120,
+  "key": "reckless",
+  "name": {
+    "english": "Reckless"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Strengthens recoil moves to 1.2× their power.",
+    "full": "This Pokémon's recoil moves and crash moves have 1.2× their base power. struggle is unaffected. The \"crash moves\" are the moves that damage the user upon missing: jump kick and high jump kick."
+  },
+  "description": {
+    "diamond-pearl": "Powers up moves that have recoil damage.",
+    "platinum": "Powers up moves that have recoil damage.",
+    "heartgold-soulsilver": "Powers up moves that have recoil damage.",
+    "black-white": "Powers up moves that have recoil damage.",
+    "black-2-white-2": "Powers up moves that have recoil damage.",
+    "x-y": "Powers up moves that have recoil damage.",
+    "omega-ruby-alpha-sapphire": "Powers up moves that have recoil damage.",
+    "sun-moon": "Powers up moves that have recoil damage.",
+    "ultra-sun-ultra-moon": "Powers up moves that have recoil damage.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up moves that have recoil damage.",
+    "sword-shield": "Powers up moves that have recoil damage."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Hitmonlee",
+        "id": 106
+      },
+      {
+        "name": "Bouffalant",
+        "id": 626
+      },
+      {
+        "name": "Obstagoon",
+        "id": 862
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Rhyhorn",
+        "id": 111
+      },
+      {
+        "name": "Rhydon",
+        "id": 112
+      },
+      {
+        "name": "Starly",
+        "id": 396
+      },
+      {
+        "name": "Staravia",
+        "id": 397
+      },
+      {
+        "name": "Staraptor",
+        "id": 398
+      },
+      {
+        "name": "Rhyperior",
+        "id": 464
+      },
+      {
+        "name": "Emboar",
+        "id": 500
+      },
+      {
+        "name": "Mienfoo",
+        "id": 619
+      },
+      {
+        "name": "Mienshao",
+        "id": 620
+      }
+    ]
+  }
+}

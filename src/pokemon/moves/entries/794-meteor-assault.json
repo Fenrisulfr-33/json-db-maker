@@ -1,0 +1,32 @@
+{
+  "_id": 794,
+  "key": "meteor-assault",
+  "name": {
+    "english": "Meteor Assault",
+    "japanese": "スターアサルト",
+    "chinese": "流星突擊",
+    "korean": "스타어설트",
+    "german": "Asalto Estelar",
+    "french": "Sternensturm",
+    "italian": "Meteor Assault",
+    "spanish": "Sfolgorassalto"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 150,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks wildly with its thick leek.\nThe user can’t move on the next turn, because the\nforce of this move makes it stagger."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "shortEffect": "User foregoes its next turn to recharge."
+  },
+  "priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 447,
+  "key": "grass-knot",
+  "name": {
+    "english": "Grass Knot",
+    "japanese": "くさむすび",
+    "chinese": "打草结",
+    "korean": "풀묶기",
+    "german": "Hierba Lazo",
+    "french": "Strauchler",
+    "italian": "Grass Knot",
+    "spanish": "Laccioerboso"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user snares the\nfoe with grass and\ntrips it. The heavier\nthe foe, the greater\nthe damage.",
+    "platinum": "The user snares the\nfoe with grass and\ntrips it. The heavier\nthe foe, the greater\nthe damage.",
+    "heartgold-soulsilver": "The user snares the\nfoe with grass and\ntrips it. The heavier\nthe foe, the greater\nthe damage.",
+    "black-white": "The user snares the target with grass and\ntrips it. The heavier the target,\nthe greater the damage.",
+    "black-2-white-2": "The user snares the target with grass and\ntrips it. The heavier the target,\nthe greater the damage.",
+    "x-y": "The user snares the target with grass and\ntrips it. The heavier the target,\nthe greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user snares the target with grass and\ntrips it. The heavier the target,\nthe greater the move’s power.",
+    "sun-moon": "The user snares the target with grass and trips it.\nThe heavier the target, the greater the\nmove’s power.",
+    "ultra-sun-ultra-moon": "The user snares the target with grass and trips it.\nThe heavier the target, the greater the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user snares the target with grass and trips it.\nThe heavier the target, the greater the\nmove’s power.",
+    "sword-shield": "The user snares the target with grass and trips it.\nThe heavier the target, the greater the\nmove’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power increases with the target's weight in kilograms, to a maximum of 120.\n\nTarget's weight | Power\n--------------- | ----:\nUp to 10kg      |    20\nUp to 25kg      |    40\nUp to 50kg      |    60\nUp to 100kg     |    80\nUp to 200kg     |   100\nAbove 200kg     |   120\n",
+    "shortEffect": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+  },
+  "priority": 0
+}

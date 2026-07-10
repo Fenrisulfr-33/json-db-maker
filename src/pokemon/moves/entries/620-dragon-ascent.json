@@ -1,0 +1,36 @@
+{
+  "_id": 620,
+  "key": "dragon-ascent",
+  "name": {
+    "english": "Dragon Ascent",
+    "japanese": "ガリョウテンセイ",
+    "chinese": "畫龍點睛",
+    "korean": "화룡점정",
+    "german": "Ascenso Draco",
+    "french": "Zenitstürmer",
+    "italian": "Dragon Ascent",
+    "spanish": "Ascesa del Drago"
+  },
+  "type": "Flying",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "omega-ruby-alpha-sapphire": "After soaring upward, the user attacks its target by\ndropping out of the sky at high speeds, although it\nlowers its own Defense and Sp. Def in the process.",
+    "sun-moon": "After soaring upward, the user attacks its target by\ndropping out of the sky at high speeds. But it lowers\nits own Defense and Sp. Def stats in the process.",
+    "ultra-sun-ultra-moon": "After soaring upward, the user attacks its target by\ndropping out of the sky at high speeds. But it lowers\nits own Defense and Sp. Def stats in the process.",
+    "lets-go-pikachu-lets-go-eevee": "After soaring upward, the user attacks its target by\ndropping out of the sky at high speeds. But it lowers\nits own Defense and Sp. Def stats in the process.",
+    "sword-shield": "After soaring upward, the user attacks its target by\ndropping out of the sky at high speeds. But it lowers\nits own Defense and Sp. Def stats in the process."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Defense and Special Defense by one stage each.",
+    "shortEffect": "Lowers the user's Defense and Special Defense by one stage after inflicting damage."
+  },
+  "priority": 0
+}

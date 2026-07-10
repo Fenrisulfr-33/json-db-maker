@@ -1,0 +1,42 @@
+{
+  "_id": 397,
+  "key": "rock-polish",
+  "name": {
+    "english": "Rock Polish",
+    "japanese": "ロックカット",
+    "chinese": "磨光岩石",
+    "korean": "록커트",
+    "german": "Pulimento",
+    "french": "Steinpolitur",
+    "italian": "Rock Polish",
+    "spanish": "Lucidatura"
+  },
+  "type": "Rock",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n",
+    "platinum": "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n",
+    "heartgold-soulsilver": "The user polishes its\nbody to reduce drag.\nIt can sharply raise\nthe Speed stat.\n",
+    "black-white": "The user polishes its body to reduce drag.\nIt can sharply raise the Speed stat.",
+    "black-2-white-2": "The user polishes its body to reduce drag.\nIt can sharply raise the Speed stat.",
+    "x-y": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+    "omega-ruby-alpha-sapphire": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+    "sun-moon": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+    "ultra-sun-ultra-moon": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user polishes its body to reduce drag.\nThis can sharply raise the Speed stat.",
+    "sword-shield": "The user polishes its body to reduce drag.\nThis sharply raises the Speed stat."
+  },
+  "effect": {
+    "full": "Raises the user's Speed by two stages.",
+    "shortEffect": "Raises the user's Speed by two stages."
+  },
+  "priority": 0
+}

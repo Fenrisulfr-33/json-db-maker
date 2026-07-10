@@ -1,0 +1,42 @@
+{
+  "_id": 422,
+  "key": "thunder-fang",
+  "name": {
+    "english": "Thunder Fang",
+    "japanese": "かみなりのキバ",
+    "chinese": "雷牙",
+    "korean": "번개엄니",
+    "german": "Colmillo Rayo",
+    "french": "Donnerzahn",
+    "italian": "Thunder Fang",
+    "spanish": "Fulmindenti"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 65,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+    "platinum": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+    "heartgold-soulsilver": "The user bites with\nelectrified fangs.\nIt may also make the\nfoe flinch or become\nparalyzed.",
+    "black-white": "The user bites with electrified fangs.\nIt may also make the target flinch or\nleave it with paralysis.",
+    "black-2-white-2": "The user bites with electrified fangs.\nIt may also make the target flinch or\nleave it with paralysis.",
+    "x-y": "The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user bites with electrified fangs.\nThis may also make the target flinch or\nleave it with paralysis.",
+    "sun-moon": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+    "ultra-sun-ultra-moon": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis.",
+    "sword-shield": "The user bites with electrified fangs. This may also\nmake the target flinch or leave it with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target and a separate $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target and a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

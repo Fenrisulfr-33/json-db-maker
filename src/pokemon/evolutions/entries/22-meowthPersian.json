@@ -1,0 +1,57 @@
+{
+    "_id": 22,
+    "first": [
+        {
+            "id": 52,
+            "name": "Meowth",
+            "type": {
+                "one": "Normal"
+            }
+        },
+        {
+            "id": 53,
+            "name": "Persian",
+            "type": {
+                "one": "Normal"
+            },
+            "how": "Level 28"
+        }
+    ],
+    "second": [
+        {
+            "id": 52.1,
+            "name": "Meowth",
+            "form": "Alolan Meowth",
+            "type": {
+                "one": "Dark"
+            }
+        },
+        {
+            "id": 51.1,
+            "name": "Persian",
+            "form": "Alolan Persian",
+            "type": {
+                "one": "Dark"
+            },
+            "how": "High friendship"
+        }
+    ],
+    "third": [
+        {
+            "id": 52.2,
+            "name": "Meowth",
+            "form": "Galarian Meowth",
+            "type": {
+                "one": "Steel"
+            }
+        },
+        {
+            "id": 863,
+            "name": "Perrserker",
+            "type": {
+                "one": "Steel"
+            },
+            "how": "Level 28"
+        }
+    ]
+}

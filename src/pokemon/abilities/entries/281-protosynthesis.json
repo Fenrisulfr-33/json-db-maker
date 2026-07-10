@@ -1,0 +1,19 @@
+{
+  "_id": 281,
+  "key": "protosynthesis",
+  "name": {
+    "english": "Protosynthesis"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Raises highest stat in harsh sunlight, or if holding Booster Energy.",
+    "full": "Raises highest stat in harsh sunlight, or if holding Booster Energy."
+  },
+  "description": {
+    "scarlet-violet": "Boosts the Pokémon’s most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

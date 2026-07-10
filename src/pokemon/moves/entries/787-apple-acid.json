@@ -1,0 +1,29 @@
+{
+  "_id": 787,
+  "key": "apple-acid",
+  "name": {
+    "english": "Apple Acid",
+    "japanese": "りんごさん",
+    "chinese": "蘋果酸",
+    "korean": "사과산",
+    "german": "Ácido Málico",
+    "french": "Apfelsäure",
+    "italian": "Apple Acid",
+    "spanish": "Acido Malico"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user attacks the target with an acidic liquid created\nfrom tart apples. This also lowers the target’s\nSp. Def stat."
+  },
+  "effect": {},
+  "priority": 0
+}

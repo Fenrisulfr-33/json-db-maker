@@ -1,0 +1,34 @@
+{
+  "_id": 726,
+  "key": "lets-snuggle-forever",
+  "name": {
+    "english": "Lets Snuggle Forever",
+    "japanese": "ぽかぼかフレンドタイム",
+    "chinese": "親密無間大亂揍",
+    "korean": "투닥투닥프렌드타임",
+    "german": "Somanta Amistosa",
+    "french": "Herzliche Knuddelkloppe",
+    "italian": "Let’s Snuggle Forever",
+    "spanish": "Dolcesacco di Botte"
+  },
+  "type": "Fairy",
+  "category": "Physical",
+  "contest": null,
+  "pp": 1,
+  "power": 190,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "After obtaining Z-Power, the user, Mimikyu,\npunches the target with full force.",
+    "lets-go-pikachu-lets-go-eevee": "After obtaining Z-Power, the user, Mimikyu,\npunches the target with full force.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "After inflicting damage, all Normal-type moves become Electric-type for the remainder of the turn, including status moves. This effect is applied after move type-changing abilities, such as Pixilate and Normalize.",
+    "shortEffect": "After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn."
+  },
+  "priority": 0
+}

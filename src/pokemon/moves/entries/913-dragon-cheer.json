@@ -1,0 +1,25 @@
+{
+    "_id": 913,
+    "key": "dragon-cheer",
+    "name": {
+      "english": "Dragon Cheer"
+    },
+    "type": "Dragon",
+    "category": "Status",
+    "contest": null,
+    "pp": 15,
+    "power": null,
+    "accuracy": null,
+    "contact": false,
+    "generation": 9,
+    "target": "user-and-allies",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
+    },
+    "effect": {
+      "full": "Dragon Cheer increases the user's allies' critical hit ratio by one stage. If the affected Pokémon are Dragon-type, their critical hit ratio is increased by two stages instead. The effects of Dragon Cheer can be copied by Psych Up or Transform. Dragon Cheer's effects apply based on the allies' type upon use of the move, and do not change if the allies' type changes later in battle. The effect of Dragon Cheer is supposed to be removed by switching, but a glitch is currently preventing this; this will be fixed in Pokémon Scarlet and Violet version 3.0.1.[1] The move will fail if there is no adjacent ally, or if the ally is already under the effects of Focus Energy or Dragon Cheer.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

@@ -1,0 +1,27 @@
+{
+  "_id": 201,
+  "key": "berserk",
+  "name": {
+    "english": "Berserk"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Raises this Pokémon's Special Attack by one stage every time its HP drops below half.",
+    "full": "Whenever this Pokémon takes damage from a move that causes its HP to drop below 50%, its Special Attack rises by one stage."
+  },
+  "description": {
+    "sun-moon": "Boosts the Pokémon’s Sp. Atk stat when it takes a  hit that causes its HP to become half or less.",
+    "ultra-sun-ultra-moon": "Boosts the Pokémon’s Sp. Atk stat when it takes a  hit that causes its HP to become half or less.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.",
+    "sword-shield": "Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Drampa",
+        "id": 780
+      }
+    ],
+    "hidden": []
+  }
+}

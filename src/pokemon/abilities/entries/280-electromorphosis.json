@@ -1,0 +1,24 @@
+{
+  "_id": 280,
+  "key": "electromorphosis",
+  "name": {
+    "english": "Electromorphosis"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "If a Pokémon with Electromorphosis is hit by an attack, the power of the next Electric-type move it uses is doubled.",
+    "full": "If a Pokémon with Electromorphosis is hit by an attack, the power of the next Electric-type move it uses is doubled."
+  },
+  "description": {
+    "scarlet-violet": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Bellibolt",
+        "id": 939
+      }
+    ],
+    "hidden": []
+  }
+}

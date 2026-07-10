@@ -1,0 +1,22 @@
+{
+	"_id": 260,
+	"key": "swampert",
+	"moves": [
+		"wave-crash",
+		"earthquake",
+		"ice-punch",
+		"protect"
+	],
+	"heldItem": "swampertite",
+	"ability": "swift-swim",
+	"nature": "adamant",
+	"evs": {
+		"hp": 0,
+		"atk": 252,
+		"def": 0,
+		"spa": 0,
+		"spd": 4,
+		"spe": 252
+	},
+	"terraType": ""
+}

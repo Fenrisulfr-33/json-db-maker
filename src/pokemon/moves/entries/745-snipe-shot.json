@@ -1,0 +1,32 @@
+{
+  "_id": 745,
+  "key": "snipe-shot",
+  "name": {
+    "english": "Snipe Shot",
+    "japanese": "ねらいうち",
+    "chinese": "狙擊",
+    "korean": "노려맞히기",
+    "german": "Disparo Certero",
+    "french": "Präzisionsschuss",
+    "italian": "Snipe Shot",
+    "spanish": "Tiromirato"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user ignores the effects of opposing Pokémon’s\nmoves and Abilities that draw in moves, allowing this\nmove to hit the chosen target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then (if successful) sets reflect on the user's side of the field.",
+    "shortEffect": "Sets Reflect on the user's side of the field after inflicting damage."
+  },
+  "priority": 0
+}

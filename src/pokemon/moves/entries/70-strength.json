@@ -1,0 +1,47 @@
+{
+  "_id": 70,
+  "key": "strength",
+  "name": {
+    "english": "Strength",
+    "japanese": "かいりき",
+    "chinese": "劲力",
+    "korean": "괴력",
+    "german": "Fuerza",
+    "french": "Stärke",
+    "italian": "Strength",
+    "spanish": "Forza"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A powerful physi­\ncal attack.",
+    "crystal": "A powerful physi­\ncal attack.",
+    "ruby-sapphire": "Builds enormous power,\nthen slams the foe.",
+    "emerald": "Builds enormous power,\nthen slams the foe.",
+    "firered-leafgreen": "The foe is slugged\nat maximum power.\nCan also be used\nto move boulders.",
+    "diamond-pearl": "The foe is slugged\nwith a punch thrown\nat maximum power.\nIt can also be used\nto move boulders.",
+    "platinum": "The foe is slugged\nwith a punch thrown\nat maximum power.\nIt can also be used\nto move boulders.",
+    "heartgold-soulsilver": "The foe is slugged\nwith a punch thrown\nat maximum power.\nIt can also be used\nto move boulders.",
+    "black-white": "The target is slugged with a punch thrown\nat maximum power. It can also be used\nto move heavy boulders.",
+    "black-2-white-2": "The target is slugged with a punch thrown\nat maximum power. It can also be used\nto move heavy boulders.",
+    "x-y": "The target is slugged with a punch thrown\nat maximum power. This can also be used\nto move heavy boulders.",
+    "omega-ruby-alpha-sapphire": "The target is slugged with a punch thrown\nat maximum power. This can also be used\nto move heavy boulders.",
+    "sun-moon": "The target is slugged with a punch thrown at\nmaximum power.",
+    "ultra-sun-ultra-moon": "The target is slugged with a punch thrown at\nmaximum power.",
+    "lets-go-pikachu-lets-go-eevee": "The target is slugged with a punch thrown at\nmaximum power.",
+    "sword-shield": "The target is slugged with a punch thrown at\nmaximum power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

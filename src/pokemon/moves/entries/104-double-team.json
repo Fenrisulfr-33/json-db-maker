@@ -1,0 +1,47 @@
+{
+  "_id": 104,
+  "key": "double-team",
+  "name": {
+    "english": "Double Team",
+    "japanese": "かげぶんしん",
+    "chinese": "影子分身",
+    "korean": "그림자분신",
+    "german": "Doble Equipo",
+    "french": "Doppelteam",
+    "italian": "Double Team",
+    "spanish": "Doppioteam"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 15,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Heightens evasive­\nness.",
+    "crystal": "Heightens evasive­\nness.",
+    "ruby-sapphire": "Creates illusory copies to\nraise evasiveness.",
+    "emerald": "Creates illusory copies to\nraise evasiveness.",
+    "firered-leafgreen": "The user creates\nillusory copies of\nitself to raise its\nevasiveness.",
+    "diamond-pearl": "By moving rapidly, the\nuser makes illusory\ncopies of itself to\nraise its evasiveness.\n",
+    "platinum": "By moving rapidly, the\nuser makes illusory\ncopies of itself to\nraise its evasiveness.\n",
+    "heartgold-soulsilver": "By moving rapidly, the\nuser makes illusory\ncopies of itself to\nraise its evasiveness.\n",
+    "black-white": "By moving rapidly, the user makes illusory\ncopies of itself to raise its evasiveness.",
+    "black-2-white-2": "By moving rapidly, the user makes illusory\ncopies of itself to raise its evasiveness.",
+    "x-y": "By moving rapidly, the user makes illusory\ncopies of itself to raise its evasiveness.",
+    "omega-ruby-alpha-sapphire": "By moving rapidly, the user makes illusory\ncopies of itself to raise its evasiveness.",
+    "sun-moon": "By moving rapidly, the user makes illusory copies of\nitself to raise its evasiveness.",
+    "ultra-sun-ultra-moon": "By moving rapidly, the user makes illusory copies of\nitself to raise its evasiveness.",
+    "lets-go-pikachu-lets-go-eevee": "By moving rapidly, the user makes illusory copies of\nitself to raise its evasiveness.",
+    "sword-shield": "By moving rapidly, the user makes illusory copies of\nitself to raise its evasiveness."
+  },
+  "effect": {
+    "full": "Raises the user's evasion by one stage.",
+    "shortEffect": "Raises the user's evasion by one stage."
+  },
+  "priority": 0
+}

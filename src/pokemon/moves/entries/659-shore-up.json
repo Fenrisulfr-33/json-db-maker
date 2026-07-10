@@ -1,0 +1,35 @@
+{
+  "_id": 659,
+  "key": "shore-up",
+  "name": {
+    "english": "Shore Up",
+    "japanese": "すなあつめ",
+    "chinese": "集沙",
+    "korean": "모래모으기",
+    "german": "Recogearena",
+    "french": "Sandsammler",
+    "italian": "Shore Up",
+    "spanish": "Sabbiaccumulo"
+  },
+  "type": "Ground",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user regains up to half of its max HP. It restores\nmore HP in a sandstorm.",
+    "ultra-sun-ultra-moon": "The user regains up to half of its max HP. It restores\nmore HP in a sandstorm.",
+    "lets-go-pikachu-lets-go-eevee": "The user regains up to half of its max HP. It restores\nmore HP in a sandstorm.",
+    "sword-shield": "The user regains up to half of its max HP. It restores\nmore HP in a sandstorm."
+  },
+  "effect": {
+    "full": "Heals the user for ½ its max HP.  During a sandstorm, the healing is increased to ⅔.",
+    "shortEffect": "Heals the user for ½ its max HP, or ⅔ during a sandstorm."
+  },
+  "priority": 0
+}

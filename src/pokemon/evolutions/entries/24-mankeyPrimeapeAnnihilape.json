@@ -1,0 +1,29 @@
+{
+    "_id": 24,
+    "first": [
+        {
+            "id": 56,
+            "name": "Mankey",
+            "type": {
+                "one": "Fighting"
+            }
+        },
+        {
+            "id": 57,
+            "name": "Primeape",
+            "type": {
+                "one": "Fighting"
+            },
+            "how": "Level 28"
+        },
+        {
+            "id": 979,
+            "name": "Annihilape",
+            "type": {
+                "one": "Fighting",
+                "two": "Ghost"
+            },
+            "how": "Use Rage Fist 20 times"
+        }
+    ]
+}

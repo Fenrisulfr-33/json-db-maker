@@ -1,0 +1,35 @@
+{
+  "_id": 715,
+  "key": "tearful-look",
+  "name": {
+    "english": "Tearful Look",
+    "japanese": "なみだめ",
+    "chinese": "淚眼汪汪",
+    "korean": "눈물그렁그렁",
+    "german": "Ojos Llorosos",
+    "french": "Tränendrüse",
+    "italian": "Tearful Look",
+    "spanish": "Occhionilucidi"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user gets teary eyed to make the target lose\nits combative spirit. This lowers the target’s\nAttack and Sp. Atk stats.",
+    "ultra-sun-ultra-moon": "The user gets teary eyed to make the target lose\nits combative spirit. This lowers the target’s\nAttack and Sp. Atk stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user gets teary eyed to make the target lose\nits combative spirit. This lowers the target’s\nAttack and Sp. Atk stats.",
+    "sword-shield": "The user gets teary eyed to make the target lose\nits combative spirit. This lowers the target’s\nAttack and Sp. Atk stats."
+  },
+  "effect": {
+    "full": "Lowers the target's Attack and Special Attack by one stage each.",
+    "shortEffect": "Lowers the target's Attack and Special Attack by one stage."
+  },
+  "priority": 0
+}

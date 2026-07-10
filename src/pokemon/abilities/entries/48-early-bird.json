@@ -1,0 +1,102 @@
+{
+  "_id": 48,
+  "key": "early-bird",
+  "name": {
+    "english": "Early Bird"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Makes sleep pass twice as quickly.",
+    "full": "This Pokémon's remaining sleep turn count falls by 2 rather than 1. If this Pokémon's sleep counter is at 1, it will fall to 0 and then the Pokémon will wake up."
+  },
+  "description": {
+    "ruby-sapphire": "Awakens quickly from sleep.",
+    "emerald": "Awakens quickly from sleep.",
+    "firered-leafgreen": "Awakens quickly from sleep.",
+    "diamond-pearl": "The Pokémon awakens quickly from sleep.",
+    "platinum": "The Pokémon awakens quickly from sleep.",
+    "heartgold-soulsilver": "The Pokémon awakens quickly from sleep.",
+    "black-white": "The Pokémon awakens quickly from sleep.",
+    "black-2-white-2": "The Pokémon awakens quickly from sleep.",
+    "x-y": "The Pokémon awakens quickly from sleep.",
+    "omega-ruby-alpha-sapphire": "The Pokémon awakens quickly from sleep.",
+    "sun-moon": "The Pokémon awakens twice as fast as other Pokémon from sleep.",
+    "ultra-sun-ultra-moon": "The Pokémon awakens twice as fast as other Pokémon from sleep.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon awakens from sleep twice as fast as other Pokémon.",
+    "sword-shield": "The Pokémon awakens from sleep twice as fast as other Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Doduo",
+        "id": 84
+      },
+      {
+        "name": "Dodrio",
+        "id": 85
+      },
+      {
+        "name": "Kangaskhan",
+        "id": 115
+      },
+      {
+        "name": "Ledyba",
+        "id": 165
+      },
+      {
+        "name": "Ledian",
+        "id": 166
+      },
+      {
+        "name": "Natu",
+        "id": 177
+      },
+      {
+        "name": "Xatu",
+        "id": 178
+      },
+      {
+        "name": "Girafarig",
+        "id": 203
+      },
+      {
+        "name": "Houndour",
+        "id": 228
+      },
+      {
+        "name": "Houndoom",
+        "id": 229
+      },
+      {
+        "name": "Seedot",
+        "id": 273
+      },
+      {
+        "name": "Nuzleaf",
+        "id": 274
+      },
+      {
+        "name": "Shiftry",
+        "id": 275
+      },
+      {
+        "name": "Smoliv",
+        "id": 928
+      },
+      {
+        "name": "Dolliv",
+        "id": 929
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Sunkern",
+        "id": 191
+      },
+      {
+        "name": "Sunflora",
+        "id": 192
+      }
+    ]
+  }
+}

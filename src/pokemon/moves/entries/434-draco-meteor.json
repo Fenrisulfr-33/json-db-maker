@@ -1,0 +1,42 @@
+{
+  "_id": 434,
+  "key": "draco-meteor",
+  "name": {
+    "english": "Draco Meteor",
+    "japanese": "りゅうせいぐん",
+    "chinese": "天龙流星",
+    "korean": "용성군",
+    "german": "Cometa Draco",
+    "french": "Draco Meteor",
+    "italian": "Draco Meteor",
+    "spanish": "Dragobolide"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 5,
+  "power": 130,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "platinum": "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "heartgold-soulsilver": "Comets are summoned\ndown from the sky.\nThe attack’s recoil\nsharply reduces the\nuser’s Sp. Atk stat.",
+    "black-white": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly reduces the user’s Sp. Atk stat.",
+    "black-2-white-2": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly reduces the user’s Sp. Atk stat.",
+    "x-y": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly lowers the user’s Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "Comets are summoned down from the sky\nonto the target. The attack’s recoil\nharshly lowers the user’s Sp. Atk stat.",
+    "sun-moon": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+    "ultra-sun-ultra-moon": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat.",
+    "sword-shield": "Comets are summoned down from the sky onto the\ntarget. The attack’s recoil harshly lowers the user’s\nSp. Atk stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Special Attack by two stages.",
+    "shortEffect": "Lowers the user's Special Attack by two stages after inflicting damage."
+  },
+  "priority": 0
+}

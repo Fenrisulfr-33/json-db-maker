@@ -1,0 +1,62 @@
+{
+  "_id": 175,
+  "key": "sweet-veil",
+  "name": {
+    "english": "Sweet Veil"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Prevents friendly Pokémon from sleeping.",
+    "full": "Prevents friendly Pokémon from sleeping."
+  },
+  "description": {
+    "x-y": "Prevents itself and ally Pokémon from falling asleep.",
+    "omega-ruby-alpha-sapphire": "Prevents itself and ally Pokémon from falling asleep.",
+    "sun-moon": "Prevents itself and ally Pokémon from falling asleep.",
+    "ultra-sun-ultra-moon": "Prevents itself and ally Pokémon from falling asleep.",
+    "lets-go-pikachu-lets-go-eevee": "Prevents itself and ally Pokémon from falling asleep.",
+    "sword-shield": "Prevents itself and ally Pokémon from falling asleep."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Swirlix",
+        "id": 684
+      },
+      {
+        "name": "Slurpuff",
+        "id": 685
+      },
+      {
+        "name": "Milcery",
+        "id": 868
+      },
+      {
+        "name": "Alcremie",
+        "id": 869
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Cutiefly",
+        "id": 742
+      },
+      {
+        "name": "Ribombee",
+        "id": 743
+      },
+      {
+        "name": "Bounsweet",
+        "id": 761
+      },
+      {
+        "name": "Steenee",
+        "id": 762
+      },
+      {
+        "name": "Tsareena",
+        "id": 763
+      }
+    ]
+  }
+}

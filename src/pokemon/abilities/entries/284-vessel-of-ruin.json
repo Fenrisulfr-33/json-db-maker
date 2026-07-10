@@ -1,0 +1,19 @@
+{
+  "_id": 284,
+  "key": "vessel-of-ruin",
+  "name": {
+    "english": "Vessel of Ruin"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Lowers Special Attack of all Pokémon except itself.",
+    "full": "Lowers Special Attack of all Pokémon except itself."
+  },
+  "description": {
+    "scarlet-violet": "The power of the Pokémon’s ruinous vessel lowers the Sp. Atk stats of all Pokémon except itself."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

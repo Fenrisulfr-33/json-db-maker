@@ -1,0 +1,24 @@
+{
+  "_id": 60,
+  "evoLine": [
+    [
+      {
+        "id": 165,
+        "name": "Ledyba",
+        "type": {
+          "one": "Bug",
+          "two": "Flying"
+        }
+      },
+      {
+        "id": 166,
+        "name": "Ledian",
+        "type": {
+          "one": "Bug",
+          "two": "Flying"
+        },
+        "how": "Level 18"
+      }
+    ]
+  ]
+}

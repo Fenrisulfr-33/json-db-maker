@@ -1,0 +1,26 @@
+{
+  "_id": 3,
+  "start": {
+    "id": 7,
+    "name": "Squirtle",
+    "type": {
+      "one": "Water"
+    },
+    "how": "Level 16",
+    "next": {
+      "id": 8,
+      "name": "Wartortle",
+      "type": {
+        "one": "Water"
+      },
+      "how": "Level 36",
+      "next": {
+        "id": 9,
+        "name": "Blastoise",
+        "type": {
+          "one": "Water"
+        }
+      }
+    }
+  }
+}

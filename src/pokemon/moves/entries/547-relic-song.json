@@ -1,0 +1,39 @@
+{
+  "_id": 547,
+  "key": "relic-song",
+  "name": {
+    "english": "Relic Song",
+    "japanese": "いにしえのうた",
+    "chinese": "古老之歌",
+    "korean": "옛노래",
+    "german": "Canto Arcaico",
+    "french": "Urgesang",
+    "italian": "Relic Song",
+    "spanish": "Cantoantico"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "black-white": "The user sings an ancient song and attacks\nby appealing to the hearts of those\nlistening. It may also induce sleep.",
+    "black-2-white-2": "The user sings an ancient song and attacks\nby appealing to the hearts of those\nlistening. It may also induce sleep.",
+    "x-y": "The user sings an ancient song and attacks\nby appealing to the hearts of the listening\nopposing Pokémon. This may also induce sleep.",
+    "omega-ruby-alpha-sapphire": "The user sings an ancient song and attacks\nby appealing to the hearts of the listening\nopposing Pokémon. This may also induce sleep.",
+    "sun-moon": "The user sings an ancient song and attacks by\nappealing to the hearts of the listening opposing\nPokémon. This may also induce sleep.",
+    "ultra-sun-ultra-moon": "The user sings an ancient song and attacks by\nappealing to the hearts of the listening opposing\nPokémon. This may also induce sleep.",
+    "lets-go-pikachu-lets-go-eevee": "The user sings an ancient song and attacks by\nappealing to the hearts of the listening opposing\nPokémon. This may also induce sleep.",
+    "sword-shield": "The user sings an ancient song and attacks by\nappealing to the hearts of the listening opposing\nPokémon. This may also induce sleep."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to put the target to sleep.\nIf the user is a meloetta, it will toggle between Aria and Pirouette Forme.",
+    "shortEffect": "Has a $effect_chance% chance to put the target to sleep."
+  },
+  "priority": 0
+}

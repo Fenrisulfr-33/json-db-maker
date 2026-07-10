@@ -1,0 +1,37 @@
+{
+  "_id": 177,
+  "key": "gale-wings",
+  "name": {
+    "english": "Gale Wings"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Raises flying moves' priority by one stage.",
+    "full": "Raises flying moves' priority by one stage."
+  },
+  "description": {
+    "x-y": "Gives priority to Flying-type moves.",
+    "omega-ruby-alpha-sapphire": "Gives priority to Flying-type moves.",
+    "sun-moon": "Gives priority to Flying-type moves when the  Pokémon’s HP is full.",
+    "ultra-sun-ultra-moon": "Gives priority to Flying-type moves when the  Pokémon’s HP is full.",
+    "lets-go-pikachu-lets-go-eevee": "Gives priority to Flying-type moves when the Pokémon’s HP is full.",
+    "sword-shield": "Gives priority to Flying-type moves when the Pokémon’s HP is full."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Fletchling",
+        "id": 661
+      },
+      {
+        "name": "Fletchinder",
+        "id": 662
+      },
+      {
+        "name": "Talonflame",
+        "id": 663
+      }
+    ]
+  }
+}

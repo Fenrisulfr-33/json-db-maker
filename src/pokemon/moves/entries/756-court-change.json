@@ -1,0 +1,29 @@
+{
+  "_id": 756,
+  "key": "court-change",
+  "name": {
+    "english": "Court Change",
+    "japanese": "コートチェンジ",
+    "chinese": "換場",
+    "korean": "코트체인지",
+    "german": "Cambio de Cancha",
+    "french": "Seitenwechsel",
+    "italian": "Court Change",
+    "spanish": "Cambiocampo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 8,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "sword-shield": "With its mysterious power, the user swaps the effects on\neither side of the field."
+  },
+  "effect": {},
+  "priority": 0
+}

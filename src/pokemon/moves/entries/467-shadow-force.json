@@ -1,0 +1,42 @@
+{
+  "_id": 467,
+  "key": "shadow-force",
+  "name": {
+    "english": "Shadow Force",
+    "japanese": "シャドーダイブ",
+    "chinese": "影子潜水",
+    "korean": "섀도다이브",
+    "german": "Golpe Umbrío",
+    "french": "Schemenkraft",
+    "italian": "Shadow Force",
+    "spanish": "Oscurotuffo"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user disappears,\nthen strikes the foe\non the second turn.\nIt hits even if the\nfoe used Protect.",
+    "platinum": "The user disappears,\nthen strikes the foe\non the second turn.\nIt hits even if the\nfoe used Protect.",
+    "heartgold-soulsilver": "The user disappears,\nthen strikes the foe\non the second turn.\nIt hits even if the\nfoe protects itself.",
+    "black-white": "The user disappears, then strikes the\ntarget on the second turn.\nIt hits even if the target protects itself.",
+    "black-2-white-2": "The user disappears, then strikes the\ntarget on the second turn.\nIt hits even if the target protects itself.",
+    "x-y": "The user disappears, then strikes the\ntarget on the next turn.\nThis move hits even if the target protects itself.",
+    "omega-ruby-alpha-sapphire": "The user disappears, then strikes the\ntarget on the next turn.\nThis move hits even if the target protects itself.",
+    "sun-moon": "The user disappears, then strikes the target on the\nnext turn. This move hits even if the target\nprotects itself.",
+    "ultra-sun-ultra-moon": "The user disappears, then strikes the target on the\nnext turn. This move hits even if the target\nprotects itself.",
+    "lets-go-pikachu-lets-go-eevee": "The user disappears, then strikes the target on the\nnext turn. This move hits even if the target\nprotects itself.",
+    "sword-shield": "The user disappears, then strikes the target on the\nnext turn. This move hits even if the target\nprotects itself."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of detect and protect.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect."
+  },
+  "priority": 0
+}

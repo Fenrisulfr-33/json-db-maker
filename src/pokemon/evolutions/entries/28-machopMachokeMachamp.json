@@ -1,0 +1,30 @@
+{
+    "_id": 28,
+    "evoLine": [
+        [
+            {
+                "id": 66,
+                "name": "Machop",
+                "type": {
+                    "one": "Fighting"
+                }
+            },
+            {
+                "id": 67,
+                "name": "Machoke",
+                "type": {
+                    "one": "Fighting"
+                },
+                "how": "Level 28"
+            },
+            {
+                "id": 68,
+                "name": "Machamp",
+                "type": {
+                    "one": "Fighting"
+                },
+                "how": "Trade"
+            }
+        ]
+    ]
+}

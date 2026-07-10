@@ -1,0 +1,39 @@
+{
+  "_id": 522,
+  "key": "struggle-bug",
+  "name": {
+    "english": "Struggle Bug",
+    "japanese": "むしのていこう",
+    "chinese": "虫的抵抗",
+    "korean": "벌레의저항",
+    "german": "Estoicismo",
+    "french": "Käfertrutz",
+    "italian": "Struggle Bug",
+    "spanish": "Entomoblocco"
+  },
+  "type": "Bug",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "black-white": "While resisting, the user attacks the\nopposing Pokémon. The targets’\nSp. Atk stat is reduced.",
+    "black-2-white-2": "While resisting, the user attacks the\nopposing Pokémon. The targets’\nSp. Atk stat is reduced.",
+    "x-y": "While resisting, the user attacks the\nopposing Pokémon. This lowers the\nSp. Atk stat of those hit.",
+    "omega-ruby-alpha-sapphire": "While resisting, the user attacks the\nopposing Pokémon. This lowers the\nSp. Atk stat of those hit.",
+    "sun-moon": "While resisting, the user attacks the opposing\nPokémon. This lowers the Sp. Atk stat of those hit.",
+    "ultra-sun-ultra-moon": "While resisting, the user attacks the opposing\nPokémon. This lowers the Sp. Atk stat of those hit.",
+    "lets-go-pikachu-lets-go-eevee": "While resisting, the user attacks the opposing\nPokémon. This lowers the Sp. Atk stat of those hit.",
+    "sword-shield": "While resisting, the user attacks opposing Pokémon.\nThis lowers the Sp. Atk stats of those hit."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Attack by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Attack by one stage."
+  },
+  "priority": 0
+}

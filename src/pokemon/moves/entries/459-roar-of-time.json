@@ -1,0 +1,42 @@
+{
+  "_id": 459,
+  "key": "roar-of-time",
+  "name": {
+    "english": "Roar of Time",
+    "japanese": "ときのほうこう",
+    "chinese": "时间咆哮",
+    "korean": "시간의포효",
+    "german": "Distorsión",
+    "french": "Zeitenlärm",
+    "italian": "Roar of Time",
+    "spanish": "Fragortempo"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.",
+    "platinum": "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.",
+    "heartgold-soulsilver": "The user blasts the\nfoe with power that\ndistorts even time.\nThe user must rest\non the next turn.",
+    "black-white": "The user blasts the target with power\nthat distorts even time.\nThe user must rest on the next turn.",
+    "black-2-white-2": "The user blasts the target with power\nthat distorts even time.\nThe user must rest on the next turn.",
+    "x-y": "The user blasts the target with power\nthat distorts even time.\nThe user can’t move on the next turn.",
+    "omega-ruby-alpha-sapphire": "The user blasts the target with power\nthat distorts even time.\nThe user can’t move on the next turn.",
+    "sun-moon": "The user blasts the target with power that distorts\neven time. The user can’t move on the next turn.",
+    "ultra-sun-ultra-moon": "The user blasts the target with power that distorts\neven time. The user can’t move on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user blasts the target with power that distorts\neven time. The user can’t move on the next turn.",
+    "sword-shield": "The user blasts the target with power that distorts\neven time. The user can’t move on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "shortEffect": "User foregoes its next turn to recharge."
+  },
+  "priority": 0
+}

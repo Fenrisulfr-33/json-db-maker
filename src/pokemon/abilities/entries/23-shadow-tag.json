@@ -1,0 +1,54 @@
+{
+  "_id": 23,
+  "key": "shadow-tag",
+  "name": {
+    "english": "Shadow Tag"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents opponents from fleeing or switching out.",
+    "full": "While this Pokémon is in battle, opposing Pokémon cannot flee or switch out. Other Pokémon with this ability are unaffected. Pokémon with run away can still flee. Pokémon can still switch out with the use of a move or item."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents the foe’s escape.",
+    "emerald": "Prevents the foe’s escape.",
+    "firered-leafgreen": "Prevents the foe’s escape.",
+    "diamond-pearl": "Prevents the foe from escaping.",
+    "platinum": "Prevents the foe from escaping.",
+    "heartgold-soulsilver": "Prevents the foe from escaping.",
+    "black-white": "Prevents the foe from escaping.",
+    "black-2-white-2": "Prevents the foe from escaping.",
+    "x-y": "Prevents opposing Pokémon from escaping.",
+    "omega-ruby-alpha-sapphire": "Prevents opposing Pokémon from escaping.",
+    "sun-moon": "This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.",
+    "ultra-sun-ultra-moon": "This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.",
+    "lets-go-pikachu-lets-go-eevee": "This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.",
+    "sword-shield": "This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Wobbuffet",
+        "id": 202
+      },
+      {
+        "name": "Wynaut",
+        "id": 360
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Gothita",
+        "id": 574
+      },
+      {
+        "name": "Gothorita",
+        "id": 575
+      },
+      {
+        "name": "Gothitelle",
+        "id": 576
+      }
+    ]
+  }
+}

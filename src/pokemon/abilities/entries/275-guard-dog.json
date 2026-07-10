@@ -1,0 +1,24 @@
+{
+  "_id": 275,
+  "key": "guard-dog",
+  "name": {
+    "english": "Guard Dog"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Boosts Attack if intimidated, and prevents being forced to switch out.",
+    "full": "Boosts Attack if intimidated, and prevents being forced to switch out."
+  },
+  "description": {
+    "scarlet-violet": "Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Mabosstiff",
+        "id": 943
+      }
+    ],
+    "hidden": []
+  }
+}

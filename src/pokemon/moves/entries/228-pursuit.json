@@ -1,0 +1,47 @@
+{
+  "_id": 228,
+  "key": "pursuit",
+  "name": {
+    "english": "Pursuit",
+    "japanese": "おいうち",
+    "chinese": "追打",
+    "korean": "따라가때리기",
+    "german": "Persecución",
+    "french": "Verfolgung",
+    "italian": "Pursuit",
+    "spanish": "Inseguimento"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 20,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Heavily strikes\nswitching POKéMON.",
+    "crystal": "Heavily strikes\nswitching POKéMON.",
+    "ruby-sapphire": "Inflicts bad damage if used\non a foe switching out.",
+    "emerald": "Inflicts bad damage if used\non a foe switching out.",
+    "firered-leafgreen": "An attack move that\nworks especially\nwell on a foe that\nis switching out.",
+    "diamond-pearl": "An attack move that\ninflicts double damage\nif used on a foe that\nis switching out of\nbattle.",
+    "platinum": "An attack move that\ninflicts double damage\nif used on a foe that\nis switching out of\nbattle.",
+    "heartgold-soulsilver": "An attack move that\ninflicts double damage\nif used on a foe that\nis switching out of\nbattle.",
+    "black-white": "An attack move that inflicts double damage\nif used on a target that is switching out\nof battle.",
+    "black-2-white-2": "An attack move that inflicts double damage\nif used on a target that is switching out\nof battle.",
+    "x-y": "An attack move that inflicts double damage\nif used on a target that is switching out\nof battle.",
+    "omega-ruby-alpha-sapphire": "An attack move that inflicts double damage\nif used on a target that is switching out\nof battle.",
+    "sun-moon": "The power of this attack move is doubled if it’s used\non a target that’s switching out of battle.",
+    "ultra-sun-ultra-moon": "The power of this attack move is doubled if it’s used\non a target that’s switching out of battle.",
+    "lets-go-pikachu-lets-go-eevee": "The power of this attack move is doubled if it’s used\non a target that’s switching out of battle.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target attempts to switch out this turn before the user acts, this move hits the target before it leaves and has double power.\n\nThis effect can still hit a Pokémon that switches out when it has a substitute up or when an ally has used follow me.",
+    "shortEffect": "Has double power against, and can hit, Pokémon attempting to switch out."
+  },
+  "priority": 0
+}

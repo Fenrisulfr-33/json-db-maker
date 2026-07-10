@@ -1,0 +1,45 @@
+{
+  "_id": 285,
+  "key": "skill-swap",
+  "name": {
+    "english": "Skill Swap",
+    "japanese": "スキルスワップ",
+    "chinese": "交换绝招",
+    "korean": "스킬스웹",
+    "german": "Intercambio",
+    "french": "Fähigkeitstausch",
+    "italian": "Skill Swap",
+    "spanish": "Baratto"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "The user swaps special\nabilities with the target.",
+    "emerald": "The user swaps special\nabilities with the target.",
+    "firered-leafgreen": "The user employs\nits psychic power\nto swap abilities\nwith the foe.",
+    "diamond-pearl": "The user employs its\npsychic power to\nexchange abilities\nwith the foe.\n",
+    "platinum": "The user employs its\npsychic power to\nexchange abilities\nwith the foe.\n",
+    "heartgold-soulsilver": "The user employs its\npsychic power to\nexchange abilities\nwith the foe.\n",
+    "black-white": "The user employs its psychic power to\nexchange Abilities with the target.",
+    "black-2-white-2": "The user employs its psychic power to\nexchange Abilities with the target.",
+    "x-y": "The user employs its psychic power to\nexchange Abilities with the target.",
+    "omega-ruby-alpha-sapphire": "The user employs its psychic power to\nexchange Abilities with the target.",
+    "sun-moon": "The user employs its psychic power to exchange\nAbilities with the target.",
+    "ultra-sun-ultra-moon": "The user employs its psychic power to exchange\nAbilities with the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user employs its psychic power to exchange\nAbilities with the target.",
+    "sword-shield": "The user employs its psychic power to exchange\nAbilities with the target."
+  },
+  "effect": {
+    "full": "User and target switch abilities.  Ignores accuracy and evasion modifiers.\n\nIf either Pokémon has multitype or wonder guard, this move will fail.",
+    "shortEffect": "User and target swap abilities."
+  },
+  "priority": 0
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 276,
+  "key": "superpower",
+  "name": {
+    "english": "Superpower",
+    "japanese": "ばかぢから",
+    "chinese": "蛮力",
+    "korean": "엄청난힘",
+    "german": "Fuerza Bruta",
+    "french": "Kraftkoloss",
+    "italian": "Superpower",
+    "spanish": "Troppoforte"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Boosts strength sharply,\nbut lowers abilities.",
+    "emerald": "Boosts strength sharply,\nbut lowers abilities.",
+    "firered-leafgreen": "A powerful attack,\nbut it also lowers\nthe user’s ATTACK\nand DEFENSE stats.",
+    "diamond-pearl": "The user attacks the\nfoe with great power.\nHowever, it also\nlowers the user’s\nAttack and Defense.",
+    "platinum": "The user attacks the\nfoe with great power.\nHowever, it also\nlowers the user’s\nAttack and Defense.",
+    "heartgold-soulsilver": "The user attacks the\nfoe with great power.\nHowever, it also\nlowers the user’s\nAttack and Defense.",
+    "black-white": "The user attacks the target with great\npower. However, it also lowers the\nuser’s Attack and Defense.",
+    "black-2-white-2": "The user attacks the target with great\npower. However, it also lowers the\nuser’s Attack and Defense.",
+    "x-y": "The user attacks the target with great\npower. However, this also lowers the\nuser’s Attack and Defense stats.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with great\npower. However, this also lowers the\nuser’s Attack and Defense stats.",
+    "sun-moon": "The user attacks the target with great power.\nHowever, this also lowers the user’s Attack and\nDefense stats.",
+    "ultra-sun-ultra-moon": "The user attacks the target with great power.\nHowever, this also lowers the user’s Attack and\nDefense stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with great power.\nHowever, this also lowers the user’s Attack and\nDefense stats.",
+    "sword-shield": "The user attacks the target with great power.\nHowever, this also lowers the user’s Attack and\nDefense stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage, then lowers the user's Attack and Defense by one stage each.",
+    "shortEffect": "Lowers the user's Attack and Defense by one stage after inflicting damage."
+  },
+  "priority": 0
+}

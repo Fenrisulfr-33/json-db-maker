@@ -1,0 +1,47 @@
+{
+  "_id": 81,
+  "key": "string-shot",
+  "name": {
+    "english": "String Shot",
+    "japanese": "いとをはく",
+    "chinese": "吐丝",
+    "korean": "실뿜기",
+    "german": "Disparo Demora",
+    "french": "Fadenschuss",
+    "italian": "String Shot",
+    "spanish": "Millebave"
+  },
+  "type": "Bug",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 40,
+  "power": null,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that lowers\nthe foe's SPEED.",
+    "crystal": "A move that lowers\nthe foe's SPEED.",
+    "ruby-sapphire": "Binds the foe with string\nto reduce its SPEED.",
+    "emerald": "Binds the foe with string\nto reduce its SPEED.",
+    "firered-leafgreen": "The foe is bound\nwith strings shot\nfrom the mouth to\nreduce its SPEED.",
+    "diamond-pearl": "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.",
+    "platinum": "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.",
+    "heartgold-soulsilver": "The foe is bound with\nsilk blown from the\nuser’s mouth.\nIt reduces the\ntarget’s Speed stat.",
+    "black-white": "The targets are bound with silk blown\nfrom the user’s mouth. This silk reduces\nthe targets’ Speed stat.",
+    "black-2-white-2": "The targets are bound with silk blown\nfrom the user’s mouth. This silk reduces\nthe targets’ Speed stat.",
+    "x-y": "The opposing Pokémon are bound\nwith silk blown from the user’s mouth\nthat harshly lowers the Speed stat.",
+    "omega-ruby-alpha-sapphire": "The opposing Pokémon are bound\nwith silk blown from the user’s mouth\nthat harshly lowers the Speed stat.",
+    "sun-moon": "The opposing Pokémon are bound with silk blown\nfrom the user’s mouth that harshly lowers the\nSpeed stat.",
+    "ultra-sun-ultra-moon": "The opposing Pokémon are bound with silk blown\nfrom the user’s mouth that harshly lowers the\nSpeed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The opposing Pokémon are bound with silk blown\nfrom the user’s mouth that harshly lowers the\nSpeed stat.",
+    "sword-shield": "Opposing Pokémon are bound with silk blown from\nthe user’s mouth that harshly lowers the Speed stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Speed by two stages.",
+    "shortEffect": "Lowers the target's Speed by two stages."
+  },
+  "priority": 0
+}

@@ -1,0 +1,35 @@
+{
+  "_id": 682,
+  "key": "burn-up",
+  "name": {
+    "english": "Burn Up",
+    "japanese": "もえつきる",
+    "chinese": "燃盡",
+    "korean": "불사르기",
+    "german": "Llama Final",
+    "french": "Ausbrennen",
+    "italian": "Burn Up",
+    "spanish": "Ultima Fiamma"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 130,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.",
+    "ultra-sun-ultra-moon": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.",
+    "lets-go-pikachu-lets-go-eevee": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type.",
+    "sword-shield": "To inflict massive damage, the user burns itself out.\nAfter using this move, the user will no longer be\nFire type."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Removes the user's fire type after damage calculation.  If the user is not fire-type, this move will fail.",
+    "shortEffect": "Removes the user's fire type after inflicting damage."
+  },
+  "priority": 0
+}

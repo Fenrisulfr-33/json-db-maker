@@ -1,0 +1,47 @@
+{
+  "_id": 223,
+  "key": "dynamic-punch",
+  "name": {
+    "english": "Dynamic Punch",
+    "japanese": "ばくれつパンチ",
+    "chinese": "爆裂拳",
+    "korean": "폭발펀치",
+    "german": "Puño Dinámico",
+    "french": "Wuchtschlag",
+    "italian": "Dynamic Punch",
+    "spanish": "Dinamipugno"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 100,
+  "accuracy": 50,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that\nalways confuses.",
+    "crystal": "An attack that\nalways confuses.",
+    "ruby-sapphire": "Powerful and sure to cause\nconfusion, but inaccurate.",
+    "emerald": "Powerful and sure to cause\nconfusion, but inaccurate.",
+    "firered-leafgreen": "The foe is punched\nwith the user’s full\npower. It confuses\nthe foe if it hits.",
+    "diamond-pearl": "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.",
+    "platinum": "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.",
+    "heartgold-soulsilver": "The foe is punched\nwith the user’s full,\nconcentrated power.\nIt confuses the foe\nif it hits.",
+    "black-white": "The user punches the target with full,\nconcentrated power.\nIt confuses the target if it hits.",
+    "black-2-white-2": "The user punches the target with full,\nconcentrated power.\nIt confuses the target if it hits.",
+    "x-y": "The user punches the target with full,\nconcentrated power.\nThis confuses the target if it hits.",
+    "omega-ruby-alpha-sapphire": "The user punches the target with full,\nconcentrated power.\nThis confuses the target if it hits.",
+    "sun-moon": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
+    "ultra-sun-ultra-moon": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
+    "lets-go-pikachu-lets-go-eevee": "The user punches the target with full, concentrated\npower. This confuses the target if it hits.",
+    "sword-shield": "The user punches the target with full, concentrated\npower. This confuses the target if it hits."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 103,
+  "key": "screech",
+  "name": {
+    "english": "Screech",
+    "japanese": "いやなおと",
+    "chinese": "噪音",
+    "korean": "싫은소리",
+    "german": "Chirrido",
+    "french": "Kreideschrei",
+    "italian": "Screech",
+    "spanish": "Stridio"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 40,
+  "power": null,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "omega-ruby-alpha-sapphire": "An earsplitting screech harshly lowers\nthe target’s Defense stat.",
+    "gold-silver": "Sharply reduces\nthe foe's DEFENSE.",
+    "crystal": "Sharply reduces\nthe foe's DEFENSE.",
+    "ruby-sapphire": "Emits a screech to sharply\nreduce the foe’s DEFENSE.",
+    "emerald": "Emits a screech to sharply\nreduce the foe’s DEFENSE.",
+    "firered-leafgreen": "An ear-splitting\nscreech is emitted\nto sharply reduce\nthe foe’s DEFENSE.",
+    "diamond-pearl": "An earsplitting\nscreech is emitted to\nsharply reduce the\nfoe’s Defense stat.\n",
+    "platinum": "An earsplitting\nscreech is emitted to\nsharply reduce the\nfoe’s Defense stat.\n",
+    "heartgold-soulsilver": "An earsplitting\nscreech is emitted to\nsharply reduce the\nfoe’s Defense stat.\n",
+    "black-white": "An earsplitting screech harshly reduces\nthe target’s Defense stat.",
+    "black-2-white-2": "An earsplitting screech harshly reduces\nthe target’s Defense stat.",
+    "x-y": "An earsplitting screech harshly lowers\nthe target’s Defense stat.",
+    "sun-moon": "An earsplitting screech harshly lowers the target’s\nDefense stat.",
+    "ultra-sun-ultra-moon": "An earsplitting screech harshly lowers the target’s\nDefense stat.",
+    "lets-go-pikachu-lets-go-eevee": "An earsplitting screech harshly lowers the target’s\nDefense stat.",
+    "sword-shield": "An earsplitting screech harshly lowers the target’s\nDefense stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Defense by two stages.",
+    "shortEffect": "Lowers the target's Defense by two stages."
+  },
+  "priority": 0
+}

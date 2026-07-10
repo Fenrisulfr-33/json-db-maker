@@ -1,0 +1,19 @@
+{
+  "_id": 282,
+  "key": "quark-drive",
+  "name": {
+    "english": "Quark Drive"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Raises highest stat on Electric Terrain, or if holding Booster Energy.",
+    "full": "Raises highest stat on Electric Terrain, or if holding Booster Energy."
+  },
+  "description": {
+    "scarlet-violet": "Boosts the Pokémon’s most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

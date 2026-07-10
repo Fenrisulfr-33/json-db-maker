@@ -1,0 +1,29 @@
+{
+  "_id": 278,
+  "key": "zero-to-hero",
+  "name": {
+    "english": "Zero to Hero"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Transforms into its Hero Form when switching out.",
+    "full": "Transforms into its Hero Form when switching out."
+  },
+  "description": {
+    "scarlet-violet": "The Pokémon transforms into its Hero Form when it switches out."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Palafin",
+        "id": 964
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Palafin",
+        "id": 964
+      }
+    ]
+  }
+}

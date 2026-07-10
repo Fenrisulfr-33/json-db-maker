@@ -1,0 +1,45 @@
+{
+  "_id": 307,
+  "key": "blast-burn",
+  "name": {
+    "english": "Blast Burn",
+    "japanese": "ブラストバーン",
+    "chinese": "爆炸燃烧",
+    "korean": "블러스트번",
+    "german": "Anillo Ígneo",
+    "french": "Lohekanonade",
+    "italian": "Blast Burn",
+    "spanish": "Incendio"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Powerful, but leaves the\nuser immobile the next turn.",
+    "emerald": "Powerful, but leaves the\nuser immobile the next turn.",
+    "firered-leafgreen": "The foe is hit with\na huge explosion.\nThe user can’t move\non the next turn.",
+    "diamond-pearl": "The foe is razed by\na fiery explosion.\nThe user must rest\non the next turn,\nhowever.",
+    "platinum": "The foe is razed by\na fiery explosion.\nThe user must rest\non the next turn,\nhowever.",
+    "heartgold-soulsilver": "The foe is razed by\na fiery explosion.\nThe user must rest\non the next turn,\nhowever.",
+    "black-white": "The target is razed by a fiery explosion.\nThe user must rest on the\nnext turn, however.",
+    "black-2-white-2": "The target is razed by a fiery explosion.\nThe user must rest on the\nnext turn, however.",
+    "x-y": "The target is razed by a fiery explosion.\nThe user can’t move on the next turn.",
+    "omega-ruby-alpha-sapphire": "The target is razed by a fiery explosion.\nThe user can’t move on the next turn.",
+    "sun-moon": "The target is razed by a fiery explosion. The user\ncan’t move on the next turn.",
+    "ultra-sun-ultra-moon": "The target is razed by a fiery explosion. The user\ncan’t move on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The target is razed by a fiery explosion. The user\ncan’t move on the next turn.",
+    "sword-shield": "The target is razed by a fiery explosion. The user\ncan’t move on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "shortEffect": "User foregoes its next turn to recharge."
+  },
+  "priority": 0
+}

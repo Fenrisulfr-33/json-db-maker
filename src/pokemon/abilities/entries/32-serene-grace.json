@@ -1,0 +1,78 @@
+{
+  "_id": 32,
+  "key": "serene-grace",
+  "name": {
+    "english": "Serene Grace"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Doubles the chance of moves' extra effects occurring.",
+    "full": "This Pokémon's moves have twice their usual effect chance. An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, flamethrower's chance of burning the target is doubled, but protect's chance of success and air cutter's increased critical hit rate are unaffected. secret power is unaffected."
+  },
+  "description": {
+    "ruby-sapphire": "Promotes added effects.",
+    "emerald": "Promotes added effects.",
+    "firered-leafgreen": "Promotes added effects.",
+    "diamond-pearl": "Boosts the likelihood of added effects appearing.",
+    "platinum": "Boosts the likelihood of added effects appearing.",
+    "heartgold-soulsilver": "Boosts the likelihood of added effects appearing.",
+    "black-white": "Boosts the likelihood of added effects appearing.",
+    "black-2-white-2": "Boosts the likelihood of added effects appearing.",
+    "x-y": "Boosts the likelihood of additional effects occurring.",
+    "omega-ruby-alpha-sapphire": "Boosts the likelihood of additional effects occurring.",
+    "sun-moon": "Boosts the likelihood of additional effects occurring  when attacking.",
+    "ultra-sun-ultra-moon": "Boosts the likelihood of additional effects occurring  when attacking.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts the likelihood of additional effects occurring when attacking.",
+    "sword-shield": "Boosts the likelihood of additional effects occurring when attacking."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Chansey",
+        "id": 113
+      },
+      {
+        "name": "Togepi",
+        "id": 175
+      },
+      {
+        "name": "Togetic",
+        "id": 176
+      },
+      {
+        "name": "Dunsparce",
+        "id": 206
+      },
+      {
+        "name": "Blissey",
+        "id": 242
+      },
+      {
+        "name": "Jirachi",
+        "id": 385
+      },
+      {
+        "name": "Happiny",
+        "id": 440
+      },
+      {
+        "name": "Togekiss",
+        "id": 468
+      },
+      {
+        "name": "Dudunsparce",
+        "id": 982
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Deerling",
+        "id": 585
+      },
+      {
+        "name": "Sawsbuck",
+        "id": 586
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_id": 537,
+  "key": "steamroller",
+  "name": {
+    "english": "Steamroller",
+    "japanese": "ハードローラー",
+    "chinese": "疯狂滚动",
+    "korean": "하드롤러",
+    "german": "Rodillo de Púas",
+    "french": "Quetschwalze",
+    "italian": "Steamroller",
+    "spanish": "Rulloduro"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user crushes its targets by rolling\nover them with its rolled-up body.\nThis attack may make the target flinch.",
+    "black-2-white-2": "The user crushes its targets by rolling\nover them with its rolled-up body.\nThis attack may make the target flinch.",
+    "x-y": "The user crushes its targets by rolling\nover them with its rolled-up body.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user crushes its targets by rolling\nover them with its rolled-up body.\nThis may also make the target flinch.",
+    "sun-moon": "The user crushes its target by rolling over the target\nwith its rolled-up body. This may also make the\ntarget flinch.",
+    "ultra-sun-ultra-moon": "The user crushes its target by rolling over the target\nwith its rolled-up body. This may also make the\ntarget flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user crushes its target by rolling over the target\nwith its rolled-up body. This may also make the\ntarget flinch.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.\n\nPower is doubled against Pokémon that have used minimize since entering the field.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

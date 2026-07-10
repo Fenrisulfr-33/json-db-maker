@@ -1,0 +1,33 @@
+{
+  "_id": 65,
+  "evoLine": [
+    [
+      {
+        "id": 298,
+        "name": "Azurill",
+        "type": {
+          "one": "Normal",
+          "two": "Fairy"
+        }
+      },
+      {
+        "id": 183,
+        "name": "Marill",
+        "type": {
+          "one": "Water",
+          "two": "Fairy"
+        },
+        "how": "high Frienship"
+      },
+      {
+        "id": 184,
+        "name": "Azumarill",
+        "type": {
+          "one": "Water",
+          "two": "Fairy"
+        },
+        "how": "Level 18"
+      }
+    ]
+  ]
+}

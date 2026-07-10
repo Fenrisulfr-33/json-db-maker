@@ -1,0 +1,39 @@
+{
+  "_id": 535,
+  "key": "heat-crash",
+  "name": {
+    "english": "Heat Crash",
+    "japanese": "ヒートスタンプ",
+    "chinese": "高温捣击",
+    "korean": "히트스탬프",
+    "german": "Golpe Calor",
+    "french": "Brandstempel",
+    "italian": "Heat Crash",
+    "spanish": "Marchiafuoco"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user slams its target with its flame-\ncovered body. The more the user outweighs\nthe target, the greater the damage.",
+    "black-2-white-2": "The user slams its target with its flame-\ncovered body. The more the user outweighs\nthe target, the greater the damage.",
+    "x-y": "The user slams its target with its flame-\ncovered body. The more the user outweighs\nthe target, the greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user slams its target with its flame-\ncovered body. The more the user outweighs\nthe target, the greater the move’s power.",
+    "sun-moon": "The user slams its target with its flame-covered\nbody. The more the user outweighs the target, the\ngreater the move’s power.",
+    "ultra-sun-ultra-moon": "The user slams its target with its flame-covered\nbody. The more the user outweighs the target, the\ngreater the move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams its target with its flame-covered\nbody. The more the user outweighs the target, the\ngreater the move’s power.",
+    "sword-shield": "The user slams its target with its flame-covered\nbody. The more the user outweighs the target, the\ngreater the move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.\n\nUser's weight                    | Power\n-------------------------------- | ----:\nUp to 2× the target's weight     |    40\nUp to 3× the target's weight     |    60\nUp to 4× the target's weight     |    80\nUp to 5× the target's weight     |   100\nMore than 5× the target's weight |   120\n",
+    "shortEffect": "Power is higher when the user weighs more than the target, up to a maximum of 120."
+  },
+  "priority": 0
+}

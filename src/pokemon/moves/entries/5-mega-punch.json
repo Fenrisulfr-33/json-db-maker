@@ -1,0 +1,47 @@
+{
+  "_id": 5,
+  "key": "mega-punch",
+  "name": {
+    "english": "Mega Punch",
+    "japanese": "メガトンパンチ",
+    "chinese": "百万吨拳击",
+    "korean": "메가톤펀치",
+    "german": "Megapuño",
+    "french": "Megahieb",
+    "italian": "Mega Punch",
+    "spanish": "Megapugno"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 80,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A powerful punch\nthrown very hard.",
+    "crystal": "A powerful punch\nthrown very hard.",
+    "ruby-sapphire": "A strong punch thrown with\nincredible power.",
+    "emerald": "A strong punch thrown with\nincredible power.",
+    "firered-leafgreen": "The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.",
+    "diamond-pearl": "The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.\n",
+    "platinum": "The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.\n",
+    "heartgold-soulsilver": "The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.\n",
+    "black-white": "The target is slugged by a punch thrown\nwith muscle-packed power.",
+    "black-2-white-2": "The target is slugged by a punch thrown\nwith muscle-packed power.",
+    "x-y": "The target is slugged by a punch thrown\nwith muscle-packed power.",
+    "omega-ruby-alpha-sapphire": "The target is slugged by a punch thrown\nwith muscle-packed power.",
+    "sun-moon": "The target is slugged by a punch thrown with\nmuscle-packed power.",
+    "ultra-sun-ultra-moon": "The target is slugged by a punch thrown with\nmuscle-packed power.",
+    "lets-go-pikachu-lets-go-eevee": "The target is slugged by a punch thrown with\nmuscle-packed power.",
+    "sword-shield": "The target is slugged by a punch thrown with\nmuscle-packed power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

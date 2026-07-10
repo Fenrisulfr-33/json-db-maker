@@ -1,0 +1,47 @@
+{
+  "_id": 123,
+  "key": "smog",
+  "name": {
+    "english": "Smog",
+    "japanese": "スモッグ",
+    "chinese": "迷雾",
+    "korean": "스모그",
+    "german": "Polución",
+    "french": "Smog",
+    "italian": "Smog",
+    "spanish": "Smog"
+  },
+  "type": "Poison",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 30,
+  "accuracy": 70,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\npoison the foe.",
+    "crystal": "An attack that may\npoison the foe.",
+    "ruby-sapphire": "An exhaust-gas attack\nthat may also poison.",
+    "emerald": "An exhaust-gas attack\nthat may also poison.",
+    "firered-leafgreen": "The foe is attacked\nwith exhaust gases.\nIt may also poison\nthe foe.",
+    "diamond-pearl": "The foe is attacked\nwith a discharge of\nfilthy gases.\nIt may also poison\nthe target.",
+    "platinum": "The foe is attacked\nwith a discharge of\nfilthy gases.\nIt may also poison\nthe target.",
+    "heartgold-soulsilver": "The foe is attacked\nwith a discharge of\nfilthy gases.\nIt may also poison\nthe target.",
+    "black-white": "The target is attacked with a\ndischarge of filthy gases.\nIt may also poison the target.",
+    "black-2-white-2": "The target is attacked with a\ndischarge of filthy gases.\nIt may also poison the target.",
+    "x-y": "The target is attacked with a\ndischarge of filthy gases.\nThis may also poison the target.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a\ndischarge of filthy gases.\nThis may also poison the target.",
+    "sun-moon": "The target is attacked with a discharge of filthy\ngases. This may also poison the target.",
+    "ultra-sun-ultra-moon": "The target is attacked with a discharge of filthy\ngases. This may also poison the target.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with a discharge of filthy\ngases. This may also poison the target.",
+    "sword-shield": "The target is attacked with a discharge of filthy\ngases. This may also poison the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Has a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

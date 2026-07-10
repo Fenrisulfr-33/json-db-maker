@@ -1,0 +1,39 @@
+{
+  "_id": 523,
+  "key": "bulldoze",
+  "name": {
+    "english": "Bulldoze",
+    "japanese": "じならし",
+    "chinese": "整地",
+    "korean": "땅고르기",
+    "german": "Terratemblor",
+    "french": "Dampfwalze",
+    "italian": "Bulldoze",
+    "spanish": "Battiterra"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user stomps down on the ground\nand attacks everything in the area. Hit\nPokémon’s Speed stat is reduced.",
+    "black-2-white-2": "The user stomps down on the ground\nand attacks everything in the area. Hit\nPokémon’s Speed stat is reduced.",
+    "x-y": "The user strikes everything around it\nby stomping down on the ground.\nThis lowers the Speed stat of those hit.",
+    "omega-ruby-alpha-sapphire": "The user strikes everything around it\nby stomping down on the ground.\nThis lowers the Speed stat of those hit.",
+    "sun-moon": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+    "ultra-sun-ultra-moon": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stat of\nthose hit.",
+    "sword-shield": "The user strikes everything around it by stomping\ndown on the ground. This lowers the Speed stats of\nthose hit."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

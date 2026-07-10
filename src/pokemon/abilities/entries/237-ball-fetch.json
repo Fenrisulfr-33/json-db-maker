@@ -1,0 +1,21 @@
+{
+  "_id": 237,
+  "key": "ball-fetch",
+  "name": {
+    "english": "Ball Fetch"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Yamper",
+        "id": 835
+      }
+    ],
+    "hidden": []
+  }
+}

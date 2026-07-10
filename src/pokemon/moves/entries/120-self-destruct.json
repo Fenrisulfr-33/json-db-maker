@@ -1,0 +1,47 @@
+{
+  "_id": 120,
+  "key": "self-destruct",
+  "name": {
+    "english": "Self-Destruct",
+    "japanese": "じばく",
+    "chinese": "自爆",
+    "korean": "자폭",
+    "german": "Autodestrucción",
+    "french": "Finale",
+    "italian": "Self-Destruct",
+    "spanish": "Autodistruzione"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 200,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Powerful but makes\nthe user faint.",
+    "crystal": "Powerful but makes\nthe user faint.",
+    "ruby-sapphire": "Inflicts severe damage but\nmakes the user faint.",
+    "emerald": "Inflicts severe damage but\nmakes the user faint.",
+    "firered-leafgreen": "The user blows up\nto inflict severe\ndamage, even\nmaking itself faint.",
+    "diamond-pearl": "The user blows up to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+    "platinum": "The user blows up to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+    "heartgold-soulsilver": "The user blows up to\ninflict damage on all\nPokémon in battle.\nThe user faints upon\nusing this move.",
+    "black-white": "The user attacks everything around it\nby causing an explosion.\nThe user faints upon using this move.",
+    "black-2-white-2": "The user attacks everything around it\nby causing an explosion.\nThe user faints upon using this move.",
+    "x-y": "The user attacks everything around it\nby causing an explosion.\nThe user faints upon using this move.",
+    "omega-ruby-alpha-sapphire": "The user attacks everything around it\nby causing an explosion.\nThe user faints upon using this move.",
+    "sun-moon": "The user attacks everything around it by causing an\nexplosion. The user faints upon using this move.",
+    "ultra-sun-ultra-moon": "The user attacks everything around it by causing an\nexplosion. The user faints upon using this move.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks everything around it by causing an\nexplosion. The user faints upon using this move.",
+    "sword-shield": "The user attacks everything around it by causing an\nexplosion. The user faints upon using this move."
+  },
+  "effect": {
+    "full": "User faints, even if the attack fails or misses.  Inflicts regular damage.",
+    "shortEffect": "User faints."
+  },
+  "priority": 0
+}

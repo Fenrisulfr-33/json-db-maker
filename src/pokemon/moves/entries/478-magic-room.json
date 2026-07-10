@@ -1,0 +1,39 @@
+{
+  "_id": 478,
+  "key": "magic-room",
+  "name": {
+    "english": "Magic Room",
+    "japanese": "マジックルーム",
+    "chinese": "魔法空间",
+    "korean": "매직룸",
+    "german": "Zona Mágica",
+    "french": "Magieraum",
+    "italian": "Magic Room",
+    "spanish": "Magicozona"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 5,
+  "target": "entire-field",
+  "changes": [],
+  "description": {
+    "black-white": "The user creates a bizarre area\nin which Pokémon’s held items\nlose their effects for five turns.",
+    "black-2-white-2": "The user creates a bizarre area\nin which Pokémon’s held items\nlose their effects for five turns.",
+    "x-y": "The user creates a bizarre area\nin which Pokémon’s held items\nlose their effects for five turns.",
+    "omega-ruby-alpha-sapphire": "The user creates a bizarre area\nin which Pokémon’s held items\nlose their effects for five turns.",
+    "sun-moon": "The user creates a bizarre area in which Pokémon’s\nheld items lose their effects for five turns.",
+    "ultra-sun-ultra-moon": "The user creates a bizarre area in which Pokémon’s\nheld items lose their effects for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user creates a bizarre area in which Pokémon’s\nheld items lose their effects for five turns.",
+    "sword-shield": "The user creates a bizarre area in which Pokémon’s\nheld items lose their effects for five turns."
+  },
+  "effect": {
+    "full": "For five turns (including this one), passive effects of held items are ignored, and Pokémon will not use their held items.",
+    "shortEffect": "Negates held items for five turns."
+  },
+  "priority": 0
+}

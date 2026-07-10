@@ -1,0 +1,90 @@
+{
+  "_id": 7,
+  "key": "limber",
+  "name": {
+    "english": "Limber"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents paralysis.",
+    "full": "This Pokémon cannot be paralyzed. If a Pokémon is paralyzed and acquires this ability, its paralysis is healed; this includes when regaining a lost ability upon leaving battle."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents paralysis.",
+    "emerald": "Prevents paralysis.",
+    "firered-leafgreen": "Prevents paralysis.",
+    "diamond-pearl": "The Pokémon is protected from paralysis.",
+    "platinum": "The Pokémon is protected from paralysis.",
+    "heartgold-soulsilver": "The Pokémon is protected from paralysis.",
+    "black-white": "The Pokémon is protected from paralysis.",
+    "black-2-white-2": "The Pokémon is protected from paralysis.",
+    "x-y": "Protects the Pokémon from paralysis.",
+    "omega-ruby-alpha-sapphire": "Protects the Pokémon from paralysis.",
+    "sun-moon": "Its limber body protects the Pokémon from paralysis.",
+    "ultra-sun-ultra-moon": "Its limber body protects the Pokémon from paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "Its limber body protects the Pokémon from paralysis.",
+    "sword-shield": "Its limber body protects the Pokémon from paralysis."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Persian",
+        "id": 53
+      },
+      {
+        "name": "Hitmonlee",
+        "id": 106
+      },
+      {
+        "name": "Ditto",
+        "id": 132
+      },
+      {
+        "name": "Glameow",
+        "id": 431
+      },
+      {
+        "name": "Purrloin",
+        "id": 509
+      },
+      {
+        "name": "Liepard",
+        "id": 510
+      },
+      {
+        "name": "Stunfisk",
+        "id": 618
+      },
+      {
+        "name": "Hawlucha",
+        "id": 701
+      },
+      {
+        "name": "Mareanie",
+        "id": 747
+      },
+      {
+        "name": "Toxapex",
+        "id": 748
+      },
+      {
+        "name": "Clobbopus",
+        "id": 852
+      },
+      {
+        "name": "Grapploct",
+        "id": 853
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Buneary",
+        "id": 427
+      },
+      {
+        "name": "Lopunny",
+        "id": 428
+      }
+    ]
+  }
+}

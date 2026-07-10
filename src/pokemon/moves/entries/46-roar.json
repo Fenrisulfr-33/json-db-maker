@@ -1,0 +1,47 @@
+{
+  "_id": 46,
+  "key": "roar",
+  "name": {
+    "english": "Roar",
+    "japanese": "ほえる",
+    "chinese": "吼叫",
+    "korean": "울부짖기",
+    "german": "Rugido",
+    "french": "Brüller",
+    "italian": "Roar",
+    "spanish": "Boato"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Scares wild foes\nto end battle.",
+    "crystal": "Scares wild foes\nto end battle.",
+    "ruby-sapphire": "Makes the foe flee to end\nthe battle.",
+    "emerald": "Makes the foe flee to end\nthe battle.",
+    "firered-leafgreen": "The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.",
+    "diamond-pearl": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+    "platinum": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+    "heartgold-soulsilver": "The foe is scared off,\nto be replaced by\nanother Pokémon in\nits party. In the\nwild, the battle ends.",
+    "black-white": "The target is scared off and replaced by\nanother Pokémon in its party. In the\nwild, the battle ends.",
+    "black-2-white-2": "The target is scared off and switched.\nIn the wild, a battle against a single\nPokémon ends.",
+    "x-y": "The target is scared off, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+    "omega-ruby-alpha-sapphire": "The target is scared off, and a different\nPokémon is dragged out. In the wild,\nthis ends a battle against a single Pokémon.",
+    "sun-moon": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+    "ultra-sun-ultra-moon": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "The target is scared off, and a different Pokémon is\ndragged out.",
+    "sword-shield": "The target is scared off, and a different Pokémon is\ndragged out. In the wild, this ends a battle against a\nsingle Pokémon."
+  },
+  "effect": {
+    "full": "Switches the target out for another of its trainer's Pokémon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pokémon with suction cups or under the effect of ingrain.",
+    "shortEffect": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+  },
+  "priority": -6
+}

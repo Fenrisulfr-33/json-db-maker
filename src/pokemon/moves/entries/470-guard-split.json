@@ -1,0 +1,39 @@
+{
+  "_id": 470,
+  "key": "guard-split",
+  "name": {
+    "english": "Guard Split",
+    "japanese": "ガードシェア",
+    "chinese": "防御平分",
+    "korean": "가드셰어",
+    "german": "Isoguardia",
+    "french": "Schutzteiler",
+    "italian": "Guard Split",
+    "spanish": "Paridifesa"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user employs its psychic power to\naverage its Defense and Sp. Def stats\nwith those of its target’s.",
+    "black-2-white-2": "The user employs its psychic power to\naverage its Defense and Sp. Def stats\nwith those of its target’s.",
+    "x-y": "The user employs its psychic power to\naverage its Defense and Sp. Def stats\nwith those of the target.",
+    "omega-ruby-alpha-sapphire": "The user employs its psychic power to\naverage its Defense and Sp. Def stats\nwith those of the target.",
+    "sun-moon": "The user employs its psychic power to average its\nDefense and Sp. Def stats with those of the target.",
+    "ultra-sun-ultra-moon": "The user employs its psychic power to average its\nDefense and Sp. Def stats with those of the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user employs its psychic power to average its\nDefense and Sp. Def stats with those of the target.",
+    "sword-shield": "The user employs its psychic power to average its\nDefense and Sp. Def stats with those of the target."
+  },
+  "effect": {
+    "full": "Averages the user's unmodified Defense with the target's unmodified Defense; the value becomes the unmodified Defense for both Pokémon. Unmodified Special Defense is averaged the same way.",
+    "shortEffect": "Averages Defense and Special Defense with the target."
+  },
+  "priority": 0
+}

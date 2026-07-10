@@ -1,0 +1,24 @@
+{
+  "_id": 296,
+  "key": "armor-tail",
+  "name": {
+    "english": "Armor Tail"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Armor Tail prevents the opponent from using any moves that have priority.",
+    "full": "Armor Tail prevents the opponent from using any moves that have priority, such as Quick Attack."
+  },
+  "description": {
+    "scarlet-violet": "The mysterious tail covering the Pokémon’s head makes opponents unable to use priority moves against the Pokémon or its allies."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Farigiraf",
+        "id": 981
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 901,
+    "key": "blood-moon",
+    "name": {
+      "english": "Blood Moon"
+    },
+    "type": "Normal",
+    "category": "Special",
+    "contest": null,
+    "pp": 5,
+    "power": 140,
+    "accuracy": 100,
+    "contact": false,
+    "generation": 9,
+    "target": "selected-target",
+    "changes": [],
+    "description": {
+      "scarlet-violet": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row."
+    },
+    "effect": {
+      "full": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row.",
+      "shortEffect": ""
+    },
+    "priority": 0
+  }

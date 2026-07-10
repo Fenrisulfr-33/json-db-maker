@@ -1,0 +1,45 @@
+{
+  "_id": 352,
+  "key": "water-pulse",
+  "name": {
+    "english": "Water Pulse",
+    "japanese": "みずのはどう",
+    "chinese": "水波动",
+    "korean": "물의파동",
+    "german": "Hidropulso",
+    "french": "Aquawelle",
+    "italian": "Water Pulse",
+    "spanish": "Idropulsar"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks with ultrasonic\nwaves. May confuse the foe",
+    "emerald": "Attacks with ultrasonic\nwaves. May confuse the foe.",
+    "firered-leafgreen": "An attack with a\npulsing blast of\nwater. It may also\nconfuse the foe.",
+    "diamond-pearl": "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.",
+    "platinum": "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.",
+    "heartgold-soulsilver": "The user attacks the\nfoe with a pulsing\nblast of water.\nIt may also confuse\nthe foe.",
+    "black-white": "The user attacks the target with\na pulsing blast of water.\nIt may also confuse the target.",
+    "black-2-white-2": "The user attacks the target with\na pulsing blast of water.\nIt may also confuse the target.",
+    "x-y": "The user attacks the target with\na pulsing blast of water.\nThis may also confuse the target.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with\na pulsing blast of water.\nThis may also confuse the target.",
+    "sun-moon": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
+    "ultra-sun-ultra-moon": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target.",
+    "sword-shield": "The user attacks the target with a pulsing blast of\nwater. This may also confuse the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to confuse the target.",
+    "shortEffect": "Has a $effect_chance% chance to confuse the target."
+  },
+  "priority": 0
+}

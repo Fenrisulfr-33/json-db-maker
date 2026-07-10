@@ -1,0 +1,39 @@
+{
+  "_id": 493,
+  "key": "simple-beam",
+  "name": {
+    "english": "Simple Beam",
+    "japanese": "シンプルビーム",
+    "chinese": "单纯光线",
+    "korean": "심플빔",
+    "german": "Onda Simple",
+    "french": "Wankelstrahl",
+    "italian": "Simple Beam",
+    "spanish": "Ondisinvolta"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user’s mysterious psychic wave\nchanges the target’s Ability to Simple.",
+    "black-2-white-2": "The user’s mysterious psychic wave\nchanges the target’s Ability to Simple.",
+    "x-y": "The user’s mysterious psychic wave\nchanges the target’s Ability to Simple.",
+    "omega-ruby-alpha-sapphire": "The user’s mysterious psychic wave\nchanges the target’s Ability to Simple.",
+    "sun-moon": "The user’s mysterious psychic wave changes the\ntarget’s Ability to Simple.",
+    "ultra-sun-ultra-moon": "The user’s mysterious psychic wave changes the\ntarget’s Ability to Simple.",
+    "lets-go-pikachu-lets-go-eevee": "The user’s mysterious psychic wave changes the\ntarget’s Ability to Simple.",
+    "sword-shield": "The user’s mysterious psychic wave changes the\ntarget’s Ability to Simple."
+  },
+  "effect": {
+    "full": "Changes the target's ability to simple.",
+    "shortEffect": "Changes the target's ability to Simple."
+  },
+  "priority": 0
+}

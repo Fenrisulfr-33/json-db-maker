@@ -1,0 +1,17 @@
+{
+  "_id": 893,
+  "key": "gigaton-hammer",
+  "name": {
+    "english": "Gigaton Hammer"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 160,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

@@ -1,0 +1,36 @@
+{
+  "_id": 43,
+  "evoLine": [
+    [
+      {
+        "id": 102,
+        "name": "Exeggute",
+        "type": {
+          "one": "Grass",
+          "two": "Psychic"
+        }
+      },
+      [
+        {
+          "id": 103,
+          "name": "Exeggutor",
+          "type": {
+            "one": "Grass",
+            "two": "Psychic"
+          },
+          "how": "Use Leaf Stone, outside Alola"
+        },
+        {
+          "id": 103.1,
+          "name": "Exeggutor",
+          "form": "Alolan Exeggutor",
+          "type": {
+            "one": "Grass",
+            "two": "Dragon"
+          },
+          "how": "Use Leaf Stone, in Alola"
+        }
+      ]
+    ]
+  ]
+}

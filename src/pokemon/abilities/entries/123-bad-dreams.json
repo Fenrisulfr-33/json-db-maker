@@ -1,0 +1,34 @@
+{
+  "_id": 123,
+  "key": "bad-dreams",
+  "name": {
+    "english": "Bad Dreams"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Damages sleeping opponents for 1/8 their max HP after each turn.",
+    "full": "Opposing Pokémon take 1/8 of their maximum HP in damage after each turn while they are asleep."
+  },
+  "description": {
+    "diamond-pearl": "Reduces a sleeping foe’s HP.",
+    "platinum": "Reduces a sleeping foe’s HP.",
+    "heartgold-soulsilver": "Reduces a sleeping foe’s HP.",
+    "black-white": "Reduces a sleeping foe’s HP.",
+    "black-2-white-2": "Reduces a sleeping foe’s HP.",
+    "x-y": "Reduces the HP of sleeping opposing Pokémon.",
+    "omega-ruby-alpha-sapphire": "Reduces the HP of sleeping opposing Pokémon.",
+    "sun-moon": "Reduces the HP of sleeping opposing Pokémon.",
+    "ultra-sun-ultra-moon": "Reduces the HP of sleeping opposing Pokémon.",
+    "lets-go-pikachu-lets-go-eevee": "Reduces the HP of sleeping opposing Pokémon.",
+    "sword-shield": "Reduces the HP of sleeping opposing Pokémon."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Darkrai",
+        "id": 491
+      }
+    ],
+    "hidden": []
+  }
+}

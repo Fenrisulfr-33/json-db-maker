@@ -1,0 +1,39 @@
+{
+  "_id": 544,
+  "key": "gear-grind",
+  "name": {
+    "english": "Gear Grind",
+    "japanese": "ギアソーサー",
+    "chinese": "齿轮飞盘",
+    "korean": "기어소서",
+    "german": "Rueda Doble",
+    "french": "Klikkdiskus",
+    "italian": "Gear Grind",
+    "spanish": "Ingracolpo"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 50,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by throwing\ntwo steel gears at its target.",
+    "black-2-white-2": "The user attacks by throwing\ntwo steel gears at its target.",
+    "x-y": "The user attacks by throwing\nsteel gears at its target twice.",
+    "omega-ruby-alpha-sapphire": "The user attacks by throwing\nsteel gears at its target twice.",
+    "sun-moon": "The user attacks by throwing steel gears at its\ntarget twice.",
+    "ultra-sun-ultra-moon": "The user attacks by throwing steel gears at its\ntarget twice.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by throwing steel gears at its\ntarget twice.",
+    "sword-shield": "The user attacks by throwing steel gears at its\ntarget twice."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits twice in one turn.",
+    "shortEffect": "Hits twice in one turn."
+  },
+  "priority": 0
+}

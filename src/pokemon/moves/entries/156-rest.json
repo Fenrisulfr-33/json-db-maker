@@ -1,0 +1,47 @@
+{
+  "_id": 156,
+  "key": "rest",
+  "name": {
+    "english": "Rest",
+    "japanese": "ねむる",
+    "chinese": "睡觉",
+    "korean": "잠자기",
+    "german": "Descanso",
+    "french": "Erholung",
+    "italian": "Rest",
+    "spanish": "Riposo"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Sleep for 2 turns\nto fully recover.",
+    "crystal": "Sleep for 2 turns\nto fully recover.",
+    "ruby-sapphire": "The user sleeps for 2 turns,\nrestoring HP and status.",
+    "emerald": "The user sleeps for 2 turns,\nrestoring HP and status.",
+    "firered-leafgreen": "The user sleeps for\ntwo turns to fully\nrestore HP and heal\nany status problem.",
+    "diamond-pearl": "The user goes to\nsleep for two turns.\nIt fully restores the\nuser’s HP and heals\nany status problem.",
+    "platinum": "The user goes to\nsleep for two turns.\nIt fully restores the\nuser’s HP and heals\nany status problem.",
+    "heartgold-soulsilver": "The user goes to\nsleep for two turns.\nIt fully restores the\nuser’s HP and heals\nany status problem.",
+    "black-white": "The user goes to sleep for two turns.\nIt fully restores the user’s HP and heals\nany status problem.",
+    "black-2-white-2": "The user goes to sleep for two turns.\nIt fully restores the user’s HP and heals\nany status problem.",
+    "x-y": "The user goes to sleep for two turns.\nThis fully restores the user’s HP and\nheals any status conditions.",
+    "omega-ruby-alpha-sapphire": "The user goes to sleep for two turns.\nThis fully restores the user’s HP and\nheals any status conditions.",
+    "sun-moon": "The user goes to sleep for two turns. This fully\nrestores the user’s HP and heals any\nstatus conditions.",
+    "ultra-sun-ultra-moon": "The user goes to sleep for two turns. This fully\nrestores the user’s HP and heals any\nstatus conditions.",
+    "lets-go-pikachu-lets-go-eevee": "The user goes to sleep for two turns. This fully\nrestores the user’s HP and heals any\nstatus conditions.",
+    "sword-shield": "The user goes to sleep for two turns. This fully\nrestores the user’s HP and heals any\nstatus conditions."
+  },
+  "effect": {
+    "full": "User falls to sleep and immediately regains all its HP.  If the user has another major status effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early bird.\n\nThis move fails if the Pokémon cannot fall asleep due to uproar, insomnia, or vital spirit.  It also fails if the Pokémon is at full health or is already asleep.",
+    "shortEffect": "User sleeps for two turns, completely healing itself."
+  },
+  "priority": 0
+}

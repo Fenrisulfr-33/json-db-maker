@@ -1,0 +1,150 @@
+{
+  "_id": 66,
+  "key": "blaze",
+  "name": {
+    "english": "Blaze"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.",
+    "full": "When this Pokémon has 1/3 or less of its HP remaining, its fire-type moves inflict 1.5× as much regular damage."
+  },
+  "description": {
+    "ruby-sapphire": "Ups FIRE moves in a pinch.",
+    "emerald": "Ups FIRE moves in a pinch.",
+    "firered-leafgreen": "Ups FIRE moves in a pinch.",
+    "diamond-pearl": "Powers up Fire-type moves in a pinch.",
+    "platinum": "Powers up Fire-type moves in a pinch.",
+    "heartgold-soulsilver": "Powers up Fire-type moves in a pinch.",
+    "black-white": "Powers up Fire-type moves in a pinch.",
+    "black-2-white-2": "Powers up Fire-type moves in a pinch.",
+    "x-y": "Powers up Fire-type moves when the Pokémon is in trouble.",
+    "omega-ruby-alpha-sapphire": "Powers up Fire-type moves when the Pokémon is in trouble.",
+    "sun-moon": "Powers up Fire-type moves when the Pokémon’s HP is low.",
+    "ultra-sun-ultra-moon": "Powers up Fire-type moves when the Pokémon’s HP is low.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up Fire-type moves when the Pokémon’s HP is low.",
+    "sword-shield": "Powers up Fire-type moves when the Pokémon’s HP is low."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Charmander",
+        "id": 4
+      },
+      {
+        "name": "Charmeleon",
+        "id": 5
+      },
+      {
+        "name": "Charizard",
+        "id": 6
+      },
+      {
+        "name": "Cyndaquil",
+        "id": 155
+      },
+      {
+        "name": "Quilava",
+        "id": 156
+      },
+      {
+        "name": "Typhlosion",
+        "id": 157
+      },
+      {
+        "name": "Torchic",
+        "id": 255
+      },
+      {
+        "name": "Combusken",
+        "id": 256
+      },
+      {
+        "name": "Blaziken",
+        "id": 257
+      },
+      {
+        "name": "Chimchar",
+        "id": 390
+      },
+      {
+        "name": "Monferno",
+        "id": 391
+      },
+      {
+        "name": "Infernape",
+        "id": 392
+      },
+      {
+        "name": "Tepig",
+        "id": 498
+      },
+      {
+        "name": "Pignite",
+        "id": 499
+      },
+      {
+        "name": "Emboar",
+        "id": 500
+      },
+      {
+        "name": "Fennekin",
+        "id": 653
+      },
+      {
+        "name": "Braixen",
+        "id": 654
+      },
+      {
+        "name": "Delphox",
+        "id": 655
+      },
+      {
+        "name": "Litten",
+        "id": 725
+      },
+      {
+        "name": "Torracat",
+        "id": 726
+      },
+      {
+        "name": "Incineroar",
+        "id": 727
+      },
+      {
+        "name": "Scorbunny",
+        "id": 813
+      },
+      {
+        "name": "Raboot",
+        "id": 814
+      },
+      {
+        "name": "Cinderace",
+        "id": 815
+      },
+      {
+        "name": "Fuecoco",
+        "id": 909
+      },
+      {
+        "name": "Crocalor",
+        "id": 910
+      },
+      {
+        "name": "Skeledirge",
+        "id": 911
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Pansear",
+        "id": 513
+      },
+      {
+        "name": "Simisear",
+        "id": 514
+      }
+    ]
+  }
+}

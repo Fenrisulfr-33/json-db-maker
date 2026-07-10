@@ -1,0 +1,42 @@
+{
+  "_id": 385,
+  "key": "guard-swap",
+  "name": {
+    "english": "Guard Swap",
+    "japanese": "ガードスワップ",
+    "chinese": "防御交换",
+    "korean": "가드스웹",
+    "german": "Cambiadefensa",
+    "french": "Schutztausch",
+    "italian": "Guard Swap",
+    "spanish": "Barattoscudo"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user employs its\npsychic power to\nswitch changes to\nits Defense and\nSp. Def with the foe.",
+    "platinum": "The user employs its\npsychic power to\nswitch changes to\nits Defense and\nSp. Def with the foe.",
+    "heartgold-soulsilver": "The user employs its\npsychic power to\nswitch changes to\nits Defense and\nSp. Def with the foe.",
+    "black-white": "The user employs its psychic power to\nswitch changes to its Defense and\nSp. Def with the target.",
+    "black-2-white-2": "The user employs its psychic power to\nswitch changes to its Defense and\nSp. Def with the target.",
+    "x-y": "The user employs its psychic power to\nswitch changes to its Defense and\nSp. Def stats with the target.",
+    "omega-ruby-alpha-sapphire": "The user employs its psychic power to\nswitch changes to its Defense and\nSp. Def stats with the target.",
+    "sun-moon": "The user employs its psychic power to switch\nchanges to its Defense and Sp. Def stats with\nthe target.",
+    "ultra-sun-ultra-moon": "The user employs its psychic power to switch\nchanges to its Defense and Sp. Def stats with\nthe target.",
+    "lets-go-pikachu-lets-go-eevee": "The user employs its psychic power to switch\nchanges to its Defense and Sp. Def stats with\nthe target.",
+    "sword-shield": "The user employs its psychic power to switch\nchanges to its Defense and Sp. Def stats with\nthe target."
+  },
+  "effect": {
+    "full": "User swaps its Defense and Special Defense modifiers with the target.",
+    "shortEffect": "User swaps Defense and Special Defense changes with the target."
+  },
+  "priority": 0
+}

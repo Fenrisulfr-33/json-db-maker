@@ -1,0 +1,37 @@
+{
+  "_id": 603,
+  "key": "happy-hour",
+  "name": {
+    "english": "Happy Hour",
+    "japanese": "ハッピータイム",
+    "chinese": "歡樂時光",
+    "korean": "해피타임",
+    "german": "Paga Extra",
+    "french": "Goldene Zeiten",
+    "italian": "Happy Hour",
+    "spanish": "Cuccagna"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": null,
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 6,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "x-y": "Using Happy Hour doubles\nthe amount of prize money\nreceived after battle.",
+    "omega-ruby-alpha-sapphire": "Using Happy Hour doubles\nthe amount of prize money\nreceived after battle.",
+    "sun-moon": "Using Happy Hour doubles the amount of prize\nmoney received after battle.",
+    "ultra-sun-ultra-moon": "Using Happy Hour doubles the amount of prize\nmoney received after battle.",
+    "lets-go-pikachu-lets-go-eevee": "Using Happy Hour doubles the amount of prize\nmoney received after battle.",
+    "sword-shield": "Using Happy Hour doubles the amount of prize\nmoney received after battle."
+  },
+  "effect": {
+    "full": "Doubles prize money.\n\nStacks with a held item.  Only works once per battle.",
+    "shortEffect": "Doubles prize money."
+  },
+  "priority": 0
+}

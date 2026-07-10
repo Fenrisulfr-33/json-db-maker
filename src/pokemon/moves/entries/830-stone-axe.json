@@ -1,0 +1,17 @@
+{
+  "_id": 830,
+  "key": "stone-axe",
+  "name": {
+    "english": "Stone Axe"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 65,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

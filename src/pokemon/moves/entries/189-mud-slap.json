@@ -1,0 +1,47 @@
+{
+  "_id": 189,
+  "key": "mud-slap",
+  "name": {
+    "english": "Mud-Slap",
+    "japanese": "どろかけ",
+    "chinese": "泥汤",
+    "korean": "진흙뿌리기",
+    "german": "Bofetón Lodo",
+    "french": "Lehmschelle",
+    "italian": "Mud-Slap",
+    "spanish": "Fangosberla"
+  },
+  "type": "Ground",
+  "category": "Special",
+  "contest": "Cute",
+  "pp": 10,
+  "power": 20,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Reduces the foe's\naccuracy.",
+    "crystal": "Reduces the foe's\naccuracy.",
+    "ruby-sapphire": "Hurls mud in the foe’s face\nto reduce its accuracy.",
+    "emerald": "Hurls mud in the foe’s face\nto reduce its accuracy.",
+    "firered-leafgreen": "Mud is hurled in\nthe foe’s face to\ninflict damage and\nlower its accuracy.",
+    "diamond-pearl": "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n",
+    "platinum": "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n",
+    "heartgold-soulsilver": "The user hurls mud in\nthe foe’s face to\ninflict damage and\nlower its accuracy.\n",
+    "black-white": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+    "black-2-white-2": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+    "x-y": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+    "omega-ruby-alpha-sapphire": "The user hurls mud in the target’s face to\ninflict damage and lower its accuracy.",
+    "sun-moon": "The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy.",
+    "ultra-sun-ultra-moon": "The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy.",
+    "sword-shield": "The user hurls mud in the target’s face to inflict\ndamage and lower its accuracy."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 233,
+  "key": "vital-throw",
+  "name": {
+    "english": "Vital Throw",
+    "japanese": "あてみなげ",
+    "chinese": "一招制敌",
+    "korean": "받아던지기",
+    "german": "Tiro Vital",
+    "french": "Überwurf",
+    "italian": "Vital Throw",
+    "spanish": "Vitaltiro"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 70,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A 2nd-strike move\nthat never misses.",
+    "crystal": "A 2nd-strike move\nthat never misses.",
+    "ruby-sapphire": "Makes the user’s move last,\nbut it never misses.",
+    "emerald": "Makes the user’s move last,\nbut it never misses.",
+    "firered-leafgreen": "Makes the user\nattack after the\nfoe. In return,\nit will not miss.",
+    "diamond-pearl": "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.",
+    "platinum": "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.",
+    "heartgold-soulsilver": "The user allows the\nfoe to attack first.\nIn return, this throw\nmove is guaranteed\nnot to miss.",
+    "black-white": "The user attacks last.\nIn return, this throw move is\nguaranteed not to miss.",
+    "black-2-white-2": "The user attacks last.\nIn return, this throw move is\nguaranteed not to miss.",
+    "x-y": "The user attacks last. In return, this throw\nmove never misses.",
+    "omega-ruby-alpha-sapphire": "The user attacks last. In return, this throw\nmove never misses.",
+    "sun-moon": "The user attacks last. In return, this throw move\nnever misses.",
+    "ultra-sun-ultra-moon": "The user attacks last. In return, this throw move\nnever misses.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks last. In return, this throw move\nnever misses.",
+    "sword-shield": "The user attacks last. In return, this throw move\nnever misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": -1
+}

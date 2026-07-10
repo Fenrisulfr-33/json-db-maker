@@ -1,0 +1,45 @@
+{
+  "_id": 337,
+  "key": "dragon-claw",
+  "name": {
+    "english": "Dragon Claw",
+    "japanese": "ドラゴンクロー",
+    "chinese": "龙爪",
+    "korean": "드래곤크루",
+    "german": "Garra Dragón",
+    "french": "Drachenklaue",
+    "italian": "Dragon Claw",
+    "spanish": "Dragartigli"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Slashes the foe with sharp\nclaws.",
+    "emerald": "Slashes the foe with sharp\nclaws.",
+    "firered-leafgreen": "Sharp, huge claws\nhook and slash the\nfoe quickly and\nwith great power.",
+    "diamond-pearl": "The user slashes the\nfoe with huge, sharp\nclaws.\n\n",
+    "platinum": "The user slashes the\nfoe with huge, sharp\nclaws.\n\n",
+    "heartgold-soulsilver": "The user slashes the\nfoe with huge, sharp\nclaws.\n\n",
+    "black-white": "The user slashes the target with huge,\nsharp claws.",
+    "black-2-white-2": "The user slashes the target with huge,\nsharp claws.",
+    "x-y": "The user slashes the target with huge,\nsharp claws.",
+    "omega-ruby-alpha-sapphire": "The user slashes the target with huge,\nsharp claws.",
+    "sun-moon": "The user slashes the target with huge sharp claws.",
+    "ultra-sun-ultra-moon": "The user slashes the target with huge sharp claws.",
+    "lets-go-pikachu-lets-go-eevee": "The user slashes the target with huge sharp claws.",
+    "sword-shield": "The user slashes the target with huge sharp claws."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

@@ -1,0 +1,59 @@
+{
+  "_id": 139,
+  "key": "harvest",
+  "name": {
+    "english": "Harvest"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.",
+    "full": "After each turn, if the last item this Pokémon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight."
+  },
+  "description": {
+    "black-white": "May create another Berry after one is used.",
+    "black-2-white-2": "May create another Berry after one is used.",
+    "x-y": "May create another Berry after one is used.",
+    "omega-ruby-alpha-sapphire": "May create another Berry after one is used.",
+    "sun-moon": "May create another Berry after one is used.",
+    "ultra-sun-ultra-moon": "May create another Berry after one is used.",
+    "lets-go-pikachu-lets-go-eevee": "May create another Berry after one is used.",
+    "sword-shield": "May create another Berry after one is used."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": [
+      {
+        "name": "Exeggcute",
+        "id": 102
+      },
+      {
+        "name": "Exeggutor",
+        "id": 103
+      },
+      {
+        "name": "Tropius",
+        "id": 357
+      },
+      {
+        "name": "Phantump",
+        "id": 708
+      },
+      {
+        "name": "Trevenant",
+        "id": 709
+      },
+      {
+        "name": "Smoliv",
+        "id": 928
+      },
+      {
+        "name": "Dolliv",
+        "id": 929
+      },
+      {
+        "name": "Arboliva",
+        "id": 930
+      }
+    ]
+  }
+}

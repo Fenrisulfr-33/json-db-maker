@@ -1,0 +1,59 @@
+{
+  "_id": 87,
+  "key": "dry-skin",
+  "name": {
+    "english": "Dry Skin"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain. Increases damage from fire moves to 1.25×, but absorbs water moves, healing for 1/4 max HP.",
+    "full": "This Pokémon takes 1/8 of its maximum HP in damage after each turn during strong sunlight, but it heals for 1/8 of its HP each turn during rain. This Pokémon takes 1.25× as much damage from fire-type moves, but whenever a water move hits it, it heals for 1/4 its maximum HP instead."
+  },
+  "description": {
+    "diamond-pearl": "Reduces HP if it is hot. Water restores HP.",
+    "platinum": "Reduces HP if it is hot. Water restores HP.",
+    "heartgold-soulsilver": "Reduces HP if it is hot. Water restores HP.",
+    "black-white": "Reduces HP if it is hot. Water restores HP.",
+    "black-2-white-2": "Reduces HP if it is hot. Water restores HP.",
+    "x-y": "Reduces HP if it’s hot. Water restores HP.",
+    "omega-ruby-alpha-sapphire": "Reduces HP if it’s hot. Water restores HP.",
+    "sun-moon": "Restores HP in rain or when hit by Water-type moves. Reduces HP in sunshine, and increases the damage received from Fire-type moves.",
+    "ultra-sun-ultra-moon": "Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves.",
+    "sword-shield": "Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Paras",
+        "id": 46
+      },
+      {
+        "name": "Parasect",
+        "id": 47
+      },
+      {
+        "name": "Croagunk",
+        "id": 453
+      },
+      {
+        "name": "Toxicroak",
+        "id": 454
+      },
+      {
+        "name": "Helioptile",
+        "id": 694
+      },
+      {
+        "name": "Heliolisk",
+        "id": 695
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Jynx",
+        "id": 124
+      }
+    ]
+  }
+}

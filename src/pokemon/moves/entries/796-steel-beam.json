@@ -1,0 +1,32 @@
+{
+  "_id": 796,
+  "key": "steel-beam",
+  "name": {
+    "english": "Steel Beam",
+    "japanese": "てっていこうせん",
+    "chinese": "鐵蹄光線",
+    "korean": "철제광선",
+    "german": "Metaláser",
+    "french": "Stahlstrahl",
+    "italian": "Steel Beam",
+    "spanish": "Raggio d’Acciaio"
+  },
+  "type": "Steel",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 140,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user fires a beam of steel that it collected from its\nentire body. This also damages the user."
+  },
+  "effect": {
+    "full": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up. The user still takes damage if the move is blocked by Protect or Substitute, misses, or if the target has Flash Fire.",
+    "shortEffect": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up."
+  },
+  "priority": 0
+}

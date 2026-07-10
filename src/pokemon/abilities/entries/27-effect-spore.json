@@ -1,0 +1,78 @@
+{
+  "_id": 27,
+  "key": "effect-spore",
+  "name": {
+    "english": "Effect Spore"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact.",
+    "full": "Whenever a move makes contact with this Pokémon, the move's user has a 30% chance of being paralyzed, poisoned, or put to sleep, chosen at random. Nothing is done to compensate if the move's user is immune to one of these ailments; there is simply a lower chance that the move's user will be affected."
+  },
+  "description": {
+    "ruby-sapphire": "Leaves spores on contact.",
+    "emerald": "Leaves spores on contact.",
+    "firered-leafgreen": "Leaves spores on contact.",
+    "diamond-pearl": "Contact may paralyze, poison, or cause sleep.",
+    "platinum": "Contact may paralyze, poison, or cause sleep.",
+    "heartgold-soulsilver": "Contact may paralyze, poison, or cause sleep.",
+    "black-white": "Contact may poison or cause paralysis or sleep.",
+    "black-2-white-2": "Contact may poison or cause paralysis or sleep.",
+    "x-y": "Contact may poison or cause paralysis or sleep.",
+    "omega-ruby-alpha-sapphire": "Contact may poison or cause paralysis or sleep.",
+    "sun-moon": "Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker.",
+    "ultra-sun-ultra-moon": "Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker.",
+    "lets-go-pikachu-lets-go-eevee": "Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker.",
+    "sword-shield": "Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Paras",
+        "id": 46
+      },
+      {
+        "name": "Parasect",
+        "id": 47
+      },
+      {
+        "name": "Shroomish",
+        "id": 285
+      },
+      {
+        "name": "Breloom",
+        "id": 286
+      },
+      {
+        "name": "Foongus",
+        "id": 590
+      },
+      {
+        "name": "Amoonguss",
+        "id": 591
+      },
+      {
+        "name": "Morelull",
+        "id": 755
+      },
+      {
+        "name": "Shiinotic",
+        "id": 756
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Vileplume",
+        "id": 45
+      },
+      {
+        "name": "Gossifleur",
+        "id": 829
+      },
+      {
+        "name": "Eldegoss",
+        "id": 830
+      }
+    ]
+  }
+}

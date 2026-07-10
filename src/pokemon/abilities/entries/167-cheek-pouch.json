@@ -1,0 +1,49 @@
+{
+  "_id": 167,
+  "key": "cheek-pouch",
+  "name": {
+    "english": "Cheek Pouch"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
+    "full": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+  },
+  "description": {
+    "x-y": "Restores HP as well when the Pokémon eats a Berry.",
+    "omega-ruby-alpha-sapphire": "Restores HP as well when the Pokémon eats a Berry.",
+    "sun-moon": "Restores HP as well when the Pokémon eats a Berry.",
+    "ultra-sun-ultra-moon": "Restores HP as well when the Pokémon eats a Berry.",
+    "lets-go-pikachu-lets-go-eevee": "Restores HP as well when the Pokémon eats a Berry.",
+    "sword-shield": "Restores HP as well when the Pokémon eats a Berry."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Bunnelby",
+        "id": 659
+      },
+      {
+        "name": "Diggersby",
+        "id": 660
+      },
+      {
+        "name": "Dedenne",
+        "id": 702
+      },
+      {
+        "name": "Skwovet",
+        "id": 819
+      },
+      {
+        "name": "Greedent",
+        "id": 820
+      },
+      {
+        "name": "Maushold",
+        "id": 925
+      }
+    ],
+    "hidden": []
+  }
+}

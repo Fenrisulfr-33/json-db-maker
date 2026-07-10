@@ -1,0 +1,20 @@
+{
+  "_id": 9,
+  "first": [
+    {
+      "id": 23,
+      "name": "Ekans",
+      "type": {
+        "one": "Poison"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Arbok",
+      "type": {
+        "one": "Poison"
+      },
+      "how": "Level 22"
+    }
+  ]
+}

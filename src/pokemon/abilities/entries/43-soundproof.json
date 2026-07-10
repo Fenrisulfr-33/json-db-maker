@@ -1,0 +1,74 @@
+{
+  "_id": 43,
+  "key": "soundproof",
+  "name": {
+    "english": "Soundproof"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Protects against sound-based moves.",
+    "full": "This Pokémon is immune to moves flagged as being sound-based. heal bell is unaffected. uproar still prevents this Pokémon from sleeping. This Pokémon can still receive a Perish Song counter through baton pass, and will retain a Perish Song counter if it acquires this ability after Perish Song is used. howl, roar of time, sonic boom, and yawn are not flagged as sound-based."
+  },
+  "description": {
+    "ruby-sapphire": "Avoids sound-based moves.",
+    "emerald": "Avoids sound-based moves.",
+    "firered-leafgreen": "Avoids sound-based moves.",
+    "diamond-pearl": "Gives full immunity to all sound-based moves.",
+    "platinum": "Gives full immunity to all sound-based moves.",
+    "heartgold-soulsilver": "Gives full immunity to all sound-based moves.",
+    "black-white": "Gives full immunity to all sound-based moves.",
+    "black-2-white-2": "Gives full immunity to all sound-based moves.",
+    "x-y": "Gives full immunity to all sound-based moves.",
+    "omega-ruby-alpha-sapphire": "Gives full immunity to all sound-based moves.",
+    "sun-moon": "Soundproofing of the Pokémon itself gives full  immunity to all sound-based moves.",
+    "ultra-sun-ultra-moon": "Soundproofing of the Pokémon itself gives full  immunity to all sound-based moves.",
+    "lets-go-pikachu-lets-go-eevee": "Soundproofing gives the Pokémon full immunity to all sound-based moves.",
+    "sword-shield": "Soundproofing gives the Pokémon full immunity to all sound-based moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Voltorb",
+        "id": 100
+      },
+      {
+        "name": "Electrode",
+        "id": 101
+      },
+      {
+        "name": "Whismur",
+        "id": 293
+      },
+      {
+        "name": "Loudred",
+        "id": 294
+      },
+      {
+        "name": "Exploud",
+        "id": 295
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Shieldon",
+        "id": 410
+      },
+      {
+        "name": "Bastiodon",
+        "id": 411
+      },
+      {
+        "name": "Snover",
+        "id": 459
+      },
+      {
+        "name": "Abomasnow",
+        "id": 460
+      },
+      {
+        "name": "Bouffalant",
+        "id": 626
+      }
+    ]
+  }
+}

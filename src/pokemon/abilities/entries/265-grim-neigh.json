@@ -1,0 +1,21 @@
+{
+  "_id": 265,
+  "key": "grim-neigh",
+  "name": {
+    "english": "Grim Neigh"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Spectrier",
+        "id": 897
+      }
+    ],
+    "hidden": []
+  }
+}

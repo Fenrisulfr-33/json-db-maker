@@ -1,0 +1,37 @@
+{
+  "_id": 298,
+  "key": "mycelium-might",
+  "name": {
+    "english": "Mycelium Might"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Status moves go last.",
+    "full": "Status moves go last, but are not affected by the opponent's ability."
+  },
+  "description": {
+    "scarlet-violet": "The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Toedscool",
+        "id": 948
+      },
+      {
+        "name": "Toedscruel",
+        "id": 949
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Toedscool",
+        "id": 948
+      },
+      {
+        "name": "Toedscruel",
+        "id": 949
+      }
+    ]
+  }
+}

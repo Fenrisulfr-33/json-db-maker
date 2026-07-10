@@ -1,0 +1,47 @@
+{
+  "_id": 175,
+  "key": "flail",
+  "name": {
+    "english": "Flail",
+    "japanese": "じたばた",
+    "chinese": "手足慌乱",
+    "korean": "바둥바둥",
+    "german": "Azote",
+    "french": "Dreschflegel",
+    "italian": "Flail",
+    "spanish": "Flagello"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Stronger if the\nuser's HP is low.",
+    "crystal": "Stronger if the\nuser's HP is low.",
+    "ruby-sapphire": "Inflicts more damage when\nthe user’s HP is down.",
+    "emerald": "Inflicts more damage when\nthe user’s HP is down.",
+    "firered-leafgreen": "A desperate attack\nthat becomes more\npowerful the less\nHP the user has.",
+    "diamond-pearl": "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.",
+    "platinum": "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.",
+    "heartgold-soulsilver": "The user flails about\naimlessly to attack.\nIt becomes more\npowerful the less HP\nthe user has.",
+    "black-white": "The user flails about aimlessly to attack.\nIt becomes more powerful the less HP\nthe user has.",
+    "black-2-white-2": "The user flails about aimlessly to attack.\nIt becomes more powerful the less HP\nthe user has.",
+    "x-y": "The user flails about aimlessly to attack.\nThe less HP the user has,\nthe greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user flails about aimlessly to attack.\nThe less HP the user has,\nthe greater the move’s power.",
+    "sun-moon": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power.",
+    "ultra-sun-ultra-moon": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power.",
+    "sword-shield": "The user flails about aimlessly to attack. The less HP\nthe user has, the greater the move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power varies inversely with the user's proportional remaining HP.\n\n64 * current HP / max HP | Power\n-----------------------: | ----:\n 0– 1                    |  200\n 2– 5                    |  150\n 6–12                    |  100\n13–21                    |   80\n22–42                    |   40\n43–64                    |   20\n",
+    "shortEffect": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
+  },
+  "priority": 0
+}

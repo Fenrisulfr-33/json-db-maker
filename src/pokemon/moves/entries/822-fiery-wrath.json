@@ -1,0 +1,32 @@
+{
+  "_id": 822,
+  "key": "fiery-wrath",
+  "name": {
+    "english": "Fiery Wrath",
+    "japanese": "もえあがるいかり",
+    "chinese": "怒火中燒",
+    "korean": "타오르는분노",
+    "german": "Furia Candente",
+    "french": "Brennender Zorn",
+    "italian": "Fiery Wrath",
+    "spanish": "Furia Ardente"
+  },
+  "type": "Dark",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user transforms its wrath into a fire-like aura\nto attack. This may also make opposing Pokémon flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

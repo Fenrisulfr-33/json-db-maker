@@ -1,0 +1,57 @@
+{
+  "_id": 42,
+  "key": "magnet-pull",
+  "name": {
+    "english": "Magnet Pull"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents steel opponents from fleeing or switching out.",
+    "full": "While this Pokémon is in battle, opposing steel-type Pokémon cannot flee or switch out. Pokémon with run away can still flee. Pokémon can still switch out with the use of a move or item. Overworld: If the lead Pokémon has this ability, Steel-type Pokémon have a higher encounter rate."
+  },
+  "description": {
+    "ruby-sapphire": "Traps STEEL-type POKéMON.",
+    "emerald": "Traps STEEL-type POKéMON.",
+    "firered-leafgreen": "Traps STEEL-type POKéMON.",
+    "diamond-pearl": "Prevents Steel-type Pokémon from escaping.",
+    "platinum": "Prevents Steel-type Pokémon from escaping.",
+    "heartgold-soulsilver": "Prevents Steel-type Pokémon from escaping.",
+    "black-white": "Prevents Steel-type Pokémon from escaping.",
+    "black-2-white-2": "Prevents Steel-type Pokémon from escaping.",
+    "x-y": "Prevents Steel-type Pokémon from escaping.",
+    "omega-ruby-alpha-sapphire": "Prevents Steel-type Pokémon from escaping.",
+    "sun-moon": "Prevents Steel-type Pokémon from escaping using its magnetic force.",
+    "ultra-sun-ultra-moon": "Prevents Steel-type Pokémon from escaping using its magnetic force.",
+    "lets-go-pikachu-lets-go-eevee": "Prevents Steel-type Pokémon from escaping using its magnetic force.",
+    "sword-shield": "Prevents Steel-type Pokémon from escaping using its magnetic force."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Magnemite",
+        "id": 81
+      },
+      {
+        "name": "Magneton",
+        "id": 82
+      },
+      {
+        "name": "Nosepass",
+        "id": 299
+      },
+      {
+        "name": "Magnezone",
+        "id": 462
+      },
+      {
+        "name": "Probopass",
+        "id": 476
+      },
+      {
+        "name": "Meltan",
+        "id": 808
+      }
+    ],
+    "hidden": []
+  }
+}

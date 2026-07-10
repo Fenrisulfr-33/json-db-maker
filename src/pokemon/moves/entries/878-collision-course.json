@@ -1,0 +1,17 @@
+{
+  "_id": 878,
+  "key": "collision-course",
+  "name": {
+    "english": "Collision Course"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

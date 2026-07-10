@@ -1,0 +1,47 @@
+{
+  "_id": 122,
+  "key": "lick",
+  "name": {
+    "english": "Lick",
+    "japanese": "したでなめる",
+    "chinese": "舔舌头",
+    "korean": "핥기",
+    "german": "Lengüetazo",
+    "french": "Schlecker",
+    "italian": "Lick",
+    "spanish": "Leccata"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 30,
+  "power": 30,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\ncause paralysis.",
+    "crystal": "An attack that may\ncause paralysis.",
+    "ruby-sapphire": "Licks with a long tongue to\ninjure. May also paralyze.",
+    "emerald": "Licks with a long tongue to\ninjure. May also paralyze.",
+    "firered-leafgreen": "The foe is licked\nand hit with a long\ntongue. It may\nalso paralyze.",
+    "diamond-pearl": "The foe is licked with\na long tongue, causing\ndamage.\nIt may also paralyze\nthe target.",
+    "platinum": "The foe is licked with\na long tongue, causing\ndamage.\nIt may also paralyze\nthe target.",
+    "heartgold-soulsilver": "The foe is licked with\na long tongue, causing\ndamage.\nIt may also paralyze\nthe target.",
+    "black-white": "The target is licked with a long tongue,\ncausing damage. It may also leave\nthe target with paralysis.",
+    "black-2-white-2": "The target is licked with a long tongue,\ncausing damage. It may also leave\nthe target with paralysis.",
+    "x-y": "The target is licked with a long tongue,\ncausing damage. This may also leave\nthe target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The target is licked with a long tongue,\ncausing damage. This may also leave\nthe target with paralysis.",
+    "sun-moon": "The target is licked with a long tongue, causing\ndamage. This may also leave the target\nwith paralysis.",
+    "ultra-sun-ultra-moon": "The target is licked with a long tongue, causing\ndamage. This may also leave the target\nwith paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The target is licked with a long tongue, causing\ndamage. This may also leave the target\nwith paralysis.",
+    "sword-shield": "The target is licked with a long tongue, causing\ndamage. This may also leave the target\nwith paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

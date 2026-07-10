@@ -1,0 +1,45 @@
+{
+  "_id": 256,
+  "key": "swallow",
+  "name": {
+    "english": "Swallow",
+    "japanese": "のみこむ",
+    "chinese": "吞下",
+    "korean": "꿀꺽",
+    "german": "Tragar",
+    "french": "Verzehrer",
+    "italian": "Swallow",
+    "spanish": "Introenergia"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Absorbs stockpiled power\nand restores HP.",
+    "emerald": "Absorbs stockpiled power\nand restores HP.",
+    "firered-leafgreen": "The energy it built\nusing STOCKPILE is\nabsorbed to restore\nHP.",
+    "diamond-pearl": "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.",
+    "platinum": "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.",
+    "heartgold-soulsilver": "The power stored\nusing the move\nStockpile is absorbed\nby the user to heal\nits HP.",
+    "black-white": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+    "black-2-white-2": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+    "x-y": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+    "omega-ruby-alpha-sapphire": "The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.",
+    "sun-moon": "The power stored using the move Stockpile is\nabsorbed by the user to heal its HP. Storing more\npower heals more HP.",
+    "ultra-sun-ultra-moon": "The power stored using the move Stockpile is\nabsorbed by the user to heal its HP. Storing more\npower heals more HP.",
+    "lets-go-pikachu-lets-go-eevee": "The power stored using the move Stockpile is\nabsorbed by the user to heal its HP. Storing more\npower heals more HP.",
+    "sword-shield": "The power stored using the move Stockpile is\nabsorbed by the user to heal its HP. Storing more\npower heals more HP."
+  },
+  "effect": {
+    "full": "Heals the user depending on the amount of energy stored by stockpile: 1/4 its max HP after one use, 1/2 its max HP after two uses, or fully after three uses.  Stored energy is consumed, and the user's Defense and Special Defense are reset to what they would be if stockpile had not been used.  If the user has no energy stored, this move will fail.",
+    "shortEffect": "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles."
+  },
+  "priority": 0
+}

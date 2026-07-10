@@ -1,0 +1,140 @@
+{
+  "_id": 125,
+  "key": "sheer-force",
+  "name": {
+    "english": "Sheer Force"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.",
+    "full": "This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects. An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate. Moves that lower the user's stats are unaffected."
+  },
+  "description": {
+    "black-white": "Removes added effects to increase move damage.",
+    "black-2-white-2": "Removes added effects to increase move damage.",
+    "x-y": "Removes additional effects to increase move damage.",
+    "omega-ruby-alpha-sapphire": "Removes additional effects to increase move damage.",
+    "sun-moon": "Removes additional effects to increase the power of moves when attacking.",
+    "ultra-sun-ultra-moon": "Removes additional effects to increase the power of moves when attacking.",
+    "lets-go-pikachu-lets-go-eevee": "Removes additional effects to increase the power of moves when attacking.",
+    "sword-shield": "Removes additional effects to increase the power of moves when attacking."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Timburr",
+        "id": 532
+      },
+      {
+        "name": "Gurdurr",
+        "id": 533
+      },
+      {
+        "name": "Conkeldurr",
+        "id": 534
+      },
+      {
+        "name": "Druddigon",
+        "id": 621
+      },
+      {
+        "name": "Rufflet",
+        "id": 627
+      },
+      {
+        "name": "Braviary",
+        "id": 628
+      },
+      {
+        "name": "Cufant",
+        "id": 878
+      },
+      {
+        "name": "Copperajah",
+        "id": 879
+      },
+      {
+        "name": "Kleavor",
+        "id": 900
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Nidoqueen",
+        "id": 31
+      },
+      {
+        "name": "Nidoking",
+        "id": 34
+      },
+      {
+        "name": "Krabby",
+        "id": 98
+      },
+      {
+        "name": "Kingler",
+        "id": 99
+      },
+      {
+        "name": "Tauros",
+        "id": 128
+      },
+      {
+        "name": "Totodile",
+        "id": 158
+      },
+      {
+        "name": "Croconaw",
+        "id": 159
+      },
+      {
+        "name": "Feraligatr",
+        "id": 160
+      },
+      {
+        "name": "Steelix",
+        "id": 208
+      },
+      {
+        "name": "Makuhita",
+        "id": 296
+      },
+      {
+        "name": "Hariyama",
+        "id": 297
+      },
+      {
+        "name": "Mawile",
+        "id": 303
+      },
+      {
+        "name": "Trapinch",
+        "id": 328
+      },
+      {
+        "name": "Bagon",
+        "id": 371
+      },
+      {
+        "name": "Cranidos",
+        "id": 408
+      },
+      {
+        "name": "Rampardos",
+        "id": 409
+      },
+      {
+        "name": "Toucannon",
+        "id": 733
+      },
+      {
+        "name": "Cetoddle",
+        "id": 974
+      },
+      {
+        "name": "Cetitan",
+        "id": 975
+      }
+    ]
+  }
+}

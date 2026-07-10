@@ -1,0 +1,45 @@
+{
+  "_id": 282,
+  "key": "knock-off",
+  "name": {
+    "english": "Knock Off",
+    "japanese": "はたきおとす",
+    "chinese": "落拳",
+    "korean": "탁쳐서떨구기",
+    "german": "Desarme",
+    "french": "Abschlag",
+    "italian": "Knock Off",
+    "spanish": "Privazione"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 20,
+  "power": 65,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Knocks down the foe’s held\nitem to prevent its use.",
+    "emerald": "Knocks down the foe’s held\nitem to prevent its use.",
+    "firered-leafgreen": "Knocks down the\nfoe’s held item to\nprevent its use\nduring the battle.",
+    "diamond-pearl": "The user slaps down\nthe foe’s held item,\npreventing the item\nfrom being used\nduring the battle.",
+    "platinum": "The user slaps down\nthe foe’s held item,\npreventing the item\nfrom being used\nduring the battle.",
+    "heartgold-soulsilver": "The user slaps down\nthe foe’s held item,\npreventing the item\nfrom being used\nduring the battle.",
+    "black-white": "The user slaps down the target’s\nheld item, preventing that item\nfrom being used in the battle.",
+    "black-2-white-2": "The user slaps down the target’s\nheld item, preventing that item\nfrom being used in the battle.",
+    "x-y": "The user slaps down the target’s held item, and\nthat item can’t be used in that battle. The move\ndoes more damage if the target has a held item.",
+    "omega-ruby-alpha-sapphire": "The user slaps down the target’s held item, and\nthat item can’t be used in that battle. The move\ndoes more damage if the target has a held item.",
+    "sun-moon": "The user slaps down the target’s held item, and that\nitem can’t be used in that battle. The move does\nmore damage if the target has a held item.",
+    "ultra-sun-ultra-moon": "The user slaps down the target’s held item, and that\nitem can’t be used in that battle. The move does\nmore damage if the target has a held item.",
+    "lets-go-pikachu-lets-go-eevee": "The user slaps down the target’s held item, and that\nitem can’t be used in that battle. The move does\nmore damage if the target has a held item.",
+    "sword-shield": "The user slaps down the target’s held item, and that\nitem can’t be used in that battle. The move does\nmore damage if the target has a held item."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Target loses its held item.\n\nNeither the user nor the target can recover its item with recycle.\n\nIf the target has multitype or sticky hold, it will take damage but not lose its item.",
+    "shortEffect": "Target drops its held item."
+  },
+  "priority": 0
+}

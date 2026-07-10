@@ -1,0 +1,23 @@
+{
+    "_id": 40,
+    "evoLine": [
+      [
+        {
+          "id": 96,
+          "name": "Drowzee",
+          "type": {
+            "one": "Psychic"
+          }
+        },
+        {
+          "id": 97,
+          "name": "Hypno",
+          "type": {
+            "one": "Psychic"
+          },
+          "how": "Level 26"
+        }
+      ]
+    ]
+  }
+  

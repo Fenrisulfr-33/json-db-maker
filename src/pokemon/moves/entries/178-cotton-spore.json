@@ -1,0 +1,47 @@
+{
+  "_id": 178,
+  "key": "cotton-spore",
+  "name": {
+    "english": "Cotton Spore",
+    "japanese": "わたほうし",
+    "chinese": "棉孢子",
+    "korean": "목화포자",
+    "german": "Esporagodón",
+    "french": "Baumwollsaat",
+    "italian": "Cotton Spore",
+    "spanish": "Cottonspora"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 40,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "Sharply reduces\nthe foe's SPEED.",
+    "crystal": "Sharply reduces\nthe foe's SPEED.",
+    "ruby-sapphire": "Spores cling to the foe,\nsharply reducing SPEED.",
+    "emerald": "Spores cling to the foe,\nsharply reducing SPEED.",
+    "firered-leafgreen": "Cotton-like spores\ncling to the foe,\nsharply reducing\nits SPEED stat.",
+    "diamond-pearl": "The user releases\ncottonlike spores\nthat cling to the\nfoe, sharply reducing\nits Speed stat.",
+    "platinum": "The user releases\ncottonlike spores\nthat cling to the\nfoe, sharply reducing\nits Speed stat.",
+    "heartgold-soulsilver": "The user releases\ncottonlike spores\nthat cling to the\nfoe, sharply reducing\nits Speed stat.",
+    "black-white": "The user releases cotton-like spores\nthat cling to the target,\nharshly reducing its Speed stat.",
+    "black-2-white-2": "The user releases cotton-like spores\nthat cling to the target,\nharshly reducing its Speed stat.",
+    "x-y": "The user releases cotton-like spores\nthat cling to the opposing Pokémon,\nwhich harshly lowers their Speed stats.",
+    "omega-ruby-alpha-sapphire": "The user releases cotton-like spores\nthat cling to the opposing Pokémon,\nwhich harshly lowers their Speed stats.",
+    "sun-moon": "The user releases cotton-like spores that cling to\nthe opposing Pokémon, which harshly lowers their\nSpeed stat.",
+    "ultra-sun-ultra-moon": "The user releases cotton-like spores that cling to\nthe opposing Pokémon, which harshly lowers their\nSpeed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user releases cotton-like spores that cling to\nthe opposing Pokémon, which harshly lowers their\nSpeed stat.",
+    "sword-shield": "The user releases cotton-like spores that cling to\nopposing Pokémon, which harshly lowers their\nSpeed stats."
+  },
+  "effect": {
+    "full": "Lowers the target's Speed by two stages.",
+    "shortEffect": "Lowers the target's Speed by two stages."
+  },
+  "priority": 0
+}

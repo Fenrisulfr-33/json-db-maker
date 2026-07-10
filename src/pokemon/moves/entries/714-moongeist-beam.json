@@ -1,0 +1,35 @@
+{
+  "_id": 714,
+  "key": "moongeist-beam",
+  "name": {
+    "english": "Moongeist Beam",
+    "japanese": "シャドーレイ",
+    "chinese": "暗影之光",
+    "korean": "섀도레이",
+    "german": "Rayo Umbrío",
+    "french": "Schattenstrahl",
+    "italian": "Moongeist Beam",
+    "spanish": "Raggio d’Ombra"
+  },
+  "type": "Ghost",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user emits a sinister ray to attack the target.\nThis move can be used on the target regardless of \nits Abilities.",
+    "ultra-sun-ultra-moon": "The user emits a sinister ray to attack the target.\nThis move can be used on the target regardless of \nits Abilities.",
+    "lets-go-pikachu-lets-go-eevee": "The user emits a sinister ray to attack the target.\nThis move can be used on the target regardless of\nits Abilities.",
+    "sword-shield": "The user emits a sinister ray to attack the target.\nThis move can be used on the target regardless of\nits Abilities."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular, it hits through disguise",
+    "shortEffect": "Cannot be disrupted by abilities."
+  },
+  "priority": 0
+}

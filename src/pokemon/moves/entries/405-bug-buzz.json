@@ -1,0 +1,42 @@
+{
+  "_id": 405,
+  "key": "bug-buzz",
+  "name": {
+    "english": "Bug Buzz",
+    "japanese": "むしのさざめき",
+    "chinese": "虫鸣",
+    "korean": "벌레의야단법석",
+    "german": "Zumbido",
+    "french": "Käfergebrumm",
+    "italian": "Bug Buzz",
+    "spanish": "Ronzio"
+  },
+  "type": "Bug",
+  "category": "Special",
+  "contest": "Cute",
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.",
+    "platinum": "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.",
+    "heartgold-soulsilver": "The user vibrates its\nwings to generate a\ndamaging sound wave.\nIt may also lower the\nfoe’s Sp. Def stat.",
+    "black-white": "The user vibrates its wings to generate a\ndamaging sound wave. It may also lower\nthe target’s Sp. Def stat.",
+    "black-2-white-2": "The user vibrates its wings to generate a\ndamaging sound wave. It may also lower\nthe target’s Sp. Def stat.",
+    "x-y": "The user vibrates its wings to generate a\ndamaging sound wave. This may also lower\nthe target’s Sp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user vibrates its wings to generate a\ndamaging sound wave. This may also lower\nthe target’s Sp. Def stat.",
+    "sun-moon": "The user generates a damaging sound wave by\nvibration. This may also lower the target’s\nSp. Def stat.",
+    "ultra-sun-ultra-moon": "The user generates a damaging sound wave by\nvibration. This may also lower the target’s\nSp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user generates a damaging sound wave by\nvibration. This may also lower the target’s\nSp. Def stat.",
+    "sword-shield": "The user generates a damaging sound wave by\nvibration. This may also lower the target’s\nSp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

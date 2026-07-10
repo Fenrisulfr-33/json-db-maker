@@ -1,0 +1,37 @@
+{
+  "_id": 597,
+  "key": "aromatic-mist",
+  "name": {
+    "english": "Aromatic Mist",
+    "japanese": "アロマミスト",
+    "chinese": "芳香薄霧",
+    "korean": "아로마미스트",
+    "german": "Niebla Aromática",
+    "french": "Duftwolke",
+    "italian": "Aromatic Mist",
+    "spanish": "Nebularoma"
+  },
+  "type": "Fairy",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": "No",
+  "generation": 6,
+  "target": "ally",
+  "changes": [],
+  "description": {
+    "x-y": "The user raises the Sp. Def stat of an ally\nPokémon by using a mysterious aroma.",
+    "omega-ruby-alpha-sapphire": "The user raises the Sp. Def stat of an ally\nPokémon by using a mysterious aroma.",
+    "sun-moon": "The user raises the Sp. Def stat of an ally Pokémon\nby using a mysterious aroma.",
+    "ultra-sun-ultra-moon": "The user raises the Sp. Def stat of an ally Pokémon\nby using a mysterious aroma.",
+    "lets-go-pikachu-lets-go-eevee": "The user raises the Sp. Def stat of an ally Pokémon\nby using a mysterious aroma.",
+    "sword-shield": "The user raises the Sp. Def stat of an ally Pokémon\nby using a mysterious aroma."
+  },
+  "effect": {
+    "full": "Raises a selected ally's Special Defense by one stage.",
+    "shortEffect": "Raises a selected ally's Special Defense by one stage."
+  },
+  "priority": 0
+}

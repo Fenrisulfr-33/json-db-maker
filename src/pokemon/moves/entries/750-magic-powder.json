@@ -1,0 +1,29 @@
+{
+  "_id": 750,
+  "key": "magic-powder",
+  "name": {
+    "english": "Magic Powder",
+    "japanese": "まほうのこな",
+    "chinese": "魔法粉",
+    "korean": "마법가루",
+    "german": "Polvo Mágico",
+    "french": "Magiepuder",
+    "italian": "Magic Powder",
+    "spanish": "Magipolvere"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": null,
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user scatters a cloud of magic powder that\nchanges the target to Psychic type."
+  },
+  "effect": {},
+  "priority": 0
+}

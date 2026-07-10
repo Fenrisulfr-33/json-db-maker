@@ -1,0 +1,47 @@
+{
+  "_id": 249,
+  "key": "rock-smash",
+  "name": {
+    "english": "Rock Smash",
+    "japanese": "いわくだき",
+    "chinese": "岩石粉碎",
+    "korean": "바위깨기",
+    "german": "Golpe Roca",
+    "french": "Zertrümmerer",
+    "italian": "Rock Smash",
+    "spanish": "Spaccaroccia"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "emerald": "A rock-crushing attack\nthat may lower DEFENSE.",
+    "firered-leafgreen": "An attack that may\nalso cut DEFENSE.\nIt can also smash\ncracked boulders.",
+    "gold-silver": "An attack that may\nlower DEFENSE.",
+    "crystal": "An attack that may\nlower DEFENSE.",
+    "ruby-sapphire": "A rock-crushing attack\nthat may lower DEFENSE.",
+    "diamond-pearl": "The user slugs the\nfoe with a shattering\npunch.\nIt can also smash\ncracked boulders.",
+    "platinum": "The user slugs the\nfoe with a shattering\npunch.\nIt can also smash\ncracked boulders.",
+    "heartgold-soulsilver": "The user hits with a\npunch that may lower\nthe target’s Defense.\nIt can also smash\ncracked boulders.",
+    "black-white": "The user attacks with a punch that can\nshatter a rock. It may also lower the\ntarget’s Defense stat.",
+    "black-2-white-2": "The user attacks with a punch that can\nshatter a rock. It may also lower the\ntarget’s Defense stat.",
+    "x-y": "The user attacks with a punch.\nThis may also lower the target’s Defense stat.\nThis move can also shatter rocks in the field.",
+    "omega-ruby-alpha-sapphire": "The user attacks with a punch.\nThis may also lower the target’s Defense stat.\nThis move can also shatter rocks in the field.",
+    "sun-moon": "The user attacks with a punch. This may also lower\nthe target’s Defense stat.",
+    "ultra-sun-ultra-moon": "The user attacks with a punch. This may also lower\nthe target’s Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a punch. This may also lower\nthe target’s Defense stat.",
+    "sword-shield": "The user attacks with a punch. This may also lower\nthe target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Defense by one stage."
+  },
+  "priority": 0
+}

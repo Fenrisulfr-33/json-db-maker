@@ -1,0 +1,33 @@
+{
+    "_id": 29,
+    "evoLine": [
+        [
+            {
+                "id": 69,
+                "name": "Bellsprout",
+                "type": {
+                    "one": "Grass",
+                    "two": "Poison"
+                }
+            },
+            {
+                "id": 70,
+                "name": "Weepinbell",
+                "type": {
+                    "one": "Grass",
+                    "two": "Poison"
+                },
+                "how": "Level 21"
+            },
+            {
+                "id": 71,
+                "name": "Victreebel",
+                "type": {
+                    "one": "Grass",
+                    "two": "Poison"
+                },
+                "how": "use Leaf Stone"
+            }
+        ]
+    ]
+}

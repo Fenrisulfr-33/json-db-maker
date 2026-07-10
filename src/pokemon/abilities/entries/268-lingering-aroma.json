@@ -1,0 +1,24 @@
+{
+  "_id": 268,
+  "key": "lingering-aroma",
+  "name": {
+    "english": "Lingering Aroma"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Contact changes the attacker's Ability to Lingering Aroma.",
+    "full": "Contact changes the attacker's Ability to Lingering Aroma."
+  },
+  "description": {
+    "scarlet-violet": "Contact with the Pokémon changes the attacker’s Ability to Lingering Aroma."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Oinkologne",
+        "id": 916
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 136,
+  "key": "high-jump-kick",
+  "name": {
+    "english": "High Jump Kick",
+    "japanese": "とびひざげり",
+    "chinese": "飞膝撞",
+    "korean": "무릎차기",
+    "german": "Pat. Salto Alta",
+    "french": "Turmkick",
+    "italian": "High Jump Kick",
+    "spanish": "Calcinvolo"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 130,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "May miss and hurt\nthe user.",
+    "crystal": "May miss and hurt\nthe user.",
+    "ruby-sapphire": "A jumping knee kick. If it\nmisses, the user is hurt.",
+    "emerald": "A jumping knee kick. If it\nmisses, the user is hurt.",
+    "firered-leafgreen": "A strong jumping\nknee kick. If it\nmisses, the user is\nhurt.",
+    "diamond-pearl": "The foe is attacked\nwith a knee kick from\na jump. If it misses,\nthe user is hurt\ninstead.",
+    "platinum": "The foe is attacked\nwith a knee kick from\na jump. If it misses,\nthe user is hurt\ninstead.",
+    "heartgold-soulsilver": "The foe is attacked\nwith a knee kick from\na jump. If it misses,\nthe user is hurt\ninstead.",
+    "black-white": "The target is attacked with a knee kick\nfrom a jump. If it misses, the user is hurt\ninstead.",
+    "black-2-white-2": "The target is attacked with a knee kick\nfrom a jump. If it misses, the user is hurt\ninstead.",
+    "x-y": "The target is attacked with a knee kick\nfrom a jump. If it misses, the user is\nhurt instead.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a knee kick\nfrom a jump. If it misses, the user is\nhurt instead.",
+    "sun-moon": "The target is attacked with a knee kick from a jump.\nIf it misses, the user is hurt instead.",
+    "ultra-sun-ultra-moon": "The target is attacked with a knee kick from a jump.\nIf it misses, the user is hurt instead.",
+    "lets-go-pikachu-lets-go-eevee": "The target is attacked with a knee kick from a jump.\nIf it misses, the user is hurt instead.",
+    "sword-shield": "The target is attacked with a knee kick from a jump.\nIf it misses, the user is hurt instead."
+  },
+  "effect": {
+    "full": "Inflicts regular damage. If this move misses, is blocked by protect or detect, or has no effect, the user takes damage equal to half of its max HP rounded down.\n\nThis move cannot be used while gravity is in effect.",
+    "shortEffect": "If the user misses, it takes half the damage it would have inflicted in recoil."
+  },
+  "priority": 0
+}

@@ -1,0 +1,46 @@
+{
+  "_id": 170,
+  "key": "magician",
+  "name": {
+    "english": "Magician"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Steals the target's held item when the bearer uses a damaging move.",
+    "full": "Steals the target's held item when the bearer uses a damaging move."
+  },
+  "description": {
+    "x-y": "The Pokémon steals the held item of a Pokémon it hits with a move.",
+    "omega-ruby-alpha-sapphire": "The Pokémon steals the held item of a Pokémon it hits with a move.",
+    "sun-moon": "The Pokémon steals the held item of a Pokémon it hits with a move.",
+    "ultra-sun-ultra-moon": "The Pokémon steals the held item of a Pokémon it hits with a move.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon steals the held item of a Pokémon it hits with a move.",
+    "sword-shield": "The Pokémon steals the held item of a Pokémon it hits with a move."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Hoopa",
+        "id": 720
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Fennekin",
+        "id": 653
+      },
+      {
+        "name": "Braixen",
+        "id": 654
+      },
+      {
+        "name": "Delphox",
+        "id": 655
+      },
+      {
+        "name": "Klefki",
+        "id": 707
+      }
+    ]
+  }
+}

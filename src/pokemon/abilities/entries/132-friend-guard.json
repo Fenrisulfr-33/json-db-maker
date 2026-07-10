@@ -1,0 +1,64 @@
+{
+  "_id": 132,
+  "key": "friend-guard",
+  "name": {
+    "english": "Friend Guard"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
+    "full": "All friendly Pokémon take 0.75× as much direct damage from moves while this Pokémon is in battle. This effect stacks if multiple allied Pokémon have it."
+  },
+  "description": {
+    "black-white": "Reduces damage done to allies.",
+    "black-2-white-2": "Reduces damage done to allies.",
+    "x-y": "Reduces damage done to allies.",
+    "omega-ruby-alpha-sapphire": "Reduces damage done to allies.",
+    "sun-moon": "Reduces damage done to allies.",
+    "ultra-sun-ultra-moon": "Reduces damage done to allies.",
+    "lets-go-pikachu-lets-go-eevee": "Reduces damage done to allies.",
+    "sword-shield": "Reduces damage done to allies."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Maushold",
+        "id": 925
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Clefairy",
+        "id": 35
+      },
+      {
+        "name": "Jigglypuff",
+        "id": 39
+      },
+      {
+        "name": "Cleffa",
+        "id": 173
+      },
+      {
+        "name": "Igglybuff",
+        "id": 174
+      },
+      {
+        "name": "Happiny",
+        "id": 440
+      },
+      {
+        "name": "Scatterbug",
+        "id": 664
+      },
+      {
+        "name": "Spewpa",
+        "id": 665
+      },
+      {
+        "name": "Vivillon",
+        "id": 666
+      }
+    ]
+  }
+}

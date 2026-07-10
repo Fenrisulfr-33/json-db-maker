@@ -1,0 +1,42 @@
+{
+  "_id": 400,
+  "key": "night-slash",
+  "name": {
+    "english": "Night Slash",
+    "japanese": "つじぎり",
+    "chinese": "街头试刀",
+    "korean": "깜짝베기",
+    "german": "Tajo Umbrío",
+    "french": "Nachthieb",
+    "italian": "Night Slash",
+    "spanish": "Nottesferza"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio.",
+    "platinum": "The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio.",
+    "heartgold-soulsilver": "The user slashes the\nfoe the instant an\nopportunity arises.\nIt has a high\ncritical-hit ratio.",
+    "black-white": "The user slashes the target\nthe instant an opportunity arises.\nCritical hits land more easily.",
+    "black-2-white-2": "The user slashes the target\nthe instant an opportunity arises.\nCritical hits land more easily.",
+    "x-y": "The user slashes the target\nthe instant an opportunity arises.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user slashes the target\nthe instant an opportunity arises.\nCritical hits land more easily.",
+    "sun-moon": "The user slashes the target the instant an\nopportunity arises. Critical hits land more easily.",
+    "ultra-sun-ultra-moon": "The user slashes the target the instant an\nopportunity arises. Critical hits land more easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user slashes the target the instant an\nopportunity arises. Critical hits land more easily.",
+    "sword-shield": "The user slashes the target the instant an\nopportunity arises. Critical hits land more easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

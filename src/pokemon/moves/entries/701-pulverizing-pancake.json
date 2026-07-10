@@ -1,0 +1,35 @@
+{
+  "_id": 701,
+  "key": "pulverizing-pancake",
+  "name": {
+    "english": "Pulverizing Pancake",
+    "japanese": "ほんきをだす　こうげき",
+    "chinese": "認真起來大爆擊",
+    "korean": "진심의공격",
+    "german": "Arrojo Intempestivo",
+    "french": "Schluss mit lustig",
+    "italian": "Pulverizing Pancake",
+    "spanish": "Adesso Faccio sul Serio"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 1,
+  "power": 210,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "Z-Power brings out the true capabilities of the user,\nSnorlax. The Pokémon moves its enormous body\nenergetically and attacks the target with full force.",
+    "ultra-sun-ultra-moon": "Z-Power brings out the true capabilities of the user,\nSnorlax. The Pokémon moves its enormous body\nenergetically and attacks the target with full force.",
+    "lets-go-pikachu-lets-go-eevee": "Z-Power brings out the true capabilities of the user,\nSnorlax. The Pokémon moves its enormous body\nenergetically and attacks the target with full force.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 105,
+  "key": "recover",
+  "name": {
+    "english": "Recover",
+    "japanese": "じこさいせい",
+    "chinese": "自我复原",
+    "korean": "HP회복",
+    "german": "Recuperación",
+    "french": "Genesung",
+    "italian": "Recover",
+    "spanish": "Ripresa"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Restores HP by 1/2\nthe max HP.",
+    "crystal": "Restores HP by 1/2\nthe max HP.",
+    "ruby-sapphire": "Recovers up to half the\nuser’s maximum HP.",
+    "emerald": "Recovers up to half the\nuser’s maximum HP.",
+    "firered-leafgreen": "A self-healing move\nthat restores HP by\nup to half of the\nuser’s maximum HP.",
+    "diamond-pearl": "A self-healing move.\nThe user restores its\nown HP by up to half\nof its max HP.\n",
+    "platinum": "A self-healing move.\nThe user restores its\nown HP by up to half\nof its max HP.\n",
+    "heartgold-soulsilver": "A self-healing move.\nThe user restores its\nown HP by up to half\nof its max HP.\n",
+    "black-white": "Restoring its own cells, the user\nrestores its own HP by half of\nits max HP.",
+    "black-2-white-2": "Restoring its own cells, the user\nrestores its own HP by half of\nits max HP.",
+    "x-y": "Restoring its own cells, the user\nrestores its own HP by half of\nits max HP.",
+    "omega-ruby-alpha-sapphire": "Restoring its own cells, the user\nrestores its own HP by half of\nits max HP.",
+    "sun-moon": "Restoring its own cells, the user restores its own HP\nby half of its max HP.",
+    "ultra-sun-ultra-moon": "Restoring its own cells, the user restores its own HP\nby half of its max HP.",
+    "lets-go-pikachu-lets-go-eevee": "Restoring its own cells, the user restores its own HP\nby half of its max HP.",
+    "sword-shield": "Restoring its own cells, the user restores its own HP\nby half of its max HP."
+  },
+  "effect": {
+    "full": "Heals the user for half its max HP.",
+    "shortEffect": "Heals the user by half its max HP."
+  },
+  "priority": 0
+}

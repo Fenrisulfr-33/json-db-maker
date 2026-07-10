@@ -1,0 +1,47 @@
+{
+  "_id": 198,
+  "key": "bone-rush",
+  "name": {
+    "english": "Bone Rush",
+    "japanese": "ボーンラッシュ",
+    "chinese": "骨击一气",
+    "korean": "본러쉬",
+    "german": "Ataque Óseo",
+    "french": "Knochenhatz",
+    "italian": "Bone Rush",
+    "spanish": "Ossoraffica"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 25,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that\nhits 2-5 times.",
+    "crystal": "An attack that\nhits 2-5 times.",
+    "ruby-sapphire": "Strikes the foe with a bone\nin hand 2 to 5 times.",
+    "emerald": "Strikes the foe with a bone\nin hand 2 to 5 times.",
+    "firered-leafgreen": "The user strikes\nthe foe with a bone\nin hand two to five\ntimes.",
+    "diamond-pearl": "The user strikes at\nthe foe with a hard\nbone two to five\ntimes in a row.\n",
+    "platinum": "The user strikes at\nthe foe with a hard\nbone two to five\ntimes in a row.\n",
+    "heartgold-soulsilver": "The user strikes at\nthe foe with a hard\nbone two to five\ntimes in a row.\n",
+    "black-white": "The user strikes the target with a hard\nbone two to five times in a row.",
+    "black-2-white-2": "The user strikes the target with a hard\nbone two to five times in a row.",
+    "x-y": "The user strikes the target with a hard\nbone two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "The user strikes the target with a hard\nbone two to five times in a row.",
+    "sun-moon": "The user strikes the target with a hard bone two to\nfive times in a row.",
+    "ultra-sun-ultra-moon": "The user strikes the target with a hard bone two to\nfive times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The user strikes the target with a hard bone two to\nfive times in a row.",
+    "sword-shield": "The user strikes the target with a hard bone two to\nfive times in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

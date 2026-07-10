@@ -1,0 +1,39 @@
+{
+  "_id": 533,
+  "key": "sacred-sword",
+  "name": {
+    "english": "Sacred Sword",
+    "japanese": "せいなるつるぎ",
+    "chinese": "圣剑",
+    "korean": "성스러운칼",
+    "german": "Espada Santa",
+    "french": "Sanctoklinge",
+    "italian": "Sacred Sword",
+    "spanish": "Spadasolenne"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by slicing with its long\nhorns. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "black-2-white-2": "The user attacks by slicing with its long\nhorns. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "x-y": "The user attacks by slicing with a long\nhorn. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "omega-ruby-alpha-sapphire": "The user attacks by slicing with a long\nhorn. The target’s stat changes\ndon’t affect this attack’s damage.",
+    "sun-moon": "The user attacks by slicing with a long horn. The\ntarget’s stat changes don’t affect this\nattack’s damage.",
+    "ultra-sun-ultra-moon": "The user attacks by slicing with a long horn. The\ntarget’s stat changes don’t affect this\nattack’s damage.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by slicing with a long horn. The\ntarget’s stat changes don’t affect this\nattack’s damage.",
+    "sword-shield": "The user attacks by slicing with a long horn. The\ntarget’s stat changes don’t affect this\nattack’s damage."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.",
+    "shortEffect": "Ignores the target's stat modifiers."
+  },
+  "priority": 0
+}

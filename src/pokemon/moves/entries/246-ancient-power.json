@@ -1,0 +1,47 @@
+{
+  "_id": 246,
+  "key": "ancient-power",
+  "name": {
+    "english": "Ancient Power",
+    "japanese": "げんしのちから",
+    "chinese": "原始之力",
+    "korean": "원시의힘",
+    "german": "Poder Pasado",
+    "french": "Antik-Kraft",
+    "italian": "Ancient Power",
+    "spanish": "Forzantica"
+  },
+  "type": "Rock",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 5,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nraise all stats.",
+    "crystal": "An attack that may\nraise all stats.",
+    "ruby-sapphire": "An attack that may raise\nall stats.",
+    "emerald": "An attack that may raise\nall stats.",
+    "firered-leafgreen": "An ancient power is\nused to attack. It\nmay also raise all\nthe user’s stats.",
+    "diamond-pearl": "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.",
+    "platinum": "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.",
+    "heartgold-soulsilver": "The user attacks with\na prehistoric power.\nIt may also raise all\nthe user’s stats at\nonce.",
+    "black-white": "The user attacks with a prehistoric power.\nIt may also raise all the user’s stats\nat once.",
+    "black-2-white-2": "The user attacks with a prehistoric power.\nIt may also raise all the user’s stats\nat once.",
+    "x-y": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats\nat once.",
+    "omega-ruby-alpha-sapphire": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats\nat once.",
+    "sun-moon": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats at once.",
+    "ultra-sun-ultra-moon": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats at once.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats at once.",
+    "sword-shield": "The user attacks with a prehistoric power.\nThis may also raise all the user’s stats at once."
+  },
+  "effect": {
+    "full": "Inflicts regular damage. Has a $effect_chance% chance to raise all of the user's stats one stage.",
+    "shortEffect": "Has a $effect_chance% chance to raise all of the user's stats by one stage."
+  },
+  "priority": 0
+}

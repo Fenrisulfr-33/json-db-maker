@@ -1,0 +1,37 @@
+{
+  "_id": 598,
+  "key": "eerie-impulse",
+  "name": {
+    "english": "Eerie Impulse",
+    "japanese": "かいでんぱ",
+    "chinese": "怪異電波",
+    "korean": "괴전파",
+    "german": "Onda Anómala",
+    "french": "Mystowellen",
+    "italian": "Eerie Impulse",
+    "spanish": "Elettromistero"
+  },
+  "type": "Electric",
+  "category": "Status",
+  "contest": null,
+  "pp": 15,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "The user’s body generates an eerie impulse.\nExposing the target to it harshly lowers\nthe target’s Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "The user’s body generates an eerie impulse.\nExposing the target to it harshly lowers\nthe target’s Sp. Atk stat.",
+    "sun-moon": "The user’s body generates an eerie impulse.\nExposing the target to it harshly lowers the target’s\nSp. Atk stat.",
+    "ultra-sun-ultra-moon": "The user’s body generates an eerie impulse.\nExposing the target to it harshly lowers the target’s\nSp. Atk stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user’s body generates an eerie impulse.\nExposing the target to it harshly lowers the target’s\nSp. Atk stat.",
+    "sword-shield": "The user’s body generates an eerie impulse.\nExposing the target to it harshly lowers the target’s\nSp. Atk stat."
+  },
+  "effect": {
+    "full": "Lowers the target's Special Attack by two stages.",
+    "shortEffect": "Lowers the target's Special Attack by two stages."
+  },
+  "priority": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 155,
+  "key": "bonemerang",
+  "name": {
+    "english": "Bonemerang",
+    "japanese": "ホネブーメラン",
+    "chinese": "骨头回力镖",
+    "korean": "뼈다귀부메랑",
+    "german": "Huesomerang",
+    "french": "Knochmerang",
+    "italian": "Bonemerang",
+    "spanish": "Ossomerang"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 10,
+  "power": 50,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that\nstrikes twice.",
+    "crystal": "An attack that\nstrikes twice.",
+    "ruby-sapphire": "Throws a bone boomerang\nthat strikes twice.",
+    "emerald": "Throws a bone boomerang\nthat strikes twice.",
+    "firered-leafgreen": "The user throws a\nbone that hits the\nfoe once, then once\nagain on return.",
+    "diamond-pearl": "The user throws the\nbone it holds. The\nbone loops to hit the\nfoe twice, coming and\ngoing.",
+    "platinum": "The user throws the\nbone it holds. The\nbone loops to hit the\nfoe twice, coming and\ngoing.",
+    "heartgold-soulsilver": "The user throws the\nbone it holds. The\nbone loops to hit the\nfoe twice, coming and\ngoing.",
+    "black-white": "The user throws the bone it holds. The\nbone loops to hit the target twice,\ncoming and going.",
+    "black-2-white-2": "The user throws the bone it holds. The\nbone loops to hit the target twice,\ncoming and going.",
+    "x-y": "The user throws the bone it holds. The\nbone loops to hit the target twice,\ncoming and going.",
+    "omega-ruby-alpha-sapphire": "The user throws the bone it holds. The\nbone loops to hit the target twice,\ncoming and going.",
+    "sun-moon": "The user throws the bone it holds. The bone loops\naround to hit the target twice—coming and going.",
+    "ultra-sun-ultra-moon": "The user throws the bone it holds. The bone loops\naround to hit the target twice—coming and going.",
+    "lets-go-pikachu-lets-go-eevee": "The user throws the bone it holds. The bone loops\naround to hit the target twice—coming and going.",
+    "sword-shield": "The user throws the bone it holds. The bone loops\naround to hit the target twice—coming and going."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits twice in one turn.",
+    "shortEffect": "Hits twice in one turn."
+  },
+  "priority": 0
+}

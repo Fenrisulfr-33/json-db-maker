@@ -1,0 +1,42 @@
+{
+  "_id": 425,
+  "key": "shadow-sneak",
+  "name": {
+    "english": "Shadow Sneak",
+    "japanese": "かげうち",
+    "chinese": "影子偷袭",
+    "korean": "야습",
+    "german": "Sombra Vil",
+    "french": "Schattenstoß",
+    "italian": "Shadow Sneak",
+    "spanish": "Furtivombra"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.",
+    "platinum": "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.",
+    "heartgold-soulsilver": "The user extends its\nshadow and attacks\nthe foe from behind.\nThis move always goes\nfirst.",
+    "black-white": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+    "black-2-white-2": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+    "x-y": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+    "omega-ruby-alpha-sapphire": "The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.",
+    "sun-moon": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
+    "ultra-sun-ultra-moon": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first.",
+    "sword-shield": "The user extends its shadow and attacks the target\nfrom behind. This move always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 1
+}

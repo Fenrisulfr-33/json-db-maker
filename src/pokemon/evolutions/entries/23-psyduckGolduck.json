@@ -1,0 +1,20 @@
+{
+    "_id": 23,
+    "first": [
+        {
+            "id": 54,
+            "name": "Psyduck",
+            "type": {
+                "one": "Water"
+            }
+        },
+        {
+            "id": 55,
+            "name": "Golduck",
+            "type": {
+                "one": "Water"
+            },
+            "how": "Level 33"
+        }
+    ]
+}

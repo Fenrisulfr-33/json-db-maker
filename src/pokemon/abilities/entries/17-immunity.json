@@ -1,0 +1,46 @@
+{
+  "_id": 17,
+  "key": "immunity",
+  "name": {
+    "english": "Immunity"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Prevents poison.",
+    "full": "This Pokémon cannot be poisoned. This includes bad poison. If a Pokémon is poisoned and acquires this ability, its poison is healed; this includes when regaining a lost ability upon leaving battle."
+  },
+  "description": {
+    "ruby-sapphire": "Prevents poisoning.",
+    "emerald": "Prevents poisoning.",
+    "firered-leafgreen": "Prevents poisoning.",
+    "diamond-pearl": "Prevents the Pokémon from getting poisoned.",
+    "platinum": "Prevents the Pokémon from getting poisoned.",
+    "heartgold-soulsilver": "Prevents the Pokémon from getting poisoned.",
+    "black-white": "Prevents the Pokémon from getting poisoned.",
+    "black-2-white-2": "Prevents the Pokémon from getting poisoned.",
+    "x-y": "Prevents the Pokémon from getting poisoned.",
+    "omega-ruby-alpha-sapphire": "Prevents the Pokémon from getting poisoned.",
+    "sun-moon": "The immune system of the Pokémon prevents it from getting poisoned.",
+    "ultra-sun-ultra-moon": "The immune system of the Pokémon prevents it from getting poisoned.",
+    "lets-go-pikachu-lets-go-eevee": "The immune system of the Pokémon prevents it from getting poisoned.",
+    "sword-shield": "The immune system of the Pokémon prevents it from getting poisoned."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Snorlax",
+        "id": 143
+      },
+      {
+        "name": "Zangoose",
+        "id": 335
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Gligar",
+        "id": 207
+      }
+    ]
+  }
+}

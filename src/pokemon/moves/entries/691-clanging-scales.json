@@ -1,0 +1,35 @@
+{
+  "_id": 691,
+  "key": "clanging-scales",
+  "name": {
+    "english": "Clanging Scales",
+    "japanese": "スケイルノイズ",
+    "chinese": "鱗片噪音",
+    "korean": "스케일노이즈",
+    "german": "Fragor Escamas",
+    "french": "Schuppenrasseln",
+    "italian": "Clanging Scales",
+    "spanish": "Clamorsquame"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 110,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user rubs the scales on its entire body and\nmakes a huge noise to attack the opposing Pokémon.\nThe user’s Defense stat goes down after the attack.",
+    "ultra-sun-ultra-moon": "The user rubs the scales on its entire body and\nmakes a huge noise to attack the opposing Pokémon.\nThe user’s Defense stat goes down after the attack.",
+    "lets-go-pikachu-lets-go-eevee": "The user rubs the scales on its entire body and\nmakes a huge noise to attack the opposing Pokémon.\nThe user’s Defense stat goes down after the attack.",
+    "sword-shield": "The user rubs the scales on its entire body and makes\na huge noise to attack opposing Pokémon.\nThe user’s Defense stat goes down after the attack."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Lowers the user's Defense by one stage.",
+    "shortEffect": "Lowers the user's Defense by one stage after inflicting damage."
+  },
+  "priority": 0
+}

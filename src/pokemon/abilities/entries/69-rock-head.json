@@ -1,0 +1,110 @@
+{
+  "_id": 69,
+  "key": "rock-head",
+  "name": {
+    "english": "Rock Head"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Protects against recoil damage.",
+    "full": "This Pokémon does not receive recoil damage from its recoil moves. struggle's recoil is unaffected. This ability does not prevent crash damage from missing with jump kick or high jump kick."
+  },
+  "description": {
+    "diamond-pearl": "Protects the Pokémon from recoil damage.",
+    "ruby-sapphire": "Prevents recoil damage.",
+    "emerald": "Prevents recoil damage.",
+    "firered-leafgreen": "Prevents recoil damage.",
+    "platinum": "Protects the Pokémon from recoil damage.",
+    "heartgold-soulsilver": "Protects the Pokémon from recoil damage.",
+    "black-white": "Protects the Pokémon from recoil damage.",
+    "black-2-white-2": "Protects the Pokémon from recoil damage.",
+    "x-y": "Protects the Pokémon from recoil damage.",
+    "omega-ruby-alpha-sapphire": "Protects the Pokémon from recoil damage.",
+    "sun-moon": "Protects the Pokémon from recoil damage.",
+    "ultra-sun-ultra-moon": "Protects the Pokémon from recoil damage.",
+    "lets-go-pikachu-lets-go-eevee": "Protects the Pokémon from recoil damage.",
+    "sword-shield": "Protects the Pokémon from recoil damage."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Geodude",
+        "id": 74
+      },
+      {
+        "name": "Graveler",
+        "id": 75
+      },
+      {
+        "name": "Golem",
+        "id": 76
+      },
+      {
+        "name": "Onix",
+        "id": 95
+      },
+      {
+        "name": "Cubone",
+        "id": 104
+      },
+      {
+        "name": "Marowak",
+        "id": 105
+      },
+      {
+        "name": "Rhyhorn",
+        "id": 111
+      },
+      {
+        "name": "Rhydon",
+        "id": 112
+      },
+      {
+        "name": "Aerodactyl",
+        "id": 142
+      },
+      {
+        "name": "Sudowoodo",
+        "id": 185
+      },
+      {
+        "name": "Steelix",
+        "id": 208
+      },
+      {
+        "name": "Aron",
+        "id": 304
+      },
+      {
+        "name": "Lairon",
+        "id": 305
+      },
+      {
+        "name": "Aggron",
+        "id": 306
+      },
+      {
+        "name": "Relicanth",
+        "id": 369
+      },
+      {
+        "name": "Bagon",
+        "id": 371
+      },
+      {
+        "name": "Shelgon",
+        "id": 372
+      },
+      {
+        "name": "Bonsly",
+        "id": 438
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Tyrantrum",
+        "id": 697
+      }
+    ]
+  }
+}

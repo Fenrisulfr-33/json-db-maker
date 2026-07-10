@@ -1,0 +1,32 @@
+{
+  "_id": 767,
+  "key": "max-starfall",
+  "name": {
+    "english": "Max Starfall",
+    "japanese": "ダイフェアリー",
+    "chinese": "極巨妖精",
+    "korean": "다이페어리",
+    "german": "Maxiestela",
+    "french": "Dyna-Zauber",
+    "italian": "Max Starfall",
+    "spanish": "Dynafata"
+  },
+  "type": "Fairy",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 10,
+  "accuracy": null,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon-me-first",
+  "changes": [],
+  "description": {
+    "sword-shield": "This is a Fairy-type attack Dynamax Pokémon use.\nThe user turns the ground into Misty Terrain for\nfive turns."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

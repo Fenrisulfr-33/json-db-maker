@@ -1,0 +1,42 @@
+{
+  "_id": 450,
+  "key": "bug-bite",
+  "name": {
+    "english": "Bug Bite",
+    "japanese": "むしくい",
+    "chinese": "虫咬",
+    "korean": "벌레먹음",
+    "german": "Picadura",
+    "french": "Käferbiss",
+    "italian": "Bug Bite",
+    "spanish": "Coleomorso"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user bites the\nfoe. If the foe is\nholding a Berry, the\nuser eats it and\ngains its effect.",
+    "platinum": "The user bites the\nfoe. If the foe is\nholding a Berry, the\nuser eats it and\ngains its effect.",
+    "heartgold-soulsilver": "The user bites the\nfoe. If the foe is\nholding a Berry, the\nuser eats it and\ngains its effect.",
+    "black-white": "The user bites the target. If the target\nis holding a Berry, the user eats it and\ngains its effect.",
+    "black-2-white-2": "The user bites the target. If the target\nis holding a Berry, the user eats it and\ngains its effect.",
+    "x-y": "The user bites the target. If the target\nis holding a Berry, the user eats it and\ngains its effect.",
+    "omega-ruby-alpha-sapphire": "The user bites the target. If the target\nis holding a Berry, the user eats it and\ngains its effect.",
+    "sun-moon": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+    "ultra-sun-ultra-moon": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+    "lets-go-pikachu-lets-go-eevee": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect.",
+    "sword-shield": "The user bites the target. If the target is holding a\nBerry, the user eats it and gains its effect."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+    "shortEffect": "If target has a berry, inflicts double damage and uses the berry."
+  },
+  "priority": 0
+}

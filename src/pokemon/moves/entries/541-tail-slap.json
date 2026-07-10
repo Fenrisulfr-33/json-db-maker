@@ -1,0 +1,39 @@
+{
+  "_id": 541,
+  "key": "tail-slap",
+  "name": {
+    "english": "Tail Slap",
+    "japanese": "スイープビンタ",
+    "chinese": "扫巴掌",
+    "korean": "스위프뺨치기",
+    "german": "Plumerazo",
+    "french": "Kehrschelle",
+    "italian": "Tail Slap",
+    "spanish": "Spazzasberla"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 25,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+    "black-2-white-2": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+    "x-y": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+    "omega-ruby-alpha-sapphire": "The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.",
+    "sun-moon": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+    "ultra-sun-ultra-moon": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row.",
+    "sword-shield": "The user attacks by striking the target with its hard\ntail. It hits the target two to five times in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

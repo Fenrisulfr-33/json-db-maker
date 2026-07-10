@@ -1,0 +1,150 @@
+{
+  "_id": 65,
+  "key": "overgrow",
+  "name": {
+    "english": "Overgrow"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.",
+    "full": "When this Pokémon has 1/3 or less of its HP remaining, its grass-type moves inflict 1.5× as much regular damage."
+  },
+  "description": {
+    "ruby-sapphire": "Ups GRASS moves in a pinch.",
+    "emerald": "Ups GRASS moves in a pinch.",
+    "firered-leafgreen": "Ups GRASS moves in a pinch.",
+    "diamond-pearl": "Powers up Grass-type moves in a pinch.",
+    "platinum": "Powers up Grass-type moves in a pinch.",
+    "heartgold-soulsilver": "Powers up Grass-type moves in a pinch.",
+    "black-white": "Powers up Grass-type moves in a pinch.",
+    "black-2-white-2": "Powers up Grass-type moves in a pinch.",
+    "x-y": "Powers up Grass-type moves when the Pokémon is in trouble.",
+    "omega-ruby-alpha-sapphire": "Powers up Grass-type moves when the Pokémon is in trouble.",
+    "sun-moon": "Powers up Grass-type moves when the Pokémon’s HP is low.",
+    "ultra-sun-ultra-moon": "Powers up Grass-type moves when the Pokémon’s HP is low.",
+    "lets-go-pikachu-lets-go-eevee": "Powers up Grass-type moves when the Pokémon’s HP is low.",
+    "sword-shield": "Powers up Grass-type moves when the Pokémon’s HP is low."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Bulbasaur",
+        "id": 1
+      },
+      {
+        "name": "Ivysaur",
+        "id": 2
+      },
+      {
+        "name": "Venusaur",
+        "id": 3
+      },
+      {
+        "name": "Chikorita",
+        "id": 152
+      },
+      {
+        "name": "Bayleef",
+        "id": 153
+      },
+      {
+        "name": "Meganium",
+        "id": 154
+      },
+      {
+        "name": "Treecko",
+        "id": 252
+      },
+      {
+        "name": "Grovyle",
+        "id": 253
+      },
+      {
+        "name": "Sceptile",
+        "id": 254
+      },
+      {
+        "name": "Turtwig",
+        "id": 387
+      },
+      {
+        "name": "Grotle",
+        "id": 388
+      },
+      {
+        "name": "Torterra",
+        "id": 389
+      },
+      {
+        "name": "Snivy",
+        "id": 495
+      },
+      {
+        "name": "Servine",
+        "id": 496
+      },
+      {
+        "name": "Serperior",
+        "id": 497
+      },
+      {
+        "name": "Chespin",
+        "id": 650
+      },
+      {
+        "name": "Quilladin",
+        "id": 651
+      },
+      {
+        "name": "Chesnaught",
+        "id": 652
+      },
+      {
+        "name": "Rowlet",
+        "id": 722
+      },
+      {
+        "name": "Dartrix",
+        "id": 723
+      },
+      {
+        "name": "Decidueye",
+        "id": 724
+      },
+      {
+        "name": "Grookey",
+        "id": 810
+      },
+      {
+        "name": "Thwackey",
+        "id": 811
+      },
+      {
+        "name": "Rillaboom",
+        "id": 812
+      },
+      {
+        "name": "Sprigatito",
+        "id": 906
+      },
+      {
+        "name": "Floragato",
+        "id": 907
+      },
+      {
+        "name": "Meowscarada",
+        "id": 908
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Pansage",
+        "id": 511
+      },
+      {
+        "name": "Simisage",
+        "id": 512
+      }
+    ]
+  }
+}

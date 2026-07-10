@@ -1,0 +1,48 @@
+{
+  "_id": 147,
+  "key": "wonder-skin",
+  "name": {
+    "english": "Wonder Skin"
+  },
+  "generation": 5,
+  "effect": {
+    "shortEffect": "Lowers incoming non-damaging moves' base accuracy to exactly 50%.",
+    "full": "Non-damaging moves have exactly 50% base accuracy against this Pokémon."
+  },
+  "description": {
+    "black-white": "Makes status-changing moves more likely to miss.",
+    "black-2-white-2": "Makes status-changing moves more likely to miss.",
+    "x-y": "Makes status moves more likely to miss.",
+    "omega-ruby-alpha-sapphire": "Makes status moves more likely to miss.",
+    "sun-moon": "Makes status moves more likely to miss.",
+    "ultra-sun-ultra-moon": "Makes status moves more likely to miss.",
+    "lets-go-pikachu-lets-go-eevee": "Makes status moves more likely to miss.",
+    "sword-shield": "Makes status moves more likely to miss."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Sigilyph",
+        "id": 561
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Venomoth",
+        "id": 49
+      },
+      {
+        "name": "Skitty",
+        "id": 300
+      },
+      {
+        "name": "Delcatty",
+        "id": 301
+      },
+      {
+        "name": "Bruxish",
+        "id": 779
+      }
+    ]
+  }
+}

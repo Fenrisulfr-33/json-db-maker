@@ -1,0 +1,47 @@
+{
+  "_id": 78,
+  "key": "motor-drive",
+  "name": {
+    "english": "Motor Drive"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Absorbs electric moves, raising Speed one stage.",
+    "full": "Whenever an electric-type move hits this Pokémon, its Speed rises one stage, negating any other effect on it. This ability will not take effect if this Pokémon is immune to Electric moves. Electric moves will ignore this Pokémon's substitute. This effect includes non-damaging moves, i.e. thunder wave."
+  },
+  "description": {
+    "diamond-pearl": "Raises Speed if hit by an Electric-type move.",
+    "platinum": "Raises Speed if hit by an Electric-type move.",
+    "heartgold-soulsilver": "Raises Speed if hit by an Electric-type move.",
+    "black-white": "Raises Speed if hit by an Electric-type move.",
+    "black-2-white-2": "Raises Speed if hit by an Electric-type move.",
+    "x-y": "Boosts the Speed stat when it’s hit by an Electric-type move.",
+    "omega-ruby-alpha-sapphire": "Boosts the Speed stat when it’s hit by an Electric-type move.",
+    "sun-moon": "Boosts its Speed stat if hit by an Electric-type move, instead of taking damage.",
+    "ultra-sun-ultra-moon": "Boosts its Speed stat if hit by an Electric-type move, instead of taking damage.",
+    "lets-go-pikachu-lets-go-eevee": "Boosts its Speed stat if hit by an Electric-type move instead of taking damage.",
+    "sword-shield": "Boosts its Speed stat if hit by an Electric-type move instead of taking damage."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Electivire",
+        "id": 466
+      },
+      {
+        "name": "Blitzle",
+        "id": 522
+      },
+      {
+        "name": "Zebstrika",
+        "id": 523
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Emolga",
+        "id": 587
+      }
+    ]
+  }
+}

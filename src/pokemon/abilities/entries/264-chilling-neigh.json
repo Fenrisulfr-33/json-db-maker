@@ -1,0 +1,21 @@
+{
+  "_id": 264,
+  "key": "chilling-neigh",
+  "name": {
+    "english": "Chilling Neigh"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Glastrier",
+        "id": 896
+      }
+    ],
+    "hidden": []
+  }
+}

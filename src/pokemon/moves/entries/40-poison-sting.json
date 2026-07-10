@@ -1,0 +1,47 @@
+{
+  "_id": 40,
+  "key": "poison-sting",
+  "name": {
+    "english": "Poison Sting",
+    "japanese": "どくばり",
+    "chinese": "毒针",
+    "korean": "독침",
+    "german": "Picotazo Veneno",
+    "french": "Giftstachel",
+    "italian": "Poison Sting",
+    "spanish": "Velenospina"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 35,
+  "power": 15,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\npoison the target.",
+    "crystal": "An attack that may\npoison the target.",
+    "ruby-sapphire": "A toxic attack with barbs,\netc., that may poison.",
+    "emerald": "A toxic attack with barbs,\netc., that may poison.",
+    "firered-leafgreen": "The foe is stabbed\nwith a toxic barb,\netc. It may poison\nthe foe.",
+    "diamond-pearl": "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.",
+    "platinum": "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.",
+    "heartgold-soulsilver": "The foe is stabbed\nwith a poisonous\nbarb of some sort.\nIt may also poison\nthe target.",
+    "black-white": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+    "black-2-white-2": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+    "x-y": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+    "omega-ruby-alpha-sapphire": "The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.",
+    "sun-moon": "The user stabs the target with a poisonous stinger.\nThis may also poison the target.",
+    "ultra-sun-ultra-moon": "The user stabs the target with a poisonous stinger.\nThis may also poison the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user stabs the target with a poisonous stinger.\nThis may also poison the target.",
+    "sword-shield": "The user stabs the target with a poisonous stinger.\nThis may also poison the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Has a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

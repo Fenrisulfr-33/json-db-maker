@@ -1,0 +1,24 @@
+{
+  "_id": 185,
+  "key": "parental-bond",
+  "name": {
+    "english": "Parental Bond"
+  },
+  "generation": 6,
+  "effect": {
+    "shortEffect": "Lets the bearer hit twice with damaging moves. The second hit has half power.",
+    "full": "Lets the bearer hit twice with damaging moves. The second hit has half power."
+  },
+  "description": {
+    "x-y": "Parent and child attack together.",
+    "omega-ruby-alpha-sapphire": "Parent and child attack together.",
+    "sun-moon": "Parent and child each attacks.",
+    "ultra-sun-ultra-moon": "Parent and child each attacks.",
+    "lets-go-pikachu-lets-go-eevee": "Parent and child each attacks.",
+    "sword-shield": "Parent and child each attacks."
+  },
+  "pokemonWithAbility": {
+    "normal": [],
+    "hidden": []
+  }
+}

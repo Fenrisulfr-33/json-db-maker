@@ -1,0 +1,47 @@
+{
+  "_id": 167,
+  "key": "triple-kick",
+  "name": {
+    "english": "Triple Kick",
+    "japanese": "トリプルキック",
+    "chinese": "三倍足攻",
+    "korean": "트리플킥",
+    "german": "Triple Patada",
+    "french": "Dreifachkick",
+    "italian": "Triple Kick",
+    "spanish": "Triplocalcio"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 10,
+  "power": 10,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Hits three times\nwith rising power.",
+    "crystal": "Hits three times\nwith rising power.",
+    "ruby-sapphire": "Kicks the foe 3 times in a\nrow with rising intensity.",
+    "emerald": "Kicks the foe 3 times in a\nrow with rising intensity.",
+    "firered-leafgreen": "A 3-kick attack\nthat becomes more\npowerful with each\nsuccessive hit.",
+    "diamond-pearl": "A consecutive three-\nkick attack that\nbecomes more\npowerful with each \nsuccessive hit.",
+    "platinum": "A consecutive three-\nkick attack that\nbecomes more\npowerful with each \nsuccessive hit.",
+    "heartgold-soulsilver": "A consecutive three-\nkick attack that\nbecomes more\npowerful with each \nsuccessive hit.",
+    "black-white": "A consecutive three-kick attack that\nbecomes more powerful with each \nsuccessive hit.",
+    "black-2-white-2": "A consecutive three-kick attack that\nbecomes more powerful with each\nsuccessive hit.",
+    "x-y": "A consecutive three-kick attack that\nbecomes more powerful with each\nsuccessive hit.",
+    "omega-ruby-alpha-sapphire": "A consecutive three-kick attack that\nbecomes more powerful with each\nsuccessive hit.",
+    "sun-moon": "A consecutive three-kick attack that becomes more\npowerful with each successive hit.",
+    "ultra-sun-ultra-moon": "A consecutive three-kick attack that becomes more\npowerful with each successful hit.",
+    "lets-go-pikachu-lets-go-eevee": "A consecutive three-kick attack that becomes more\npowerful with each successful hit.",
+    "sword-shield": "A consecutive three-kick attack that becomes more\npowerful with each successful hit."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits three times in the same turn.  The second hit has double power, and the third hit has triple power.  Each hit has a separate accuracy check, and this move stops if a hit misses.\n\nskill link does not apply.",
+    "shortEffect": "Hits three times, increasing power by 100% with each successful hit."
+  },
+  "priority": 0
+}

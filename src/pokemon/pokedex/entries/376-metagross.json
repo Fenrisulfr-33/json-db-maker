@@ -1,0 +1,156 @@
+{
+  "_id": 376,
+  "key": "metagross",
+  "name": {
+    "english": "Metagross",
+    "spanish": "Metagross",
+    "italian": "Metagross",
+    "japanese": "メタグロス",
+    "chinese": "巨金怪",
+    "korean": "",
+    "german": "Metagross",
+    "french": "Métalosse"
+  },
+  "pokedexNumber": {
+    "ruby-sapphire": 192,
+    "emerald": 192,
+    "black-2-white-2": 264,
+    "omega-ruby-alpha-sapphire": 201,
+    "sun-moon": 216,
+    "sun-moon-ulaula": 230,
+    "ultra-sun-ultra-moon": 280,
+    "ultra-sun-ultra-moon-ulaula": 101,
+    "crown-tundra": 131,
+    "the-indigo-disk": 139
+  },
+  "type": {
+    "one": "Steel",
+    "two": "Psychic"
+  },
+  "abilities": {
+    "one": {
+      "name": "Clear Body",
+      "id": 29
+    },
+    "hidden": {
+      "name": "Light Metal",
+      "id": 135
+    }
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 135,
+    "def": 130,
+    "spatk": 95,
+    "spdef": 90,
+    "spd": 70,
+    "total": 600
+  },
+  "info": {
+    "height": "1.6 m (5′03″)",
+    "weight": "550.0 kg (1212.5 lbs)"
+  },
+  "gender": {
+    "male": "",
+    "female": "",
+    "genderless": true
+  },
+  "evolution": 127,
+  "generation": 3,
+  "evs": {
+    "def": 3
+  },
+  "eggGroups": [
+    "Mineral"
+  ],
+  "species": "Iron Leg Pokémon",
+  "catchRate": 3,
+  "baseFriendship": 35,
+  "baseExp": 270,
+  "growthRate": "Slow",
+  "eggCycles": 40,
+  "nameOrigin": {
+    "metal": "solid material",
+    "gross": "great, large"
+  },
+  "pokedexEntries": {
+    "Metagross": [
+      {
+        "game": "ruby",
+        "desc": "METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POKéMON can float in the air by tucking in its four legs."
+      },
+      {
+        "game": "sapphire",
+        "desc": "METAGROSS is the result of two METANG achieving fusion. When hunting, this POKéMON pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach."
+      },
+      {
+        "game": "fire-red-leaf-green",
+        "desc": "It is formed by two METANG fusing. Its four brains are said to be superior to a supercomputer."
+      },
+      {
+        "game": "emerald",
+        "desc": "METAGROSS has four brains that are joined by a complex neural network. As a result of integration, this POKéMON is smarter than a supercomputer."
+      },
+      {
+        "game": "diamond-pearl-platinum",
+        "desc": "METANG combined to form it. With four brains, it has the intelligence of a supercomputer."
+      },
+      {
+        "game": "heart-gold-soul-silver",
+        "desc": "It folds its four legs when flying. Its four brains are said to be superior to a supercomputer."
+      },
+      {
+        "game": "black-white",
+        "desc": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer."
+      },
+      {
+        "game": "black-2-white-2",
+        "desc": "With four linked brains, it’s more intelligent than a supercomputer, and it uses calculations to analyze foes."
+      },
+      {
+        "game": "x",
+        "desc": "With four linked brains, it’s more intelligent than a supercomputer, and it uses calculations to analyze foes."
+      },
+      {
+        "game": "y",
+        "desc": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer."
+      },
+      {
+        "game": "omega-ruby",
+        "desc": "Metagross has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This Pokémon can float in the air by tucking in its four legs."
+      },
+      {
+        "game": "alpha-sapphire",
+        "desc": "Metagross is the result of two Metang achieving fusion. When hunting, this Pokémon pins the prey to the ground under its massive body. It then eats the helpless victim using the large mouth on its stomach."
+      },
+      {
+        "game": "sun",
+        "desc": "It firmly pins its prey using its four claws and large body. Then the teeth in the mouth on its stomach chew the prey to bits."
+      },
+      {
+        "game": "moon",
+        "desc": "A linkage of two Metang, this Pokémon can perform any calculation in a flash by utilizing parallel processing in its four brains."
+      },
+      {
+        "game": "ultra-sun",
+        "desc": "It boasts not only psychic powers but also fantastic strength. It grabs its prey with its four legs and holds them in place with its claws."
+      },
+      {
+        "game": "ultra-moon",
+        "desc": "It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner."
+      },
+      {
+        "game": "sword",
+        "desc": "Because the magnetic powers of these Pokémon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy."
+      },
+      {
+        "game": "shield",
+        "desc": "Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain."
+      },
+      {
+        "game": "brilliant-diamond-shining-pearl",
+        "desc": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer."
+      }
+    ]
+  }
+}

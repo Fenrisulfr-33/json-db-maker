@@ -1,0 +1,42 @@
+{
+  "_id": 391,
+  "key": "heart-swap",
+  "name": {
+    "english": "Heart Swap",
+    "japanese": "ハートスワップ",
+    "chinese": "交换意志",
+    "korean": "하트스웹",
+    "german": "Cambia Almas",
+    "french": "Statustausch",
+    "italian": "Heart Swap",
+    "spanish": "Cuorbaratto"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user employs its psychic power to switch stat\nchanges with the target.",
+    "diamond-pearl": "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n",
+    "platinum": "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n",
+    "heartgold-soulsilver": "The user employs its\npsychic power to\nswitch stat changes\nwith the foe.\n",
+    "black-white": "The user employs its psychic power to\nswitch stat changes with the target.",
+    "black-2-white-2": "The user employs its psychic power to\nswitch stat changes with the target.",
+    "x-y": "The user employs its psychic power to\nswitch stat changes with the target.",
+    "omega-ruby-alpha-sapphire": "The user employs its psychic power to\nswitch stat changes with the target.",
+    "ultra-sun-ultra-moon": "The user employs its psychic power to switch stat\nchanges with the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user employs its psychic power to switch stat\nchanges with the target.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "User swaps its stat modifiers with the target.",
+    "shortEffect": "User and target swap stat changes."
+  },
+  "priority": 0
+}

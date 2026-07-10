@@ -1,0 +1,47 @@
+{
+  "_id": 79,
+  "key": "sleep-powder",
+  "name": {
+    "english": "Sleep Powder",
+    "japanese": "ねむりごな",
+    "chinese": "睡眠粉",
+    "korean": "수면가루",
+    "german": "Somnífero",
+    "french": "Schlafpuder",
+    "italian": "Sleep Powder",
+    "spanish": "Sonnifero"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 15,
+  "power": null,
+  "accuracy": 75,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "May cause the foe\nto fall asleep.",
+    "crystal": "May cause the foe\nto fall asleep.",
+    "ruby-sapphire": "Scatters a powder that may\ncause the foe to sleep.",
+    "emerald": "Scatters a powder that may\ncause the foe to sleep.",
+    "firered-leafgreen": "A sleep-inducing\ndust is scattered\nin high volume\naround a foe.",
+    "diamond-pearl": "The user scatters a\nbig cloud of sleep-\ninducing dust around\nthe foe.\n",
+    "platinum": "The user scatters a\nbig cloud of sleep-\ninducing dust around\nthe foe.\n",
+    "heartgold-soulsilver": "The user scatters a\nbig cloud of sleep-\ninducing dust around\nthe foe.\n",
+    "black-white": "The user scatters a big cloud\nof sleep-inducing dust\naround the target.",
+    "black-2-white-2": "The user scatters a big cloud\nof sleep-inducing dust\naround the target.",
+    "x-y": "The user scatters a big cloud\nof sleep-inducing dust\naround the target.",
+    "omega-ruby-alpha-sapphire": "The user scatters a big cloud\nof sleep-inducing dust\naround the target.",
+    "sun-moon": "The user scatters a big cloud of sleep-inducing dust\naround the target.",
+    "ultra-sun-ultra-moon": "The user scatters a big cloud of sleep-inducing dust\naround the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user scatters a big cloud of sleep-inducing dust\naround the target.",
+    "sword-shield": "The user scatters a big cloud of sleep-inducing dust\naround the target."
+  },
+  "effect": {
+    "full": "Puts the target to sleep.",
+    "shortEffect": "Puts the target to sleep."
+  },
+  "priority": 0
+}

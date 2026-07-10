@@ -1,0 +1,32 @@
+{
+  "_id": 815,
+  "key": "scorching-sands",
+  "name": {
+    "english": "Scorching Sands",
+    "japanese": "ねっさのだいち",
+    "chinese": "熱沙大地",
+    "korean": "열사의대지",
+    "german": "Arenas Ardientes",
+    "french": "Brandsand",
+    "italian": "Scorching Sands",
+    "spanish": "Sabbiardente"
+  },
+  "type": "Ground",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user throws scorching sand at the target to attack.\nThis may also leave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

@@ -1,0 +1,24 @@
+{
+  "_id": 297,
+  "key": "earth-eater",
+  "name": {
+    "english": "Earth Eater"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Restores HP when hit by a Ground-type move.",
+    "full": "Restores HP when hit by a Ground-type move."
+  },
+  "description": {
+    "scarlet-violet": "If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Orthworm",
+        "id": 968
+      }
+    ],
+    "hidden": []
+  }
+}

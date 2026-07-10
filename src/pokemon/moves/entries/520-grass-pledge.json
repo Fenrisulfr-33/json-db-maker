@@ -1,0 +1,39 @@
+{
+  "_id": 520,
+  "key": "grass-pledge",
+  "name": {
+    "english": "Grass Pledge",
+    "japanese": "くさのちかい",
+    "chinese": "草的誓约",
+    "korean": "풀의맹세",
+    "german": "Voto Planta",
+    "french": "Pflanzensäulen",
+    "italian": "Grass Pledge",
+    "spanish": "Erbapatto"
+  },
+  "type": "Grass",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "A column of grass hits opposing Pokémon.\nWhen used with its water equivalent, its\ndamage increases into a vast swamp.",
+    "black-2-white-2": "A column of grass hits opposing Pokémon.\nWhen used with its water equivalent, its\ndamage increases into a vast swamp.",
+    "x-y": "A column of grass hits the target. When used with\nits water equivalent, its damage increases and\na vast swamp appears.",
+    "omega-ruby-alpha-sapphire": "A column of grass hits the target. When used with\nits water equivalent, its damage increases and\na vast swamp appears.",
+    "sun-moon": "A column of grass hits the target. When used with\nits water equivalent, its power increases and a vast\nswamp appears.",
+    "ultra-sun-ultra-moon": "A column of grass hits the target. When used with\nits water equivalent, its power increases and a vast\nswamp appears.",
+    "lets-go-pikachu-lets-go-eevee": "A column of grass hits the target. When used with\nits water equivalent, its power increases and a vast\nswamp appears.",
+    "sword-shield": "A column of grass hits the target. When used with\nits water equivalent, its power increases and a vast\nswamp appears."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If a friendly Pokémon used fire pledge earlier this turn, all opposing Pokémon will take 1/8 their max HP in damage at the end of every turn for four turns (including this one).",
+    "shortEffect": "With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns."
+  },
+  "priority": 0
+}

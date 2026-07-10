@@ -1,0 +1,79 @@
+{
+  "_id": 103,
+  "key": "klutz",
+  "name": {
+    "english": "Klutz"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Prevents the Pokémon from using its held item in battle.",
+    "full": "In battle, this Pokémon cannot use its held item, nor will the item have any passive effect on the battle, positive or negative. This Pokémon also cannot use fling. The Speed cut from the iron ball and the effort items (the macho brace, power weight, power bracer, power belt, power lens, power band, and power anklet) is unaffected. Items that do not directly affect the battle, such as the exp share, the amulet coin, or the soothe bell, work as usual. All held items work as usual out of battle. Other moves that use the held item, such as natural gift and switcheroo, work as usual."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon can’t use any held items.",
+    "platinum": "The Pokémon can’t use any held items.",
+    "heartgold-soulsilver": "The Pokémon can’t use any held items.",
+    "black-white": "The Pokémon can’t use any held items.",
+    "black-2-white-2": "The Pokémon can’t use any held items.",
+    "x-y": "The Pokémon can’t use any held items.",
+    "omega-ruby-alpha-sapphire": "The Pokémon can’t use any held items.",
+    "sun-moon": "The Pokémon can’t use any held items.",
+    "ultra-sun-ultra-moon": "The Pokémon can’t use any held items.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon can’t use any held items.",
+    "sword-shield": "The Pokémon can’t use any held items."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Buneary",
+        "id": 427
+      },
+      {
+        "name": "Lopunny",
+        "id": 428
+      },
+      {
+        "name": "Woobat",
+        "id": 527
+      },
+      {
+        "name": "Swoobat",
+        "id": 528
+      },
+      {
+        "name": "Golett",
+        "id": 622
+      },
+      {
+        "name": "Golurk",
+        "id": 623
+      },
+      {
+        "name": "Stufful",
+        "id": 759
+      },
+      {
+        "name": "Bewear",
+        "id": 760
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Audino",
+        "id": 531
+      },
+      {
+        "name": "Toxel",
+        "id": 848
+      },
+      {
+        "name": "Fidough",
+        "id": 926
+      },
+      {
+        "name": "Capsakid",
+        "id": 951
+      }
+    ]
+  }
+}

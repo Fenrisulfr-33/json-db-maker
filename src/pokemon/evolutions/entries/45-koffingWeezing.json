@@ -1,0 +1,32 @@
+{
+  "_id": 45,
+  "evoLine": [
+    {
+      "id": 109,
+      "name": "Koffing",
+      "type": {
+        "one": "Poison"
+      }
+    },
+    [
+      {
+        "id": 110,
+        "name": "Weezing",
+        "type": {
+          "one": "Poison"
+        },
+        "how": "Level 35, outside Galar"
+      },
+      {
+        "id": 110.1,
+        "name": "Weezing",
+        "form": "Galarian Weezing",
+        "type": {
+          "one": "Poison",
+          "two": "Fairy"
+        },
+        "how": "Level 35, in Galar"
+      }
+    ]
+  ]
+}

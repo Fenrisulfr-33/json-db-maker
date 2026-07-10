@@ -1,0 +1,34 @@
+{
+  "_id": 728,
+  "key": "clangorous-soulblaze",
+  "name": {
+    "english": "Clangorous Soulblaze",
+    "japanese": "ブレイジングソウルビート",
+    "chinese": "熾魂熱舞烈音爆",
+    "korean": "브레이징소울비트",
+    "german": "Estruendo Implacable",
+    "french": "Rasselnder Seelentanz",
+    "italian": "Clangorous Soulblaze",
+    "spanish": "Dracofonia Divampante"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": null,
+  "pp": 1,
+  "power": 185,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "After obtaining Z-Power, the user, Kommo-o,\nattacks the opposing Pokémon with full force. This\nmove boosts the user’s stats.",
+    "lets-go-pikachu-lets-go-eevee": "After obtaining Z-Power, the user, Kommo-o,\nattacks the opposing Pokémon with full force. This\nmove boosts the user’s stats.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts sound-based damage to all opposing Pokémon and increases the user's Attack, Defense, Special Attack, Special Defense, and Speed by one stage each. The user's stats are not raised if the move fails to damage any opposing Pokémon.",
+    "shortEffect": "Inflicts damage to all opposing Pokémon and increases the user's Attack, Defense, Special Attack, Special Defense, and Speed by one stage each."
+  },
+  "priority": 0
+}

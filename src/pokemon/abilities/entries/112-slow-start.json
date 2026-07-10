@@ -1,0 +1,39 @@
+{
+  "_id": 112,
+  "key": "slow-start",
+  "name": {
+    "english": "Slow Start"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Halves Attack and Speed for five turns upon entering battle.",
+    "full": "This Pokémon's Attack and Speed are halved for five turns upon entering battle. This ability also takes effect when acquired during battle. If this Pokémon loses its ability before the five turns are up, its Attack and Speed return to normal; if it then regains this ability without leaving battle, its Attack and Speed are halved again, but the counter keeps counting from where it was."
+  },
+  "description": {
+    "diamond-pearl": "Temporarily halves Attack and Speed.",
+    "platinum": "Temporarily halves Attack and Speed.",
+    "heartgold-soulsilver": "Temporarily halves Attack and Speed.",
+    "black-white": "Temporarily halves Attack and Speed.",
+    "black-2-white-2": "Temporarily halves Attack and Speed.",
+    "x-y": "Temporarily halves the Pokémon’s Attack and Speed stats.",
+    "omega-ruby-alpha-sapphire": "Temporarily halves the Pokémon’s Attack and Speed stats.",
+    "sun-moon": "For five turns, the Pokémon’s Attack and Speed stats are halved.",
+    "ultra-sun-ultra-moon": "For five turns, the Pokémon’s Attack and Speed stats are halved.",
+    "lets-go-pikachu-lets-go-eevee": "For five turns, the Pokémon’s Attack and Speed stats are halved.",
+    "sword-shield": "For five turns, the Pokémon’s Attack and Speed stats are halved."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Regigigas",
+        "id": 486
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Varoom",
+        "id": 965
+      }
+    ]
+  }
+}

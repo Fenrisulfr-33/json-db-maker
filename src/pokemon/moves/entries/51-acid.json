@@ -1,0 +1,47 @@
+{
+  "_id": 51,
+  "key": "acid",
+  "name": {
+    "english": "Acid",
+    "japanese": "ようかいえき",
+    "chinese": "溶解液",
+    "korean": "용해액",
+    "german": "Ácido",
+    "french": "Säure",
+    "italian": "Acid",
+    "spanish": "Acido"
+  },
+  "type": "Poison",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 30,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "An attack that may\nlower DEFENSE.",
+    "crystal": "An attack that may\nlower DEFENSE.",
+    "ruby-sapphire": "Sprays a hide-melting acid.\nMay lower DEFENSE.",
+    "emerald": "Sprays a hide-melting acid.\nMay lower DEFENSE.",
+    "firered-leafgreen": "The foe is sprayed\nwith a harsh, hide-\nmelting acid that\nmay lower DEFENSE.",
+    "diamond-pearl": "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.",
+    "platinum": "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.",
+    "heartgold-soulsilver": "The foe is attacked\nwith a spray of harsh\nacid. It may also\nlower the target’s\nSp. Def stat.",
+    "black-white": "The opposing team is attacked with a spray\nof harsh acid. The acid may also lower\nthe targets’ Sp. Def stats.",
+    "black-2-white-2": "The opposing team is attacked with a spray\nof harsh acid. The acid may also lower\nthe targets’ Sp. Def stats.",
+    "x-y": "The opposing Pokémon are attacked\nwith a spray of harsh acid. This may\nalso lower their Sp. Def stats.",
+    "omega-ruby-alpha-sapphire": "The opposing Pokémon are attacked\nwith a spray of harsh acid. This may\nalso lower their Sp. Def stats.",
+    "sun-moon": "The opposing Pokémon are attacked with a spray of\nharsh acid. This may also lower their Sp. Def stat.",
+    "ultra-sun-ultra-moon": "The opposing Pokémon are attacked with a spray of\nharsh acid. This may also lower their Sp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The opposing Pokémon are attacked with a spray of\nharsh acid. This may also lower their Sp. Def stat.",
+    "sword-shield": "Opposing Pokémon are attacked with a spray of harsh\nacid. This may also lower their Sp. Def stats."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

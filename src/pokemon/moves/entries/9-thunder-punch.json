@@ -1,0 +1,47 @@
+{
+  "_id": 9,
+  "key": "thunder-punch",
+  "name": {
+    "english": "Thunder Punch",
+    "japanese": "かみなりパンチ",
+    "chinese": "雷光掌",
+    "korean": "번개펀치",
+    "german": "Puño Trueno",
+    "french": "Donnerschlag",
+    "italian": "Thunder Punch",
+    "spanish": "Tuonopugno"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 75,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "An electric punch.\nIt may paralyze.",
+    "crystal": "An electric punch.\nIt may paralyze.",
+    "ruby-sapphire": "An electrified punch that\nmay paralyze the foe.",
+    "emerald": "An electrified punch that\nmay paralyze the foe.",
+    "firered-leafgreen": "The foe is punched\nwith an electrified\nfist. It may leave\nthe foe paralyzed.",
+    "diamond-pearl": "The foe is punched\nwith an electrified\nfist. It may leave\nthe target with\nparalysis.",
+    "platinum": "The foe is punched\nwith an electrified\nfist. It may leave\nthe target with\nparalysis.",
+    "heartgold-soulsilver": "The foe is punched\nwith an electrified\nfist. It may leave\nthe target with\nparalysis.",
+    "black-white": "The target is punched with an electrified\nfist. It may also leave the target\nwith paralysis.",
+    "black-2-white-2": "The target is punched with an electrified\nfist. It may also leave the target\nwith paralysis.",
+    "x-y": "The target is punched with an electrified\nfist. This may also leave the target\nwith paralysis.",
+    "omega-ruby-alpha-sapphire": "The target is punched with an electrified\nfist. This may also leave the target\nwith paralysis.",
+    "sun-moon": "The target is punched with an electrified fist.\nThis may also leave the target with paralysis.",
+    "ultra-sun-ultra-moon": "The target is punched with an electrified fist.\nThis may also leave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The target is punched with an electrified fist.\nThis may also leave the target with paralysis.",
+    "sword-shield": "The target is punched with an electrified fist.\nThis may also leave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

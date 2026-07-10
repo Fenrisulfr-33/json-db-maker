@@ -1,0 +1,32 @@
+{
+  "_id": 762,
+  "key": "max-phantasm",
+  "name": {
+    "english": "Max Phantasm",
+    "japanese": "ダイホロウ",
+    "chinese": "極巨幽魂",
+    "korean": "다이할로우",
+    "german": "Maxiespectro",
+    "french": "Dyna-Spuk",
+    "italian": "Max Phantasm",
+    "spanish": "Dynavuoto"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 10,
+  "accuracy": null,
+  "contact": null,
+  "generation": 8,
+  "target": "selected-pokemon-me-first",
+  "changes": [],
+  "description": {
+    "sword-shield": "This is a Ghost-type attack Dynamax Pokémon use.\nThis lowers the target’s Defense stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

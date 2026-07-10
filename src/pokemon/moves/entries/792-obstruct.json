@@ -1,0 +1,29 @@
+{
+  "_id": 792,
+  "key": "obstruct",
+  "name": {
+    "english": "Obstruct",
+    "japanese": "ブロッキング",
+    "chinese": "攔堵",
+    "korean": "블로킹",
+    "german": "Obstrucción",
+    "french": "Abblocker",
+    "italian": "Obstruct",
+    "spanish": "Sbarramento"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 8,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "sword-shield": "This move enables the user to protect itself from all attacks.\nIts chance of failing rises if it is used in succession.\nDirect contact harshly lowers the attacker’s Defense stat."
+  },
+  "effect": {},
+  "priority": 4
+}

@@ -1,0 +1,47 @@
+{
+  "_id": 109,
+  "key": "confuse-ray",
+  "name": {
+    "english": "Confuse Ray",
+    "japanese": "あやしいひかり",
+    "chinese": "奇异光线",
+    "korean": "이상한빛",
+    "german": "Rayo Confuso",
+    "french": "Konfusstrahl",
+    "italian": "Confuse Ray",
+    "spanish": "Stordiraggio"
+  },
+  "type": "Ghost",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that causes\nconfusion.",
+    "crystal": "A move that causes\nconfusion.",
+    "ruby-sapphire": "A sinister ray that\nconfuses the foe.",
+    "emerald": "A sinister ray that\nconfuses the foe.",
+    "firered-leafgreen": "The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.",
+    "diamond-pearl": "The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.\n",
+    "platinum": "The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.\n",
+    "heartgold-soulsilver": "The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.\n",
+    "black-white": "The target is exposed to a sinister\nray that triggers confusion.",
+    "black-2-white-2": "The target is exposed to a sinister\nray that triggers confusion.",
+    "x-y": "The target is exposed to a sinister\nray that triggers confusion.",
+    "omega-ruby-alpha-sapphire": "The target is exposed to a sinister\nray that triggers confusion.",
+    "sun-moon": "The target is exposed to a sinister ray that\ntriggers confusion.",
+    "ultra-sun-ultra-moon": "The target is exposed to a sinister ray that\ntriggers confusion.",
+    "lets-go-pikachu-lets-go-eevee": "The target is exposed to a sinister ray that\ntriggers confusion.",
+    "sword-shield": "The target is exposed to a sinister ray that\ntriggers confusion."
+  },
+  "effect": {
+    "full": "Confuses the target.",
+    "shortEffect": "Confuses the target."
+  },
+  "priority": 0
+}

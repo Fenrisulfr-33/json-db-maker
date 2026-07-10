@@ -1,0 +1,45 @@
+{
+  "_id": 270,
+  "key": "helping-hand",
+  "name": {
+    "english": "Helping Hand",
+    "japanese": "てだすけ",
+    "chinese": "帮助",
+    "korean": "도우미",
+    "german": "Refuerzo",
+    "french": "Rechte Hand",
+    "italian": "Helping Hand",
+    "spanish": "Altruismo"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "ally",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Boosts the power of the\nrecipient’s moves.",
+    "emerald": "Boosts the power of the\nrecipient’s moves.",
+    "firered-leafgreen": "A move that boosts\nthe power of the\nally’s attack in a\nbattle.",
+    "diamond-pearl": "A move that boosts\nthe power of the\nally’s attack in a\nDouble Battle.\n",
+    "platinum": "A move that boosts\nthe power of the\nally’s attack in a\nDouble Battle.\n",
+    "heartgold-soulsilver": "A move that boosts\nthe power of the\nally’s attack in a\nDouble Battle.\n",
+    "black-white": "The user assists an ally by boosting\nthe power of its attack.",
+    "black-2-white-2": "The user assists an ally by boosting\nthe power of its attack.",
+    "x-y": "The user assists an ally by boosting\nthe power of that ally’s attack.",
+    "omega-ruby-alpha-sapphire": "The user assists an ally by boosting\nthe power of that ally’s attack.",
+    "sun-moon": "The user assists an ally by boosting the power of\nthat ally’s attack.",
+    "ultra-sun-ultra-moon": "The user assists an ally by boosting the power of\nthat ally’s attack.",
+    "lets-go-pikachu-lets-go-eevee": "The user assists an ally by boosting the power of\nthat ally’s attack.",
+    "sword-shield": "The user assists an ally by boosting the power of\nthat ally’s attack."
+  },
+  "effect": {
+    "full": "Boosts the power of the target's moves by 50% until the end of this turn.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+    "shortEffect": "Ally's next move inflicts half more damage."
+  },
+  "priority": 5
+}

@@ -1,0 +1,49 @@
+{
+  "_id": 64,
+  "key": "liquid-ooze",
+  "name": {
+    "english": "Liquid Ooze"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Damages opponents using leeching moves for as much as they would heal.",
+    "full": "Whenever a Pokémon would heal after hitting this Pokémon with a leeching move like absorb, it instead loses as many HP as it would usually gain. dream eater is unaffected."
+  },
+  "description": {
+    "ruby-sapphire": "Draining causes injury.",
+    "emerald": "Draining causes injury.",
+    "firered-leafgreen": "Draining causes injury.",
+    "diamond-pearl": "Inflicts damage on foes using any draining move.",
+    "platinum": "Inflicts damage on foes using any draining move.",
+    "heartgold-soulsilver": "Inflicts damage on foes using any draining move.",
+    "black-white": "Damages attackers using any draining move.",
+    "black-2-white-2": "Damages attackers using any draining move.",
+    "x-y": "Damages attackers using any draining move.",
+    "omega-ruby-alpha-sapphire": "Damages attackers using any draining move.",
+    "sun-moon": "Oozed liquid has strong stench, which damages attackers using any draining move.",
+    "ultra-sun-ultra-moon": "Oozed liquid has strong stench, which damages attackers using any draining move.",
+    "lets-go-pikachu-lets-go-eevee": "The oozed liquid has a strong stench, which damages attackers using any draining move.",
+    "sword-shield": "The oozed liquid has a strong stench, which damages attackers using any draining move."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Tentacool",
+        "id": 72
+      },
+      {
+        "name": "Tentacruel",
+        "id": 73
+      },
+      {
+        "name": "Gulpin",
+        "id": 316
+      },
+      {
+        "name": "Swalot",
+        "id": 317
+      }
+    ],
+    "hidden": []
+  }
+}

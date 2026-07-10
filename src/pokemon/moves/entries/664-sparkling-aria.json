@@ -1,0 +1,35 @@
+{
+  "_id": 664,
+  "key": "sparkling-aria",
+  "name": {
+    "english": "Sparkling Aria",
+    "japanese": "うたかたのアリア",
+    "chinese": "泡影的詠歎調",
+    "korean": "물거품아리아",
+    "german": "Aria Burbuja",
+    "french": "Schaumserenade",
+    "italian": "Sparkling Aria",
+    "spanish": "Canto Effimero"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user bursts into song, emitting many bubbles.\nAny Pokémon suffering from a burn will be healed\nby the touch of these bubbles.",
+    "ultra-sun-ultra-moon": "The user bursts into song, emitting many bubbles.\nAny Pokémon suffering from a burn will be healed\nby the touch of these bubbles.",
+    "lets-go-pikachu-lets-go-eevee": "The user bursts into song, emitting many bubbles.\nAny Pokémon suffering from a burn will be healed\nby the touch of these bubbles.",
+    "sword-shield": "The user bursts into song, emitting many bubbles.\nAny Pokémon suffering from a burn will be healed\nby the touch of these bubbles."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target has a burn and takes damage from this move, its burn is healed.",
+    "shortEffect": "Cures the target of burns."
+  },
+  "priority": 0
+}

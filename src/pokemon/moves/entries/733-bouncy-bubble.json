@@ -1,0 +1,33 @@
+{
+  "_id": 733,
+  "key": "bouncy-bubble",
+  "name": {
+    "english": "Bouncy Bubble",
+    "japanese": "いきいきバブル",
+    "chinese": "活活氣泡",
+    "korean": "생생버블",
+    "german": "Vapodrenaje",
+    "french": "Blubbsauger",
+    "italian": "Bouncy Bubble",
+    "spanish": "Bollaslurp"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by shooting water bubbles at the\ntarget. It then absorbs water and restores its HP by half\nthe damage taken by the target.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

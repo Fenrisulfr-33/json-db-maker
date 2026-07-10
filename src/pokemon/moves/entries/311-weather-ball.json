@@ -1,0 +1,45 @@
+{
+  "_id": 311,
+  "key": "weather-ball",
+  "name": {
+    "english": "Weather Ball",
+    "japanese": "ウェザーボール",
+    "chinese": "气象球",
+    "korean": "웨더볼",
+    "german": "Meteorobola",
+    "french": "Meteorologe",
+    "italian": "Weather Ball",
+    "spanish": "Palla Clima"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 50,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "The move’s type and power\nchange with the weather.",
+    "emerald": "The move’s type and power\nchange with the weather.",
+    "firered-leafgreen": "An attack that\nvaries in power and\ntype depending on\nthe weather.",
+    "diamond-pearl": "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n",
+    "platinum": "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n",
+    "heartgold-soulsilver": "An attack move that\nvaries in power and\ntype depending on\nthe weather.\n",
+    "black-white": "An attack move that varies in power and\ntype depending on the weather.",
+    "black-2-white-2": "An attack move that varies in power and\ntype depending on the weather.",
+    "x-y": "An attack move that varies in power and\ntype depending on the weather.",
+    "omega-ruby-alpha-sapphire": "An attack move that varies in power and\ntype depending on the weather.",
+    "sun-moon": "This attack move varies in power and type\ndepending on the weather.",
+    "ultra-sun-ultra-moon": "This attack move varies in power and type\ndepending on the weather.",
+    "lets-go-pikachu-lets-go-eevee": "This attack move varies in power and type\ndepending on the weather.",
+    "sword-shield": "This attack move varies in power and type\ndepending on the weather."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move.",
+    "shortEffect": "If there be weather, this move has doubled power and the weather's type."
+  },
+  "priority": 0
+}

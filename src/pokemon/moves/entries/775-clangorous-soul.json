@@ -1,0 +1,29 @@
+{
+  "_id": 775,
+  "key": "clangorous-soul",
+  "name": {
+    "english": "Clangorous Soul",
+    "japanese": "ソウルビート",
+    "chinese": "魂舞烈音爆",
+    "korean": "소울비트",
+    "german": "Estruendo Escama",
+    "french": "Seelentanz",
+    "italian": "Clangorous Soul",
+    "spanish": "Dracofonia"
+  },
+  "type": "Dragon",
+  "category": "Status",
+  "contest": null,
+  "pp": 5,
+  "power": null,
+  "accuracy": 100,
+  "contact": "No",
+  "generation": 8,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "sword-shield": "The user raises all its stats by using some of its HP."
+  },
+  "effect": {},
+  "priority": 0
+}

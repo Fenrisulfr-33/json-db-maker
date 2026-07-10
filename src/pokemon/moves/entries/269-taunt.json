@@ -1,0 +1,45 @@
+{
+  "_id": 269,
+  "key": "taunt",
+  "name": {
+    "english": "Taunt",
+    "japanese": "ちょうはつ",
+    "chinese": "挑拨",
+    "korean": "도발",
+    "german": "Mofa",
+    "french": "Verhöhner",
+    "italian": "Taunt",
+    "spanish": "Provocazione"
+  },
+  "type": "Dark",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Taunts the foe into only\nusing attack moves.",
+    "emerald": "Taunts the foe into only\nusing attack moves.",
+    "firered-leafgreen": "The foe is taunted\ninto a rage that\nallows it to use\nonly attack moves.",
+    "diamond-pearl": "The foe is taunted\ninto a rage that\nallows it to use only\nattack moves for two\nto four turns.",
+    "platinum": "The foe is taunted\ninto a rage that\nallows it to use only\nattack moves for two\nto four turns.",
+    "heartgold-soulsilver": "The foe is taunted\ninto a rage that\nallows it to use only\nattack moves for two\nto four turns.",
+    "black-white": "The target is taunted into a rage that\nallows it to use only attack moves\nfor three turns.",
+    "black-2-white-2": "The target is taunted into a rage that\nallows it to use only attack moves\nfor three turns.",
+    "x-y": "The target is taunted into a rage that\nallows it to use only attack moves\nfor three turns.",
+    "omega-ruby-alpha-sapphire": "The target is taunted into a rage that\nallows it to use only attack moves\nfor three turns.",
+    "sun-moon": "The target is taunted into a rage that allows it to use\nonly attack moves for three turns.",
+    "ultra-sun-ultra-moon": "The target is taunted into a rage that allows it to use\nonly attack moves for three turns.",
+    "lets-go-pikachu-lets-go-eevee": "The target is taunted into a rage that allows it to use\nonly attack moves for three turns.",
+    "sword-shield": "The target is taunted into a rage that allows it to use\nonly attack moves for three turns."
+  },
+  "effect": {
+    "full": "Target is forced to only use damaging moves for the next 3–5 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.\n\nassist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used.\n\nbide, counter, endeavor, metal burst, and mirror coat are allowed.",
+    "shortEffect": "For the next few turns, the target can only use damaging moves."
+  },
+  "priority": 0
+}

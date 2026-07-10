@@ -1,0 +1,47 @@
+{
+  "_id": 56,
+  "key": "hydro-pump",
+  "name": {
+    "english": "Hydro Pump",
+    "japanese": "ハイドロポンプ",
+    "chinese": "水炮",
+    "korean": "하이드로펌프",
+    "german": "Hidrobomba",
+    "french": "Hydropumpe",
+    "italian": "Hydro Pump",
+    "spanish": "Idropompa"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": 110,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The target is blasted by a huge volume\nof water launched under great pressure.",
+    "gold-silver": "A powerful water-\ntype attack.",
+    "crystal": "A powerful water-\ntype attack.",
+    "ruby-sapphire": "Blasts water at high power\nto strike the foe.",
+    "emerald": "Blasts water at high power\nto strike the foe.",
+    "firered-leafgreen": "A high volume of\nwater is blasted at\nthe foe under great\npressure.",
+    "diamond-pearl": "The foe is blasted by\na huge volume of\nwater launched under\ngreat pressure.\n",
+    "platinum": "The foe is blasted by\na huge volume of\nwater launched under\ngreat pressure.\n",
+    "heartgold-soulsilver": "The foe is blasted by\na huge volume of\nwater launched under\ngreat pressure.\n",
+    "black-2-white-2": "The target is blasted by a huge volume\nof water launched under great pressure.",
+    "x-y": "The target is blasted by a huge volume\nof water launched under great pressure.",
+    "omega-ruby-alpha-sapphire": "The target is blasted by a huge volume\nof water launched under great pressure.",
+    "sun-moon": "The target is blasted by a huge volume of water\nlaunched under great pressure.",
+    "ultra-sun-ultra-moon": "The target is blasted by a huge volume of water\nlaunched under great pressure.",
+    "lets-go-pikachu-lets-go-eevee": "The target is blasted by a huge volume of water\nlaunched under great pressure.",
+    "sword-shield": "The target is blasted by a huge volume of water\nlaunched under great pressure."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

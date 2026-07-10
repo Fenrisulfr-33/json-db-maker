@@ -1,0 +1,29 @@
+{
+  "_id": 6,
+  "start": {
+    "id": 16,
+    "name": "Pidgey",
+    "type": {
+      "one": "Normal",
+      "two": "Flying"
+    },
+    "how": "Level 18",
+    "next": {
+      "id": 17,
+      "name": "Pidgeotto",
+      "type": {
+        "one": "Normal",
+        "two": "Flying"
+      },
+      "how": "Level 36",
+      "next": {
+        "id": 18,
+        "name": "Pidgeot",
+        "type": {
+          "one": "Normal",
+          "two": "Flying"
+        }
+      }
+    }
+  }
+}

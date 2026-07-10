@@ -1,0 +1,45 @@
+{
+  "_id": 252,
+  "key": "fake-out",
+  "name": {
+    "english": "Fake Out",
+    "japanese": "ねこだまし",
+    "chinese": "假动作",
+    "korean": "속이다",
+    "german": "Sorpresa",
+    "french": "Mogelhieb",
+    "italian": "Fake Out",
+    "spanish": "Bruciapelo"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 10,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A 1st-turn, 1st-strike move\nthat causes flinching.",
+    "emerald": "A 1st-turn, 1st-strike move\nthat causes flinching.",
+    "firered-leafgreen": "An attack that hits\nfirst and causes\nflinching. Usable\nonly on 1st turn.",
+    "diamond-pearl": "An attack that hits\nfirst and makes the\ntarget flinch.\nThis move works only\non the first turn.",
+    "platinum": "An attack that hits\nfirst and makes the\ntarget flinch.\nThis move works only\non the first turn.",
+    "heartgold-soulsilver": "An attack that hits\nfirst and makes the\ntarget flinch. It only\nworks the first turn\nthe user is in battle.",
+    "black-white": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+    "black-2-white-2": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+    "x-y": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+    "omega-ruby-alpha-sapphire": "An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.",
+    "sun-moon": "This attack hits first and makes the target flinch.\nIt only works the first turn the user is in battle.",
+    "ultra-sun-ultra-moon": "This attack hits first and makes the target flinch.\nIt only works the first turn the user is in battle.",
+    "lets-go-pikachu-lets-go-eevee": "This attack hits first and makes the target flinch.\nIt only works the first turn the user is in battle.",
+    "sword-shield": "This attack hits first and makes the target flinch.\nIt only works the first turn each time the user\nenters battle."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.",
+    "shortEffect": "Can only be used as the first move after the user enters battle.  Causes the target to flinch."
+  },
+  "priority": 3
+}

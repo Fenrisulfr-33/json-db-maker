@@ -1,0 +1,47 @@
+{
+  "_id": 91,
+  "key": "dig",
+  "name": {
+    "english": "Dig",
+    "japanese": "あなをほる",
+    "chinese": "挖地洞",
+    "korean": "구멍파기",
+    "german": "Excavar",
+    "french": "Schaufler",
+    "italian": "Dig",
+    "spanish": "Fossa"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "crystal": "1st turn: Burrow\n2nd turn: Attack",
+    "ruby-sapphire": "Digs underground the first\nturn and strikes next turn.",
+    "emerald": "Digs underground the first\nturn and strikes next turn.",
+    "gold-silver": "1st turn: Burrow\n2nd turn: Attack",
+    "firered-leafgreen": "An attack that hits\non the 2nd turn.\nCan also be used\nto exit dungeons.",
+    "diamond-pearl": "The user burrows,\nthen attacks on the\nsecond turn.\nIt can also be used\nto exit dungeons.",
+    "platinum": "The user burrows,\nthen attacks on the\nsecond turn.\nIt can also be used\nto exit dungeons.",
+    "heartgold-soulsilver": "The user burrows,\nthen attacks on the\nsecond turn.\nIt can also be used\nto exit dungeons.",
+    "black-white": "The user burrows, then attacks\non the second turn.\nIt can also be used to exit dungeons.",
+    "black-2-white-2": "The user burrows, then attacks\non the second turn.\nIt can also be used to exit dungeons.",
+    "x-y": "The user burrows, then attacks\non the next turn.\nIt can also be used to exit dungeons.",
+    "omega-ruby-alpha-sapphire": "The user burrows, then attacks\non the next turn.\nIt can also be used to exit dungeons.",
+    "sun-moon": "The user burrows, then attacks on the next turn.",
+    "ultra-sun-ultra-moon": "The user burrows, then attacks on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user burrows into the ground, then attacks on\nthe next turn.",
+    "sword-shield": "The user burrows into the ground, then attacks on\nthe next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User digs underground for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, earthquake, fissure, and magnitude still hit the user normally, and their power is doubled if appropriate.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be selected by sleep talk.",
+    "shortEffect": "User digs underground, dodging all attacks, and hits next turn."
+  },
+  "priority": 0
+}

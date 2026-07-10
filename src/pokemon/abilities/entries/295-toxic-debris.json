@@ -1,0 +1,28 @@
+{
+  "_id": 295,
+  "key": "toxic-debris",
+  "name": {
+    "english": "Toxic Debris"
+  },
+  "generation": 9,
+  "effect": {
+    "shortEffect": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.",
+    "full": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
+  },
+  "description": {
+    "scarlet-violet": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Glimmet",
+        "id": 969
+      },
+      {
+        "name": "Glimmora",
+        "id": 970
+      }
+    ],
+    "hidden": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_id": 349,
+  "key": "dragon-dance",
+  "name": {
+    "english": "Dragon Dance",
+    "japanese": "りゅうのまい",
+    "chinese": "龙之舞",
+    "korean": "용의춤",
+    "german": "Danza Dragón",
+    "french": "Drachentanz",
+    "italian": "Dragon Dance",
+    "spanish": "Dragodanza"
+  },
+  "type": "Dragon",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 3,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A mystical dance that ups\nATTACK and SPEED.",
+    "emerald": "A mystical dance that ups\nATTACK and SPEED.",
+    "firered-leafgreen": "A mystic, powerful\ndance that boosts\nthe user’s ATTACK\nand SPEED stats.",
+    "diamond-pearl": "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.",
+    "platinum": "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.",
+    "heartgold-soulsilver": "The user vigorously\nperforms a mystic,\npowerful dance that\nboosts its Attack and\nSpeed stats.",
+    "black-white": "The user vigorously performs a mystic,\npowerful dance that boosts its Attack and\nSpeed stats.",
+    "black-2-white-2": "The user vigorously performs a mystic,\npowerful dance that boosts its Attack and\nSpeed stats.",
+    "x-y": "The user vigorously performs a mystic,\npowerful dance that raises its Attack and\nSpeed stats.",
+    "omega-ruby-alpha-sapphire": "The user vigorously performs a mystic,\npowerful dance that raises its Attack and\nSpeed stats.",
+    "sun-moon": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+    "ultra-sun-ultra-moon": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+    "lets-go-pikachu-lets-go-eevee": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats.",
+    "sword-shield": "The user vigorously performs a mystic, powerful\ndance that raises its Attack and Speed stats."
+  },
+  "effect": {
+    "full": "Raises the user's Attack and Speed by one stage each.",
+    "shortEffect": "Raises the user's Attack and Speed by one stage."
+  },
+  "priority": 0
+}

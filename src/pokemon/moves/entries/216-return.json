@@ -1,0 +1,47 @@
+{
+  "_id": 216,
+  "key": "return",
+  "name": {
+    "english": "Return",
+    "japanese": "おんがえし",
+    "chinese": "报恩",
+    "korean": "은혜갚기",
+    "german": "Retribución",
+    "french": "Rückkehr",
+    "italian": "Return",
+    "spanish": "Ritorno"
+  },
+  "type": "Normal",
+  "category": "Physical",
+  "contest": "Cute",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "An attack that increases\nin power with friendship.",
+    "emerald": "An attack that increases\nin power with friendship.",
+    "gold-silver": "An attack that is\nbased on loyalty.",
+    "crystal": "An attack that is\nbased on loyalty.",
+    "firered-leafgreen": "This attack move\ngrows more powerful\nthe more the user\nlikes its TRAINER.",
+    "diamond-pearl": "A full-power attack\nthat grows more\npowerful the more\nthe user likes its\nTrainer.",
+    "platinum": "A full-power attack\nthat grows more\npowerful the more\nthe user likes its\nTrainer.",
+    "heartgold-soulsilver": "A full-power attack\nthat grows more\npowerful the more\nthe user likes its\nTrainer.",
+    "black-white": "A full-power attack that grows more\npowerful the more the user likes\nits Trainer.",
+    "black-2-white-2": "A full-power attack that grows more\npowerful the more the user likes\nits Trainer.",
+    "x-y": "A full-power attack that grows more\npowerful the more the user likes\nits Trainer.",
+    "omega-ruby-alpha-sapphire": "A full-power attack that grows more\npowerful the more the user likes\nits Trainer.",
+    "sun-moon": "This full-power attack grows more powerful the\nmore the user likes its Trainer.",
+    "ultra-sun-ultra-moon": "This full-power attack grows more powerful the\nmore the user likes its Trainer.",
+    "lets-go-pikachu-lets-go-eevee": "This full-power attack grows more powerful the\nmore the user likes its Trainer.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Power increases with happiness, given by `happiness * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.",
+    "shortEffect": "Power increases with happiness, up to a maximum of 102."
+  },
+  "priority": 0
+}

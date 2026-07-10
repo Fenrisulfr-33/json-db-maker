@@ -1,0 +1,42 @@
+{
+  "_id": 430,
+  "key": "flash-cannon",
+  "name": {
+    "english": "Flash Cannon",
+    "japanese": "ラスターカノン",
+    "chinese": "光泽电炮",
+    "korean": "러스터캐논",
+    "german": "Foco Resplandor",
+    "french": "Lichtkanone",
+    "italian": "Flash Cannon",
+    "spanish": "Cannonflash"
+  },
+  "type": "Steel",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user gathers all\nits light energy and\nreleases it at once.\nIt may also lower the\nfoe’s Sp. Def stat.",
+    "platinum": "The user gathers all\nits light energy and\nreleases it at once.\nIt may also lower the\nfoe’s Sp. Def stat.",
+    "heartgold-soulsilver": "The user gathers all\nits light energy and\nreleases it at once.\nIt may also lower the\nfoe’s Sp. Def stat.",
+    "black-white": "The user gathers all its light energy and\nreleases it at once. It may also lower the\ntarget’s Sp. Def stat.",
+    "black-2-white-2": "The user gathers all its light energy and\nreleases it at once. It may also lower the\ntarget’s Sp. Def stat.",
+    "x-y": "The user gathers all its light energy and\nreleases it at once. This may also lower the\ntarget’s Sp. Def stat.",
+    "omega-ruby-alpha-sapphire": "The user gathers all its light energy and\nreleases it at once. This may also lower the\ntarget’s Sp. Def stat.",
+    "sun-moon": "The user gathers all its light energy and releases it\nall at once. This may also lower the target’s\nSp. Def stat.",
+    "ultra-sun-ultra-moon": "The user gathers all its light energy and releases it\nall at once. This may also lower the target’s\nSp. Def stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user gathers all its light energy and releases it\nall at once. This may also lower the target’s\nSp. Def stat.",
+    "sword-shield": "The user gathers all its light energy and releases it\nall at once. This may also lower the target’s\nSp. Def stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Special Defense by one stage."
+  },
+  "priority": 0
+}

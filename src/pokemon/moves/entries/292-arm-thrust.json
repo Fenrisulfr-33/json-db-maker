@@ -1,0 +1,45 @@
+{
+  "_id": 292,
+  "key": "arm-thrust",
+  "name": {
+    "english": "Arm Thrust",
+    "japanese": "つっぱり",
+    "chinese": "猛推",
+    "korean": "손바닥치기",
+    "german": "Empujón",
+    "french": "Armstoß",
+    "italian": "Arm Thrust",
+    "spanish": "Sberletese"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 20,
+  "power": 15,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Straight-arm punches that\nstrike the foe 2 to 5 times.",
+    "emerald": "Straight-arm punches that\nstrike the foe 2 to 5 times.",
+    "firered-leafgreen": "A quick flurry of\nstraight-arm\npunches that hit\ntwo to five times.",
+    "diamond-pearl": "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.",
+    "platinum": "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.",
+    "heartgold-soulsilver": "The user looses a\nflurry of open-palmed\narm thrusts that hit\ntwo to five times in a\nrow.",
+    "black-white": "The user looses a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+    "black-2-white-2": "The user looses a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+    "x-y": "The user lets loose a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+    "omega-ruby-alpha-sapphire": "The user lets loose a flurry of open-palmed\narm thrusts that hit two to five times in\na row.",
+    "sun-moon": "The user lets loose a flurry of open-palmed arm\nthrusts that hit two to five times in a row.",
+    "ultra-sun-ultra-moon": "The user lets loose a flurry of open-palmed arm\nthrusts that hit two to five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "The user lets loose a flurry of open-palmed arm\nthrusts that hit two to five times in a row.",
+    "sword-shield": "The user lets loose a flurry of open-palmed arm\nthrusts that hit two to five times in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

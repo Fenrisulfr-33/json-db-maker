@@ -1,0 +1,33 @@
+{
+  "_id": 738,
+  "key": "sappy-seed",
+  "name": {
+    "english": "Sappy Seed",
+    "japanese": "すくすくボンバー",
+    "chinese": "茁茁轟炸",
+    "korean": "쑥쑥봄버",
+    "german": "Leafitobombas",
+    "french": "Sprießbomben",
+    "italian": "Sappy Seed",
+    "spanish": "Bombafrush"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user grows a gigantic stalk that scatters seeds\nto attack the target. The seeds drain the target’s\nHP every turn.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

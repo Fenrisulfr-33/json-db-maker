@@ -1,0 +1,42 @@
+{
+  "_id": 441,
+  "key": "gunk-shot",
+  "name": {
+    "english": "Gunk Shot",
+    "japanese": "ダストシュート",
+    "chinese": "灰尘射击",
+    "korean": "더스트슈트",
+    "german": "Lanzamugre",
+    "french": "Mülltreffer",
+    "italian": "Gunk Shot",
+    "spanish": "Sporcolancio"
+  },
+  "type": "Poison",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 5,
+  "power": 120,
+  "accuracy": 80,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.",
+    "platinum": "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.",
+    "heartgold-soulsilver": "The user shoots\nfilthy garbage at the\nfoe to attack.\nIt may also poison\nthe target.",
+    "black-white": "The user shoots filthy garbage\nat the target to attack.\nIt may also poison the target.",
+    "black-2-white-2": "The user shoots filthy garbage\nat the target to attack.\nIt may also poison the target.",
+    "x-y": "The user shoots filthy garbage\nat the target to attack.\nThis may also poison the target.",
+    "omega-ruby-alpha-sapphire": "The user shoots filthy garbage\nat the target to attack.\nThis may also poison the target.",
+    "sun-moon": "The user shoots filthy garbage at the target to\nattack. This may also poison the target.",
+    "ultra-sun-ultra-moon": "The user shoots filthy garbage at the target to\nattack. This may also poison the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user shoots filthy garbage at the target to\nattack. This may also poison the target.",
+    "sword-shield": "The user shoots filthy garbage at the target to\nattack. This may also poison the target."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to poison the target.",
+    "shortEffect": "Has a $effect_chance% chance to poison the target."
+  },
+  "priority": 0
+}

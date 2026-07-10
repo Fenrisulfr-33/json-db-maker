@@ -1,0 +1,47 @@
+{
+  "_id": 42,
+  "key": "pin-missile",
+  "name": {
+    "english": "Pin Missile",
+    "japanese": "ミサイルばり",
+    "chinese": "飞弹针",
+    "korean": "바늘미사일",
+    "german": "Pin Misil",
+    "french": "Nadelrakete",
+    "italian": "Pin Missile",
+    "spanish": "Missilspillo"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 25,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Fires pins that\nstrike 2-5 times.",
+    "crystal": "Fires pins that\nstrike 2-5 times.",
+    "ruby-sapphire": "Sharp pins are fired to\nstrike 2 to 5 times.",
+    "emerald": "Sharp pins are fired to\nstrike 2 to 5 times.",
+    "firered-leafgreen": "Sharp pins are shot\nat the foe and hit\ntwo to five times\nat once.",
+    "diamond-pearl": "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.",
+    "platinum": "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.",
+    "heartgold-soulsilver": "Sharp pins are shot\nat the foe in rapid\nsuccession.\nThey hit two to five\ntimes in a row.",
+    "black-white": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+    "black-2-white-2": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+    "x-y": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+    "omega-ruby-alpha-sapphire": "Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.",
+    "sun-moon": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+    "ultra-sun-ultra-moon": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+    "lets-go-pikachu-lets-go-eevee": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row.",
+    "sword-shield": "Sharp spikes are shot at the target in rapid\nsuccession. They hit two to five times in a row."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Hits 2–5 times in one turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
+    "shortEffect": "Hits 2-5 times in one turn."
+  },
+  "priority": 0
+}

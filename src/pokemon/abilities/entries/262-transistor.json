@@ -1,0 +1,21 @@
+{
+  "_id": 262,
+  "key": "transistor",
+  "name": {
+    "english": "Transistor"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Powers up Electric-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Regieleki",
+        "id": 894
+      }
+    ],
+    "hidden": []
+  }
+}

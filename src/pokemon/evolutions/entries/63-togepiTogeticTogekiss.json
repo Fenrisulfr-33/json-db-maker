@@ -1,0 +1,32 @@
+{
+  "_id": 63,
+  "evoLine": [
+    [
+      {
+        "id": 175,
+        "name": "Togepi",
+        "type": {
+          "one": "Fairy"
+        }
+      },
+      {
+        "id": 176,
+        "name": "Togetic",
+        "type": {
+          "one": "Fairy",
+          "two": "Flying"
+        },
+        "how": "high Frienship"
+      },
+      {
+        "id": 486,
+        "name": "Togekiss",
+        "type": {
+          "one": "Fairy",
+          "two": "Flying"
+        },
+        "how": "use Shiny Stone"
+      }
+    ]
+  ]
+}

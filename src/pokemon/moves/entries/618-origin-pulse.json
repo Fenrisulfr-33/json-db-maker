@@ -1,0 +1,36 @@
+{
+  "_id": 618,
+  "key": "origin-pulse",
+  "name": {
+    "english": "Origin Pulse",
+    "japanese": "こんげんのはどう",
+    "chinese": "根源波動",
+    "korean": "근원의파동",
+    "german": "Pulso Primigenio",
+    "french": "Ursprungswoge",
+    "italian": "Origin Pulse",
+    "spanish": "Primopulsar"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 110,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 6,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "omega-ruby-alpha-sapphire": "The user attacks opposing Pokémon with countless\nbeams of light that glow a deep and brilliant blue.",
+    "sun-moon": "The user attacks opposing Pokémon with countless\nbeams of light that glow a deep and brilliant blue.",
+    "ultra-sun-ultra-moon": "The user attacks opposing Pokémon with countless\nbeams of light that glow a deep and brilliant blue.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks opposing Pokémon with countless\nbeams of light that glow a deep and brilliant blue.",
+    "sword-shield": "The user attacks opposing Pokémon with countless\nbeams of light that glow a deep and brilliant blue."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

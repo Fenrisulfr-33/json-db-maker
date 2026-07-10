@@ -1,0 +1,67 @@
+{
+    "_id": 33,
+    "evoLine": [
+        [
+            {
+                "id": 79,
+                "name": "Slowpoke",
+                "type": {
+                    "one": "Water",
+                    "two": "Psychic"
+                }
+            },
+            [
+                {
+                    "id": 80,
+                    "name": "Slowbro",
+                    "type": {
+                        "one": "Water",
+                        "two": "Psychic"
+                    },
+                    "how": "Level 37"
+                },
+                {
+                    "id": 199,
+                    "name": "Slowking",
+                    "type": {
+                        "one": "Water",
+                        "two": "Psychic"
+                    },
+                    "how": "trade holding Kings Rock"
+                }
+            ]
+        ],
+        [
+            {
+                "id": 79.1,
+                "name": "Slowpoke",
+                "form": "Galarian Slowpoke",
+                "type": {
+                    "one": "Psychic"
+                }
+            },
+            [
+                {
+                    "id": 80.1,
+                    "name": "Slowbro",
+                    "form": "Galarian Slowbro",
+                    "type": {
+                        "one": "Poison",
+                        "two": "Psychic"
+                    },
+                    "how": "use Galarica Cuff"
+                },
+                {
+                    "id": 199.1,
+                    "name": "Slowking",
+                    "form": "Galarian Slowking",
+                    "type": {
+                        "one": "Poison",
+                        "two": "Psychic"
+                    },
+                    "how": "trade holding Kings Rock"
+                }
+            ]
+        ]
+    ]
+}

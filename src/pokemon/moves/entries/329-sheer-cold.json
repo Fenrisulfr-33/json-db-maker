@@ -1,0 +1,45 @@
+{
+  "_id": 329,
+  "key": "sheer-cold",
+  "name": {
+    "english": "Sheer Cold",
+    "japanese": "ぜったいれいど",
+    "chinese": "绝对零度",
+    "korean": "절대영도",
+    "german": "Frío Polar",
+    "french": "Eiseskälte",
+    "italian": "Sheer Cold",
+    "spanish": "Purogelo"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": null,
+  "accuracy": 30,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A chilling attack that\ncauses fainting if it hits.",
+    "emerald": "A chilling attack that\ncauses fainting if it hits.",
+    "firered-leafgreen": "The foe is attacked\nwith ultimate cold\nthat causes fainting\nif it hits.",
+    "diamond-pearl": "The foe is attacked\nwith a blast of\nabsolute-zero cold.\nThe foe instantly\nfaints if it hits.",
+    "platinum": "The foe is attacked\nwith a blast of\nabsolute-zero cold.\nThe foe instantly\nfaints if it hits.",
+    "heartgold-soulsilver": "The foe is attacked\nwith a blast of\nabsolute-zero cold.\nThe foe instantly\nfaints if it hits.",
+    "black-white": "The target is attacked with a blast of\nabsolute-zero cold.\nThe target instantly faints if it hits.",
+    "black-2-white-2": "The target is attacked with a blast of\nabsolute-zero cold.\nThe target instantly faints if it hits.",
+    "x-y": "The target is attacked with a blast of\nabsolute-zero cold. The target faints\ninstantly if this attack hits.",
+    "omega-ruby-alpha-sapphire": "The target is attacked with a blast of\nabsolute-zero cold. The target faints\ninstantly if this attack hits.",
+    "sun-moon": "The target faints instantly. It’s less likely to hit the\ntarget if it’s used by Pokémon other than Ice types.",
+    "ultra-sun-ultra-moon": "The target faints instantly. It’s less likely to hit the\ntarget if it’s used by Pokémon other than Ice types.",
+    "lets-go-pikachu-lets-go-eevee": "The target faints instantly. It’s less likely to hit the\ntarget if it’s used by Pokémon other than Ice types.",
+    "sword-shield": "The target faints instantly. It’s less likely to hit the\ntarget if it’s used by Pokémon other than Ice types."
+  },
+  "effect": {
+    "full": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect.",
+    "shortEffect": "Causes a one-hit KO."
+  },
+  "priority": 0
+}

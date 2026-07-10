@@ -1,0 +1,47 @@
+{
+  "_id": 159,
+  "key": "sharpen",
+  "name": {
+    "english": "Sharpen",
+    "japanese": "かくばる",
+    "chinese": "棱角",
+    "korean": "각지기",
+    "german": "Afilar",
+    "french": "Schärfer",
+    "italian": "Sharpen",
+    "spanish": "Affilatore"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Reduces the polygon count\nand raises ATTACK.",
+    "emerald": "Reduces the polygon count\nand raises ATTACK.",
+    "gold-silver": "A move that raises\nthe user's ATTACK.",
+    "crystal": "A move that raises\nthe user's ATTACK.",
+    "firered-leafgreen": "The user reduces\nits polygon count\nto sharpen edges\nand raise ATTACK.",
+    "diamond-pearl": "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.",
+    "platinum": "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.",
+    "heartgold-soulsilver": "The user reduces its\npolygon count to\nmake itself more\njagged, raising the\nAttack stat.",
+    "black-white": "The user reduces its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+    "black-2-white-2": "The user reduces its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+    "x-y": "The user lowers its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+    "omega-ruby-alpha-sapphire": "The user lowers its polygon count to\nmake itself more jagged, raising the\nAttack stat.",
+    "sun-moon": "The user makes its edges more jagged, \nwhich raises its Attack stat.",
+    "ultra-sun-ultra-moon": "The user makes its edges more jagged, \nwhich raises its Attack stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user makes its edges more jagged,\nwhich raises its Attack stat.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Raises the user's Attack by one stage.",
+    "shortEffect": "Raises the user's Attack by one stage."
+  },
+  "priority": 0
+}

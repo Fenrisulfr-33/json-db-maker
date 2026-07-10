@@ -1,0 +1,42 @@
+{
+  "_id": 404,
+  "key": "x-scissor",
+  "name": {
+    "english": "X-Scissor",
+    "japanese": "シザークロス",
+    "chinese": "剪刀十字拳",
+    "korean": "시저크로스",
+    "german": "Tijera X",
+    "french": "Kreuzschere",
+    "italian": "X-Scissor",
+    "spanish": "Forbice X"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.",
+    "platinum": "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.",
+    "heartgold-soulsilver": "The user slashes at\nthe foe by crossing\nits scythes or claws\nas if they were a pair\nof scissors.",
+    "black-white": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+    "black-2-white-2": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+    "x-y": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+    "omega-ruby-alpha-sapphire": "The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.",
+    "sun-moon": "The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors.",
+    "ultra-sun-ultra-moon": "The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors.",
+    "lets-go-pikachu-lets-go-eevee": "The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors.",
+    "sword-shield": "The user slashes at the target by crossing its\nscythes or claws as if they were a pair of scissors."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

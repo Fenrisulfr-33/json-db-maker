@@ -1,0 +1,39 @@
+{
+  "_id": 484,
+  "key": "heavy-slam",
+  "name": {
+    "english": "Heavy Slam",
+    "japanese": "ヘビーボンバー",
+    "chinese": "沉重轰炸",
+    "korean": "헤비봄버",
+    "german": "Cuerpo Pesado",
+    "french": "Rammboss",
+    "italian": "Heavy Slam",
+    "spanish": "Pesobomba"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user slams into the target with its\nheavy body. The more the user outweighs\nthe target, the greater its damage.",
+    "black-2-white-2": "The user slams into the target with its\nheavy body. The more the user outweighs\nthe target, the greater its damage.",
+    "x-y": "The user slams into the target with its\nheavy body. The more the user outweighs\nthe target, the greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user slams into the target with its\nheavy body. The more the user outweighs\nthe target, the greater the move’s power.",
+    "sun-moon": "The user slams into the target with its heavy body.\nThe more the user outweighs the target, the greater\nthe move’s power.",
+    "ultra-sun-ultra-moon": "The user slams into the target with its heavy body.\nThe more the user outweighs the target, the greater\nthe move’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user slams into the target with its heavy body.\nThe more the user outweighs the target, the greater\nthe move’s power.",
+    "sword-shield": "The user slams into the target with its heavy body.\nThe more the user outweighs the target, the greater\nthe move’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  The greater the user's weight compared to the target's, the higher power this move has, to a maximum of 120.\n\nUser's weight                    | Power\n-------------------------------- | ----:\nUp to 2× the target's weight     |    40\nUp to 3× the target's weight     |    60\nUp to 4× the target's weight     |    80\nUp to 5× the target's weight     |   100\nMore than 5× the target's weight |   120\n",
+    "shortEffect": "Power is higher when the user weighs more than the target, up to a maximum of 120."
+  },
+  "priority": 0
+}

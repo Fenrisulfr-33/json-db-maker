@@ -1,0 +1,45 @@
+{
+  "_id": 344,
+  "key": "volt-tackle",
+  "name": {
+    "english": "Volt Tackle",
+    "japanese": "ボルテッカー",
+    "chinese": "伏特攻击",
+    "korean": "볼트태클",
+    "german": "Placaje Eléc",
+    "french": "Volttackle",
+    "italian": "Volt Tackle",
+    "spanish": "Locomovolt"
+  },
+  "type": "Electric",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "A life-risking tackle that\nslightly hurts the user.",
+    "emerald": "A life-risking tackle that\nslightly hurts the user.",
+    "firered-leafgreen": "The user throws an\nelectrified tackle.\nIt hurts the user\na little.",
+    "diamond-pearl": "The user electrifies\nitself, then charges\nat the foe. It causes\nconsiderable damage\nto the user as well.",
+    "platinum": "The user electrifies\nitself, then charges\nat the foe. It causes\nconsiderable damage\nto the user as well.",
+    "heartgold-soulsilver": "The user electrifies\nitself, then charges\nat the foe. It causes\nconsiderable damage\nto the user as well.",
+    "black-white": "The user electrifies itself, then charges. \nIt causes considerable damage to the user\nand may leave the target with paralysis.",
+    "black-2-white-2": "The user electrifies itself, then charges.\nIt causes considerable damage to the user\nand may leave the target with paralysis.",
+    "x-y": "The user electrifies itself, then charges.\nThis also damages the user quite a lot.\nThis may leave the target with paralysis.",
+    "omega-ruby-alpha-sapphire": "The user electrifies itself, then charges.\nThis also damages the user quite a lot.\nThis may leave the target with paralysis.",
+    "sun-moon": "The user electrifies itself and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with paralysis.",
+    "ultra-sun-ultra-moon": "The user electrifies itself and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with paralysis.",
+    "lets-go-pikachu-lets-go-eevee": "The user electrifies itself and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with paralysis.",
+    "sword-shield": "The user electrifies itself and charges the target.\nThis also damages the user quite a lot. This attack\nmay leave the target with paralysis."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.  Has a $effect_chance% chance to paralyze the target.",
+    "shortEffect": "User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to paralyze the target."
+  },
+  "priority": 0
+}

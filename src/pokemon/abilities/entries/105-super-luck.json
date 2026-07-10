@@ -1,0 +1,67 @@
+{
+  "_id": 105,
+  "key": "super-luck",
+  "name": {
+    "english": "Super Luck"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Raises moves' critical hit rates one stage.",
+    "full": "This Pokémon's moves have critical hit rates one stage higher than normal."
+  },
+  "description": {
+    "diamond-pearl": "Heightens the critical-hit ratios of moves.",
+    "platinum": "Heightens the critical-hit ratios of moves.",
+    "heartgold-soulsilver": "Heightens the critical- hit ratios of moves.",
+    "black-white": "Heightens the critical- hit ratios of moves.",
+    "black-2-white-2": "Heightens the critical- hit ratios of moves.",
+    "x-y": "Boosts the critical-hit ratios of moves.",
+    "omega-ruby-alpha-sapphire": "Boosts the critical-hit ratios of moves.",
+    "sun-moon": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.",
+    "ultra-sun-ultra-moon": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.",
+    "sword-shield": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Murkrow",
+        "id": 198
+      },
+      {
+        "name": "Absol",
+        "id": 359
+      },
+      {
+        "name": "Honchkrow",
+        "id": 430
+      },
+      {
+        "name": "Pidove",
+        "id": 519
+      },
+      {
+        "name": "Tranquill",
+        "id": 520
+      },
+      {
+        "name": "Unfezant",
+        "id": 521
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Togepi",
+        "id": 175
+      },
+      {
+        "name": "Togetic",
+        "id": 176
+      },
+      {
+        "name": "Togekiss",
+        "id": 468
+      }
+    ]
+  }
+}

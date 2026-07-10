@@ -1,0 +1,39 @@
+{
+  "_id": 524,
+  "key": "frost-breath",
+  "name": {
+    "english": "Frost Breath",
+    "japanese": "こおりのいぶき",
+    "chinese": "冰吸",
+    "korean": "얼음숨결",
+    "german": "Vaho Gélido",
+    "french": "Eisesodem",
+    "italian": "Frost Breath",
+    "spanish": "Alitogelido"
+  },
+  "type": "Ice",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 60,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user blows a cold breath on the\ntarget. This attack always results in\na critical hit.",
+    "black-2-white-2": "The user blows a cold breath on the\ntarget. This attack always results in\na critical hit.",
+    "x-y": "The user blows its cold breath on the\ntarget. This attack always results in\na critical hit.",
+    "omega-ruby-alpha-sapphire": "The user blows its cold breath on the\ntarget. This attack always results in\na critical hit.",
+    "sun-moon": "The user blows its cold breath on the target. This\nattack always results in a critical hit.",
+    "ultra-sun-ultra-moon": "The user blows its cold breath on the target. This\nattack always results in a critical hit.",
+    "lets-go-pikachu-lets-go-eevee": "The user blows its cold breath on the target. This\nattack always results in a critical hit.",
+    "sword-shield": "The user blows its cold breath on the target. This\nattack always results in a critical hit."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Always scores a critical hit.",
+    "shortEffect": "Always scores a critical hit."
+  },
+  "priority": 0
+}

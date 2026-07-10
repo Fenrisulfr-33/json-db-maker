@@ -1,0 +1,45 @@
+{
+  "_id": 310,
+  "key": "astonish",
+  "name": {
+    "english": "Astonish",
+    "japanese": "おどろかす",
+    "chinese": "惊吓",
+    "korean": "놀래키기",
+    "german": "Impresionar",
+    "french": "Erstauner",
+    "italian": "Astonish",
+    "spanish": "Sgomento"
+  },
+  "type": "Ghost",
+  "category": "Physical",
+  "contest": "Smart",
+  "pp": 15,
+  "power": 30,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "An attack that may shock\nthe foe into flinching.",
+    "emerald": "An attack that may shock\nthe foe into flinching.",
+    "firered-leafgreen": "An attack using a\nstartling shout.\nIt also may make\nthe foe flinch.",
+    "diamond-pearl": "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.",
+    "platinum": "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.",
+    "heartgold-soulsilver": "The user attacks the\nfoe while shouting in\na startling fashion.\nIt may also make the\ntarget flinch.",
+    "black-white": "The user attacks the target while shouting\nin a startling fashion.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user attacks the target while shouting\nin a startling fashion.\nIt may also make the target flinch.",
+    "x-y": "The user attacks the target while shouting\nin a startling fashion.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target while shouting\nin a startling fashion.\nThis may also make the target flinch.",
+    "sun-moon": "The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch.",
+    "ultra-sun-ultra-moon": "The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch.",
+    "sword-shield": "The user attacks the target while shouting in a\nstartling fashion. This may also make the\ntarget flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

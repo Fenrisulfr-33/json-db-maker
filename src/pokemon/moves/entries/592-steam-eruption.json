@@ -1,0 +1,37 @@
+{
+  "_id": 592,
+  "key": "steam-eruption",
+  "name": {
+    "english": "Steam Eruption",
+    "japanese": "スチームバースト",
+    "chinese": "蒸汽爆炸",
+    "korean": "스팀버스트",
+    "german": "Chorro de Vapor",
+    "french": "Dampfschwall",
+    "italian": "Steam Eruption",
+    "spanish": "Vaporscoppio"
+  },
+  "type": "Water",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 110,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "The user immerses the target in superheated steam.\nThis may also leave the target with a burn.",
+    "x-y": "The user immerses the target in superheated steam.\nThis may also leave the target with a burn.",
+    "omega-ruby-alpha-sapphire": "The user immerses the target in superheated steam.\nThis may also leave the target with a burn.",
+    "sun-moon": "The user immerses the target in superheated steam.\nThis may also leave the target with a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user immerses the target in superheated steam.\nThis may also leave the target with a burn.",
+    "sword-shield": "The user immerses the target in superheated steam.\nThis may also leave the target with a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,35 @@
+{
+  "_id": 684,
+  "key": "smart-strike",
+  "name": {
+    "english": "Smart Strike",
+    "japanese": "スマートホーン",
+    "chinese": "修長之角",
+    "korean": "스마트호른",
+    "german": "Cuerno Certero",
+    "french": "Schmalhorn",
+    "italian": "Smart Strike",
+    "spanish": "Sottilcorno"
+  },
+  "type": "Steel",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 70,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "sun-moon": "The user stabs the target with a sharp horn. This\nattack never misses.",
+    "ultra-sun-ultra-moon": "The user stabs the target with a sharp horn. This\nattack never misses.",
+    "lets-go-pikachu-lets-go-eevee": "The user stabs the target with a sharp horn. This\nattack never misses.",
+    "sword-shield": "The user stabs the target with a sharp horn. This\nattack never misses."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.",
+    "shortEffect": "Never misses."
+  },
+  "priority": 0
+}

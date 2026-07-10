@@ -1,0 +1,42 @@
+{
+  "_id": 453,
+  "key": "aqua-jet",
+  "name": {
+    "english": "Aqua Jet",
+    "japanese": "アクアジェット",
+    "chinese": "喷射水柱",
+    "korean": "아쿠아제트",
+    "german": "Acua Jet",
+    "french": "Wasserdüse",
+    "italian": "Aqua Jet",
+    "spanish": "Acquagetto"
+  },
+  "type": "Water",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 20,
+  "power": 40,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+    "platinum": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+    "heartgold-soulsilver": "The user lunges at\nthe foe at a speed\nthat makes it almost\ninvisible. It is sure\nto strike first.",
+    "black-white": "The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.",
+    "black-2-white-2": "The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.",
+    "x-y": "The user lunges at the target at a speed\nthat makes it almost invisible.\nThis move always goes first.",
+    "omega-ruby-alpha-sapphire": "The user lunges at the target at a speed\nthat makes it almost invisible.\nThis move always goes first.",
+    "sun-moon": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+    "ultra-sun-ultra-moon": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+    "lets-go-pikachu-lets-go-eevee": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first.",
+    "sword-shield": "The user lunges at the target at a speed that makes\nit almost invisible. This move always goes first."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 1
+}

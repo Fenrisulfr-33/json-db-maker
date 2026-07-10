@@ -1,0 +1,34 @@
+{
+  "_id": 725,
+  "key": "menacing-moonraze-maelstrom",
+  "name": {
+    "english": "Menacing Moonraze Maelstrom",
+    "japanese": "ムーンライトブラスター",
+    "chinese": "月華飛濺落靈霄",
+    "korean": "문라이트블래스터",
+    "german": "Deflagración Lunar",
+    "french": "Geballter Mondlaser",
+    "italian": "Menacing Moonraze Maelstrom",
+    "spanish": "Deflagrazione Lunare"
+  },
+  "type": "Ghost",
+  "category": "Special",
+  "contest": null,
+  "pp": 1,
+  "power": 200,
+  "accuracy": null,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "After obtaining Z-Power, the user, Lunala,\nattacks the target with full force. This move can\nignore the effect of the target’s Ability.",
+    "lets-go-pikachu-lets-go-eevee": "After obtaining Z-Power, the user, Lunala,\nattacks the target with full force. This move can\nignore the effect of the target’s Ability.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Other Pokémon's abilities cannot activate in response to this move.  In particular, it hits through disguise",
+    "shortEffect": "Cannot be disrupted by abilities."
+  },
+  "priority": 0
+}

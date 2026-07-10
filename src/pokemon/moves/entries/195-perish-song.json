@@ -1,0 +1,47 @@
+{
+  "_id": 195,
+  "key": "perish-song",
+  "name": {
+    "english": "Perish Song",
+    "japanese": "ほろびのうた",
+    "chinese": "灭亡之歌",
+    "korean": "멸망의노래",
+    "german": "Canto Mortal",
+    "french": "Abgesang",
+    "italian": "Perish Song",
+    "spanish": "Ultimocanto"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Beauty",
+  "pp": 5,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "all-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Both user and foe\nfaint in 3 turns.",
+    "crystal": "Both user and foe\nfaint in 3 turns.",
+    "ruby-sapphire": "Any POKéMON hearing this\nsong faints in 3 turns.",
+    "emerald": "Any POKéMON hearing this\nsong faints in 3 turns.",
+    "firered-leafgreen": "Any battler that\nhears this faints\nin three turns\nunless it switches.",
+    "diamond-pearl": "Any Pokémon that\nhears this song\nfaints in three turns\nunless it switches\nout of battle.",
+    "platinum": "Any Pokémon that\nhears this song\nfaints in three turns\nunless it switches\nout of battle.",
+    "heartgold-soulsilver": "Any Pokémon that\nhears this song\nfaints in three turns,\nunless it switches\nout of battle.",
+    "black-white": "Any Pokémon that hears this song\nfaints in three turns, unless it switches\nout of battle.",
+    "black-2-white-2": "Any Pokémon that hears this song\nfaints in three turns, unless it switches\nout of battle.",
+    "x-y": "Any Pokémon that hears this song\nfaints in three turns, unless it switches\nout of battle.",
+    "omega-ruby-alpha-sapphire": "Any Pokémon that hears this song\nfaints in three turns, unless it switches\nout of battle.",
+    "sun-moon": "Any Pokémon that hears this song faints in three\nturns, unless it switches out of battle.",
+    "ultra-sun-ultra-moon": "Any Pokémon that hears this song faints in three\nturns, unless it switches out of battle.",
+    "lets-go-pikachu-lets-go-eevee": "Any Pokémon that hears this song faints in three\nturns, unless it switches out of battle.",
+    "sword-shield": "Any Pokémon that hears this song faints in three\nturns, unless it switches out of battle."
+  },
+  "effect": {
+    "full": "Every Pokémon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pokémon's counter reaches zero, that Pokémon faints.  A Pokémon that leaves the field will lose its counter; its replacement does not inherit the effect, and other Pokémon's counters remain.\n\nThis effect is passed on by baton pass.\n\nThis move cannot be copied by mirror move.",
+    "shortEffect": "User and target both faint after three turns."
+  },
+  "priority": 0
+}

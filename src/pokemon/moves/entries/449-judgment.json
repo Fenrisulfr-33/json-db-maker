@@ -1,0 +1,42 @@
+{
+  "_id": 449,
+  "key": "judgment",
+  "name": {
+    "english": "Judgment",
+    "japanese": "さばきのつぶて",
+    "chinese": "制裁石砾",
+    "korean": "심판의뭉치",
+    "german": "Sentencia",
+    "french": "Urteilskraft",
+    "italian": "Judgment",
+    "spanish": "Giudizio"
+  },
+  "type": "Normal",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user releases\ncountless shots of\nlight. Its type varies\nwith the kind of Plate\nthe user is holding.",
+    "platinum": "The user releases\ncountless shots of\nlight. Its type varies\nwith the kind of Plate\nthe user is holding.",
+    "heartgold-soulsilver": "The user releases\ncountless shots of\nlight. Its type varies\nwith the kind of Plate\nthe user is holding.",
+    "black-white": "The user releases countless shots of\nlight at the target. Its type varies with\nthe kind of Plate the user is holding.",
+    "black-2-white-2": "The user releases countless shots of\nlight at the target. Its type varies with\nthe kind of Plate the user is holding.",
+    "x-y": "The user releases countless shots of\nlight at the target. This move’s type varies\ndepending on the kind of Plate the user is holding.",
+    "omega-ruby-alpha-sapphire": "The user releases countless shots of\nlight at the target. This move’s type varies\ndepending on the kind of Plate the user is holding.",
+    "sun-moon": "The user releases countless shots of light at the\ntarget. This move’s type varies depending on the\nkind of Plate the user is holding.",
+    "ultra-sun-ultra-moon": "The user releases countless shots of light at the\ntarget. This move’s type varies depending on the\nkind of Plate the user is holding.",
+    "lets-go-pikachu-lets-go-eevee": "The user releases countless shots of light at the\ntarget. This move’s type varies depending on the\nkind of Plate the user is holding.",
+    "sword-shield": "The user releases countless shots of light at the\ntarget. This move’s type varies depending on the\nkind of Plate the user is holding."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the user is holding a plate or a drive, this move's type is the type corresponding to that item.\n\nNote: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates.",
+    "shortEffect": "If the user is holding a appropriate plate or drive, the damage inflicted will match it."
+  },
+  "priority": 0
+}

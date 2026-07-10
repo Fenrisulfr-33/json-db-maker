@@ -1,0 +1,40 @@
+{
+    "_id": 15,
+    "first": [
+        {
+            "id": 37,
+            "name": "Vulpix",
+            "type": {
+                "one": "Fire"
+            }
+        },
+        {
+            "id": 38,
+            "name": "Ninetales",
+            "type": {
+                "one": "Fire"
+            },
+            "how": "use Fire Stone"
+        }
+    ],
+    "second": [
+        {
+            "id": 37.1,
+            "name": "Vulpix",
+            "form": "Alolan Vulpix",
+            "type": {
+                "one": "Ice"
+            }
+        },
+        {
+            "id": 38.1,
+            "name": "Ninetales",
+            "form": "Alolan Ninetales",
+            "type": {
+                "one": "Ice",
+                "two": "Fairy"
+            },
+            "how": "use Ice Stone"
+        }
+    ]
+}

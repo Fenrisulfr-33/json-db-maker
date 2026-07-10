@@ -1,0 +1,39 @@
+{
+  "_id": 481,
+  "key": "flame-burst",
+  "name": {
+    "english": "Flame Burst",
+    "japanese": "はじけるほのお",
+    "chinese": "爆炸火焰",
+    "korean": "불꽃튀기기",
+    "german": "Pirotecnia",
+    "french": "Funkenflug",
+    "italian": "Flame Burst",
+    "spanish": "Pirolancio"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 70,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+    "black-2-white-2": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+    "x-y": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+    "omega-ruby-alpha-sapphire": "The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.",
+    "sun-moon": "The user attacks the target with a bursting flame.\nThe bursting flame damages Pokémon next to the\ntarget as well.",
+    "ultra-sun-ultra-moon": "The user attacks the target with a bursting flame.\nThe bursting flame damages Pokémon next to the\ntarget as well.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks the target with a bursting flame.\nThe bursting flame damages Pokémon next to the\ntarget as well.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If this move successfully hits the target, any Pokémon adjacent to the target are damaged for 1/16 their max HP.",
+    "shortEffect": "Deals splash damage to Pokémon next to the target."
+  },
+  "priority": 0
+}

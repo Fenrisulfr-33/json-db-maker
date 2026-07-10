@@ -1,0 +1,33 @@
+{
+  "_id": 735,
+  "key": "sizzly-slide",
+  "name": {
+    "english": "Sizzly Slide",
+    "japanese": "めらめらバーン",
+    "chinese": "熊熊火爆",
+    "korean": "이글이글번",
+    "german": "Flarembestida",
+    "french": "Flackerbrand",
+    "italian": "Sizzly Slide",
+    "spanish": "Fiammabam"
+  },
+  "type": "Fire",
+  "category": "Physical",
+  "contest": null,
+  "pp": 20,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "lets-go-pikachu-lets-go-eevee": "The user cloaks itself in fire and charges at the target.\nThis also leaves the target with a burn.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

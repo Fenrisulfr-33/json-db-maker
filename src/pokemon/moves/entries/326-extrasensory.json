@@ -1,0 +1,45 @@
+{
+  "_id": 326,
+  "key": "extrasensory",
+  "name": {
+    "english": "Extrasensory",
+    "japanese": "じんつうりき",
+    "chinese": "神通力",
+    "korean": "신통력",
+    "german": "Paranormal",
+    "french": "Sondersensor",
+    "italian": "Extrasensory",
+    "spanish": "Extrasenso"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": "Cool",
+  "pp": 20,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Attacks with a peculiar\npower. May cause flinching.",
+    "emerald": "Attacks with a peculiar\npower. May cause flinching.",
+    "firered-leafgreen": "The user attacks\nwith an odd power\nthat may make the\nfoe flinch.",
+    "diamond-pearl": "The user attacks with\nan odd, unseeable\npower.\nIt may also make the\nfoe flinch.",
+    "platinum": "The user attacks with\nan odd, unseeable\npower.\nIt may also make the\nfoe flinch.",
+    "heartgold-soulsilver": "The user attacks with\nan odd, unseeable\npower.\nIt may also make the\nfoe flinch.",
+    "black-white": "The user attacks with an odd,\nunseeable power.\nIt may also make the target flinch.",
+    "black-2-white-2": "The user attacks with an odd,\nunseeable power.\nIt may also make the target flinch.",
+    "x-y": "The user attacks with an odd,\nunseeable power.\nThis may also make the target flinch.",
+    "omega-ruby-alpha-sapphire": "The user attacks with an odd,\nunseeable power.\nThis may also make the target flinch.",
+    "sun-moon": "The user attacks with an odd, unseeable power.\nThis may also make the target flinch.",
+    "ultra-sun-ultra-moon": "The user attacks with an odd, unseeable power.\nThis may also make the target flinch.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks with an odd, unseeable power.\nThis may also make the target flinch.",
+    "sword-shield": "The user attacks with an odd, unseeable power.\nThis may also make the target flinch."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch.",
+    "shortEffect": "Has a $effect_chance% chance to make the target flinch."
+  },
+  "priority": 0
+}

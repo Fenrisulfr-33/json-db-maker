@@ -1,0 +1,87 @@
+{
+  "_id": 109,
+  "key": "unaware",
+  "name": {
+    "english": "Unaware"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation.",
+    "full": "This Pokémon ignores other Pokémon's stat modifiers for the purposes of damage and accuracy calculation. Effectively, this affects modifiers of every stat except Speed. The power of punishment and stored power is calculated as usual. When this Pokémon hurts itself in confusion, its stat modifiers affect damage as usual."
+  },
+  "description": {
+    "diamond-pearl": "Ignores any change in ability by the foe.",
+    "platinum": "Ignores any change in ability by the foe.",
+    "heartgold-soulsilver": "Ignores any change in ability by the foe.",
+    "black-white": "Ignores any stat changes in the Pokémon.",
+    "black-2-white-2": "Ignores any stat changes in the Pokémon.",
+    "x-y": "Ignores the opposing Pokémon’s stat changes.",
+    "omega-ruby-alpha-sapphire": "Ignores the opposing Pokémon’s stat changes.",
+    "sun-moon": "When attacking, the Pokémon ignores the target Pokémon’s stat changes.",
+    "ultra-sun-ultra-moon": "When attacking, the Pokémon ignores the target Pokémon’s stat changes.",
+    "lets-go-pikachu-lets-go-eevee": "When attacking, the Pokémon ignores the target Pokémon’s stat changes.",
+    "sword-shield": "When attacking, the Pokémon ignores the target Pokémon’s stat changes."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Bidoof",
+        "id": 399
+      },
+      {
+        "name": "Bibarel",
+        "id": 400
+      },
+      {
+        "name": "Woobat",
+        "id": 527
+      },
+      {
+        "name": "Swoobat",
+        "id": 528
+      },
+      {
+        "name": "Cosmog",
+        "id": 789
+      },
+      {
+        "name": "Dondozo",
+        "id": 977
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Clefable",
+        "id": 36
+      },
+      {
+        "name": "Wooper",
+        "id": 194
+      },
+      {
+        "name": "Quagsire",
+        "id": 195
+      },
+      {
+        "name": "Pyukumuku",
+        "id": 771
+      },
+      {
+        "name": "Fuecoco",
+        "id": 909
+      },
+      {
+        "name": "Crocalor",
+        "id": 910
+      },
+      {
+        "name": "Skeledirge",
+        "id": 911
+      },
+      {
+        "name": "Clodsire",
+        "id": 980
+      }
+    ]
+  }
+}

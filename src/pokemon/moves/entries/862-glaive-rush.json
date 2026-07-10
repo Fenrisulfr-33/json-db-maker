@@ -1,0 +1,17 @@
+{
+  "_id": 862,
+  "key": "glaive-rush",
+  "name": {
+    "english": "Glaive Rush"
+  },
+  "type": "Dragon",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": []
+}

@@ -1,0 +1,17 @@
+{
+  "_id": 838,
+  "key": "headlong-rush",
+  "name": {
+    "english": "Headlong Rush"
+  },
+  "type": "Ground",
+  "category": "Physical",
+  "contest": null,
+  "pp": 5,
+  "power": 120,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

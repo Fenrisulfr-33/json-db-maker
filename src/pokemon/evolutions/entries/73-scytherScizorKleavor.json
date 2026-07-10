@@ -1,0 +1,35 @@
+{
+  "_id": 73,
+  "evoLine": [
+    [
+      {
+        "id": 123,
+        "name": "Scyther",
+        "type": {
+          "one": "Bug",
+          "two": "Flying"
+        }
+      },
+      [
+        {
+          "id": 212,
+          "name": "Scizor",
+          "type": {
+            "one": "Bug",
+            "two": "Steel"
+          },
+          "how": "trade holding Metal Coat"
+        },
+        {
+          "id": 900,
+          "name": "Kleavor",
+          "type": {
+            "one": "Bug",
+            "two": "Rock"
+          },
+          "how": "use Black Augurite"
+        }
+      ]
+    ]
+  ]
+}

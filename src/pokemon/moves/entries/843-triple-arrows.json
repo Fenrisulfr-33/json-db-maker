@@ -1,0 +1,17 @@
+{
+  "_id": 843,
+  "key": "triple-arrows",
+  "name": {
+    "english": "Triple Arrows"
+  },
+  "type": "Fighting",
+  "category": "Physical",
+  "contest": null,
+  "pp": 10,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 8,
+  "target": "Selected-pokemon",
+  "changes": []
+}

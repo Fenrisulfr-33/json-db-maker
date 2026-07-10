@@ -1,0 +1,75 @@
+{
+  "_id": 113,
+  "key": "scrappy",
+  "name": {
+    "english": "Scrappy"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "Lets the Pokémon's normal and fighting moves hit ghost Pokémon.",
+    "full": "This Pokémon ignores ghost-type Pokémon's immunity to normal- and fighting-type moves. Ghost Pokémon's other types affect damage as usual."
+  },
+  "description": {
+    "diamond-pearl": "Enables moves to hit Ghost-type foes.",
+    "platinum": "Enables moves to hit Ghost-type foes.",
+    "heartgold-soulsilver": "Enables moves to hit Ghost-type foes.",
+    "black-white": "Enables moves to hit Ghost-type Pokémon.",
+    "black-2-white-2": "Enables moves to hit Ghost-type Pokémon.",
+    "x-y": "Makes Normal- and Fighting-type moves hit Ghost-type Pokémon.",
+    "omega-ruby-alpha-sapphire": "Makes Normal- and Fighting-type moves hit Ghost-type Pokémon.",
+    "sun-moon": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.",
+    "ultra-sun-ultra-moon": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.",
+    "sword-shield": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Kangaskhan",
+        "id": 115
+      },
+      {
+        "name": "Miltank",
+        "id": 241
+      },
+      {
+        "name": "Flamigo",
+        "id": 973
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Taillow",
+        "id": 276
+      },
+      {
+        "name": "Swellow",
+        "id": 277
+      },
+      {
+        "name": "Loudred",
+        "id": 294
+      },
+      {
+        "name": "Exploud",
+        "id": 295
+      },
+      {
+        "name": "Herdier",
+        "id": 507
+      },
+      {
+        "name": "Stoutland",
+        "id": 508
+      },
+      {
+        "name": "Pancham",
+        "id": 674
+      },
+      {
+        "name": "Pangoro",
+        "id": 675
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 372,
+  "key": "assurance",
+  "name": {
+    "english": "Assurance",
+    "japanese": "ダメおし",
+    "chinese": "再三嘱咐‎",
+    "korean": "승부굳히기",
+    "german": "Buena Baza",
+    "french": "Gewissheit",
+    "italian": "Assurance",
+    "spanish": "Garanzia"
+  },
+  "type": "Dark",
+  "category": "Physical",
+  "contest": "Beauty",
+  "pp": 10,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "If the foe has\nalready taken some\ndamage in the same\nturn, this attack’s\npower is doubled.",
+    "platinum": "If the foe has\nalready taken some\ndamage in the same\nturn, this attack’s\npower is doubled.",
+    "heartgold-soulsilver": "If the foe has\nalready taken some\ndamage in the same\nturn, this attack’s\npower is doubled.",
+    "black-white": "If the target has already taken some\ndamage in the same turn, this attack’s\npower is doubled.",
+    "black-2-white-2": "If the target has already taken some\ndamage in the same turn, this attack’s\npower is doubled.",
+    "x-y": "If the target has already taken some\ndamage in the same turn, this attack’s\npower is doubled.",
+    "omega-ruby-alpha-sapphire": "If the target has already taken some\ndamage in the same turn, this attack’s\npower is doubled.",
+    "sun-moon": "If the target has already taken some damage in the\nsame turn, this attack’s power is doubled.",
+    "ultra-sun-ultra-moon": "If the target has already taken some damage in the\nsame turn, this attack’s power is doubled.",
+    "lets-go-pikachu-lets-go-eevee": "If the target has already taken some damage in the\nsame turn, this attack’s power is doubled.",
+    "sword-shield": "If the target has already taken some damage in the\nsame turn, this attack’s power is doubled."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target takes damage this turn for any reason before this move is used, this move has double power.",
+    "shortEffect": "Power is doubled if the target has already received damage this turn."
+  },
+  "priority": 0
+}

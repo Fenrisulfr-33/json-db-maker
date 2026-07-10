@@ -1,0 +1,27 @@
+{
+  "_id": 2,
+  "start": {
+    "id": 4,
+    "name": "Charmander",
+    "type": {
+      "one": "Fire"
+    },
+    "how": "Level 16",
+    "next": {
+      "id": 5,
+      "name": "Charmeleon",
+      "type": {
+        "one": "Fire"
+      },
+      "how": "Level 36",
+      "next": {
+        "id": 6,
+        "name": "Charizard",
+        "type": {
+          "one": "Fire",
+          "two": "Flying"
+        }
+      }
+    }
+  }
+}

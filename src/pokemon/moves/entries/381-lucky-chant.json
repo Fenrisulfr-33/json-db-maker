@@ -1,0 +1,42 @@
+{
+  "_id": 381,
+  "key": "lucky-chant",
+  "name": {
+    "english": "Lucky Chant",
+    "japanese": "おまじない",
+    "chinese": "幸运咒语",
+    "korean": "주술",
+    "german": "Conjuro",
+    "french": "Beschwörung",
+    "italian": "Lucky Chant",
+    "spanish": "Fortuncanto"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 30,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "users-field",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+    "platinum": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+    "heartgold-soulsilver": "The user chants an\nincantation toward\nthe sky, preventing\nthe foe from landing\ncritical hits.",
+    "black-white": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+    "black-2-white-2": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+    "x-y": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+    "omega-ruby-alpha-sapphire": "The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.",
+    "sun-moon": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+    "ultra-sun-ultra-moon": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user chants an incantation toward the sky,\npreventing opposing Pokémon from landing\ncritical hits for five turns.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "For five turns, opposing Pokémon cannot score critical hits.",
+    "shortEffect": "Prevents the target from scoring critical hits for five turns."
+  },
+  "priority": 0
+}

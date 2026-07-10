@@ -1,0 +1,27 @@
+{
+  "_id": 193,
+  "key": "wimp-out",
+  "name": {
+    "english": "Wimp Out"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "This Pokémon automatically switches out when its HP drops below half.",
+    "full": "After this Pokémon is hit by a move, if that move caused this Pokémon's HP to drop below half, it switches out."
+  },
+  "description": {
+    "sun-moon": "The Pokémon cowardly switches out when its HP becomes half or less.",
+    "ultra-sun-ultra-moon": "The Pokémon cowardly switches out when its HP becomes half or less.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon cowardly switches out when its HP becomes half or less.",
+    "sword-shield": "The Pokémon cowardly switches out when its HP becomes half or less."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Wimpod",
+        "id": 767
+      }
+    ],
+    "hidden": []
+  }
+}

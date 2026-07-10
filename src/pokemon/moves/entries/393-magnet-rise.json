@@ -1,0 +1,42 @@
+{
+  "_id": 393,
+  "key": "magnet-rise",
+  "name": {
+    "english": "Magnet Rise",
+    "japanese": "でんじふゆう",
+    "chinese": "电磁浮游",
+    "korean": "전자부유",
+    "german": "Levitón",
+    "french": "Magnetflug",
+    "italian": "Magnet Rise",
+    "spanish": "Magnetascesa"
+  },
+  "type": "Electric",
+  "category": "Status",
+  "contest": "Cute",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+    "platinum": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+    "heartgold-soulsilver": "The user levitates\nusing electrically\ngenerated magnetism\nfor five turns.\n",
+    "black-white": "The user levitates using electrically\ngenerated magnetism for five turns.",
+    "black-2-white-2": "The user levitates using electrically\ngenerated magnetism for five turns.",
+    "x-y": "The user levitates using electrically\ngenerated magnetism for five turns.",
+    "omega-ruby-alpha-sapphire": "The user levitates using electrically\ngenerated magnetism for five turns.",
+    "sun-moon": "The user levitates using electrically generated\nmagnetism for five turns.",
+    "ultra-sun-ultra-moon": "The user levitates using electrically generated\nmagnetism for five turns.",
+    "lets-go-pikachu-lets-go-eevee": "The user levitates using electrically generated\nmagnetism for five turns.",
+    "sword-shield": "The user levitates using electrically generated\nmagnetism for five turns."
+  },
+  "effect": {
+    "full": "For five turns, the user is immune to ground moves.\n\nIf the user is under the effect of ingrain or has levitate, this move will fail.\n\nThis effect is temporarily disabled by and cannot be used during gravity.\n\nThis effect is passed on by baton pass.",
+    "shortEffect": "User is immune to Ground moves and effects for five turns."
+  },
+  "priority": 0
+}

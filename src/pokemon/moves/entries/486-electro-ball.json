@@ -1,0 +1,39 @@
+{
+  "_id": 486,
+  "key": "electro-ball",
+  "name": {
+    "english": "Electro Ball",
+    "japanese": "エレキボール",
+    "chinese": "电球",
+    "korean": "일렉트릭볼",
+    "german": "Bola Voltio",
+    "french": "Elektroball",
+    "italian": "Electro Ball",
+    "spanish": "Energisfera"
+  },
+  "type": "Electric",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "The user hurls an electric orb\nat the target. The faster the user is\nthan the target, the greater the damage.",
+    "black-2-white-2": "The user hurls an electric orb\nat the target. The faster the user is\nthan the target, the greater the damage.",
+    "x-y": "The user hurls an electric orb\nat the target. The faster the user is\nthan the target, the greater the move’s power.",
+    "omega-ruby-alpha-sapphire": "The user hurls an electric orb\nat the target. The faster the user is\nthan the target, the greater the move’s power.",
+    "sun-moon": "The user hurls an electric orb at the target. The\nfaster the user is than the target, the greater the\nmove’s power.",
+    "ultra-sun-ultra-moon": "The user hurls an electric orb at the target. The\nfaster the user is than the target, the greater the\nmove’s power.",
+    "lets-go-pikachu-lets-go-eevee": "The user hurls an electric orb at the target. The\nfaster the user is than the target, the greater the\nmove’s power.",
+    "sword-shield": "The user hurls an electric orb at the target. The\nfaster the user is than the target, the greater the\nmove’s power."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  The greater the user's Speed compared to the target's, the higher power this move has, to a maximum of 150.\n\nUser's Speed                     | Power\n-------------------------------- | ----:\nUp to 2× the target's Speed      |    60\nUp to 3× the target's Speed      |    80\nUp to 4× the target's Speed      |   120\nMore than 4× the target's Speed  |   150\n",
+    "shortEffect": "Power is higher when the user has greater Speed than the target, up to a maximum of 150."
+  },
+  "priority": 0
+}

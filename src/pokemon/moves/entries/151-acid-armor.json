@@ -1,0 +1,47 @@
+{
+  "_id": 151,
+  "key": "acid-armor",
+  "name": {
+    "english": "Acid Armor",
+    "japanese": "とける",
+    "chinese": "溶化",
+    "korean": "녹기",
+    "german": "Armadura Ácida",
+    "french": "Säurepanzer",
+    "italian": "Acid Armor",
+    "spanish": "Scudo Acido"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": "Tough",
+  "pp": 20,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 1,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "gold-silver": "Sharply raises the\nuser's DEFENSE.",
+    "crystal": "Sharply raises the\nuser's DEFENSE.",
+    "ruby-sapphire": "Liquifies the user’s body\nto sharply raise DEFENSE.",
+    "emerald": "Liquifies the user’s body\nto sharply raise DEFENSE.",
+    "firered-leafgreen": "The user alters its\ncells to liquefy\nitself and sharply\nraise DEFENSE.",
+    "diamond-pearl": "The user alters its\ncellular structure to\nliquefy itself,\nsharply raising its\nDefense stat.",
+    "platinum": "The user alters its\ncellular structure to\nliquefy itself,\nsharply raising its\nDefense stat.",
+    "heartgold-soulsilver": "The user alters its\ncellular structure to\nliquefy itself,\nsharply raising its\nDefense stat.",
+    "black-white": "The user alters its cellular structure to\nliquefy itself, sharply raising its\nDefense stat.",
+    "black-2-white-2": "The user alters its cellular structure to\nliquefy itself, sharply raising its\nDefense stat.",
+    "x-y": "The user alters its cellular structure to\nliquefy itself, sharply raising its\nDefense stat.",
+    "omega-ruby-alpha-sapphire": "The user alters its cellular structure to\nliquefy itself, sharply raising its\nDefense stat.",
+    "sun-moon": "The user alters its cellular structure to liquefy itself,\nsharply raising its Defense stat.",
+    "ultra-sun-ultra-moon": "The user alters its cellular structure to liquefy itself,\nsharply raising its Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user alters its cellular structure to liquefy itself,\nsharply raising its Defense stat.",
+    "sword-shield": "The user alters its cellular structure to liquefy itself,\nsharply raising its Defense stat."
+  },
+  "effect": {
+    "full": "Raises the user's Defense by two stages.",
+    "shortEffect": "Raises the user's Defense by two stages."
+  },
+  "priority": 0
+}

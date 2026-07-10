@@ -1,0 +1,22 @@
+{
+  "_id": 875,
+  "key": "psyblade",
+  "name": {
+    "english": "Psyblade"
+  },
+  "type": "Psychic",
+  "category": "Physical",
+  "contest": null,
+  "pp": 15,
+  "power": 80,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 9,
+  "target": "Selected-pokemon",
+  "changes": [],
+  "description": {},
+  "effect": {
+    "full": "Psyblade deals damage, and its power is boosted by 50% on Electric Terrain.",
+    "shortEffect": "Power increases on Electric Terrain."
+  }
+}

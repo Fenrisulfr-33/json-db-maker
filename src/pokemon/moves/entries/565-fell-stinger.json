@@ -1,0 +1,37 @@
+{
+  "_id": 565,
+  "key": "fell-stinger",
+  "name": {
+    "english": "Fell Stinger",
+    "japanese": "とどめばり",
+    "chinese": "击倒针刺",
+    "korean": "마지막일침",
+    "german": "Aguijón Letal",
+    "french": "Stachelfinale",
+    "italian": "Fell Stinger",
+    "spanish": "Pungiglione"
+  },
+  "type": "Bug",
+  "category": "Physical",
+  "contest": null,
+  "pp": 25,
+  "power": 30,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 6,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "x-y": "When the user knocks out a target\nwith this move, the user’s Attack stat\nrises sharply.",
+    "omega-ruby-alpha-sapphire": "When the user knocks out a target\nwith this move, the user’s Attack stat\nrises sharply.",
+    "sun-moon": "When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically.",
+    "ultra-sun-ultra-moon": "When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically.",
+    "lets-go-pikachu-lets-go-eevee": "When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically.",
+    "sword-shield": "When the user knocks out a target with this move,\nthe user’s Attack stat rises drastically."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Raises the user's Attack by two stages if it KOs the target.",
+    "shortEffect": "Raises the user's Attack by two stages if it KOs the target."
+  },
+  "priority": 0
+}

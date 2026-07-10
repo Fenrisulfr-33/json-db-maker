@@ -1,0 +1,47 @@
+{
+  "_id": 50,
+  "key": "disable",
+  "name": {
+    "english": "Disable",
+    "japanese": "かなしばり",
+    "chinese": "石化功",
+    "korean": "사슬묶기",
+    "german": "Anulación",
+    "french": "Aussetzer",
+    "italian": "Disable",
+    "spanish": "Inibitore"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 20,
+  "power": null,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "For four turns, this move prevents the target from\nusing the move it last used.",
+    "gold-silver": "Disables the foe's\nmost recent move.",
+    "crystal": "Disables the foe's\nmost recent move.",
+    "ruby-sapphire": "Psychically disables one of\nthe foe’s moves.",
+    "emerald": "Psychically disables one of\nthe foe’s moves.",
+    "firered-leafgreen": "For a few turns,\nit prevents the foe\nfrom using the move\nit last used.",
+    "diamond-pearl": "For several turns,\nthis move prevents\nthe foe from using\nthe move it last\nused.",
+    "platinum": "For several turns,\nthis move prevents\nthe foe from using\nthe move it last\nused.",
+    "heartgold-soulsilver": "For several turns,\nthis move prevents\nthe foe from using\nthe move it last\nused.",
+    "black-white": "For four turns, this move prevents the\ntarget from using the move it last used.",
+    "black-2-white-2": "For four turns, this move prevents the\ntarget from using the move it last used.",
+    "x-y": "For four turns, this move prevents the\ntarget from using the move it last used.",
+    "omega-ruby-alpha-sapphire": "For four turns, this move prevents the\ntarget from using the move it last used.",
+    "sun-moon": "For four turns, this move prevents the target from\nusing the move it last used.",
+    "lets-go-pikachu-lets-go-eevee": "For four turns, this move prevents the target from\nusing the move it last used.",
+    "sword-shield": "For four turns, this move prevents the target from\nusing the move it last used."
+  },
+  "effect": {
+    "full": "Disables the target's last used move, preventing its use for 4–7 turns, selected at random, or until the target leaves the field.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed,  if its last used move has 0 PP remaining, or if it already has a move disabled, this move will fail.",
+    "shortEffect": "Disables the target's last used move for 1-8 turns."
+  },
+  "priority": 0
+}

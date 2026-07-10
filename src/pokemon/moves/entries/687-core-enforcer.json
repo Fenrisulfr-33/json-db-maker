@@ -1,0 +1,35 @@
+{
+  "_id": 687,
+  "key": "core-enforcer",
+  "name": {
+    "english": "Core Enforcer",
+    "japanese": "コアパニッシャー",
+    "chinese": "核心懲罰者",
+    "korean": "코어퍼니셔",
+    "german": "Núcleo Castigo",
+    "french": "Sanktionskern",
+    "italian": "Core Enforcer",
+    "spanish": "Nucleocastigo"
+  },
+  "type": "Dragon",
+  "category": "Special",
+  "contest": null,
+  "pp": 10,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "sun-moon": "If the Pokémon the user has inflicted damage on\nhave already used their moves, this move eliminates\nthe effect of the target’s Ability.",
+    "ultra-sun-ultra-moon": "If the Pokémon the user has inflicted damage on\nhave already used their moves, this move eliminates\nthe effect of the target’s Ability.",
+    "lets-go-pikachu-lets-go-eevee": "If the Pokémon the user has inflicted damage on\nhave already used their moves, this move eliminates\nthe effect of the target’s Ability.",
+    "sword-shield": "If the Pokémon the user has inflicted damage on\nhave already used their moves, this move eliminates\nthe effect of the target’s Ability."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target has already moved this turn, its ability is nullified.",
+    "shortEffect": "Nullifies the target's ability if it moves earlier."
+  },
+  "priority": 0
+}

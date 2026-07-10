@@ -1,0 +1,45 @@
+{
+  "_id": 320,
+  "key": "grass-whistle",
+  "name": {
+    "english": "Grass Whistle",
+    "japanese": "くさぶえ",
+    "chinese": "草笛魔音",
+    "korean": "풀피리",
+    "german": "Silbato",
+    "french": "Grasflöte",
+    "italian": "Grass Whistle",
+    "spanish": "Meloderba"
+  },
+  "type": "Grass",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 15,
+  "power": null,
+  "accuracy": 55,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Lulls the foe into sleep\nwith a pleasant melody.",
+    "emerald": "Lulls the foe into sleep\nwith a pleasant melody.",
+    "firered-leafgreen": "A pleasant melody\nis played to lull\nthe foe into a deep\nsleep.",
+    "diamond-pearl": "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n",
+    "platinum": "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n",
+    "heartgold-soulsilver": "The user plays a\npleasant melody that\nlulls the foe into a\ndeep sleep.\n",
+    "black-white": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+    "black-2-white-2": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+    "x-y": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+    "omega-ruby-alpha-sapphire": "The user plays a pleasant melody that\nlulls the target into a deep sleep.",
+    "sun-moon": "The user plays a pleasant melody that lulls the\ntarget into a deep sleep.",
+    "ultra-sun-ultra-moon": "The user plays a pleasant melody that lulls the\ntarget into a deep sleep.",
+    "lets-go-pikachu-lets-go-eevee": "The user plays a pleasant melody that lulls the\ntarget into a deep sleep.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Puts the target to sleep.",
+    "shortEffect": "Puts the target to sleep."
+  },
+  "priority": 0
+}

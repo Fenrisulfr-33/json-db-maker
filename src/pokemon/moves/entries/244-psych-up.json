@@ -1,0 +1,47 @@
+{
+  "_id": 244,
+  "key": "psych-up",
+  "name": {
+    "english": "Psych Up",
+    "japanese": "じこあんじ",
+    "chinese": "自我暗示",
+    "korean": "자기암시",
+    "german": "Más Psique",
+    "french": "Psycho-Plus",
+    "italian": "Psych Up",
+    "spanish": "Psicamisù"
+  },
+  "type": "Normal",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 2,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Copies the foe's\nstat changes.",
+    "crystal": "Copies the foe's\nstat changes.",
+    "ruby-sapphire": "Copies the foe’s effect(s)\nand gives to the user.",
+    "emerald": "Copies the foe’s effect(s)\nand gives to the user.",
+    "firered-leafgreen": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.",
+    "diamond-pearl": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n",
+    "platinum": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n",
+    "heartgold-soulsilver": "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.\n",
+    "black-white": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+    "black-2-white-2": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+    "x-y": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+    "omega-ruby-alpha-sapphire": "The user hypnotizes itself into\ncopying any stat change made\nby the target.",
+    "sun-moon": "The user hypnotizes itself into copying any stat\nchange made by the target.",
+    "ultra-sun-ultra-moon": "The user hypnotizes itself into copying any stat\nchange made by the target.",
+    "lets-go-pikachu-lets-go-eevee": "The user hypnotizes itself into copying any stat\nchange made by the target.",
+    "sword-shield": "The user hypnotizes itself into copying any stat\nchange made by the target."
+  },
+  "effect": {
+    "full": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror move.",
+    "shortEffect": "Discards the user's stat changes and copies the target's."
+  },
+  "priority": 0
+}

@@ -1,0 +1,37 @@
+{
+  "_id": 59,
+  "key": "forecast",
+  "name": {
+    "english": "Forecast"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Changes castform's type and form to match the weather.",
+    "full": "During rain, strong sunlight, or hail, this Pokémon's type changes to water, fire, or ice, respectively, and its form changes to match. This ability has no effect for any Pokémon other than castform. If the weather ends or becomes anything that does not trigger this ability, or a Pokémon with air lock or cloud nine enters battle, this Pokémon's type and form revert to their default. If this ability is lost or disabled, this Pokémon cannot change its current type and form until it regains its ability."
+  },
+  "description": {
+    "ruby-sapphire": "Changes with the weather.",
+    "emerald": "Changes with the weather.",
+    "firered-leafgreen": "Changes with the weather.",
+    "diamond-pearl": "CASTFORM transforms with the weather.",
+    "platinum": "CASTFORM transforms with the weather.",
+    "heartgold-soulsilver": "CASTFORM transforms with the weather.",
+    "black-white": "Castform transforms with the weather.",
+    "black-2-white-2": "Castform transforms with the weather.",
+    "x-y": "Castform transforms with the weather.",
+    "omega-ruby-alpha-sapphire": "Castform transforms with the weather.",
+    "sun-moon": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.",
+    "ultra-sun-ultra-moon": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.",
+    "sword-shield": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Castform",
+        "id": 351
+      }
+    ],
+    "hidden": []
+  }
+}

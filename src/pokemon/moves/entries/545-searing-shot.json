@@ -1,0 +1,39 @@
+{
+  "_id": 545,
+  "key": "searing-shot",
+  "name": {
+    "english": "Searing Shot",
+    "japanese": "かえんだん",
+    "chinese": "火炎弹",
+    "korean": "화염탄",
+    "german": "Bomba Ígnea",
+    "french": "Flammenball",
+    "italian": "Searing Shot",
+    "spanish": "Sparafuoco"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "all-other-pokemon",
+  "changes": [],
+  "description": {
+    "black-white": "An inferno of scarlet flames torches\neverything around the user. It may\nleave targets with a burn.",
+    "black-2-white-2": "An inferno of scarlet flames torches\neverything around the user. It may\nleave targets with a burn.",
+    "x-y": "The user torches everything around it\nwith an inferno of scarlet flames.\nThis may also leave those hit with a burn.",
+    "omega-ruby-alpha-sapphire": "The user torches everything around it\nwith an inferno of scarlet flames.\nThis may also leave those hit with a burn.",
+    "sun-moon": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
+    "ultra-sun-ultra-moon": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
+    "lets-go-pikachu-lets-go-eevee": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn.",
+    "sword-shield": "The user torches everything around it in an inferno\nof scarlet flames. This may also leave those it hits\nwith a burn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to burn the target.",
+    "shortEffect": "Has a $effect_chance% chance to burn the target."
+  },
+  "priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 439,
+  "key": "rock-wrecker",
+  "name": {
+    "english": "Rock Wrecker",
+    "japanese": "がんせきほう",
+    "chinese": "岩石炮",
+    "korean": "암석포",
+    "german": "Romperrocas",
+    "french": "Felswerfer",
+    "italian": "Rock Wrecker",
+    "spanish": "Devastomasso"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 5,
+  "power": 150,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user launches a\nhuge boulder at the\nfoe to attack.\nIt must rest on the\nnext turn, however.",
+    "platinum": "The user launches a\nhuge boulder at the\nfoe to attack.\nIt must rest on the\nnext turn, however.",
+    "heartgold-soulsilver": "The user launches a\nhuge boulder at the\nfoe to attack.\nIt must rest on the\nnext turn, however.",
+    "black-white": "The user launches a huge boulder at the\ntarget to attack. It must rest on the\nnext turn, however.",
+    "black-2-white-2": "The user launches a huge boulder at the\ntarget to attack. It must rest on the\nnext turn, however.",
+    "x-y": "The user launches a huge boulder at the\ntarget to attack.\nThe user can’t move on the next turn.",
+    "omega-ruby-alpha-sapphire": "The user launches a huge boulder at the\ntarget to attack.\nThe user can’t move on the next turn.",
+    "sun-moon": "The user launches a huge boulder at the target to\nattack. The user can’t move on the next turn.",
+    "ultra-sun-ultra-moon": "The user launches a huge boulder at the target to\nattack. The user can’t move on the next turn.",
+    "lets-go-pikachu-lets-go-eevee": "The user launches a huge boulder at the target to\nattack. The user can’t move on the next turn.",
+    "sword-shield": "The user launches a huge boulder at the target to\nattack. The user can’t move on the next turn."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+    "shortEffect": "User foregoes its next turn to recharge."
+  },
+  "priority": 0
+}

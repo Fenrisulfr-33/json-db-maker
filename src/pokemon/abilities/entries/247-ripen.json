@@ -1,0 +1,29 @@
+{
+  "_id": 247,
+  "key": "ripen",
+  "name": {
+    "english": "Ripen"
+  },
+  "generation": 8,
+  "effect": {},
+  "description": {
+    "sword-shield": "Ripens Berries and doubles their effect."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Applin",
+        "id": 840
+      },
+      {
+        "name": "Flapple",
+        "id": 841
+      },
+      {
+        "name": "Appletun",
+        "id": 842
+      }
+    ],
+    "hidden": []
+  }
+}

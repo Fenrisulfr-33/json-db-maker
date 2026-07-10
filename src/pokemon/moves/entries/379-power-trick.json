@@ -1,0 +1,42 @@
+{
+  "_id": 379,
+  "key": "power-trick",
+  "name": {
+    "english": "Power Trick",
+    "japanese": "パワートリック",
+    "chinese": "能量骗术",
+    "korean": "파워트릭",
+    "german": "Truco Fuerza",
+    "french": "Krafttrick",
+    "italian": "Power Trick",
+    "spanish": "Ingannoforza"
+  },
+  "type": "Psychic",
+  "category": "Status",
+  "contest": "Cool",
+  "pp": 10,
+  "power": null,
+  "accuracy": null,
+  "contact": null,
+  "generation": 4,
+  "target": "user",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.",
+    "platinum": "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.",
+    "heartgold-soulsilver": "The user employs its\npsychic power to\nswitch its Attack\nwith its Defense\nstat.",
+    "black-white": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+    "black-2-white-2": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+    "x-y": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+    "omega-ruby-alpha-sapphire": "The user employs its psychic power to\nswitch its Attack with its Defense stat.",
+    "sun-moon": "The user employs its psychic power to switch its\nAttack stat with its Defense stat.",
+    "ultra-sun-ultra-moon": "The user employs its psychic power to switch its\nAttack stat with its Defense stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user employs its psychic power to switch its\nAttack stat with its Defense stat.",
+    "sword-shield": "The user employs its psychic power to switch its\nAttack stat with its Defense stat."
+  },
+  "effect": {
+    "full": "The user's original Attack and Defense are swapped.\n\nThis effect is passed on by baton pass.",
+    "shortEffect": "User swaps Attack and Defense."
+  },
+  "priority": 0
+}

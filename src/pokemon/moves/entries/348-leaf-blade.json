@@ -1,0 +1,45 @@
+{
+  "_id": 348,
+  "key": "leaf-blade",
+  "name": {
+    "english": "Leaf Blade",
+    "japanese": "リーフブレード",
+    "chinese": "刀叶",
+    "korean": "리프블레이드",
+    "german": "Hoja Aguda",
+    "french": "Laubklinge",
+    "italian": "Leaf Blade",
+    "spanish": "Fendifoglia"
+  },
+  "type": "Grass",
+  "category": "Physical",
+  "contest": "Cool",
+  "pp": 15,
+  "power": 90,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Slashes with a sharp leaf.\nHigh critical-hit ratio.",
+    "emerald": "Slashes with a sharp leaf.\nHigh critical-hit ratio.",
+    "firered-leafgreen": "The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.",
+    "diamond-pearl": "The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.\n",
+    "platinum": "The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.\n",
+    "heartgold-soulsilver": "The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.\n",
+    "black-white": "The user handles a sharp leaf like a\nsword and attacks by cutting its target.\nCritical hits land more easily.",
+    "black-2-white-2": "The user handles a sharp leaf like a\nsword and attacks by cutting its target.\nCritical hits land more easily.",
+    "x-y": "The user handles a sharp leaf like a\nsword and attacks by cutting its target.\nCritical hits land more easily.",
+    "omega-ruby-alpha-sapphire": "The user handles a sharp leaf like a\nsword and attacks by cutting its target.\nCritical hits land more easily.",
+    "sun-moon": "The user handles a sharp leaf like a sword and\nattacks by cutting its target. Critical hits land\nmore easily.",
+    "ultra-sun-ultra-moon": "The user handles a sharp leaf like a sword and\nattacks by cutting its target. Critical hits land\nmore easily.",
+    "lets-go-pikachu-lets-go-eevee": "The user handles a sharp leaf like a sword and\nattacks by cutting its target. Critical hits land\nmore easily.",
+    "sword-shield": "The user handles a sharp leaf like a sword and\nattacks by cutting its target. Critical hits land\nmore easily."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.",
+    "shortEffect": "Has an increased chance for a critical hit."
+  },
+  "priority": 0
+}

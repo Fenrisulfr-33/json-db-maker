@@ -1,0 +1,47 @@
+{
+  "_id": 118,
+  "key": "honey-gather",
+  "name": {
+    "english": "Honey Gather"
+  },
+  "generation": 4,
+  "effect": {
+    "shortEffect": "The Pokémon may pick up honey after battle.",
+    "full": "This Pokémon has a chance of picking up honey after each battle. This chance starts at 5% and rises another 5% after every tenth level: 5% from level 1–10, 10% from 11–20, and so on, up to 50% from 91–100. This ability is checked after the battle ends, at which point any temporary ability changes have worn off."
+  },
+  "description": {
+    "diamond-pearl": "The Pokémon may gather Honey from somewhere.",
+    "platinum": "The Pokémon may gather Honey from somewhere.",
+    "heartgold-soulsilver": "The Pokémon may gather Honey from somewhere.",
+    "black-white": "The Pokémon may gather Honey from somewhere.",
+    "black-2-white-2": "The Pokémon may gather Honey from somewhere.",
+    "x-y": "The Pokémon may gather Honey from somewhere.",
+    "omega-ruby-alpha-sapphire": "The Pokémon may gather Honey from somewhere.",
+    "sun-moon": "The Pokémon may gather Honey after a battle.",
+    "ultra-sun-ultra-moon": "The Pokémon may gather Honey after a battle.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon may gather Honey after a battle.",
+    "sword-shield": "The Pokémon may gather Honey after a battle."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Combee",
+        "id": 415
+      },
+      {
+        "name": "Cutiefly",
+        "id": 742
+      },
+      {
+        "name": "Ribombee",
+        "id": 743
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Teddiursa",
+        "id": 216
+      }
+    ]
+  }
+}

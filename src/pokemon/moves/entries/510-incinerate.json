@@ -1,0 +1,39 @@
+{
+  "_id": 510,
+  "key": "incinerate",
+  "name": {
+    "english": "Incinerate",
+    "japanese": "やきつくす",
+    "chinese": "烧尽",
+    "korean": "불태우기",
+    "german": "Calcinación",
+    "french": "Einäschern",
+    "italian": "Incinerate",
+    "spanish": "Bruciatutto"
+  },
+  "type": "Fire",
+  "category": "Special",
+  "contest": null,
+  "pp": 15,
+  "power": 60,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 5,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "black-white": "The user attacks the target with fire.\nIf the target is holding a Berry, the\nBerry becomes burnt up and unusable.",
+    "black-2-white-2": "The user attacks the target with fire.\nIf the target is holding a Berry, the\nBerry becomes burnt up and unusable.",
+    "x-y": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+    "omega-ruby-alpha-sapphire": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+    "sun-moon": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+    "ultra-sun-ultra-moon": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable.",
+    "sword-shield": "The user attacks opposing Pokémon with fire.\nIf a Pokémon is holding a certain item, such as a\nBerry, the item becomes burned up and unusable."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move.",
+    "shortEffect": "Destroys the target's held berry."
+  },
+  "priority": 0
+}

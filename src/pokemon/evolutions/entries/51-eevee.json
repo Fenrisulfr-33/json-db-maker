@@ -1,0 +1,80 @@
+{
+  "_id": 51,
+  "evoLine": [
+    [
+      {
+        "id": 133,
+        "name": "Eevee",
+        "type": {
+          "one": "Normal"
+        }
+      },
+      [
+        {
+          "id": 134,
+          "name": "Vaporeon",
+          "type": {
+            "one": "Water"
+          },
+          "how": "use Water Stone"
+        },
+        {
+          "id": 135,
+          "name": "Jolteon",
+          "type": {
+            "one": "Electric"
+          },
+          "how": "use Thunder Stone"
+        },
+        {
+          "id": 136,
+          "name": "Flareon",
+          "type": {
+            "one": "Fire"
+          },
+          "how": "use Fire Stone"
+        },
+        {
+          "id": 196,
+          "name": "Espeon",
+          "type": {
+            "one": "Psychic"
+          },
+          "how": "high Friendship Daytime"
+        },
+        {
+          "id": 197,
+          "name": "Umbreon",
+          "type": {
+            "one": "Dark"
+          },
+          "how": "high Friendship Nighttime"
+        },
+        {
+          "id": 470,
+          "name": "Leafeon",
+          "type": {
+            "one": "Grass"
+          },
+          "how": "use Leaf Stone, or level up near a Mossy Rock"
+        },
+        {
+          "id": 471,
+          "name": "Glaceon",
+          "type": {
+            "one": "Ice"
+          },
+          "how": "use Ice Stone, or level up near an Icy Rock"
+        },
+        {
+          "id": 700,
+          "name": "Sylveon",
+          "type": {
+            "one": "Fairy"
+          },
+          "how": "after Fairy-type move learned, and either high Affection in Gen 6-7 or high Friendship in Gen 8+"
+        }
+      ]
+    ]
+  ]
+}

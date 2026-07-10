@@ -1,0 +1,34 @@
+{
+  "_id": 722,
+  "key": "photon-geyser",
+  "name": {
+    "english": "Photon Geyser",
+    "japanese": "フォトンゲイザー",
+    "chinese": "光子噴湧",
+    "korean": "포톤가이저",
+    "german": "Géiser Fotónico",
+    "french": "Photonen-Geysir",
+    "italian": "Photon Geyser",
+    "spanish": "Geyser Fotonico"
+  },
+  "type": "Psychic",
+  "category": "Special",
+  "contest": null,
+  "pp": 5,
+  "power": 100,
+  "accuracy": 100,
+  "contact": null,
+  "generation": 7,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ultra-sun-ultra-moon": "The user attacks a target with a pillar of light. This\nmove inflicts Attack or Sp. Atk damage—whichever\nstat is higher for the user.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks a target with a pillar of light. This\nmove inflicts Attack or Sp. Atk damage—whichever\nstat is higher for the user.",
+    "sword-shield": "The user attacks a target with a pillar of light. This\nmove inflicts Attack or Sp. Atk damage—whichever\nstat is higher for the user."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

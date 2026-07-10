@@ -1,0 +1,47 @@
+{
+  "_id": 139,
+  "key": "poison-gas",
+  "name": {
+    "english": "Poison Gas",
+    "japanese": "どくガス",
+    "chinese": "毒瓦斯",
+    "korean": "독가스",
+    "german": "Gas Venenoso",
+    "french": "Giftwolke",
+    "italian": "Poison Gas",
+    "spanish": "Velenogas"
+  },
+  "type": "Poison",
+  "category": "Status",
+  "contest": "Smart",
+  "pp": 40,
+  "power": null,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "all-opponents",
+  "changes": [],
+  "description": {
+    "gold-silver": "A move that may\npoison the foe.",
+    "crystal": "A move that may\npoison the foe.",
+    "ruby-sapphire": "Envelops the foe in a toxic\ngas that may poison.",
+    "emerald": "Envelops the foe in a toxic\ngas that may poison.",
+    "firered-leafgreen": "The foe is sprayed\nwith a cloud of\ntoxic gas that may\npoison the foe.",
+    "diamond-pearl": "A cloud of poison gas\nis sprayed in the\nfoe’s face.\nIt may poison the\ntarget.",
+    "platinum": "A cloud of poison gas\nis sprayed in the\nfoe’s face.\nIt may poison the\ntarget.",
+    "heartgold-soulsilver": "A cloud of poison gas\nis sprayed in the\nfoe’s face.\nIt may poison the\ntarget.",
+    "black-white": "A cloud of poison gas is sprayed\nin the face of opposing Pokémon.\nIt may poison those hit.",
+    "black-2-white-2": "A cloud of poison gas is sprayed\nin the face of opposing Pokémon.\nIt may poison those hit.",
+    "x-y": "A cloud of poison gas is sprayed\nin the face of opposing Pokémon.\nThis may also poison those hit.",
+    "omega-ruby-alpha-sapphire": "A cloud of poison gas is sprayed\nin the face of opposing Pokémon.\nThis may also poison those hit.",
+    "sun-moon": "A cloud of poison gas is sprayed in the face of\nopposing Pokémon, poisoning those hit.",
+    "ultra-sun-ultra-moon": "A cloud of poison gas is sprayed in the face of\nopposing Pokémon, poisoning those hit.",
+    "lets-go-pikachu-lets-go-eevee": "A cloud of poison gas is sprayed in the face of\nopposing Pokémon, poisoning those it hits.",
+    "sword-shield": "A cloud of poison gas is sprayed in the face of\nopposing Pokémon, poisoning those it hits."
+  },
+  "effect": {
+    "full": "Poisons the target.",
+    "shortEffect": "Poisons the target."
+  },
+  "priority": 0
+}

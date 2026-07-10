@@ -1,0 +1,45 @@
+{
+  "_id": 341,
+  "key": "mud-shot",
+  "name": {
+    "english": "Mud Shot",
+    "japanese": "マッドショット",
+    "chinese": "泥巴射击",
+    "korean": "머드숏",
+    "german": "Disparo Lodo",
+    "french": "Lehmschuss",
+    "italian": "Mud Shot",
+    "spanish": "Colpodifango"
+  },
+  "type": "Ground",
+  "category": "Special",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 55,
+  "accuracy": 95,
+  "contact": null,
+  "generation": 3,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "ruby-sapphire": "Hurls mud at the foe and\nreduces SPEED.",
+    "emerald": "Hurls mud at the foe and\nreduces SPEED.",
+    "firered-leafgreen": "The user attacks by\nhurling mud.\nIt also reduces the\nfoe’s SPEED.",
+    "diamond-pearl": "The user attacks by\nhurling a blob of mud\nat the foe.\nIt also reduces the\ntarget’s Speed.",
+    "platinum": "The user attacks by\nhurling a blob of mud\nat the foe.\nIt also reduces the\ntarget’s Speed.",
+    "heartgold-soulsilver": "The user attacks by\nhurling a blob of mud\nat the foe.\nIt also reduces the\ntarget’s Speed.",
+    "black-white": "The user attacks by hurling a blob of mud\nat the target.\nIt also reduces the target’s Speed.",
+    "black-2-white-2": "The user attacks by hurling a blob of mud\nat the target.\nIt also reduces the target’s Speed.",
+    "x-y": "The user attacks by hurling a blob of mud\nat the target.\nThis also lowers the target’s Speed stat.",
+    "omega-ruby-alpha-sapphire": "The user attacks by hurling a blob of mud\nat the target.\nThis also lowers the target’s Speed stat.",
+    "sun-moon": "The user attacks by hurling a blob of mud at the\ntarget. This also lowers the target’s Speed stat.",
+    "ultra-sun-ultra-moon": "The user attacks by hurling a blob of mud at the\ntarget. This also lowers the target’s Speed stat.",
+    "lets-go-pikachu-lets-go-eevee": "The user attacks by hurling a blob of mud at the\ntarget. This also lowers the target’s Speed stat.",
+    "sword-shield": "The user attacks by hurling a blob of mud at the\ntarget. This also lowers the target’s Speed stat."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's Speed by one stage."
+  },
+  "priority": 0
+}

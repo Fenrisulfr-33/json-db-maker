@@ -1,0 +1,47 @@
+{
+  "_id": 88,
+  "key": "rock-throw",
+  "name": {
+    "english": "Rock Throw",
+    "japanese": "いわおとし",
+    "chinese": "滚石",
+    "korean": "돌떨구기",
+    "german": "Lanzarrocas",
+    "french": "Steinwurf",
+    "italian": "Rock Throw",
+    "spanish": "Sassata"
+  },
+  "type": "Rock",
+  "category": "Physical",
+  "contest": "Tough",
+  "pp": 15,
+  "power": 50,
+  "accuracy": 90,
+  "contact": null,
+  "generation": 1,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "gold-silver": "Drops rocks on the\nenemy.",
+    "crystal": "Drops rocks on the\nenemy.",
+    "ruby-sapphire": "Throws small rocks to\nstrike the foe.",
+    "emerald": "Throws small rocks to\nstrike the foe.",
+    "firered-leafgreen": "The foe is attacked\nwith a shower of\nsmall, easily\nthrown rocks.",
+    "diamond-pearl": "The user picks up\nand throws a small\nrock at the foe to\nattack.\n",
+    "platinum": "The user picks up\nand throws a small\nrock at the foe to\nattack.\n",
+    "heartgold-soulsilver": "The user picks up\nand throws a small\nrock at the foe to\nattack.\n",
+    "black-white": "The user picks up and throws a small\nrock at the target to attack.",
+    "black-2-white-2": "The user picks up and throws a small\nrock at the target to attack.",
+    "x-y": "The user picks up and throws a small\nrock at the target to attack.",
+    "omega-ruby-alpha-sapphire": "The user picks up and throws a small\nrock at the target to attack.",
+    "sun-moon": "The user picks up and throws a small rock at the\ntarget to attack.",
+    "ultra-sun-ultra-moon": "The user picks up and throws a small rock at the\ntarget to attack.",
+    "lets-go-pikachu-lets-go-eevee": "The user picks up and throws a small rock at the\ntarget to attack.",
+    "sword-shield": "The user picks up and throws a small rock at the\ntarget to attack."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.",
+    "shortEffect": "Inflicts regular damage with no additional effect."
+  },
+  "priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "_id": 426,
+  "key": "mud-bomb",
+  "name": {
+    "english": "Mud Bomb",
+    "japanese": "どろばくだん",
+    "chinese": "泥巴爆弹",
+    "korean": "진흙폭탄",
+    "german": "Bomba Fango",
+    "french": "Schlammbombe",
+    "italian": "Mud Bomb",
+    "spanish": "Pantanobomba"
+  },
+  "type": "Ground",
+  "category": "Special",
+  "contest": "Smart",
+  "pp": 10,
+  "power": 65,
+  "accuracy": 85,
+  "contact": null,
+  "generation": 4,
+  "target": "selected-pokemon",
+  "changes": [],
+  "description": {
+    "diamond-pearl": "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.",
+    "platinum": "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.",
+    "heartgold-soulsilver": "The user launches a\nhard-packed mud ball\nto attack.\nIt may also lower the\ntarget’s accuracy.",
+    "black-white": "The user launches a hard-packed\nmud ball to attack.\nIt may also lower the target’s accuracy.",
+    "black-2-white-2": "The user launches a hard-packed\nmud ball to attack.\nIt may also lower the target’s accuracy.",
+    "x-y": "The user launches a hard-packed\nmud ball to attack.\nThis may also lower the target’s accuracy.",
+    "omega-ruby-alpha-sapphire": "The user launches a hard-packed\nmud ball to attack.\nThis may also lower the target’s accuracy.",
+    "sun-moon": "The user launches a hard-packed mud ball to attack.\nThis may also lower the target’s accuracy.",
+    "ultra-sun-ultra-moon": "The user launches a hard-packed mud ball to attack.\nThis may also lower the target’s accuracy.",
+    "lets-go-pikachu-lets-go-eevee": "The user launches a hard-packed mud ball to attack.\nThis may also lower the target’s accuracy.",
+    "sword-shield": "This move can’t be used.\nIt’s recommended that this move is forgotten.\nOnce forgotten, this move can’t be remembered."
+  },
+  "effect": {
+    "full": "Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage.",
+    "shortEffect": "Has a $effect_chance% chance to lower the target's accuracy by one stage."
+  },
+  "priority": 0
+}

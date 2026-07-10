@@ -1,0 +1,102 @@
+{
+  "_id": 31,
+  "key": "lightning-rod",
+  "name": {
+    "english": "Lightning Rod"
+  },
+  "generation": 3,
+  "effect": {
+    "shortEffect": "Redirects single-target electric moves to this Pokémon where possible. Absorbs Electric moves, raising Special Attack one stage.",
+    "full": "All other Pokémon's single-target electric-type moves are redirected to this Pokémon if it is an eligible target. Other Pokémon's Electric moves raise this Pokémon's Special Attack one stage, negating any other effect on it, and cannot miss it. If the move's intended target also has this ability, the move is not redirected. When multiple Pokémon with this ability are possible targets for redirection, the move is redirected to the one with the highest Speed stat, or, in the case of a tie, to a random tied Pokémon. follow me takes precedence over this ability. If the Pokémon is a ground-type and thus immune to Electric moves, its immunity prevents the Special Attack boost."
+  },
+  "description": {
+    "firered-leafgreen": "Draws electrical moves.",
+    "diamond-pearl": "The Pokémon draws in all Electric-type moves.",
+    "platinum": "The Pokémon draws in all Electric-type moves.",
+    "heartgold-soulsilver": "The Pokémon draws in all Electric-type moves.",
+    "ruby-sapphire": "Draws electrical moves.",
+    "emerald": "Draws electrical moves.",
+    "black-white": "Draws in all Electric-type moves to up Sp. Attack.",
+    "black-2-white-2": "Draws in all Electric-type moves to up Sp. Attack.",
+    "x-y": "Draws in all Electric-type moves to boost its Sp. Atk stat.",
+    "omega-ruby-alpha-sapphire": "Draws in all Electric-type moves to boost its Sp. Atk stat.",
+    "sun-moon": "The Pokémon draws in all Electric-type moves.  Instead of being hit by Electric-type moves,  it boosts its Sp. Atk.",
+    "ultra-sun-ultra-moon": "The Pokémon draws in all Electric-type moves.  Instead of being hit by Electric-type moves,  it boosts its Sp. Atk.",
+    "lets-go-pikachu-lets-go-eevee": "The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk.",
+    "sword-shield": "The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Cubone",
+        "id": 104
+      },
+      {
+        "name": "Marowak",
+        "id": 105
+      },
+      {
+        "name": "Rhyhorn",
+        "id": 111
+      },
+      {
+        "name": "Rhydon",
+        "id": 112
+      },
+      {
+        "name": "Electrike",
+        "id": 309
+      },
+      {
+        "name": "Manectric",
+        "id": 310
+      },
+      {
+        "name": "Rhyperior",
+        "id": 464
+      },
+      {
+        "name": "Blitzle",
+        "id": 522
+      },
+      {
+        "name": "Zebstrika",
+        "id": 523
+      },
+      {
+        "name": "Togedemaru",
+        "id": 777
+      },
+      {
+        "name": "Pincurchin",
+        "id": 871
+      }
+    ],
+    "hidden": [
+      {
+        "name": "Pikachu",
+        "id": 25
+      },
+      {
+        "name": "Raichu",
+        "id": 26
+      },
+      {
+        "name": "Goldeen",
+        "id": 118
+      },
+      {
+        "name": "Seaking",
+        "id": 119
+      },
+      {
+        "name": "Pichu",
+        "id": 172
+      },
+      {
+        "name": "Plusle",
+        "id": 311
+      }
+    ]
+  }
+}

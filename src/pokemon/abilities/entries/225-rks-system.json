@@ -1,0 +1,27 @@
+{
+  "_id": 225,
+  "key": "rks-system",
+  "name": {
+    "english": "RKS System"
+  },
+  "generation": 7,
+  "effect": {
+    "shortEffect": "Changes this Pokémon's type to match its held Memory.",
+    "full": "Changes this Pokémon's type to match its held Memory. This ability cannot be copied, replaced, or nullified. This ability only takes effect for Silvally."
+  },
+  "description": {
+    "sun-moon": "Changes the Pokémon’s type to match the memory disc it holds.",
+    "ultra-sun-ultra-moon": "Changes the Pokémon’s type to match the memory disc it holds.",
+    "lets-go-pikachu-lets-go-eevee": "Changes the Pokémon’s type to match the memory disc it holds.",
+    "sword-shield": "Changes the Pokémon’s type to match the memory disc it holds."
+  },
+  "pokemonWithAbility": {
+    "normal": [
+      {
+        "name": "Silvally",
+        "id": 773
+      }
+    ],
+    "hidden": []
+  }
+}
