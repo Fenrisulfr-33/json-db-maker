@@ -1,0 +1,137 @@
+{
+  "_id": 116,
+  "name": {
+    "english": "Yowlar"
+  },
+  "types": [
+    "Neutral"
+  ],
+  "stats": {
+    "hp": 81,
+    "sta": 71,
+    "spd": 40,
+    "atk": 74,
+    "def": 77,
+    "spatk": 50,
+    "spdef": 70,
+    "total": 463
+  },
+  "traits": [
+    "Comebacker",
+    "Warm-Blooded"
+  ],
+  "details": {
+    "height": {
+      "cm": 230,
+      "inches": 90
+    },
+    "weight": {
+      "kg": 400,
+      "lbs": 882
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Charge",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Fierce Claw",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Clinch",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Late Torment",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Savage Suplex",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Oshi-Dashi",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Hibernate",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Winter Call",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Ice Cubes",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toughen",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Barafu Glacier",
+      "place": "Barafu Glacier",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "5%",
+      "level": "52 - 55",
+      "freetem": {
+        "minLevel": 52,
+        "maxLevel": 55,
+        "minPansuns": 176,
+        "maxPansuns": 185
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 75,
+    "female": 25
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "Considered vanishingly rare until Linnaea's work, this lonesome Temtem inhabits the most inaccessible Kilima peaks, where they keep large, fiercely defended hunting ranges."
+}

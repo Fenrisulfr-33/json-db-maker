@@ -1,0 +1,204 @@
+{
+  "_id": 36,
+  "name": {
+    "english": "Nidrasil"
+  },
+  "types": [
+    "Nature",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 77,
+    "sta": 52,
+    "spd": 66,
+    "atk": 84,
+    "def": 77,
+    "spatk": 36,
+    "spdef": 51,
+    "total": 443
+  },
+  "traits": [
+    "Tri-Phytologist",
+    "Tri-Apothecary"
+  ],
+  "details": {
+    "height": {
+      "cm": 178,
+      "inches": 70
+    },
+    "weight": {
+      "kg": 330,
+      "lbs": 727
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Toxic Fang",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Spores",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 36
+      },
+      {
+        "name": "Hallucination",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Cooperation",
+        "source": "Levelling",
+        "levels": 65
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bark Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Narcoleptic Hit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Photosynthesis",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Nidrasil's design was revealed during the naming contest for #035 and #036.",
+    "Nidrasil's name was voted on in the Naming Contest for #035 and #036. The final name won by 94 votes out of the total 824 votes."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 35,
+        "name": "Orphyll",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Affinity",
+          "Apothecary"
+        ],
+        "traitMapping": {
+          "Toxic Affinity": "Tri-Phytologist",
+          "Apothecary": "Tri-Apothecary"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 36,
+        "name": "Nidrasil",
+        "level": 22,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Tri-Phytologist",
+          "Tri-Apothecary"
+        ],
+        "traitMapping": {
+          "Tri-Phytologist": "Tri-Phytologist",
+          "Tri-Apothecary": "Tri-Apothecary"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 35,
+      "name": "Orphyll",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Toxic Affinity",
+        "Apothecary"
+      ],
+      "traitMapping": {
+        "Toxic Affinity": "Tri-Phytologist",
+        "Apothecary": "Tri-Apothecary"
+      }
+    },
+    "to": null,
+    "number": 36,
+    "name": "Nidrasil",
+    "level": 22,
+    "trading": false,
+    "traits": [
+      "Tri-Phytologist",
+      "Tri-Apothecary"
+    ],
+    "traitMapping": {
+      "Tri-Phytologist": "Tri-Phytologist",
+      "Tri-Apothecary": "Tri-Apothecary"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Long considered to be a legend, this species was scientifically verified just decades ago. Temtemologists are still debating how the nervous system of Nidrasil copes with three separate encephalic centers."
+}

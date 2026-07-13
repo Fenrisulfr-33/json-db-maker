@@ -1,0 +1,203 @@
+{
+  "_id": 39,
+  "name": {
+    "english": "Lapinite"
+  },
+  "types": [
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 58,
+    "sta": 31,
+    "spd": 46,
+    "atk": 44,
+    "def": 63,
+    "spatk": 55,
+    "spdef": 56,
+    "total": 353
+  },
+  "traits": [
+    "Scavenger",
+    "Electric Synthesize"
+  ],
+  "details": {
+    "height": {
+      "cm": 90,
+      "inches": 35
+    },
+    "weight": {
+      "kg": 47,
+      "lbs": 103
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Sharp Stabs",
+        "source": "Levelling",
+        "levels": 15
+      }
+    ],
+    "courses": [
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Diamond Fort",
+        "source": "Breeding"
+      },
+      {
+        "name": "Mineral Hail",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Lapinite's design was voted on in the Choose-a-Temtem V3 poll winning over its other possible design by 112 votes out of the total 2796 votes.",
+    "Lapinite's model was revealed during the naming contest for #039."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 39,
+        "name": "Lapinite",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Scavenger",
+          "Electric Synthesize"
+        ],
+        "traitMapping": {
+          "Scavenger": "Mirroring",
+          "Electric Synthesize": "Fainted Curse"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 40,
+        "name": "Azuroc",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mirroring",
+          "Fainted Curse"
+        ],
+        "traitMapping": {
+          "Mirroring": "Channeler",
+          "Fainted Curse": "Wrecked Farewell"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 41,
+        "name": "Zenoreth",
+        "level": 0,
+        "type": "trade",
+        "trading": true,
+        "traits": [
+          "Channeler",
+          "Wrecked Farewell"
+        ],
+        "traitMapping": {
+          "Channeler": "Channeler",
+          "Wrecked Farewell": "Wrecked Farewell"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 40,
+      "name": "Azuroc",
+      "level": 25,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mirroring",
+        "Fainted Curse"
+      ],
+      "traitMapping": {
+        "Mirroring": "Channeler",
+        "Fainted Curse": "Wrecked Farewell"
+      }
+    },
+    "number": 39,
+    "name": "Lapinite",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Scavenger",
+      "Electric Synthesize"
+    ],
+    "traitMapping": {
+      "Scavenger": "Mirroring",
+      "Electric Synthesize": "Fainted Curse"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "85%",
+      "level": "30 - 35",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 35,
+        "minPansuns": 74,
+        "maxPansuns": 83
+      }
+    },
+    {
+      "location": "Gardens of Aztlan",
+      "place": "",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50%",
+      "level": "20 - 30",
+      "freetem": {
+        "minLevel": 20,
+        "maxLevel": 30,
+        "minPansuns": 56,
+        "maxPansuns": 74
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "Extremely common in Tucma, these little creatures are often the first Temtem of every young Quetzaleño. They are cheerful and resistant playmates for toddlers, and it is common practise to lightly file off the edges of their crystals to ensure safety."
+}

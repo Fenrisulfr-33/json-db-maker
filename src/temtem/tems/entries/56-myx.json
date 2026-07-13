@@ -1,0 +1,207 @@
+{
+  "_id": 56,
+  "name": {
+    "english": "Myx"
+  },
+  "types": [
+    "Crystal",
+    "Mental"
+  ],
+  "stats": {
+    "hp": 51,
+    "sta": 59,
+    "spd": 65,
+    "atk": 51,
+    "def": 43,
+    "spatk": 82,
+    "spdef": 80,
+    "total": 431
+  },
+  "traits": [
+    "Puppet Master",
+    "Rejuvenate"
+  ],
+  "details": {
+    "height": {
+      "cm": 243,
+      "inches": 95
+    },
+    "weight": {
+      "kg": 145,
+      "lbs": 319
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Crystallize",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Clinch",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Hallucination",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Crystal Spikes",
+        "source": "Levelling",
+        "levels": 43
+      },
+      {
+        "name": "Pickpocket",
+        "source": "Levelling",
+        "levels": 60
+      },
+      {
+        "name": "Denigrate",
+        "source": "Levelling",
+        "levels": 86
+      }
+    ],
+    "courses": [
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Refresh",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quartz Dirt",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Humiliating Slap",
+        "source": "Breeding"
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 55,
+        "name": "Occlura",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Warm-Blooded",
+          "Scavenger"
+        ],
+        "traitMapping": {
+          "Warm-Blooded": "Puppet Master",
+          "Scavenger": "Rejuvenate"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 56,
+        "name": "Myx",
+        "level": 18,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Puppet Master",
+          "Rejuvenate"
+        ],
+        "traitMapping": {
+          "Puppet Master": "Puppet Master",
+          "Rejuvenate": "Rejuvenate"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 55,
+      "name": "Occlura",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Warm-Blooded",
+        "Scavenger"
+      ],
+      "traitMapping": {
+        "Warm-Blooded": "Puppet Master",
+        "Scavenger": "Rejuvenate"
+      }
+    },
+    "to": null,
+    "number": 56,
+    "name": "Myx",
+    "level": 18,
+    "trading": false,
+    "traits": [
+      "Puppet Master",
+      "Rejuvenate"
+    ],
+    "traitMapping": {
+      "Puppet Master": "Puppet Master",
+      "Rejuvenate": "Rejuvenate"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 60,
+    "female": 40
+  },
+  "catchRate": 81,
+  "hatchMins": 28.8,
+  "description": "The oldest written records in Tucma indicate religious awe of Myx, considered to be embodiments of the \"dark spirits\". Some were considered to be celestial emissaries of Highabove, some evil messengers of Downbelow... but all were feared. With good reason."
+}

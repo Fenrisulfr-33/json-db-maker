@@ -1,0 +1,232 @@
+{
+  "_id": 25,
+  "name": {
+    "english": "Fomu"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 40,
+    "sta": 60,
+    "spd": 40,
+    "atk": 30,
+    "def": 35,
+    "spatk": 65,
+    "spdef": 70,
+    "total": 340
+  },
+  "traits": [
+    "Amphibian",
+    "Hydrologist"
+  ],
+  "details": {
+    "height": {
+      "cm": 58,
+      "inches": 22
+    },
+    "weight": {
+      "kg": 12,
+      "lbs": 26
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Bubbles",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Ice Cubes",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Drill Impact",
+        "source": "Levelling",
+        "levels": 27
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hurricane",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ice Shuriken",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Due to its first appearance as a cropped picture in the competitive set-up screen (top left, under the player avatar), users in the official Discord attempted to draw out the rest of the creature. Among the drawings, a bird with human-like legs became popular, and thus the name \"Legbird\" was coined.",
+    "Fomu was the first Temtem that appeared in the initial concepts that ended up making onto the roster.",
+    "Fomu has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 25,
+        "name": "Fomu",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Amphibian",
+          "Hydrologist"
+        ],
+        "traitMapping": {
+          "Amphibian": "Plethoric",
+          "Hydrologist": "Patient"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 26,
+        "name": "Wiplump",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Plethoric",
+          "Patient"
+        ],
+        "traitMapping": {
+          "Plethoric": "Plethoric",
+          "Patient": "Patient"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 26,
+      "name": "Wiplump",
+      "level": 20,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Plethoric",
+        "Patient"
+      ],
+      "traitMapping": {
+        "Plethoric": "Plethoric",
+        "Patient": "Patient"
+      }
+    },
+    "number": 25,
+    "name": "Fomu",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Amphibian",
+      "Hydrologist"
+    ],
+    "traitMapping": {
+      "Amphibian": "Plethoric",
+      "Hydrologist": "Patient"
+    }
+  },
+  "locations": [
+    {
+      "location": "Windward Fort",
+      "place": "Windward Fort",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10% - 100%",
+      "level": "9 - 14",
+      "freetem": {
+        "minLevel": 9,
+        "maxLevel": 14,
+        "minPansuns": 37,
+        "maxPansuns": 46
+      }
+    },
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "80%",
+      "level": "12 - 15",
+      "freetem": {
+        "minLevel": 12,
+        "maxLevel": 15,
+        "minPansuns": 42,
+        "maxPansuns": 47
+      }
+    },
+    {
+      "location": "Sillaro River",
+      "place": "Sillaro River",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "50% - 100%",
+      "level": "13 - 15",
+      "freetem": {
+        "minLevel": 13,
+        "maxLevel": 15,
+        "minPansuns": 44,
+        "maxPansuns": 47
+      }
+    },
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 47,
+        "maxPansuns": 56
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "These Temtem are known for their capacity to generate vapor, like charming little steam engines. Since that means losing a lot of moisture, this species prefers to remain in the water and use steam jets for propulsion rather than its short legs."
+}

@@ -1,0 +1,211 @@
+{
+  "_id": 71,
+  "name": {
+    "english": "Drakash"
+  },
+  "types": [
+    "Earth",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 64,
+    "sta": 60,
+    "spd": 79,
+    "atk": 57,
+    "def": 45,
+    "spatk": 83,
+    "spdef": 72,
+    "total": 460
+  },
+  "traits": [
+    "Heat Discharge",
+    "Sentinel"
+  ],
+  "details": {
+    "height": {
+      "cm": 165,
+      "inches": 64
+    },
+    "weight": {
+      "kg": 70,
+      "lbs": 154
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Smoldering Kiss",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Burrow",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Sand Storm",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Hellfire",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Flaming Meteorite",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Fiery Soul",
+        "source": "Levelling",
+        "levels": 76
+      },
+      {
+        "name": "Charcoal Wall",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Mud Shower",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Despite Drakash's Tempedia entry suggesting that its bipedalism is the result of human intervention, all Drakash found in the wild (such as through radars) still use the same bipedal posture."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 70,
+        "name": "Pycko",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Tireless"
+        ],
+        "traitMapping": {
+          "Furor": "Heat Discharge",
+          "Tireless": "Sentinel"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 71,
+        "name": "Drakash",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Heat Discharge",
+          "Sentinel"
+        ],
+        "traitMapping": {
+          "Heat Discharge": "Heat Discharge",
+          "Sentinel": "Sentinel"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 70,
+      "name": "Pycko",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Furor",
+        "Tireless"
+      ],
+      "traitMapping": {
+        "Furor": "Heat Discharge",
+        "Tireless": "Sentinel"
+      }
+    },
+    "to": null,
+    "number": 71,
+    "name": "Drakash",
+    "level": 14,
+    "trading": false,
+    "traits": [
+      "Heat Discharge",
+      "Sentinel"
+    ],
+    "traitMapping": {
+      "Heat Discharge": "Heat Discharge",
+      "Sentinel": "Sentinel"
+    }
+  },
+  "locations": [
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "30%",
+      "level": "45 - 50",
+      "freetem": {
+        "minLevel": 45,
+        "maxLevel": 50,
+        "minPansuns": 142,
+        "maxPansuns": 155
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Selective breeding for bipedalism meant this variety of Temtem is faster and more suited for human tasks than its predecessors. Often given as a New Year's gift between Kisiwans and Tucmani."
+}

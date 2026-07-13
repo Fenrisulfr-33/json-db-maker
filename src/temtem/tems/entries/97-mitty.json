@@ -1,0 +1,187 @@
+{
+  "_id": 97,
+  "name": {
+    "english": "Mitty"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 40,
+    "sta": 46,
+    "spd": 50,
+    "atk": 80,
+    "def": 75,
+    "spatk": 42,
+    "spdef": 61,
+    "total": 394
+  },
+  "traits": [
+    "Soft Touch",
+    "Skull Helmet"
+  ],
+  "details": {
+    "height": {
+      "cm": 40,
+      "inches": 15
+    },
+    "weight": {
+      "kg": 8,
+      "lbs": 17
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Bamboozle",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 38
+      }
+    ],
+    "courses": [
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Paralyzing Poison",
+        "source": "Breeding"
+      },
+      {
+        "name": "Strangle",
+        "source": "Breeding"
+      },
+      {
+        "name": "Time Split",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 97,
+        "name": "Mitty",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Soft Touch",
+          "Skull Helmet"
+        ],
+        "traitMapping": {
+          "Soft Touch": "Dozing Hit",
+          "Skull Helmet": "Inner Shield"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 98,
+        "name": "Sanbi",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Dozing Hit",
+          "Inner Shield"
+        ],
+        "traitMapping": {
+          "Dozing Hit": "Dozing Hit",
+          "Inner Shield": "Inner Shield"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 98,
+      "name": "Sanbi",
+      "level": 15,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Dozing Hit",
+        "Inner Shield"
+      ],
+      "traitMapping": {
+        "Dozing Hit": "Dozing Hit",
+        "Inner Shield": "Inner Shield"
+      }
+    },
+    "number": 97,
+    "name": "Mitty",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Soft Touch",
+      "Skull Helmet"
+    ],
+    "traitMapping": {
+      "Soft Touch": "Dozing Hit",
+      "Skull Helmet": "Inner Shield"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mac Aed's Crags",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "80% - 100%",
+      "level": "62 - 70",
+      "freetem": {
+        "minLevel": 62,
+        "maxLevel": 70,
+        "minPansuns": 160,
+        "maxPansuns": 178
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Often derided by Lochburgian tamers as a \"typically Propertonian cuteboi that packs no punch!\", Mitty are gentle and curious Temtem, but also fast learners and extremely effective in the hands of an experienced tamer."
+}

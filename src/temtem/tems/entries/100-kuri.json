@@ -1,0 +1,212 @@
+{
+  "_id": 100,
+  "name": {
+    "english": "Kuri"
+  },
+  "types": [
+    "Earth"
+  ],
+  "stats": {
+    "hp": 52,
+    "sta": 30,
+    "spd": 52,
+    "atk": 60,
+    "def": 58,
+    "spatk": 35,
+    "spdef": 31,
+    "total": 318
+  },
+  "traits": [
+    "Camaraderie",
+    "Callosity"
+  ],
+  "details": {
+    "height": {
+      "cm": 100,
+      "inches": 39
+    },
+    "weight": {
+      "kg": 65,
+      "lbs": 143
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Burrow",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Clay Ball",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Sand Storm",
+        "source": "Levelling",
+        "levels": 22
+      }
+    ],
+    "courses": [
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Earthbreaker",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toughen",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 100,
+        "name": "Kuri",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Callosity"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Scavenger",
+          "Callosity": "Skull Helmet"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 101,
+        "name": "Kauren",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Scavenger",
+          "Skull Helmet"
+        ],
+        "traitMapping": {
+          "Scavenger": "Scavenger",
+          "Skull Helmet": "Skull Helmet"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 101,
+      "name": "Kauren",
+      "level": 16,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Scavenger",
+        "Skull Helmet"
+      ],
+      "traitMapping": {
+        "Scavenger": "Scavenger",
+        "Skull Helmet": "Skull Helmet"
+      }
+    },
+    "number": 100,
+    "name": "Kuri",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Camaraderie",
+      "Callosity"
+    ],
+    "traitMapping": {
+      "Camaraderie": "Scavenger",
+      "Callosity": "Skull Helmet"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mawingu Islets",
+      "place": "Mawingu Islets",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "50%",
+      "level": "33 - 39",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 39,
+        "minPansuns": 89,
+        "maxPansuns": 101
+      }
+    },
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "40%",
+      "level": "35 - 39",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 39,
+        "minPansuns": 93,
+        "maxPansuns": 101
+      }
+    },
+    {
+      "location": "Kwea Uplands",
+      "place": "Kwea Uplands",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 80%",
+      "level": "40 - 44",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 44,
+        "minPansuns": 104,
+        "maxPansuns": 112
+      }
+    },
+    {
+      "location": "Matope Road",
+      "place": "Matope Road",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "25% - 30%",
+      "level": "42 - 47",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 47,
+        "minPansuns": 108,
+        "maxPansuns": 118
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 130,
+  "hatchMins": 19,
+  "description": "Another great example of adaptation to the environment, these little Temtem select and carve rocks to use as protection for their heads and snouts."
+}

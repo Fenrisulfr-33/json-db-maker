@@ -1,0 +1,226 @@
+{
+  "_id": 40,
+  "name": {
+    "english": "Azuroc"
+  },
+  "types": [
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 64,
+    "sta": 34,
+    "spd": 50,
+    "atk": 58,
+    "def": 69,
+    "spatk": 60,
+    "spdef": 62,
+    "total": 397
+  },
+  "traits": [
+    "Mirroring",
+    "Fainted Curse"
+  ],
+  "details": {
+    "height": {
+      "cm": 203,
+      "inches": 79
+    },
+    "weight": {
+      "kg": 95,
+      "lbs": 209
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Sharp Stabs",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Madness Buff",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Crystal Spikes",
+        "source": "Levelling",
+        "levels": 44
+      }
+    ],
+    "courses": [
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sharpening",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Diamond Fort",
+        "source": "Breeding"
+      },
+      {
+        "name": "Mineral Hail",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Azuroc's design was voted on in the Choose-a-Temtem V3 poll winning over its other possible design by 112 votes out of the total 2796 votes."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 39,
+        "name": "Lapinite",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Scavenger",
+          "Electric Synthesize"
+        ],
+        "traitMapping": {
+          "Scavenger": "Mirroring",
+          "Electric Synthesize": "Fainted Curse"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 40,
+        "name": "Azuroc",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mirroring",
+          "Fainted Curse"
+        ],
+        "traitMapping": {
+          "Mirroring": "Channeler",
+          "Fainted Curse": "Wrecked Farewell"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 41,
+        "name": "Zenoreth",
+        "level": 0,
+        "type": "trade",
+        "trading": true,
+        "traits": [
+          "Channeler",
+          "Wrecked Farewell"
+        ],
+        "traitMapping": {
+          "Channeler": "Channeler",
+          "Wrecked Farewell": "Wrecked Farewell"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 39,
+      "name": "Lapinite",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Scavenger",
+        "Electric Synthesize"
+      ],
+      "traitMapping": {
+        "Scavenger": "Mirroring",
+        "Electric Synthesize": "Fainted Curse"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 41,
+      "name": "Zenoreth",
+      "level": 0,
+      "type": "trade",
+      "trading": true,
+      "traits": [
+        "Channeler",
+        "Wrecked Farewell"
+      ],
+      "traitMapping": {
+        "Channeler": "Channeler",
+        "Wrecked Farewell": "Wrecked Farewell"
+      }
+    },
+    "number": 40,
+    "name": "Azuroc",
+    "level": 25,
+    "trading": false,
+    "traits": [
+      "Mirroring",
+      "Fainted Curse"
+    ],
+    "traitMapping": {
+      "Mirroring": "Channeler",
+      "Fainted Curse": "Wrecked Farewell"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "5%",
+      "level": "32 - 38",
+      "freetem": {
+        "minLevel": 32,
+        "maxLevel": 38,
+        "minPansuns": 99,
+        "maxPansuns": 114
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 110,
+  "hatchMins": 23,
+  "description": "This Temtem is a common sight in the Mines of Quetzal, where miners appreciate their skill when dislodging big chunks of ore and gemstones. Its correct and expert handling is a professional requisite for most of them."
+}

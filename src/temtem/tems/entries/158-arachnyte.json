@@ -1,0 +1,162 @@
+{
+  "_id": 158,
+  "name": {
+    "english": "Arachnyte"
+  },
+  "types": [
+    "Neutral",
+    "Digital"
+  ],
+  "stats": {
+    "hp": 71,
+    "sta": 55,
+    "spd": 42,
+    "atk": 64,
+    "def": 55,
+    "spatk": 79,
+    "spdef": 74,
+    "total": 440
+  },
+  "traits": [
+    "Digi-Protection",
+    "Adaptive"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 100,
+      "lbs": 220
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Jaw Strike",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Token",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Willpower Drain",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Cozy Net",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Venom Spread",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Plague",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Levelling",
+        "levels": 71
+      },
+      {
+        "name": "Execution",
+        "source": "Levelling",
+        "levels": 82
+      },
+      {
+        "name": "Digithreat",
+        "source": "Levelling",
+        "levels": 94
+      },
+      {
+        "name": "Knockback",
+        "source": "Levelling",
+        "levels": 100
+      }
+    ],
+    "courses": [
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Crystal Spikes",
+        "source": "Breeding"
+      },
+      {
+        "name": "Soul Shout",
+        "source": "Breeding"
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Breeding"
+      },
+      {
+        "name": "Water Cannon",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Arachnyte has a sticker on the official Temtem Discord, beating Cycrox by 11 votes, out of the total 315 votes, in the 6th sticker poll."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Braeside Castle",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "30%",
+      "level": "65 - 75",
+      "freetem": {
+        "minLevel": 65,
+        "maxLevel": 75,
+        "minPansuns": 218,
+        "maxPansuns": 248
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 89,
+  "hatchMins": 27.2,
+  "description": "With way too many legs for anyone's liking, Arachnyte includes multi-core processing to coordinate movement, visual input, and combat subroutines - all in one efficient package of Arburian design."
+}

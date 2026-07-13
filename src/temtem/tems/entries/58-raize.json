@@ -1,0 +1,223 @@
+{
+  "_id": 58,
+  "name": {
+    "english": "Raize"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 66,
+    "sta": 46,
+    "spd": 40,
+    "atk": 46,
+    "def": 74,
+    "spatk": 69,
+    "spdef": 43,
+    "total": 384
+  },
+  "traits": [
+    "Furor",
+    "Demoralize"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 70,
+      "lbs": 154
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Roar",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Fierce Claw",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "King's Roar",
+        "source": "Levelling",
+        "levels": 37
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Rampage",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Raize was first revealed through concept art via Twitter.",
+    "Animations for Raize's idle, physical attack, special attack, and one other were shown off on Twitter."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 57,
+        "name": "Raiber",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Rested"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Furor",
+          "Rested": "Demoralize"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 58,
+        "name": "Raize",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Demoralize"
+        ],
+        "traitMapping": {
+          "Furor": "Prideful",
+          "Demoralize": "Motivator"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 59,
+        "name": "Raican",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Prideful",
+          "Motivator"
+        ],
+        "traitMapping": {
+          "Prideful": "Prideful",
+          "Motivator": "Motivator"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 57,
+      "name": "Raiber",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Camaraderie",
+        "Rested"
+      ],
+      "traitMapping": {
+        "Camaraderie": "Furor",
+        "Rested": "Demoralize"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 59,
+      "name": "Raican",
+      "level": 25,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Prideful",
+        "Motivator"
+      ],
+      "traitMapping": {
+        "Prideful": "Prideful",
+        "Motivator": "Motivator"
+      }
+    },
+    "number": 58,
+    "name": "Raize",
+    "level": 15,
+    "trading": false,
+    "traits": [
+      "Furor",
+      "Demoralize"
+    ],
+    "traitMapping": {
+      "Furor": "Prideful",
+      "Demoralize": "Motivator"
+    }
+  },
+  "locations": [
+    {
+      "location": "Anak Caldera",
+      "place": "Anak Caldera",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25%",
+      "level": "33 - 38",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 38,
+        "minPansuns": 95,
+        "maxPansuns": 106
+      }
+    },
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25%",
+      "level": "40 - 50",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 50,
+        "minPansuns": 110,
+        "maxPansuns": 133
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 85,
+    "female": 15
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Fierce and indomitable as the fire, Raize are difficult to tame but extremely valuable as fighting Temtem. Each has a characteristic birthmark on the snout, as unique as the movements of a single flame."
+}

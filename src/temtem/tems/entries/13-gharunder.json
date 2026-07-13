@@ -1,0 +1,148 @@
+{
+  "_id": 13,
+  "name": {
+    "english": "Gharunder"
+  },
+  "types": [
+    "Toxic",
+    "Electric"
+  ],
+  "stats": {
+    "hp": 71,
+    "sta": 59,
+    "spd": 49,
+    "atk": 84,
+    "def": 45,
+    "spatk": 47,
+    "spdef": 85,
+    "total": 440
+  },
+  "traits": [
+    "Brumation",
+    "Thick Skin"
+  ],
+  "details": {
+    "height": {
+      "cm": 176,
+      "inches": 69
+    },
+    "weight": {
+      "kg": 240,
+      "lbs": 529
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Clay Ball",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Voltopuncture",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Toxic Fang",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Metabolize",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Piezoelectric Blow",
+        "source": "Levelling",
+        "levels": 62
+      },
+      {
+        "name": "Defibrillate",
+        "source": "Levelling",
+        "levels": 73
+      },
+      {
+        "name": "Paralyzing Poison",
+        "source": "Levelling",
+        "levels": 84
+      },
+      {
+        "name": "Wastewater",
+        "source": "Levelling",
+        "levels": 91
+      }
+    ],
+    "courses": [
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Purgation",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Shelter",
+        "source": "Breeding"
+      },
+      {
+        "name": "Waterjet",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Sewers of Properton",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "5%",
+      "level": "65 - 70",
+      "freetem": {
+        "minLevel": 65,
+        "maxLevel": 70,
+        "minPansuns": 410,
+        "maxPansuns": 440
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 65,
+    "female": 35
+  },
+  "catchRate": 45,
+  "hatchMins": 36,
+  "description": "Popularly known as \"the monster of the sewers\", this species descends from proto-Temtemic lifeforms of the Xolot Reservoir. It is no surprise it has adapted to an extremely toxic ecosystem."
+}

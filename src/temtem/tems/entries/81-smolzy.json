@@ -1,0 +1,175 @@
+{
+  "_id": 81,
+  "name": {
+    "english": "Smolzy"
+  },
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 40,
+    "sta": 60,
+    "spd": 65,
+    "atk": 65,
+    "def": 26,
+    "spatk": 22,
+    "spdef": 26,
+    "total": 304
+  },
+  "traits": [
+    "Caffeinated",
+    "Electric Synthesize"
+  ],
+  "details": {
+    "height": {
+      "cm": 99,
+      "inches": 38
+    },
+    "weight": {
+      "kg": 64,
+      "lbs": 141
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Held Anger",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 13
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Rage",
+        "source": "Breeding"
+      },
+      {
+        "name": "Show Off",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sparkling Bullet",
+        "source": "Breeding"
+      },
+      {
+        "name": "Wrenching Massage",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Smolzy is one of two Temtem that can not be found in the wild while its evolution can. The other is Bigu."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 81,
+        "name": "Smolzy",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Electric Synthesize"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Last Rush",
+          "Electric Synthesize": "Inductor"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 82,
+        "name": "Sparzy",
+        "level": 30,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Last Rush",
+          "Inductor"
+        ],
+        "traitMapping": {
+          "Last Rush": "Defuser",
+          "Inductor": "Voltaic Charge"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 83,
+        "name": "Golzy",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Defuser",
+          "Voltaic Charge"
+        ],
+        "traitMapping": {
+          "Defuser": "Defuser",
+          "Voltaic Charge": "Voltaic Charge"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 82,
+      "name": "Sparzy",
+      "level": 30,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Last Rush",
+        "Inductor"
+      ],
+      "traitMapping": {
+        "Last Rush": "Defuser",
+        "Inductor": "Voltaic Charge"
+      }
+    },
+    "number": 81,
+    "name": "Smolzy",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Caffeinated",
+      "Electric Synthesize"
+    ],
+    "traitMapping": {
+      "Caffeinated": "Last Rush",
+      "Electric Synthesize": "Inductor"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 70,
+    "female": 30
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "Few Temtem look so deceptively comical as Smolzy - underestimating it in battle is the mark of the rookie tamer. Beyond their adorably helpless appearance, they are appreciated as some of the most reliable Electrical Temtem for daily use."
+}

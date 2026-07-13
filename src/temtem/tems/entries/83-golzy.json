@@ -1,0 +1,256 @@
+{
+  "_id": 83,
+  "name": {
+    "english": "Golzy"
+  },
+  "types": [
+    "Electric",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 71,
+    "sta": 78,
+    "spd": 82,
+    "atk": 80,
+    "def": 49,
+    "spatk": 40,
+    "spdef": 48,
+    "total": 448
+  },
+  "traits": [
+    "Defuser",
+    "Voltaic Charge"
+  ],
+  "details": {
+    "height": {
+      "cm": 206,
+      "inches": 81
+    },
+    "weight": {
+      "kg": 186,
+      "lbs": 410
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Held Anger",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Psychosis",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Electric Storm",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Charged Iron Filings",
+        "source": "Levelling",
+        "levels": 38
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Oshi-Dashi",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Savage Suplex",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Defibrillate",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Hasty Lunge",
+        "source": "Levelling",
+        "levels": 84
+      },
+      {
+        "name": "Extra Energy Slam",
+        "source": "Levelling",
+        "levels": 92
+      }
+    ],
+    "courses": [
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Rage",
+        "source": "Breeding"
+      },
+      {
+        "name": "Show Off",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sparkling Bullet",
+        "source": "Breeding"
+      },
+      {
+        "name": "Wrenching Massage",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 81,
+        "name": "Smolzy",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Electric Synthesize"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Last Rush",
+          "Electric Synthesize": "Inductor"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 82,
+        "name": "Sparzy",
+        "level": 30,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Last Rush",
+          "Inductor"
+        ],
+        "traitMapping": {
+          "Last Rush": "Defuser",
+          "Inductor": "Voltaic Charge"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 83,
+        "name": "Golzy",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Defuser",
+          "Voltaic Charge"
+        ],
+        "traitMapping": {
+          "Defuser": "Defuser",
+          "Voltaic Charge": "Voltaic Charge"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 82,
+      "name": "Sparzy",
+      "level": 30,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Last Rush",
+        "Inductor"
+      ],
+      "traitMapping": {
+        "Last Rush": "Defuser",
+        "Inductor": "Voltaic Charge"
+      }
+    },
+    "to": null,
+    "number": 83,
+    "name": "Golzy",
+    "level": 14,
+    "trading": false,
+    "traits": [
+      "Defuser",
+      "Voltaic Charge"
+    ],
+    "traitMapping": {
+      "Defuser": "Defuser",
+      "Voltaic Charge": "Voltaic Charge"
+    }
+  },
+  "locations": [
+    {
+      "location": "Digital Kami Shrine",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "95%",
+      "level": "72",
+      "freetem": {
+        "minLevel": 72,
+        "maxLevel": 72,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 70,
+    "female": 30
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Bred by the patient priests of Miyaka from local varieties of Electric Temtem, Golzy is a gentle giant that helps the villagers carry heavy loads through the difficult mountain passes. Their consistant presence has become a symbol of the Monastery."
+}

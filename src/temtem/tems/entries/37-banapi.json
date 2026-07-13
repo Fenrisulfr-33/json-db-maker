@@ -1,0 +1,224 @@
+{
+  "_id": 37,
+  "name": {
+    "english": "Banapi"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 42,
+    "sta": 40,
+    "spd": 70,
+    "atk": 50,
+    "def": 50,
+    "spatk": 40,
+    "spdef": 41,
+    "total": 333
+  },
+  "traits": [
+    "Pyromaniac",
+    "Settling"
+  ],
+  "details": {
+    "height": {
+      "cm": 90,
+      "inches": 35
+    },
+    "weight": {
+      "kg": 45,
+      "lbs": 99
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Warm Cuddle",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 37
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Roar",
+        "source": "Breeding"
+      },
+      {
+        "name": "Shelter",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Banapi has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 37,
+        "name": "Banapi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Pyromaniac",
+          "Settling"
+        ],
+        "traitMapping": {
+          "Pyromaniac": "Last Rush",
+          "Settling": "Resilient"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 38,
+        "name": "Capyre",
+        "level": 17,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Last Rush",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Last Rush": "Last Rush",
+          "Resilient": "Resilient"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 38,
+      "name": "Capyre",
+      "level": 17,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Last Rush",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Last Rush": "Last Rush",
+        "Resilient": "Resilient"
+      }
+    },
+    "number": 37,
+    "name": "Banapi",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Pyromaniac",
+      "Settling"
+    ],
+    "traitMapping": {
+      "Pyromaniac": "Last Rush",
+      "Settling": "Resilient"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Hangroad",
+      "place": "The Hangroad",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "65%",
+      "level": "14 - 19",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 19,
+        "minPansuns": 46,
+        "maxPansuns": 55
+      }
+    },
+    {
+      "location": "The Glassyway",
+      "place": "The Glassyway",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "30%",
+      "level": "20 - 22",
+      "freetem": {
+        "minLevel": 20,
+        "maxLevel": 22,
+        "minPansuns": 56,
+        "maxPansuns": 60
+      }
+    },
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "10% - 50%",
+      "level": "22 - 24",
+      "freetem": {
+        "minLevel": 22,
+        "maxLevel": 24,
+        "minPansuns": 60,
+        "maxPansuns": 64
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 60,
+    "female": 40
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "Capricious and stubborn, these Temtem roam the side of the Anak volcano, grazing on burning coals instead of grass. Notably difficult to tame, they set the right expectations for prospective Fire Temtem tamers..."
+}

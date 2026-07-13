@@ -1,0 +1,203 @@
+{
+  "_id": 155,
+  "name": {
+    "english": "Venmet"
+  },
+  "types": [
+    "Neutral",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 72,
+    "sta": 60,
+    "spd": 60,
+    "atk": 78,
+    "def": 78,
+    "spatk": 48,
+    "spdef": 48,
+    "total": 444
+  },
+  "traits": [
+    "Parrier",
+    "Aggressor"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 84,
+      "lbs": 185
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Strangle",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Shelter",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Savage Suplex",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Double Gash",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Late Torment",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Levelling",
+        "levels": 62
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Levelling",
+        "levels": 71
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 81
+      },
+      {
+        "name": "Hook Kick",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Ninja Jutsu",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 154,
+        "name": "Venx",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Arcane Wrap"
+        ],
+        "traitMapping": {
+          "Parrier": "Parrier",
+          "Arcane Wrap": "Aggressor"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 155,
+        "name": "Venmet",
+        "level": 17,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Aggressor"
+        ],
+        "traitMapping": {
+          "Parrier": "Parrier",
+          "Aggressor": "Aggressor"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 154,
+      "name": "Venx",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Parrier",
+        "Arcane Wrap"
+      ],
+      "traitMapping": {
+        "Parrier": "Parrier",
+        "Arcane Wrap": "Aggressor"
+      }
+    },
+    "to": null,
+    "number": 155,
+    "name": "Venmet",
+    "level": 17,
+    "trading": false,
+    "traits": [
+      "Parrier",
+      "Aggressor"
+    ],
+    "traitMapping": {
+      "Parrier": "Parrier",
+      "Aggressor": "Aggressor"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "Sometimes more is more – and this evolution makes for a winning combination of resilience and sheer power. Some historians suggest this species was widely used by reivers on both sides during the turbulent era of Chieftain Mac Aed."
+}

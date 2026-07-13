@@ -1,0 +1,155 @@
+{
+  "_id": 54,
+  "name": {
+    "english": "Gyalis"
+  },
+  "types": [
+    "Crystal",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 74,
+    "sta": 44,
+    "spd": 100,
+    "atk": 81,
+    "def": 61,
+    "spatk": 23,
+    "spdef": 61,
+    "total": 444
+  },
+  "traits": [
+    "Mirroring",
+    "Resistant"
+  ],
+  "details": {
+    "height": {
+      "cm": 204,
+      "inches": 80
+    },
+    "weight": {
+      "kg": 53,
+      "lbs": 116
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Sharp Stabs",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Footwork",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Double Gash",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Block",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Drill Impact",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Hook Kick",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 70
+      }
+    ],
+    "courses": [
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "5PPEH",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Crystal Spikes",
+        "source": "Breeding"
+      },
+      {
+        "name": "Crystallize",
+        "source": "Breeding"
+      },
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "10%",
+      "level": "35 - 36",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 36,
+        "minPansuns": 139,
+        "maxPansuns": 142
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 20,
+    "female": 80
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "Gyalis have appeared in many horror movies. Sadly, this has resulted in a bad reputation as a \"scary evil monster\", not helped by its menacing appearance - but in the hands of a kind tamer, Gyalis can be every bit as tender and loving as the plushest of Pigepics."
+}

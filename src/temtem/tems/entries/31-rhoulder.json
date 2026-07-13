@@ -1,0 +1,154 @@
+{
+  "_id": 31,
+  "name": {
+    "english": "Rhoulder"
+  },
+  "types": [
+    "Neutral",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 83,
+    "sta": 51,
+    "spd": 42,
+    "atk": 79,
+    "def": 86,
+    "spatk": 22,
+    "spdef": 65,
+    "total": 428
+  },
+  "traits": [
+    "Tardy Rush",
+    "Thick Skin"
+  ],
+  "details": {
+    "height": {
+      "cm": 180,
+      "inches": 70
+    },
+    "weight": {
+      "kg": 380,
+      "lbs": 837
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Charge",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Goring",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Execution",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Bestial Charge",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Shelter",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 47
+      },
+      {
+        "name": "Stone Ball",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Earthbreaker",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Drill Impact",
+        "source": "Levelling",
+        "levels": 76
+      },
+      {
+        "name": "Rockfall",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Burrow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toughen",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Though it lives in an Africa-inspired region, it more closely resembles the Indian Rhinoceros due to the leathery armor it has."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Tasa Desert",
+      "place": "Tasa Desert",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "5%",
+      "level": "45 - 50",
+      "freetem": {
+        "minLevel": 45,
+        "maxLevel": 50,
+        "minPansuns": 172,
+        "maxPansuns": 189
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "Once king of the Kisiwan savannah, this species boasts incredibly hard lamellar plates. Before the time of Chacha Turay, they were used in tribal warfare as armored cavalry."
+}

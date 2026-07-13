@@ -1,0 +1,211 @@
+{
+  "_id": 104,
+  "name": {
+    "english": "Cerneaf"
+  },
+  "types": [
+    "Nature"
+  ],
+  "stats": {
+    "hp": 91,
+    "sta": 56,
+    "spd": 79,
+    "atk": 60,
+    "def": 88,
+    "spatk": 43,
+    "spdef": 50,
+    "total": 467
+  },
+  "traits": [
+    "Callosity",
+    "Settling"
+  ],
+  "details": {
+    "height": {
+      "cm": 210,
+      "inches": 82
+    },
+    "weight": {
+      "kg": 94,
+      "lbs": 207
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Revitalize",
+        "source": "Levelling",
+        "levels": 38
+      },
+      {
+        "name": "Water Cutting Lily",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Bush",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Frond Whip",
+        "source": "Breeding"
+      },
+      {
+        "name": "Spores",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Cerneaf was first revealed via Twitter."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 102,
+        "name": "Spriole",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Botanist"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Mithridatism",
+          "Botanist": "Settling"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 103,
+        "name": "Deendre",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mithridatism",
+          "Settling"
+        ],
+        "traitMapping": {
+          "Mithridatism": "Callosity",
+          "Settling": "Settling"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 104,
+        "name": "Cerneaf",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Callosity",
+          "Settling"
+        ],
+        "traitMapping": {
+          "Callosity": "Callosity",
+          "Settling": "Settling"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 103,
+      "name": "Deendre",
+      "level": 12,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mithridatism",
+        "Settling"
+      ],
+      "traitMapping": {
+        "Mithridatism": "Callosity",
+        "Settling": "Settling"
+      }
+    },
+    "to": null,
+    "number": 104,
+    "name": "Cerneaf",
+    "level": 25,
+    "trading": false,
+    "traits": [
+      "Callosity",
+      "Settling"
+    ],
+    "traitMapping": {
+      "Callosity": "Callosity",
+      "Settling": "Settling"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Few Temtem are closer to flora than this species, a fascinating plant-animal hybrid that uses its encephalic leaves to produce healing and nourishing components via photosynthesis."
+}

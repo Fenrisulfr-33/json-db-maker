@@ -1,0 +1,190 @@
+{
+  "_id": 150,
+  "name": {
+    "english": "Minttle"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 39,
+    "sta": 40,
+    "spd": 20,
+    "atk": 50,
+    "def": 25,
+    "spatk": 25,
+    "spdef": 25,
+    "total": 224
+  },
+  "traits": [
+    "Withdrawal",
+    "Relaxed"
+  ],
+  "details": {
+    "height": {
+      "cm": 80,
+      "inches": 31
+    },
+    "weight": {
+      "kg": 16,
+      "lbs": 35
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 18
+      }
+    ],
+    "courses": [
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Thunder Strike",
+        "source": "Breeding"
+      },
+      {
+        "name": "Turbo Charge",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ultrasound",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 150,
+        "name": "Minttle",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Withdrawal",
+          "Relaxed"
+        ],
+        "traitMapping": {
+          "Withdrawal": "Body Stretch",
+          "Relaxed": "Unnoticed"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 151,
+        "name": "Minox",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Body Stretch",
+          "Unnoticed"
+        ],
+        "traitMapping": {
+          "Body Stretch": "Ruminant",
+          "Unnoticed": "Rusher"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 152,
+        "name": "Minothor",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Ruminant",
+          "Rusher"
+        ],
+        "traitMapping": {
+          "Ruminant": "Ruminant",
+          "Rusher": "Rusher"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 151,
+      "name": "Minox",
+      "level": 12,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Body Stretch",
+        "Unnoticed"
+      ],
+      "traitMapping": {
+        "Body Stretch": "Ruminant",
+        "Unnoticed": "Rusher"
+      }
+    },
+    "number": 150,
+    "name": "Minttle",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Withdrawal",
+      "Relaxed"
+    ],
+    "traitMapping": {
+      "Withdrawal": "Body Stretch",
+      "Relaxed": "Unnoticed"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mac Aed's Crags",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "75%",
+      "level": "60 - 66",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 66,
+        "minPansuns": 116,
+        "maxPansuns": 125
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 170,
+  "hatchMins": 11,
+  "description": "A sweet, innocent appearance that conceals a great brainpower, this species has roamed the Greenglen Forest for centuries in small herds, grazing peacefully in the undergrowth and following the bigger Minox."
+}

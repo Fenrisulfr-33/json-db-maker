@@ -1,0 +1,252 @@
+{
+  "_id": 103,
+  "name": {
+    "english": "Deendre"
+  },
+  "types": [
+    "Nature"
+  ],
+  "stats": {
+    "hp": 80,
+    "sta": 42,
+    "spd": 70,
+    "atk": 48,
+    "def": 74,
+    "spatk": 42,
+    "spdef": 35,
+    "total": 391
+  },
+  "traits": [
+    "Mithridatism",
+    "Settling"
+  ],
+  "details": {
+    "height": {
+      "cm": 120,
+      "inches": 47
+    },
+    "weight": {
+      "kg": 42,
+      "lbs": 92
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Revitalize",
+        "source": "Levelling",
+        "levels": 38
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Frond Whip",
+        "source": "Breeding"
+      },
+      {
+        "name": "Spores",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 102,
+        "name": "Spriole",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Botanist"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Mithridatism",
+          "Botanist": "Settling"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 103,
+        "name": "Deendre",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mithridatism",
+          "Settling"
+        ],
+        "traitMapping": {
+          "Mithridatism": "Callosity",
+          "Settling": "Settling"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 104,
+        "name": "Cerneaf",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Callosity",
+          "Settling"
+        ],
+        "traitMapping": {
+          "Callosity": "Callosity",
+          "Settling": "Settling"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 102,
+      "name": "Spriole",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Camaraderie",
+        "Botanist"
+      ],
+      "traitMapping": {
+        "Camaraderie": "Mithridatism",
+        "Botanist": "Settling"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 104,
+      "name": "Cerneaf",
+      "level": 25,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Callosity",
+        "Settling"
+      ],
+      "traitMapping": {
+        "Callosity": "Callosity",
+        "Settling": "Settling"
+      }
+    },
+    "number": 103,
+    "name": "Deendre",
+    "level": 12,
+    "trading": false,
+    "traits": [
+      "Mithridatism",
+      "Settling"
+    ],
+    "traitMapping": {
+      "Mithridatism": "Callosity",
+      "Settling": "Settling"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Canopath",
+      "place": "The Canopath",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "5%",
+      "level": "17 - 20",
+      "freetem": {
+        "minLevel": 17,
+        "maxLevel": 20,
+        "minPansuns": 57,
+        "maxPansuns": 64
+      }
+    },
+    {
+      "location": "The Flywalk",
+      "place": "The Flywalk",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "5% - 50%",
+      "level": "19 - 24",
+      "freetem": {
+        "minLevel": 19,
+        "maxLevel": 24,
+        "minPansuns": 62,
+        "maxPansuns": 72
+      }
+    },
+    {
+      "location": "The Hangroad",
+      "place": "The Hangroad",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "5%",
+      "level": "16 - 22",
+      "freetem": {
+        "minLevel": 16,
+        "maxLevel": 22,
+        "minPansuns": 55,
+        "maxPansuns": 68
+      }
+    },
+    {
+      "location": "Nanga Dojo",
+      "place": "Nanga",
+      "note": "Dojo",
+      "island": "Omninesia",
+      "frequency": "Gift",
+      "level": "35",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 35,
+        "minPansuns": 96,
+        "maxPansuns": 96
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "The young adult version of Spriole, Deendre are fascinating plant-animal hybrids that use their encephalic leaves to produce healing and nourishing components via photosynthesis."
+}

@@ -1,0 +1,235 @@
+{
+  "_id": 23,
+  "name": {
+    "english": "Hidody"
+  },
+  "types": [
+    "Nature"
+  ],
+  "stats": {
+    "hp": 49,
+    "sta": 70,
+    "spd": 39,
+    "atk": 42,
+    "def": 39,
+    "spatk": 62,
+    "spdef": 55,
+    "total": 356
+  },
+  "traits": [
+    "Electric Synthesize",
+    "Botanist"
+  ],
+  "details": {
+    "height": {
+      "cm": 100,
+      "inches": 39
+    },
+    "weight": {
+      "kg": 12,
+      "lbs": 26
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Bark Shield",
+        "source": "Levelling",
+        "levels": 28
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hypoxia",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Breeding"
+      },
+      {
+        "name": "Spores",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Hidody was first revealed via Twitter.",
+    "Hidody has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 23,
+        "name": "Hidody",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Electric Synthesize",
+          "Botanist"
+        ],
+        "traitMapping": {
+          "Electric Synthesize": "Toxic Farewell",
+          "Botanist": "Resilient"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 24,
+        "name": "Taifu",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Farewell",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Toxic Farewell": "Toxic Farewell",
+          "Resilient": "Resilient"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 24,
+      "name": "Taifu",
+      "level": 15,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Toxic Farewell",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Toxic Farewell": "Toxic Farewell",
+        "Resilient": "Resilient"
+      }
+    },
+    "number": 23,
+    "name": "Hidody",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Electric Synthesize",
+      "Botanist"
+    ],
+    "traitMapping": {
+      "Electric Synthesize": "Toxic Farewell",
+      "Botanist": "Resilient"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Canopath",
+      "place": "The Canopath",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "40%",
+      "level": "14-17",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 17,
+        "minPansuns": 41,
+        "maxPansuns": 46
+      }
+    },
+    {
+      "location": "The Glassyway",
+      "place": "The Glassyway",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "50%",
+      "level": "19-22",
+      "freetem": {
+        "minLevel": 19,
+        "maxLevel": 22,
+        "minPansuns": 49,
+        "maxPansuns": 53
+      }
+    },
+    {
+      "location": "Giant Banyan",
+      "place": "Giant Banyan",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "40%",
+      "level": "23-26",
+      "freetem": {
+        "minLevel": 23,
+        "maxLevel": 26,
+        "minPansuns": 55,
+        "maxPansuns": 59
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 180,
+  "hatchMins": 9,
+  "description": "This cutie is an adept climber, thanks to the little suckers located in each of its eight stubby legs. For the same reason, Omninesian children quickly learn to hide their cookies instead of putting them on the higher shelf..."
+}

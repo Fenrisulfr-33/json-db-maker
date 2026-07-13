@@ -1,0 +1,217 @@
+{
+  "_id": 66,
+  "name": {
+    "english": "Osuchi"
+  },
+  "types": [
+    "Earth"
+  ],
+  "stats": {
+    "hp": 52,
+    "sta": 37,
+    "spd": 38,
+    "atk": 65,
+    "def": 51,
+    "spatk": 24,
+    "spdef": 25,
+    "total": 292
+  },
+  "traits": [
+    "Caffeinated",
+    "Brawny"
+  ],
+  "details": {
+    "height": {
+      "cm": 125,
+      "inches": 49
+    },
+    "weight": {
+      "kg": 45,
+      "lbs": 99
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Meditation",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Clay Ball",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Toughen",
+        "source": "Levelling",
+        "levels": 14
+      }
+    ],
+    "courses": [
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Dust Vortex",
+        "source": "Breeding"
+      },
+      {
+        "name": "Footwork",
+        "source": "Breeding"
+      },
+      {
+        "name": "Jinxed Whisper",
+        "source": "Breeding"
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 66,
+        "name": "Osuchi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Brawny"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Furor",
+          "Brawny": "Parrier"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 67,
+        "name": "Osukan",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Parrier"
+        ],
+        "traitMapping": {
+          "Furor": "Sensei",
+          "Parrier": "Body Stretch"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 68,
+        "name": "Osukai",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Sensei",
+          "Body Stretch"
+        ],
+        "traitMapping": {
+          "Sensei": "Sensei",
+          "Body Stretch": "Body Stretch"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 67,
+      "name": "Osukan",
+      "level": 12,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Furor",
+        "Parrier"
+      ],
+      "traitMapping": {
+        "Furor": "Sensei",
+        "Parrier": "Body Stretch"
+      }
+    },
+    "number": 66,
+    "name": "Osuchi",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Caffeinated",
+      "Brawny"
+    ],
+    "traitMapping": {
+      "Caffeinated": "Furor",
+      "Brawny": "Parrier"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mawingu Islets",
+      "place": "Mawingu Islets",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "75%",
+      "level": "31 - 36",
+      "freetem": {
+        "minLevel": 31,
+        "maxLevel": 36,
+        "minPansuns": 80,
+        "maxPansuns": 90
+      }
+    },
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "40%",
+      "level": "35 - 36",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 36,
+        "minPansuns": 88,
+        "maxPansuns": 90
+      }
+    },
+    {
+      "location": "Matope Road",
+      "place": "Matope Road",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "50%",
+      "level": "37 - 41",
+      "freetem": {
+        "minLevel": 37,
+        "maxLevel": 41,
+        "minPansuns": 92,
+        "maxPansuns": 100
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 140,
+  "hatchMins": 17,
+  "description": "Shy and unassuming, Osuchi are generally considered benevolent, steadfast friends. Often confused with rock outcroppings by the untrained eye, they are at home in the Jino Gap."
+}

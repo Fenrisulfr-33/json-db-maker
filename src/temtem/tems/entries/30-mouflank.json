@@ -1,0 +1,204 @@
+{
+  "_id": 30,
+  "name": {
+    "english": "Mouflank"
+  },
+  "types": [
+    "Neutral"
+  ],
+  "stats": {
+    "hp": 79,
+    "sta": 65,
+    "spd": 72,
+    "atk": 73,
+    "def": 74,
+    "spatk": 72,
+    "spdef": 41,
+    "total": 476
+  },
+  "traits": [
+    "Hurry-wart",
+    "Unnoticed"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 115,
+      "lbs": 253
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Pickpocket",
+        "source": "Levelling",
+        "levels": 36
+      },
+      {
+        "name": "Goring",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Execution",
+        "source": "Levelling",
+        "levels": 57
+      },
+      {
+        "name": "Knockback",
+        "source": "Levelling",
+        "levels": 78
+      }
+    ],
+    "courses": [
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bestial Charge",
+        "source": "Breeding"
+      },
+      {
+        "name": "Burrow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Head Charge",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 29,
+        "name": "Goty",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Rested",
+          "Plethoric"
+        ],
+        "traitMapping": {
+          "Rested": "Hurry-wart",
+          "Plethoric": "Unnoticed"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 30,
+        "name": "Mouflank",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hurry-wart",
+          "Unnoticed"
+        ],
+        "traitMapping": {
+          "Hurry-wart": "Hurry-wart",
+          "Unnoticed": "Unnoticed"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 29,
+      "name": "Goty",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Rested",
+        "Plethoric"
+      ],
+      "traitMapping": {
+        "Rested": "Hurry-wart",
+        "Plethoric": "Unnoticed"
+      }
+    },
+    "to": null,
+    "number": 30,
+    "name": "Mouflank",
+    "level": 13,
+    "trading": false,
+    "traits": [
+      "Hurry-wart",
+      "Unnoticed"
+    ],
+    "traitMapping": {
+      "Hurry-wart": "Hurry-wart",
+      "Unnoticed": "Unnoticed"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "With their imposing horns, grazing Mouflank herds used to be serious natural hazards of the Kisiwan plains. The tribes soon learned how to tame them to avoid dangerous stampedes."
+}

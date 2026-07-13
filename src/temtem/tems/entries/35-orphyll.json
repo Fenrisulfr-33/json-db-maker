@@ -1,0 +1,224 @@
+{
+  "_id": 35,
+  "name": {
+    "english": "Orphyll"
+  },
+  "types": [
+    "Nature",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 42,
+    "sta": 48,
+    "spd": 75,
+    "atk": 68,
+    "def": 64,
+    "spatk": 27,
+    "spdef": 40,
+    "total": 364
+  },
+  "traits": [
+    "Toxic Affinity",
+    "Apothecary"
+  ],
+  "details": {
+    "height": {
+      "cm": 117,
+      "inches": 46
+    },
+    "weight": {
+      "kg": 110,
+      "lbs": 242
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Toxic Fang",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Spores",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 36
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bark Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Narcoleptic Hit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Photosynthesis",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Orphyll was one of the scrapped Temtem designs that had a chance to be added into the game during the first \"Choose a Temtem\" mini-game. However, it was not selected in the end.",
+    "Orphyll's design had a second chance to be added into the game during the third \"Choose a Temtem\" mini-game, and ended up winning by 25 votes out of the total 2557 votes.",
+    "Orphyll's name was voted on in the Naming Contest for #035 and #036. The final name won by 94 votes out of the total 824 votes."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 35,
+        "name": "Orphyll",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Affinity",
+          "Apothecary"
+        ],
+        "traitMapping": {
+          "Toxic Affinity": "Tri-Phytologist",
+          "Apothecary": "Tri-Apothecary"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 36,
+        "name": "Nidrasil",
+        "level": 22,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Tri-Phytologist",
+          "Tri-Apothecary"
+        ],
+        "traitMapping": {
+          "Tri-Phytologist": "Tri-Phytologist",
+          "Tri-Apothecary": "Tri-Apothecary"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 36,
+      "name": "Nidrasil",
+      "level": 22,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Tri-Phytologist",
+        "Tri-Apothecary"
+      ],
+      "traitMapping": {
+        "Tri-Phytologist": "Tri-Phytologist",
+        "Tri-Apothecary": "Tri-Apothecary"
+      }
+    },
+    "number": 35,
+    "name": "Orphyll",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Toxic Affinity",
+      "Apothecary"
+    ],
+    "traitMapping": {
+      "Toxic Affinity": "Tri-Phytologist",
+      "Apothecary": "Tri-Apothecary"
+    }
+  },
+  "locations": [
+    {
+      "location": "Corrupted Badlands",
+      "place": "Corrupted Badlands",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "20% - 75%",
+      "level": "25 - 28",
+      "freetem": {
+        "minLevel": 25,
+        "maxLevel": 28,
+        "minPansuns": 77,
+        "maxPansuns": 83
+      }
+    },
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50%",
+      "level": "28 - 30",
+      "freetem": {
+        "minLevel": 28,
+        "maxLevel": 30,
+        "minPansuns": 83,
+        "maxPansuns": 88
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Probably a mutation from an ancient serpentine strand of Nature Temtem, Orphyll show remarkable adaptation to noxious conditions. They feature prominently in the art of ancient proto-Arburian cultures, who feared and revered them."
+}

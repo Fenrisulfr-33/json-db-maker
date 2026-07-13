@@ -1,0 +1,215 @@
+{
+  "_id": 3,
+  "name": {
+    "english": "Zaobian"
+  },
+  "types": [
+    "Digital"
+  ],
+  "stats": {
+    "hp": 72,
+    "sta": 90,
+    "spd": 63,
+    "atk": 84,
+    "def": 50,
+    "spatk": 42,
+    "spdef": 44,
+    "total": 445
+  },
+  "traits": [
+    "Attack<T>",
+    "Voltaic Charge"
+  ],
+  "details": {
+    "height": {
+      "cm": 213,
+      "inches": 83
+    },
+    "weight": {
+      "kg": 93,
+      "lbs": 205
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Mechanical Heat",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Overclock",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cold Breeze",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Turbo Attack",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Firewall",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Cyberclaw",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 51
+      },
+      {
+        "name": "Electropunch",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Turbine",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Reset",
+        "source": "Levelling",
+        "levels": 95
+      }
+    ],
+    "courses": [
+      {
+        "name": "Data Corruption",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Purgation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "5PPEH",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Crystal Bite",
+        "source": "Breeding"
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Breeding"
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Breeding"
+      },
+      {
+        "name": "Wastewater",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 2,
+        "name": "Oree",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Attack<T>",
+          "Fast Charge"
+        ],
+        "traitMapping": {
+          "Attack<T>": "Attack<T>",
+          "Fast Charge": "Voltaic Charge"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 3,
+        "name": "Zaobian",
+        "level": 35,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Attack<T>",
+          "Voltaic Charge"
+        ],
+        "traitMapping": {
+          "Attack<T>": "Attack<T>",
+          "Voltaic Charge": "Voltaic Charge"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 2,
+      "name": "Oree",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Attack<T>",
+        "Fast Charge"
+      ],
+      "traitMapping": {
+        "Attack<T>": "Attack<T>",
+        "Fast Charge": "Voltaic Charge"
+      }
+    },
+    "to": null,
+    "number": 3,
+    "name": "Zaobian",
+    "level": 35,
+    "trading": false,
+    "traits": [
+      "Attack<T>",
+      "Voltaic Charge"
+    ],
+    "traitMapping": {
+      "Attack<T>": "Attack<T>",
+      "Voltaic Charge": "Voltaic Charge"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 25,
+    "female": 75
+  },
+  "catchRate": 105,
+  "hatchMins": 24,
+  "description": "Zaobian are part of the second generation of Digital Temtem. Created with much more refined technology, they are more intelligent friends and companions, as well as sturdier in battle."
+}

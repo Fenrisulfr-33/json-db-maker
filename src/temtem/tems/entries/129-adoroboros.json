@@ -1,0 +1,180 @@
+{
+  "_id": 129,
+  "name": {
+    "english": "Adoroboros"
+  },
+  "types": [
+    "Toxic",
+    "Mental"
+  ],
+  "stats": {
+    "hp": 68,
+    "sta": 66,
+    "spd": 60,
+    "atk": 29,
+    "def": 47,
+    "spatk": 70,
+    "spdef": 112,
+    "total": 452
+  },
+  "traits": [
+    "Synergy Master",
+    "Toxic Skin"
+  ],
+  "details": {
+    "height": {
+      "cm": 88,
+      "inches": 34
+    },
+    "weight": {
+      "kg": 14,
+      "lbs": 30
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Psychic Collaborator",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Pollution",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Lullaby",
+        "source": "Levelling",
+        "levels": 39
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Toxic Gas",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Denigrate",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Held Anger",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Breeding"
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Virulent Gust",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Adoroboros was originally shown on the Choose-a-Temtem V3 poll, currently unnamed. It got second place with 554 votes, just 25 votes behind the winner.",
+    "Adoroboros's name was voted on in the Naming Contest for #129. The final name won by just 13 votes out of the total 823 votes."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "35%",
+      "level": "29 - 32",
+      "freetem": {
+        "minLevel": 29,
+        "maxLevel": 32,
+        "minPansuns": 81,
+        "maxPansuns": 87
+      }
+    },
+    {
+      "location": "Braeside Castle",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "20%",
+      "level": "72 - 76",
+      "freetem": {
+        "minLevel": 72,
+        "maxLevel": 76,
+        "minPansuns": 170,
+        "maxPansuns": 178
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 130,
+  "hatchMins": 19,
+  "description": "Few Temtem are as deceptive as Adoroboros - an unusual mix of cute and deadly, combining the most sophisticated Mental tricks with the basest Toxic traits. They are a fine example of the incredible natural diversity of the Archipelago."
+}

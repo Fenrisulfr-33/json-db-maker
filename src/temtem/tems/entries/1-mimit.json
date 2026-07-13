@@ -1,0 +1,74 @@
+{
+  "_id": 1,
+  "name": {
+    "english": "Mimit"
+  },
+  "types": [
+    "Digital"
+  ],
+  "stats": {
+    "hp": 55,
+    "sta": 55,
+    "spd": 55,
+    "atk": 55,
+    "def": 65,
+    "spatk": 55,
+    "spdef": 65,
+    "total": 405
+  },
+  "traits": [
+    "Striking Transmog",
+    "Landing Transmog"
+  ],
+  "details": {
+    "height": {
+      "cm": 42,
+      "inches": 16
+    },
+    "weight": {
+      "kg": 42,
+      "lbs": 92
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "DNA Extraction",
+        "source": "Levelling",
+        "levels": 1
+      }
+    ]
+  },
+  "trivia": [
+    "Mimit is the only Temtem that needs to have a quest completed before it can be found in the wild.",
+    "Mimit has a sticker on the official Temtem Discord, beating Chromeon by 66 votes, out of the total 274 votes, in the 2nd sticker poll.",
+    "Mimit has 2 emotes on the official Temtem Discord.",
+    "Mimit was first teased in a 2020 Halloween Twitter post."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Iwaba",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "46 - 52",
+      "freetem": {
+        "minLevel": 46,
+        "maxLevel": 52,
+        "minPansuns": 434,
+        "maxPansuns": 488
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 30,
+  "hatchMins": 39,
+  "description": "Mimit has the honor of being the very first Digital ever created. The genomic reservoir contained in its tail allows it an unequalled ability to replicate any other Temtem species, making it the ultimate breeder."
+}

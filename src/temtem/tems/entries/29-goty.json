@@ -1,0 +1,220 @@
+{
+  "_id": 29,
+  "name": {
+    "english": "Goty"
+  },
+  "types": [
+    "Neutral"
+  ],
+  "stats": {
+    "hp": 51,
+    "sta": 48,
+    "spd": 31,
+    "atk": 55,
+    "def": 48,
+    "spatk": 58,
+    "spdef": 37,
+    "total": 328
+  },
+  "traits": [
+    "Rested",
+    "Plethoric"
+  ],
+  "details": {
+    "height": {
+      "cm": 80,
+      "inches": 31
+    },
+    "weight": {
+      "kg": 35,
+      "lbs": 77
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Pickpocket",
+        "source": "Levelling",
+        "levels": 36
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bestial Charge",
+        "source": "Breeding"
+      },
+      {
+        "name": "Burrow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Head Charge",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 29,
+        "name": "Goty",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Rested",
+          "Plethoric"
+        ],
+        "traitMapping": {
+          "Rested": "Hurry-wart",
+          "Plethoric": "Unnoticed"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 30,
+        "name": "Mouflank",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hurry-wart",
+          "Unnoticed"
+        ],
+        "traitMapping": {
+          "Hurry-wart": "Hurry-wart",
+          "Unnoticed": "Unnoticed"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 30,
+      "name": "Mouflank",
+      "level": 13,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Hurry-wart",
+        "Unnoticed"
+      ],
+      "traitMapping": {
+        "Hurry-wart": "Hurry-wart",
+        "Unnoticed": "Unnoticed"
+      }
+    },
+    "number": 29,
+    "name": "Goty",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Rested",
+      "Plethoric"
+    ],
+    "traitMapping": {
+      "Rested": "Hurry-wart",
+      "Plethoric": "Unnoticed"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mawingu Islets",
+      "place": "Mawingu Islets",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "50%",
+      "level": "33 - 39",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 39,
+        "minPansuns": 84,
+        "maxPansuns": 96
+      }
+    },
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "40%",
+      "level": "35 - 39",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 39,
+        "minPansuns": 88,
+        "maxPansuns": 96
+      }
+    },
+    {
+      "location": "Kwea Uplands",
+      "place": "Kwea Uplands",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 80%",
+      "level": "40 - 44",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 44,
+        "minPansuns": 98,
+        "maxPansuns": 105
+      }
+    },
+    {
+      "location": "Matope Road",
+      "place": "Matope Road",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "25%",
+      "level": "44 - 47",
+      "freetem": {
+        "minLevel": 44,
+        "maxLevel": 47,
+        "minPansuns": 105,
+        "maxPansuns": 111
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 140,
+  "hatchMins": 17,
+  "description": "Voted Best Temtem every year by Neutral enthusiasts, Goty is as effective as it is cute. This little crowd-pleaser is particularly popular among casual Kisiwan tamers."
+}

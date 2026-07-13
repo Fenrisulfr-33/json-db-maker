@@ -1,0 +1,216 @@
+{
+  "_id": 92,
+  "name": {
+    "english": "Smazee"
+  },
+  "types": [
+    "Melee"
+  ],
+  "stats": {
+    "hp": 49,
+    "sta": 55,
+    "spd": 66,
+    "atk": 69,
+    "def": 44,
+    "spatk": 37,
+    "spdef": 37,
+    "total": 357
+  },
+  "traits": [
+    "Fever Rush",
+    "Friendship"
+  ],
+  "details": {
+    "height": {
+      "cm": 96,
+      "inches": 37
+    },
+    "weight": {
+      "kg": 24,
+      "lbs": 54
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Show Off",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 30
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Dim Mak",
+        "source": "Breeding"
+      },
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Smazee has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 92,
+        "name": "Smazee",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Fever Rush",
+          "Friendship"
+        ],
+        "traitMapping": {
+          "Fever Rush": "Brawny",
+          "Friendship": "Warm-Blooded"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 93,
+        "name": "Baboong",
+        "level": 29,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Brawny",
+          "Warm-Blooded"
+        ],
+        "traitMapping": {
+          "Brawny": "Self-Esteem",
+          "Warm-Blooded": "Earthbound"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 94,
+        "name": "Seismunch",
+        "level": 23,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Self-Esteem",
+          "Earthbound"
+        ],
+        "traitMapping": {
+          "Self-Esteem": "Self-Esteem",
+          "Earthbound": "Earthbound"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 93,
+      "name": "Baboong",
+      "level": 29,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Brawny",
+        "Warm-Blooded"
+      ],
+      "traitMapping": {
+        "Brawny": "Self-Esteem",
+        "Warm-Blooded": "Earthbound"
+      }
+    },
+    "number": 92,
+    "name": "Smazee",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Fever Rush",
+      "Friendship"
+    ],
+    "traitMapping": {
+      "Fever Rush": "Brawny",
+      "Friendship": "Warm-Blooded"
+    }
+  },
+  "locations": [
+    {
+      "location": "Greenglen Forest",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "5%",
+      "level": "30 - 40",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 40,
+        "minPansuns": 155,
+        "maxPansuns": 200
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 65,
+    "female": 35
+  },
+  "catchRate": 60,
+  "hatchMins": 33,
+  "description": "These little darlings have been bred for generations as playmates and babysitters for children - although capable fighters, Smazee are naturally cheerful and love playing and monkeying around."
+}

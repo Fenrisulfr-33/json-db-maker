@@ -1,0 +1,211 @@
+{
+  "_id": 21,
+  "name": {
+    "english": "Bunbun"
+  },
+  "types": [
+    "Earth",
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 72,
+    "sta": 40,
+    "spd": 69,
+    "atk": 50,
+    "def": 36,
+    "spatk": 64,
+    "spdef": 43,
+    "total": 374
+  },
+  "traits": [
+    "Caffeinated",
+    "Resilient"
+  ],
+  "details": {
+    "height": {
+      "cm": 55,
+      "inches": 21
+    },
+    "weight": {
+      "kg": 18,
+      "lbs": 39
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Crystal Dust",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Mud Shower",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 22
+      }
+    ],
+    "courses": [
+      {
+        "name": "Sharpening",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Crystal Bite",
+        "source": "Breeding"
+      },
+      {
+        "name": "Dust Vortex",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Bunbun has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 21,
+        "name": "Bunbun",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Receptive",
+          "Resilient": "Resistant"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 22,
+        "name": "Mudrid",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Receptive",
+          "Resistant"
+        ],
+        "traitMapping": {
+          "Receptive": "Receptive",
+          "Resistant": "Resistant"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 22,
+      "name": "Mudrid",
+      "level": 20,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Receptive",
+        "Resistant"
+      ],
+      "traitMapping": {
+        "Receptive": "Receptive",
+        "Resistant": "Resistant"
+      }
+    },
+    "number": 21,
+    "name": "Bunbun",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Caffeinated",
+      "Resilient"
+    ],
+    "traitMapping": {
+      "Caffeinated": "Receptive",
+      "Resilient": "Resistant"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "70%",
+      "level": "32 - 35",
+      "freetem": {
+        "minLevel": 32,
+        "maxLevel": 35,
+        "minPansuns": 90,
+        "maxPansuns": 96
+      }
+    },
+    {
+      "location": "Gardens of Aztlan",
+      "place": "",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50%",
+      "level": "25 - 35",
+      "freetem": {
+        "minLevel": 25,
+        "maxLevel": 35,
+        "minPansuns": 74,
+        "maxPansuns": 96
+      }
+    },
+    {
+      "location": "Kakama Cenote",
+      "place": "Kakama Cenote",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "75%",
+      "level": "36 - 40",
+      "freetem": {
+        "minLevel": 36,
+        "maxLevel": 40,
+        "minPansuns": 98,
+        "maxPansuns": 107
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "These adorable creatures are probably a remnant from the times Tucma and Kisiwa were a single island. While their strong Earth DNA is clearly of Kisiwan origin, the crystalline contents in their paws betray a definite Tucmani influence. They are social and easy to tame."
+}

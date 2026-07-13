@@ -1,0 +1,173 @@
+{
+  "_id": 44,
+  "name": {
+    "english": "Bigu"
+  },
+  "types": [
+    "Nature"
+  ],
+  "stats": {
+    "hp": 55,
+    "sta": 68,
+    "spd": 20,
+    "atk": 65,
+    "def": 38,
+    "spatk": 41,
+    "spdef": 42,
+    "total": 329
+  },
+  "traits": [
+    "Warm-Blooded",
+    "Amphibian"
+  ],
+  "details": {
+    "height": {
+      "cm": 113,
+      "inches": 44
+    },
+    "weight": {
+      "kg": 113,
+      "lbs": 249
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Slime",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Water Cutting Lily",
+        "source": "Levelling",
+        "levels": 24
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bubbles",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ice Cubes",
+        "source": "Breeding"
+      },
+      {
+        "name": "Revitalize",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toxic Slime",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Bigu is one of two Temtem that can not be found in the wild while its evolution can. The other is Smolzy."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 44,
+        "name": "Bigu",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Warm-Blooded",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Warm-Blooded": "Mucous",
+          "Amphibian": "Withdrawal"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 45,
+        "name": "Babawa",
+        "level": 18,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mucous",
+          "Withdrawal"
+        ],
+        "traitMapping": {
+          "Mucous": "Mucous",
+          "Withdrawal": "Withdrawal"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 45,
+      "name": "Babawa",
+      "level": 18,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mucous",
+        "Withdrawal"
+      ],
+      "traitMapping": {
+        "Mucous": "Mucous",
+        "Withdrawal": "Withdrawal"
+      }
+    },
+    "number": 44,
+    "name": "Bigu",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Warm-Blooded",
+      "Amphibian"
+    ],
+    "traitMapping": {
+      "Warm-Blooded": "Mucous",
+      "Amphibian": "Withdrawal"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 180,
+  "hatchMins": 9,
+  "description": "If there's an easily underestimated Temtem, that's Bigu. Comically ill-tempered, many tamers have found to their cost that these gastropods compensate their slow pace with outstanding tenacity in battle."
+}

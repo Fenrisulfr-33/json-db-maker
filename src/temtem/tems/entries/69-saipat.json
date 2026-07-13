@@ -1,0 +1,342 @@
+{
+  "_id": 69,
+  "name": {
+    "english": "Saipat"
+  },
+  "types": [
+    "Water",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 92,
+    "sta": 46,
+    "spd": 70,
+    "atk": 80,
+    "def": 60,
+    "spatk": 70,
+    "spdef": 67,
+    "total": 485
+  },
+  "traits": [
+    "Amphibian",
+    "Toxic Affinity"
+  ],
+  "details": {
+    "height": {
+      "cm": 100,
+      "inches": 39
+    },
+    "weight": {
+      "kg": 50,
+      "lbs": 110
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Rage",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Held Anger",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Iced Stalactite",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Nicho Sai",
+        "source": "Levelling",
+        "levels": 38
+      },
+      {
+        "name": "Waterjet",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Clinch",
+        "source": "Levelling",
+        "levels": 69
+      },
+      {
+        "name": "Wrenching Massage",
+        "source": "Levelling",
+        "levels": 84
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "5PPEH",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Ice Cubes",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ice Shuriken",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Saipat first appeared as small pieces of an image that were slowly revealed in the official Temtem Discord, until fans guessed its design while creating fan art.",
+    "Purple paint is traditionally made from the discarded shells of growing Saipat. They are carefully collected from where the young adult Saipat discard them, then crushed into a fine powder.",
+    "Saipat has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20% - 50%",
+      "level": "2 - 5",
+      "freetem": {
+        "minLevel": 2,
+        "maxLevel": 5,
+        "minPansuns": 24,
+        "maxPansuns": 30
+      }
+    },
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "5%",
+      "level": "6 - 8",
+      "freetem": {
+        "minLevel": 6,
+        "maxLevel": 8,
+        "minPansuns": 32,
+        "maxPansuns": 36
+      }
+    },
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "15% - 100%",
+      "level": "8 - 14",
+      "freetem": {
+        "minLevel": 8,
+        "maxLevel": 14,
+        "minPansuns": 36,
+        "maxPansuns": 47
+      }
+    },
+    {
+      "location": "Windward Fort",
+      "place": "Windward Fort",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20% - 50%",
+      "level": "9 - 15",
+      "freetem": {
+        "minLevel": 9,
+        "maxLevel": 15,
+        "minPansuns": 38,
+        "maxPansuns": 49
+      }
+    },
+    {
+      "location": "Arissola Dojo",
+      "place": "Arissola Dojo",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "35%",
+      "level": "15 - 17",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 17,
+        "minPansuns": 49,
+        "maxPansuns": 53
+      }
+    },
+    {
+      "location": "Sillaro River",
+      "place": "Sillaro River",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "45% - 100%",
+      "level": "13 - 16",
+      "freetem": {
+        "minLevel": 13,
+        "maxLevel": 16,
+        "minPansuns": 46,
+        "maxPansuns": 51
+      }
+    },
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 49,
+        "maxPansuns": 59
+      }
+    },
+    {
+      "location": "Aguamarina Caves",
+      "place": "Aguamarina Caves",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20% - 40%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 49,
+        "maxPansuns": 59
+      }
+    },
+    {
+      "location": "Saipark",
+      "place": "Saipark",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "50%",
+      "level": "38 - 41",
+      "freetem": {
+        "minLevel": 38,
+        "maxLevel": 41,
+        "minPansuns": 94,
+        "maxPansuns": 100
+      }
+    },
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "30% - 40%",
+      "level": "30 - 33",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 33,
+        "minPansuns": 78,
+        "maxPansuns": 84
+      }
+    },
+    {
+      "location": "Rice Fields",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "35%",
+      "level": "48 - 52",
+      "freetem": {
+        "minLevel": 48,
+        "maxLevel": 52,
+        "minPansuns": 113,
+        "maxPansuns": 121
+      }
+    },
+    {
+      "location": "Loch Aduar",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "60%",
+      "level": "58 - 62",
+      "freetem": {
+        "minLevel": 58,
+        "maxLevel": 62,
+        "minPansuns": 132,
+        "maxPansuns": 140
+      }
+    },
+    {
+      "location": "Meadowdale",
+      "place": "Meadowdale",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "20% - 50%",
+      "level": "55 - 65",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 65,
+        "minPansuns": 127,
+        "maxPansuns": 146
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 140,
+  "hatchMins": 17,
+  "description": "Nothing says 'amateur' like making fun of Saipat. Sure, they might look comical at first sight, but nobody who has faced a totally focused Saipat, sturdy coral sai in hand, takes them anything but seriously."
+}

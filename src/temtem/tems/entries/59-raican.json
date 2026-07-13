@@ -1,0 +1,223 @@
+{
+  "_id": 59,
+  "name": {
+    "english": "Raican"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 79,
+    "sta": 55,
+    "spd": 67,
+    "atk": 77,
+    "def": 77,
+    "spatk": 51,
+    "spdef": 54,
+    "total": 460
+  },
+  "traits": [
+    "Prideful",
+    "Motivator"
+  ],
+  "details": {
+    "height": {
+      "cm": 195,
+      "inches": 76
+    },
+    "weight": {
+      "kg": 125,
+      "lbs": 275
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Roar",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Fierce Claw",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "King's Roar",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Meteor Swarm",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quetza-leño",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Rampage",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Raican was first revealed via Twitter.",
+    "Raican was the first Temtem to be revealed on social media that was directly stated to be a third stage evolution."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 57,
+        "name": "Raiber",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Rested"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Furor",
+          "Rested": "Demoralize"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 58,
+        "name": "Raize",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Demoralize"
+        ],
+        "traitMapping": {
+          "Furor": "Prideful",
+          "Demoralize": "Motivator"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 59,
+        "name": "Raican",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Prideful",
+          "Motivator"
+        ],
+        "traitMapping": {
+          "Prideful": "Prideful",
+          "Motivator": "Motivator"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 58,
+      "name": "Raize",
+      "level": 15,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Furor",
+        "Demoralize"
+      ],
+      "traitMapping": {
+        "Furor": "Prideful",
+        "Demoralize": "Motivator"
+      }
+    },
+    "to": null,
+    "number": 59,
+    "name": "Raican",
+    "level": 25,
+    "trading": false,
+    "traits": [
+      "Prideful",
+      "Motivator"
+    ],
+    "traitMapping": {
+      "Prideful": "Prideful",
+      "Motivator": "Motivator"
+    }
+  },
+  "locations": [
+    {
+      "location": "Altar of the Inner Flame",
+      "place": "",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "95%",
+      "level": "70",
+      "freetem": {
+        "minLevel": 70,
+        "maxLevel": 70,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 85,
+    "female": 15
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "As the Tucmani legend goes, at the beginning of time, Tucma and Kisiwa were one single fire plain where huge herds of Raican ran wild and free, flame and Temtem being one until the Archipelago cooled and these noble creatures emigrated underground."
+}

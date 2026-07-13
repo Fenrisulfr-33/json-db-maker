@@ -1,0 +1,210 @@
+{
+  "_id": 47,
+  "name": {
+    "english": "0b10"
+  },
+  "types": [
+    "Digital",
+    "Electric"
+  ],
+  "stats": {
+    "hp": 61,
+    "sta": 76,
+    "spd": 78,
+    "atk": 52,
+    "def": 64,
+    "spatk": 62,
+    "spdef": 68,
+    "total": 461
+  },
+  "traits": [
+    "Source Replicator",
+    "Target Replicator"
+  ],
+  "details": {
+    "height": {
+      "cm": 12,
+      "inches": 4
+    },
+    "weight": {
+      "kg": 2,
+      "lbs": 4
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Chain Lightning",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Digithreat",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Electromagnetism",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Cooperation",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Electric Storm",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Reset",
+        "source": "Levelling",
+        "levels": 84
+      },
+      {
+        "name": "Blue Screen",
+        "source": "Levelling",
+        "levels": 95
+      }
+    ],
+    "courses": [
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Data Corruption",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Burrow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Bush",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sparks",
+        "source": "Breeding"
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "0b10 is the only Temtem to be a single creature composed of multiple separate entities.",
+    "0b10 and its pre-evolution are the only two Temtem to have numbers in their species name.\nDue to the restrictions on using numbers in Temtem nicknames, this means that they are also the only two Temtem that cannot be reverted to their original species name once they are given a nickname.",
+    "Due to the restrictions on using numbers in Temtem nicknames, this means that they are also the only two Temtem that cannot be reverted to their original species name once they are given a nickname."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 46,
+        "name": "0b1",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Fast Charge",
+          "Sentinel"
+        ],
+        "traitMapping": {
+          "Fast Charge": "Source Replicator",
+          "Sentinel": "Target Replicator"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 47,
+        "name": "0b10",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Source Replicator",
+          "Target Replicator"
+        ],
+        "traitMapping": {
+          "Source Replicator": "Source Replicator",
+          "Target Replicator": "Target Replicator"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 46,
+      "name": "0b1",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Fast Charge",
+        "Sentinel"
+      ],
+      "traitMapping": {
+        "Fast Charge": "Source Replicator",
+        "Sentinel": "Target Replicator"
+      }
+    },
+    "to": null,
+    "number": 47,
+    "name": "0b10",
+    "level": 15,
+    "trading": false,
+    "traits": [
+      "Source Replicator",
+      "Target Replicator"
+    ],
+    "traitMapping": {
+      "Source Replicator": "Source Replicator",
+      "Target Replicator": "Target Replicator"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 45,
+  "hatchMins": 36,
+  "description": "Conventional physics can't explain why 0b10 is a two-in-one Temtem, or how their attraction/repulsion dynamics actually work. Tamers don't really care, since this 'Tem is empathetic enough to be tameable... not to mention off-the-charts cute!"
+}

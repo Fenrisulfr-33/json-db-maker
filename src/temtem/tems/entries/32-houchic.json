@@ -1,0 +1,204 @@
+{
+  "_id": 32,
+  "name": {
+    "english": "Houchic"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 38,
+    "sta": 44,
+    "spd": 66,
+    "atk": 40,
+    "def": 41,
+    "spatk": 72,
+    "spdef": 52,
+    "total": 353
+  },
+  "traits": [
+    "Mental Alliance",
+    "Soft Touch"
+  ],
+  "details": {
+    "height": {
+      "cm": 110,
+      "inches": 43
+    },
+    "weight": {
+      "kg": 24,
+      "lbs": 52
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Psy Wave",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Lullaby",
+        "source": "Levelling",
+        "levels": 42
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Strangle",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "The player remarks that Houchic \"looks like their old art teacher\".",
+    "Houchic has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 32,
+        "name": "Houchic",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mental Alliance",
+          "Soft Touch"
+        ],
+        "traitMapping": {
+          "Mental Alliance": "Avenger",
+          "Soft Touch": "Water Affinity"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 33,
+        "name": "Tental",
+        "level": 29,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Avenger",
+          "Water Affinity"
+        ],
+        "traitMapping": {
+          "Avenger": "Deceit Aura",
+          "Water Affinity": "Water Custodian"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 34,
+        "name": "Nagaise",
+        "level": 24,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Deceit Aura",
+          "Water Custodian"
+        ],
+        "traitMapping": {
+          "Deceit Aura": "Deceit Aura",
+          "Water Custodian": "Water Custodian"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 33,
+      "name": "Tental",
+      "level": 29,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Avenger",
+        "Water Affinity"
+      ],
+      "traitMapping": {
+        "Avenger": "Deceit Aura",
+        "Water Affinity": "Water Custodian"
+      }
+    },
+    "number": 32,
+    "name": "Houchic",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Mental Alliance",
+      "Soft Touch"
+    ],
+    "traitMapping": {
+      "Mental Alliance": "Avenger",
+      "Soft Touch": "Water Affinity"
+    }
+  },
+  "locations": [
+    {
+      "location": "Meadowdale",
+      "place": "Meadowdale",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "5%",
+      "level": "40 - 50",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 50,
+        "minPansuns": 155,
+        "maxPansuns": 189
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "Clever but somehow naive, the gentle Houchic are ideal as the first Mental Temtem for novice trainers. They are emphatic and intuitive, capable of understanding the subtleties of mentalism."
+}

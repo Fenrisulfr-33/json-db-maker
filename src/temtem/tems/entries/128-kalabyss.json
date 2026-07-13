@@ -1,0 +1,247 @@
+{
+  "_id": 128,
+  "name": {
+    "english": "Kalabyss"
+  },
+  "types": [
+    "Water",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 82,
+    "sta": 37,
+    "spd": 37,
+    "atk": 75,
+    "def": 100,
+    "spatk": 65,
+    "spdef": 55,
+    "total": 451
+  },
+  "traits": [
+    "Toxic Skin",
+    "Mucous"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 163,
+      "lbs": 359
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Bubbles",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tentacle Whip",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Strangle",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Aqua Stone",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Flood",
+        "source": "Levelling",
+        "levels": 43
+      },
+      {
+        "name": "Waterjet",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Clinch",
+        "source": "Breeding"
+      },
+      {
+        "name": "Iced Stalactite",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toxic Slime",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Kalabyss was revealed to the public on the official discord and the Kickstarter update #30."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 127,
+        "name": "Kalazu",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mithridatism",
+          "Hydrologist"
+        ],
+        "traitMapping": {
+          "Mithridatism": "Toxic Skin",
+          "Hydrologist": "Mucous"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 128,
+        "name": "Kalabyss",
+        "level": 18,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Skin",
+          "Mucous"
+        ],
+        "traitMapping": {
+          "Toxic Skin": "Toxic Skin",
+          "Mucous": "Mucous"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 127,
+      "name": "Kalazu",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mithridatism",
+        "Hydrologist"
+      ],
+      "traitMapping": {
+        "Mithridatism": "Toxic Skin",
+        "Hydrologist": "Mucous"
+      }
+    },
+    "to": null,
+    "number": 128,
+    "name": "Kalabyss",
+    "level": 18,
+    "trading": false,
+    "traits": [
+      "Toxic Skin",
+      "Mucous"
+    ],
+    "traitMapping": {
+      "Toxic Skin": "Toxic Skin",
+      "Mucous": "Mucous"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 53,
+        "maxPansuns": 64
+      }
+    },
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "10%",
+      "level": "30 - 34",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 34,
+        "minPansuns": 85,
+        "maxPansuns": 94
+      }
+    },
+    {
+      "location": "Gardens of Aztlan",
+      "place": "",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "10%",
+      "level": "30 - 35",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 35,
+        "minPansuns": 85,
+        "maxPansuns": 96
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "How did Sillarian octopoda come in contact with mutagenic material is a matter of debate, but Kalabyss stand as an example of extreme adaption to the harshest environments - they have been known to survive a swim in Xolot Reservoir."
+}

@@ -1,0 +1,284 @@
+{
+  "_id": 12,
+  "name": {
+    "english": "Tateru"
+  },
+  "types": [
+    "Neutral"
+  ],
+  "stats": {
+    "hp": 79,
+    "sta": 85,
+    "spd": 60,
+    "atk": 78,
+    "def": 66,
+    "spatk": 54,
+    "spdef": 66,
+    "total": 488
+  },
+  "traits": [
+    "Soft Touch",
+    "Resilient"
+  ],
+  "details": {
+    "height": {
+      "cm": 145,
+      "inches": 57
+    },
+    "weight": {
+      "kg": 61,
+      "lbs": 134
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Rage",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Fierce Claw",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Lullaby",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Stone Ball",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Bestial Charge",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Cooperation",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Extra Energy Slam",
+        "source": "Levelling",
+        "levels": 84
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Held Anger",
+        "source": "Breeding"
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Knockback",
+        "source": "Breeding"
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Tateru was first revealed on Twitter.",
+    "Tateru was recolored many times before the final look was chosen, as depicted in its concept art.",
+    "Tateru has 5 emotes on the official Temtem Discord.",
+    "Tateru took over Temtem and became the CEO for one day on April 1st, 2020. It made several comical tweets and several other Tateru invaded the Discord chats before retiring at the end of the day due to being tired."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "30% - 50%",
+      "level": "2 - 6",
+      "freetem": {
+        "minLevel": 2,
+        "maxLevel": 6,
+        "minPansuns": 24,
+        "maxPansuns": 30
+      }
+    },
+    {
+      "location": "Saipark",
+      "place": "Saipark",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "50%",
+      "level": "37 - 40",
+      "freetem": {
+        "minLevel": 37,
+        "maxLevel": 40,
+        "minPansuns": 81,
+        "maxPansuns": 86
+      }
+    },
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "70%",
+      "level": "4 - 6",
+      "freetem": {
+        "minLevel": 4,
+        "maxLevel": 6,
+        "minPansuns": 27,
+        "maxPansuns": 30
+      }
+    },
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "40%",
+      "level": "8 - 10",
+      "freetem": {
+        "minLevel": 8,
+        "maxLevel": 10,
+        "minPansuns": 34,
+        "maxPansuns": 37
+      }
+    },
+    {
+      "location": "Windward Fort",
+      "place": "Windward Fort",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20%",
+      "level": "12 - 13",
+      "freetem": {
+        "minLevel": 12,
+        "maxLevel": 13,
+        "minPansuns": 40,
+        "maxPansuns": 42
+      }
+    },
+    {
+      "location": "Aguamarina Caves",
+      "place": "Aguamarina Caves",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20% - 30%",
+      "level": "14 - 20",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 20,
+        "minPansuns": 43,
+        "maxPansuns": 53
+      }
+    },
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "80%",
+      "level": "32 - 37",
+      "freetem": {
+        "minLevel": 32,
+        "maxLevel": 37,
+        "minPansuns": 73,
+        "maxPansuns": 81
+      }
+    },
+    {
+      "location": "Kilima Peaks",
+      "place": "Kilima Peaks",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20%",
+      "level": "42 - 44",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 44,
+        "minPansuns": 89,
+        "maxPansuns": 92
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 60,
+    "female": 40
+  },
+  "catchRate": 165,
+  "hatchMins": 12,
+  "description": "Despite their impressive height, Tateru are quite shy and not naturally aggressive. That's why they need proper training before battle. Wild Tateru are recognized for their upright position and sensitive antennae, always alert."
+}

@@ -1,0 +1,175 @@
+{
+  "_id": 42,
+  "name": {
+    "english": "Reval"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 50,
+    "sta": 46,
+    "spd": 40,
+    "atk": 61,
+    "def": 42,
+    "spatk": 80,
+    "spdef": 75,
+    "total": 394
+  },
+  "traits": [
+    "Heat Discharge",
+    "Enraged"
+  ],
+  "details": {
+    "height": {
+      "cm": 56,
+      "inches": 22
+    },
+    "weight": {
+      "kg": 12,
+      "lbs": 26
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Psy Wave",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Knockback",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 37
+      }
+    ],
+    "courses": [
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hallucination",
+        "source": "Breeding"
+      },
+      {
+        "name": "Matter Teleport",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 42,
+        "name": "Reval",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Heat Discharge",
+          "Enraged"
+        ],
+        "traitMapping": {
+          "Heat Discharge": "Warm Gift",
+          "Enraged": "Ignis Fatuus"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 43,
+        "name": "Aohi",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Warm Gift",
+          "Ignis Fatuus"
+        ],
+        "traitMapping": {
+          "Warm Gift": "Warm Gift",
+          "Ignis Fatuus": "Ignis Fatuus"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 43,
+      "name": "Aohi",
+      "level": 15,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Warm Gift",
+        "Ignis Fatuus"
+      ],
+      "traitMapping": {
+        "Warm Gift": "Warm Gift",
+        "Ignis Fatuus": "Ignis Fatuus"
+      }
+    },
+    "number": 42,
+    "name": "Reval",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Heat Discharge",
+      "Enraged"
+    ],
+    "traitMapping": {
+      "Heat Discharge": "Warm Gift",
+      "Enraged": "Ignis Fatuus"
+    }
+  },
+  "locations": [
+    {
+      "location": "Meadowdale",
+      "place": "Meadowdale",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "80%",
+      "level": "60 - 65",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 65,
+        "minPansuns": 146,
+        "maxPansuns": 157
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 129,
+  "hatchMins": 19.2,
+  "description": "Related to diverse (now extinct) subspecies of Cipanki 'vulpes mentalis', Reval used to be hunted by the Counts of House Braeside. Nowadays, they are protected and thrive in the forests of eastern Arbury."
+}

@@ -1,0 +1,153 @@
+{
+  "_id": 65,
+  "name": {
+    "english": "Hedgine"
+  },
+  "types": [
+    "Digital",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 54,
+    "sta": 48,
+    "spd": 84,
+    "atk": 51,
+    "def": 61,
+    "spatk": 80,
+    "spdef": 64,
+    "total": 442
+  },
+  "traits": [
+    "Gotta Go Fast",
+    "Going Away Gift"
+  ],
+  "details": {
+    "height": {
+      "cm": 145,
+      "inches": 57
+    },
+    "weight": {
+      "kg": 90,
+      "lbs": 198
+    }
+  },
+  "techniques": {
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Zen Meditation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hellfire",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      },
+      {
+        "name": "Rampage",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 64,
+        "name": "Hoglip",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Gotta Go Fast",
+          "Fast Charge"
+        ],
+        "traitMapping": {
+          "Gotta Go Fast": "Gotta Go Fast",
+          "Fast Charge": "Going Away Gift"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 65,
+        "name": "Hedgine",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Gotta Go Fast",
+          "Going Away Gift"
+        ],
+        "traitMapping": {
+          "Gotta Go Fast": "Gotta Go Fast",
+          "Going Away Gift": "Going Away Gift"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 64,
+      "name": "Hoglip",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Gotta Go Fast",
+        "Fast Charge"
+      ],
+      "traitMapping": {
+        "Gotta Go Fast": "Gotta Go Fast",
+        "Fast Charge": "Going Away Gift"
+      }
+    },
+    "to": null,
+    "number": 65,
+    "name": "Hedgine",
+    "level": 13,
+    "trading": false,
+    "traits": [
+      "Gotta Go Fast",
+      "Going Away Gift"
+    ],
+    "traitMapping": {
+      "Gotta Go Fast": "Gotta Go Fast",
+      "Going Away Gift": "Going Away Gift"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 70,
+  "hatchMins": 31,
+  "description": "Mischievous but sweet, Hedgine are so kawaii tamers are regularly reminded to don fireproof gloves before petting them, to avoid getting first-degree burns. They are also instructed to keep them supervised in wooden areas."
+}

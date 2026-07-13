@@ -1,0 +1,189 @@
+{
+  "_id": 14,
+  "name": {
+    "english": "Mosu"
+  },
+  "types": [
+    "Melee"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 39,
+    "spd": 35,
+    "atk": 65,
+    "def": 54,
+    "spatk": 65,
+    "spdef": 54,
+    "total": 372
+  },
+  "traits": [
+    "Punch Bag",
+    "Parrier"
+  ],
+  "details": {
+    "height": {
+      "cm": 145,
+      "inches": 57
+    },
+    "weight": {
+      "kg": 170,
+      "lbs": 374
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Charge",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Show Off",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Rage",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 50
+      }
+    ],
+    "courses": [
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Soul Shout",
+        "source": "Breeding"
+      },
+      {
+        "name": "Warm Cuddle",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 14,
+        "name": "Mosu",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Punch Bag",
+          "Parrier"
+        ],
+        "traitMapping": {
+          "Punch Bag": "Specgulp",
+          "Parrier": "Physgulp"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 15,
+        "name": "Magmut",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Specgulp",
+          "Physgulp"
+        ],
+        "traitMapping": {
+          "Specgulp": "Specgulp",
+          "Physgulp": "Physgulp"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 15,
+      "name": "Magmut",
+      "level": 15,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Specgulp",
+        "Physgulp"
+      ],
+      "traitMapping": {
+        "Specgulp": "Specgulp",
+        "Physgulp": "Physgulp"
+      }
+    },
+    "number": 14,
+    "name": "Mosu",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Punch Bag",
+      "Parrier"
+    ],
+    "traitMapping": {
+      "Punch Bag": "Specgulp",
+      "Parrier": "Physgulp"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mac Aed's Crags",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "25%",
+      "level": "60 - 66",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 66,
+        "minPansuns": 168,
+        "maxPansuns": 182
+      }
+    },
+    {
+      "location": "Greenglen Forest",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10% - 80%",
+      "level": "50 - 55",
+      "freetem": {
+        "minLevel": 50,
+        "maxLevel": 55,
+        "minPansuns": 143,
+        "maxPansuns": 155
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 110,
+  "hatchMins": 23,
+  "description": "The adorable Mosu descends from the primeval pachyderms that roamed the Greenglen Forest back when it was part of a great boreal forest spanning almost half of Paninsula."
+}

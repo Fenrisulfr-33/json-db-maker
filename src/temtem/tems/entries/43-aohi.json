@@ -1,0 +1,197 @@
+{
+  "_id": 43,
+  "name": {
+    "english": "Aohi"
+  },
+  "types": [
+    "Mental",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 64,
+    "sta": 51,
+    "spd": 71,
+    "atk": 61,
+    "def": 42,
+    "spatk": 89,
+    "spdef": 79,
+    "total": 457
+  },
+  "traits": [
+    "Warm Gift",
+    "Ignis Fatuus"
+  ],
+  "details": {
+    "height": {
+      "cm": 136,
+      "inches": 53
+    },
+    "weight": {
+      "kg": 26,
+      "lbs": 57
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Psy Wave",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Knockback",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Jinxed Whisper",
+        "source": "Levelling",
+        "levels": 64
+      },
+      {
+        "name": "Fiery Soul",
+        "source": "Levelling",
+        "levels": 78
+      },
+      {
+        "name": "Nightmare Feed",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quetza-leño",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hallucination",
+        "source": "Breeding"
+      },
+      {
+        "name": "Matter Teleport",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 42,
+        "name": "Reval",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Heat Discharge",
+          "Enraged"
+        ],
+        "traitMapping": {
+          "Heat Discharge": "Warm Gift",
+          "Enraged": "Ignis Fatuus"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 43,
+        "name": "Aohi",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Warm Gift",
+          "Ignis Fatuus"
+        ],
+        "traitMapping": {
+          "Warm Gift": "Warm Gift",
+          "Ignis Fatuus": "Ignis Fatuus"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 42,
+      "name": "Reval",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Heat Discharge",
+        "Enraged"
+      ],
+      "traitMapping": {
+        "Heat Discharge": "Warm Gift",
+        "Enraged": "Ignis Fatuus"
+      }
+    },
+    "to": null,
+    "number": 43,
+    "name": "Aohi",
+    "level": 15,
+    "trading": false,
+    "traits": [
+      "Warm Gift",
+      "Ignis Fatuus"
+    ],
+    "traitMapping": {
+      "Warm Gift": "Warm Gift",
+      "Ignis Fatuus": "Ignis Fatuus"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "Fast and sinuous like wildfire, Aohi are cunning and sly creatures who routinely outsmart all but the most seasoned of tamers. Even in the wild, they delight in tricking the more gullible Reval."
+}

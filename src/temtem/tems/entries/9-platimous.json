@@ -1,0 +1,252 @@
+{
+  "_id": 9,
+  "name": {
+    "english": "Platimous"
+  },
+  "types": [
+    "Water",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 73,
+    "sta": 49,
+    "spd": 82,
+    "atk": 56,
+    "def": 39,
+    "spatk": 93,
+    "spdef": 70,
+    "total": 462
+  },
+  "traits": [
+    "Zen",
+    "Determined"
+  ],
+  "details": {
+    "height": {
+      "cm": 190,
+      "inches": 74
+    },
+    "weight": {
+      "kg": 107,
+      "lbs": 235
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Finbeat",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Aqua Bullet Hell",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Toxic Fang",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Tsunami",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Paralyzing Poison",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Toxin Shower",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Aquatic Whirlwind",
+        "source": "Levelling",
+        "levels": 70
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Levelling",
+        "levels": 84
+      }
+    ],
+    "courses": [
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Antitoxins",
+        "source": "Breeding"
+      },
+      {
+        "name": "Flood",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Breeding"
+      },
+      {
+        "name": "Urushiol",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Platimous is a Breeder Tier Temtem by PokéNinja, who pledged $6000 to the Kickstarter. It was drawn by 50 Shades of Heliolisk. Crema and PokéNinja obtained the rights to add Platypet, Platox and Platimous to the game.",
+    "Platimous' Luma color was chosen based on a community vote by PokéNinja."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 7,
+        "name": "Platypet",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Affinity",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Toxic Affinity": "Resistant",
+          "Amphibian": "Resilient"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 8,
+        "name": "Platox",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Resistant",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Resistant": "Zen",
+          "Resilient": "Determined"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 9,
+        "name": "Platimous",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Zen",
+          "Determined"
+        ],
+        "traitMapping": {
+          "Zen": "Zen",
+          "Determined": "Determined"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 8,
+      "name": "Platox",
+      "level": 20,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Resistant",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Resistant": "Zen",
+        "Resilient": "Determined"
+      }
+    },
+    "to": null,
+    "number": 9,
+    "name": "Platimous",
+    "level": 20,
+    "trading": false,
+    "traits": [
+      "Zen",
+      "Determined"
+    ],
+    "traitMapping": {
+      "Zen": "Zen",
+      "Determined": "Determined"
+    }
+  },
+  "locations": [
+    {
+      "location": "Dabmis' Rest",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "95%",
+      "level": "70",
+      "freetem": {
+        "minLevel": 70,
+        "maxLevel": 70,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Charles Temwin described them as \"Platox, but more so\". This is usually taken as classic Arburian understatement: Platimous were amongst the most successful apex predators before large-scale taming, and remain very effective fighters."
+}

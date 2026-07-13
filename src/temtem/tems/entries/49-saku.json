@@ -1,0 +1,264 @@
+{
+  "_id": 49,
+  "name": {
+    "english": "Saku"
+  },
+  "types": [
+    "Nature",
+    "Wind"
+  ],
+  "stats": {
+    "hp": 82,
+    "sta": 68,
+    "spd": 40,
+    "atk": 71,
+    "def": 68,
+    "spatk": 40,
+    "spdef": 70,
+    "total": 439
+  },
+  "traits": [
+    "Air Specialist",
+    "Botanist"
+  ],
+  "details": {
+    "height": {
+      "cm": 92,
+      "inches": 36
+    },
+    "weight": {
+      "kg": 44,
+      "lbs": 97
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Toxic Spores",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Urushiol",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Debris Typhoon",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Narcoleptic Hit",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Boomerang",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 39
+      },
+      {
+        "name": "Turbine",
+        "source": "Levelling",
+        "levels": 51
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Refreshing Breeze",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 96
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bark Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lifeful Sap",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Saku was first revealed via Twitter.",
+    "Saku has 4 emotes on the official Temtem Discord.",
+    "The Temtem Discord community created \"cults\" worshipping Saku and Pigepic. The official Twitter account for Temtem later created a tweet pitting the “Sakult” and “Team Porket” against each other. The Sakult is currently the winner."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 48,
+        "name": "Kaku",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Mithridatism"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Air Specialist",
+          "Mithridatism": "Botanist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 49,
+        "name": "Saku",
+        "level": 11,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Air Specialist",
+          "Botanist"
+        ],
+        "traitMapping": {
+          "Air Specialist": "Air Specialist",
+          "Botanist": "Botanist"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 48,
+      "name": "Kaku",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Caffeinated",
+        "Mithridatism"
+      ],
+      "traitMapping": {
+        "Caffeinated": "Air Specialist",
+        "Mithridatism": "Botanist"
+      }
+    },
+    "to": null,
+    "number": 49,
+    "name": "Saku",
+    "level": 11,
+    "trading": false,
+    "traits": [
+      "Air Specialist",
+      "Botanist"
+    ],
+    "traitMapping": {
+      "Air Specialist": "Air Specialist",
+      "Botanist": "Botanist"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Canopath",
+      "place": "The Canopath",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "5%",
+      "level": "16 - 18",
+      "freetem": {
+        "minLevel": 16,
+        "maxLevel": 18,
+        "minPansuns": 51,
+        "maxPansuns": 55
+      }
+    },
+    {
+      "location": "The Glassyway",
+      "place": "The Glassyway",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25%",
+      "level": "19 - 22",
+      "freetem": {
+        "minLevel": 19,
+        "maxLevel": 22,
+        "minPansuns": 57,
+        "maxPansuns": 63
+      }
+    },
+    {
+      "location": "Kupeleleza",
+      "place": "Kupeleleza",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "40%",
+      "level": "35 - 38",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 38,
+        "minPansuns": 88,
+        "maxPansuns": 94
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 140,
+  "hatchMins": 17,
+  "description": "Some say the first airship designs were inspired by this Temtem's ability to inflate air pockets within its body, allowing it to float and drift with the prevailing winds."
+}

@@ -1,0 +1,145 @@
+{
+  "_id": 115,
+  "name": {
+    "english": "Oceara"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 64,
+    "sta": 42,
+    "spd": 100,
+    "atk": 54,
+    "def": 51,
+    "spatk": 105,
+    "spdef": 65,
+    "total": 481
+  },
+  "traits": [
+    "Hydrologist",
+    "Hurry-wart"
+  ],
+  "details": {
+    "height": {
+      "cm": 222,
+      "inches": 87
+    },
+    "weight": {
+      "kg": 52,
+      "lbs": 114
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Ice Shuriken",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Tsunami",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Flood",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Hibernate",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Refreshing Breeze",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Serbatiyo's Wrath",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Chain Heal",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Oceara appeared for the first time in the Mounts Kickstarter update, though little was known about it. Its official name and description were revealed on the official Temtem Twitter on 19/11/2018.",
+    "Oceara seems to be based off the Qilin/Kirin, antelopine divine creatures in Chinese and Japanese mythology respectively."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Aguamarina Caves",
+      "place": "Aguamarina Caves",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "5%",
+      "level": "15 - 22",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 22,
+        "minPansuns": 136,
+        "maxPansuns": 190
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 10,
+    "female": 90
+  },
+  "catchRate": 35,
+  "hatchMins": 38,
+  "description": "Very rarely seen in Deniz, Oceara are believed to be the basis for the legendary \"serbatiyo\" of the Sea-Queen legend. Their possession is a mark of distinction and prestige among Water Temtem experts."
+}

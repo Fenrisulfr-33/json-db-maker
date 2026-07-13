@@ -1,0 +1,142 @@
+{
+  "_id": 164,
+  "name": {
+    "english": "Volgon"
+  },
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 38,
+    "spd": 60,
+    "atk": 58,
+    "def": 62,
+    "spatk": 90,
+    "spdef": 67,
+    "total": 435
+  },
+  "traits": [
+    "Short Circuit",
+    "Superconductivity"
+  ],
+  "details": {
+    "height": {
+      "cm": 1200,
+      "inches": 472
+    },
+    "weight": {
+      "kg": 6200,
+      "lbs": 13671
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Strangle",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Willpower Drain",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Purgation",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Late Torment",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Rend",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Cage",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Defibrillate",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Electric Storm",
+        "source": "Levelling",
+        "levels": 56
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Levelling",
+        "levels": 70
+      },
+      {
+        "name": "Boomerang",
+        "source": "Levelling",
+        "levels": 81
+      },
+      {
+        "name": "Undermine",
+        "source": "Levelling",
+        "levels": 90
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 95
+      },
+      {
+        "name": "Ampere Outburst",
+        "source": "Levelling",
+        "levels": 100
+      }
+    ]
+  },
+  "trivia": [
+    "There are currently only 9 known Luma Volgon in the world.\nThe first Luma Volgon, and the first Luma Mythical, was hatched by A Cheeky Greek (IGN) on September 5, 2021 with a 1/10,000 Luma chance.",
+    "The first Luma Volgon, and the first Luma Mythical, was hatched by A Cheeky Greek (IGN) on September 5, 2021 with a 1/10,000 Luma chance."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Sacred Lake",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "Reward",
+      "level": "1 (Egg)",
+      "freetem": {
+        "minLevel": 1,
+        "maxLevel": 1,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "In Cipanki lore, dragons are born of lightning to roam the vast reaches of heaven. Sometimes, a curious member of their race will visit the Archipelago and befriend a human. They are never considered \"tamed\" - they merely consent to accompanying a tamer for a few years or even decades."
+}

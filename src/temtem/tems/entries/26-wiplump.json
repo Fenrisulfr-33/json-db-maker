@@ -1,0 +1,270 @@
+{
+  "_id": 26,
+  "name": {
+    "english": "Wiplump"
+  },
+  "types": [
+    "Water",
+    "Wind"
+  ],
+  "stats": {
+    "hp": 66,
+    "sta": 80,
+    "spd": 70,
+    "atk": 40,
+    "def": 50,
+    "spatk": 88,
+    "spdef": 80,
+    "total": 474
+  },
+  "traits": [
+    "Plethoric",
+    "Patient"
+  ],
+  "details": {
+    "height": {
+      "cm": 125,
+      "inches": 49
+    },
+    "weight": {
+      "kg": 28,
+      "lbs": 61
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Bubbles",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Ice Cubes",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Cold Breeze",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Drill Impact",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Hibernate",
+        "source": "Levelling",
+        "levels": 57
+      },
+      {
+        "name": "Gust",
+        "source": "Levelling",
+        "levels": 73
+      },
+      {
+        "name": "Refreshing Breeze",
+        "source": "Levelling",
+        "levels": 90
+      },
+      {
+        "name": "Water Cannon",
+        "source": "Levelling",
+        "levels": 100
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hurricane",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ice Shuriken",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Wiplump has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 25,
+        "name": "Fomu",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Amphibian",
+          "Hydrologist"
+        ],
+        "traitMapping": {
+          "Amphibian": "Plethoric",
+          "Hydrologist": "Patient"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 26,
+        "name": "Wiplump",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Plethoric",
+          "Patient"
+        ],
+        "traitMapping": {
+          "Plethoric": "Plethoric",
+          "Patient": "Patient"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 25,
+      "name": "Fomu",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Amphibian",
+        "Hydrologist"
+      ],
+      "traitMapping": {
+        "Amphibian": "Plethoric",
+        "Hydrologist": "Patient"
+      }
+    },
+    "to": null,
+    "number": 26,
+    "name": "Wiplump",
+    "level": 20,
+    "trading": false,
+    "traits": [
+      "Plethoric",
+      "Patient"
+    ],
+    "traitMapping": {
+      "Plethoric": "Plethoric",
+      "Patient": "Patient"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sillaro River",
+      "place": "Sillaro River",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "5% - 85%",
+      "level": "14 - 42",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 42,
+        "minPansuns": 62,
+        "maxPansuns": 146
+      }
+    },
+    {
+      "location": "Kakama Cenote",
+      "place": "Kakama Cenote",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "40%",
+      "level": "38 - 41",
+      "freetem": {
+        "minLevel": 38,
+        "maxLevel": 41,
+        "minPansuns": 134,
+        "maxPansuns": 143
+      }
+    },
+    {
+      "location": "Rice Fields",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "35%",
+      "level": "48 - 53",
+      "freetem": {
+        "minLevel": 48,
+        "maxLevel": 53,
+        "minPansuns": 164,
+        "maxPansuns": 179
+      }
+    },
+    {
+      "location": "The Highbelow?",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "55 - 65",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 65,
+        "minPansuns": 185,
+        "maxPansuns": 215
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "Wiplump takes Fomu's clever use of water vapor one step further - flying on steam wings, this species boasts increased range and speed, paired with a stronger attack thanks to its sturdier horn."
+}

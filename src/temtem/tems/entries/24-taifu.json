@@ -1,0 +1,264 @@
+{
+  "_id": 24,
+  "name": {
+    "english": "Taifu"
+  },
+  "types": [
+    "Nature"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 87,
+    "spd": 45,
+    "atk": 50,
+    "def": 45,
+    "spatk": 91,
+    "spdef": 89,
+    "total": 467
+  },
+  "traits": [
+    "Toxic Farewell",
+    "Resilient"
+  ],
+  "details": {
+    "height": {
+      "cm": 180,
+      "inches": 70
+    },
+    "weight": {
+      "kg": 72,
+      "lbs": 158
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Bark Shield",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Dust Vortex",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Chain Heal",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Knockback",
+        "source": "Levelling",
+        "levels": 74
+      },
+      {
+        "name": "Extra Energy Slam",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Leech",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hypoxia",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Breeding"
+      },
+      {
+        "name": "Spores",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Taifu was first revealed via Twitter.",
+    "Ukama Lover, an NPC in the residential area of Mokupuni, wants to trade his Taifu for a Ukama.\nThe Taifu traded has the same Gender, Level, SVs and remaining Fertility.",
+    "The Taifu traded has the same Gender, Level, SVs and remaining Fertility."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 23,
+        "name": "Hidody",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Electric Synthesize",
+          "Botanist"
+        ],
+        "traitMapping": {
+          "Electric Synthesize": "Toxic Farewell",
+          "Botanist": "Resilient"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 24,
+        "name": "Taifu",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Farewell",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Toxic Farewell": "Toxic Farewell",
+          "Resilient": "Resilient"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 23,
+      "name": "Hidody",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Electric Synthesize",
+        "Botanist"
+      ],
+      "traitMapping": {
+        "Electric Synthesize": "Toxic Farewell",
+        "Botanist": "Resilient"
+      }
+    },
+    "to": null,
+    "number": 24,
+    "name": "Taifu",
+    "level": 15,
+    "trading": false,
+    "traits": [
+      "Toxic Farewell",
+      "Resilient"
+    ],
+    "traitMapping": {
+      "Toxic Farewell": "Toxic Farewell",
+      "Resilient": "Resilient"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Glassyway",
+      "place": "The Glassyway",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25%",
+      "level": "19 - 22",
+      "freetem": {
+        "minLevel": 19,
+        "maxLevel": 22,
+        "minPansuns": 62,
+        "maxPansuns": 68
+      }
+    },
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "85%",
+      "level": "40 - 45",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 45,
+        "minPansuns": 107,
+        "maxPansuns": 118
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "Brought up on a steady diet of stolen cookies, Hidody evolves into the more agile Taifu. They are naughty but cute creatures, naturally given to light-hearted mischief... but very serious opponents in battle."
+}

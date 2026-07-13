@@ -1,0 +1,303 @@
+{
+  "_id": 28,
+  "name": {
+    "english": "Skunch"
+  },
+  "types": [
+    "Neutral",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 72,
+    "sta": 67,
+    "spd": 75,
+    "atk": 66,
+    "def": 70,
+    "spatk": 45,
+    "spdef": 60,
+    "total": 455
+  },
+  "traits": [
+    "Brawny",
+    "Bully"
+  ],
+  "details": {
+    "height": {
+      "cm": 150,
+      "inches": 59
+    },
+    "weight": {
+      "kg": 36,
+      "lbs": 79
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Held Anger",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Fierce Claw",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Haito Uchi",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Savage Suplex",
+        "source": "Levelling",
+        "levels": 56
+      },
+      {
+        "name": "Wrenching Massage",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "5PPEH",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Oshi-Dashi",
+        "source": "Breeding"
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Skunch was first revealed via Twitch in iPokeNinja's Stream on 08/08/2018."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 27,
+        "name": "Skail",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Scavenger"
+        ],
+        "traitMapping": {
+          "Furor": "Brawny",
+          "Scavenger": "Bully"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 28,
+        "name": "Skunch",
+        "level": 17,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Brawny",
+          "Bully"
+        ],
+        "traitMapping": {
+          "Brawny": "Brawny",
+          "Bully": "Bully"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 27,
+      "name": "Skail",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Furor",
+        "Scavenger"
+      ],
+      "traitMapping": {
+        "Furor": "Brawny",
+        "Scavenger": "Bully"
+      }
+    },
+    "to": null,
+    "number": 28,
+    "name": "Skunch",
+    "level": 17,
+    "trading": false,
+    "traits": [
+      "Brawny",
+      "Bully"
+    ],
+    "traitMapping": {
+      "Brawny": "Brawny",
+      "Bully": "Bully"
+    }
+  },
+  "locations": [
+    {
+      "location": "Aguamarina Caves",
+      "place": "Aguamarina Caves",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "5%",
+      "level": "14 - 20",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 20,
+        "minPansuns": 62,
+        "maxPansuns": 80
+      }
+    },
+    {
+      "location": "Corrupted Badlands",
+      "place": "Corrupted Badlands",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "20%",
+      "level": "26 - 30",
+      "freetem": {
+        "minLevel": 26,
+        "maxLevel": 30,
+        "minPansuns": 98,
+        "maxPansuns": 110
+      }
+    },
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50%",
+      "level": "27 - 30",
+      "freetem": {
+        "minLevel": 27,
+        "maxLevel": 30,
+        "minPansuns": 101,
+        "maxPansuns": 110
+      }
+    },
+    {
+      "location": "Mawingu Islets",
+      "place": "Mawingu Islets",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "30%",
+      "level": "30 - 34",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 34,
+        "minPansuns": 110,
+        "maxPansuns": 122
+      }
+    },
+    {
+      "location": "Chini Grotto",
+      "place": "Chini Grotto",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20%",
+      "level": "43 - 48",
+      "freetem": {
+        "minLevel": 43,
+        "maxLevel": 48,
+        "minPansuns": 149,
+        "maxPansuns": 164
+      }
+    },
+    {
+      "location": "Kilima Peaks",
+      "place": "Kilima Peaks",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 70%",
+      "level": "42 - 48",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 48,
+        "minPansuns": 146,
+        "maxPansuns": 164
+      }
+    },
+    {
+      "location": "Barafu Glacier",
+      "place": "Barafu Glacier",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "65%",
+      "level": "42 - 47",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 47,
+        "minPansuns": 146,
+        "maxPansuns": 161
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "Unlike their lesser brethren, Skunch are capable of bipedalism and can even stand on their muscular tails. This evolution allows them to pummel enemies with their massive fists... but it's done nothing to ameliorate their aggressive mood."
+}

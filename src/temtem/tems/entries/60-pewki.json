@@ -1,0 +1,242 @@
+{
+  "_id": 60,
+  "name": {
+    "english": "Pewki"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 70,
+    "sta": 32,
+    "spd": 33,
+    "atk": 42,
+    "def": 45,
+    "spatk": 31,
+    "spdef": 10,
+    "total": 263
+  },
+  "traits": [
+    "Hydrologist",
+    "Rested"
+  ],
+  "details": {
+    "height": {
+      "cm": 60,
+      "inches": 23
+    },
+    "weight": {
+      "kg": 15,
+      "lbs": 33
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Bubbles",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Finbeat",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Jaw Strike",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Rend",
+        "source": "Levelling",
+        "levels": 38
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Cold Geyser",
+        "source": "Breeding"
+      },
+      {
+        "name": "Flood",
+        "source": "Breeding"
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Breeding"
+      },
+      {
+        "name": "Revitalize",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "During the side quest Better Future: Asterion if you choose not to accept the Pansuns, Asterion will give you a level 15 Pewki with 3 perfect SVs.",
+    "Pewki has 6 emotes on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 60,
+        "name": "Pewki",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hydrologist",
+          "Rested"
+        ],
+        "traitMapping": {
+          "Hydrologist": "Patient",
+          "Rested": "Energy Reserves"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 61,
+        "name": "Piraniant",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Patient",
+          "Energy Reserves"
+        ],
+        "traitMapping": {
+          "Patient": "Patient",
+          "Energy Reserves": "Energy Reserves"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 61,
+      "name": "Piraniant",
+      "level": 13,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Patient",
+        "Energy Reserves"
+      ],
+      "traitMapping": {
+        "Patient": "Patient",
+        "Energy Reserves": "Energy Reserves"
+      }
+    },
+    "number": 60,
+    "name": "Pewki",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Hydrologist",
+      "Rested"
+    ],
+    "traitMapping": {
+      "Hydrologist": "Patient",
+      "Rested": "Energy Reserves"
+    }
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "100%",
+      "level": "14 - 20",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 20,
+        "minPansuns": 46,
+        "maxPansuns": 56
+      }
+    },
+    {
+      "location": "Sillaro River",
+      "place": "Sillaro River",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "30%",
+      "level": "13 - 14",
+      "freetem": {
+        "minLevel": 13,
+        "maxLevel": 14,
+        "minPansuns": 44,
+        "maxPansuns": 46
+      }
+    },
+    {
+      "location": "The Flywalk",
+      "place": "The Flywalk",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "60%",
+      "level": "18 - 20",
+      "freetem": {
+        "minLevel": 18,
+        "maxLevel": 20,
+        "minPansuns": 53,
+        "maxPansuns": 56
+      }
+    },
+    {
+      "location": "The Hangroad",
+      "place": "The Hangroad",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "60%",
+      "level": "14 - 18",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 18,
+        "minPansuns": 46,
+        "maxPansuns": 53
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "Their flat shape allows Pewki to float right under the water surface, while they scout around using their huge, widely spaced eyes. Their iconic tall fins are often the only way to tell them apart from driftwood."
+}

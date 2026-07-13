@@ -1,0 +1,167 @@
+{
+  "_id": 86,
+  "name": {
+    "english": "Magmis"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 52,
+    "sta": 51,
+    "spd": 37,
+    "atk": 55,
+    "def": 42,
+    "spatk": 45,
+    "spdef": 35,
+    "total": 317
+  },
+  "traits": [
+    "Caffeinated",
+    "Thick Skin"
+  ],
+  "details": {
+    "height": {
+      "cm": 115,
+      "inches": 45
+    },
+    "weight": {
+      "kg": 26,
+      "lbs": 58
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Jaw Strike",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Rage",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Warm Cuddle",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 26
+      }
+    ]
+  },
+  "trivia": [
+    "Magmis was first revealed via Twitter.",
+    "Magmis was the first Temtem that was confirmed with an evolution."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 86,
+        "name": "Magmis",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Thick Skin"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Solidifier",
+          "Thick Skin": "Pyromaniac"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 87,
+        "name": "Mastione",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Solidifier",
+          "Pyromaniac"
+        ],
+        "traitMapping": {
+          "Solidifier": "Solidifier",
+          "Pyromaniac": "Pyromaniac"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 87,
+      "name": "Mastione",
+      "level": 16,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Solidifier",
+        "Pyromaniac"
+      ],
+      "traitMapping": {
+        "Solidifier": "Solidifier",
+        "Pyromaniac": "Pyromaniac"
+      }
+    },
+    "number": 86,
+    "name": "Magmis",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Caffeinated",
+      "Thick Skin"
+    ],
+    "traitMapping": {
+      "Caffeinated": "Solidifier",
+      "Thick Skin": "Pyromaniac"
+    }
+  },
+  "locations": [
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "80%",
+      "level": "17 - 20",
+      "freetem": {
+        "minLevel": 17,
+        "maxLevel": 20,
+        "minPansuns": 43,
+        "maxPansuns": 47
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 200,
+  "hatchMins": 5,
+  "description": "Magmis' original habitat was in the lava rivers under the Anak caldera, but now they can be found all around the Archipelago, as foundry operators in Quetzal, heating systems in Arbury... And, of course, in Temtem battles."
+}

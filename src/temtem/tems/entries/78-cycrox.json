@@ -1,0 +1,178 @@
+{
+  "_id": 78,
+  "name": {
+    "english": "Cycrox"
+  },
+  "types": [
+    "Digital",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 73,
+    "sta": 62,
+    "spd": 48,
+    "atk": 54,
+    "def": 61,
+    "spatk": 75,
+    "spdef": 71,
+    "total": 444
+  },
+  "traits": [
+    "Neurotoxins",
+    "Water Synthesizer"
+  ],
+  "details": {
+    "height": {
+      "cm": 132,
+      "inches": 51
+    },
+    "weight": {
+      "kg": 41,
+      "lbs": 90
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Strangle",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Toxic Slime",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Digithreat",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Meditation",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Slime",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Wastewater",
+        "source": "Levelling",
+        "levels": 52
+      },
+      {
+        "name": "Venom Spread",
+        "source": "Levelling",
+        "levels": 63
+      },
+      {
+        "name": "Virulent Gust",
+        "source": "Levelling",
+        "levels": 72
+      },
+      {
+        "name": "Metabolize",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 95
+      }
+    ],
+    "courses": [
+      {
+        "name": "Zen Meditation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Paralyzing Poison",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Rice Fields",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "60%",
+      "level": "47 - 55",
+      "freetem": {
+        "minLevel": 47,
+        "maxLevel": 55,
+        "minPansuns": 161,
+        "maxPansuns": 185
+      }
+    },
+    {
+      "location": "Sacred Lake",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "30%",
+      "level": "55 - 65",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 65,
+        "minPansuns": 185,
+        "maxPansuns": 215
+      }
+    },
+    {
+      "location": "The Highbelow?",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "60 - 70",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 70,
+        "minPansuns": 200,
+        "maxPansuns": 230
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 20,
+    "female": 80
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "One rumor tells of a Mimit that fell into a Xolot. Another one, of a Nanto boffin accidentally spilling coffee on some circuitry. Be as it may, Cycrox is as close as it gets to a computer virus, but in the flesh... and in the silicon."
+}

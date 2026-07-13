@@ -1,0 +1,256 @@
+{
+  "_id": 87,
+  "name": {
+    "english": "Mastione"
+  },
+  "types": [
+    "Fire",
+    "Water"
+  ],
+  "stats": {
+    "hp": 80,
+    "sta": 68,
+    "spd": 50,
+    "atk": 91,
+    "def": 65,
+    "spatk": 62,
+    "spdef": 52,
+    "total": 468
+  },
+  "traits": [
+    "Solidifier",
+    "Pyromaniac"
+  ],
+  "details": {
+    "height": {
+      "cm": 240,
+      "inches": 94
+    },
+    "weight": {
+      "kg": 180,
+      "lbs": 396
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Jaw Strike",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Rage",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Warm Cuddle",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Meteor Swarm",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Flaming Meteorite",
+        "source": "Levelling",
+        "levels": 52
+      },
+      {
+        "name": "Lava Wave",
+        "source": "Levelling",
+        "levels": 64
+      },
+      {
+        "name": "Aqua Stone",
+        "source": "Levelling",
+        "levels": 72
+      },
+      {
+        "name": "Charcoal Wall",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Levelling",
+        "levels": 100
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ]
+  },
+  "trivia": [
+    "Mastione was first revealed via Twitter.",
+    "Mastione was the first Temtem confirmed with a pre-evolution.",
+    "Mastione has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 86,
+        "name": "Magmis",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Thick Skin"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Solidifier",
+          "Thick Skin": "Pyromaniac"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 87,
+        "name": "Mastione",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Solidifier",
+          "Pyromaniac"
+        ],
+        "traitMapping": {
+          "Solidifier": "Solidifier",
+          "Pyromaniac": "Pyromaniac"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 86,
+      "name": "Magmis",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Caffeinated",
+        "Thick Skin"
+      ],
+      "traitMapping": {
+        "Caffeinated": "Solidifier",
+        "Thick Skin": "Pyromaniac"
+      }
+    },
+    "to": null,
+    "number": 87,
+    "name": "Mastione",
+    "level": 16,
+    "trading": false,
+    "traits": [
+      "Solidifier",
+      "Pyromaniac"
+    ],
+    "traitMapping": {
+      "Solidifier": "Solidifier",
+      "Pyromaniac": "Pyromaniac"
+    }
+  },
+  "locations": [
+    {
+      "location": "Anak Caldera",
+      "place": "Anak Caldera",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25%",
+      "level": "33 - 38",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 38,
+        "minPansuns": 110,
+        "maxPansuns": 123
+      }
+    },
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25% - 35%",
+      "level": "45 - 55",
+      "freetem": {
+        "minLevel": 45,
+        "maxLevel": 55,
+        "minPansuns": 142,
+        "maxPansuns": 169
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Mastione are fire-loving Temtem, at home in the fiercest of blazes. They can be found grazing in woods devoured by wildfire. The tamed varieties learn to rein in their destructive tendencies - but even then, trainers should exercise care."
+}

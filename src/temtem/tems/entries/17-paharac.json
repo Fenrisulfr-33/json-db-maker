@@ -1,0 +1,373 @@
+{
+  "_id": 17,
+  "name": {
+    "english": "Paharac"
+  },
+  "types": [
+    "Wind"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 30,
+    "spd": 70,
+    "atk": 50,
+    "def": 55,
+    "spatk": 60,
+    "spdef": 60,
+    "total": 385
+  },
+  "traits": [
+    "Caffeinated",
+    "Camaraderie"
+  ],
+  "details": {
+    "height": {
+      "cm": 125,
+      "inches": 49
+    },
+    "weight": {
+      "kg": 24,
+      "lbs": 52
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Refresh",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Willpower Drain",
+        "source": "Levelling",
+        "levels": 52
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Humiliating Slap",
+        "source": "Breeding"
+      },
+      {
+        "name": "Tornado",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "There's a home in Arissola where a Luma Paharac sits near the other end of the home.",
+    "Paharac was first seen on Twitter.",
+    "Paharac was first revealed on the 13th June 2018, during a Twitch interview hosted by PokéNinja and the CEO of Crema, Enrique Paños."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 16,
+        "name": "Paharo",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hover",
+          "Friendship"
+        ],
+        "traitMapping": {
+          "Hover": "Caffeinated",
+          "Friendship": "Camaraderie"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 17,
+        "name": "Paharac",
+        "level": 7,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Camaraderie"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Last Rush",
+          "Camaraderie": "Bully"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 18,
+        "name": "Granpah",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Last Rush",
+          "Bully"
+        ],
+        "traitMapping": {
+          "Last Rush": "Last Rush",
+          "Bully": "Bully"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 16,
+      "name": "Paharo",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Hover",
+        "Friendship"
+      ],
+      "traitMapping": {
+        "Hover": "Caffeinated",
+        "Friendship": "Camaraderie"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 18,
+      "name": "Granpah",
+      "level": 16,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Last Rush",
+        "Bully"
+      ],
+      "traitMapping": {
+        "Last Rush": "Last Rush",
+        "Bully": "Bully"
+      }
+    },
+    "number": 17,
+    "name": "Paharac",
+    "level": 7,
+    "trading": false,
+    "traits": [
+      "Caffeinated",
+      "Camaraderie"
+    ],
+    "traitMapping": {
+      "Caffeinated": "Last Rush",
+      "Camaraderie": "Bully"
+    }
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "15%",
+      "level": "40 - 45",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 45,
+        "minPansuns": 107,
+        "maxPansuns": 118
+      }
+    },
+    {
+      "location": "Saipark",
+      "place": "Saipark",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "50%",
+      "level": "37 - 40",
+      "freetem": {
+        "minLevel": 37,
+        "maxLevel": 40,
+        "minPansuns": 100,
+        "maxPansuns": 107
+      }
+    },
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20%",
+      "level": "16 - 17",
+      "freetem": {
+        "minLevel": 16,
+        "maxLevel": 17,
+        "minPansuns": 55,
+        "maxPansuns": 57
+      }
+    },
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "5% - 95%",
+      "level": "8 - 40",
+      "freetem": {
+        "minLevel": 8,
+        "maxLevel": 40,
+        "minPansuns": 38,
+        "maxPansuns": 107
+      }
+    },
+    {
+      "location": "The Canopath",
+      "place": "The Canopath",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "20%",
+      "level": "16 - 18",
+      "freetem": {
+        "minLevel": 16,
+        "maxLevel": 18,
+        "minPansuns": 55,
+        "maxPansuns": 59
+      }
+    },
+    {
+      "location": "The Flywalk",
+      "place": "The Flywalk",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "20%",
+      "level": "18-21",
+      "freetem": {
+        "minLevel": 18,
+        "maxLevel": 21,
+        "minPansuns": 59,
+        "maxPansuns": 66
+      }
+    },
+    {
+      "location": "The Glassyway",
+      "place": "The Glassyway",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "20%",
+      "level": "20 - 22",
+      "freetem": {
+        "minLevel": 20,
+        "maxLevel": 22,
+        "minPansuns": 64,
+        "maxPansuns": 68
+      }
+    },
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "40%",
+      "level": "22 - 32",
+      "freetem": {
+        "minLevel": 22,
+        "maxLevel": 32,
+        "minPansuns": 68,
+        "maxPansuns": 90
+      }
+    },
+    {
+      "location": "Kwea Uplands",
+      "place": "Kwea Uplands",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "70%",
+      "level": "40 - 43",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 43,
+        "minPansuns": 107,
+        "maxPansuns": 113
+      }
+    },
+    {
+      "location": "Iwaba",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "15%",
+      "level": "46 - 52",
+      "freetem": {
+        "minLevel": 46,
+        "maxLevel": 52,
+        "minPansuns": 120,
+        "maxPansuns": 133
+      }
+    },
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "10%",
+      "level": "50 - 60",
+      "freetem": {
+        "minLevel": 50,
+        "maxLevel": 60,
+        "minPansuns": 128,
+        "maxPansuns": 150
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "Due to their bigger size and stronger physique, Paharac doesn’t actually need camouflage, but they still love to flaunt their turquoise facial feathers with great pride."
+}

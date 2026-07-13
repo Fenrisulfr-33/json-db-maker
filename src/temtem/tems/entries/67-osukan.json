@@ -1,0 +1,215 @@
+{
+  "_id": 67,
+  "name": {
+    "english": "Osukan"
+  },
+  "types": [
+    "Earth",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 41,
+    "spd": 41,
+    "atk": 78,
+    "def": 69,
+    "spatk": 26,
+    "spdef": 27,
+    "total": 342
+  },
+  "traits": [
+    "Furor",
+    "Parrier"
+  ],
+  "details": {
+    "height": {
+      "cm": 171,
+      "inches": 67
+    },
+    "weight": {
+      "kg": 90,
+      "lbs": 198
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Meditation",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Clay Ball",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Toughen",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Nito Seiho",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 31
+      }
+    ],
+    "courses": [
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Dust Vortex",
+        "source": "Breeding"
+      },
+      {
+        "name": "Footwork",
+        "source": "Breeding"
+      },
+      {
+        "name": "Jinxed Whisper",
+        "source": "Breeding"
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 66,
+        "name": "Osuchi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Brawny"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Furor",
+          "Brawny": "Parrier"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 67,
+        "name": "Osukan",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Parrier"
+        ],
+        "traitMapping": {
+          "Furor": "Sensei",
+          "Parrier": "Body Stretch"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 68,
+        "name": "Osukai",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Sensei",
+          "Body Stretch"
+        ],
+        "traitMapping": {
+          "Sensei": "Sensei",
+          "Body Stretch": "Body Stretch"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 66,
+      "name": "Osuchi",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Caffeinated",
+        "Brawny"
+      ],
+      "traitMapping": {
+        "Caffeinated": "Furor",
+        "Brawny": "Parrier"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 68,
+      "name": "Osukai",
+      "level": 14,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Sensei",
+        "Body Stretch"
+      ],
+      "traitMapping": {
+        "Sensei": "Sensei",
+        "Body Stretch": "Body Stretch"
+      }
+    },
+    "number": 67,
+    "name": "Osukan",
+    "level": 12,
+    "trading": false,
+    "traits": [
+      "Furor",
+      "Parrier"
+    ],
+    "traitMapping": {
+      "Furor": "Sensei",
+      "Parrier": "Body Stretch"
+    }
+  },
+  "locations": [
+    {
+      "location": "Kilima Peaks",
+      "place": "Kilima Peaks",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 35%",
+      "level": "40 - 45",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 45,
+        "minPansuns": 119,
+        "maxPansuns": 131
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 110,
+  "hatchMins": 23,
+  "description": "Osukan are the perfect embodiment of the endurance and grit of the best Temtem fighters. They are sturdy, obstinate creatures that love nothing better than to show their prowess in a hard, honest battle against a worthy rival."
+}

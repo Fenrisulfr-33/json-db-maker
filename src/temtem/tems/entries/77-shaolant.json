@@ -1,0 +1,200 @@
+{
+  "_id": 77,
+  "name": {
+    "english": "Shaolant"
+  },
+  "types": [
+    "Melee"
+  ],
+  "stats": {
+    "hp": 47,
+    "sta": 68,
+    "spd": 80,
+    "atk": 51,
+    "def": 68,
+    "spatk": 70,
+    "spdef": 72,
+    "total": 456
+  },
+  "traits": [
+    "Welcomer",
+    "Bruiser"
+  ],
+  "details": {
+    "height": {
+      "cm": 150,
+      "inches": 59
+    },
+    "weight": {
+      "kg": 50,
+      "lbs": 110
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Cooperation",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Hook",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Undermine",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Dim Mak",
+        "source": "Levelling",
+        "levels": 64
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Levelling",
+        "levels": 76
+      },
+      {
+        "name": "Execution",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Soul Shout",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Zen Meditation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "5PPEH",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 76,
+        "name": "Shaolite",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Coward's Rest",
+          "Parrier"
+        ],
+        "traitMapping": {
+          "Coward's Rest": "Welcomer",
+          "Parrier": "Bruiser"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 77,
+        "name": "Shaolant",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Welcomer",
+          "Bruiser"
+        ],
+        "traitMapping": {
+          "Welcomer": "Welcomer",
+          "Bruiser": "Bruiser"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 76,
+      "name": "Shaolite",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Coward's Rest",
+        "Parrier"
+      ],
+      "traitMapping": {
+        "Coward's Rest": "Welcomer",
+        "Parrier": "Bruiser"
+      }
+    },
+    "to": null,
+    "number": 77,
+    "name": "Shaolant",
+    "level": 12,
+    "trading": false,
+    "traits": [
+      "Welcomer",
+      "Bruiser"
+    ],
+    "traitMapping": {
+      "Welcomer": "Welcomer",
+      "Bruiser": "Bruiser"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "Bigger and meaner than Shaolite, Shaolant have become the darlings of the tamers of Lochburg Dojo who want to command respect for their choice of squad."
+}

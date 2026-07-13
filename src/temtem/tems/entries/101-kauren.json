@@ -1,0 +1,212 @@
+{
+  "_id": 101,
+  "name": {
+    "english": "Kauren"
+  },
+  "types": [
+    "Earth"
+  ],
+  "stats": {
+    "hp": 81,
+    "sta": 54,
+    "spd": 65,
+    "atk": 81,
+    "def": 74,
+    "spatk": 52,
+    "spdef": 57,
+    "total": 464
+  },
+  "traits": [
+    "Scavenger",
+    "Skull Helmet"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 105,
+      "lbs": 231
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Burrow",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Clay Ball",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Sand Storm",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Stone Ball",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 39
+      },
+      {
+        "name": "Earth Wave",
+        "source": "Levelling",
+        "levels": 49
+      },
+      {
+        "name": "Willpower Drain",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Goring",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Psychosis",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Roar",
+        "source": "Levelling",
+        "levels": 87
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Soil Steam",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Earthbreaker",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toughen",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "The owner of the Prancing Gnu in Vumbi compares the \"mythological\" gnu to a Kauren \"with the horns going the other way.\""
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 100,
+        "name": "Kuri",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Callosity"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Scavenger",
+          "Callosity": "Skull Helmet"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 101,
+        "name": "Kauren",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Scavenger",
+          "Skull Helmet"
+        ],
+        "traitMapping": {
+          "Scavenger": "Scavenger",
+          "Skull Helmet": "Skull Helmet"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 100,
+      "name": "Kuri",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Camaraderie",
+        "Callosity"
+      ],
+      "traitMapping": {
+        "Camaraderie": "Scavenger",
+        "Callosity": "Skull Helmet"
+      }
+    },
+    "to": null,
+    "number": 101,
+    "name": "Kauren",
+    "level": 16,
+    "trading": false,
+    "traits": [
+      "Scavenger",
+      "Skull Helmet"
+    ],
+    "traitMapping": {
+      "Scavenger": "Scavenger",
+      "Skull Helmet": "Skull Helmet"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Not to be confused with their previous evolution stage, Kauren develops stone-hard horns and skull extensions - used for digging out roots, defense and status-signalling within the herd."
+}

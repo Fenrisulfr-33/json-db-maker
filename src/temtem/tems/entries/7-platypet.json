@@ -1,0 +1,256 @@
+{
+  "_id": 7,
+  "name": {
+    "english": "Platypet"
+  },
+  "types": [
+    "Water",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 55,
+    "sta": 39,
+    "spd": 65,
+    "atk": 45,
+    "def": 31,
+    "spatk": 67,
+    "spdef": 56,
+    "total": 358
+  },
+  "traits": [
+    "Toxic Affinity",
+    "Amphibian"
+  ],
+  "details": {
+    "height": {
+      "cm": 85,
+      "inches": 33
+    },
+    "weight": {
+      "kg": 48,
+      "lbs": 105
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Finbeat",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Aqua Bullet Hell",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Toxic Fang",
+        "source": "Levelling",
+        "levels": 18
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Antitoxins",
+        "source": "Breeding"
+      },
+      {
+        "name": "Flood",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Breeding"
+      },
+      {
+        "name": "Urushiol",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Platypet is a Breeder Tier Temtem by PokéNinja, who pledged $6000 to the Kickstarter. It was drawn by 50 Shades of Heliolisk. Crema and PokéNinja obtained the rights to add Platypet, Platox and Platimous to the game.",
+    "Platypet's Luma color was chosen based on a community vote by PokéNinja.",
+    "Platypet was known as Pettans in early development.",
+    "Platypet has an emote on the official Temtem Discord.",
+    "Platypet is 1 of only 6 temtem with a sticker on the official Temtem Discord that didn't have to go through a sticker poll."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 7,
+        "name": "Platypet",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Affinity",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Toxic Affinity": "Resistant",
+          "Amphibian": "Resilient"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 8,
+        "name": "Platox",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Resistant",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Resistant": "Zen",
+          "Resilient": "Determined"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 9,
+        "name": "Platimous",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Zen",
+          "Determined"
+        ],
+        "traitMapping": {
+          "Zen": "Zen",
+          "Determined": "Determined"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 8,
+      "name": "Platox",
+      "level": 20,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Resistant",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Resistant": "Zen",
+        "Resilient": "Determined"
+      }
+    },
+    "number": 7,
+    "name": "Platypet",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Toxic Affinity",
+      "Amphibian"
+    ],
+    "traitMapping": {
+      "Toxic Affinity": "Resistant",
+      "Amphibian": "Resilient"
+    }
+  },
+  "locations": [
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "70%",
+      "level": "7 - 10",
+      "freetem": {
+        "minLevel": 7,
+        "maxLevel": 10,
+        "minPansuns": 36,
+        "maxPansuns": 42
+      }
+    },
+    {
+      "location": "Corrupted Badlands",
+      "place": "Corrupted Badlands",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "30%",
+      "level": "25 - 29",
+      "freetem": {
+        "minLevel": 25,
+        "maxLevel": 29,
+        "minPansuns": 74,
+        "maxPansuns": 83
+      }
+    },
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50% - 70%",
+      "level": "29 - 33",
+      "freetem": {
+        "minLevel": 29,
+        "maxLevel": 33,
+        "minPansuns": 83,
+        "maxPansuns": 92
+      }
+    },
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "85%",
+      "level": "32 - 36",
+      "freetem": {
+        "minLevel": 32,
+        "maxLevel": 36,
+        "minPansuns": 90,
+        "maxPansuns": 98
+      }
+    },
+    {
+      "location": "Gardens of Aztlan",
+      "place": "",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "60%",
+      "level": "25 - 36",
+      "freetem": {
+        "minLevel": 25,
+        "maxLevel": 36,
+        "minPansuns": 74,
+        "maxPansuns": 98
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "Platypet was popularized by a cartoon series, and ever since then it has been one of the most popular Temtem with kids. The series had an educative purpose: to teach children that Toxic Temtem are also valid and can be good friends."
+}

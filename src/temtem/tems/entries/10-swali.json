@@ -1,0 +1,210 @@
+{
+  "_id": 10,
+  "name": {
+    "english": "Swali"
+  },
+  "types": [
+    "Nature"
+  ],
+  "stats": {
+    "hp": 44,
+    "sta": 65,
+    "spd": 35,
+    "atk": 50,
+    "def": 40,
+    "spatk": 55,
+    "spdef": 60,
+    "total": 349
+  },
+  "traits": [
+    "Shared Pain",
+    "Mithridatism"
+  ],
+  "details": {
+    "height": {
+      "cm": 82,
+      "inches": 32
+    },
+    "weight": {
+      "kg": 18,
+      "lbs": 39
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Urushiol",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Toxic Spores",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Photosynthesis",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Bark Shield",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 44
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hypoxia",
+        "source": "Breeding"
+      },
+      {
+        "name": "Spores",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Swali was shown for the first time on iNinjaHero's 08/08/2018 Twitch stream, during his visit to Crema HQ.",
+    "Swali's description and in-game footage was first shown on the official Temtem Twitter."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 10,
+        "name": "Swali",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Shared Pain",
+          "Mithridatism"
+        ],
+        "traitMapping": {
+          "Shared Pain": "Botanist",
+          "Mithridatism": "Backhanded"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 11,
+        "name": "Loali",
+        "level": 8,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Botanist",
+          "Backhanded"
+        ],
+        "traitMapping": {
+          "Botanist": "Botanist",
+          "Backhanded": "Backhanded"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 11,
+      "name": "Loali",
+      "level": 8,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Botanist",
+        "Backhanded"
+      ],
+      "traitMapping": {
+        "Botanist": "Botanist",
+        "Backhanded": "Backhanded"
+      }
+    },
+    "number": 10,
+    "name": "Swali",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Shared Pain",
+      "Mithridatism"
+    ],
+    "traitMapping": {
+      "Shared Pain": "Botanist",
+      "Mithridatism": "Backhanded"
+    }
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "40%",
+      "level": "2 - 5",
+      "freetem": {
+        "minLevel": 2,
+        "maxLevel": 5,
+        "minPansuns": 23,
+        "maxPansuns": 27
+      }
+    },
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20% - 30%",
+      "level": "5 - 8",
+      "freetem": {
+        "minLevel": 5,
+        "maxLevel": 8,
+        "minPansuns": 27,
+        "maxPansuns": 31
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 200,
+  "hatchMins": 5,
+  "description": "When the harvest season is on, Omninesian fruit-pickers are always careful not to accidentally damage the delicate, chrysalis-like Swali. They grow on certain vines of the rainforest canopy, dropping to the jungle floor once mature and mobile."
+}

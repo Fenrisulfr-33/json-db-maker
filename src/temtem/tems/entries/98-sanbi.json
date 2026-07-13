@@ -1,0 +1,205 @@
+{
+  "_id": 98,
+  "name": {
+    "english": "Sanbi"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 75,
+    "sta": 51,
+    "spd": 64,
+    "atk": 89,
+    "def": 79,
+    "spatk": 42,
+    "spdef": 64,
+    "total": 464
+  },
+  "traits": [
+    "Dozing Hit",
+    "Inner Shield"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 30,
+      "lbs": 66
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Bamboozle",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 38
+      },
+      {
+        "name": "Nightmare Feed",
+        "source": "Levelling",
+        "levels": 49
+      },
+      {
+        "name": "Blackhole",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Lullaby",
+        "source": "Levelling",
+        "levels": 72
+      },
+      {
+        "name": "Transient Echo",
+        "source": "Levelling",
+        "levels": 83
+      },
+      {
+        "name": "Matter Teleport",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Purgation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Paralyzing Poison",
+        "source": "Breeding"
+      },
+      {
+        "name": "Strangle",
+        "source": "Breeding"
+      },
+      {
+        "name": "Time Split",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 97,
+        "name": "Mitty",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Soft Touch",
+          "Skull Helmet"
+        ],
+        "traitMapping": {
+          "Soft Touch": "Dozing Hit",
+          "Skull Helmet": "Inner Shield"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 98,
+        "name": "Sanbi",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Dozing Hit",
+          "Inner Shield"
+        ],
+        "traitMapping": {
+          "Dozing Hit": "Dozing Hit",
+          "Inner Shield": "Inner Shield"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 97,
+      "name": "Mitty",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Soft Touch",
+        "Skull Helmet"
+      ],
+      "traitMapping": {
+        "Soft Touch": "Dozing Hit",
+        "Skull Helmet": "Inner Shield"
+      }
+    },
+    "to": null,
+    "number": 98,
+    "name": "Sanbi",
+    "level": 15,
+    "trading": false,
+    "traits": [
+      "Dozing Hit",
+      "Inner Shield"
+    ],
+    "traitMapping": {
+      "Dozing Hit": "Dozing Hit",
+      "Inner Shield": "Inner Shield"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "Capable of communicating moods and intentions via complex patterns of its triple tail, these Temtem are aloof creatures who prefer the solitudes of the Arbury highlands. Although they mostly keep to themselves, their mindpower is formidable."
+}

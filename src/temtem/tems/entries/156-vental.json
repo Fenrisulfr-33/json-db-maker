@@ -1,0 +1,209 @@
+{
+  "_id": 156,
+  "name": {
+    "english": "Vental"
+  },
+  "types": [
+    "Neutral",
+    "Mental"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 63,
+    "spd": 74,
+    "atk": 48,
+    "def": 48,
+    "spatk": 78,
+    "spdef": 78,
+    "total": 449
+  },
+  "traits": [
+    "Spiritual",
+    "Arcane Wrap"
+  ],
+  "details": {
+    "height": {
+      "cm": 150,
+      "inches": 59
+    },
+    "weight": {
+      "kg": 21,
+      "lbs": 46
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Strangle",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Shelter",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Savage Suplex",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Time Split",
+        "source": "Levelling",
+        "levels": 51
+      },
+      {
+        "name": "Late Torment",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Levelling",
+        "levels": 62
+      },
+      {
+        "name": "Psy Wave",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Levelling",
+        "levels": 71
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Denigrate",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 97
+      }
+    ],
+    "courses": [
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Ninja Jutsu",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 154,
+        "name": "Venx",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Arcane Wrap"
+        ],
+        "traitMapping": {
+          "Parrier": "Spiritual",
+          "Arcane Wrap": "Arcane Wrap"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 156,
+        "name": "Vental",
+        "level": 17,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Spiritual",
+          "Arcane Wrap"
+        ],
+        "traitMapping": {
+          "Spiritual": "Spiritual",
+          "Arcane Wrap": "Arcane Wrap"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 154,
+      "name": "Venx",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Parrier",
+        "Arcane Wrap"
+      ],
+      "traitMapping": {
+        "Parrier": "Spiritual",
+        "Arcane Wrap": "Arcane Wrap"
+      }
+    },
+    "to": null,
+    "number": 156,
+    "name": "Vental",
+    "level": 17,
+    "trading": false,
+    "traits": [
+      "Spiritual",
+      "Arcane Wrap"
+    ],
+    "traitMapping": {
+      "Spiritual": "Spiritual",
+      "Arcane Wrap": "Arcane Wrap"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 50,
+  "hatchMins": 35,
+  "description": "Lady Cathrine of Properton herself popularized this species among the fashionable tamers of her age. Nowadays, it is considered one of the timeless classics of Arburian Temtem breeds."
+}

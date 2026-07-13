@@ -1,0 +1,201 @@
+{
+  "_id": 84,
+  "name": {
+    "english": "Mushi"
+  },
+  "types": [
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 48,
+    "sta": 33,
+    "spd": 68,
+    "atk": 48,
+    "def": 36,
+    "spatk": 48,
+    "spdef": 29,
+    "total": 310
+  },
+  "traits": [
+    "Resistant",
+    "Resilient"
+  ],
+  "details": {
+    "height": {
+      "cm": 100,
+      "inches": 39
+    },
+    "weight": {
+      "kg": 45,
+      "lbs": 99
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Urushiol",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Toxic Spores",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Paralyzing Poison",
+        "source": "Levelling",
+        "levels": 22
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Inner Spirit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Intimidation",
+        "source": "Breeding"
+      },
+      {
+        "name": "Virulent Gust",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 84,
+        "name": "Mushi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Resistant",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Resistant": "Parrier",
+          "Resilient": "Tireless"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 85,
+        "name": "Mushook",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Tireless"
+        ],
+        "traitMapping": {
+          "Parrier": "Parrier",
+          "Tireless": "Tireless"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 85,
+      "name": "Mushook",
+      "level": 20,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Parrier",
+        "Tireless"
+      ],
+      "traitMapping": {
+        "Parrier": "Parrier",
+        "Tireless": "Tireless"
+      }
+    },
+    "number": 84,
+    "name": "Mushi",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Resistant",
+      "Resilient"
+    ],
+    "traitMapping": {
+      "Resistant": "Parrier",
+      "Resilient": "Tireless"
+    }
+  },
+  "locations": [
+    {
+      "location": "Corrupted Badlands",
+      "place": "Corrupted Badlands",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "40 - 50%",
+      "level": "24 - 28",
+      "freetem": {
+        "minLevel": 24,
+        "maxLevel": 28,
+        "minPansuns": 72,
+        "maxPansuns": 81
+      }
+    },
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "65%",
+      "level": "29 - 32",
+      "freetem": {
+        "minLevel": 29,
+        "maxLevel": 32,
+        "minPansuns": 83,
+        "maxPansuns": 90
+      }
+    },
+    {
+      "location": "Kupeleleza",
+      "place": "Kupeleleza",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "60%",
+      "level": "31 - 37",
+      "freetem": {
+        "minLevel": 31,
+        "maxLevel": 37,
+        "minPansuns": 87,
+        "maxPansuns": 100
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "Closely related to the non-sentient fungi of the Corrupted Badlands, Mushi are shy but territorial. Always mineral-hungry, wise tamers keep them well away from Crystal Temtem."
+}

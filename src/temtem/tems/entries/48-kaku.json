@@ -1,0 +1,254 @@
+{
+  "_id": 48,
+  "name": {
+    "english": "Kaku"
+  },
+  "types": [
+    "Nature"
+  ],
+  "stats": {
+    "hp": 69,
+    "sta": 48,
+    "spd": 35,
+    "atk": 60,
+    "def": 60,
+    "spatk": 35,
+    "spdef": 50,
+    "total": 357
+  },
+  "traits": [
+    "Caffeinated",
+    "Mithridatism"
+  ],
+  "details": {
+    "height": {
+      "cm": 54,
+      "inches": 21
+    },
+    "weight": {
+      "kg": 29,
+      "lbs": 63
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Toxic Spores",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Urushiol",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Debris Typhoon",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Narcoleptic Hit",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Boomerang",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 30
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bark Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lifeful Sap",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Kaku was first revealed to the public on Kickstarter update #13.",
+    "Kaku has 5 emotes on the official Temtem Discord.",
+    "Kaku is 1 of only 6 temtem with a sticker on the official Temtem Discord that didn't have to go through a sticker poll and the only one created by a fan instead of following the in game stickers."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 48,
+        "name": "Kaku",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Mithridatism"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Air Specialist",
+          "Mithridatism": "Botanist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 49,
+        "name": "Saku",
+        "level": 11,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Air Specialist",
+          "Botanist"
+        ],
+        "traitMapping": {
+          "Air Specialist": "Air Specialist",
+          "Botanist": "Botanist"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 49,
+      "name": "Saku",
+      "level": 11,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Air Specialist",
+        "Botanist"
+      ],
+      "traitMapping": {
+        "Air Specialist": "Air Specialist",
+        "Botanist": "Botanist"
+      }
+    },
+    "number": 48,
+    "name": "Kaku",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Caffeinated",
+      "Mithridatism"
+    ],
+    "traitMapping": {
+      "Caffeinated": "Air Specialist",
+      "Mithridatism": "Botanist"
+    }
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "40%",
+      "level": "2 - 5",
+      "freetem": {
+        "minLevel": 2,
+        "maxLevel": 5,
+        "minPansuns": 23,
+        "maxPansuns": 28
+      }
+    },
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "95%",
+      "level": "6 - 9",
+      "freetem": {
+        "minLevel": 6,
+        "maxLevel": 9,
+        "minPansuns": 29,
+        "maxPansuns": 33
+      }
+    },
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "30%",
+      "level": "7 - 11",
+      "freetem": {
+        "minLevel": 7,
+        "maxLevel": 11,
+        "minPansuns": 30,
+        "maxPansuns": 36
+      }
+    },
+    {
+      "location": "The Canopath",
+      "place": "The Canopath",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "75%",
+      "level": "16 - 18",
+      "freetem": {
+        "minLevel": 16,
+        "maxLevel": 18,
+        "minPansuns": 43,
+        "maxPansuns": 46
+      }
+    },
+    {
+      "location": "The Flywalk",
+      "place": "The Flywalk",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "50%",
+      "level": "18 - 20",
+      "freetem": {
+        "minLevel": 18,
+        "maxLevel": 20,
+        "minPansuns": 46,
+        "maxPansuns": 49
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 190,
+  "hatchMins": 7,
+  "description": "Less known than its evolution, Kaku are delightful creatures, cute beyond description. They tend to keep their petals wrapped around the body for protection, although no sane person would ever want to hurt a Kaku."
+}

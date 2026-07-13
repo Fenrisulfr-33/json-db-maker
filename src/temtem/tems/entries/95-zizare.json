@@ -1,0 +1,213 @@
+{
+  "_id": 95,
+  "name": {
+    "english": "Zizare"
+  },
+  "types": [
+    "Earth"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 75,
+    "spd": 30,
+    "atk": 90,
+    "def": 95,
+    "spatk": 40,
+    "spdef": 62,
+    "total": 452
+  },
+  "traits": [
+    "Rested",
+    "Electric Custodian"
+  ],
+  "details": {
+    "height": {
+      "cm": 180,
+      "inches": 70
+    },
+    "weight": {
+      "kg": 205,
+      "lbs": 452
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Sludge Gift",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Charge",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Clinch",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Petrify",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Rockfall",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Piercing Wheel",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Nightmare Feed",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Stone Ball",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Soil Steam",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Burrow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Jinxed Whisper",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Zizare was first seen through the Kickstarter Video then fully revealed on Twitter."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Juu Tunnel",
+      "place": "Juu Tunnel",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20%",
+      "level": "35 - 41",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 41,
+        "minPansuns": 146,
+        "maxPansuns": 168
+      }
+    },
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20%",
+      "level": "36 - 42",
+      "freetem": {
+        "minLevel": 36,
+        "maxLevel": 42,
+        "minPansuns": 150,
+        "maxPansuns": 172
+      }
+    },
+    {
+      "location": "Kwea Upland",
+      "place": "",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "30%",
+      "level": "42 - 47",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 47,
+        "minPansuns": 172,
+        "maxPansuns": 190
+      }
+    },
+    {
+      "location": "Chini Grotto",
+      "place": "Chini Grotto",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "10% - 30%",
+      "level": "43 - 48",
+      "freetem": {
+        "minLevel": 43,
+        "maxLevel": 48,
+        "minPansuns": 175,
+        "maxPansuns": 193
+      }
+    },
+    {
+      "location": "Kilima Peaks",
+      "place": "Kilima Peaks",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 35%",
+      "level": "44 - 50",
+      "freetem": {
+        "minLevel": 44,
+        "maxLevel": 50,
+        "minPansuns": 179,
+        "maxPansuns": 200
+      }
+    },
+    {
+      "location": "Barafu Glacier",
+      "place": "Barafu Glacier",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "10%",
+      "level": "44 - 47",
+      "freetem": {
+        "minLevel": 44,
+        "maxLevel": 47,
+        "minPansuns": 179,
+        "maxPansuns": 190
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 75,
+  "hatchMins": 30,
+  "description": "One of the most remarkable inhabitants of the Kisiwan savanna, the powerful Zizare are the biggest creeping Temtem. Proud and territorial, they make for staunch friends."
+}

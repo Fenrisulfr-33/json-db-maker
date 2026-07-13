@@ -1,0 +1,152 @@
+{
+  "_id": 142,
+  "name": {
+    "english": "Akranox"
+  },
+  "types": [
+    "Earth",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 71,
+    "sta": 52,
+    "spd": 71,
+    "atk": 71,
+    "def": 64,
+    "spatk": 71,
+    "spdef": 64,
+    "total": 464
+  },
+  "traits": [
+    "Book Lungs",
+    "Cobweb"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 128,
+      "lbs": 282
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Sting",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Metabolize",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Toxin Shower",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Petrify",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Paralyzing Poison",
+        "source": "Levelling",
+        "levels": 53
+      },
+      {
+        "name": "Venom Spread",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Mud Shower",
+        "source": "Levelling",
+        "levels": 69
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Soil Steam",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toughen",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Tasa Desert",
+      "place": "Tasa Desert",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "40% - 75%",
+      "level": "42 - 48",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 48,
+        "minPansuns": 115,
+        "maxPansuns": 128
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Well-armed with a mighty stinger and protected by rugged rock-like armor, Akranox can afford to have flash colored pincers and a cocky attitude, making them a favorite of Archipelagian teens."
+}

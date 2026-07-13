@@ -1,0 +1,187 @@
+{
+  "_id": 125,
+  "name": {
+    "english": "Pupoise"
+  },
+  "types": [
+    "Digital",
+    "Nature"
+  ],
+  "stats": {
+    "hp": 51,
+    "sta": 37,
+    "spd": 49,
+    "atk": 66,
+    "def": 54,
+    "spatk": 40,
+    "spdef": 42,
+    "total": 339
+  },
+  "traits": [
+    "Thick Skin",
+    "Amphibian"
+  ],
+  "details": {
+    "height": {
+      "cm": 87,
+      "inches": 34
+    },
+    "weight": {
+      "kg": 37,
+      "lbs": 81
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Token",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Firewall",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Faraday Cage",
+        "source": "Levelling",
+        "levels": 37
+      }
+    ],
+    "courses": [
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Data Corruption",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bush",
+        "source": "Breeding"
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Pupoise is a Breeder Tier Temtem by Tutorxic, who pledged $6000 to the Kickstarter. The design process for Pupoise and Loatle was shown on the \"The Latest Breeder Tems and Route!\" update on Crema's website.",
+    "Pupoise has a sticker on the official Temtem Discord, beating Halzhi by 71 votes, out of the total 237 votes, in the 3rd sticker poll."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 125,
+        "name": "Pupoise",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Thick Skin",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Thick Skin": "Seppuku",
+          "Amphibian": "Voodoo"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 126,
+        "name": "Loatle",
+        "level": 18,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Seppuku",
+          "Voodoo"
+        ],
+        "traitMapping": {
+          "Seppuku": "Seppuku",
+          "Voodoo": "Voodoo"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 126,
+      "name": "Loatle",
+      "level": 18,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Seppuku",
+        "Voodoo"
+      ],
+      "traitMapping": {
+        "Seppuku": "Seppuku",
+        "Voodoo": "Voodoo"
+      }
+    },
+    "number": 125,
+    "name": "Pupoise",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Thick Skin",
+      "Amphibian"
+    ],
+    "traitMapping": {
+      "Thick Skin": "Seppuku",
+      "Amphibian": "Voodoo"
+    }
+  },
+  "locations": [
+    {
+      "location": "Rice Fields",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "10%",
+      "level": "42 - 50",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 50,
+        "minPansuns": 113,
+        "maxPansuns": 130
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 123,
+  "hatchMins": 20.4,
+  "description": "Nature finds a way... particularly when Nature meets some of the most advanced circuitry. Pupoise are adaptive and are known to use simple tools and other innovations in the wild."
+}

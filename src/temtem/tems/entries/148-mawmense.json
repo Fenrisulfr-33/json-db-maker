@@ -1,0 +1,202 @@
+{
+  "_id": 148,
+  "name": {
+    "english": "Mawmense"
+  },
+  "types": [
+    "Digital",
+    "Nature"
+  ],
+  "stats": {
+    "hp": 100,
+    "sta": 52,
+    "spd": 41,
+    "atk": 42,
+    "def": 52,
+    "spatk": 56,
+    "spdef": 88,
+    "total": 431
+  },
+  "traits": [
+    "Viral Combustion",
+    "Refurbished"
+  ],
+  "details": {
+    "height": {
+      "cm": 189,
+      "inches": 74
+    },
+    "weight": {
+      "kg": 208,
+      "lbs": 458
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Spores",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Revitalize",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Resin Trap",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 68
+      },
+      {
+        "name": "Firewall",
+        "source": "Levelling",
+        "levels": 86
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 95
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 100
+      }
+    ],
+    "courses": [
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Digithreat",
+        "source": "Breeding"
+      },
+      {
+        "name": "Fiery Heist",
+        "source": "Breeding"
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 147,
+        "name": "Mawtle",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mithridatism",
+          "Body Stretch"
+        ],
+        "traitMapping": {
+          "Mithridatism": "Viral Combustion",
+          "Body Stretch": "Refurbished"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 148,
+        "name": "Mawmense",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Viral Combustion",
+          "Refurbished"
+        ],
+        "traitMapping": {
+          "Viral Combustion": "Viral Combustion",
+          "Refurbished": "Refurbished"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 147,
+      "name": "Mawtle",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mithridatism",
+        "Body Stretch"
+      ],
+      "traitMapping": {
+        "Mithridatism": "Viral Combustion",
+        "Body Stretch": "Refurbished"
+      }
+    },
+    "to": null,
+    "number": 148,
+    "name": "Mawmense",
+    "level": 16,
+    "trading": false,
+    "traits": [
+      "Viral Combustion",
+      "Refurbished"
+    ],
+    "traitMapping": {
+      "Viral Combustion": "Viral Combustion",
+      "Refurbished": "Refurbished"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 68,
+  "hatchMins": 31.4,
+  "description": "Visesia herself rides a Mawmense into battle in \"Endaira II\", making it extremely cool and sought-after. Temtemologists argue it's an anachronism, since this is a very recent variety... but who listens to Temtemologists anyway?"
+}

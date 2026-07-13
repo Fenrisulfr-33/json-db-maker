@@ -1,0 +1,236 @@
+{
+  "_id": 94,
+  "name": {
+    "english": "Seismunch"
+  },
+  "types": [
+    "Melee",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 70,
+    "sta": 65,
+    "spd": 85,
+    "atk": 83,
+    "def": 54,
+    "spatk": 43,
+    "spdef": 43,
+    "total": 443
+  },
+  "traits": [
+    "Self-Esteem",
+    "Earthbound"
+  ],
+  "details": {
+    "height": {
+      "cm": 195,
+      "inches": 76
+    },
+    "weight": {
+      "kg": 90,
+      "lbs": 198
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Show Off",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Footwork",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Seismunch's Wreck",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Helicopter Kick",
+        "source": "Levelling",
+        "levels": 73
+      },
+      {
+        "name": "Wrenching Massage",
+        "source": "Levelling",
+        "levels": 89
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "5PPEH",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Dim Mak",
+        "source": "Breeding"
+      },
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Seismunch could be loosely based on Sun Wukong, the monkey king born of stone from the book Journey to the West.",
+    "Despite Seismunch's Tempedia entry referring to it as an ape, Seismunch has a tail, which great apes do not have."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 92,
+        "name": "Smazee",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Fever Rush",
+          "Friendship"
+        ],
+        "traitMapping": {
+          "Fever Rush": "Brawny",
+          "Friendship": "Warm-Blooded"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 93,
+        "name": "Baboong",
+        "level": 29,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Brawny",
+          "Warm-Blooded"
+        ],
+        "traitMapping": {
+          "Brawny": "Self-Esteem",
+          "Warm-Blooded": "Earthbound"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 94,
+        "name": "Seismunch",
+        "level": 23,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Self-Esteem",
+          "Earthbound"
+        ],
+        "traitMapping": {
+          "Self-Esteem": "Self-Esteem",
+          "Earthbound": "Earthbound"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 93,
+      "name": "Baboong",
+      "level": 29,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Brawny",
+        "Warm-Blooded"
+      ],
+      "traitMapping": {
+        "Brawny": "Self-Esteem",
+        "Warm-Blooded": "Earthbound"
+      }
+    },
+    "to": null,
+    "number": 94,
+    "name": "Seismunch",
+    "level": 23,
+    "trading": false,
+    "traits": [
+      "Self-Esteem",
+      "Earthbound"
+    ],
+    "traitMapping": {
+      "Self-Esteem": "Self-Esteem",
+      "Earthbound": "Earthbound"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 65,
+    "female": 35
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Seismunch are great apes, genetically close to humans and much more sophisticated than their lesser brethren. Highly imitative of human behavior, some are said to be nearing proto-human cognition."
+}

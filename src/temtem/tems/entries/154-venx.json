@@ -1,0 +1,245 @@
+{
+  "_id": 154,
+  "name": {
+    "english": "Venx"
+  },
+  "types": [
+    "Neutral"
+  ],
+  "stats": {
+    "hp": 55,
+    "sta": 51,
+    "spd": 54,
+    "atk": 78,
+    "def": 78,
+    "spatk": 78,
+    "spdef": 78,
+    "total": 472
+  },
+  "traits": [
+    "Parrier",
+    "Arcane Wrap"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 80,
+      "lbs": 176
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Strangle",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Shelter",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Savage Suplex",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Late Torment",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Levelling",
+        "levels": 62
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Levelling",
+        "levels": 71
+      }
+    ],
+    "courses": [
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Ninja Jutsu",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Venx is one of only three Temtem lines that can evolve into multiple different Temtem. The other two are Towly and Tuwai.",
+    "Venx is the only Temtem that evolves into one of two Temtem depending on its trait.\nSince the trait that Venx requires to have to evolve is kept, the player must use a Telomere Hack - Trait Swap (or a Telomere Hotfix - Trait Swap if its a Luma) after evolving to get Venmet's or Vental's other Trait.",
+    "Since the trait that Venx requires to have to evolve is kept, the player must use a Telomere Hack - Trait Swap (or a Telomere Hotfix - Trait Swap if its a Luma) after evolving to get Venmet's or Vental's other Trait."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 154,
+        "name": "Venx",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Arcane Wrap"
+        ],
+        "traitMapping": {
+          "Parrier": "Parrier",
+          "Arcane Wrap": "Aggressor"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 155,
+        "name": "Venmet",
+        "level": 17,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Aggressor"
+        ],
+        "traitMapping": {
+          "Parrier": "Parrier",
+          "Aggressor": "Arcane Wrap"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 154,
+        "name": "Venx",
+        "level": 17,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Arcane Wrap"
+        ],
+        "traitMapping": {
+          "Parrier": "Spiritual",
+          "Arcane Wrap": "Arcane Wrap"
+        }
+      },
+      {
+        "stage": 3,
+        "number": 156,
+        "name": "Vental",
+        "level": 17,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Spiritual",
+          "Arcane Wrap"
+        ],
+        "traitMapping": {
+          "Spiritual": "Spiritual",
+          "Arcane Wrap": "Arcane Wrap"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 155,
+      "name": "Venmet",
+      "level": 17,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Parrier",
+        "Aggressor"
+      ],
+      "traitMapping": {
+        "Parrier": "Parrier",
+        "Aggressor": "Arcane Wrap"
+      }
+    },
+    "to": {
+      "stage": 3,
+      "number": 156,
+      "name": "Vental",
+      "level": 17,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Spiritual",
+        "Arcane Wrap"
+      ],
+      "traitMapping": {
+        "Spiritual": "Spiritual",
+        "Arcane Wrap": "Arcane Wrap"
+      }
+    },
+    "number": 154,
+    "name": "Venx",
+    "level": 17,
+    "trading": false,
+    "traits": [
+      "Parrier",
+      "Arcane Wrap"
+    ],
+    "traitMapping": {
+      "Parrier": "Spiritual",
+      "Arcane Wrap": "Arcane Wrap"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sewers of Properton",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "20%",
+      "level": "50 - 60",
+      "freetem": {
+        "minLevel": 50,
+        "maxLevel": 60,
+        "minPansuns": 155,
+        "maxPansuns": 182
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "This cute little warrior is popular among young tamers, who love to customize their own with bandages of different colors and patterns. Some Dojos are enforcing a more formal white-bandage code for serious competition."
+}

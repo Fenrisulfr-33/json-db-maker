@@ -1,0 +1,222 @@
+{
+  "_id": 123,
+  "name": {
+    "english": "Nessla"
+  },
+  "types": [
+    "Water",
+    "Electric"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 62,
+    "spd": 66,
+    "atk": 76,
+    "def": 56,
+    "spatk": 76,
+    "spdef": 72,
+    "total": 468
+  },
+  "traits": [
+    "Electric Synthesize",
+    "Hydrologist"
+  ],
+  "details": {
+    "height": {
+      "cm": 190,
+      "inches": 74
+    },
+    "weight": {
+      "kg": 65,
+      "lbs": 144
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Bubbles",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Chain Lightning",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Sparks",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Strangle",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Iced Stalactite",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Electric Storm",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Levelling",
+        "levels": 57
+      },
+      {
+        "name": "Defibrillate",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Piezoelectric Blow",
+        "source": "Levelling",
+        "levels": 85
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Aquatic Whirlwind",
+        "source": "Breeding"
+      },
+      {
+        "name": "Bright Beam",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Nessla was originally unnamed #33 on a list of scrapped Temtem that was to be voted to bring back on Kickstarter Update #2.",
+    "Nessla was one of the two winners of the Choose a Temtem backer mini-game during the Kickstarter."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "17 - 18",
+      "freetem": {
+        "minLevel": 17,
+        "maxLevel": 18,
+        "minPansuns": 91,
+        "maxPansuns": 95
+      }
+    },
+    {
+      "location": "Sillaro River",
+      "place": "Sillaro River",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "14 - 16",
+      "freetem": {
+        "minLevel": 14,
+        "maxLevel": 16,
+        "minPansuns": 79,
+        "maxPansuns": 87
+      }
+    },
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 83,
+        "maxPansuns": 104
+      }
+    },
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "Gift",
+      "level": "39",
+      "freetem": {
+        "minLevel": 39,
+        "maxLevel": 39,
+        "minPansuns": 182,
+        "maxPansuns": 182
+      }
+    },
+    {
+      "location": "Rice Fields",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "46 - 55",
+      "freetem": {
+        "minLevel": 46,
+        "maxLevel": 55,
+        "minPansuns": 212,
+        "maxPansuns": 249
+      }
+    },
+    {
+      "location": "Sacred Lake",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "40%",
+      "level": "55 - 65",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 65,
+        "minPansuns": 249,
+        "maxPansuns": 290
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 70,
+    "female": 30
+  },
+  "catchRate": 65,
+  "hatchMins": 32,
+  "description": "Water and electricity are always a dangerous mix - and it's never as true as in the case of Nessla. These undulating, majestic creatures are at home in open waters, where their powerful electric discharges are most effective."
+}

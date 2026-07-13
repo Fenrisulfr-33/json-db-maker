@@ -1,0 +1,287 @@
+{
+  "_id": 11,
+  "name": {
+    "english": "Loali"
+  },
+  "types": [
+    "Nature",
+    "Wind"
+  ],
+  "stats": {
+    "hp": 55,
+    "sta": 74,
+    "spd": 77,
+    "atk": 60,
+    "def": 50,
+    "spatk": 70,
+    "spdef": 81,
+    "total": 467
+  },
+  "traits": [
+    "Botanist",
+    "Backhanded"
+  ],
+  "details": {
+    "height": {
+      "cm": 60,
+      "inches": 23
+    },
+    "weight": {
+      "kg": 14,
+      "lbs": 30
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Urushiol",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Toxic Spores",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Photosynthesis",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Bark Shield",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Allergic Spread",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Resin Trap",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Gust",
+        "source": "Levelling",
+        "levels": 77
+      },
+      {
+        "name": "Plague",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Refresh",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hypoxia",
+        "source": "Breeding"
+      },
+      {
+        "name": "Spores",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "In Temtem lore, it is the symbol of peace and harmony.",
+    "Loali was first reveled on Twitter and was recolored many times before the final look was chosen, as depicted in its concept art.",
+    "Loali has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 10,
+        "name": "Swali",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Shared Pain",
+          "Mithridatism"
+        ],
+        "traitMapping": {
+          "Shared Pain": "Botanist",
+          "Mithridatism": "Backhanded"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 11,
+        "name": "Loali",
+        "level": 8,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Botanist",
+          "Backhanded"
+        ],
+        "traitMapping": {
+          "Botanist": "Botanist",
+          "Backhanded": "Backhanded"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 10,
+      "name": "Swali",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Shared Pain",
+        "Mithridatism"
+      ],
+      "traitMapping": {
+        "Shared Pain": "Botanist",
+        "Mithridatism": "Backhanded"
+      }
+    },
+    "to": null,
+    "number": 11,
+    "name": "Loali",
+    "level": 8,
+    "trading": false,
+    "traits": [
+      "Botanist",
+      "Backhanded"
+    ],
+    "traitMapping": {
+      "Botanist": "Botanist",
+      "Backhanded": "Backhanded"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Canopath",
+      "place": "The Canopath",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "20%",
+      "level": "16 - 19",
+      "freetem": {
+        "minLevel": 16,
+        "maxLevel": 19,
+        "minPansuns": 51,
+        "maxPansuns": 57
+      }
+    },
+    {
+      "location": "The Flywalk",
+      "place": "The Flywalk",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "30% - 50%",
+      "level": "18 - 25",
+      "freetem": {
+        "minLevel": 18,
+        "maxLevel": 25,
+        "minPansuns": 55,
+        "maxPansuns": 69
+      }
+    },
+    {
+      "location": "The Hangroad",
+      "place": "The Hangroad",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "20%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 49,
+        "maxPansuns": 59
+      }
+    },
+    {
+      "location": "The Glassyway",
+      "place": "The Glassyway",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "80%",
+      "level": "19 - 22",
+      "freetem": {
+        "minLevel": 19,
+        "maxLevel": 22,
+        "minPansuns": 57,
+        "maxPansuns": 63
+      }
+    },
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "Gift",
+      "level": "38",
+      "freetem": {
+        "minLevel": 38,
+        "maxLevel": 38,
+        "minPansuns": 94,
+        "maxPansuns": 94
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 140,
+  "hatchMins": 17,
+  "description": "Delicate and graceful creatures, Loali are all wings and eyes - and natural charmers. Their hypnotic eyes can completely dazzle their enemies and their constantly fluttering wings allow them to change course in an instant."
+}

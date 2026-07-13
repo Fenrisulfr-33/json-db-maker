@@ -1,0 +1,139 @@
+{
+  "_id": 163,
+  "name": {
+    "english": "Tyranak"
+  },
+  "types": [
+    "Fire",
+    "Nature"
+  ],
+  "stats": {
+    "hp": 76,
+    "sta": 48,
+    "spd": 34,
+    "atk": 81,
+    "def": 71,
+    "spatk": 57,
+    "spdef": 72,
+    "total": 439
+  },
+  "traits": [
+    "Intimidator",
+    "Frightening"
+  ],
+  "details": {
+    "height": {
+      "cm": 420,
+      "inches": 165
+    },
+    "weight": {
+      "kg": 4600,
+      "lbs": 10143
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Smoldering Kiss",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Roar",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Jaw Strike",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Shelter",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Plague",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Bark Shield",
+        "source": "Levelling",
+        "levels": 46
+      },
+      {
+        "name": "Extinction",
+        "source": "Levelling",
+        "levels": 52
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Flaming Meteorite",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Meteor Swarm",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Outgrowth",
+        "source": "Levelling",
+        "levels": 100
+      }
+    ]
+  },
+  "trivia": [
+    "It was confirmed that there are 4 known Luma Tyranak in the world with only 3 of them being known of by the community.\nThe first Luma Tyranak was hatched by The Jingles (IGN) on January 6, 2022, with a 1/10,000 Luma chance.",
+    "The first Luma Tyranak was hatched by The Jingles (IGN) on January 6, 2022, with a 1/10,000 Luma chance.",
+    "Tyranak has a sticker on the official Temtem Discord, beating Volgon by 60 votes, out of the total 344 votes, in the 1st sticker poll."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "Reward",
+      "level": "1 (Egg)",
+      "freetem": {
+        "minLevel": 1,
+        "maxLevel": 1,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Probably the last living relic from a distant pre-human past, when MegaTem roamed the unbroken Paninsula. Most Temtemologists considered it to be cryptofauna until... well, until now."
+}

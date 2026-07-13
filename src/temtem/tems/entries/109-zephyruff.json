@@ -1,0 +1,228 @@
+{
+  "_id": 109,
+  "name": {
+    "english": "Zephyruff"
+  },
+  "types": [
+    "Toxic",
+    "Wind"
+  ],
+  "stats": {
+    "hp": 55,
+    "sta": 34,
+    "spd": 68,
+    "atk": 43,
+    "def": 47,
+    "spatk": 50,
+    "spdef": 51,
+    "total": 348
+  },
+  "traits": [
+    "Toxic Affinity",
+    "Air Specialist"
+  ],
+  "details": {
+    "height": {
+      "cm": 92,
+      "inches": 36
+    },
+    "weight": {
+      "kg": 37,
+      "lbs": 82
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Multiple Pecks",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Toxic Plume",
+        "source": "Levelling",
+        "levels": 38
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Feather Gatling",
+        "source": "Breeding"
+      },
+      {
+        "name": "Gust",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Zephyruff is a Breeder Tier Temtem by Soma Ghost, who pledged $6000 to the Kickstarter. The design process for Zephyruff and Volarend was originally shown on the \"Presenting our first Breeder Temtem\" Kickstarter update."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 109,
+        "name": "Zephyruff",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Affinity",
+          "Air Specialist"
+        ],
+        "traitMapping": {
+          "Toxic Affinity": "Aerobic",
+          "Air Specialist": "Anaerobic"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 110,
+        "name": "Volarend",
+        "level": 22,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Aerobic",
+          "Anaerobic"
+        ],
+        "traitMapping": {
+          "Aerobic": "Aerobic",
+          "Anaerobic": "Anaerobic"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 110,
+      "name": "Volarend",
+      "level": 22,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Aerobic",
+        "Anaerobic"
+      ],
+      "traitMapping": {
+        "Aerobic": "Aerobic",
+        "Anaerobic": "Anaerobic"
+      }
+    },
+    "number": 109,
+    "name": "Zephyruff",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Toxic Affinity",
+      "Air Specialist"
+    ],
+    "traitMapping": {
+      "Toxic Affinity": "Aerobic",
+      "Air Specialist": "Anaerobic"
+    }
+  },
+  "locations": [
+    {
+      "location": "Corrupted Badlands",
+      "place": "Corrupted Badlands",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "60%",
+      "level": "25 - 29",
+      "freetem": {
+        "minLevel": 25,
+        "maxLevel": 29,
+        "minPansuns": 61,
+        "maxPansuns": 68
+      }
+    },
+    {
+      "location": "Gardens of Aztlan",
+      "place": "",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50%",
+      "level": "35 - 45",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 45,
+        "minPansuns": 78,
+        "maxPansuns": 94
+      }
+    },
+    {
+      "location": "Kupeleleza",
+      "place": "Kupeleleza",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "35% - 95%",
+      "level": "31 - 38",
+      "freetem": {
+        "minLevel": 31,
+        "maxLevel": 38,
+        "minPansuns": 71,
+        "maxPansuns": 83
+      }
+    },
+    {
+      "location": "Mawingu Islets",
+      "place": "Mawingu Islets",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "50%",
+      "level": "33 - 40",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 40,
+        "minPansuns": 74,
+        "maxPansuns": 86
+      }
+    },
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20%",
+      "level": "34 - 39",
+      "freetem": {
+        "minLevel": 34,
+        "maxLevel": 39,
+        "minPansuns": 76,
+        "maxPansuns": 84
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 165,
+  "hatchMins": 12,
+  "description": "Awkward fliers at best, Zephyruff rely on their speed and sharp claws to defend themselves. The sturdy, cloud-like tissue around the neck serves a double purpose, offering protection for the mother Temtem as well as a roosting point for Zephyruff chicks."
+}

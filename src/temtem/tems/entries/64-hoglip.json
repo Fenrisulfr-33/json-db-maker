@@ -1,0 +1,193 @@
+{
+  "_id": 64,
+  "name": {
+    "english": "Hoglip"
+  },
+  "types": [
+    "Digital",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 46,
+    "sta": 43,
+    "spd": 70,
+    "atk": 44,
+    "def": 53,
+    "spatk": 72,
+    "spdef": 55,
+    "total": 383
+  },
+  "traits": [
+    "Gotta Go Fast",
+    "Fast Charge"
+  ],
+  "details": {
+    "height": {
+      "cm": 85,
+      "inches": 33
+    },
+    "weight": {
+      "kg": 50,
+      "lbs": 110
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Cyberclaw",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 46
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Zen Meditation",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Hellfire",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      },
+      {
+        "name": "Rampage",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 64,
+        "name": "Hoglip",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Gotta Go Fast",
+          "Fast Charge"
+        ],
+        "traitMapping": {
+          "Gotta Go Fast": "Gotta Go Fast",
+          "Fast Charge": "Going Away Gift"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 65,
+        "name": "Hedgine",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Gotta Go Fast",
+          "Going Away Gift"
+        ],
+        "traitMapping": {
+          "Gotta Go Fast": "Gotta Go Fast",
+          "Going Away Gift": "Going Away Gift"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 65,
+      "name": "Hedgine",
+      "level": 13,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Gotta Go Fast",
+        "Going Away Gift"
+      ],
+      "traitMapping": {
+        "Gotta Go Fast": "Gotta Go Fast",
+        "Going Away Gift": "Going Away Gift"
+      }
+    },
+    "number": 64,
+    "name": "Hoglip",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Gotta Go Fast",
+      "Fast Charge"
+    ],
+    "traitMapping": {
+      "Gotta Go Fast": "Gotta Go Fast",
+      "Fast Charge": "Going Away Gift"
+    }
+  },
+  "locations": [
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "60%",
+      "level": "40 - 50",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 50,
+        "minPansuns": 155,
+        "maxPansuns": 189
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "Some of the first Digital Temtem were prone to accidentally catching fire. Hoglip is the answer to this problem, a little friend who is totally at home in a blaze. Given that feature, it's often used for rescue by fire crews."
+}

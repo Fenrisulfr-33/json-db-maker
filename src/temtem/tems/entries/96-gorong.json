@@ -1,0 +1,130 @@
+{
+  "_id": 96,
+  "name": {
+    "english": "Gorong"
+  },
+  "types": [
+    "Melee"
+  ],
+  "stats": {
+    "hp": 81,
+    "sta": 42,
+    "spd": 63,
+    "atk": 71,
+    "def": 96,
+    "spatk": 12,
+    "spdef": 64,
+    "total": 429
+  },
+  "traits": [
+    "Seismic",
+    "Tireless"
+  ],
+  "details": {
+    "height": {
+      "cm": 180,
+      "inches": 70
+    },
+    "weight": {
+      "kg": 232,
+      "lbs": 511
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Show Off",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Bestial Charge",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Hook Kick",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 49
+      },
+      {
+        "name": "Helicopter Kick",
+        "source": "Levelling",
+        "levels": 64
+      },
+      {
+        "name": "Rush",
+        "source": "Levelling",
+        "levels": 78
+      },
+      {
+        "name": "Wrenching Massage",
+        "source": "Levelling",
+        "levels": 85
+      }
+    ],
+    "courses": [
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Meditation",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Greenglen Forest",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "65% - 80%",
+      "level": "65 - 70",
+      "freetem": {
+        "minLevel": 65,
+        "maxLevel": 70,
+        "minPansuns": 318,
+        "maxPansuns": 341
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 59,
+  "hatchMins": 33.2,
+  "description": "Angry and with a red nose, Gorong attracts many jokes about how much it looks like a Lochburg pub patron. Usually a couple of assaults are enough to put an end to such taunts for good."
+}

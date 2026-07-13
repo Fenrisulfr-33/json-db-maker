@@ -1,0 +1,208 @@
+{
+  "_id": 151,
+  "name": {
+    "english": "Minox"
+  },
+  "types": [
+    "Mental",
+    "Electric"
+  ],
+  "stats": {
+    "hp": 69,
+    "sta": 50,
+    "spd": 60,
+    "atk": 74,
+    "def": 61,
+    "spatk": 35,
+    "spdef": 35,
+    "total": 384
+  },
+  "traits": [
+    "Body Stretch",
+    "Unnoticed"
+  ],
+  "details": {
+    "height": {
+      "cm": 150,
+      "inches": 59
+    },
+    "weight": {
+      "kg": 103,
+      "lbs": 227
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Sparkling Bullet",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 55
+      }
+    ],
+    "courses": [
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Thunder Strike",
+        "source": "Breeding"
+      },
+      {
+        "name": "Turbo Charge",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ultrasound",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Minox was the first Temtem to become a Mount."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 150,
+        "name": "Minttle",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Withdrawal",
+          "Relaxed"
+        ],
+        "traitMapping": {
+          "Withdrawal": "Body Stretch",
+          "Relaxed": "Unnoticed"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 151,
+        "name": "Minox",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Body Stretch",
+          "Unnoticed"
+        ],
+        "traitMapping": {
+          "Body Stretch": "Ruminant",
+          "Unnoticed": "Rusher"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 152,
+        "name": "Minothor",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Ruminant",
+          "Rusher"
+        ],
+        "traitMapping": {
+          "Ruminant": "Ruminant",
+          "Rusher": "Rusher"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 150,
+      "name": "Minttle",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Withdrawal",
+        "Relaxed"
+      ],
+      "traitMapping": {
+        "Withdrawal": "Body Stretch",
+        "Relaxed": "Unnoticed"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 152,
+      "name": "Minothor",
+      "level": 13,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Ruminant",
+        "Rusher"
+      ],
+      "traitMapping": {
+        "Ruminant": "Ruminant",
+        "Rusher": "Rusher"
+      }
+    },
+    "number": 151,
+    "name": "Minox",
+    "level": 12,
+    "trading": false,
+    "traits": [
+      "Body Stretch",
+      "Unnoticed"
+    ],
+    "traitMapping": {
+      "Body Stretch": "Ruminant",
+      "Unnoticed": "Rusher"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Charles Temwin developed his theory of Temtem evolution by establishing a genetic link between the little, gentle Minttle and this mighty, bullish evolutionary stage."
+}

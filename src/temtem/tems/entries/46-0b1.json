@@ -1,0 +1,197 @@
+{
+  "_id": 46,
+  "name": {
+    "english": "0b1"
+  },
+  "types": [
+    "Digital",
+    "Electric"
+  ],
+  "stats": {
+    "hp": 22,
+    "sta": 38,
+    "spd": 74,
+    "atk": 24,
+    "def": 32,
+    "spatk": 29,
+    "spdef": 34,
+    "total": 253
+  },
+  "traits": [
+    "Fast Charge",
+    "Sentinel"
+  ],
+  "details": {
+    "height": {
+      "cm": 12,
+      "inches": 4
+    },
+    "weight": {
+      "kg": 1,
+      "lbs": 2
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Chain Lightning",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Digithreat",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Electromagnetism",
+        "source": "Levelling",
+        "levels": 33
+      }
+    ],
+    "courses": [
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Data Corruption",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Burrow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Bush",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sparks",
+        "source": "Breeding"
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "0b1 and its evolution are the only two Temtem to have numbers in their species name.\nDue to the restrictions on using numbers in Temtem nicknames, this means that they are also the only two Temtem that cannot be reverted to their original species name once they are given a nickname.",
+    "Due to the restrictions on using numbers in Temtem nicknames, this means that they are also the only two Temtem that cannot be reverted to their original species name once they are given a nickname.",
+    "0b1 has an emote on the official Temtem Discord.",
+    "0b1 is 1 of only 6 temtem with a sticker on the official Temtem Discord that didn't have to go through a sticker poll."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 46,
+        "name": "0b1",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Fast Charge",
+          "Sentinel"
+        ],
+        "traitMapping": {
+          "Fast Charge": "Source Replicator",
+          "Sentinel": "Target Replicator"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 47,
+        "name": "0b10",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Source Replicator",
+          "Target Replicator"
+        ],
+        "traitMapping": {
+          "Source Replicator": "Source Replicator",
+          "Target Replicator": "Target Replicator"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 47,
+      "name": "0b10",
+      "level": 15,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Source Replicator",
+        "Target Replicator"
+      ],
+      "traitMapping": {
+        "Source Replicator": "Source Replicator",
+        "Target Replicator": "Target Replicator"
+      }
+    },
+    "number": 46,
+    "name": "0b1",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Fast Charge",
+      "Sentinel"
+    ],
+    "traitMapping": {
+      "Fast Charge": "Source Replicator",
+      "Sentinel": "Target Replicator"
+    }
+  },
+  "locations": [
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "70%",
+      "level": "40 - 50",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 50,
+        "minPansuns": 140,
+        "maxPansuns": 170
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "0b1's simple and friendly appearance belies their boldness as a creation - they are the Digital embodiment of a subatomic particle, whose very existence raises almost as many questions as it answers for physics modeling."
+}

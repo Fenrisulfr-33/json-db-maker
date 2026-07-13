@@ -1,0 +1,183 @@
+{
+  "_id": 159,
+  "name": {
+    "english": "Thaiko"
+  },
+  "types": [
+    "Digital",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 50,
+    "sta": 46,
+    "spd": 60,
+    "atk": 36,
+    "def": 49,
+    "spatk": 68,
+    "spdef": 41,
+    "total": 350
+  },
+  "traits": [
+    "Zen",
+    "Mental Alliance"
+  ],
+  "details": {
+    "height": {
+      "cm": 68,
+      "inches": 26
+    },
+    "weight": {
+      "kg": 20,
+      "lbs": 44
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Token",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Hook",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Double Gash",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Dim Mak",
+        "source": "Levelling",
+        "levels": 49
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Unseen Blow",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Thaiko has a sticker on the official Temtem Discord, beating Chubee by 26 votes, out of the total 358 votes, in the 5th sticker poll."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 159,
+        "name": "Thaiko",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Zen",
+          "Mental Alliance"
+        ],
+        "traitMapping": {
+          "Zen": "Meditation",
+          "Mental Alliance": "Shaolin"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 160,
+        "name": "Monkko",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Meditation",
+          "Shaolin"
+        ],
+        "traitMapping": {
+          "Meditation": "Meditation",
+          "Shaolin": "Shaolin"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 160,
+      "name": "Monkko",
+      "level": 20,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Meditation",
+        "Shaolin"
+      ],
+      "traitMapping": {
+        "Meditation": "Meditation",
+        "Shaolin": "Shaolin"
+      }
+    },
+    "number": 159,
+    "name": "Thaiko",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Zen",
+      "Mental Alliance"
+    ],
+    "traitMapping": {
+      "Zen": "Meditation",
+      "Mental Alliance": "Shaolin"
+    }
+  },
+  "locations": [
+    {
+      "location": "Meadowdale",
+      "place": "Meadowdale",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "20%",
+      "level": "55 - 60",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 60,
+        "minPansuns": 144,
+        "maxPansuns": 155
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Developed as a joint project between Lochburg and Neoedo, this little furry bruiser combines feline breeding savoir-faire with cutting edge technology. A hotfix to prevent hairballs is expected any time now."
+}

@@ -1,0 +1,193 @@
+{
+  "_id": 80,
+  "name": {
+    "english": "Pocus"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 70,
+    "sta": 73,
+    "spd": 85,
+    "atk": 61,
+    "def": 45,
+    "spatk": 87,
+    "spdef": 55,
+    "total": 476
+  },
+  "traits": [
+    "Dreaded Alarm",
+    "Rejuvenate"
+  ],
+  "details": {
+    "height": {
+      "cm": 190,
+      "inches": 74
+    },
+    "weight": {
+      "kg": 82,
+      "lbs": 180
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Psychosis",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Gamma Burst",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Time Split",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Slow Down",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Denigrate",
+        "source": "Levelling",
+        "levels": 76
+      },
+      {
+        "name": "Depress",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Purgation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Extra Energy Slam",
+        "source": "Breeding"
+      },
+      {
+        "name": "Pickpocket",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 79,
+        "name": "Hocus",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Soft Touch",
+          "Mirroring"
+        ],
+        "traitMapping": {
+          "Soft Touch": "Dreaded Alarm",
+          "Mirroring": "Rejuvenate"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 80,
+        "name": "Pocus",
+        "level": 21,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Dreaded Alarm",
+          "Rejuvenate"
+        ],
+        "traitMapping": {
+          "Dreaded Alarm": "Dreaded Alarm",
+          "Rejuvenate": "Rejuvenate"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 79,
+      "name": "Hocus",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Soft Touch",
+        "Mirroring"
+      ],
+      "traitMapping": {
+        "Soft Touch": "Dreaded Alarm",
+        "Mirroring": "Rejuvenate"
+      }
+    },
+    "to": null,
+    "number": 80,
+    "name": "Pocus",
+    "level": 21,
+    "trading": false,
+    "traits": [
+      "Dreaded Alarm",
+      "Rejuvenate"
+    ],
+    "traitMapping": {
+      "Dreaded Alarm": "Dreaded Alarm",
+      "Rejuvenate": "Rejuvenate"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 20,
+    "female": 80
+  },
+  "catchRate": 40,
+  "hatchMins": 37,
+  "description": "Pocus was considered blue-blooded among the blue bloods, and was traditionally given only to the male heirs of the House of Braeside. When the lineage fell, they mostly went extinct... until recently."
+}

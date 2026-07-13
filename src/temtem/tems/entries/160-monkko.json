@@ -1,0 +1,206 @@
+{
+  "_id": 160,
+  "name": {
+    "english": "Monkko"
+  },
+  "types": [
+    "Digital",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 84,
+    "sta": 55,
+    "spd": 59,
+    "atk": 43,
+    "def": 71,
+    "spatk": 84,
+    "spdef": 48,
+    "total": 444
+  },
+  "traits": [
+    "Meditation",
+    "Shaolin"
+  ],
+  "details": {
+    "height": {
+      "cm": 158,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 66,
+      "lbs": 145
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Token",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Hook",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Double Gash",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Dim Mak",
+        "source": "Levelling",
+        "levels": 49
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 64
+      },
+      {
+        "name": "Blue Screen",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Soul Shout",
+        "source": "Levelling",
+        "levels": 91
+      },
+      {
+        "name": "Reset",
+        "source": "Levelling",
+        "levels": 100
+      }
+    ],
+    "courses": [
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Zen Meditation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Unseen Blow",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Monkko has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 159,
+        "name": "Thaiko",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Zen",
+          "Mental Alliance"
+        ],
+        "traitMapping": {
+          "Zen": "Meditation",
+          "Mental Alliance": "Shaolin"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 160,
+        "name": "Monkko",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Meditation",
+          "Shaolin"
+        ],
+        "traitMapping": {
+          "Meditation": "Meditation",
+          "Shaolin": "Shaolin"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 159,
+      "name": "Thaiko",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Zen",
+        "Mental Alliance"
+      ],
+      "traitMapping": {
+        "Zen": "Meditation",
+        "Mental Alliance": "Shaolin"
+      }
+    },
+    "to": null,
+    "number": 160,
+    "name": "Monkko",
+    "level": 20,
+    "trading": false,
+    "traits": [
+      "Meditation",
+      "Shaolin"
+    ],
+    "traitMapping": {
+      "Meditation": "Meditation",
+      "Shaolin": "Shaolin"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 70,
+  "hatchMins": 31,
+  "description": "Advanced martial arts training after breeding ensures that this Temtem is a cut above its less educated predecessors. Although the priests of Miyako frown at new Temtem species, Monkko's kung-fu is based on their techniques."
+}

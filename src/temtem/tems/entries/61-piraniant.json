@@ -1,0 +1,241 @@
+{
+  "_id": 61,
+  "name": {
+    "english": "Piraniant"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 90,
+    "sta": 52,
+    "spd": 55,
+    "atk": 77,
+    "def": 85,
+    "spatk": 65,
+    "spdef": 42,
+    "total": 466
+  },
+  "traits": [
+    "Patient",
+    "Energy Reserves"
+  ],
+  "details": {
+    "height": {
+      "cm": 200,
+      "inches": 78
+    },
+    "weight": {
+      "kg": 230,
+      "lbs": 507
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Bubbles",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Finbeat",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Water Blade",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Jaw Strike",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Rend",
+        "source": "Levelling",
+        "levels": 38
+      },
+      {
+        "name": "Aquatic Whirlwind",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Waterjet",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Fluid Barrier",
+        "source": "Levelling",
+        "levels": 67
+      },
+      {
+        "name": "Refreshing Breeze",
+        "source": "Levelling",
+        "levels": 77
+      },
+      {
+        "name": "Ultrasound",
+        "source": "Levelling",
+        "levels": 91
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Purgation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Cold Geyser",
+        "source": "Breeding"
+      },
+      {
+        "name": "Flood",
+        "source": "Breeding"
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Breeding"
+      },
+      {
+        "name": "Revitalize",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Piraniant was first revealed via Twitter.",
+    "Piraniant has an emote on the official Temtem discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 60,
+        "name": "Pewki",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hydrologist",
+          "Rested"
+        ],
+        "traitMapping": {
+          "Hydrologist": "Patient",
+          "Rested": "Energy Reserves"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 61,
+        "name": "Piraniant",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Patient",
+          "Energy Reserves"
+        ],
+        "traitMapping": {
+          "Patient": "Patient",
+          "Energy Reserves": "Energy Reserves"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 60,
+      "name": "Pewki",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Hydrologist",
+        "Rested"
+      ],
+      "traitMapping": {
+        "Hydrologist": "Patient",
+        "Rested": "Energy Reserves"
+      }
+    },
+    "to": null,
+    "number": 61,
+    "name": "Piraniant",
+    "level": 13,
+    "trading": false,
+    "traits": [
+      "Patient",
+      "Energy Reserves"
+    ],
+    "traitMapping": {
+      "Patient": "Patient",
+      "Energy Reserves": "Energy Reserves"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 52,
+        "maxPansuns": 62
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 130,
+  "hatchMins": 19,
+  "description": "A native species of Deniz, this Temtem tends to drift with the Sillaro current, to conserve energy... but once brought into battle, its size makes it a powerful fighter."
+}

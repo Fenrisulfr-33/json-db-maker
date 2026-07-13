@@ -1,0 +1,235 @@
+{
+  "_id": 72,
+  "name": {
+    "english": "Crystle"
+  },
+  "types": [
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 41,
+    "spd": 33,
+    "atk": 61,
+    "def": 69,
+    "spatk": 46,
+    "spdef": 42,
+    "total": 352
+  },
+  "traits": [
+    "Amphibian",
+    "Rested"
+  ],
+  "details": {
+    "height": {
+      "cm": 60,
+      "inches": 23
+    },
+    "weight": {
+      "kg": 48,
+      "lbs": 105
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Mirror Shell",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Crystal Dust",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Crystallize",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Crystal Spikes",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 35
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Antitoxins",
+        "source": "Breeding"
+      },
+      {
+        "name": "Quartz Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Crystle has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 72,
+        "name": "Crystle",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Amphibian",
+          "Rested"
+        ],
+        "traitMapping": {
+          "Amphibian": "Mirroring",
+          "Rested": "Provident"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 73,
+        "name": "Sherald",
+        "level": 30,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mirroring",
+          "Provident"
+        ],
+        "traitMapping": {
+          "Mirroring": "Confined",
+          "Provident": "Efficient"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 74,
+        "name": "Tortenite",
+        "level": 21,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Confined",
+          "Efficient"
+        ],
+        "traitMapping": {
+          "Confined": "Confined",
+          "Efficient": "Efficient"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 73,
+      "name": "Sherald",
+      "level": 30,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mirroring",
+        "Provident"
+      ],
+      "traitMapping": {
+        "Mirroring": "Confined",
+        "Provident": "Efficient"
+      }
+    },
+    "number": 72,
+    "name": "Crystle",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Amphibian",
+      "Rested"
+    ],
+    "traitMapping": {
+      "Amphibian": "Mirroring",
+      "Rested": "Provident"
+    }
+  },
+  "locations": [
+    {
+      "location": "Zadar",
+      "place": "Zadar",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "Starter",
+      "level": "5",
+      "freetem": {
+        "minLevel": 5,
+        "maxLevel": 5,
+        "minPansuns": 29,
+        "maxPansuns": 29
+      }
+    },
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "5%",
+      "level": "29 - 31",
+      "freetem": {
+        "minLevel": 29,
+        "maxLevel": 31,
+        "minPansuns": 69,
+        "maxPansuns": 73
+      }
+    },
+    {
+      "location": "Kupeleleza",
+      "place": "Kupeleleza",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "5%",
+      "level": "25 - 29",
+      "freetem": {
+        "minLevel": 25,
+        "maxLevel": 29,
+        "minPansuns": 63,
+        "maxPansuns": 69
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 35,
+    "female": 65
+  },
+  "catchRate": 160,
+  "hatchMins": 13,
+  "description": "Native to Tucma, Crystle are akin to smaragdine turtles, but they are actually closer to minerals than to fauna. Cute but tough, they are an excellent introductory Crystal Temtem for rookie tamers."
+}

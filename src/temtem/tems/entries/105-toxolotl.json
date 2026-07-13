@@ -1,0 +1,188 @@
+{
+  "_id": 105,
+  "name": {
+    "english": "Toxolotl"
+  },
+  "types": [
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 59,
+    "sta": 40,
+    "spd": 47,
+    "atk": 50,
+    "def": 64,
+    "spatk": 65,
+    "spdef": 37,
+    "total": 362
+  },
+  "traits": [
+    "Power Nap",
+    "Toxic Farewell"
+  ],
+  "details": {
+    "height": {
+      "cm": 106,
+      "inches": 41
+    },
+    "weight": {
+      "kg": 55,
+      "lbs": 121
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Tentacle Whip",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Hallucination",
+        "source": "Levelling",
+        "levels": 39
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Narcoleptic Hit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Pollution",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 105,
+        "name": "Toxolotl",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Power Nap",
+          "Toxic Farewell"
+        ],
+        "traitMapping": {
+          "Power Nap": "Trance",
+          "Toxic Farewell": "Toxic Skin"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 106,
+        "name": "Noxolotl",
+        "level": 30,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Trance",
+          "Toxic Skin"
+        ],
+        "traitMapping": {
+          "Trance": "Trance",
+          "Toxic Skin": "Toxic Skin"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 106,
+      "name": "Noxolotl",
+      "level": 30,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Trance",
+        "Toxic Skin"
+      ],
+      "traitMapping": {
+        "Trance": "Trance",
+        "Toxic Skin": "Toxic Skin"
+      }
+    },
+    "number": 105,
+    "name": "Toxolotl",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Power Nap",
+      "Toxic Farewell"
+    ],
+    "traitMapping": {
+      "Power Nap": "Trance",
+      "Toxic Farewell": "Toxic Skin"
+    }
+  },
+  "locations": [
+    {
+      "location": "Xolot Reservoir",
+      "place": "Xolot Reservoir",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50% - 100%",
+      "level": "27 - 31",
+      "freetem": {
+        "minLevel": 27,
+        "maxLevel": 31,
+        "minPansuns": 81,
+        "maxPansuns": 90
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Perhaps no other Temtem is as representative of Tucma as the colorful Toxolotl. Each strand in its mane is supposed to signify one of the original Tucmani tribes that first excavated and settled Quetzal after the Anak cataclysm."
+}

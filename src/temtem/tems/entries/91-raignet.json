@@ -1,0 +1,196 @@
+{
+  "_id": 91,
+  "name": {
+    "english": "Raignet"
+  },
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 68,
+    "sta": 57,
+    "spd": 54,
+    "atk": 81,
+    "def": 69,
+    "spatk": 58,
+    "spdef": 50,
+    "total": 437
+  },
+  "traits": [
+    "Kinetic Transfer",
+    "Electric Custodian"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 110,
+      "lbs": 242
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sparks",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Sparkling Bullet",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Electropunch",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Electromagnetism",
+        "source": "Levelling",
+        "levels": 56
+      },
+      {
+        "name": "Charged Iron Filings",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Ultrasound",
+        "source": "Levelling",
+        "levels": 84
+      }
+    ],
+    "courses": [
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Piezoelectric Blow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Turbine",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Raignet was first revealed via Twitter."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 90,
+        "name": "Galvanid",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Efficient",
+          "Inductor"
+        ],
+        "traitMapping": {
+          "Efficient": "Kinetic Transfer",
+          "Inductor": "Electric Custodian"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 91,
+        "name": "Raignet",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Kinetic Transfer",
+          "Electric Custodian"
+        ],
+        "traitMapping": {
+          "Kinetic Transfer": "Kinetic Transfer",
+          "Electric Custodian": "Electric Custodian"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 90,
+      "name": "Galvanid",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Efficient",
+        "Inductor"
+      ],
+      "traitMapping": {
+        "Efficient": "Kinetic Transfer",
+        "Inductor": "Electric Custodian"
+      }
+    },
+    "to": null,
+    "number": 91,
+    "name": "Raignet",
+    "level": 16,
+    "trading": false,
+    "traits": [
+      "Kinetic Transfer",
+      "Electric Custodian"
+    ],
+    "traitMapping": {
+      "Kinetic Transfer": "Kinetic Transfer",
+      "Electric Custodian": "Electric Custodian"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "When suddenly all the cutlery in your kitchen flies out of the window, you know this Temtem is nearby. In fact, it uses its magnetic power to move its own heavy, metallic body. The Cipanki always keep them away from their fridges."
+}

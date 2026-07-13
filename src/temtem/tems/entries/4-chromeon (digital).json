@@ -1,0 +1,676 @@
+{
+  "_id": 4,
+  "name": {
+    "english": "Chromeon (Digital)"
+  },
+  "types": [
+    "Digital"
+  ],
+  "stats": {
+    "hp": 61,
+    "sta": 55,
+    "spd": 66,
+    "atk": 65,
+    "def": 49,
+    "spatk": 78,
+    "spdef": 63,
+    "total": 437
+  },
+  "traits": [
+    "Synertyper",
+    "Pigment Inverter"
+  ],
+  "details": {
+    "height": {
+      "cm": 77,
+      "inches": 30
+    },
+    "weight": {
+      "kg": 36,
+      "lbs": 79
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Digital Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Digithreat",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Neutral Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Undermine",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Awful Song",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Wind Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Hypoxia",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Earth Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Dust Vortex",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Petrify",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Water Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Water Cannon",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Fire Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Hellfire",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Fiery Heist",
+        "source": "Levelling",
+        "levels": 100
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Nature Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Resin Trap",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Electric Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Mental Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Gamma Burst",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Denigrate",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Melee Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Soul Shout",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Crystal Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Crystal Deluge",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Digital Whip",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Binary Flood",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Rainbow Guard",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Toxic Torrent",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Venom Spread",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Levelling",
+        "levels": 85
+      }
+    ],
+    "courses": [
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Data Corruption",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Harmful Microwaves",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Refresh",
+        "source": "TechniqueCourses"
+      }
+    ]
+  },
+  "trivia": [
+    "The opening sentence of Chromeon's Tempedia entry is a reference to the 1983 song \"Karma Chameleon\" by Culture Club.",
+    "Chromeon, along with Koish, are the only Temtem with a different subspecies for each type.\nThis is due to Chromeon being created with Koish DNA as a base.\nThe LEDs across Chromeon's body strongly resemble those featured on Digital Koish's body.",
+    "This is due to Chromeon being created with Koish DNA as a base.\nThe LEDs across Chromeon's body strongly resemble those featured on Digital Koish's body.",
+    "The LEDs across Chromeon's body strongly resemble those featured on Digital Koish's body."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "50%",
+      "level": "45 - 55",
+      "freetem": {
+        "minLevel": 45,
+        "maxLevel": 55,
+        "minPansuns": 172,
+        "maxPansuns": 206
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "Chrome-chrome-Chromeoooon, you come and gooo...' This recent breakthrough of Nanto Labs uses modified Koish DNA to create a Digital Temtem with a variable second-typing for maximum versatility."
+}

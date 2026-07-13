@@ -1,0 +1,196 @@
+{
+  "_id": 88,
+  "name": {
+    "english": "Umishi"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 51,
+    "sta": 76,
+    "spd": 80,
+    "atk": 21,
+    "def": 34,
+    "spatk": 63,
+    "spdef": 45,
+    "total": 370
+  },
+  "traits": [
+    "Shared Pain",
+    "Caffeinated"
+  ],
+  "details": {
+    "height": {
+      "cm": 95,
+      "inches": 37
+    },
+    "weight": {
+      "kg": 21,
+      "lbs": 47
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Finbeat",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Aqua Bullet Hell",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cooperation",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Water Cannon",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Aquatic Whirlwind",
+        "source": "Levelling",
+        "levels": 37
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Flood",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Umishi was first seen in iNinjaHero's Twitch stream on 08/08/2018."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 88,
+        "name": "Umishi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Shared Pain",
+          "Caffeinated"
+        ],
+        "traitMapping": {
+          "Shared Pain": "Hydrologist",
+          "Caffeinated": "Plethoric"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 89,
+        "name": "Ukama",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hydrologist",
+          "Plethoric"
+        ],
+        "traitMapping": {
+          "Hydrologist": "Hydrologist",
+          "Plethoric": "Plethoric"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 89,
+      "name": "Ukama",
+      "level": 14,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Hydrologist",
+        "Plethoric"
+      ],
+      "traitMapping": {
+        "Hydrologist": "Hydrologist",
+        "Plethoric": "Plethoric"
+      }
+    },
+    "number": 88,
+    "name": "Umishi",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Shared Pain",
+      "Caffeinated"
+    ],
+    "traitMapping": {
+      "Shared Pain": "Hydrologist",
+      "Caffeinated": "Plethoric"
+    }
+  },
+  "locations": [
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "50% - 90%",
+      "level": "17 - 20",
+      "freetem": {
+        "minLevel": 17,
+        "maxLevel": 20,
+        "minPansuns": 71,
+        "maxPansuns": 80
+      }
+    },
+    {
+      "location": "Sillaro River",
+      "place": "Sillaro River",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "30%",
+      "level": "13 - 15",
+      "freetem": {
+        "minLevel": 13,
+        "maxLevel": 15,
+        "minPansuns": 59,
+        "maxPansuns": 65
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "The Umishi feature in many Denizan tales, usually saving drowning sailors and helping them get to shore. These so-called \"sea-angels\" are dependable friends, and the Riverine Fellowship recommends every member keep at least one in their squad."
+}

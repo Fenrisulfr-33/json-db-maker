@@ -1,0 +1,199 @@
+{
+  "_id": 63,
+  "name": {
+    "english": "Scaravolt"
+  },
+  "types": [
+    "Electric",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 89,
+    "sta": 52,
+    "spd": 44,
+    "atk": 60,
+    "def": 65,
+    "spatk": 62,
+    "spdef": 77,
+    "total": 449
+  },
+  "traits": [
+    "Half Full",
+    "Good Friend"
+  ],
+  "details": {
+    "height": {
+      "cm": 150,
+      "inches": 59
+    },
+    "weight": {
+      "kg": 390,
+      "lbs": 859
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Voltopuncture",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Burrow",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Charge",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Fiery Heist",
+        "source": "Levelling",
+        "levels": 38
+      },
+      {
+        "name": "Earthbreaker",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 54
+      },
+      {
+        "name": "Electric Storm",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Meteor Swarm",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Shelter",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toughen",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 62,
+        "name": "Scarawatt",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Immunity",
+          "Strong Liver"
+        ],
+        "traitMapping": {
+          "Immunity": "Half Full",
+          "Strong Liver": "Good Friend"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 63,
+        "name": "Scaravolt",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Half Full",
+          "Good Friend"
+        ],
+        "traitMapping": {
+          "Half Full": "Half Full",
+          "Good Friend": "Good Friend"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 62,
+      "name": "Scarawatt",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Immunity",
+        "Strong Liver"
+      ],
+      "traitMapping": {
+        "Immunity": "Half Full",
+        "Strong Liver": "Good Friend"
+      }
+    },
+    "to": null,
+    "number": 63,
+    "name": "Scaravolt",
+    "level": 12,
+    "trading": false,
+    "traits": [
+      "Half Full",
+      "Good Friend"
+    ],
+    "traitMapping": {
+      "Half Full": "Half Full",
+      "Good Friend": "Good Friend"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 75,
+    "female": 25
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Initially mistaken as a minor mutation of Scarawatt, Scaravolt is strongly associated with Miyako and the bonfires the yamabushi would light on the mountaintops on cold nights. On such an occasion, a sighting of this Temtem was considered a good omen."
+}

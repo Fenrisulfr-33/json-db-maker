@@ -1,0 +1,259 @@
+{
+  "_id": 139,
+  "name": {
+    "english": "Vulor"
+  },
+  "types": [
+    "Fire",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 65,
+    "sta": 59,
+    "spd": 63,
+    "atk": 49,
+    "def": 71,
+    "spatk": 49,
+    "spdef": 32,
+    "total": 388
+  },
+  "traits": [
+    "Pyromaniac",
+    "Individualist"
+  ],
+  "details": {
+    "height": {
+      "cm": 163,
+      "inches": 64
+    },
+    "weight": {
+      "kg": 94,
+      "lbs": 208
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Stone Ball",
+        "source": "Levelling",
+        "levels": 41
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      },
+      {
+        "name": "Extinction",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Vulor has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 138,
+        "name": "Vulvir",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Caffeinated"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Pyromaniac",
+          "Caffeinated": "Individualist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 139,
+        "name": "Vulor",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Pyromaniac",
+          "Individualist"
+        ],
+        "traitMapping": {
+          "Pyromaniac": "Receptive",
+          "Individualist": "Vigorous"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 140,
+        "name": "Vulcrane",
+        "level": 28,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Receptive",
+          "Vigorous"
+        ],
+        "traitMapping": {
+          "Receptive": "Receptive",
+          "Vigorous": "Vigorous"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 138,
+      "name": "Vulvir",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Camaraderie",
+        "Caffeinated"
+      ],
+      "traitMapping": {
+        "Camaraderie": "Pyromaniac",
+        "Caffeinated": "Individualist"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 140,
+      "name": "Vulcrane",
+      "level": 28,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Receptive",
+        "Vigorous"
+      ],
+      "traitMapping": {
+        "Receptive": "Receptive",
+        "Vigorous": "Vigorous"
+      }
+    },
+    "number": 139,
+    "name": "Vulor",
+    "level": 14,
+    "trading": false,
+    "traits": [
+      "Pyromaniac",
+      "Individualist"
+    ],
+    "traitMapping": {
+      "Pyromaniac": "Receptive",
+      "Individualist": "Vigorous"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "25%",
+      "level": "33 - 35",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 35,
+        "minPansuns": 110,
+        "maxPansuns": 115
+      }
+    },
+    {
+      "location": "Anak Caldera",
+      "place": "Anak Caldera",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25%",
+      "level": "33 - 38",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 38,
+        "minPansuns": 110,
+        "maxPansuns": 123
+      }
+    },
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25% - 35%",
+      "level": "40 - 51",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 51,
+        "minPansuns": 128,
+        "maxPansuns": 158
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 60,
+    "female": 40
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Although they hide their faces in hollow rocks like their lesser brethren, these Temtem have very little to fear from their environment. Tough as stone and destructive as fire, they are a force to be reckoned with."
+}

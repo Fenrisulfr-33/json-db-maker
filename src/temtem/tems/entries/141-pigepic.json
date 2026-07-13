@@ -1,0 +1,205 @@
+{
+  "_id": 141,
+  "name": {
+    "english": "Pigepic"
+  },
+  "types": [
+    "Wind"
+  ],
+  "stats": {
+    "hp": 54,
+    "sta": 72,
+    "spd": 58,
+    "atk": 65,
+    "def": 69,
+    "spatk": 45,
+    "spdef": 69,
+    "total": 432
+  },
+  "traits": [
+    "Friendship",
+    "Fainted Curse"
+  ],
+  "details": {
+    "height": {
+      "cm": 69,
+      "inches": 27
+    },
+    "weight": {
+      "kg": 64,
+      "lbs": 141
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Bamboozle",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Oshi-Dashi",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Turbine",
+        "source": "Levelling",
+        "levels": 81
+      },
+      {
+        "name": "Divine Inspiration",
+        "source": "Levelling",
+        "levels": 92
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Head Charge",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hurricane",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Pigepic's design is likely based on the English phrase, \"when pigs fly\", which is used to describe an impossible situation.",
+    "Despite being Temtem number #141, Pigepic was the first Temtem to be revealed to the public via Twitter.",
+    "Pigepic has 2 emotes on the official Temtem discord.",
+    "The Temtem Discord community created \"cults\" worshiping Saku and Pigepic. The official Twitter account for Temtem later created a tweet pitting the “Sakult” and “Team Porket” against each other. The Sakult is currently the winner."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "5%",
+      "level": "4 - 6",
+      "freetem": {
+        "minLevel": 4,
+        "maxLevel": 6,
+        "minPansuns": 28,
+        "maxPansuns": 32
+      }
+    },
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "50% - 100%",
+      "level": "5 - 11",
+      "freetem": {
+        "minLevel": 5,
+        "maxLevel": 11,
+        "minPansuns": 30,
+        "maxPansuns": 42
+      }
+    },
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "85%",
+      "level": "8 - 10",
+      "freetem": {
+        "minLevel": 8,
+        "maxLevel": 10,
+        "minPansuns": 36,
+        "maxPansuns": 40
+      }
+    },
+    {
+      "location": "Saipark",
+      "place": "Saipark",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "50%",
+      "level": "38 - 41",
+      "freetem": {
+        "minLevel": 38,
+        "maxLevel": 41,
+        "minPansuns": 96,
+        "maxPansuns": 102
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 135,
+  "hatchMins": 18,
+  "description": "The absolute favourites of toddlers all around the Archipelago, Pigepic are fluffy, soft and absolutely adorable. Voluminous and cumbersome, they normally float low over the ground, making them ideal playmates for small children."
+}

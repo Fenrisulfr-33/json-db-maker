@@ -1,0 +1,194 @@
+{
+  "_id": 162,
+  "name": {
+    "english": "Anatan"
+  },
+  "types": [
+    "Crystal",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 62,
+    "sta": 48,
+    "spd": 32,
+    "atk": 50,
+    "def": 103,
+    "spatk": 50,
+    "spdef": 103,
+    "total": 448
+  },
+  "traits": [
+    "Self-Care",
+    "Protective Crystal"
+  ],
+  "details": {
+    "height": {
+      "cm": 220,
+      "inches": 86
+    },
+    "weight": {
+      "kg": 279,
+      "lbs": 615
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Chains Hit",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Meteor Swarm",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 36
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 47
+      },
+      {
+        "name": "Mineral Hail",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Chain Heal",
+        "source": "Levelling",
+        "levels": 72
+      },
+      {
+        "name": "Fiery Soul",
+        "source": "Levelling",
+        "levels": 91
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sharpening",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quartz Dirt",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Fiery Heist",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 161,
+        "name": "Anahir",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Trauma",
+          "Flawed Crystal"
+        ],
+        "traitMapping": {
+          "Trauma": "Self-Care",
+          "Flawed Crystal": "Protective Crystal"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 162,
+        "name": "Anatan",
+        "level": 1000,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Self-Care",
+          "Protective Crystal"
+        ],
+        "traitMapping": {
+          "Self-Care": "Self-Care",
+          "Protective Crystal": "Protective Crystal"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 161,
+      "name": "Anahir",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Trauma",
+        "Flawed Crystal"
+      ],
+      "traitMapping": {
+        "Trauma": "Self-Care",
+        "Flawed Crystal": "Protective Crystal"
+      }
+    },
+    "to": null,
+    "number": 162,
+    "name": "Anatan",
+    "level": 1000,
+    "trading": false,
+    "traits": [
+      "Self-Care",
+      "Protective Crystal"
+    ],
+    "traitMapping": {
+      "Self-Care": "Self-Care",
+      "Protective Crystal": "Protective Crystal"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Through the care and kindness of its tamer, Anahir overcame its traumatic origins. This happy Anatan stands as living proof of the healing power of love."
+}

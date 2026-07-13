@@ -1,0 +1,141 @@
+{
+  "_id": 157,
+  "name": {
+    "english": "Chimurian"
+  },
+  "types": [
+    "Nature",
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 49,
+    "sta": 61,
+    "spd": 84,
+    "atk": 65,
+    "def": 78,
+    "spatk": 37,
+    "spdef": 84,
+    "total": 458
+  },
+  "traits": [
+    "Disgrace",
+    "Hostile"
+  ],
+  "details": {
+    "height": {
+      "cm": 215,
+      "inches": 84
+    },
+    "weight": {
+      "kg": 71,
+      "lbs": 156
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Rage",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 36
+      },
+      {
+        "name": "Multiple Pecks",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Burrow",
+        "source": "Levelling",
+        "levels": 56
+      },
+      {
+        "name": "Sharpening",
+        "source": "Levelling",
+        "levels": 69
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Levelling",
+        "levels": 85
+      },
+      {
+        "name": "Crystal Plume Gatling",
+        "source": "Levelling",
+        "levels": 96
+      }
+    ],
+    "courses": [
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Mirror Shell",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Chimurian has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Greenglen Forest",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "30%",
+      "level": "62 - 68",
+      "freetem": {
+        "minLevel": 62,
+        "maxLevel": 68,
+        "minPansuns": 450,
+        "maxPansuns": 491
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 39,
+  "hatchMins": 37.2,
+  "description": "Some urban legends claim this variety wasn't tamed or bred as much as extracted from mineral ores in the deepest pits of Quetzal. Just how its roots interface with the crystals of its body is still a subject of scientific study."
+}

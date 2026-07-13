@@ -1,0 +1,203 @@
+{
+  "_id": 57,
+  "name": {
+    "english": "Raiber"
+  },
+  "types": [
+    "Fire"
+  ],
+  "stats": {
+    "hp": 57,
+    "sta": 35,
+    "spd": 42,
+    "atk": 40,
+    "def": 61,
+    "spatk": 59,
+    "spdef": 38,
+    "total": 332
+  },
+  "traits": [
+    "Camaraderie",
+    "Rested"
+  ],
+  "details": {
+    "height": {
+      "cm": 95,
+      "inches": 37
+    },
+    "weight": {
+      "kg": 28,
+      "lbs": 61
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Roar",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Fierce Claw",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 25
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Rampage",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Raiber was first revealed as a mention on a Twitter post about Raican.",
+    "Raiber has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 57,
+        "name": "Raiber",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Rested"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Furor",
+          "Rested": "Demoralize"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 58,
+        "name": "Raize",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Demoralize"
+        ],
+        "traitMapping": {
+          "Furor": "Prideful",
+          "Demoralize": "Motivator"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 59,
+        "name": "Raican",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Prideful",
+          "Motivator"
+        ],
+        "traitMapping": {
+          "Prideful": "Prideful",
+          "Motivator": "Motivator"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 58,
+      "name": "Raize",
+      "level": 15,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Furor",
+        "Demoralize"
+      ],
+      "traitMapping": {
+        "Furor": "Prideful",
+        "Demoralize": "Motivator"
+      }
+    },
+    "number": 57,
+    "name": "Raiber",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Camaraderie",
+      "Rested"
+    ],
+    "traitMapping": {
+      "Camaraderie": "Furor",
+      "Rested": "Demoralize"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Glassyway",
+      "place": "The Glassyway",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "30%",
+      "level": "20 - 22",
+      "freetem": {
+        "minLevel": 20,
+        "maxLevel": 22,
+        "minPansuns": 56,
+        "maxPansuns": 60
+      }
+    },
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "10% - 50%",
+      "level": "17 - 24",
+      "freetem": {
+        "minLevel": 17,
+        "maxLevel": 24,
+        "minPansuns": 51,
+        "maxPansuns": 64
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 85,
+    "female": 15
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "Raiber is often given to novice tamers in Omninesian Dojos because it is relatively mild-mannered for a Fire Temtem. Easier to handle than the mightier varieties, it is nevertheless a loyal companion and decent fighter."
+}

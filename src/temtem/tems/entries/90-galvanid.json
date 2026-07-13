@@ -1,0 +1,198 @@
+{
+  "_id": 90,
+  "name": {
+    "english": "Galvanid"
+  },
+  "types": [
+    "Electric"
+  ],
+  "stats": {
+    "hp": 59,
+    "sta": 49,
+    "spd": 46,
+    "atk": 70,
+    "def": 60,
+    "spatk": 50,
+    "spdef": 43,
+    "total": 377
+  },
+  "traits": [
+    "Efficient",
+    "Inductor"
+  ],
+  "details": {
+    "height": {
+      "cm": 103,
+      "inches": 40
+    },
+    "weight": {
+      "kg": 55,
+      "lbs": 121
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sparks",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Sparkling Bullet",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Levelling",
+        "levels": 31
+      }
+    ],
+    "courses": [
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Held Anger",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Piezoelectric Blow",
+        "source": "Breeding"
+      },
+      {
+        "name": "Turbine",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 90,
+        "name": "Galvanid",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Efficient",
+          "Inductor"
+        ],
+        "traitMapping": {
+          "Efficient": "Kinetic Transfer",
+          "Inductor": "Electric Custodian"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 91,
+        "name": "Raignet",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Kinetic Transfer",
+          "Electric Custodian"
+        ],
+        "traitMapping": {
+          "Kinetic Transfer": "Kinetic Transfer",
+          "Electric Custodian": "Electric Custodian"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 91,
+      "name": "Raignet",
+      "level": 16,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Kinetic Transfer",
+        "Electric Custodian"
+      ],
+      "traitMapping": {
+        "Kinetic Transfer": "Kinetic Transfer",
+        "Electric Custodian": "Electric Custodian"
+      }
+    },
+    "number": 90,
+    "name": "Galvanid",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Efficient",
+      "Inductor"
+    ],
+    "traitMapping": {
+      "Efficient": "Kinetic Transfer",
+      "Inductor": "Electric Custodian"
+    }
+  },
+  "locations": [
+    {
+      "location": "Iwaba",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "40 - 50",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 50,
+        "minPansuns": 92,
+        "maxPansuns": 110
+      }
+    },
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "30%",
+      "level": "40 - 50",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 50,
+        "minPansuns": 92,
+        "maxPansuns": 110
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "Often paired for comedic effect, Galvanid is the downer counterpart to Sparzy's manic persona. Given its usually serious expression, this 'Tem is the perfect butt of all jokes... which conceals a very effective range of attacks."
+}

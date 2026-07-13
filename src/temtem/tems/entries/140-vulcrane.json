@@ -1,0 +1,242 @@
+{
+  "_id": 140,
+  "name": {
+    "english": "Vulcrane"
+  },
+  "types": [
+    "Fire",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 76,
+    "sta": 65,
+    "spd": 73,
+    "atk": 74,
+    "def": 86,
+    "spatk": 64,
+    "spdef": 35,
+    "total": 473
+  },
+  "traits": [
+    "Receptive",
+    "Vigorous"
+  ],
+  "details": {
+    "height": {
+      "cm": 233,
+      "inches": 91
+    },
+    "weight": {
+      "kg": 142,
+      "lbs": 313
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Stone Ball",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Flaming Meteorite",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Stone Trench",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Sand Storm",
+        "source": "Levelling",
+        "levels": 84
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Soil Steam",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      },
+      {
+        "name": "Extinction",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 138,
+        "name": "Vulvir",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Caffeinated"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Pyromaniac",
+          "Caffeinated": "Individualist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 139,
+        "name": "Vulor",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Pyromaniac",
+          "Individualist"
+        ],
+        "traitMapping": {
+          "Pyromaniac": "Receptive",
+          "Individualist": "Vigorous"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 140,
+        "name": "Vulcrane",
+        "level": 28,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Receptive",
+          "Vigorous"
+        ],
+        "traitMapping": {
+          "Receptive": "Receptive",
+          "Vigorous": "Vigorous"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 139,
+      "name": "Vulor",
+      "level": 14,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Pyromaniac",
+        "Individualist"
+      ],
+      "traitMapping": {
+        "Pyromaniac": "Receptive",
+        "Individualist": "Vigorous"
+      }
+    },
+    "to": null,
+    "number": 140,
+    "name": "Vulcrane",
+    "level": 28,
+    "trading": false,
+    "traits": [
+      "Receptive",
+      "Vigorous"
+    ],
+    "traitMapping": {
+      "Receptive": "Receptive",
+      "Vigorous": "Vigorous"
+    }
+  },
+  "locations": [
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "Gift",
+      "level": "33",
+      "freetem": {
+        "minLevel": 33,
+        "maxLevel": 33,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 60,
+    "female": 40
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Vulcrane are sometimes described as \"Anak on two legs\". If a variety of draconic-looking Temtem ever existed, they couldn't have been much fiercer than this advanced, flaming beast."
+}

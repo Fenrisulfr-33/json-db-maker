@@ -1,0 +1,153 @@
+{
+  "_id": 122,
+  "name": {
+    "english": "Shuine"
+  },
+  "types": [
+    "Crystal",
+    "Water"
+  ],
+  "stats": {
+    "hp": 43,
+    "sta": 90,
+    "spd": 81,
+    "atk": 67,
+    "def": 49,
+    "spatk": 72,
+    "spdef": 60,
+    "total": 462
+  },
+  "traits": [
+    "Immunity",
+    "Guardian"
+  ],
+  "details": {
+    "height": {
+      "cm": 250,
+      "inches": 98
+    },
+    "weight": {
+      "kg": 68,
+      "lbs": 149
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Aqua Bullet Hell",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Iced Stalactite",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Flood",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Levelling",
+        "levels": 51
+      },
+      {
+        "name": "Fluid Barrier",
+        "source": "Levelling",
+        "levels": 62
+      },
+      {
+        "name": "Water Cannon",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quartz Dirt",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Mirror Shell",
+        "source": "Breeding"
+      },
+      {
+        "name": "Quartz Shield",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Shuine is based on the feathered deities of Mesoamerican religions, with western dragon ears."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Kakama Cenote",
+      "place": "Kakama Cenote",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "5%",
+      "level": "38 - 42",
+      "freetem": {
+        "minLevel": 38,
+        "maxLevel": 42,
+        "minPansuns": 277,
+        "maxPansuns": 304
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 40,
+  "hatchMins": 37,
+  "description": "Colorful Shuine are a sight to behold, their bright scales reflecting Pansunlight as they frolic in the Kakama Cenote. They feed off the acidic components of Xolotic water, acting as natural filters and keeping cenote waters clean and fit for human consumption almost as effectively as the layers of volcanic rock."
+}

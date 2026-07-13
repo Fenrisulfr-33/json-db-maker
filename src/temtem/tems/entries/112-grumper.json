@@ -1,0 +1,225 @@
+{
+  "_id": 112,
+  "name": {
+    "english": "Grumper"
+  },
+  "types": [
+    "Earth",
+    "Electric"
+  ],
+  "stats": {
+    "hp": 75,
+    "sta": 50,
+    "spd": 50,
+    "atk": 56,
+    "def": 75,
+    "spatk": 81,
+    "spdef": 67,
+    "total": 454
+  },
+  "traits": [
+    "Inductor",
+    "Coward's Rest"
+  ],
+  "details": {
+    "height": {
+      "cm": 200,
+      "inches": 78
+    },
+    "weight": {
+      "kg": 170,
+      "lbs": 374
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Mud Shower",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Toughen",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Petrify",
+        "source": "Levelling",
+        "levels": 36
+      },
+      {
+        "name": "Sparks",
+        "source": "Levelling",
+        "levels": 43
+      },
+      {
+        "name": "Electric Storm",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Earthbreaker",
+        "source": "Levelling",
+        "levels": 63
+      },
+      {
+        "name": "Chain Lightning",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Slow Down",
+        "source": "Levelling",
+        "levels": 89
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Goring",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sludge Gift",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 111,
+        "name": "Grumvel",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Energy Reserves",
+          "Settling"
+        ],
+        "traitMapping": {
+          "Energy Reserves": "Inductor",
+          "Settling": "Coward's Rest"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 112,
+        "name": "Grumper",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Inductor",
+          "Coward's Rest"
+        ],
+        "traitMapping": {
+          "Inductor": "Inductor",
+          "Coward's Rest": "Coward's Rest"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 111,
+      "name": "Grumvel",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Energy Reserves",
+        "Settling"
+      ],
+      "traitMapping": {
+        "Energy Reserves": "Inductor",
+        "Settling": "Coward's Rest"
+      }
+    },
+    "to": null,
+    "number": 112,
+    "name": "Grumper",
+    "level": 16,
+    "trading": false,
+    "traits": [
+      "Inductor",
+      "Coward's Rest"
+    ],
+    "traitMapping": {
+      "Inductor": "Inductor",
+      "Coward's Rest": "Coward's Rest"
+    }
+  },
+  "locations": [
+    {
+      "location": "The Highbelow?",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "55 - 65",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 65,
+        "minPansuns": 177,
+        "maxPansuns": 205
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 95,
+  "hatchMins": 26,
+  "description": "Often the butt of Dojo jokes, Grumper are an evolutive mystery. While some Temtemologists claim they are just Grumvel with overdeveloped horns, some others claim it's a completely different genus."
+}

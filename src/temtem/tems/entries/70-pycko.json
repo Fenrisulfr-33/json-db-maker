@@ -1,0 +1,193 @@
+{
+  "_id": 70,
+  "name": {
+    "english": "Pycko"
+  },
+  "types": [
+    "Earth",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 49,
+    "sta": 52,
+    "spd": 39,
+    "atk": 55,
+    "def": 40,
+    "spatk": 44,
+    "spdef": 41,
+    "total": 320
+  },
+  "traits": [
+    "Furor",
+    "Tireless"
+  ],
+  "details": {
+    "height": {
+      "cm": 42,
+      "inches": 16
+    },
+    "weight": {
+      "kg": 14,
+      "lbs": 30
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Smoldering Kiss",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Burrow",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 24
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Mud Shower",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 70,
+        "name": "Pycko",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Furor",
+          "Tireless"
+        ],
+        "traitMapping": {
+          "Furor": "Heat Discharge",
+          "Tireless": "Sentinel"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 71,
+        "name": "Drakash",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Heat Discharge",
+          "Sentinel"
+        ],
+        "traitMapping": {
+          "Heat Discharge": "Heat Discharge",
+          "Sentinel": "Sentinel"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 71,
+      "name": "Drakash",
+      "level": 14,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Heat Discharge",
+        "Sentinel"
+      ],
+      "traitMapping": {
+        "Heat Discharge": "Heat Discharge",
+        "Sentinel": "Sentinel"
+      }
+    },
+    "number": 70,
+    "name": "Pycko",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Furor",
+      "Tireless"
+    ],
+    "traitMapping": {
+      "Furor": "Heat Discharge",
+      "Tireless": "Sentinel"
+    }
+  },
+  "locations": [
+    {
+      "location": "Chini Grotto",
+      "place": "Chini Grotto",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "5%",
+      "level": "40 - 44",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 44,
+        "minPansuns": 92,
+        "maxPansuns": 100
+      }
+    },
+    {
+      "location": "Tasa Desert",
+      "place": "Tasa Desert",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "15% - 40%",
+      "level": "37 - 44",
+      "freetem": {
+        "minLevel": 37,
+        "maxLevel": 44,
+        "minPansuns": 87,
+        "maxPansuns": 100
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 150,
+  "hatchMins": 15,
+  "description": "Bubbly and cheerful, this Temtem is the protagonist of an animation series aimed at warning children of the dangers of fire. It has been a lifelong friend to many first-time tamers."
+}

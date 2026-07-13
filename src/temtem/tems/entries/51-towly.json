@@ -1,0 +1,254 @@
+{
+  "_id": 51,
+  "name": {
+    "english": "Towly"
+  },
+  "types": [
+    "Melee",
+    "Mental"
+  ],
+  "stats": {
+    "hp": 45,
+    "sta": 41,
+    "spd": 70,
+    "atk": 54,
+    "def": 36,
+    "spatk": 54,
+    "spdef": 36,
+    "total": 336
+  },
+  "traits": [
+    "Hypnotist",
+    "Tag Team"
+  ],
+  "details": {
+    "height": {
+      "cm": 80,
+      "inches": 31
+    },
+    "weight": {
+      "kg": 18,
+      "lbs": 39
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 19
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Beta Burst",
+        "source": "Breeding"
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Breeding"
+      },
+      {
+        "name": "Oshi-Dashi",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Towly is the only Temtem to evolve into different Temtem based on its gender."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 51,
+        "name": "Towly",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hypnotist",
+          "Tag Team"
+        ],
+        "traitMapping": {
+          "Hypnotist": "Determined",
+          "Tag Team": "Bruiser"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 52,
+        "name": "Owlhe",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Determined",
+          "Bruiser"
+        ],
+        "traitMapping": {
+          "Determined": "Hypnotist",
+          "Bruiser": "Tag Team"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 51,
+        "name": "Towly",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hypnotist",
+          "Tag Team"
+        ],
+        "traitMapping": {
+          "Hypnotist": "Neutrality",
+          "Tag Team": "Air Specialist"
+        }
+      },
+      {
+        "stage": 3,
+        "number": 53,
+        "name": "Barnshe",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Neutrality",
+          "Air Specialist"
+        ],
+        "traitMapping": {
+          "Neutrality": "Neutrality",
+          "Air Specialist": "Air Specialist"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 52,
+      "name": "Owlhe",
+      "level": 10,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Determined",
+        "Bruiser"
+      ],
+      "traitMapping": {
+        "Determined": "Hypnotist",
+        "Bruiser": "Tag Team"
+      }
+    },
+    "to": {
+      "stage": 3,
+      "number": 53,
+      "name": "Barnshe",
+      "level": 10,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Neutrality",
+        "Air Specialist"
+      ],
+      "traitMapping": {
+        "Neutrality": "Neutrality",
+        "Air Specialist": "Air Specialist"
+      }
+    },
+    "number": 51,
+    "name": "Towly",
+    "level": 10,
+    "trading": false,
+    "traits": [
+      "Hypnotist",
+      "Tag Team"
+    ],
+    "traitMapping": {
+      "Hypnotist": "Neutrality",
+      "Tag Team": "Air Specialist"
+    }
+  },
+  "locations": [
+    {
+      "location": "Meadowdale",
+      "place": "Meadowdale",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10%",
+      "level": "30 - 40",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 40,
+        "minPansuns": 88,
+        "maxPansuns": 110
+      }
+    },
+    {
+      "location": "Mac Aed's Crags",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10%",
+      "level": "55 - 65",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 65,
+        "minPansuns": 144,
+        "maxPansuns": 167
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Propertonian toddlers are taught not to be afraid of this gentle species, in spite of the unnerving appearance of their large, shiny eyes when encountered in the forest at night."
+}

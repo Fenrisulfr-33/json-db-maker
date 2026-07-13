@@ -1,0 +1,223 @@
+{
+  "_id": 74,
+  "name": {
+    "english": "Tortenite"
+  },
+  "types": [
+    "Crystal",
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 74,
+    "sta": 55,
+    "spd": 52,
+    "atk": 45,
+    "def": 76,
+    "spatk": 89,
+    "spdef": 60,
+    "total": 451
+  },
+  "traits": [
+    "Confined",
+    "Efficient"
+  ],
+  "details": {
+    "height": {
+      "cm": 190,
+      "inches": 74
+    },
+    "weight": {
+      "kg": 500,
+      "lbs": 1102
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Mirror Shell",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Crystal Dust",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Crystallize",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Crystal Spikes",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Diamond Fort",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Tortenite's Garden",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Toxic Gas",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Crystal Deluge",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sharpening",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Antitoxins",
+        "source": "Breeding"
+      },
+      {
+        "name": "Quartz Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 72,
+        "name": "Crystle",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Amphibian",
+          "Rested"
+        ],
+        "traitMapping": {
+          "Amphibian": "Mirroring",
+          "Rested": "Provident"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 73,
+        "name": "Sherald",
+        "level": 30,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mirroring",
+          "Provident"
+        ],
+        "traitMapping": {
+          "Mirroring": "Confined",
+          "Provident": "Efficient"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 74,
+        "name": "Tortenite",
+        "level": 21,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Confined",
+          "Efficient"
+        ],
+        "traitMapping": {
+          "Confined": "Confined",
+          "Efficient": "Efficient"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 73,
+      "name": "Sherald",
+      "level": 30,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mirroring",
+        "Provident"
+      ],
+      "traitMapping": {
+        "Mirroring": "Confined",
+        "Provident": "Efficient"
+      }
+    },
+    "to": null,
+    "number": 74,
+    "name": "Tortenite",
+    "level": 21,
+    "trading": false,
+    "traits": [
+      "Confined",
+      "Efficient"
+    ],
+    "traitMapping": {
+      "Confined": "Confined",
+      "Efficient": "Efficient"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 35,
+    "female": 65
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Tortenite are lumbering creatures, often employed by Tucmani miners as work companions. In the wild, they are often spotted herding Sherald as pack leaders."
+}

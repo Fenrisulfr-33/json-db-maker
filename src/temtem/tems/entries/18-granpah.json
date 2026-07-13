@@ -1,0 +1,229 @@
+{
+  "_id": 18,
+  "name": {
+    "english": "Granpah"
+  },
+  "types": [
+    "Wind"
+  ],
+  "stats": {
+    "hp": 70,
+    "sta": 44,
+    "spd": 78,
+    "atk": 55,
+    "def": 61,
+    "spatk": 76,
+    "spdef": 66,
+    "total": 450
+  },
+  "traits": [
+    "Last Rush",
+    "Bully"
+  ],
+  "details": {
+    "height": {
+      "cm": 186,
+      "inches": 73
+    },
+    "weight": {
+      "kg": 45,
+      "lbs": 99
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Refresh",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Willpower Drain",
+        "source": "Levelling",
+        "levels": 52
+      },
+      {
+        "name": "Hypoxia",
+        "source": "Levelling",
+        "levels": 72
+      },
+      {
+        "name": "Gust",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Hurricane",
+        "source": "Levelling",
+        "levels": 95
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Humiliating Slap",
+        "source": "Breeding"
+      },
+      {
+        "name": "Tornado",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Granpah was first seen on a Kickstarter update for types and was later revealed on Twitter.",
+    "Prior to the official reveal, clues were given about Granpah's name in the official Temtem Discord. The user who guessed the name correctly was AfroSera#2380."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 16,
+        "name": "Paharo",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hover",
+          "Friendship"
+        ],
+        "traitMapping": {
+          "Hover": "Caffeinated",
+          "Friendship": "Camaraderie"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 17,
+        "name": "Paharac",
+        "level": 7,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Camaraderie"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Last Rush",
+          "Camaraderie": "Bully"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 18,
+        "name": "Granpah",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Last Rush",
+          "Bully"
+        ],
+        "traitMapping": {
+          "Last Rush": "Last Rush",
+          "Bully": "Bully"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 17,
+      "name": "Paharac",
+      "level": 7,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Caffeinated",
+        "Camaraderie"
+      ],
+      "traitMapping": {
+        "Caffeinated": "Last Rush",
+        "Camaraderie": "Bully"
+      }
+    },
+    "to": null,
+    "number": 18,
+    "name": "Granpah",
+    "level": 16,
+    "trading": false,
+    "traits": [
+      "Last Rush",
+      "Bully"
+    ],
+    "traitMapping": {
+      "Last Rush": "Last Rush",
+      "Bully": "Bully"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "The authoritative stare of a Granpah portrays the long time and many battles that it takes to achieve this evolutionary stage. They have earned their respect among younger Wind Temtem."
+}

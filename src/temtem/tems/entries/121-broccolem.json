@@ -1,0 +1,234 @@
+{
+  "_id": 121,
+  "name": {
+    "english": "Broccolem"
+  },
+  "types": [
+    "Nature",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 74,
+    "sta": 63,
+    "spd": 47,
+    "atk": 60,
+    "def": 60,
+    "spatk": 76,
+    "spdef": 73,
+    "total": 453
+  },
+  "traits": [
+    "Mithridatism",
+    "Camouflage"
+  ],
+  "details": {
+    "height": {
+      "cm": 195,
+      "inches": 76
+    },
+    "weight": {
+      "kg": 140,
+      "lbs": 308
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Spores",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Photosynthesis",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Undermine",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Bush",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Double Gash",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Dim Mak",
+        "source": "Levelling",
+        "levels": 60
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Resin Trap",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Plague",
+        "source": "Levelling",
+        "levels": 86
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Levelling",
+        "levels": 95
+      }
+    ],
+    "courses": [
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bark Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Breeding"
+      },
+      {
+        "name": "Soul Shout",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 119,
+        "name": "Broccoblin",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Withdrawal",
+          "Autotomy"
+        ],
+        "traitMapping": {
+          "Withdrawal": "Immunity",
+          "Autotomy": "Coward's Rest"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 120,
+        "name": "Broccorc",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Immunity",
+          "Coward's Rest"
+        ],
+        "traitMapping": {
+          "Immunity": "Mithridatism",
+          "Coward's Rest": "Camouflage"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 121,
+        "name": "Broccolem",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mithridatism",
+          "Camouflage"
+        ],
+        "traitMapping": {
+          "Mithridatism": "Mithridatism",
+          "Camouflage": "Camouflage"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 120,
+      "name": "Broccorc",
+      "level": 10,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Immunity",
+        "Coward's Rest"
+      ],
+      "traitMapping": {
+        "Immunity": "Mithridatism",
+        "Coward's Rest": "Camouflage"
+      }
+    },
+    "to": null,
+    "number": 121,
+    "name": "Broccolem",
+    "level": 10,
+    "trading": false,
+    "traits": [
+      "Mithridatism",
+      "Camouflage"
+    ],
+    "traitMapping": {
+      "Mithridatism": "Mithridatism",
+      "Camouflage": "Camouflage"
+    }
+  },
+  "locations": [
+    {
+      "location": "Chieftain's Barrow",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "95%",
+      "level": "100",
+      "freetem": {
+        "minLevel": 100,
+        "maxLevel": 100,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Probably the origin of old legends about dryads and forest trolls, this Temtem is a hulking quasi-arboreal of impressive strength and resilience. Like an oak, if oaks could punch."
+}

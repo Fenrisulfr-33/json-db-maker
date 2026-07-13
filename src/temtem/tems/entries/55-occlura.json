@@ -1,0 +1,192 @@
+{
+  "_id": 55,
+  "name": {
+    "english": "Occlura"
+  },
+  "types": [
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 50,
+    "sta": 39,
+    "spd": 50,
+    "atk": 45,
+    "def": 43,
+    "spatk": 38,
+    "spdef": 65,
+    "total": 330
+  },
+  "traits": [
+    "Warm-Blooded",
+    "Scavenger"
+  ],
+  "details": {
+    "height": {
+      "cm": 137,
+      "inches": 53
+    },
+    "weight": {
+      "kg": 79,
+      "lbs": 174
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Crystallize",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 22
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Humiliating Slap",
+        "source": "Breeding"
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "An untamed Occlura can be seen in the overworld in the Mines of Mictlan, despite not being encountered there.",
+    "Occlura has a sticker on the official Temtem Discord, beating 14 other Temetem by only 5 votes, out of the total 331 votes, in the 10th sticker poll.\nThis was a special sticker poll with Temtem chosen by the Discord's Moderators.",
+    "This was a special sticker poll with Temtem chosen by the Discord's Moderators."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 55,
+        "name": "Occlura",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Warm-Blooded",
+          "Scavenger"
+        ],
+        "traitMapping": {
+          "Warm-Blooded": "Puppet Master",
+          "Scavenger": "Rejuvenate"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 56,
+        "name": "Myx",
+        "level": 18,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Puppet Master",
+          "Rejuvenate"
+        ],
+        "traitMapping": {
+          "Puppet Master": "Puppet Master",
+          "Rejuvenate": "Rejuvenate"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 56,
+      "name": "Myx",
+      "level": 18,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Puppet Master",
+        "Rejuvenate"
+      ],
+      "traitMapping": {
+        "Puppet Master": "Puppet Master",
+        "Rejuvenate": "Rejuvenate"
+      }
+    },
+    "number": 55,
+    "name": "Occlura",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Warm-Blooded",
+      "Scavenger"
+    ],
+    "traitMapping": {
+      "Warm-Blooded": "Puppet Master",
+      "Scavenger": "Rejuvenate"
+    }
+  },
+  "locations": [
+    {
+      "location": "Gardens of Aztlan",
+      "place": "",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "50%",
+      "level": "30 - 45",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 45,
+        "minPansuns": 88,
+        "maxPansuns": 122
+      }
+    },
+    {
+      "location": "Kupeleleza",
+      "place": "Kupeleleza",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "60%",
+      "level": "32 - 37",
+      "freetem": {
+        "minLevel": 32,
+        "maxLevel": 37,
+        "minPansuns": 92,
+        "maxPansuns": 104
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 60,
+    "female": 40
+  },
+  "catchRate": 120,
+  "hatchMins": 21,
+  "description": "Despite its creepy appearance, Occlura are mineral-eaters that never pose any danger to humans. Their tame nature and their appetite for raw rock make them valuable assets for mining purposes, as the Tucmani know very well."
+}

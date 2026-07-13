@@ -1,0 +1,224 @@
+{
+  "_id": 93,
+  "name": {
+    "english": "Baboong"
+  },
+  "types": [
+    "Melee"
+  ],
+  "stats": {
+    "hp": 54,
+    "sta": 61,
+    "spd": 75,
+    "atk": 79,
+    "def": 51,
+    "spatk": 41,
+    "spdef": 41,
+    "total": 402
+  },
+  "traits": [
+    "Brawny",
+    "Warm-Blooded"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 53,
+      "lbs": 117
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Tail Strike",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Show Off",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Inner Spirit",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Footwork",
+        "source": "Levelling",
+        "levels": 48
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Dim Mak",
+        "source": "Breeding"
+      },
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 92,
+        "name": "Smazee",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Fever Rush",
+          "Friendship"
+        ],
+        "traitMapping": {
+          "Fever Rush": "Brawny",
+          "Friendship": "Warm-Blooded"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 93,
+        "name": "Baboong",
+        "level": 29,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Brawny",
+          "Warm-Blooded"
+        ],
+        "traitMapping": {
+          "Brawny": "Self-Esteem",
+          "Warm-Blooded": "Earthbound"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 94,
+        "name": "Seismunch",
+        "level": 23,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Self-Esteem",
+          "Earthbound"
+        ],
+        "traitMapping": {
+          "Self-Esteem": "Self-Esteem",
+          "Earthbound": "Earthbound"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 92,
+      "name": "Smazee",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Fever Rush",
+        "Friendship"
+      ],
+      "traitMapping": {
+        "Fever Rush": "Brawny",
+        "Friendship": "Warm-Blooded"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 94,
+      "name": "Seismunch",
+      "level": 23,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Self-Esteem",
+        "Earthbound"
+      ],
+      "traitMapping": {
+        "Self-Esteem": "Self-Esteem",
+        "Earthbound": "Earthbound"
+      }
+    },
+    "number": 93,
+    "name": "Baboong",
+    "level": 29,
+    "trading": false,
+    "traits": [
+      "Brawny",
+      "Warm-Blooded"
+    ],
+    "traitMapping": {
+      "Brawny": "Self-Esteem",
+      "Warm-Blooded": "Earthbound"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 65,
+    "female": 35
+  },
+  "catchRate": 50,
+  "hatchMins": 35,
+  "description": "Baboong are evolved, street-fighting Temtem, very popular in Lochburg, where they are often employed by pub bouncers. Although naturally good-tempered, they are as fierce as their hot-headed tamers."
+}

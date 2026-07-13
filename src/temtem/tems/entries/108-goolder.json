@@ -1,0 +1,199 @@
+{
+  "_id": 108,
+  "name": {
+    "english": "Goolder"
+  },
+  "types": [
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 125,
+    "sta": 70,
+    "spd": 10,
+    "atk": 64,
+    "def": 62,
+    "spatk": 68,
+    "spdef": 62,
+    "total": 461
+  },
+  "traits": [
+    "Strong Liver",
+    "Punch Bag"
+  ],
+  "details": {
+    "height": {
+      "cm": 222,
+      "inches": 87
+    },
+    "weight": {
+      "kg": 1700,
+      "lbs": 3748
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Toxic Slime",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Bamboozle",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Pollution",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Harmful Lick",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Toxic Gas",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Charcoal Wall",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Purgation",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Metabolize",
+        "source": "Breeding"
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Goolder has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 107,
+        "name": "Blooze",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Skin",
+          "Bully"
+        ],
+        "traitMapping": {
+          "Toxic Skin": "Strong Liver",
+          "Bully": "Punch Bag"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 108,
+        "name": "Goolder",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Strong Liver",
+          "Punch Bag"
+        ],
+        "traitMapping": {
+          "Strong Liver": "Strong Liver",
+          "Punch Bag": "Punch Bag"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 107,
+      "name": "Blooze",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Toxic Skin",
+        "Bully"
+      ],
+      "traitMapping": {
+        "Toxic Skin": "Strong Liver",
+        "Bully": "Punch Bag"
+      }
+    },
+    "to": null,
+    "number": 108,
+    "name": "Goolder",
+    "level": 25,
+    "trading": false,
+    "traits": [
+      "Strong Liver",
+      "Punch Bag"
+    ],
+    "traitMapping": {
+      "Strong Liver": "Strong Liver",
+      "Punch Bag": "Punch Bag"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 65,
+    "female": 35
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Not many agree to classify Goolder as an \"evolution\", for many of its traits seem to be vestigial features of a more complex organism, devolved to a more primitive or atrophied state. Its lack of legs is usually cited as an example... but its haphazard appearance conceals great strength."
+}

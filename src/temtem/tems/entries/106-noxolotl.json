@@ -1,0 +1,205 @@
+{
+  "_id": 106,
+  "name": {
+    "english": "Noxolotl"
+  },
+  "types": [
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 72,
+    "sta": 49,
+    "spd": 61,
+    "atk": 61,
+    "def": 78,
+    "spatk": 85,
+    "spdef": 45,
+    "total": 451
+  },
+  "traits": [
+    "Trance",
+    "Toxic Skin"
+  ],
+  "details": {
+    "height": {
+      "cm": 177,
+      "inches": 69
+    },
+    "weight": {
+      "kg": 122,
+      "lbs": 269
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Venomous Claws",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Tentacle Whip",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Hallucination",
+        "source": "Levelling",
+        "levels": 39
+      },
+      {
+        "name": "Harmful Lick",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Acid Reflux",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Virulent Gust",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Toxic Gas",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Refresh",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Narcoleptic Hit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Pollution",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 105,
+        "name": "Toxolotl",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Power Nap",
+          "Toxic Farewell"
+        ],
+        "traitMapping": {
+          "Power Nap": "Trance",
+          "Toxic Farewell": "Toxic Skin"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 106,
+        "name": "Noxolotl",
+        "level": 30,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Trance",
+          "Toxic Skin"
+        ],
+        "traitMapping": {
+          "Trance": "Trance",
+          "Toxic Skin": "Toxic Skin"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 105,
+      "name": "Toxolotl",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Power Nap",
+        "Toxic Farewell"
+      ],
+      "traitMapping": {
+        "Power Nap": "Trance",
+        "Toxic Farewell": "Toxic Skin"
+      }
+    },
+    "to": null,
+    "number": 106,
+    "name": "Noxolotl",
+    "level": 30,
+    "trading": false,
+    "traits": [
+      "Trance",
+      "Toxic Skin"
+    ],
+    "traitMapping": {
+      "Trance": "Trance",
+      "Toxic Skin": "Toxic Skin"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 75,
+  "hatchMins": 30,
+  "description": "Noxolotl are noble, dignified creatures. They are taken to exemplify the resilience and spirit of the Tucmani people, as \"a beauty born of the foulest depths of Xolot, a light in the abyss\", in the words of the poetess Itzia."
+}

@@ -1,0 +1,217 @@
+{
+  "_id": 85,
+  "name": {
+    "english": "Mushook"
+  },
+  "types": [
+    "Toxic",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 71,
+    "sta": 45,
+    "spd": 81,
+    "atk": 80,
+    "def": 75,
+    "spatk": 49,
+    "spdef": 48,
+    "total": 449
+  },
+  "traits": [
+    "Parrier",
+    "Tireless"
+  ],
+  "details": {
+    "height": {
+      "cm": 210,
+      "inches": 82
+    },
+    "weight": {
+      "kg": 95,
+      "lbs": 209
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Urushiol",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Toxic Spores",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Paralyzing Poison",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Uppercut",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Footwork",
+        "source": "Levelling",
+        "levels": 47
+      },
+      {
+        "name": "Wastewater",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Helicopter Kick",
+        "source": "Levelling",
+        "levels": 79
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Inner Spirit",
+        "source": "Breeding"
+      },
+      {
+        "name": "Intimidation",
+        "source": "Breeding"
+      },
+      {
+        "name": "Virulent Gust",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 84,
+        "name": "Mushi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Resistant",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Resistant": "Parrier",
+          "Resilient": "Tireless"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 85,
+        "name": "Mushook",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Tireless"
+        ],
+        "traitMapping": {
+          "Parrier": "Parrier",
+          "Tireless": "Tireless"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 84,
+      "name": "Mushi",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Resistant",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Resistant": "Parrier",
+        "Resilient": "Tireless"
+      }
+    },
+    "to": null,
+    "number": 85,
+    "name": "Mushook",
+    "level": 20,
+    "trading": false,
+    "traits": [
+      "Parrier",
+      "Tireless"
+    ],
+    "traitMapping": {
+      "Parrier": "Parrier",
+      "Tireless": "Tireless"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sewers of Properton",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10% - 20%",
+      "level": "60 - 70",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 70,
+        "minPansuns": 228,
+        "maxPansuns": 263
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 78,
+  "hatchMins": 29.4,
+  "description": "Mushook are a hybrid variety, developed at the Quetzal Dojo by expert breeders. Strong and single-minded, some of the bigger specimens are occasionally employed by the Guards as static sentries at strategic points."
+}

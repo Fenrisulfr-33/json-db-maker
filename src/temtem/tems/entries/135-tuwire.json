@@ -1,0 +1,197 @@
+{
+  "_id": 135,
+  "name": {
+    "english": "Tuwire"
+  },
+  "types": [
+    "Wind",
+    "Digital"
+  ],
+  "stats": {
+    "hp": 59,
+    "sta": 70,
+    "spd": 66,
+    "atk": 79,
+    "def": 52,
+    "spatk": 60,
+    "spdef": 51,
+    "total": 437
+  },
+  "traits": [
+    "Splitter",
+    "Common Factor"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 120,
+      "lbs": 264
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Multiple Pecks",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Turbo Attack",
+        "source": "Levelling",
+        "levels": 59
+      },
+      {
+        "name": "Faraday Cage",
+        "source": "Levelling",
+        "levels": 70
+      },
+      {
+        "name": "Overclock",
+        "source": "Levelling",
+        "levels": 86
+      },
+      {
+        "name": "Turbine",
+        "source": "Levelling",
+        "levels": 87
+      },
+      {
+        "name": "Reset",
+        "source": "Levelling",
+        "levels": 88
+      }
+    ],
+    "courses": [
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 130,
+        "name": "Tuwai",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Spoilsport",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Spoilsport": "Splitter",
+          "Resilient": "Common Factor"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 135,
+        "name": "Tuwire",
+        "level": 0,
+        "type": "special",
+        "trading": false,
+        "traits": [
+          "Splitter",
+          "Common Factor"
+        ],
+        "description": "Shrine at Digital Kami Shrine",
+        "traitMapping": {
+          "Splitter": "Splitter",
+          "Common Factor": "Common Factor"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "special",
+    "from": {
+      "stage": 0,
+      "number": 130,
+      "name": "Tuwai",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Spoilsport",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Spoilsport": "Splitter",
+        "Resilient": "Common Factor"
+      }
+    },
+    "to": null,
+    "number": 135,
+    "name": "Tuwire",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Splitter",
+      "Common Factor"
+    ],
+    "description": "Shrine at Digital Kami Shrine",
+    "traitMapping": {
+      "Splitter": "Splitter",
+      "Common Factor": "Common Factor"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "One of the strangest evolutionary paths, Tuwire descends from escaped Digital Temtem crossing with wild Wind varieties. Aerodynamically speaking, they shouldn't be able to fly... but they do."
+}

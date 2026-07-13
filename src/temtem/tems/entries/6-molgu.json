@@ -1,0 +1,197 @@
+{
+  "_id": 6,
+  "name": {
+    "english": "Molgu"
+  },
+  "types": [
+    "Digital"
+  ],
+  "stats": {
+    "hp": 82,
+    "sta": 55,
+    "spd": 51,
+    "atk": 84,
+    "def": 64,
+    "spatk": 52,
+    "spdef": 66,
+    "total": 454
+  },
+  "traits": [
+    "Splitter",
+    "Sentinel"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 150,
+      "lbs": 330
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Token",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Hologram",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Plasma Beam",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Cyberclaw",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Drill Impact",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Digithreat",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Execution",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Faraday Cage",
+        "source": "Levelling",
+        "levels": 72
+      },
+      {
+        "name": "Blue Screen",
+        "source": "Levelling",
+        "levels": 84
+      },
+      {
+        "name": "Knockback",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rend",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Autodestruction",
+        "source": "Breeding"
+      },
+      {
+        "name": "Turbo Attack",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 5,
+        "name": "Halzhi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Parrier",
+          "Neutrality"
+        ],
+        "traitMapping": {
+          "Parrier": "Splitter",
+          "Neutrality": "Sentinel"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 6,
+        "name": "Molgu",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Splitter",
+          "Sentinel"
+        ],
+        "traitMapping": {
+          "Splitter": "Splitter",
+          "Sentinel": "Sentinel"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 5,
+      "name": "Halzhi",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Parrier",
+        "Neutrality"
+      ],
+      "traitMapping": {
+        "Parrier": "Splitter",
+        "Neutrality": "Sentinel"
+      }
+    },
+    "to": null,
+    "number": 6,
+    "name": "Molgu",
+    "level": 16,
+    "trading": false,
+    "traits": [
+      "Splitter",
+      "Sentinel"
+    ],
+    "traitMapping": {
+      "Splitter": "Splitter",
+      "Sentinel": "Sentinel"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 5,
+    "female": 95
+  },
+  "catchRate": 105,
+  "hatchMins": 24,
+  "description": "This model represents a significant upgrade from Halzhi. Surprisingly, Nanto Labs found examples of escaped Molgu evolving on their own, further proving the point thatDigital Temtem are every bit as \"alive\" and \"natural\" as other varieties."
+}

@@ -1,0 +1,149 @@
+{
+  "_id": 144,
+  "name": {
+    "english": "Vulffy"
+  },
+  "types": [
+    "Earth",
+    "Nature"
+  ],
+  "stats": {
+    "hp": 56,
+    "sta": 74,
+    "spd": 60,
+    "atk": 39,
+    "def": 55,
+    "spatk": 76,
+    "spdef": 85,
+    "total": 445
+  },
+  "traits": [
+    "Burglar",
+    "Team Elusive"
+  ],
+  "details": {
+    "height": {
+      "cm": 84,
+      "inches": 33
+    },
+    "weight": {
+      "kg": 73,
+      "lbs": 160
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Burrow",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Lifeful Sap",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Chain Heal",
+        "source": "Levelling",
+        "levels": 25
+      },
+      {
+        "name": "Bush",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Plague",
+        "source": "Levelling",
+        "levels": 38
+      },
+      {
+        "name": "Dust Vortex",
+        "source": "Levelling",
+        "levels": 46
+      },
+      {
+        "name": "Sand Storm",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Jinxed Whisper",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Sludge Gift",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Jino Gap",
+      "place": "Jino Gap",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "10%",
+      "level": "35 - 38",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 38,
+        "minPansuns": 106,
+        "maxPansuns": 114
+      }
+    },
+    {
+      "location": "Tasa Desert",
+      "place": "Tasa Desert",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 75%",
+      "level": "42 - 48",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 48,
+        "minPansuns": 124,
+        "maxPansuns": 138
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 110,
+  "hatchMins": 23,
+  "description": "Extremely perceptive and aware, this species flourishes (in all senses of the word) in the great expanses of wild land - although they are inquisitive by nature, and never shy away from human contact."
+}

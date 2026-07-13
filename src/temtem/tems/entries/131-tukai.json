@@ -1,0 +1,197 @@
+{
+  "_id": 131,
+  "name": {
+    "english": "Tukai"
+  },
+  "types": [
+    "Wind",
+    "Water"
+  ],
+  "stats": {
+    "hp": 75,
+    "sta": 68,
+    "spd": 65,
+    "atk": 53,
+    "def": 49,
+    "spatk": 74,
+    "spdef": 78,
+    "total": 462
+  },
+  "traits": [
+    "Spreader",
+    "Hydrologist"
+  ],
+  "details": {
+    "height": {
+      "cm": 170,
+      "inches": 66
+    },
+    "weight": {
+      "kg": 79,
+      "lbs": 174
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Multiple Pecks",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Levelling",
+        "levels": 49
+      },
+      {
+        "name": "Waterjet",
+        "source": "Levelling",
+        "levels": 56
+      },
+      {
+        "name": "Aqua Bullet Hell",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Refreshing Breeze",
+        "source": "Levelling",
+        "levels": 80
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      }
+    ]
+  },
+  "trivia": [
+    "Tukai has a sticker on the official Temtem Discord, beating Tulcan by 40 votes, out of the total 286 votes, in the 7th sticker poll."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 130,
+        "name": "Tuwai",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Spoilsport",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Spoilsport": "Spreader",
+          "Resilient": "Hydrologist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 131,
+        "name": "Tukai",
+        "level": 0,
+        "type": "special",
+        "trading": false,
+        "traits": [
+          "Spreader",
+          "Hydrologist"
+        ],
+        "description": "Shrine at Dabmis' Rest",
+        "traitMapping": {
+          "Spreader": "Spreader",
+          "Hydrologist": "Hydrologist"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "special",
+    "from": {
+      "stage": 0,
+      "number": 130,
+      "name": "Tuwai",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Spoilsport",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Spoilsport": "Spreader",
+        "Resilient": "Hydrologist"
+      }
+    },
+    "to": null,
+    "number": 131,
+    "name": "Tukai",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Spreader",
+      "Hydrologist"
+    ],
+    "description": "Shrine at Dabmis' Rest",
+    "traitMapping": {
+      "Spreader": "Spreader",
+      "Hydrologist": "Hydrologist"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "It is unclear whether Professor Konstantinos ever discovered this evolution, with its flaming aquamarine wings - a true feat of meta-mimetic evolution, unseen elsewhere in the whole Archipelago."
+}

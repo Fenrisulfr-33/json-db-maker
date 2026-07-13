@@ -1,0 +1,225 @@
+{
+  "_id": 33,
+  "name": {
+    "english": "Tental"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 41,
+    "sta": 51,
+    "spd": 76,
+    "atk": 42,
+    "def": 50,
+    "spatk": 81,
+    "spdef": 62,
+    "total": 403
+  },
+  "traits": [
+    "Avenger",
+    "Water Affinity"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 58,
+      "lbs": 127
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Psy Wave",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Lullaby",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 46
+      }
+    ],
+    "courses": [
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Strangle",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 32,
+        "name": "Houchic",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mental Alliance",
+          "Soft Touch"
+        ],
+        "traitMapping": {
+          "Mental Alliance": "Avenger",
+          "Soft Touch": "Water Affinity"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 33,
+        "name": "Tental",
+        "level": 29,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Avenger",
+          "Water Affinity"
+        ],
+        "traitMapping": {
+          "Avenger": "Deceit Aura",
+          "Water Affinity": "Water Custodian"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 34,
+        "name": "Nagaise",
+        "level": 24,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Deceit Aura",
+          "Water Custodian"
+        ],
+        "traitMapping": {
+          "Deceit Aura": "Deceit Aura",
+          "Water Custodian": "Water Custodian"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 32,
+      "name": "Houchic",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mental Alliance",
+        "Soft Touch"
+      ],
+      "traitMapping": {
+        "Mental Alliance": "Avenger",
+        "Soft Touch": "Water Affinity"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 34,
+      "name": "Nagaise",
+      "level": 24,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Deceit Aura",
+        "Water Custodian"
+      ],
+      "traitMapping": {
+        "Deceit Aura": "Deceit Aura",
+        "Water Custodian": "Water Custodian"
+      }
+    },
+    "number": 33,
+    "name": "Tental",
+    "level": 29,
+    "trading": false,
+    "traits": [
+      "Avenger",
+      "Water Affinity"
+    ],
+    "traitMapping": {
+      "Avenger": "Deceit Aura",
+      "Water Affinity": "Water Custodian"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 70,
+  "hatchMins": 31,
+  "description": "Houchic eventually evolves into the more mature Tental - shrewder creatures, whose writhing tentacles serve as apt metaphors for their ever-twisting, sibylline minds."
+}

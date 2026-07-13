@@ -1,0 +1,210 @@
+{
+  "_id": 152,
+  "name": {
+    "english": "Minothor"
+  },
+  "types": [
+    "Mental",
+    "Electric"
+  ],
+  "stats": {
+    "hp": 80,
+    "sta": 59,
+    "spd": 61,
+    "atk": 86,
+    "def": 70,
+    "spatk": 44,
+    "spdef": 44,
+    "total": 444
+  },
+  "traits": [
+    "Ruminant",
+    "Rusher"
+  ],
+  "details": {
+    "height": {
+      "cm": 220,
+      "inches": 86
+    },
+    "weight": {
+      "kg": 300,
+      "lbs": 661
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Double Kick",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Sparkling Bullet",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Piezoelectric Blow",
+        "source": "Levelling",
+        "levels": 68
+      },
+      {
+        "name": "Hasty Lunge",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Blackhole",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Purgation",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Thunder Strike",
+        "source": "Breeding"
+      },
+      {
+        "name": "Turbo Charge",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ultrasound",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 150,
+        "name": "Minttle",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Withdrawal",
+          "Relaxed"
+        ],
+        "traitMapping": {
+          "Withdrawal": "Body Stretch",
+          "Relaxed": "Unnoticed"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 151,
+        "name": "Minox",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Body Stretch",
+          "Unnoticed"
+        ],
+        "traitMapping": {
+          "Body Stretch": "Ruminant",
+          "Unnoticed": "Rusher"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 152,
+        "name": "Minothor",
+        "level": 13,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Ruminant",
+          "Rusher"
+        ],
+        "traitMapping": {
+          "Ruminant": "Ruminant",
+          "Rusher": "Rusher"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 151,
+      "name": "Minox",
+      "level": 12,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Body Stretch",
+        "Unnoticed"
+      ],
+      "traitMapping": {
+        "Body Stretch": "Ruminant",
+        "Unnoticed": "Rusher"
+      }
+    },
+    "to": null,
+    "number": 152,
+    "name": "Minothor",
+    "level": 13,
+    "trading": false,
+    "traits": [
+      "Ruminant",
+      "Rusher"
+    ],
+    "traitMapping": {
+      "Ruminant": "Ruminant",
+      "Rusher": "Rusher"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Some of the oldest cave paintings in the Chini Grotto are said to represent prehistorical Minothor. Its ability to transform Mental power into electricity and vice versa must have looked like magic to early humans..."
+}

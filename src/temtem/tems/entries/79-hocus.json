@@ -1,0 +1,185 @@
+{
+  "_id": 79,
+  "name": {
+    "english": "Hocus"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 49,
+    "sta": 61,
+    "spd": 65,
+    "atk": 55,
+    "def": 34,
+    "spatk": 55,
+    "spdef": 34,
+    "total": 353
+  },
+  "traits": [
+    "Soft Touch",
+    "Mirroring"
+  ],
+  "details": {
+    "height": {
+      "cm": 115,
+      "inches": 45
+    },
+    "weight": {
+      "kg": 31,
+      "lbs": 68
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Psychosis",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Gamma Burst",
+        "source": "Levelling",
+        "levels": 35
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Extra Energy Slam",
+        "source": "Breeding"
+      },
+      {
+        "name": "Pickpocket",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Hocus and its evolution are Lady Lottie's signature Temtem."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 79,
+        "name": "Hocus",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Soft Touch",
+          "Mirroring"
+        ],
+        "traitMapping": {
+          "Soft Touch": "Dreaded Alarm",
+          "Mirroring": "Rejuvenate"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 80,
+        "name": "Pocus",
+        "level": 21,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Dreaded Alarm",
+          "Rejuvenate"
+        ],
+        "traitMapping": {
+          "Dreaded Alarm": "Dreaded Alarm",
+          "Rejuvenate": "Rejuvenate"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 80,
+      "name": "Pocus",
+      "level": 21,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Dreaded Alarm",
+        "Rejuvenate"
+      ],
+      "traitMapping": {
+        "Dreaded Alarm": "Dreaded Alarm",
+        "Rejuvenate": "Rejuvenate"
+      }
+    },
+    "number": 79,
+    "name": "Hocus",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Soft Touch",
+      "Mirroring"
+    ],
+    "traitMapping": {
+      "Soft Touch": "Dreaded Alarm",
+      "Mirroring": "Rejuvenate"
+    }
+  },
+  "locations": [
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "5%",
+      "level": "30 - 40",
+      "freetem": {
+        "minLevel": 30,
+        "maxLevel": 40,
+        "minPansuns": 110,
+        "maxPansuns": 140
+      }
+    },
+    {
+      "location": "Braeside Castle",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10% - 35%",
+      "level": "60 - 75",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 75,
+        "minPansuns": 200,
+        "maxPansuns": 245
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 20,
+    "female": 80
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "Arcane and blue-blooded, Hocus have been selectively bred for generations and kept as dynastic heirlooms of the House of Braeside. They are fine weapons, trained to be battle Temtem for the ancient aristocracy, a rare sight nowadays."
+}

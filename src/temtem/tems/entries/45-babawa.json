@@ -1,0 +1,323 @@
+{
+  "_id": 45,
+  "name": {
+    "english": "Babawa"
+  },
+  "types": [
+    "Nature",
+    "Water"
+  ],
+  "stats": {
+    "hp": 85,
+    "sta": 92,
+    "spd": 40,
+    "atk": 79,
+    "def": 60,
+    "spatk": 51,
+    "spdef": 52,
+    "total": 459
+  },
+  "traits": [
+    "Mucous",
+    "Withdrawal"
+  ],
+  "details": {
+    "height": {
+      "cm": 226,
+      "inches": 88
+    },
+    "weight": {
+      "kg": 340,
+      "lbs": 749
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Slime",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Water Cutting Lily",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Iced Stalactite",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Aqua Stone",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Harmful Lick",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Chain Heal",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Aquatic Whirlwind",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Drool",
+        "source": "Levelling",
+        "levels": 86
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Brace",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bubbles",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ice Cubes",
+        "source": "Breeding"
+      },
+      {
+        "name": "Revitalize",
+        "source": "Breeding"
+      },
+      {
+        "name": "Toxic Slime",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 44,
+        "name": "Bigu",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Warm-Blooded",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Warm-Blooded": "Mucous",
+          "Amphibian": "Withdrawal"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 45,
+        "name": "Babawa",
+        "level": 18,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mucous",
+          "Withdrawal"
+        ],
+        "traitMapping": {
+          "Mucous": "Mucous",
+          "Withdrawal": "Withdrawal"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 44,
+      "name": "Bigu",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Warm-Blooded",
+        "Amphibian"
+      ],
+      "traitMapping": {
+        "Warm-Blooded": "Mucous",
+        "Amphibian": "Withdrawal"
+      }
+    },
+    "to": null,
+    "number": 45,
+    "name": "Babawa",
+    "level": 18,
+    "trading": false,
+    "traits": [
+      "Mucous",
+      "Withdrawal"
+    ],
+    "traitMapping": {
+      "Mucous": "Mucous",
+      "Withdrawal": "Withdrawal"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "17 - 22",
+      "freetem": {
+        "minLevel": 17,
+        "maxLevel": 22,
+        "minPansuns": 71,
+        "maxPansuns": 86
+      }
+    },
+    {
+      "location": "The Flywalk",
+      "place": "The Flywalk",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25% - 30%",
+      "level": "18 - 21",
+      "freetem": {
+        "minLevel": 18,
+        "maxLevel": 21,
+        "minPansuns": 74,
+        "maxPansuns": 83
+      }
+    },
+    {
+      "location": "The Hangroad",
+      "place": "The Hangroad",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "25%",
+      "level": "18 - 21",
+      "freetem": {
+        "minLevel": 18,
+        "maxLevel": 21,
+        "minPansuns": 74,
+        "maxPansuns": 83
+      }
+    },
+    {
+      "location": "Kakama Cenote",
+      "place": "Kakama Cenote",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "20%",
+      "level": "36 - 40",
+      "freetem": {
+        "minLevel": 36,
+        "maxLevel": 40,
+        "minPansuns": 128,
+        "maxPansuns": 140
+      }
+    },
+    {
+      "location": "Mawingu Islets",
+      "place": "Mawingu Islets",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "35%",
+      "level": "32 - 39",
+      "freetem": {
+        "minLevel": 32,
+        "maxLevel": 39,
+        "minPansuns": 116,
+        "maxPansuns": 137
+      }
+    },
+    {
+      "location": "Rice Fields",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "47 - 55",
+      "freetem": {
+        "minLevel": 47,
+        "maxLevel": 55,
+        "minPansuns": 161,
+        "maxPansuns": 185
+      }
+    },
+    {
+      "location": "Meadowdale",
+      "place": "Meadowdale",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "30% - 50%",
+      "level": "60 - 65",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 65,
+        "minPansuns": 200,
+        "maxPansuns": 215
+      }
+    },
+    {
+      "location": "Greenglen Forest",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "60%",
+      "level": "65 - 70",
+      "freetem": {
+        "minLevel": 65,
+        "maxLevel": 70,
+        "minPansuns": 215,
+        "maxPansuns": 230
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "These Temtem are flamboyant creatures with a funky sense of humor and boundless love for pranks and practical jokes. Many a naughty kid has donned a Babawa costume to cause havoc in the Quetzal Carnival."
+}

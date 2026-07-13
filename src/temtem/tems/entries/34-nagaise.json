@@ -1,0 +1,223 @@
+{
+  "_id": 34,
+  "name": {
+    "english": "Nagaise"
+  },
+  "types": [
+    "Mental",
+    "Water"
+  ],
+  "stats": {
+    "hp": 47,
+    "sta": 52,
+    "spd": 81,
+    "atk": 49,
+    "def": 55,
+    "spatk": 92,
+    "spdef": 76,
+    "total": 452
+  },
+  "traits": [
+    "Deceit Aura",
+    "Water Custodian"
+  ],
+  "details": {
+    "height": {
+      "cm": 200,
+      "inches": 78
+    },
+    "weight": {
+      "kg": 98,
+      "lbs": 216
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Psy Wave",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Tenderness",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Levelling",
+        "levels": 11
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 28
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "High-pressure Water",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Lullaby",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 46
+      },
+      {
+        "name": "Nagaise's Fury",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Blackhole",
+        "source": "Levelling",
+        "levels": 84
+      }
+    ],
+    "courses": [
+      {
+        "name": "Awful Song",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Confiscate",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Strangle",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Nagaise's tentacles and supernatural powers share similarities with creatures from cosmic horror, such as H.P. Lovecraft's Cthulhu Mythos. The description text of its signature move also enforces this reference."
+  ],
+  "evolution": {
+    "stage": 2,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 32,
+        "name": "Houchic",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mental Alliance",
+          "Soft Touch"
+        ],
+        "traitMapping": {
+          "Mental Alliance": "Avenger",
+          "Soft Touch": "Water Affinity"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 33,
+        "name": "Tental",
+        "level": 29,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Avenger",
+          "Water Affinity"
+        ],
+        "traitMapping": {
+          "Avenger": "Deceit Aura",
+          "Water Affinity": "Water Custodian"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 34,
+        "name": "Nagaise",
+        "level": 24,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Deceit Aura",
+          "Water Custodian"
+        ],
+        "traitMapping": {
+          "Deceit Aura": "Deceit Aura",
+          "Water Custodian": "Water Custodian"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 1,
+      "number": 33,
+      "name": "Tental",
+      "level": 29,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Avenger",
+        "Water Affinity"
+      ],
+      "traitMapping": {
+        "Avenger": "Deceit Aura",
+        "Water Affinity": "Water Custodian"
+      }
+    },
+    "to": null,
+    "number": 34,
+    "name": "Nagaise",
+    "level": 24,
+    "trading": false,
+    "traits": [
+      "Deceit Aura",
+      "Water Custodian"
+    ],
+    "traitMapping": {
+      "Deceit Aura": "Deceit Aura",
+      "Water Custodian": "Water Custodian"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Cipanki legends are full of sage Nagaise giving cryptic advice to folk heroes - an early example of the traditional association of this species with wisdom, insight, and spirituality."
+}

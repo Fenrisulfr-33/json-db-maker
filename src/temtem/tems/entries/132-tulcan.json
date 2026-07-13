@@ -1,0 +1,178 @@
+{
+  "_id": 132,
+  "name": {
+    "english": "Tulcan"
+  },
+  "types": [
+    "Wind",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 59,
+    "sta": 54,
+    "spd": 65,
+    "atk": 62,
+    "def": 69,
+    "spatk": 75,
+    "spdef": 49,
+    "total": 433
+  },
+  "traits": [
+    "Heater",
+    "Pyromaniac"
+  ],
+  "details": {
+    "height": {
+      "cm": 180,
+      "inches": 70
+    },
+    "weight": {
+      "kg": 88,
+      "lbs": 194
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Multiple Pecks",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Fire Tornado",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Fiery Heist",
+        "source": "Levelling",
+        "levels": 62
+      },
+      {
+        "name": "Fiery Soul",
+        "source": "Levelling",
+        "levels": 70
+      }
+    ],
+    "courses": [
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 130,
+        "name": "Tuwai",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Spoilsport",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Spoilsport": "Heater",
+          "Resilient": "Pyromaniac"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 132,
+        "name": "Tulcan",
+        "level": 0,
+        "type": "special",
+        "trading": false,
+        "traits": [
+          "Heater",
+          "Pyromaniac"
+        ],
+        "description": "Shrine at Altar of the Inner Flame",
+        "traitMapping": {
+          "Heater": "Heater",
+          "Pyromaniac": "Pyromaniac"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "special",
+    "from": {
+      "stage": 0,
+      "number": 130,
+      "name": "Tuwai",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Spoilsport",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Spoilsport": "Heater",
+        "Resilient": "Pyromaniac"
+      }
+    },
+    "to": null,
+    "number": 132,
+    "name": "Tulcan",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Heater",
+      "Pyromaniac"
+    ],
+    "description": "Shrine at Altar of the Inner Flame",
+    "traitMapping": {
+      "Heater": "Heater",
+      "Pyromaniac": "Pyromaniac"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Some Temtemologists argue that Tulcan are the remains of an extinct species endemic to the upper slopes of Anak before the breakup of the island, alluded to Myrislan myth as 'firebreezers' and Cipanki folklore as 'flame kami'."
+}

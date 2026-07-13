@@ -1,0 +1,207 @@
+{
+  "_id": 126,
+  "name": {
+    "english": "Loatle"
+  },
+  "types": [
+    "Digital",
+    "Mental"
+  ],
+  "stats": {
+    "hp": 84,
+    "sta": 51,
+    "spd": 65,
+    "atk": 75,
+    "def": 67,
+    "spatk": 51,
+    "spdef": 57,
+    "total": 450
+  },
+  "traits": [
+    "Seppuku",
+    "Voodoo"
+  ],
+  "details": {
+    "height": {
+      "cm": 200,
+      "inches": 78
+    },
+    "weight": {
+      "kg": 127,
+      "lbs": 280
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Token",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Firewall",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Roots",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Faraday Cage",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Penance",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Levelling",
+        "levels": 56
+      },
+      {
+        "name": "Autodestruction",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Blue Screen",
+        "source": "Levelling",
+        "levels": 80
+      },
+      {
+        "name": "Matter Teleport",
+        "source": "Levelling",
+        "levels": 95
+      }
+    ],
+    "courses": [
+      {
+        "name": "Look out",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Data Corruption",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Horror",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bush",
+        "source": "Breeding"
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Breeding"
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Loatle is a Breeder Tier Temtem by Tutorxic, who pledged $6000 to the Kickstarter. The design process for Pupoise and Loatle was shown on the \"The Latest Breeder Tems and Route!\" update on Crema's website.",
+    "Loatle is one of three Temtem that change one of the types their pre-evolved form has upon evolving. In this case, swapping Nature for Mental. The others are Owlhe and Waspeen.",
+    "Loatle is 1 of only 6 temtem with a sticker on the official Temtem Discord that didn't have to go through a sticker poll."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 125,
+        "name": "Pupoise",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Thick Skin",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Thick Skin": "Seppuku",
+          "Amphibian": "Voodoo"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 126,
+        "name": "Loatle",
+        "level": 18,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Seppuku",
+          "Voodoo"
+        ],
+        "traitMapping": {
+          "Seppuku": "Seppuku",
+          "Voodoo": "Voodoo"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 125,
+      "name": "Pupoise",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Thick Skin",
+        "Amphibian"
+      ],
+      "traitMapping": {
+        "Thick Skin": "Seppuku",
+        "Amphibian": "Voodoo"
+      }
+    },
+    "to": null,
+    "number": 126,
+    "name": "Loatle",
+    "level": 18,
+    "trading": false,
+    "traits": [
+      "Seppuku",
+      "Voodoo"
+    ],
+    "traitMapping": {
+      "Seppuku": "Seppuku",
+      "Voodoo": "Voodoo"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 90,
+  "hatchMins": 27,
+  "description": "This Temtem straddles the twilight zone between natural and artificial intelligence, life and death... and the fact it resembles a dark creature from ancient lore doesn't help its reputation one bit..."
+}

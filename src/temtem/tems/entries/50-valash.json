@@ -1,0 +1,172 @@
+{
+  "_id": 50,
+  "name": {
+    "english": "Valash"
+  },
+  "types": [
+    "Neutral",
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 58,
+    "sta": 57,
+    "spd": 90,
+    "atk": 74,
+    "def": 62,
+    "spatk": 74,
+    "spdef": 62,
+    "total": 477
+  },
+  "traits": [
+    "Scavenger",
+    "Jack of all Trades"
+  ],
+  "details": {
+    "height": {
+      "cm": 185,
+      "inches": 72
+    },
+    "weight": {
+      "kg": 84,
+      "lbs": 185
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Crystal Dust",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Sharp Stabs",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Rend",
+        "source": "Levelling",
+        "levels": 35
+      },
+      {
+        "name": "Crystal Spikes",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Held Anger",
+        "source": "Levelling",
+        "levels": 61
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 84
+      }
+    ],
+    "courses": [
+      {
+        "name": "Stone Wall",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Footwork",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sharpening",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Clinch",
+        "source": "Breeding"
+      },
+      {
+        "name": "Ninja Jutsu",
+        "source": "Breeding"
+      },
+      {
+        "name": "Quartz Shield",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "10%",
+      "level": "36 - 40",
+      "freetem": {
+        "minLevel": 36,
+        "maxLevel": 40,
+        "minPansuns": 123,
+        "maxPansuns": 134
+      }
+    },
+    {
+      "location": "Mines of Mictlan",
+      "place": "Mines of Mictlan",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "Gift",
+      "level": "35",
+      "freetem": {
+        "minLevel": 35,
+        "maxLevel": 35,
+        "minPansuns": 120,
+        "maxPansuns": 120
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 95,
+  "hatchMins": 26,
+  "description": "A fascinating offshoot, Valash is a rare case of bipedal hybrid, documented only recently. The care with which it keeps its forearm crystals sharpened betrays some sort of primitive sentience."
+}

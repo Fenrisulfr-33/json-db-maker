@@ -1,0 +1,140 @@
+{
+  "_id": 124,
+  "name": {
+    "english": "Valiar"
+  },
+  "types": [
+    "Mental"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 74,
+    "spd": 72,
+    "atk": 75,
+    "def": 71,
+    "spatk": 54,
+    "spdef": 65,
+    "total": 471
+  },
+  "traits": [
+    "Effective Denial",
+    "Inhibiter"
+  ],
+  "details": {
+    "height": {
+      "cm": 205,
+      "inches": 80
+    },
+    "weight": {
+      "kg": 148,
+      "lbs": 326
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Kick",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Bamboozle",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 24
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Extra Energy Slam",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Ultrasound",
+        "source": "Levelling",
+        "levels": 64
+      },
+      {
+        "name": "Denigrate",
+        "source": "Levelling",
+        "levels": 77
+      },
+      {
+        "name": "Blackhole",
+        "source": "Levelling",
+        "levels": 91
+      }
+    ],
+    "courses": [
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Untangle",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Rush",
+        "source": "TechniqueCourses"
+      }
+    ]
+  },
+  "trivia": [
+    "Valiar looks very different in its concept art compared to its final design. The main coloration is a dark and light purple, and Valiar is generally depicted with a stripe pattern instead of a spot pattern. In addition, some key details like the thick neck tuft are not present. The eyes have a completely different shape and color compared to the final version."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Braeside Castle",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10% - 35%",
+      "level": "65 - 75",
+      "freetem": {
+        "minLevel": 65,
+        "maxLevel": 75,
+        "minPansuns": 227,
+        "maxPansuns": 259
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 85,
+  "hatchMins": 28,
+  "description": "Although nobody has managed to decipher their language, the Valiar are assumed to be extremely intelligent. The Arburian dons are still trying to come up with a scientific explanation for the way Valiar use their expanding ears to boost their minds."
+}

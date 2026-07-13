@@ -1,0 +1,214 @@
+{
+  "_id": 120,
+  "name": {
+    "english": "Broccorc"
+  },
+  "types": [
+    "Nature",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 66,
+    "sta": 56,
+    "spd": 42,
+    "atk": 54,
+    "def": 50,
+    "spatk": 68,
+    "spdef": 65,
+    "total": 401
+  },
+  "traits": [
+    "Immunity",
+    "Coward's Rest"
+  ],
+  "details": {
+    "height": {
+      "cm": 155,
+      "inches": 61
+    },
+    "weight": {
+      "kg": 45,
+      "lbs": 99
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Spores",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Photosynthesis",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Undermine",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Bush",
+        "source": "Levelling",
+        "levels": 32
+      },
+      {
+        "name": "Double Gash",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Dim Mak",
+        "source": "Levelling",
+        "levels": 60
+      }
+    ],
+    "courses": [
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Drought",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Bark Shield",
+        "source": "Breeding"
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Breeding"
+      },
+      {
+        "name": "Soul Shout",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 119,
+        "name": "Broccoblin",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Withdrawal",
+          "Autotomy"
+        ],
+        "traitMapping": {
+          "Withdrawal": "Immunity",
+          "Autotomy": "Coward's Rest"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 120,
+        "name": "Broccorc",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Immunity",
+          "Coward's Rest"
+        ],
+        "traitMapping": {
+          "Immunity": "Mithridatism",
+          "Coward's Rest": "Camouflage"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 121,
+        "name": "Broccolem",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Mithridatism",
+          "Camouflage"
+        ],
+        "traitMapping": {
+          "Mithridatism": "Mithridatism",
+          "Camouflage": "Camouflage"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 119,
+      "name": "Broccoblin",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Withdrawal",
+        "Autotomy"
+      ],
+      "traitMapping": {
+        "Withdrawal": "Immunity",
+        "Autotomy": "Coward's Rest"
+      }
+    },
+    "to": {
+      "stage": 2,
+      "number": 121,
+      "name": "Broccolem",
+      "level": 10,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Mithridatism",
+        "Camouflage"
+      ],
+      "traitMapping": {
+        "Mithridatism": "Mithridatism",
+        "Camouflage": "Camouflage"
+      }
+    },
+    "number": 120,
+    "name": "Broccorc",
+    "level": 10,
+    "trading": false,
+    "traits": [
+      "Immunity",
+      "Coward's Rest"
+    ],
+    "traitMapping": {
+      "Immunity": "Mithridatism",
+      "Coward's Rest": "Camouflage"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 140,
+  "hatchMins": 17,
+  "description": "Bigger and more agile, this variety still lives in symbiosis with its surrounding flora, but it is generally more sociable and easier to train. A favorite of Properton grannies who love gardening!"
+}

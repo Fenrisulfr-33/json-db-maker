@@ -1,0 +1,204 @@
+{
+  "_id": 161,
+  "name": {
+    "english": "Anahir"
+  },
+  "types": [
+    "Crystal",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 54,
+    "sta": 36,
+    "spd": 31,
+    "atk": 50,
+    "def": 101,
+    "spatk": 50,
+    "spdef": 101,
+    "total": 423
+  },
+  "traits": [
+    "Trauma",
+    "Flawed Crystal"
+  ],
+  "details": {
+    "height": {
+      "cm": 152,
+      "inches": 59
+    },
+    "weight": {
+      "kg": 172,
+      "lbs": 379
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Chains Hit",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Meteor Swarm",
+        "source": "Levelling",
+        "levels": 27
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 36
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 47
+      },
+      {
+        "name": "Mineral Hail",
+        "source": "Levelling",
+        "levels": 65
+      },
+      {
+        "name": "Chain Heal",
+        "source": "Levelling",
+        "levels": 72
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sharpening",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quartz Dirt",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Fiery Heist",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Anahir is a Temtem which can only be obtained once per player. This is why their Fertility has high value.",
+    "The Anahir you obtain during the quest Adventure in the Myrisles will always have 50 SVs in both DEF and SPDEF stats.",
+    "The Crystal Temtem that was subjected to intense heat to create Anahir is not a reference to any specific Temtem."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 161,
+        "name": "Anahir",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Trauma",
+          "Flawed Crystal"
+        ],
+        "traitMapping": {
+          "Trauma": "Self-Care",
+          "Flawed Crystal": "Protective Crystal"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 162,
+        "name": "Anatan",
+        "level": 1000,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Self-Care",
+          "Protective Crystal"
+        ],
+        "traitMapping": {
+          "Self-Care": "Self-Care",
+          "Protective Crystal": "Protective Crystal"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 162,
+      "name": "Anatan",
+      "level": 1000,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Self-Care",
+        "Protective Crystal"
+      ],
+      "traitMapping": {
+        "Self-Care": "Self-Care",
+        "Protective Crystal": "Protective Crystal"
+      }
+    },
+    "number": 161,
+    "name": "Anahir",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Trauma",
+      "Flawed Crystal"
+    ],
+    "traitMapping": {
+      "Trauma": "Self-Care",
+      "Flawed Crystal": "Protective Crystal"
+    }
+  },
+  "locations": [
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "Gift",
+      "level": "20",
+      "freetem": {
+        "minLevel": 20,
+        "maxLevel": 20,
+        "minPansuns": null,
+        "maxPansuns": null
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "This tortured creature is the result of Dr. Hamijo's attempts at creating a new \"Diamond\" variety. By picking the sturdiest variety of Crystal Temtem and submitting it to the harshest Fire environment of Anak, he has achieved something unique... and uniquely cruel."
+}

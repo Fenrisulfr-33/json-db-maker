@@ -1,0 +1,232 @@
+{
+  "_id": 52,
+  "name": {
+    "english": "Owlhe"
+  },
+  "types": [
+    "Wind",
+    "Melee"
+  ],
+  "stats": {
+    "hp": 57,
+    "sta": 51,
+    "spd": 80,
+    "atk": 75,
+    "def": 79,
+    "spatk": 60,
+    "spdef": 40,
+    "total": 442
+  },
+  "traits": [
+    "Determined",
+    "Bruiser"
+  ],
+  "details": {
+    "height": {
+      "cm": 177,
+      "inches": 69
+    },
+    "weight": {
+      "kg": 68,
+      "lbs": 149
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Perfect Jab",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Wrenching Massage",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Nito Seiho",
+        "source": "Levelling",
+        "levels": 64
+      },
+      {
+        "name": "Helicopter Kick",
+        "source": "Levelling",
+        "levels": 74
+      },
+      {
+        "name": "Turbine",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "5PPEH",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Beta Burst",
+        "source": "Breeding"
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Breeding"
+      },
+      {
+        "name": "Oshi-Dashi",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "The concept and name of Owlhe was predicted in 2019 by dev Shuni#7105 (years before he started working at Crema Games) and Discord mod Lord Berial#8479, almost 3 years before it was revealed and introduced in the game. To this day it is unknown if Crema Games already had this idea or took it because it seemed good.",
+    "Owlhe is one of four Temtem that change one of the types their pre-evolved form has upon evolving. In this case, swapping Mental for Wind. The others are Barnshe, Loatle, and Waspeen."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 51,
+        "name": "Towly",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hypnotist",
+          "Tag Team"
+        ],
+        "traitMapping": {
+          "Hypnotist": "Determined",
+          "Tag Team": "Bruiser"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 52,
+        "name": "Owlhe",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Determined",
+          "Bruiser"
+        ],
+        "traitMapping": {
+          "Determined": "Determined",
+          "Bruiser": "Bruiser"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 51,
+      "name": "Towly",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Hypnotist",
+        "Tag Team"
+      ],
+      "traitMapping": {
+        "Hypnotist": "Determined",
+        "Tag Team": "Bruiser"
+      }
+    },
+    "to": null,
+    "number": 52,
+    "name": "Owlhe",
+    "level": 10,
+    "trading": false,
+    "traits": [
+      "Determined",
+      "Bruiser"
+    ],
+    "traitMapping": {
+      "Determined": "Determined",
+      "Bruiser": "Bruiser"
+    }
+  },
+  "locations": [
+    {
+      "location": "Meadowdale",
+      "place": "Meadowdale",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10%",
+      "level": "60 - 70",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 70,
+        "minPansuns": 223,
+        "maxPansuns": 257
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 100,
+    "female": 0
+  },
+  "catchRate": 80,
+  "hatchMins": 29,
+  "description": "This lordly Temtem reigns supreme over the Arburian skies and is said to possess almost-human intelligence. Some tamers are known to have even invited Owlhe over for afternoon tea..."
+}

@@ -1,0 +1,216 @@
+{
+  "_id": 89,
+  "name": {
+    "english": "Ukama"
+  },
+  "types": [
+    "Water"
+  ],
+  "stats": {
+    "hp": 68,
+    "sta": 90,
+    "spd": 100,
+    "atk": 34,
+    "def": 51,
+    "spatk": 72,
+    "spdef": 54,
+    "total": 469
+  },
+  "traits": [
+    "Hydrologist",
+    "Plethoric"
+  ],
+  "details": {
+    "height": {
+      "cm": 140,
+      "inches": 55
+    },
+    "weight": {
+      "kg": 27,
+      "lbs": 59
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Finbeat",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cooperation",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Water Cannon",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Sharp Rain",
+        "source": "Levelling",
+        "levels": 17
+      },
+      {
+        "name": "Aqua Bullet Hell",
+        "source": "Levelling",
+        "levels": 26
+      },
+      {
+        "name": "Aquatic Whirlwind",
+        "source": "Levelling",
+        "levels": 37
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Denigrate",
+        "source": "Levelling",
+        "levels": 73
+      }
+    ],
+    "courses": [
+      {
+        "name": "Tsunami",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Major Slash",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Flood",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "During alpha testing, Ukama was known for a bug in the first phase that hard-locked tamers in battle sequences with it. This bug was fixed after a bit of difficulty.",
+    "Ukama Lover, an NPC in the residential area of Mokupuni, wants to trade his Taifu for a Ukama.\nThe Taifu traded has the same Gender, Level, SVs and remaining Fertility.",
+    "The Taifu traded has the same Gender, Level, SVs and remaining Fertility."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 88,
+        "name": "Umishi",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Shared Pain",
+          "Caffeinated"
+        ],
+        "traitMapping": {
+          "Shared Pain": "Hydrologist",
+          "Caffeinated": "Plethoric"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 89,
+        "name": "Ukama",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hydrologist",
+          "Plethoric"
+        ],
+        "traitMapping": {
+          "Hydrologist": "Hydrologist",
+          "Plethoric": "Plethoric"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 88,
+      "name": "Umishi",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Shared Pain",
+        "Caffeinated"
+      ],
+      "traitMapping": {
+        "Shared Pain": "Hydrologist",
+        "Caffeinated": "Plethoric"
+      }
+    },
+    "to": null,
+    "number": 89,
+    "name": "Ukama",
+    "level": 14,
+    "trading": false,
+    "traits": [
+      "Hydrologist",
+      "Plethoric"
+    ],
+    "traitMapping": {
+      "Hydrologist": "Hydrologist",
+      "Plethoric": "Plethoric"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 78,
+        "maxPansuns": 98
+      }
+    },
+    {
+      "location": "Kakama Cenote",
+      "place": "Kakama Cenote",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "55%",
+      "level": "38 - 40",
+      "freetem": {
+        "minLevel": 38,
+        "maxLevel": 40,
+        "minPansuns": 167,
+        "maxPansuns": 175
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 70,
+  "hatchMins": 31,
+  "description": "Ukama, also known in Turquesa as \"sea-sickles\", are one of the fastest waterborne Temtem. They can easily outrun the sleekest sailboat, even swimming against the Sillaro current, so tamers have to use charm and guile to approach them."
+}

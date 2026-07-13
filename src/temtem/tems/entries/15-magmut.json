@@ -1,0 +1,202 @@
+{
+  "_id": 15,
+  "name": {
+    "english": "Magmut"
+  },
+  "types": [
+    "Melee",
+    "Fire"
+  ],
+  "stats": {
+    "hp": 90,
+    "sta": 58,
+    "spd": 40,
+    "atk": 75,
+    "def": 62,
+    "spatk": 75,
+    "spdef": 62,
+    "total": 462
+  },
+  "traits": [
+    "Specgulp",
+    "Physgulp"
+  ],
+  "details": {
+    "height": {
+      "cm": 215,
+      "inches": 84
+    },
+    "weight": {
+      "kg": 1150,
+      "lbs": 2535
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Charge",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Show Off",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Rage",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Rampage",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Charcoal Wall",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Stampede",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Fiery Soul",
+        "source": "Levelling",
+        "levels": 78
+      },
+      {
+        "name": "Oshi-Dashi",
+        "source": "Levelling",
+        "levels": 88
+      },
+      {
+        "name": "Meteor Swarm",
+        "source": "Levelling",
+        "levels": 95
+      }
+    ],
+    "courses": [
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Block",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Madness Buff",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Base Jump",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quicksand",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Soul Shout",
+        "source": "Breeding"
+      },
+      {
+        "name": "Warm Cuddle",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 14,
+        "name": "Mosu",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Punch Bag",
+          "Parrier"
+        ],
+        "traitMapping": {
+          "Punch Bag": "Specgulp",
+          "Parrier": "Physgulp"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 15,
+        "name": "Magmut",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Specgulp",
+          "Physgulp"
+        ],
+        "traitMapping": {
+          "Specgulp": "Specgulp",
+          "Physgulp": "Physgulp"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 14,
+      "name": "Mosu",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Punch Bag",
+        "Parrier"
+      ],
+      "traitMapping": {
+        "Punch Bag": "Specgulp",
+        "Parrier": "Physgulp"
+      }
+    },
+    "to": null,
+    "number": 15,
+    "name": "Magmut",
+    "level": 15,
+    "trading": false,
+    "traits": [
+      "Specgulp",
+      "Physgulp"
+    ],
+    "traitMapping": {
+      "Specgulp": "Specgulp",
+      "Physgulp": "Physgulp"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 66,
+  "hatchMins": 31.8,
+  "description": "Temtemologists believe Magmut developed their characteristic flaming mane as an adaptation to the colder and wetter climate of the Lochburg moors."
+}

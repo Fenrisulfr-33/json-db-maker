@@ -1,0 +1,214 @@
+{
+  "_id": 117,
+  "name": {
+    "english": "Droply"
+  },
+  "types": [
+    "Water",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 60,
+    "sta": 60,
+    "spd": 25,
+    "atk": 65,
+    "def": 60,
+    "spatk": 39,
+    "spdef": 54,
+    "total": 363
+  },
+  "traits": [
+    "Water Affinity",
+    "Amphibian"
+  ],
+  "details": {
+    "height": {
+      "cm": 40,
+      "inches": 15
+    },
+    "weight": {
+      "kg": 43,
+      "lbs": 94
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Ice Cubes",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Clay Ball",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Aqua Stone",
+        "source": "Levelling",
+        "levels": 22
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Waterjet",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Droply has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 117,
+        "name": "Droply",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Water Affinity",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Water Affinity": "Autotomy",
+          "Amphibian": "Marathonist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 118,
+        "name": "Garyo",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Autotomy",
+          "Marathonist"
+        ],
+        "traitMapping": {
+          "Autotomy": "Autotomy",
+          "Marathonist": "Marathonist"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 118,
+      "name": "Garyo",
+      "level": 20,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Autotomy",
+        "Marathonist"
+      ],
+      "traitMapping": {
+        "Autotomy": "Autotomy",
+        "Marathonist": "Marathonist"
+      }
+    },
+    "number": 117,
+    "name": "Droply",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Water Affinity",
+      "Amphibian"
+    ],
+    "traitMapping": {
+      "Water Affinity": "Autotomy",
+      "Amphibian": "Marathonist"
+    }
+  },
+  "locations": [
+    {
+      "location": "Gardens of Aztlan",
+      "place": "",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "10%",
+      "level": "24 - 34",
+      "freetem": {
+        "minLevel": 24,
+        "maxLevel": 34,
+        "minPansuns": 67,
+        "maxPansuns": 86
+      }
+    },
+    {
+      "location": "Mawingu Islets",
+      "place": "Mawingu Islets",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 40%",
+      "level": "32 - 39",
+      "freetem": {
+        "minLevel": 32,
+        "maxLevel": 39,
+        "minPansuns": 82,
+        "maxPansuns": 96
+      }
+    },
+    {
+      "location": "Juu Tunnel",
+      "place": "Juu Tunnel",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 100%",
+      "level": "37 - 47",
+      "freetem": {
+        "minLevel": 37,
+        "maxLevel": 47,
+        "minPansuns": 92,
+        "maxPansuns": 111
+      }
+    },
+    {
+      "location": "Moyo Lake",
+      "place": "Moyo Lake",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "75%",
+      "level": "42 - 45",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 45,
+        "minPansuns": 101,
+        "maxPansuns": 107
+      }
+    },
+    {
+      "location": "Matope Road",
+      "place": "Matope Road",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "50%",
+      "level": "42 - 44",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 44,
+        "minPansuns": 101,
+        "maxPansuns": 105
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 140,
+  "hatchMins": 17,
+  "description": "Although not particularly popular among tamers, Droply is used by many scholars as a prime example of an early Archipelagian amphibian, a crucial link in the evolution of earthborne Temtem."
+}

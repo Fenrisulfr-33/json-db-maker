@@ -1,0 +1,200 @@
+{
+  "_id": 2,
+  "name": {
+    "english": "Oree"
+  },
+  "types": [
+    "Digital"
+  ],
+  "stats": {
+    "hp": 61,
+    "sta": 74,
+    "spd": 35,
+    "atk": 65,
+    "def": 44,
+    "spatk": 32,
+    "spdef": 31,
+    "total": 342
+  },
+  "traits": [
+    "Attack<T>",
+    "Fast Charge"
+  ],
+  "details": {
+    "height": {
+      "cm": 128,
+      "inches": 50
+    },
+    "weight": {
+      "kg": 43,
+      "lbs": 94
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Data Burst",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Mechanical Heat",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Overclock",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Cold Breeze",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Heat Up",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Turbo Attack",
+        "source": "Levelling",
+        "levels": 28
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Crystal Bite",
+        "source": "Breeding"
+      },
+      {
+        "name": "Frond Whip",
+        "source": "Breeding"
+      },
+      {
+        "name": "Telekinetic Shrapnel",
+        "source": "Breeding"
+      },
+      {
+        "name": "Wastewater",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Oree is the starter Temtem for the player’s rival, Max.",
+    "Oree is mentioned in The creation of Digital Temtem.",
+    "Oree is 1 of only 6 temtem with a sticker on the official Temtem Discord that didn't have to go through a sticker poll."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 2,
+        "name": "Oree",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Attack<T>",
+          "Fast Charge"
+        ],
+        "traitMapping": {
+          "Attack<T>": "Attack<T>",
+          "Fast Charge": "Voltaic Charge"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 3,
+        "name": "Zaobian",
+        "level": 35,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Attack<T>",
+          "Voltaic Charge"
+        ],
+        "traitMapping": {
+          "Attack<T>": "Attack<T>",
+          "Voltaic Charge": "Voltaic Charge"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 3,
+      "name": "Zaobian",
+      "level": 35,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Attack<T>",
+        "Voltaic Charge"
+      ],
+      "traitMapping": {
+        "Attack<T>": "Attack<T>",
+        "Voltaic Charge": "Voltaic Charge"
+      }
+    },
+    "number": 2,
+    "name": "Oree",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Attack<T>",
+      "Fast Charge"
+    ],
+    "traitMapping": {
+      "Attack<T>": "Attack<T>",
+      "Fast Charge": "Voltaic Charge"
+    }
+  },
+  "locations": [
+    {
+      "location": "Rice Fields",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "60%",
+      "level": "40 - 50",
+      "freetem": {
+        "minLevel": 40,
+        "maxLevel": 50,
+        "minPansuns": 95,
+        "maxPansuns": 114
+      }
+    },
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "50%",
+      "level": "38 - 50",
+      "freetem": {
+        "minLevel": 38,
+        "maxLevel": 50,
+        "minPansuns": 91,
+        "maxPansuns": 114
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 25,
+    "female": 75
+  },
+  "catchRate": 145,
+  "hatchMins": 16,
+  "description": "One of the first prototypes created in Nanto Labs, Oree's early versions were the forerunners of Digital Temtem. Inquisitive creatures by design, they show great curiosity and a boundless appetite for information."
+}

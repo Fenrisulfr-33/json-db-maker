@@ -1,0 +1,217 @@
+{
+  "_id": 118,
+  "name": {
+    "english": "Garyo"
+  },
+  "types": [
+    "Water",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 74,
+    "sta": 65,
+    "spd": 38,
+    "atk": 82,
+    "def": 72,
+    "spatk": 56,
+    "spdef": 66,
+    "total": 453
+  },
+  "traits": [
+    "Autotomy",
+    "Marathonist"
+  ],
+  "details": {
+    "height": {
+      "cm": 80,
+      "inches": 31
+    },
+    "weight": {
+      "kg": 110,
+      "lbs": 242
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Ice Cubes",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Clay Ball",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Aqua Stone",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Iced Stalactite",
+        "source": "Levelling",
+        "levels": 34
+      },
+      {
+        "name": "Flood",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Earthbreaker",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Cold Geyser",
+        "source": "Levelling",
+        "levels": 61
+      },
+      {
+        "name": "Rockfall",
+        "source": "Levelling",
+        "levels": 78
+      }
+    ],
+    "courses": [
+      {
+        "name": "Antitoxins",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Soil Steam",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Waterjet",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 117,
+        "name": "Droply",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Water Affinity",
+          "Amphibian"
+        ],
+        "traitMapping": {
+          "Water Affinity": "Autotomy",
+          "Amphibian": "Marathonist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 118,
+        "name": "Garyo",
+        "level": 20,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Autotomy",
+          "Marathonist"
+        ],
+        "traitMapping": {
+          "Autotomy": "Autotomy",
+          "Marathonist": "Marathonist"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 117,
+      "name": "Droply",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Water Affinity",
+        "Amphibian"
+      ],
+      "traitMapping": {
+        "Water Affinity": "Autotomy",
+        "Amphibian": "Marathonist"
+      }
+    },
+    "to": null,
+    "number": 118,
+    "name": "Garyo",
+    "level": 20,
+    "trading": false,
+    "traits": [
+      "Autotomy",
+      "Marathonist"
+    ],
+    "traitMapping": {
+      "Autotomy": "Autotomy",
+      "Marathonist": "Marathonist"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sea-Queen's Aquarium",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "15 - 20",
+      "freetem": {
+        "minLevel": 15,
+        "maxLevel": 20,
+        "minPansuns": 78,
+        "maxPansuns": 98
+      }
+    },
+    {
+      "location": "The Highbelow?",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20%",
+      "level": "55 - 65",
+      "freetem": {
+        "minLevel": 55,
+        "maxLevel": 65,
+        "minPansuns": 233,
+        "maxPansuns": 271
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 70,
+  "hatchMins": 31,
+  "description": "Semiaquatic and very gregarious, they are often found along the shores of Lake Moyo, where local farmers train them to harvest seaweed and warn away any boats with their sonorous hisses."
+}

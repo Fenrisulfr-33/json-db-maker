@@ -1,0 +1,200 @@
+{
+  "_id": 138,
+  "name": {
+    "english": "Vulvir"
+  },
+  "types": [
+    "Fire",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 59,
+    "sta": 54,
+    "spd": 57,
+    "atk": 47,
+    "def": 64,
+    "spatk": 47,
+    "spdef": 31,
+    "total": 359
+  },
+  "traits": [
+    "Camaraderie",
+    "Caffeinated"
+  ],
+  "details": {
+    "height": {
+      "cm": 76,
+      "inches": 29
+    },
+    "weight": {
+      "kg": 45,
+      "lbs": 99
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Fire Flame",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Head Ram",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Embers",
+        "source": "Levelling",
+        "levels": 21
+      }
+    ],
+    "courses": [
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Magma Cannon",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Earth Wave",
+        "source": "Breeding"
+      },
+      {
+        "name": "Extinction",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hook",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 138,
+        "name": "Vulvir",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Camaraderie",
+          "Caffeinated"
+        ],
+        "traitMapping": {
+          "Camaraderie": "Pyromaniac",
+          "Caffeinated": "Individualist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 139,
+        "name": "Vulor",
+        "level": 14,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Pyromaniac",
+          "Individualist"
+        ],
+        "traitMapping": {
+          "Pyromaniac": "Receptive",
+          "Individualist": "Vigorous"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 140,
+        "name": "Vulcrane",
+        "level": 28,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Receptive",
+          "Vigorous"
+        ],
+        "traitMapping": {
+          "Receptive": "Receptive",
+          "Vigorous": "Vigorous"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 139,
+      "name": "Vulor",
+      "level": 14,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Pyromaniac",
+        "Individualist"
+      ],
+      "traitMapping": {
+        "Pyromaniac": "Receptive",
+        "Individualist": "Vigorous"
+      }
+    },
+    "number": 138,
+    "name": "Vulvir",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Camaraderie",
+      "Caffeinated"
+    ],
+    "traitMapping": {
+      "Camaraderie": "Pyromaniac",
+      "Caffeinated": "Individualist"
+    }
+  },
+  "locations": [
+    {
+      "location": "Anak Volcano",
+      "place": "Anak Volcano",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "80%",
+      "level": "22 - 25",
+      "freetem": {
+        "minLevel": 22,
+        "maxLevel": 25,
+        "minPansuns": 68,
+        "maxPansuns": 74
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 60,
+    "female": 40
+  },
+  "catchRate": 125,
+  "hatchMins": 20,
+  "description": "Some academics speculate that this is the last remnant of a long-lost \"Draconic\" variety of Temtem. In practice terms, most tamers classify them as Fire-Earth, which is an accurate designation for these mighty but shy creatures."
+}

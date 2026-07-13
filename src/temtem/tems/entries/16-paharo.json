@@ -1,0 +1,235 @@
+{
+  "_id": 16,
+  "name": {
+    "english": "Paharo"
+  },
+  "types": [
+    "Wind"
+  ],
+  "stats": {
+    "hp": 48,
+    "sta": 18,
+    "spd": 60,
+    "atk": 40,
+    "def": 40,
+    "spatk": 50,
+    "spdef": 50,
+    "total": 306
+  },
+  "traits": [
+    "Hover",
+    "Friendship"
+  ],
+  "details": {
+    "height": {
+      "cm": 75,
+      "inches": 29
+    },
+    "weight": {
+      "kg": 8,
+      "lbs": 17
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Stare",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 19
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Humiliating Slap",
+        "source": "Breeding"
+      },
+      {
+        "name": "Tornado",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Paharo was first revealed via Twitter.",
+    "Paharo was one of the early concepts for Temtem and the first to be modeled."
+  ],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 16,
+        "name": "Paharo",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hover",
+          "Friendship"
+        ],
+        "traitMapping": {
+          "Hover": "Caffeinated",
+          "Friendship": "Camaraderie"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 17,
+        "name": "Paharac",
+        "level": 7,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Caffeinated",
+          "Camaraderie"
+        ],
+        "traitMapping": {
+          "Caffeinated": "Last Rush",
+          "Camaraderie": "Bully"
+        }
+      },
+      {
+        "stage": 2,
+        "number": 18,
+        "name": "Granpah",
+        "level": 16,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Last Rush",
+          "Bully"
+        ],
+        "traitMapping": {
+          "Last Rush": "Last Rush",
+          "Bully": "Bully"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 17,
+      "name": "Paharac",
+      "level": 7,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Caffeinated",
+        "Camaraderie"
+      ],
+      "traitMapping": {
+        "Caffeinated": "Last Rush",
+        "Camaraderie": "Bully"
+      }
+    },
+    "number": 16,
+    "name": "Paharo",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Hover",
+      "Friendship"
+    ],
+    "traitMapping": {
+      "Hover": "Caffeinated",
+      "Friendship": "Camaraderie"
+    }
+  },
+  "locations": [
+    {
+      "location": "Prasine Coast",
+      "place": "Prasine Coast",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "20% - 90%",
+      "level": "2 - 7",
+      "freetem": {
+        "minLevel": 2,
+        "maxLevel": 7,
+        "minPansuns": 23,
+        "maxPansuns": 30
+      }
+    },
+    {
+      "location": "Thalassian Cliffs",
+      "place": "Thalassian Cliffs",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "90%",
+      "level": "4 - 6",
+      "freetem": {
+        "minLevel": 4,
+        "maxLevel": 6,
+        "minPansuns": 26,
+        "maxPansuns": 29
+      }
+    },
+    {
+      "location": "Gifted Bridges",
+      "place": "",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "30% - 95%",
+      "level": "7 - 10",
+      "freetem": {
+        "minLevel": 7,
+        "maxLevel": 10,
+        "minPansuns": 30,
+        "maxPansuns": 35
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 190,
+  "hatchMins": 7,
+  "description": "Paharo tend to hide in treetops and lurk, their green \"mask\" allowing them to blend in with the foliage. Often the only way to locate them is to look for the telltale gleam of their eyes."
+}

@@ -1,0 +1,248 @@
+{
+  "_id": 53,
+  "name": {
+    "english": "Barnshe"
+  },
+  "types": [
+    "Wind",
+    "Mental"
+  ],
+  "stats": {
+    "hp": 57,
+    "sta": 51,
+    "spd": 80,
+    "atk": 60,
+    "def": 40,
+    "spatk": 75,
+    "spdef": 79,
+    "total": 442
+  },
+  "traits": [
+    "Neutrality",
+    "Air Specialist"
+  ],
+  "details": {
+    "height": {
+      "cm": 171,
+      "inches": 67
+    },
+    "weight": {
+      "kg": 59,
+      "lbs": 130
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sand Splatter",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Bamboozle",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Intimidation",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Psy Surge",
+        "source": "Levelling",
+        "levels": 31
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 48
+      },
+      {
+        "name": "Time Split",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Hypoxia",
+        "source": "Levelling",
+        "levels": 60
+      },
+      {
+        "name": "Gamma Burst",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Relax",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Darkness",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Beta Burst",
+        "source": "Breeding"
+      },
+      {
+        "name": "Energy Manipulation",
+        "source": "Breeding"
+      },
+      {
+        "name": "Oshi-Dashi",
+        "source": "Breeding"
+      },
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "The first Luma Barnshe was caught by Laknightress (IGN) during Alpha 1, with a 5% encounter rate and 1/4000 Luma chance.",
+    "Barnshe was first revealed via Twitter.",
+    "Barnshe is one of four Temtem that change one of the types their pre-evolved form has upon evolving. In this case, swapping Melee for Wind. The others are Owlhe, Loatle, and Waspeen.",
+    "As a result of Barnshe being a single-stage evolution before the introduction of Towly in Early Access 0.8, It was possible to obtain Barnshe eggs by breeding. This makes Barnshe the only evolved Temtem that is possible to be hatched directly from an egg."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 51,
+        "name": "Towly",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hypnotist",
+          "Tag Team"
+        ],
+        "traitMapping": {
+          "Hypnotist": "Neutrality",
+          "Tag Team": "Air Specialist"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 53,
+        "name": "Barnshe",
+        "level": 10,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Neutrality",
+          "Air Specialist"
+        ],
+        "traitMapping": {
+          "Neutrality": "Neutrality",
+          "Air Specialist": "Air Specialist"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 51,
+      "name": "Towly",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Hypnotist",
+        "Tag Team"
+      ],
+      "traitMapping": {
+        "Hypnotist": "Neutrality",
+        "Tag Team": "Air Specialist"
+      }
+    },
+    "to": null,
+    "number": 53,
+    "name": "Barnshe",
+    "level": 10,
+    "trading": false,
+    "traits": [
+      "Neutrality",
+      "Air Specialist"
+    ],
+    "traitMapping": {
+      "Neutrality": "Neutrality",
+      "Air Specialist": "Air Specialist"
+    }
+  },
+  "locations": [
+    {
+      "location": "Windward Fort",
+      "place": "Windward Fort",
+      "note": "",
+      "island": "Deniz",
+      "frequency": "10%",
+      "level": "12 - 14",
+      "freetem": {
+        "minLevel": 12,
+        "maxLevel": 14,
+        "minPansuns": 55,
+        "maxPansuns": 60
+      }
+    },
+    {
+      "location": "Mac Aed's Crags",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10%",
+      "level": "70 - 80",
+      "freetem": {
+        "minLevel": 70,
+        "maxLevel": 80,
+        "minPansuns": 219,
+        "maxPansuns": 248
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 0,
+    "female": 100
+  },
+  "catchRate": 95,
+  "hatchMins": 26,
+  "description": "Traditionally associated with the University of Arbury as its heraldic Temtem, this species has a deep, piercing stare. Although winged, it prefers to keep to the ground and use its mind as a weapon - a symbolism the academics are very fond of."
+}

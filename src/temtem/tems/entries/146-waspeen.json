@@ -1,0 +1,200 @@
+{
+  "_id": 146,
+  "name": {
+    "english": "Waspeen"
+  },
+  "types": [
+    "Digital",
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 92,
+    "sta": 64,
+    "spd": 36,
+    "atk": 58,
+    "def": 80,
+    "spatk": 50,
+    "spdef": 70,
+    "total": 450
+  },
+  "traits": [
+    "Royal Jelly",
+    "Wax Bath"
+  ],
+  "details": {
+    "height": {
+      "cm": 120,
+      "inches": 47
+    },
+    "weight": {
+      "kg": 76,
+      "lbs": 167
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Token",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 9
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Debris Typhoon",
+        "source": "Levelling",
+        "levels": 21
+      },
+      {
+        "name": "Autodestruction",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 42
+      },
+      {
+        "name": "Crystal Bite",
+        "source": "Levelling",
+        "levels": 55
+      },
+      {
+        "name": "Generify",
+        "source": "Levelling",
+        "levels": 63
+      },
+      {
+        "name": "Reset",
+        "source": "Levelling",
+        "levels": 75
+      },
+      {
+        "name": "Swarm Aid",
+        "source": "Levelling",
+        "levels": 91
+      }
+    ],
+    "courses": [
+      {
+        "name": "Data Corruption",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quartz Dirt",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Chain Heal",
+        "source": "Breeding"
+      },
+      {
+        "name": "Cheer Up",
+        "source": "Breeding"
+      },
+      {
+        "name": "Crystal Deluge",
+        "source": "Breeding"
+      },
+      {
+        "name": "Hologram",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Waspeen is one of four Temtem that change one of the types their pre-evolved form has upon evolving. In this case, swapping Wind for Crystal. The others are Owlhe, Barnshe, and Loatle."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 145,
+        "name": "Chubee",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Hover",
+          "Going Away Gift"
+        ],
+        "traitMapping": {
+          "Hover": "Royal Jelly",
+          "Going Away Gift": "Wax Bath"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 146,
+        "name": "Waspeen",
+        "level": 15,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Royal Jelly",
+          "Wax Bath"
+        ],
+        "traitMapping": {
+          "Royal Jelly": "Royal Jelly",
+          "Wax Bath": "Wax Bath"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 145,
+      "name": "Chubee",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Hover",
+        "Going Away Gift"
+      ],
+      "traitMapping": {
+        "Hover": "Royal Jelly",
+        "Going Away Gift": "Wax Bath"
+      }
+    },
+    "to": null,
+    "number": 146,
+    "name": "Waspeen",
+    "level": 15,
+    "trading": false,
+    "traits": [
+      "Royal Jelly",
+      "Wax Bath"
+    ],
+    "traitMapping": {
+      "Royal Jelly": "Royal Jelly",
+      "Wax Bath": "Wax Bath"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 0,
+    "female": 100
+  },
+  "catchRate": 84,
+  "hatchMins": 28.2,
+  "description": "Not even Professor Konstantinos could guess this evolutionary stage - while Waspeen loses its predecessors' flight, it develops powerful crystal spikes."
+}

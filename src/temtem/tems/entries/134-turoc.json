@@ -1,0 +1,184 @@
+{
+  "_id": 134,
+  "name": {
+    "english": "Turoc"
+  },
+  "types": [
+    "Wind",
+    "Earth"
+  ],
+  "stats": {
+    "hp": 105,
+    "sta": 48,
+    "spd": 60,
+    "atk": 75,
+    "def": 68,
+    "spatk": 47,
+    "spdef": 45,
+    "total": 448
+  },
+  "traits": [
+    "Escapist",
+    "Tactical Strike"
+  ],
+  "details": {
+    "height": {
+      "cm": 175,
+      "inches": 68
+    },
+    "weight": {
+      "kg": 96,
+      "lbs": 211
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Peck",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Shrill Voice",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Feather Gatling",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Wind Burst",
+        "source": "Levelling",
+        "levels": 14
+      },
+      {
+        "name": "Humiliating Slap",
+        "source": "Levelling",
+        "levels": 19
+      },
+      {
+        "name": "Multiple Pecks",
+        "source": "Levelling",
+        "levels": 23
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 40
+      },
+      {
+        "name": "Stone Ball",
+        "source": "Levelling",
+        "levels": 52
+      },
+      {
+        "name": "Rockfall",
+        "source": "Levelling",
+        "levels": 68
+      },
+      {
+        "name": "Turbine",
+        "source": "Levelling",
+        "levels": 90
+      }
+    ],
+    "courses": [
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Soil Steam",
+        "source": "TechniqueCourses"
+      }
+    ]
+  },
+  "trivia": [
+    "Turoc has a sticker on the official Temtem Discord, beating Tuwire by 80 votes, out of the total 282 votes, in the 8th sticker poll."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 130,
+        "name": "Tuwai",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Spoilsport",
+          "Resilient"
+        ],
+        "traitMapping": {
+          "Spoilsport": "Escapist",
+          "Resilient": "Tactical Strike"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 134,
+        "name": "Turoc",
+        "level": 0,
+        "type": "special",
+        "trading": false,
+        "traits": [
+          "Escapist",
+          "Tactical Strike"
+        ],
+        "description": "Shrine at Aisha's Hearth",
+        "traitMapping": {
+          "Escapist": "Escapist",
+          "Tactical Strike": "Tactical Strike"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "special",
+    "from": {
+      "stage": 0,
+      "number": 130,
+      "name": "Tuwai",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Spoilsport",
+        "Resilient"
+      ],
+      "traitMapping": {
+        "Spoilsport": "Escapist",
+        "Resilient": "Tactical Strike"
+      }
+    },
+    "to": null,
+    "number": 134,
+    "name": "Turoc",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Escapist",
+      "Tactical Strike"
+    ],
+    "description": "Shrine at Aisha's Hearth",
+    "traitMapping": {
+      "Escapist": "Escapist",
+      "Tactical Strike": "Tactical Strike"
+    }
+  },
+  "locations": [],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 0,
+  "hatchMins": 45,
+  "description": "Turoc is, in the words of Linnaea, \"a meeting of opposites - a flying rock, stone on wings - an impossibility, and yet, a reality (...) further proof of the marvelous diversity of Temtem lifeforms.\""
+}

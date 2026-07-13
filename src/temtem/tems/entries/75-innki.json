@@ -1,0 +1,162 @@
+{
+  "_id": 75,
+  "name": {
+    "english": "Innki"
+  },
+  "types": [
+    "Electric",
+    "Crystal"
+  ],
+  "stats": {
+    "hp": 59,
+    "sta": 74,
+    "spd": 80,
+    "atk": 65,
+    "def": 58,
+    "spatk": 65,
+    "spdef": 58,
+    "total": 459
+  },
+  "traits": [
+    "Physmaster",
+    "Specmaster"
+  ],
+  "details": {
+    "height": {
+      "cm": 138,
+      "inches": 54
+    },
+    "weight": {
+      "kg": 46,
+      "lbs": 101
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Glass Blade",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Sparkling Bullet",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Defibrillate",
+        "source": "Levelling",
+        "levels": 29
+      },
+      {
+        "name": "Bright Beam",
+        "source": "Levelling",
+        "levels": 36
+      },
+      {
+        "name": "Sharp Stabs",
+        "source": "Levelling",
+        "levels": 44
+      },
+      {
+        "name": "Diamond Fort",
+        "source": "Levelling",
+        "levels": 54
+      },
+      {
+        "name": "Piezoelectric Blow",
+        "source": "Levelling",
+        "levels": 66
+      },
+      {
+        "name": "Mineral Hail",
+        "source": "Levelling",
+        "levels": 84
+      },
+      {
+        "name": "Sparks",
+        "source": "Levelling",
+        "levels": 91
+      }
+    ],
+    "courses": [
+      {
+        "name": "Zen Meditation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Refresh",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Quartz Dirt",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Chain Heal",
+        "source": "Breeding"
+      },
+      {
+        "name": "Pickpocket",
+        "source": "Breeding"
+      },
+      {
+        "name": "Tesla Prison",
+        "source": "Breeding"
+      },
+      {
+        "name": "Thunder Strike",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "5%",
+      "level": "45 - 55",
+      "freetem": {
+        "minLevel": 45,
+        "maxLevel": 55,
+        "minPansuns": 324,
+        "maxPansuns": 392
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 40,
+  "hatchMins": 37,
+  "description": "Known as the most elusive Temtem in Cipanku, possession of an Innki is the ultimate marker of mastery amongst Neoedo tamers."
+}

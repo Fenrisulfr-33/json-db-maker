@@ -1,0 +1,169 @@
+{
+  "_id": 107,
+  "name": {
+    "english": "Blooze"
+  },
+  "types": [
+    "Toxic"
+  ],
+  "stats": {
+    "hp": 68,
+    "sta": 50,
+    "spd": 33,
+    "atk": 43,
+    "def": 52,
+    "spatk": 46,
+    "spdef": 54,
+    "total": 346
+  },
+  "traits": [
+    "Toxic Skin",
+    "Bully"
+  ],
+  "details": {
+    "height": {
+      "cm": 178,
+      "inches": 70
+    },
+    "weight": {
+      "kg": 180,
+      "lbs": 396
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 2
+      },
+      {
+        "name": "Shy Shield",
+        "source": "Levelling",
+        "levels": 6
+      },
+      {
+        "name": "Heavy Blow",
+        "source": "Levelling",
+        "levels": 10
+      },
+      {
+        "name": "Toxic Slime",
+        "source": "Levelling",
+        "levels": 13
+      },
+      {
+        "name": "Toxic Ink",
+        "source": "Levelling",
+        "levels": 20
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Metabolize",
+        "source": "Breeding"
+      },
+      {
+        "name": "Rotten Goo",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 107,
+        "name": "Blooze",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Toxic Skin",
+          "Bully"
+        ],
+        "traitMapping": {
+          "Toxic Skin": "Strong Liver",
+          "Bully": "Punch Bag"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 108,
+        "name": "Goolder",
+        "level": 25,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Strong Liver",
+          "Punch Bag"
+        ],
+        "traitMapping": {
+          "Strong Liver": "Strong Liver",
+          "Punch Bag": "Punch Bag"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 108,
+      "name": "Goolder",
+      "level": 25,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Strong Liver",
+        "Punch Bag"
+      ],
+      "traitMapping": {
+        "Strong Liver": "Strong Liver",
+        "Punch Bag": "Punch Bag"
+      }
+    },
+    "number": 107,
+    "name": "Blooze",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Toxic Skin",
+      "Bully"
+    ],
+    "traitMapping": {
+      "Toxic Skin": "Strong Liver",
+      "Bully": "Punch Bag"
+    }
+  },
+  "locations": [
+    {
+      "location": "Corrupted Badlands",
+      "place": "Corrupted Badlands",
+      "note": "",
+      "island": "Tucma",
+      "frequency": "10% - 50%",
+      "level": "24 - 30",
+      "freetem": {
+        "minLevel": 24,
+        "maxLevel": 30,
+        "minPansuns": 85,
+        "maxPansuns": 101
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 65,
+    "female": 35
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Blooze represent the opposite evolutionary path as compared to Toxolotl - blobby and bipedal, they are probably the oldest lifeform of Xolot, an atavic variety still largely unexplained by science."
+}

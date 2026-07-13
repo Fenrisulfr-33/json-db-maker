@@ -1,0 +1,178 @@
+{
+  "_id": 99,
+  "name": {
+    "english": "Momo"
+  },
+  "types": [
+    "Neutral"
+  ],
+  "stats": {
+    "hp": 75,
+    "sta": 64,
+    "spd": 89,
+    "atk": 46,
+    "def": 49,
+    "spatk": 79,
+    "spdef": 75,
+    "total": 477
+  },
+  "traits": [
+    "Stabmaster",
+    "Snowstorm"
+  ],
+  "details": {
+    "height": {
+      "cm": 160,
+      "inches": 62
+    },
+    "weight": {
+      "kg": 74,
+      "lbs": 163
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Nibble",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Bark",
+        "source": "Levelling",
+        "levels": 15
+      },
+      {
+        "name": "Head Charge",
+        "source": "Levelling",
+        "levels": 20
+      },
+      {
+        "name": "Brace",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Willpower Drain",
+        "source": "Levelling",
+        "levels": 39
+      },
+      {
+        "name": "Undermine",
+        "source": "Levelling",
+        "levels": 50
+      },
+      {
+        "name": "Jaw Strike",
+        "source": "Levelling",
+        "levels": 76
+      },
+      {
+        "name": "Shelter",
+        "source": "Levelling",
+        "levels": 94
+      }
+    ],
+    "courses": [
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Zen Meditation",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Refresh",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Sanative Rain",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Restore",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Knockback",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Momo's cry resembles the \"woof\" barking sound of a dog.",
+    "This is the only known Temtem with heterochromia (having different iris colors).",
+    "Momo is a Breeder Tier Temtem by Kyle, who pledged $6000 to the Kickstarter. He came up with the idea of a Siberian Husky-like Temtem and gave Crema complete freedom for the name and Luma coloration."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Kilima Peaks",
+      "place": "Kilima Peaks",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20% - 50%",
+      "level": "42 - 48",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 48,
+        "minPansuns": 136,
+        "maxPansuns": 153
+      }
+    },
+    {
+      "location": "Barafu Glacier",
+      "place": "Barafu Glacier",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "5%",
+      "level": "42 - 47",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 47,
+        "minPansuns": 136,
+        "maxPansuns": 150
+      }
+    },
+    {
+      "location": "Neoedo",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "Gift",
+      "level": "50",
+      "freetem": {
+        "minLevel": 50,
+        "maxLevel": 50,
+        "minPansuns": 158,
+        "maxPansuns": 158
+      }
+    },
+    {
+      "location": "Greenglen Forest",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "20%",
+      "level": "60 - 70",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 70,
+        "minPansuns": 186,
+        "maxPansuns": 213
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 10,
+    "female": 90
+  },
+  "catchRate": 98,
+  "hatchMins": 25.4,
+  "description": "While some Temtemologist point to the primeval forests of Arbury and Cipanku as possible origin of this species, there is plenty of archaeological proof of their early domestication around Lake Moyo."
+}

@@ -1,0 +1,197 @@
+{
+  "_id": 76,
+  "name": {
+    "english": "Shaolite"
+  },
+  "types": [
+    "Melee"
+  ],
+  "stats": {
+    "hp": 40,
+    "sta": 58,
+    "spd": 68,
+    "atk": 43,
+    "def": 58,
+    "spatk": 54,
+    "spdef": 61,
+    "total": 382
+  },
+  "traits": [
+    "Coward's Rest",
+    "Parrier"
+  ],
+  "details": {
+    "height": {
+      "cm": 100,
+      "inches": 39
+    },
+    "weight": {
+      "kg": 27,
+      "lbs": 59
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Novice Punch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Martial Strike",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Cooperation",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Hook",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Undermine",
+        "source": "Levelling",
+        "levels": 40
+      }
+    ],
+    "courses": [
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Double Edge",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Kesa Gatame",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      },
+      {
+        "name": "Unseen Blow",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [],
+  "evolution": {
+    "stage": 0,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 76,
+        "name": "Shaolite",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Coward's Rest",
+          "Parrier"
+        ],
+        "traitMapping": {
+          "Coward's Rest": "Welcomer",
+          "Parrier": "Bruiser"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 77,
+        "name": "Shaolant",
+        "level": 12,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Welcomer",
+          "Bruiser"
+        ],
+        "traitMapping": {
+          "Welcomer": "Welcomer",
+          "Bruiser": "Bruiser"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": null,
+    "to": {
+      "stage": 1,
+      "number": 77,
+      "name": "Shaolant",
+      "level": 12,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Welcomer",
+        "Bruiser"
+      ],
+      "traitMapping": {
+        "Welcomer": "Welcomer",
+        "Bruiser": "Bruiser"
+      }
+    },
+    "number": 76,
+    "name": "Shaolite",
+    "level": 0,
+    "trading": false,
+    "traits": [
+      "Coward's Rest",
+      "Parrier"
+    ],
+    "traitMapping": {
+      "Coward's Rest": "Welcomer",
+      "Parrier": "Bruiser"
+    }
+  },
+  "locations": [
+    {
+      "location": "Sewers of Properton",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "60% - 65%",
+      "level": "58 - 62",
+      "freetem": {
+        "minLevel": 58,
+        "maxLevel": 62,
+        "minPansuns": 177,
+        "maxPansuns": 188
+      }
+    },
+    {
+      "location": "Braeside Castle",
+      "place": "",
+      "note": "",
+      "island": "Arbury",
+      "frequency": "10% - 90%",
+      "level": "60 - 77",
+      "freetem": {
+        "minLevel": 60,
+        "maxLevel": 77,
+        "minPansuns": 182,
+        "maxPansuns": 228
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "If there is a Temtem whose reputation as \"a cutie\" overshadows its proficiency, it's Shaolite. \"Oooh, look, smol karateka! <3\" is often heard right before a crushing defeat."
+}

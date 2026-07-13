@@ -1,0 +1,139 @@
+{
+  "_id": 137,
+  "name": {
+    "english": "Kinu"
+  },
+  "types": [
+    "Nature",
+    "Mental"
+  ],
+  "stats": {
+    "hp": 47,
+    "sta": 74,
+    "spd": 74,
+    "atk": 53,
+    "def": 41,
+    "spatk": 69,
+    "spdef": 96,
+    "total": 454
+  },
+  "traits": [
+    "Protector",
+    "Benefactor"
+  ],
+  "details": {
+    "height": {
+      "cm": 93,
+      "inches": 36
+    },
+    "weight": {
+      "kg": 16,
+      "lbs": 37
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Scratch",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Sharp Leaf",
+        "source": "Levelling",
+        "levels": 4
+      },
+      {
+        "name": "Hypnosis",
+        "source": "Levelling",
+        "levels": 8
+      },
+      {
+        "name": "Psy Wave",
+        "source": "Levelling",
+        "levels": 12
+      },
+      {
+        "name": "Revitalize",
+        "source": "Levelling",
+        "levels": 18
+      },
+      {
+        "name": "Beta Burst",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Gaia",
+        "source": "Levelling",
+        "levels": 30
+      },
+      {
+        "name": "Lifeful Sap",
+        "source": "Levelling",
+        "levels": 41
+      },
+      {
+        "name": "Sacrifice",
+        "source": "Levelling",
+        "levels": 58
+      },
+      {
+        "name": "Resin Trap",
+        "source": "Levelling",
+        "levels": 74
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Wake Up",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Lullaby",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Kinu is shown on the thumbnail of the Kickstarter trailer.",
+    "It is also on the Kickstarter exclusive painted statue alongside a Temtem Tamer.",
+    "Kinu has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "evolves": false
+  },
+  "locations": [
+    {
+      "location": "Giant Banyan",
+      "place": "Giant Banyan",
+      "note": "",
+      "island": "Omninesia",
+      "frequency": "5%",
+      "level": "24 - 28",
+      "freetem": {
+        "minLevel": 24,
+        "maxLevel": 28,
+        "minPansuns": 182,
+        "maxPansuns": 209
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 20,
+    "female": 80
+  },
+  "catchRate": 40,
+  "hatchMins": 37,
+  "description": "The elusive Kinu are some of the rarest Nature Temtem in the Myrisles - to the point that some tamers think they're a mere legend. When they do show up, Omninesians treat them with the respect reserved for the guardian spirits of the Banyan."
+}

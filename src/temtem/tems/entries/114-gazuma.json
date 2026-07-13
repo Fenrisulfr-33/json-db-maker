@@ -1,0 +1,228 @@
+{
+  "_id": 114,
+  "name": {
+    "english": "Gazuma"
+  },
+  "types": [
+    "Electric",
+    "Wind"
+  ],
+  "stats": {
+    "hp": 46,
+    "sta": 53,
+    "spd": 67,
+    "atk": 68,
+    "def": 43,
+    "spatk": 81,
+    "spdef": 91,
+    "total": 449
+  },
+  "traits": [
+    "Receptive",
+    "Fast Charge"
+  ],
+  "details": {
+    "height": {
+      "cm": 145,
+      "inches": 57
+    },
+    "weight": {
+      "kg": 28,
+      "lbs": 63
+    }
+  },
+  "techniques": {
+    "level-up": [
+      {
+        "name": "Sparks",
+        "source": "Levelling",
+        "levels": 1
+      },
+      {
+        "name": "Nimble",
+        "source": "Levelling",
+        "levels": 3
+      },
+      {
+        "name": "Wind Blade",
+        "source": "Levelling",
+        "levels": 5
+      },
+      {
+        "name": "DC Beam",
+        "source": "Levelling",
+        "levels": 7
+      },
+      {
+        "name": "Chain Lightning",
+        "source": "Levelling",
+        "levels": 16
+      },
+      {
+        "name": "Drill Impact",
+        "source": "Levelling",
+        "levels": 22
+      },
+      {
+        "name": "Electric Storm",
+        "source": "Levelling",
+        "levels": 33
+      },
+      {
+        "name": "Turbo Charge",
+        "source": "Levelling",
+        "levels": 45
+      },
+      {
+        "name": "Tornado",
+        "source": "Levelling",
+        "levels": 67
+      },
+      {
+        "name": "Blizzard",
+        "source": "Levelling",
+        "levels": 85
+      }
+    ],
+    "courses": [
+      {
+        "name": "Turbo Choreography",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Misogi",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Noxious Bomb",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Cage",
+        "source": "TechniqueCourses"
+      },
+      {
+        "name": "Laundry",
+        "source": "TechniqueCourses"
+      }
+    ],
+    "breeding": [
+      {
+        "name": "Tesla Prison",
+        "source": "Breeding"
+      },
+      {
+        "name": "Turbine",
+        "source": "Breeding"
+      }
+    ]
+  },
+  "trivia": [
+    "Gazuma has an emote on the official Temtem Discord."
+  ],
+  "evolution": {
+    "stage": 1,
+    "evolutionTree": [
+      {
+        "stage": 0,
+        "number": 113,
+        "name": "Ganki",
+        "level": 0,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Resistant",
+          "Inductor"
+        ],
+        "traitMapping": {
+          "Resistant": "Receptive",
+          "Inductor": "Fast Charge"
+        }
+      },
+      {
+        "stage": 1,
+        "number": 114,
+        "name": "Gazuma",
+        "level": 27,
+        "type": "levels",
+        "trading": false,
+        "traits": [
+          "Receptive",
+          "Fast Charge"
+        ],
+        "traitMapping": {
+          "Receptive": "Receptive",
+          "Fast Charge": "Fast Charge"
+        }
+      }
+    ],
+    "evolves": true,
+    "type": "levels",
+    "from": {
+      "stage": 0,
+      "number": 113,
+      "name": "Ganki",
+      "level": 0,
+      "type": "levels",
+      "trading": false,
+      "traits": [
+        "Resistant",
+        "Inductor"
+      ],
+      "traitMapping": {
+        "Resistant": "Receptive",
+        "Inductor": "Fast Charge"
+      }
+    },
+    "to": null,
+    "number": 114,
+    "name": "Gazuma",
+    "level": 27,
+    "trading": false,
+    "traits": [
+      "Receptive",
+      "Fast Charge"
+    ],
+    "traitMapping": {
+      "Receptive": "Receptive",
+      "Fast Charge": "Fast Charge"
+    }
+  },
+  "locations": [
+    {
+      "location": "Matope Road",
+      "place": "Matope Road",
+      "note": "",
+      "island": "Kisiwa",
+      "frequency": "20%",
+      "level": "42 - 47",
+      "freetem": {
+        "minLevel": 42,
+        "maxLevel": 47,
+        "minPansuns": 134,
+        "maxPansuns": 147
+      }
+    },
+    {
+      "location": "Pillars of Highabove",
+      "place": "",
+      "note": "",
+      "island": "Cipanku",
+      "frequency": "20% - 25%",
+      "level": "45 - 60",
+      "freetem": {
+        "minLevel": 45,
+        "maxLevel": 60,
+        "minPansuns": 142,
+        "maxPansuns": 182
+      }
+    }
+  ],
+  "genderRatio": {
+    "male": 50,
+    "female": 50
+  },
+  "catchRate": 100,
+  "hatchMins": 25,
+  "description": "Even in the wild, younger Ganki seem to instinctively respect them as their elders. In the hills of Iwaba, one can often spot Gazuma leading small flocks of Ganki, a clear indication of their status among Electric Temtem."
+}
