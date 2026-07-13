@@ -1,0 +1,18 @@
+{
+  "_id": 562,
+  "pokemonIds": [
+    562,
+    562.1
+  ],
+  "key": "yamask",
+  "tab": [
+    {
+      "id": 562,
+      "name": "Yamask"
+    },
+    {
+      "id": 562.2,
+      "name": "Galarian Yamask"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 359,
+  "pokemonIds": [
+    359,
+    359.1
+  ],
+  "key": "absol",
+  "tab": [
+    {
+      "id": 359,
+      "name": "Absol"
+    },
+    {
+      "id": 359.1,
+      "name": "Mega Absol"
+    }
+  ]
+}

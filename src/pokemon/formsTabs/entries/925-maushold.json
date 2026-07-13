@@ -1,0 +1,18 @@
+{
+  "_id": 925,
+  "pokemonIds": [
+    925,
+    925.1
+  ],
+  "key": "maushold",
+  "tab": [
+    {
+      "id": 925,
+      "name": "Family of Four"
+    },
+    {
+      "id": 925.1,
+      "name": "Family of Three"
+    }
+  ]
+}

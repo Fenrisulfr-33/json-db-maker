@@ -1,0 +1,18 @@
+{
+  "_id": 376,
+  "pokemonIds": [
+    376,
+    376.1
+  ],
+  "key": "metagross",
+  "tab": [
+    {
+      "id": 376,
+      "name": "Metagross"
+    },
+    {
+      "id": 376.1,
+      "name": "Mega Metagross"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 199,
+  "pokemonIds": [
+    199,
+    199.1
+  ],
+  "key": "slowking",
+  "tab": [
+    {
+      "id": 199,
+      "name": "Slowking"
+    },
+    {
+      "id": 199.1,
+      "name": "Galarian Slowking"
+    }
+  ]
+}

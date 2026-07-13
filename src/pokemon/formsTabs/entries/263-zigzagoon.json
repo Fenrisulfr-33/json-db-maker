@@ -1,0 +1,18 @@
+{
+  "_id": 263,
+  "pokemonIds": [
+    263,
+    263.1
+  ],
+  "key": "zigzagoon",
+  "tab": [
+    {
+      "id": 263,
+      "name": "Zigzagoon"
+    },
+    {
+      "id": 263.1,
+      "name": "Galarian Zigzagoon"
+    }
+  ]
+}

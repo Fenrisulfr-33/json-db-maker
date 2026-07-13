@@ -1,0 +1,18 @@
+{
+  "_id": 248,
+  "pokemonIds": [
+    248,
+    248.1
+  ],
+  "key": "tyranitar",
+  "tab": [
+    {
+      "id": 248,
+      "name": "Tyranitar"
+    },
+    {
+      "id": 248.1,
+      "name": "Mega Tyranitar"
+    }
+  ]
+}

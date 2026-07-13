@@ -1,0 +1,18 @@
+{
+  "_id": 618,
+  "pokemonIds": [
+    618,
+    618.1
+  ],
+  "key": "stunfisk",
+  "tab": [
+    {
+      "id": 618,
+      "name": "Stunfisk"
+    },
+    {
+      "id": 618.2,
+      "name": "Galarian Stunfisk"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 9,
+  "pokemonIds": [
+    9,
+    9.1
+  ],
+  "key": "blastoise",
+  "tab": [
+    {
+      "id": 9,
+      "name": "Blastoise"
+    },
+    {
+      "id": 9.1,
+      "name": "Mega Blastoise"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 334,
+  "pokemonIds": [
+    334,
+    334.1
+  ],
+  "key": "altaria",
+  "tab": [
+    {
+      "id": 334,
+      "name": "Altaria"
+    },
+    {
+      "id": 334.1,
+      "name": "Mega Altaria"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 65,
+  "pokemonIds": [
+    65,
+    65.1
+  ],
+  "key": "alakazam",
+  "tab": [
+    {
+      "id": 65,
+      "name": "Alakazam"
+    },
+    {
+      "id": 65.1,
+      "name": "Mega Alakazam"
+    }
+  ]
+}

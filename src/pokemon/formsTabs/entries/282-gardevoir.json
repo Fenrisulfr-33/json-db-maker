@@ -1,0 +1,18 @@
+{
+  "_id": 282,
+  "pokemonIds": [
+    282,
+    282.1
+  ],
+  "key": "gardevoir",
+  "tab": [
+    {
+      "id": 282,
+      "name": "Gardevoir"
+    },
+    {
+      "id": 282.1,
+      "name": "Mega Gardevoir"
+    }
+  ]
+}

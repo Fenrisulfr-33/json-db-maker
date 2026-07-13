@@ -1,0 +1,18 @@
+{
+  "_id": 27,
+  "pokemonIds": [
+    27,
+    27.1
+  ],
+  "key": "sandshrew",
+  "tab": [
+    {
+      "id": 27,
+      "name": "Sandshrew"
+    },
+    {
+      "id": 27.1,
+      "name": "Alolan Sandshrew"
+    }
+  ]
+}

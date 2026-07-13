@@ -1,0 +1,18 @@
+{
+  "_id": 105,
+  "pokemonIds": [
+    105,
+    105.1
+  ],
+  "key": "marowak",
+  "tab": [
+    {
+      "id": 105,
+      "name": "Marowak"
+    },
+    {
+      "id": 105.1,
+      "name": "Alolan Marowak"
+    }
+  ]
+}

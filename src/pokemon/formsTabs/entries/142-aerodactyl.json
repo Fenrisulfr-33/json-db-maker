@@ -1,0 +1,18 @@
+{
+  "_id": 142,
+  "pokemonIds": [
+    142,
+    142.1
+  ],
+  "key": "aerodactyl",
+  "tab": [
+    {
+      "id": 142,
+      "name": "Aerodactyl"
+    },
+    {
+      "id": 142.1,
+      "name": "Mega Aerodactyl"
+    }
+  ]
+}

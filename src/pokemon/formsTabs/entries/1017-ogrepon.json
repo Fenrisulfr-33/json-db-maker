@@ -1,0 +1,28 @@
+{
+  "_id": 1017,
+  "pokemonIds": [
+    1017,
+    1017.1,
+    1017.2,
+    1017.3
+  ],
+  "key": "ogrepon",
+  "tab": [
+    {
+      "id": 1017,
+      "name": "Teal Mask"
+    },
+    {
+      "id": 1017.1,
+      "name": "Wellspring Mask"
+    },
+    {
+      "id": 1017.2,
+      "name": "Hearthflame Mask"
+    },
+    {
+      "id": 1017.3,
+      "name": "Cornerstone Mask"
+    }
+  ]
+}

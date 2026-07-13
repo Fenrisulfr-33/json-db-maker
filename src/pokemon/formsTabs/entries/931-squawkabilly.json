@@ -1,0 +1,28 @@
+{
+  "_id": 931,
+  "pokemonIds": [
+    931,
+    931.1,
+    931.2,
+    931.3
+  ],
+  "key": "squawkabilly",
+  "tab": [
+    {
+      "id": 931,
+      "name": "Green Plumage"
+    },
+    {
+      "id": 931.1,
+      "name": "Blue Plumage"
+    },
+    {
+      "id": 931.2,
+      "name": "Yellow Plumage"
+    },
+    {
+      "id": 931.3,
+      "name": "White Plumage"
+    }
+  ]
+}

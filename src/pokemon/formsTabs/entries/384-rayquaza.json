@@ -1,0 +1,18 @@
+{
+  "_id": 384,
+  "pokemonIds": [
+    384,
+    384.1
+  ],
+  "key": "rayquaza",
+  "tab": [
+    {
+      "id": 384,
+      "name": "Rayquaza"
+    },
+    {
+      "id": 384.1,
+      "name": "Mega Rayquaza"
+    }
+  ]
+}

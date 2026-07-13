@@ -1,0 +1,18 @@
+{
+  "_id": 74,
+  "pokemonIds": [
+    74,
+    74.1
+  ],
+  "key": "geodude",
+  "tab": [
+    {
+      "id": 74,
+      "name": "Geodude"
+    },
+    {
+      "id": 74.1,
+      "name": "Alolan Geodude"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": 999,
+  "pokemonIds": [
+    999,
+    999.1
+  ],
+  "key": "gimmighoul",
+  "tab": [
+    {
+      "id": 999,
+      "name": "Chest Form"
+    },
+    {
+      "id": 999.1,
+      "name": "Roaming Form"
+    }
+  ]
+}

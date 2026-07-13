@@ -1,0 +1,18 @@
+{
+  "_id": 144,
+  "pokemonIds": [
+    144,
+    144.1
+  ],
+  "key": "articuno",
+  "tab": [
+    {
+      "id": 144,
+      "name": "Articuno"
+    },
+    {
+      "id": 144.1,
+      "name": "Galarian Articuno"
+    }
+  ]
+}

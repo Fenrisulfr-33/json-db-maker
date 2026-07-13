@@ -1,0 +1,18 @@
+{
+  "_id": 15,
+  "pokemonIds": [
+    15,
+    15.1
+  ],
+  "key": "beedrill",
+  "tab": [
+    {
+      "id": 15,
+      "name": "Beedrill"
+    },
+    {
+      "id": 15.1,
+      "name": "Mega Beedrill"
+    }
+  ]
+}

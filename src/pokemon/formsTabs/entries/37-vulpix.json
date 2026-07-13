@@ -1,0 +1,18 @@
+{
+  "_id": 37,
+  "pokemonIds": [
+    37,
+    37.1
+  ],
+  "key": "vulpix",
+  "tab": [
+    {
+      "id": 37,
+      "name": "Vulpix"
+    },
+    {
+      "id": 37.1,
+      "name": "Alolan Vulpix"
+    }
+  ]
+}

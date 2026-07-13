@@ -1,0 +1,18 @@
+{
+  "_id": 127,
+  "pokemonIds": [
+    127,
+    127.1
+  ],
+  "key": "pinsir",
+  "tab": [
+    {
+      "id": 127,
+      "name": "Pinsir"
+    },
+    {
+      "id": 127.1,
+      "name": "Mega Pinsir"
+    }
+  ]
+}

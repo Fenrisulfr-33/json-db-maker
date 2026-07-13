@@ -1,0 +1,18 @@
+{
+  "_id": 460,
+  "pokemonIds": [
+    460,
+    460.1
+  ],
+  "key": "abomasnow",
+  "tab": [
+    {
+      "id": 460,
+      "name": "Abomasnow"
+    },
+    {
+      "id": 460.1,
+      "name": "Mega Abomasnow"
+    }
+  ]
+}

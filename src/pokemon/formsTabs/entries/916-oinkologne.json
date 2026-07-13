@@ -1,0 +1,18 @@
+{
+  "_id": 916,
+  "pokemonIds": [
+    916,
+    916.1
+  ],
+  "key": "oinkologne",
+  "tab": [
+    {
+      "id": 916,
+      "name": "Male"
+    },
+    {
+      "id": 916.1,
+      "name": "Female"
+    }
+  ]
+}

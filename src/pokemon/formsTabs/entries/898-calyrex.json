@@ -1,0 +1,23 @@
+{
+  "_id": 898,
+  "pokemonIds": [
+    898,
+    898.1,
+    898.2
+  ],
+  "key": "calyrex",
+  "tab": [
+    {
+      "id": 898,
+      "name": "Calyrex"
+    },
+    {
+      "id": 898.1,
+      "name": "Ice Rider"
+    },
+    {
+      "id": 898.2,
+      "name": "Shadow Rider"
+    }
+  ]
+}

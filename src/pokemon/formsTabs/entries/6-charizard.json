@@ -1,0 +1,22 @@
+{
+  "_id": 6,
+  "pokemonIds": [
+    6,
+    6.1
+  ],
+  "key": "charizard",
+  "tab": [
+    {
+      "id": 6,
+      "name": "Charizard"
+    },
+    {
+      "id": 6.1,
+      "name": "Mega Charizard X"
+    },
+    {
+      "id": 6.1,
+      "name": "Mega Charizard Y"
+    }
+  ]
+}

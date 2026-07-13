@@ -1,0 +1,18 @@
+{
+  "_id": 103,
+  "pokemonIds": [
+    103,
+    103.1
+  ],
+  "key": "exeggutor",
+  "tab": [
+    {
+      "id": 103,
+      "name": "Exeggutor"
+    },
+    {
+      "id": 103.1,
+      "name": "Alolan Exeggutor"
+    }
+  ]
+}

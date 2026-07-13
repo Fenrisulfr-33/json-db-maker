@@ -1,0 +1,18 @@
+{
+  "_id": 38,
+  "pokemonIds": [
+    38,
+    38.1
+  ],
+  "key": "ninetales",
+  "tab": [
+    {
+      "id": 38,
+      "name": "Ninetales"
+    },
+    {
+      "id": 38.1,
+      "name": "Alolan Ninetales"
+    }
+  ]
+}

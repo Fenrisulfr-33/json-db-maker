@@ -1,0 +1,18 @@
+{
+  "_id": 181,
+  "pokemonIds": [
+    181,
+    181.1
+  ],
+  "key": "ampharos",
+  "tab": [
+    {
+      "id": 181,
+      "name": "Ampharos"
+    },
+    {
+      "id": 181.1,
+      "name": "Mega Ampharos"
+    }
+  ]
+}

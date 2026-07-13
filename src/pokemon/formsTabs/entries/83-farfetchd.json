@@ -1,0 +1,18 @@
+{
+  "_id": 83,
+  "pokemonIds": [
+    83,
+    83.1
+  ],
+  "key": "farfetchd",
+  "tab": [
+    {
+      "id": 83,
+      "name": "Farfetch'd"
+    },
+    {
+      "id": 83.1,
+      "name": "Galarian Farfetch'd"
+    }
+  ]
+}

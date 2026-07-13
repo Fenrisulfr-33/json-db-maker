@@ -1,0 +1,18 @@
+{
+  "_id": 380,
+  "pokemonIds": [
+    380,
+    380.1
+  ],
+  "key": "latias",
+  "tab": [
+    {
+      "id": 380,
+      "name": "Latias"
+    },
+    {
+      "id": 380.1,
+      "name": "Mega Latias"
+    }
+  ]
+}

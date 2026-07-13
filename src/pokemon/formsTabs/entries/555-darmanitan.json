@@ -1,0 +1,28 @@
+{
+  "_id": 555,
+  "pokemonIds": [
+    555,
+    555.1,
+    555.2,
+    555.3
+  ],
+  "key": "darmanitan",
+  "tab": [
+    {
+      "id": 555,
+      "name": "Darmanitan"
+    },
+    {
+      "id": 555.1,
+      "name": "Darmanitan Zen Mode"
+    },
+    {
+      "id": 555.2,
+      "name": "Galarian Darmanitan"
+    },
+    {
+      "id": 555.3,
+      "name": "Galarian Darmanitan Zen Mode"
+    }
+  ]
+}

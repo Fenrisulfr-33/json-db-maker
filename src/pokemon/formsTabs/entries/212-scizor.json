@@ -1,0 +1,18 @@
+{
+  "_id": 212,
+  "pokemonIds": [
+    212,
+    212.1
+  ],
+  "key": "scizor",
+  "tab": [
+    {
+      "id": 212,
+      "name": "Scizor"
+    },
+    {
+      "id": 212.1,
+      "name": "Mega Scizor"
+    }
+  ]
+}

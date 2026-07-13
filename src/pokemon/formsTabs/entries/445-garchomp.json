@@ -1,0 +1,18 @@
+{
+  "_id": 445,
+  "pokemonIds": [
+    445,
+    445.1
+  ],
+  "key": "garchomp",
+  "tab": [
+    {
+      "id": 445,
+      "name": "Garchomp"
+    },
+    {
+      "id": 445.1,
+      "name": "Mega Garchomp"
+    }
+  ]
+}

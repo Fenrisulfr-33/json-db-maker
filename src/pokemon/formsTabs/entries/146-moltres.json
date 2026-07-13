@@ -1,0 +1,18 @@
+{
+  "_id": 146,
+  "pokemonIds": [
+    146,
+    146.1
+  ],
+  "key": "moltres",
+  "tab": [
+    {
+      "id": 146,
+      "name": "Moltres"
+    },
+    {
+      "id": 146.1,
+      "name": "Galarian Moltres"
+    }
+  ]
+}

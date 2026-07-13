@@ -1,0 +1,18 @@
+{
+  "_id": 306,
+  "pokemonIds": [
+    306,
+    306.1
+  ],
+  "key": "aggron",
+  "tab": [
+    {
+      "id": 306,
+      "name": "Aggron"
+    },
+    {
+      "id": 306.1,
+      "name": "Mega Aggron"
+    }
+  ]
+}

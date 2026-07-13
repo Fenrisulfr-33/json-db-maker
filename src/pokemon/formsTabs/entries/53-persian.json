@@ -1,0 +1,18 @@
+{
+  "_id": 53,
+  "pokemonIds": [
+    53,
+    53.1
+  ],
+  "key": "persian",
+  "tab": [
+    {
+      "id": 53,
+      "name": "Persian"
+    },
+    {
+      "id": 53.1,
+      "name": "Alolan Persian"
+    }
+  ]
+}

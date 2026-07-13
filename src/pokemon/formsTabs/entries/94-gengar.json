@@ -1,0 +1,18 @@
+{
+  "_id": 94,
+  "pokemonIds": [
+    94,
+    94.1
+  ],
+  "key": "gengar",
+  "tab": [
+    {
+      "id": 94,
+      "name": "Gengar"
+    },
+    {
+      "id": 94.1,
+      "name": "Mega Gengar"
+    }
+  ]
+}

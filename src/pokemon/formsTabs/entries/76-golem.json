@@ -1,0 +1,18 @@
+{
+  "_id": 76,
+  "pokemonIds": [
+    76,
+    76.1
+  ],
+  "key": "golem",
+  "tab": [
+    {
+      "id": 76,
+      "name": "Golem"
+    },
+    {
+      "id": 76.1,
+      "name": "Alolan Golem"
+    }
+  ]
+}

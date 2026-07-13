@@ -1,0 +1,18 @@
+{
+  "_id": 194,
+  "pokemonIds": [
+    194,
+    194.1
+  ],
+  "key": "wooper",
+  "tab": [
+    {
+      "id": 194,
+      "name": "Wooper"
+    },
+    {
+      "id": 194.1,
+      "name": "Paldean Wooper"
+    }
+  ]
+}

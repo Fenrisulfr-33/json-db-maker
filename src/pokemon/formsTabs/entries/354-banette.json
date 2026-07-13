@@ -1,0 +1,18 @@
+{
+  "_id": 354,
+  "pokemonIds": [
+    354,
+    354.1
+  ],
+  "key": "banette",
+  "tab": [
+    {
+      "id": 354,
+      "name": "Banette"
+    },
+    {
+      "id": 354.1,
+      "name": "Mega Banette"
+    }
+  ]
+}

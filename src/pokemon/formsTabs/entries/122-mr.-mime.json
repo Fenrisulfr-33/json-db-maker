@@ -1,0 +1,18 @@
+{
+  "_id": 122,
+  "pokemonIds": [
+    122,
+    122.1
+  ],
+  "key": "mr.-mime",
+  "tab": [
+    {
+      "id": 122,
+      "name": "Mr. Mime"
+    },
+    {
+      "id": 122.1,
+      "name": "Galarian Mr. Mime"
+    }
+  ]
+}

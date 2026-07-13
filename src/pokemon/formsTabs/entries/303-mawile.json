@@ -1,0 +1,18 @@
+{
+  "_id": 303,
+  "pokemonIds": [
+    303,
+    303.1
+  ],
+  "key": "mawile",
+  "tab": [
+    {
+      "id": 303,
+      "name": "Mawile"
+    },
+    {
+      "id": 303.1,
+      "name": "Mega Mawile"
+    }
+  ]
+}

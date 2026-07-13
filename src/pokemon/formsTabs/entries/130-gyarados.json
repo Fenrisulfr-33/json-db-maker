@@ -1,0 +1,18 @@
+{
+  "_id": 130,
+  "pokemonIds": [
+    130,
+    130.1
+  ],
+  "key": "gyarados",
+  "tab": [
+    {
+      "id": 130,
+      "name": "Gyarados"
+    },
+    {
+      "id": 130.1,
+      "name": "Mega Gyarados"
+    }
+  ]
+}
