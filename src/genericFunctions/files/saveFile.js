@@ -1,14 +1,14 @@
 const fs = require("fs");
 
-function saveFile(saveData, fileName) {
-    const saveDataJson = JSON.stringify(saveData, null, 2);
+function saveFile(data, fileName) {
+    const saveDataJson = JSON.stringify(data, null, 2);
 
     fs.writeFile(
         `${fileName}.json`,
         saveDataJson,
         (error) => {
             error ? console.error(error) : null;
-            console.log(`${fileName}.json saved`);
+            console.log(`${fileName} saved`);
         }
     );
 }
