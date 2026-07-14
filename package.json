@@ -37,5 +37,8 @@
   "homepage": "https://github.com/Fenrisulfr-33/js-json-file-converter-creator#readme",
   "imports": {
     "#helpers/*": "./src/pokemon/helpers/*"
+  },
+  "devDependencies": {
+    "prettier": "3.9.5"
   }
 }
