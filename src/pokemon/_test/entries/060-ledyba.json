@@ -1,0 +1,19 @@
+{
+    "_id": 60,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 165,
+                "name": "Ledyba",
+                "type": ["Bug", "Flying"]
+            },
+            {
+                "id": 166,
+                "name": "Ledian",
+                "type": ["Bug", "Flying"],
+				"how": "Level 18"
+            }
+        ]
+    ]
+}

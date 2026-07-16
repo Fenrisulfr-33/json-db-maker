@@ -1,0 +1,25 @@
+{
+    "_id": 276,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 810,
+                "name": "Grookey",
+                "type": ["Grass"]
+            },
+            {
+                "id": 811,
+                "name": "Thwackey",
+                "type": ["Grass"],
+				"how": "Level 16"
+            },
+            {
+                "id": 812,
+                "name": "Rillaboom",
+                "type": ["Grass"],
+				"how": "Level 35"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 8,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 21,
+                "name": "Spearow",
+                "type": ["Normal", "Flying"]
+            },
+            {
+                "id": 22,
+                "name": "Fearow",
+                "type": ["Normal", "Flying"],
+				"how": "Level 20"
+            }
+        ]
+    ]
+}

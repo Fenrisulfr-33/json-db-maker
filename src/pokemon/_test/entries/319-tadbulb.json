@@ -1,0 +1,19 @@
+{
+    "_id": 319,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 938,
+                "name": "Tadbulb",
+                "type": ["Electric"]
+            },
+            {
+                "id": 939,
+                "name": "Bellibolt",
+                "type": ["Electric"],
+				"how": "Use Thunder Stone"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 111,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 322,
+                "name": "Numel",
+                "type": ["Fire", "Ground"]
+            },
+            {
+                "id": 323,
+                "name": "Camerupt",
+                "type": ["Fire", "Ground"],
+				"how": "Level 33"
+            }
+        ]
+    ]
+}

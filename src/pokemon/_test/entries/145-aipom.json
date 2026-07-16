@@ -1,0 +1,19 @@
+{
+    "_id": 145,
+    "generation": 4,
+    "evolution": [
+        [
+            {
+                "id": 190,
+                "name": "Aipom",
+                "type": ["Normal"]
+            },
+            {
+                "id": 424,
+                "name": "Ambipom",
+                "type": ["Normal"],
+				"how": "After learning Double Hit, Level up"
+            }
+        ]
+    ]
+}

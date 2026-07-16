@@ -1,0 +1,19 @@
+{
+    "_id": 271,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 771,
+                "name": "Type: Null",
+                "type": ["Normal"]
+            },
+            {
+                "id": 772,
+                "name": "Silvally",
+                "type": ["Normal"],
+				"how": "Level up with high friendship"
+            }
+        ]
+    ]
+}

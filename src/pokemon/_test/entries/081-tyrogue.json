@@ -1,0 +1,33 @@
+{
+    "_id": 81,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 236,
+                "name": "Tyrogue",
+                "type": ["Fighting"]
+            },
+            [
+                {
+                    "id": 106,
+                    "name": "Hitmonlee",
+                    "type": ["Fighting"],
+					"how": "Level 20 with Attack > Defense"
+                },
+                {
+                    "id": 107,
+                    "name": "Hitmonchan",
+                    "type": ["Fighting"],
+					"how": "Level 20 with Attack < Defense"
+                },
+                {
+                    "id": 237,
+                    "name": "Hitmontop",
+                    "type": ["Fighting"],
+					"how": "Level 20 with Attack = Defense"
+                }
+            ]
+        ]
+    ]
+}

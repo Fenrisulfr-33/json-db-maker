@@ -1,0 +1,19 @@
+{
+    "_id": 118,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 343,
+                "name": "Baltoy",
+                "type": ["Ground", "Psychic"]
+            },
+            {
+                "id": 344,
+                "name": "Claydol",
+                "type": ["Ground", "Psychic"],
+				"how": "Level 36"
+            }
+        ]
+    ]
+}

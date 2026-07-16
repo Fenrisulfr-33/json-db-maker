@@ -1,0 +1,19 @@
+{
+    "_id": 90,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 261,
+                "name": "Poochyena",
+                "type": ["Dark"]
+            },
+            {
+                "id": 262,
+                "name": "Mightyena",
+                "type": ["Dark"],
+				"how": "Level 18"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 13,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 32,
+                "name": "Nidoran♂",
+                "type": ["Poison"]
+            },
+            {
+                "id": 33,
+                "name": "Nidorino",
+                "type": ["Poison"],
+				"how": "Level 16"
+            },
+            {
+                "id": 34,
+                "name": "Nidoking",
+                "type": ["Poison", "Ground"],
+				"how": "Use Moon Stone"
+            }
+        ]
+    ]
+}

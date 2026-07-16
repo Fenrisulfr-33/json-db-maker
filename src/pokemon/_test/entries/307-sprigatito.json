@@ -1,0 +1,25 @@
+{
+    "_id": 307,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 906,
+                "name": "Sprigatito",
+                "type": ["Grass"]
+            },
+            {
+                "id": 907,
+                "name": "Floragato",
+                "type": ["Grass"],
+				"how": "Level 16"
+            },
+            {
+                "id": 908,
+                "name": "Meowscarada",
+                "type": ["Grass", "Dark"],
+				"how": "Level 36"
+            }
+        ]
+    ]
+}

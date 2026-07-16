@@ -1,0 +1,19 @@
+{
+    "_id": 209,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 592,
+                "name": "Frillish",
+                "type": ["Water", "Ghost"]
+            },
+            {
+                "id": 593,
+                "name": "Jellicent",
+                "type": ["Water", "Ghost"],
+				"how": "Level 40"
+            }
+        ]
+    ]
+}

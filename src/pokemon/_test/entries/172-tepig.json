@@ -1,0 +1,25 @@
+{
+    "_id": 172,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 498,
+                "name": "Tepig",
+                "type": ["Fire"]
+            },
+            {
+                "id": 499,
+                "name": "Pignite",
+                "type": ["Fire", "Fighting"],
+				"how": "Level 17"
+            },
+            {
+                "id": 500,
+                "name": "Emboar",
+                "type": ["Fire", "Fighting"],
+				"how": "Level 36"
+            }
+        ]
+    ]
+}

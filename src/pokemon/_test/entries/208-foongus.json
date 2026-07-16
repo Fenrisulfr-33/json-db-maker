@@ -1,0 +1,19 @@
+{
+    "_id": 208,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 590,
+                "name": "Foongus",
+                "type": ["Grass", "Poison"]
+            },
+            {
+                "id": 591,
+                "name": "Amoonguss",
+                "type": ["Grass", "Poison"],
+				"how": "Level 39"
+            }
+        ]
+    ]
+}

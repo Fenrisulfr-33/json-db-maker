@@ -1,0 +1,25 @@
+{
+    "_id": 253,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 725,
+                "name": "Litten",
+                "type": ["Fire"]
+            },
+            {
+                "id": 726,
+                "name": "Torracat",
+                "type": ["Fire"],
+				"how": "Level 17"
+            },
+            {
+                "id": 727,
+                "name": "Incineroar",
+                "type": ["Fire", "Dark"],
+				"how": "Level 34"
+            }
+        ]
+    ]
+}

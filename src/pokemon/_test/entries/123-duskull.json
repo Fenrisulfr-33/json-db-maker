@@ -1,0 +1,25 @@
+{
+    "_id": 123,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 355,
+                "name": "Duskull",
+                "type": ["Ghost"]
+            },
+            {
+                "id": 356,
+                "name": "Dusclops",
+                "type": ["Ghost"],
+				"how": "Level 37"
+            },
+            {
+                "id": 477,
+                "name": "Dusknoir",
+                "type": ["Ghost"],
+				"how": "Trade holding Reaper Cloth"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 151,
+    "generation": 4,
+    "evolution": [
+        [
+            {
+                "id": 433,
+                "name": "Chingling",
+                "type": ["Psychic"]
+            },
+            {
+                "id": 358,
+                "name": "Chimecho",
+                "type": ["Psychic"],
+				"how": "High Friendship, Nighttime"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 86,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 246,
+                "name": "Larvitar",
+                "type": ["Rock", "Ground"]
+            },
+            {
+                "id": 247,
+                "name": "Pupitar",
+                "type": ["Rock", "Ground"],
+				"how": "Level 30"
+            },
+            {
+                "id": 248,
+                "name": "Tyranitar",
+                "type": ["Rock", "Dark"],
+				"how": "Level 55"
+            }
+        ]
+    ]
+}

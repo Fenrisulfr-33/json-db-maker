@@ -1,0 +1,25 @@
+{
+    "_id": 233,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 669,
+                "name": "Flabébé",
+                "type": ["Fairy"]
+            },
+            {
+                "id": 670,
+                "name": "Floette",
+                "type": ["Fairy"],
+				"how": "Level 19"
+            },
+            {
+                "id": 671,
+                "name": "Florges",
+                "type": ["Fairy"],
+				"how": "Use Shiny Stone"
+            }
+        ]
+    ]
+}

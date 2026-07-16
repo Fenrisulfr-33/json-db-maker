@@ -1,0 +1,19 @@
+{
+    "_id": 266,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 757,
+                "name": "Salandit",
+                "type": ["Poison", "Fire"]
+            },
+            {
+                "id": 758,
+                "name": "Salazzle",
+                "type": ["Poison", "Fire"],
+				"how": "Level 33, Female"
+            }
+        ]
+    ]
+}

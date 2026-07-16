@@ -1,0 +1,19 @@
+{
+    "_id": 9,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 23,
+                "name": "Ekans",
+                "type": ["Poison"]
+            },
+            {
+                "id": 24,
+                "name": "Arbok",
+                "type": ["Poison"],
+				"how": "Level 22"
+            }
+        ]
+    ]
+}

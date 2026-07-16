@@ -1,0 +1,19 @@
+{
+    "_id": 283,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 829,
+                "name": "Gossifleur",
+                "type": ["Grass"]
+            },
+            {
+                "id": 830,
+                "name": "Eldegoss",
+                "type": ["Grass"],
+				"how": "Level 20"
+            }
+        ]
+    ]
+}

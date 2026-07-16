@@ -1,0 +1,19 @@
+{
+    "_id": 195,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 559,
+                "name": "Scraggy",
+                "type": ["Dark", "Fighting"]
+            },
+            {
+                "id": 560,
+                "name": "Scrafty",
+                "type": ["Dark", "Fighting"],
+				"how": "Level 39"
+            }
+        ]
+    ]
+}

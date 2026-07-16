@@ -1,0 +1,19 @@
+{
+    "_id": 244,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 694,
+                "name": "Helioptile",
+                "type": ["Electric", "Normal"]
+            },
+            {
+                "id": 695,
+                "name": "Heliolisk",
+                "type": ["Electric", "Normal"],
+				"how": "Use Sun Stone"
+            }
+        ]
+    ]
+}

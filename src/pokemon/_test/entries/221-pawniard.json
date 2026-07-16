@@ -1,0 +1,25 @@
+{
+    "_id": 221,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 624,
+                "name": "Pawniard",
+                "type": ["Dark", "Steel"]
+            },
+            {
+                "id": 625,
+                "name": "Bisharp",
+                "type": ["Dark", "Steel"],
+				"how": "Level 52"
+            },
+            {
+                "id": 983,
+                "name": "Kingambit",
+                "type": ["Dark", "Steel"],
+				"how": "Defeat 3 Bisharp holding Leader's Crest in battle"
+            }
+        ]
+    ]
+}

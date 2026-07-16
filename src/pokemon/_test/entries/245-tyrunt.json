@@ -1,0 +1,19 @@
+{
+    "_id": 245,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 696,
+                "name": "Tyrunt",
+                "type": ["Rock", "Dragon"]
+            },
+            {
+                "id": 697,
+                "name": "Tyrantrum",
+                "type": ["Rock", "Dragon"],
+				"how": "Level 39, Daytime"
+            }
+        ]
+    ]
+}

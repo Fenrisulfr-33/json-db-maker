@@ -1,0 +1,25 @@
+{
+    "_id": 226,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 650,
+                "name": "Chespin",
+                "type": ["Grass"]
+            },
+            {
+                "id": 651,
+                "name": "Quilladin",
+                "type": ["Grass"],
+				"how": "Level 16"
+            },
+            {
+                "id": 652,
+                "name": "Chesnaught",
+                "type": ["Grass", "Fighting"],
+				"how": "Level 36"
+            }
+        ]
+    ]
+}

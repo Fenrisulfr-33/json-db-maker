@@ -1,0 +1,19 @@
+{
+    "_id": 243,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 692,
+                "name": "Clauncher",
+                "type": ["Water"]
+            },
+            {
+                "id": 693,
+                "name": "Clawitzer",
+                "type": ["Water"],
+				"how": "Level 37"
+            }
+        ]
+    ]
+}

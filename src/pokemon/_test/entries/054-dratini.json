@@ -1,0 +1,25 @@
+{
+    "_id": 54,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 147,
+                "name": "Dratini",
+                "type": ["Dragon"]
+            },
+            {
+                "id": 148,
+                "name": "Dragonair",
+                "type": ["Dragon"],
+				"how": "Level 30"
+            },
+            {
+                "id": 149,
+                "name": "Dragonite",
+                "type": ["Dragon", "Flying"],
+				"how": "Level 55"
+            }
+        ]
+    ]
+}

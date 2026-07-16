@@ -1,0 +1,27 @@
+{
+    "_id": 127,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 366,
+                "name": "Clamperl",
+                "type": ["Water"]
+            },
+            [
+                {
+                    "id": 367,
+                    "name": "Huntail",
+                    "type": ["Water"],
+                    "how": "Trade holding Deep Sea Tooth"
+                },
+                {
+                    "id": 368,
+                    "name": "Gorebyss",
+                    "type": ["Water"],
+                    "how": "Trade holding Deep Sea Scale"
+                }
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 6,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 16,
+                "name": "Pidgey",
+                "type": ["Normal", "Flying"]
+            },
+            {
+                "id": 17,
+                "name": "Pidgeotto",
+                "type": ["Normal", "Flying"],
+				"how": "Level 18"
+            },
+            {
+                "id": 18,
+                "name": "Pidgeot",
+                "type": ["Normal", "Flying"],
+				"how": "Level 36"
+            }
+        ]
+    ]
+}

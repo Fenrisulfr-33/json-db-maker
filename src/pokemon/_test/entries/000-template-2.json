@@ -1,0 +1,47 @@
+{
+    "_id": 0,
+    "generation": 0,
+    "evolution": [
+        [
+            {
+                "id": 1,
+                "name": "Bulbasaur",
+                "type": ["Grass", "Poison"]
+            },
+            {
+                "id": 2,
+                "name": "Ivysaur",
+                "type": ["Grass", "Poison"],
+                "how": "Level 16"
+            },
+            {
+                "id": 3,
+                "name": "Venusaur",
+                "type": ["Grass", "Poison"],
+                "how": "Level 32"
+            }
+        ],
+		[
+            {
+                "id": 1.1,
+                "name": "Bulbasaur",
+                "type": ["Grass", "Poison"],
+				"form": "Alolan Bulbasaur"
+            },
+            {
+                "id": 2.1,
+                "name": "Ivysaur",
+                "type": ["Grass", "Poison"],
+                "how": "Level 16, in alola region",
+				"form": "Alolan Ivysaur"
+            },
+            {
+                "id": 3.1,
+                "name": "Venusaur",
+                "type": ["Grass", "Poison"],
+                "how": "Level 32, in alola region",
+				"form": "Alolan Venusaur"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 62,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 170,
+                "name": "Chinchou",
+                "type": ["Water", "Electric"]
+            },
+            {
+                "id": 171,
+                "name": "Lanturn",
+                "type": ["Water", "Electric"],
+				"how": "Level 27"
+            }
+        ]
+    ]
+}

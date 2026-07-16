@@ -1,0 +1,19 @@
+{
+    "_id": 282,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 827,
+                "name": "Nickit",
+                "type": ["Dark"]
+            },
+            {
+                "id": 828,
+                "name": "Thievul",
+                "type": ["Dark"],
+				"how": "Level 18"
+            }
+        ]
+    ]
+}

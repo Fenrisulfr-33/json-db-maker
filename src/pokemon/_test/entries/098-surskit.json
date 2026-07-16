@@ -1,0 +1,19 @@
+{
+    "_id": 98,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 283,
+                "name": "Surskit",
+                "type": ["Bug", "Water"]
+            },
+            {
+                "id": 284,
+                "name": "Masquerain",
+                "type": ["Bug", "Flying"],
+				"how": "Level 22"
+            }
+        ]
+    ]
+}

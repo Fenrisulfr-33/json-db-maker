@@ -1,0 +1,45 @@
+{
+    "_id": 288,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 840,
+                "name": "Applin",
+                "type": ["Grass", "Dragon"]
+            },
+            [
+                [
+                    {
+                        "id": 841,
+                        "name": "Flapple",
+                        "type": ["Grass", "Dragon"],
+						"how": "Use Tart Apple"
+                    }
+                ],
+                [
+                    {
+                        "id": 842,
+                        "name": "Appletun",
+                        "type": ["Grass", "Dragon"],
+						"how": "Use Sweet Apple"
+                    }
+                ],
+                [
+                    {
+                        "id": 1011,
+                        "name": "Dipplin",
+                        "type": ["Grass", "Dragon"],
+						"how": "Use Syrupy Apple"
+                    },
+                    {
+                        "id": 1019,
+                        "name": "Hydrapple",
+                        "type": ["Grass", "Dragon"],
+						"how": "After Dragon Cheer learned"
+                    }
+                ]
+            ]
+        ]
+    ]
+}

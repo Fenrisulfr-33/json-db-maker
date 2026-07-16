@@ -1,0 +1,19 @@
+{
+    "_id": 64,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 177,
+                "name": "Natu",
+                "type": ["Psychic", "Flying"]
+            },
+            {
+                "id": 178,
+                "name": "Xatu",
+                "type": ["Psychic", "Flying"],
+				"how": "Level 25"
+            }
+        ]
+    ]
+}

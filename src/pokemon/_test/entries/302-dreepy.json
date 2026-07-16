@@ -1,0 +1,25 @@
+{
+    "_id": 302,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 884,
+                "name": "Dreepy",
+                "type": ["Dragon", "Ghost"]
+            },
+            {
+                "id": 885,
+                "name": "Drakloak",
+                "type": ["Dragon", "Ghost"],
+				"how": "Level 50"
+            },
+            {
+                "id": 886,
+                "name": "Dragapult",
+                "type": ["Dragon", "Ghost"],
+				"how": "Level 60"
+            }
+        ]
+    ]
+}

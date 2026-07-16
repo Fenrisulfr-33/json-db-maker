@@ -1,0 +1,25 @@
+{
+    "_id": 281,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 824,
+                "name": "Blipbug",
+                "type": ["Bug"]
+            },
+            {
+                "id": 825,
+                "name": "Dottler",
+                "type": ["Bug", "Psychic"],
+				"how": "Level 10"
+            },
+            {
+                "id": 826,
+                "name": "Orbeetle",
+                "type": ["Bug", "Flying"],
+				"how": "Level 30"
+            }
+        ]
+    ]
+}

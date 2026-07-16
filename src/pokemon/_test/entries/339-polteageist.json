@@ -1,0 +1,19 @@
+{
+    "_id": 339,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 1012,
+                "name": "Polteageist",
+                "type": ["Grass", "Ghost"]
+            },
+            {
+                "id": 1013,
+                "name": "Sinistcha",
+                "type": ["Grass", "Ghost"],
+				"how": "Use Unremarkable Teacup"
+            }
+        ]
+    ]
+}

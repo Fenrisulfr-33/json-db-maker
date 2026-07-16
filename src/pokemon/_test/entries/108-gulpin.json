@@ -1,0 +1,19 @@
+{
+    "_id": 108,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 316,
+                "name": "Gulpin",
+                "type": ["Poison"]
+            },
+            {
+                "id": 317,
+                "name": "Swalot",
+                "type": ["Poison"],
+				"how": "Level 26"
+            }
+        ]
+    ]
+}

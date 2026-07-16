@@ -1,0 +1,19 @@
+{
+    "_id": 207,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 588,
+                "name": "Karrablast",
+                "type": ["Bug"]
+            },
+            {
+                "id": 589,
+                "name": "Escavalier",
+                "type": ["Bug", "Steel"],
+				"how": "Trade with Shelmet"
+            }
+        ]
+    ]
+}

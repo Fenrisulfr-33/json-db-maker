@@ -1,0 +1,20 @@
+{
+    "_id": 338,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 999,
+                "name": "Gimmighoul",
+                "type": ["Ghost"],
+				"form": "Chest Form"
+            },
+            {
+                "id": 1000,
+                "name": "Gholdengo",
+                "type": ["Steel", "Ghost"],
+				"how": "collect 999 coins from Roaming Form"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "_id": 21,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 50,
+                "name": "Diglett",
+                "type": ["Ground"]
+            },
+            {
+                "id": 51,
+                "name": "Dugtrio",
+                "type": ["Ground"],
+                "how": "Level 26"
+            }
+        ],
+        [
+            {
+                "id": 50.1,
+                "name": "Diglett",
+                "type": ["Ground", "Steel"],
+                "form": "Alolan Diglett"
+            },
+            {
+                "id": 51.1,
+                "name": "Dugtrio",
+                "type": ["Ground", "Steel"],
+                "how": "Level 26",
+                "form": "Alolan Dugtrio"
+            }
+        ]
+    ]
+}

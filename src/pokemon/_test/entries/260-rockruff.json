@@ -1,0 +1,44 @@
+{
+    "_id": 260,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 744,
+                "name": "Rockruff",
+                "type": ["Rock"]
+            },
+            [
+                {
+                    "id": 745,
+                    "name": "Lycanroc",
+                    "type": ["Rock"],
+                    "how": "Level 25, Daytime",
+                    "form": "Midday Form"
+                },
+                {
+                    "id": 745.1,
+                    "name": "Lycanroc",
+                    "type": ["Rock"],
+                    "how": "Level 25, Nighttime",
+                    "form": "Midnight Form"
+                }
+            ]
+        ],
+        [
+            {
+                "id": 744,
+                "name": "Rockruff",
+                "type": ["Rock"],
+                "form": "Own Tempo Ability"
+            },
+            {
+                "id": 745.2,
+                "name": "Lycanroc",
+                "type": ["Rock"],
+                "how": "Level 25, Dusk",
+                "form": "Dusk Form"
+            }
+        ]
+    ]
+}

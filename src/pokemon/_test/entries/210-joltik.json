@@ -1,0 +1,19 @@
+{
+    "_id": 210,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 595,
+                "name": "Joltik",
+                "type": ["Bug", "Electric"]
+            },
+            {
+                "id": 596,
+                "name": "Galvantula",
+                "type": ["Bug", "Electric"],
+				"how": "Level 36"
+            }
+        ]
+    ]
+}

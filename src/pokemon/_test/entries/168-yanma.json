@@ -1,0 +1,19 @@
+{
+    "_id": 168,
+    "generation": 4,
+    "evolution": [
+        [
+            {
+                "id": 193,
+                "name": "Yanma",
+                "type": ["Bug", "Flying"]
+            },
+            {
+                "id": 469,
+                "name": "Yanmega",
+                "type": ["Bug", "Flying"],
+				"how": "Level up while knowing Ancient Power"
+            }
+        ]
+    ]
+}

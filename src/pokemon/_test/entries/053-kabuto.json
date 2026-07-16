@@ -1,0 +1,19 @@
+{
+    "_id": 53,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 140,
+                "name": "Kabuto",
+                "type": ["Rock", "Water"]
+            },
+            {
+                "id": 141,
+                "name": "Kabutops",
+                "type": ["Rock", "Water"],
+				"how": "Level 40"
+            }
+        ]
+    ]
+}

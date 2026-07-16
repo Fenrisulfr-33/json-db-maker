@@ -1,0 +1,25 @@
+{
+    "_id": 113,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 328,
+                "name": "Trapinch",
+                "type": ["Ground"]
+            },
+            {
+                "id": 329,
+                "name": "Vibrava",
+                "type": ["Ground", "Dragon"],
+				"how": "Level 35"
+            },
+            {
+                "id": 330,
+                "name": "Flygon",
+                "type": ["Ground", "Dragon"],
+				"how": "Level 45"
+            }
+        ]
+    ]
+}

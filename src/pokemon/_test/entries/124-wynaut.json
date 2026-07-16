@@ -1,0 +1,19 @@
+{
+    "_id": 124,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 360,
+                "name": "Wynaut",
+                "type": ["Psychic"]
+            },
+            {
+                "id": 202,
+                "name": "Wobbuffet",
+                "type": ["Psychic"],
+				"how": "Level 15"
+            }
+        ]
+    ]
+}

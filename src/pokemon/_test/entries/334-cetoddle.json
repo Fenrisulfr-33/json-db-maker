@@ -1,0 +1,19 @@
+{
+    "_id": 334,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 974,
+                "name": "Cetoddle",
+                "type": ["Ice"]
+            },
+            {
+                "id": 975,
+                "name": "Cetitan",
+                "type": ["Ice"],
+				"how": "Use Ice Stone"
+            }
+        ]
+    ]
+}

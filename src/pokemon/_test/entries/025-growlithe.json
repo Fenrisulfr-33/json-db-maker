@@ -1,0 +1,34 @@
+{
+    "_id": 25,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 58,
+                "name": "Growlithe",
+                "type": ["Fire"]
+            },
+            {
+                "id": 59,
+                "name": "Arcanine",
+                "type": ["Fire"],
+				"how": "Use Fire Stone"
+            }
+        ],
+		[
+            {
+                "id": 58.1,
+                "name": "Growlithe",
+                "type": ["Fire", "Rock"],
+				"form": "Hisuian Growlithe"
+            },
+            {
+                "id": 59.1,
+                "name": "Arcanine",
+                "type": ["Fire", "Rock"],
+				"how": "Use Fire Stone",
+				"form": "Hisuian Arcanine"
+            }
+		]
+    ]
+}

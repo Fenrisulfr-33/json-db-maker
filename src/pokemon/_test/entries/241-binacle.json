@@ -1,0 +1,19 @@
+{
+    "_id": 241,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 688,
+                "name": "Binacle",
+                "type": ["Rock", "Water"]
+            },
+            {
+                "id": 689,
+                "name": "Barbaracle",
+                "type": ["Rock", "Water"],
+				"how": "Level 39"
+            }
+        ]
+    ]
+}

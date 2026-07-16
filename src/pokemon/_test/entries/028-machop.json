@@ -1,0 +1,25 @@
+{
+    "_id": 28,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 66,
+                "name": "Machop",
+                "type": ["Fighting"]
+            },
+            {
+                "id": 67,
+                "name": "Machoke",
+                "type": ["Fighting"],
+				"how": "Level 28"
+            },
+            {
+                "id": 68,
+                "name": "Machamp",
+                "type": ["Fighting"],
+				"how": "Trade"
+            }
+        ]
+    ]
+}

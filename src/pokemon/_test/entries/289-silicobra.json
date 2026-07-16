@@ -1,0 +1,19 @@
+{
+    "_id": 289,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 843,
+                "name": "Silicobra",
+                "type": ["Ground"]
+            },
+            {
+                "id": 844,
+                "name": "Sandaconda",
+                "type": ["Ground"],
+				"how": "Level 36"
+            }
+        ]
+    ]
+}

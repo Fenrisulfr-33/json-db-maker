@@ -1,0 +1,19 @@
+{
+    "_id": 322,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 944,
+                "name": "Shroodle",
+                "type": ["Poison", "Normal"]
+            },
+            {
+                "id": 945,
+                "name": "Grafaiai",
+                "type": ["Poison", "Normal"],
+				"how": "Level 28"
+            }
+        ]
+    ]
+}

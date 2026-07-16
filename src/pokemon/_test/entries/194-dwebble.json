@@ -1,0 +1,19 @@
+{
+    "_id": 194,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 557,
+                "name": "Dwebble",
+                "type": ["Bug", "Rock"]
+            },
+            {
+                "id": 558,
+                "name": "Crustle",
+                "type": ["Bug", "Rock"],
+				"how": "Level 34"
+            }
+        ]
+    ]
+}

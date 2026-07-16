@@ -1,0 +1,25 @@
+{
+    "_id": 192,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 551,
+                "name": "Sandile",
+                "type": ["Ground", "Dark"]
+            },
+            {
+                "id": 552,
+                "name": "Krokorok",
+                "type": ["Ground", "Dark"],
+				"how": "Level 29"
+            },
+            {
+                "id": 553,
+                "name": "Krookodile",
+                "type": ["Ground", "Dark"],
+				"how": "Level 40"
+            }
+        ]
+    ]
+}

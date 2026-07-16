@@ -1,0 +1,19 @@
+{
+    "_id": 71,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 95,
+                "name": "Onix",
+                "type": ["Rock", "Ground"]
+            },
+            {
+                "id": 206,
+                "name": "Steelix",
+                "type": ["Steel", "Ground"],
+				"how": "Trade holding Metal Coat"
+            }
+        ]
+    ]
+}

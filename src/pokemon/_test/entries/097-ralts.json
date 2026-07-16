@@ -1,0 +1,33 @@
+{
+    "_id": 97,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 280,
+                "name": "Ralts",
+                "type": ["Psychic", "Fairy"]
+            },
+            {
+                "id": 281,
+                "name": "Kirlia",
+                "type": ["Psychic", "Fairy"],
+				"how": "Level 20"
+            },
+            [
+                {
+                    "id": 282,
+                    "name": "Gardevoir",
+                    "type": ["Psychic", "Fairy"],
+					"how": "Level 30"
+                },
+                {
+                    "id": 475,
+                    "name": "Gallade",
+                    "type": ["Psychic", "Fighting"],
+					"how": "Use Dawn Stone, Male"
+                }
+            ]
+        ]
+    ]
+}

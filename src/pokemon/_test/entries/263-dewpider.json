@@ -1,0 +1,19 @@
+{
+    "_id": 263,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 751,
+                "name": "Dewpider",
+                "type": ["Water", "Bug"]
+            },
+            {
+                "id": 752,
+                "name": "Araquanid",
+                "type": ["Water", "Bug"],
+				"how": "Level 22"
+            }
+        ]
+    ]
+}

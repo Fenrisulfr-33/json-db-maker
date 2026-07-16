@@ -1,0 +1,19 @@
+{
+    "_id": 290,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 846,
+                "name": "Arrokuda",
+                "type": ["Water"]
+            },
+            {
+                "id": 847,
+                "name": "Barraskewda",
+                "type": ["Water"],
+				"how": "Level 26"
+            }
+        ]
+    ]
+}

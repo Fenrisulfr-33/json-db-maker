@@ -1,0 +1,19 @@
+{
+    "_id": 335,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 203,
+                "name": "Girafarig",
+                "type": ["Normal", "Psychic"]
+            },
+            {
+                "id": 981,
+                "name": "Farigiraf",
+                "type": ["Normal", "Psychic"],
+				"how": "Level up after Twin Beam is learned"
+            }
+        ]
+    ]
+}

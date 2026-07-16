@@ -1,0 +1,19 @@
+{
+    "_id": 258,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 739,
+                "name": "Crabrawler",
+                "type": ["Fighting"]
+            },
+            {
+                "id": 740,
+                "name": "Crabominable",
+                "type": ["Fighting", "Ice"],
+				"how": "Use Ice Stone, or level up at Mount Lanakila in Alola"
+            }
+        ]
+    ]
+}

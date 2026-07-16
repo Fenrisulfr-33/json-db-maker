@@ -1,0 +1,19 @@
+{
+    "_id": 274,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 803,
+                "name": "Poipole",
+                "type": ["Poison"]
+            },
+            {
+                "id": 804,
+                "name": "Naganadel",
+                "type": ["Poison", "Dragon"],
+				"how": "Level up after learning Dragon Pulse"
+            }
+        ]
+    ]
+}

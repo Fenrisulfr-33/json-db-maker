@@ -1,0 +1,25 @@
+{
+    "_id": 47,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 116,
+                "name": "Horsea",
+                "type": ["Water"]
+            },
+            {
+                "id": 117,
+                "name": "Seadra",
+                "type": ["Water"],
+				"how": "Level 32"
+            },
+            {
+                "id": 230,
+                "name": "Kingdra",
+                "type": ["Water", "Dragon"],
+				"how": "Trade holding Dragon Scale"
+            }
+        ]
+    ]
+}

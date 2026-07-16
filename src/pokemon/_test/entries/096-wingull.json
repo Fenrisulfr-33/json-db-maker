@@ -1,0 +1,19 @@
+{
+    "_id": 96,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 278,
+                "name": "Wingull",
+                "type": ["Water", "Flying"]
+            },
+            {
+                "id": 279,
+                "name": "Pelipper",
+                "type": ["Water", "Flying"],
+				"how": "Level 25"
+            }
+        ]
+    ]
+}

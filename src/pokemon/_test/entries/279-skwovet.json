@@ -1,0 +1,19 @@
+{
+    "_id": 279,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 819,
+                "name": "Skwovet",
+                "type": ["Normal"]
+            },
+            {
+                "id": 820,
+                "name": "Greedent",
+                "type": ["Normal"],
+				"how": "Level 24"
+            }
+        ]
+    ]
+}

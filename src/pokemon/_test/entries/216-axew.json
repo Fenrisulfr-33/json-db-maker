@@ -1,0 +1,25 @@
+{
+    "_id": 216,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 610,
+                "name": "Axew",
+                "type": ["Dragon"]
+            },
+            {
+                "id": 611,
+                "name": "Fraxure",
+                "type": ["Dragon"],
+				"how": "Level 38"
+            },
+            {
+                "id": 612,
+                "name": "Haxorus",
+                "type": ["Dragon"],
+				"how": "Level 48"
+            }
+        ]
+    ]
+}

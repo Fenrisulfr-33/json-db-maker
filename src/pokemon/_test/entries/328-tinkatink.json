@@ -1,0 +1,25 @@
+{
+    "_id": 328,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 957,
+                "name": "Tinkatink",
+                "type": ["Fairy", "Steel"]
+            },
+            {
+                "id": 958,
+                "name": "Tinkatuff",
+                "type": ["Fairy", "Steel"],
+				"how": "Level 24"
+            },
+            {
+                "id": 959,
+                "name": "Tinkaton",
+                "type": ["Fairy", "Steel"],
+				"how": "Level 38"
+            }
+        ]
+    ]
+}

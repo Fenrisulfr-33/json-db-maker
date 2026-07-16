@@ -1,0 +1,19 @@
+{
+    "_id": 166,
+    "generation": 4,
+    "evolution": [
+        [
+            {
+                "id": 108,
+                "name": "Lickitung",
+                "type": ["Normal"]
+            },
+            {
+                "id": 463,
+                "name": "Lickilicky",
+                "type": ["Normal"],
+				"how": "After Rollout learned, Level up"
+            }
+        ]
+    ]
+}

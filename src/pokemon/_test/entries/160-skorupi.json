@@ -1,0 +1,19 @@
+{
+    "_id": 160,
+    "generation": 4,
+    "evolution": [
+        [
+            {
+                "id": 451,
+                "name": "Skorupi",
+                "type": ["Poison", "Bug"]
+            },
+            {
+                "id": 452,
+                "name": "Drapion",
+                "type": ["Poison", "Dark"],
+				"how": "Level 40"
+            }
+        ]
+    ]
+}

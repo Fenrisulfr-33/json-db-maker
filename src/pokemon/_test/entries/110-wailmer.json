@@ -1,0 +1,19 @@
+{
+    "_id": 110,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 320,
+                "name": "Wailmer",
+                "type": ["Water"]
+            },
+            {
+                "id": 321,
+                "name": "Wailord",
+                "type": ["Water"],
+				"how": "Level 40"
+            }
+        ]
+    ]
+}

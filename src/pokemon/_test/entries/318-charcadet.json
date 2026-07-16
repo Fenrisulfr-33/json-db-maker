@@ -1,0 +1,27 @@
+{
+    "_id": 318,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 935,
+                "name": "Charcadet",
+                "type": ["Fire"]
+            },
+            [
+                {
+                    "id": 936,
+                    "name": "Armarouge",
+                    "type": ["Fire", "Psychic"],
+					"how": "Use Auspicious Armor"
+                },
+                {
+                    "id": 937,
+                    "name": "Ceruledge",
+                    "type": ["Fire", "Ghost"],
+					"how": "Use Malicious Armor"
+                }
+            ]
+        ]
+    ]
+}

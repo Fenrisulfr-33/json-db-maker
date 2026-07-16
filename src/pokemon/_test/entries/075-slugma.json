@@ -1,0 +1,19 @@
+{
+    "_id": 75,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 218,
+                "name": "Slugma",
+                "type": ["Fire"]
+            },
+            {
+                "id": 219,
+                "name": "Magcargo",
+                "type": ["Fire", "Rock"],
+				"how": "Level 38"
+            }
+        ]
+    ]
+}

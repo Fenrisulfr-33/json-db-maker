@@ -1,0 +1,28 @@
+{
+    "_id": 44,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 104,
+                "name": "Cubone",
+                "type": ["Ground"]
+            },
+            [
+                {
+                    "id": 105,
+                    "name": "Marowak",
+                    "type": ["Ground"],
+                    "how": "Level 28, outside Alola"
+                },
+                {
+                    "id": 105.1,
+                    "name": "Marowak",
+                    "type": ["Fire", "Ghost"],
+                    "how": "Level 28, Nighttime, in Alola",
+                    "form": "Alolan Marowak"
+                }
+            ]
+        ]
+    ]
+}

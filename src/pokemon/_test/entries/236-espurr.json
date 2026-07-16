@@ -1,0 +1,29 @@
+{
+    "_id": 236,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 677,
+                "name": "Espurr",
+                "type": ["Psychic"]
+            },
+            [
+                {
+                    "id": 678,
+                    "name": "Meowstic",
+                    "type": ["Psychic"],
+                    "how": "Level 25, Male",
+                    "form": "Male"
+                },
+                {
+                    "id": 678.1,
+                    "name": "Meowstic",
+                    "type": ["Psychic"],
+                    "how": "Level 25, Female",
+                    "form": "Female"
+                }
+            ]
+        ]
+    ]
+}

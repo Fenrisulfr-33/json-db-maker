@@ -3798,5 +3798,1757 @@
                 "name": "Greninja"
             }
         ]
+    },
+    {
+        "_id": 229,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 659,
+                "name": "Bunnelby"
+            },
+            {
+                "id": 660,
+                "name": "Diggersby"
+            }
+        ]
+    },
+    {
+        "_id": 230,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 661,
+                "name": "Fletchling"
+            },
+            {
+                "id": 662,
+                "name": "Fletchinder"
+            },
+            {
+                "id": 663,
+                "name": "Talonflame"
+            }
+        ]
+    },
+    {
+        "_id": 231,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 664,
+                "name": "Scatterbug"
+            },
+            {
+                "id": 665,
+                "name": "Spewpa"
+            },
+            {
+                "id": 666,
+                "name": "Vivillon"
+            }
+        ]
+    },
+    {
+        "_id": 232,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 667,
+                "name": "Litleo"
+            },
+            {
+                "id": 668,
+                "name": "Pyroar"
+            }
+        ]
+    },
+    {
+        "_id": 233,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 669,
+                "name": "Flabébé"
+            },
+            {
+                "id": 670,
+                "name": "Floette"
+            },
+            {
+                "id": 671,
+                "name": "Florges"
+            }
+        ]
+    },
+    {
+        "_id": 234,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 672,
+                "name": "Skiddo"
+            },
+            {
+                "id": 673,
+                "name": "Gogoat"
+            }
+        ]
+    },
+    {
+        "_id": 235,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 674,
+                "name": "Pancham"
+            },
+            {
+                "id": 675,
+                "name": "Pangoro"
+            }
+        ]
+    },
+    {
+        "_id": 236,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 677,
+                "name": "Espurr"
+            },
+            {
+                "id": 678,
+                "name": "Meowstic"
+            }
+        ]
+    },
+    {
+        "_id": 237,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 679,
+                "name": "Honedge"
+            },
+            {
+                "id": 680,
+                "name": "Doublade"
+            },
+            {
+                "id": 681,
+                "name": "Aegislash"
+            }
+        ]
+    },
+    {
+        "_id": 238,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 682,
+                "name": "Spritzee"
+            },
+            {
+                "id": 683,
+                "name": "Aromatisse"
+            }
+        ]
+    },
+    {
+        "_id": 239,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 684,
+                "name": "Swirlix"
+            },
+            {
+                "id": 685,
+                "name": "Slurpuff"
+            }
+        ]
+    },
+    {
+        "_id": 240,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 686,
+                "name": "Inkay"
+            },
+            {
+                "id": 687,
+                "name": "Malamar"
+            }
+        ]
+    },
+    {
+        "_id": 241,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 688,
+                "name": "Binacle"
+            },
+            {
+                "id": 689,
+                "name": "Barbaracle"
+            }
+        ]
+    },
+    {
+        "_id": 242,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 690,
+                "name": "Skrelp"
+            },
+            {
+                "id": 691,
+                "name": "Dragalge"
+            }
+        ]
+    },
+    {
+        "_id": 243,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 692,
+                "name": "Clauncher"
+            },
+            {
+                "id": 693,
+                "name": "Clawitzer"
+            }
+        ]
+    },
+    {
+        "_id": 244,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 694,
+                "name": "Helioptile"
+            },
+            {
+                "id": 695,
+                "name": "Heliolisk"
+            }
+        ]
+    },
+    {
+        "_id": 245,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 696,
+                "name": "Tyrunt"
+            },
+            {
+                "id": 697,
+                "name": "Tyrantrum"
+            }
+        ]
+    },
+    {
+        "_id": 246,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 698,
+                "name": "Amaura"
+            },
+            {
+                "id": 699,
+                "name": "Aurorus"
+            }
+        ]
+    },
+    {
+        "_id": 247,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 704,
+                "name": "Goomy"
+            },
+            {
+                "id": 705,
+                "name": "Sliggoo"
+            },
+            {
+                "id": 706,
+                "name": "Goodra"
+            },
+            {
+                "id": 705.1,
+                "name": "Hisuian Sliggoo"
+            },
+            {
+                "id": 706.1,
+                "name": "Hisuian Goodra"
+            }
+        ]
+    },
+    {
+        "_id": 248,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 708,
+                "name": "Phantump"
+            },
+            {
+                "id": 709,
+                "name": "Trevenant"
+            }
+        ]
+    },
+    {
+        "_id": 249,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 710,
+                "name": "Pumpkaboo"
+            },
+            {
+                "id": 711,
+                "name": "Gourgeist"
+            }
+        ]
+    },
+    {
+        "_id": 250,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 712,
+                "name": "Bergmite"
+            },
+            {
+                "id": 713,
+                "name": "Avalugg"
+            },
+            {
+                "id": 713.1,
+                "name": "Hisuian Avalugg"
+            }
+        ]
+    },
+    {
+        "_id": 251,
+        "generation": 6,
+        "pokemon": [
+            {
+                "id": 714,
+                "name": "Noibat"
+            },
+            {
+                "id": 715,
+                "name": "Noivern"
+            }
+        ]
+    },
+    {
+        "_id": 252,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 722,
+                "name": "Rowlet"
+            },
+            {
+                "id": 723,
+                "name": "Dartrix"
+            },
+            {
+                "id": 724,
+                "name": "Decidueye"
+            },
+            {
+                "id": 724.1,
+                "name": "Hisuian Decidueye"
+            }
+        ]
+    },
+    {
+        "_id": 253,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 725,
+                "name": "Litten"
+            },
+            {
+                "id": 726,
+                "name": "Torracat"
+            },
+            {
+                "id": 727,
+                "name": "Incineroar"
+            }
+        ]
+    },
+    {
+        "_id": 254,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 728,
+                "name": "Popplio"
+            },
+            {
+                "id": 729,
+                "name": "Brionne"
+            },
+            {
+                "id": 730,
+                "name": "Primarina"
+            }
+        ]
+    },
+    {
+        "_id": 255,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 731,
+                "name": "Pikipek"
+            },
+            {
+                "id": 732,
+                "name": "Trumbeak"
+            },
+            {
+                "id": 733,
+                "name": "Toucannon"
+            }
+        ]
+    },
+    {
+        "_id": 256,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 734,
+                "name": "Yungoos"
+            },
+            {
+                "id": 735,
+                "name": "Gumshoos"
+            }
+        ]
+    },
+    {
+        "_id": 257,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 736,
+                "name": "Grubbin"
+            },
+            {
+                "id": 737,
+                "name": "Charjabug"
+            },
+            {
+                "id": 738,
+                "name": "Vikavolt"
+            }
+        ]
+    },
+    {
+        "_id": 258,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 739,
+                "name": "Crabrawler"
+            },
+            {
+                "id": 740,
+                "name": "Crabominable"
+            }
+        ]
+    },
+    {
+        "_id": 259,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 742,
+                "name": "Cutiefly"
+            },
+            {
+                "id": 743,
+                "name": "Ribombee"
+            }
+        ]
+    },
+    {
+        "_id": 260,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 744,
+                "name": "Rockruff"
+            },
+            {
+                "id": 745,
+                "name": "Lycanroc"
+            },
+            {
+                "id": 745.1,
+                "name": "Dusk Form Lycanroc"
+            },
+            {
+                "id": 745.2,
+                "name": "Midnight Form Lycanroc"
+            }
+        ]
+    },
+    {
+        "_id": 261,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 747,
+                "name": "Mareanie"
+            },
+            {
+                "id": 748,
+                "name": "Toxapex"
+            }
+        ]
+    },
+    {
+        "_id": 262,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 749,
+                "name": "Mudbray"
+            },
+            {
+                "id": 750,
+                "name": "Mudsdale"
+            }
+        ]
+    },
+    {
+        "_id": 263,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 751,
+                "name": "Dewpider"
+            },
+            {
+                "id": 752,
+                "name": "Araquanid"
+            }
+        ]
+    },
+    {
+        "_id": 264,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 753,
+                "name": "Fomantis"
+            },
+            {
+                "id": 754,
+                "name": "Lurantis"
+            }
+        ]
+    },
+    {
+        "_id": 265,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 755,
+                "name": "Morelull"
+            },
+            {
+                "id": 756,
+                "name": "Shiinotic"
+            }
+        ]
+    },
+    {
+        "_id": 266,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 757,
+                "name": "Salandit"
+            },
+            {
+                "id": 758,
+                "name": "Salazzle"
+            }
+        ]
+    },
+    {
+        "_id": 267,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 759,
+                "name": "Stufful"
+            },
+            {
+                "id": 760,
+                "name": "Bewear"
+            }
+        ]
+    },
+    {
+        "_id": 268,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 761,
+                "name": "Bounsweet"
+            },
+            {
+                "id": 762,
+                "name": "Steenee"
+            },
+            {
+                "id": 763,
+                "name": "Tsareena"
+            }
+        ]
+    },
+    {
+        "_id": 269,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 767,
+                "name": "Wimpod"
+            },
+            {
+                "id": 768,
+                "name": "Golisopod"
+            }
+        ]
+    },
+    {
+        "_id": 270,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 769,
+                "name": "Sandygast"
+            },
+            {
+                "id": 770,
+                "name": "Palossand"
+            }
+        ]
+    },
+    {
+        "_id": 271,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 772,
+                "name": "Type: Null"
+            },
+            {
+                "id": 773,
+                "name": "Silvally"
+            }
+        ]
+    },
+    {
+        "_id": 272,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 782,
+                "name": "Jangmo-o"
+            },
+            {
+                "id": 783,
+                "name": "Hakamo-o"
+            },
+            {
+                "id": 784,
+                "name": "Kommo-o"
+            }
+        ]
+    },
+    {
+        "_id": 273,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 789,
+                "name": "Cosmog"
+            },
+            {
+                "id": 790,
+                "name": "Cosmoem"
+            },
+            {
+                "id": 791,
+                "name": "Solgaleo"
+            },
+            {
+                "id": 792,
+                "name": "Lunala"
+            }
+        ]
+    },
+    {
+        "_id": 274,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 803,
+                "name": "Poipole"
+            },
+            {
+                "id": 804,
+                "name": "Naganadel"
+            }
+        ]
+    },
+    {
+        "_id": 275,
+        "generation": 7,
+        "pokemon": [
+            {
+                "id": 808,
+                "name": "Meltan"
+            },
+            {
+                "id": 809,
+                "name": "Melmetal"
+            }
+        ]
+    },
+    {
+        "_id": 276,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 810,
+                "name": "Grookey"
+            },
+            {
+                "id": 811,
+                "name": "Thwackey"
+            },
+            {
+                "id": 812,
+                "name": "Rillaboom"
+            }
+        ]
+    },
+    {
+        "_id": 277,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 813,
+                "name": "Scorbunny"
+            },
+            {
+                "id": 814,
+                "name": "Raboot"
+            },
+            {
+                "id": 815,
+                "name": "Cinderace"
+            }
+        ]
+    },
+    {
+        "_id": 278,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 816,
+                "name": "Sobble"
+            },
+            {
+                "id": 817,
+                "name": "Drizzile"
+            },
+            {
+                "id": 818,
+                "name": "Inteleon"
+            }
+        ]
+    },
+    {
+        "_id": 279,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 819,
+                "name": "Skwovet"
+            },
+            {
+                "id": 820,
+                "name": "Greedent"
+            }
+        ]
+    },
+    {
+        "_id": 280,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 821,
+                "name": "Rookidee"
+            },
+            {
+                "id": 822,
+                "name": "Corvisquire"
+            },
+            {
+                "id": 823,
+                "name": "Corviknight"
+            }
+        ]
+    },
+    {
+        "_id": 281,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 824,
+                "name": "Blipbug"
+            },
+            {
+                "id": 825,
+                "name": "Dottler"
+            },
+            {
+                "id": 826,
+                "name": "Orbeetle"
+            }
+        ]
+    },
+    {
+        "_id": 282,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 827,
+                "name": "Nickit"
+            },
+            {
+                "id": 828,
+                "name": "Thievul"
+            }
+        ]
+    },
+    {
+        "_id": 283,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 829,
+                "name": "Gossifleur"
+            },
+            {
+                "id": 830,
+                "name": "Eldegoss"
+            }
+        ]
+    },
+    {
+        "_id": 284,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 831,
+                "name": "Wooloo"
+            },
+            {
+                "id": 832,
+                "name": "Dubwool"
+            }
+        ]
+    },
+    {
+        "_id": 285,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 833,
+                "name": "Chewtle"
+            },
+            {
+                "id": 834,
+                "name": "Drednaw"
+            }
+        ]
+    },
+    {
+        "_id": 286,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 835,
+                "name": "Yamper"
+            },
+            {
+                "id": 836,
+                "name": "Boltund"
+            }
+        ]
+    },
+    {
+        "_id": 287,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 837,
+                "name": "Rolycoly"
+            },
+            {
+                "id": 838,
+                "name": "Carkol"
+            },
+            {
+                "id": 839,
+                "name": "Coalossal"
+            }
+        ]
+    },
+    {
+        "_id": 288,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 840,
+                "name": "Applin"
+            },
+            {
+                "id": 841,
+                "name": "Flapple"
+            },
+            {
+                "id": 842,
+                "name": "Appletun"
+            },
+            {
+                "id": 1011,
+                "name": "Dipplin"
+            },
+            {
+                "id": 1019,
+                "name": "Hydrapple"
+            }
+        ]
+    },
+    {
+        "_id": 289,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 843,
+                "name": "Silicobra"
+            },
+            {
+                "id": 844,
+                "name": "Sandaconda"
+            }
+        ]
+    },
+    {
+        "_id": 290,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 846,
+                "name": "Arrokuda"
+            },
+            {
+                "id": 847,
+                "name": "Barraskewda"
+            }
+        ]
+    },
+    {
+        "_id": 291,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 848,
+                "name": "Toxel"
+            },
+            {
+                "id": 849,
+                "name": "Toxtricity"
+            },
+            {
+                "id": 849.1,
+                "name": "Low Key Toxtricity"
+            }
+        ]
+    },
+    {
+        "_id": 292,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 850,
+                "name": "Sizzlipede"
+            },
+            {
+                "id": 851,
+                "name": "Centiskorch"
+            }
+        ]
+    },
+    {
+        "_id": 293,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 852,
+                "name": "Clobbopus"
+            },
+            {
+                "id": 853,
+                "name": "Grapploct"
+            }
+        ]
+    },
+    {
+        "_id": 294,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 854,
+                "name": "Sinistea"
+            },
+            {
+                "id": 855,
+                "name": "Polteageist"
+            }
+        ]
+    },
+    {
+        "_id": 295,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 856,
+                "name": "Hatenna"
+            },
+            {
+                "id": 857,
+                "name": "Hattrem"
+            },
+            {
+                "id": 858,
+                "name": "Hatterene"
+            }
+        ]
+    },
+    {
+        "_id": 296,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 859,
+                "name": "Impidimp"
+            },
+            {
+                "id": 860,
+                "name": "Morgrem"
+            },
+            {
+                "id": 861,
+                "name": "Grimmsnarl"
+            }
+        ]
+    },
+    {
+        "_id": 297,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 222.1,
+                "name": "Galarion Form Corsola"
+            },
+            {
+                "id": 864,
+                "name": "Cursola"
+            }
+        ]
+    },
+    {
+        "_id": 298,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 83.1,
+                "name": "Galarian Farfetch'd"
+            },
+            {
+                "id": 865,
+                "name": "Sirfetch'd"
+            }
+        ]
+    },
+    {
+        "_id": 299,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 868,
+                "name": "Milcery"
+            },
+            {
+                "id": 869,
+                "name": "Alcremie"
+            }
+        ]
+    },
+    {
+        "_id": 300,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 872,
+                "name": "Snom"
+            },
+            {
+                "id": 873,
+                "name": "Frosmoth"
+            }
+        ]
+    },
+    {
+        "_id": 301,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 878,
+                "name": "Cufant"
+            },
+            {
+                "id": 879,
+                "name": "Copperajah"
+            }
+        ]
+    },
+    {
+        "_id": 302,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 884,
+                "name": "Dreepy"
+            },
+            {
+                "id": 885,
+                "name": "Drakloak"
+            },
+            {
+                "id": 886,
+                "name": "Dragapult"
+            }
+        ]
+    },
+    {
+        "_id": 303,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 891,
+                "name": "Kubfu"
+            },
+            {
+                "id": 892,
+                "name": "Urshifu"
+            },
+            {
+                "id": 892.1,
+                "name": "Urshifu Rapid Strike Style"
+            }
+        ]
+    },
+    {
+        "_id": 304,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 234,
+                "name": "Stantler"
+            },
+            {
+                "id": 925,
+                "name": "Wyrdeer"
+            }
+        ]
+    },
+    {
+        "_id": 305,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 550,
+                "name": "Basculin"
+            },
+            {
+                "id": 902,
+                "name": "Basculegion"
+            }
+        ]
+    },
+    {
+        "_id": 306,
+        "generation": 8,
+        "pokemon": [
+            {
+                "id": 211,
+                "name": "Qwilfish"
+            },
+            {
+                "id": 904,
+                "name": "Overqwil"
+            }
+        ]
+    },
+    {
+        "_id": 307,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 906,
+                "name": "Sprigatito"
+            },
+            {
+                "id": 907,
+                "name": "Floragato"
+            },
+            {
+                "id": 908,
+                "name": "Meowscarada"
+            }
+        ]
+    },
+    {
+        "_id": 308,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 909,
+                "name": "Fuecoco"
+            },
+            {
+                "id": 910,
+                "name": "Crocalor"
+            },
+            {
+                "id": 911,
+                "name": "Skeledirge"
+            }
+        ]
+    },
+    {
+        "_id": 309,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 912,
+                "name": "Quaxly"
+            },
+            {
+                "id": 913,
+                "name": "Quaxwell"
+            },
+            {
+                "id": 914,
+                "name": "Quaquaval"
+            }
+        ]
+    },
+    {
+        "_id": 310,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 915,
+                "name": "Lechonk"
+            },
+            {
+                "id": 916,
+                "name": "Oinkologne"
+            },
+            {
+                "id": 916.1,
+                "name": "Oinkologne (F)"
+            }
+        ]
+    },
+    {
+        "_id": 311,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 917,
+                "name": "Tarountula"
+            },
+            {
+                "id": 918,
+                "name": "Spidops"
+            }
+        ]
+    },
+    {
+        "_id": 312,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 919,
+                "name": "Nymble"
+            },
+            {
+                "id": 920,
+                "name": "Lokix"
+            }
+        ]
+    },
+    {
+        "_id": 313,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 921,
+                "name": "Pawmi"
+            },
+            {
+                "id": 922,
+                "name": "Pawmo"
+            },
+            {
+                "id": 923,
+                "name": "Pawmot"
+            }
+        ]
+    },
+    {
+        "_id": 314,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 924,
+                "name": "Tandemaus"
+            },
+            {
+                "id": 925,
+                "name": "Maushold"
+            },
+            {
+                "id": 925.1,
+                "name": "Maushold (TODO: some form)"
+            }
+        ]
+    },
+    {
+        "_id": 315,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 926,
+                "name": "Fidough"
+            },
+            {
+                "id": 927,
+                "name": "Dachsbun"
+            }
+        ]
+    },
+    {
+        "_id": 316,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 928,
+                "name": "Smoliv"
+            },
+            {
+                "id": 929,
+                "name": "Dolliv"
+            },
+            {
+                "id": 930,
+                "name": "Arboliva"
+            }
+        ]
+    },
+    {
+        "_id": 317,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 932,
+                "name": "Nacli"
+            },
+            {
+                "id": 933,
+                "name": "Naclstack"
+            },
+            {
+                "id": 934,
+                "name": "Garganacl"
+            }
+        ]
+    },
+    {
+        "_id": 318,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 935,
+                "name": "Charcadet"
+            },
+            {
+                "id": 936,
+                "name": "Armarouge"
+            },
+            {
+                "id": 937,
+                "name": "Ceruledge"
+            }
+        ]
+    },
+    {
+        "_id": 319,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 938,
+                "name": "Tadbulb"
+            },
+            {
+                "id": 939,
+                "name": "Bellibolt"
+            }
+        ]
+    },
+    {
+        "_id": 320,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 940,
+                "name": "Wattrel"
+            },
+            {
+                "id": 941,
+                "name": "Kilowattrel"
+            }
+        ]
+    },
+    {
+        "_id": 321,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 942,
+                "name": "Maschiff"
+            },
+            {
+                "id": 943,
+                "name": "Mabosstiff"
+            }
+        ]
+    },
+    {
+        "_id": 322,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 944,
+                "name": "Shroodle"
+            },
+            {
+                "id": 945,
+                "name": "Grafaiai"
+            }
+        ]
+    },
+    {
+        "_id": 323,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 946,
+                "name": "Bramblin"
+            },
+            {
+                "id": 947,
+                "name": "Brambleghast"
+            }
+        ]
+    },
+    {
+        "_id": 324,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 948,
+                "name": "Toedscool"
+            },
+            {
+                "id": 949,
+                "name": "Toedscruel"
+            }
+        ]
+    },
+    {
+        "_id": 325,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 951,
+                "name": "Capsakid"
+            },
+            {
+                "id": 952,
+                "name": "Scovillain"
+            }
+        ]
+    },
+    {
+        "_id": 326,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 953,
+                "name": "Rellor"
+            },
+            {
+                "id": 954,
+                "name": "Rabsca"
+            }
+        ]
+    },
+    {
+        "_id": 327,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 955,
+                "name": "Flittle"
+            },
+            {
+                "id": 956,
+                "name": "Espathra"
+            }
+        ]
+    },
+    {
+        "_id": 328,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 957,
+                "name": "Tinkatink"
+            },
+            {
+                "id": 958,
+                "name": "Tinkatuff"
+            },
+            {
+                "id": 959,
+                "name": "Tinkaton"
+            }
+        ]
+    },
+    {
+        "_id": 329,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 960,
+                "name": "Wiglett"
+            },
+            {
+                "id": 961,
+                "name": "Wugtrio"
+            }
+        ]
+    },
+    {
+        "_id": 330,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 963,
+                "name": "Finizen"
+            },
+            {
+                "id": 964,
+                "name": "Palafin"
+            }
+        ]
+    },
+    {
+        "_id": 331,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 965,
+                "name": "Varoom"
+            },
+            {
+                "id": 966,
+                "name": "Revavroom"
+            }
+        ]
+    },
+    {
+        "_id": 332,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 969,
+                "name": "Glimmet"
+            },
+            {
+                "id": 970,
+                "name": "Glimmora"
+            }
+        ]
+    },
+    {
+        "_id": 333,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 971,
+                "name": "Greavard"
+            },
+            {
+                "id": 972,
+                "name": "Houndstone"
+            }
+        ]
+    },
+    {
+        "_id": 334,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 974,
+                "name": "Cetoddle"
+            },
+            {
+                "id": 975,
+                "name": "Cetitan"
+            }
+        ]
+    },
+    {
+        "_id": 335,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 203,
+                "name": "Girafarig"
+            },
+            {
+                "id": 981,
+                "name": "Farigiraf"
+            }
+        ]
+    },
+    {
+        "_id": 336,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 206,
+                "name": "Dunsparce"
+            },
+            {
+                "id": 982,
+                "name": "Dudunsparce"
+            },
+            {
+                "id": 982.1,
+                "name": "Dudunsparce Three-Segment Form"
+            }
+        ]
+    },
+    {
+        "_id": 337,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 996,
+                "name": "Frigibax"
+            },
+            {
+                "id": 997,
+                "name": "Arctibax"
+            },
+            {
+                "id": 998,
+                "name": "Baxcalibur"
+            }
+        ]
+    },
+    {
+        "_id": 338,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 999,
+                "name": "Gimmighoul"
+            },
+            {
+                "id": 1000,
+                "name": "Gholdengo"
+            }
+        ]
+    },
+    {
+        "_id": 339,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 1012,
+                "name": "Polteageist"
+            },
+            {
+                "id": 1013,
+                "name": "Sinistcha"
+            }
+        ]
+    },
+    {
+        "_id": 340,
+        "generation": 9,
+        "pokemon": [
+            {
+                "id": 884,
+                "name": "Duraludon"
+            },
+            {
+                "id": 1018,
+                "name": "Archaludon"
+            }
+        ]
     }
 ]

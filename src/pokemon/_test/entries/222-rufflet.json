@@ -1,0 +1,27 @@
+{
+    "_id": 222,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 627,
+                "name": "Rufflet",
+                "type": ["Normal", "Flying"]
+            },
+            [
+                {
+                    "id": 628,
+                    "name": "Braviary",
+                    "type": ["Normal", "Flying"],
+					"how": "Level 54"
+                },
+                {
+                    "id": 628.1,
+                    "name": "Hisuian Braviary",
+                    "type": ["Psychic", "Flying"],
+					"how": "Level 54, in Hisui"
+                }
+            ]
+        ]
+    ]
+}

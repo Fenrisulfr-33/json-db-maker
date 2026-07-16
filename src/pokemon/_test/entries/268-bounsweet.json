@@ -1,0 +1,25 @@
+{
+    "_id": 268,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 761,
+                "name": "Bounsweet",
+                "type": ["Grass"]
+            },
+            {
+                "id": 762,
+                "name": "Steenee",
+                "type": ["Grass"],
+				"how": "Level 18"
+            },
+            {
+                "id": 763,
+                "name": "Tsareena",
+                "type": ["Grass"],
+				"how": "Level up after Stomp learned"
+            }
+        ]
+    ]
+}

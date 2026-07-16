@@ -1,0 +1,19 @@
+{
+    "_id": 20,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 48,
+                "name": "Venonat",
+                "type": ["Bug", "Poison"]
+            },
+            {
+                "id": 49,
+                "name": "Venomoth",
+                "type": ["Bug", "Poison"],
+				"how": "Level 31"
+            }
+        ]
+    ]
+}

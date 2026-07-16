@@ -1,0 +1,19 @@
+{
+    "_id": 327,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 955,
+                "name": "Flittle",
+                "type": ["Psychic"]
+            },
+            {
+                "id": 956,
+                "name": "Espathra",
+                "type": ["Psychic"],
+				"how": "Level 35"
+            }
+        ]
+    ]
+}

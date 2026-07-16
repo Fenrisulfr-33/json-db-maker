@@ -1,0 +1,31 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+		"title": "PokemonGenerationEntry",
+			"type": "object",
+				"properties": {
+		"_id": {
+			"type": "integer"
+		},
+		"generation": {
+			"type": "integer"
+		},
+		"pokemon": {
+			"type": "array",
+				"items": {
+				"type": "object",
+					"properties": {
+					"id": {
+						"type": "number"
+					},
+					"name": {
+						"type": "string"
+					}
+				},
+				"required": ["id", "name"],
+					"additionalProperties": false
+			}
+		}
+	},
+	"required": ["_id", "generation", "pokemon"],
+		"additionalProperties": false
+}

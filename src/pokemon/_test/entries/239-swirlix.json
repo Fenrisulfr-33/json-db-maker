@@ -1,0 +1,19 @@
+{
+    "_id": 239,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 684,
+                "name": "Swirlix",
+                "type": ["Fairy"]
+            },
+            {
+                "id": 685,
+                "name": "Slurpuff",
+                "type": ["Fairy"],
+				"how": "Trade while holding a Whipped Dream"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 40,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 96,
+                "name": "Drowzee",
+                "type": ["Psychic"]
+            },
+            {
+                "id": 97,
+                "name": "Hypno",
+                "type": ["Psychic"],
+				"how": "Level 26"
+            }
+        ]
+    ]
+}

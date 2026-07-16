@@ -1,0 +1,28 @@
+{
+    "_id": 191,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 548,
+                "name": "Petilil",
+                "type": ["Grass"]
+            },
+            [
+                {
+                    "id": 549,
+                    "name": "Lilligant",
+                    "type": ["Grass"],
+					"how": "Use Sun Stone"
+                },
+                {
+                    "id": 549.1,
+                    "name": "Lilligant",
+                    "type": ["Grass", "Fighting"],
+                    "how": "Use Sun Stone, in Hisui",
+                    "form": "Hisuian Lilligant"
+                }
+            ]
+        ]
+    ]
+}

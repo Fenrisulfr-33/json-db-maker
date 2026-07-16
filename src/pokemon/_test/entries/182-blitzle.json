@@ -1,0 +1,19 @@
+{
+    "_id": 182,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 522,
+                "name": "Blitzle",
+                "type": ["Electric"]
+            },
+            {
+                "id": 523,
+                "name": "Zebstrika",
+                "type": ["Electric"],
+				"how": "Level 27"
+            }
+        ]
+    ]
+}

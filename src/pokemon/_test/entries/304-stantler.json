@@ -1,0 +1,19 @@
+{
+    "_id": 304,
+    "generation": 8,
+    "evolution": [
+        [
+            {
+                "id": 234,
+                "name": "Stantler",
+                "type": ["Normal"]
+            },
+            {
+                "id": 925,
+                "name": "Wyrdeer",
+                "type": ["Normal", "Psychic"],
+				"how": "Use Psyshield Bash 20 times in Agile Style"
+            }
+        ]
+    ]
+}

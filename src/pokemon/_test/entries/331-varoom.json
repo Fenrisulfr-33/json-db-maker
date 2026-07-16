@@ -1,0 +1,19 @@
+{
+    "_id": 331,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 965,
+                "name": "Varoom",
+                "type": ["Steel", "Poison"]
+            },
+            {
+                "id": 966,
+                "name": "Revavroom",
+                "type": ["Steel", "Poison"],
+				"how": "Level 40"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 269,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 767,
+                "name": "Wimpod",
+                "type": ["Bug", "Water"]
+            },
+            {
+                "id": 768,
+                "name": "Golisopod",
+                "type": ["Bug", "Water"],
+				"how": "Level 30"
+            }
+        ]
+    ]
+}

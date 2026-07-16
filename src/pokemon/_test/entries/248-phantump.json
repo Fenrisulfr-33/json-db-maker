@@ -1,0 +1,19 @@
+{
+    "_id": 248,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 708,
+                "name": "Phantump",
+                "type": ["Ghost", "Grass"]
+            },
+            {
+                "id": 709,
+                "name": "Trevenant",
+                "type": ["Ghost", "Grass"],
+				"how": "Trade"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 217,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 613,
+                "name": "Cubchoo",
+                "type": ["Ice"]
+            },
+            {
+                "id": 614,
+                "name": "Beartic",
+                "type": ["Ice"],
+				"how": "Level 37"
+            }
+        ]
+    ]
+}

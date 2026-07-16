@@ -1,0 +1,25 @@
+{
+    "_id": 65,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 179,
+                "name": "Mareep",
+                "type": ["Electric"]
+            },
+            {
+                "id": 180,
+                "name": "Flaaffy",
+                "type": ["Electric"],
+				"how": "Level 15"
+            },
+            {
+                "id": 181,
+                "name": "Ampharos",
+                "type": ["Electric"],
+				"how": "Level 30"
+            }
+        ]
+    ]
+}

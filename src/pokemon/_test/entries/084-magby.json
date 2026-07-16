@@ -1,0 +1,25 @@
+{
+    "_id": 84,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 240,
+                "name": "Magby",
+                "type": ["Fire"]
+            },
+            {
+                "id": 126,
+                "name": "Magmar",
+                "type": ["Fire"],
+				"how": "Level 30"
+            },
+            {
+                "id": 467,
+                "name": "Magmortar",
+                "type": ["Fire"],
+				"how": "Trade while holding Magmarizer"
+            }
+        ]
+    ]
+}

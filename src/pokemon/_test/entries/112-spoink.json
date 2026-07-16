@@ -1,0 +1,19 @@
+{
+    "_id": 112,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 325,
+                "name": "Spoink",
+                "type": ["Psychic"]
+            },
+            {
+                "id": 326,
+                "name": "Grumpig",
+                "type": ["Psychic"],
+				"how": "Level 32"
+            }
+        ]
+    ]
+}

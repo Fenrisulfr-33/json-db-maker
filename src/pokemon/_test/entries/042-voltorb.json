@@ -1,0 +1,34 @@
+{
+    "_id": 42,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 100,
+                "name": "Voltorb",
+                "type": ["Electric"]
+            },
+            {
+                "id": 101,
+                "name": "Electrode",
+                "type": ["Electric"],
+				"how": "Level 30"
+            }
+        ],
+		[
+			{
+				"id": 100.1,
+				"name": "Voltorb",
+				"type": ["Electric", "Grass"],
+				"form": "Hisuian Voltorb"
+			},
+			{
+				"id": 101,
+				"name": "Electrode",
+				"type": ["Electric", "Grass"],
+				"how": "Use Leaf Stone",
+				"form": "Hisuian Electrode"
+			}
+		]
+    ]
+}

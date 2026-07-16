@@ -1,0 +1,25 @@
+{
+    "_id": 14,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 173,
+                "name": "Cleffa",
+                "type": ["Fairy"]
+            },
+            {
+                "id": 35,
+                "name": "Clefairy",
+                "type": ["Fairy"],
+				"how": "High Friendship"
+            },
+            {
+                "id": 36,
+                "name": "Clefable",
+                "type": ["Fairy"],
+				"how": "Use Moon Stone"
+            }
+        ]
+    ]
+}

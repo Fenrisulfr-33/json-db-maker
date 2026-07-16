@@ -1,0 +1,19 @@
+{
+    "_id": 77,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 223,
+                "name": "Remoraid",
+                "type": ["Water"]
+            },
+            {
+                "id": 224,
+                "name": "Octillery",
+                "type": ["Water"],
+				"how": "Level 25"
+            }
+        ]
+    ]
+}

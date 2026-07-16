@@ -1,0 +1,19 @@
+{
+    "_id": 107,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 309,
+                "name": "Electrike",
+                "type": ["Electric"]
+            },
+            {
+                "id": 310,
+                "name": "Manectric",
+                "type": ["Electric"],
+				"how": "Level 26"
+            }
+        ]
+    ]
+}

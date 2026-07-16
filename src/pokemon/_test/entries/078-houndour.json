@@ -1,0 +1,19 @@
+{
+    "_id": 78,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 228,
+                "name": "Houndour",
+                "type": ["Dark", "Fire"]
+            },
+            {
+                "id": 229,
+                "name": "Houndoom",
+                "type": ["Dark", "Fire"],
+				"how": "Level 24"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 220,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 622,
+                "name": "Golett",
+                "type": ["Ground", "Ghost"]
+            },
+            {
+                "id": 623,
+                "name": "Golurk",
+                "type": ["Ground", "Ghost"],
+				"how": "Level 43"
+            }
+        ]
+    ]
+}

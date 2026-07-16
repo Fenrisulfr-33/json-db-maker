@@ -1,0 +1,25 @@
+{
+    "_id": 316,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 928,
+                "name": "Smoliv",
+                "type": ["Grass", "Normal"]
+            },
+            {
+                "id": 929,
+                "name": "Dolliv",
+                "type": ["Grass", "Normal"],
+				"how": "Level 25"
+            },
+            {
+                "id": 930,
+                "name": "Arboliva",
+                "type": ["Grass", "Normal"],
+				"how": "Level 35"
+            }
+        ]
+    ]
+}

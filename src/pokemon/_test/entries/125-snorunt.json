@@ -1,0 +1,27 @@
+{
+    "_id": 125,
+    "generation": 3,
+    "evolution": [
+        [
+            {
+                "id": 361,
+                "name": "Snorunt",
+                "type": ["Ice"]
+            },
+            [
+                {
+                    "id": 362,
+                    "name": "Glalie",
+                    "type": ["Ice"],
+                    "how": "Level 42"
+                },
+                {
+                    "id": 478,
+                    "name": "Froslass",
+                    "type": ["Ice", "Ghost"],
+                    "how": "Use Dawn Stone on female Snorunt"
+                }
+            ]
+        ]
+    ]
+}

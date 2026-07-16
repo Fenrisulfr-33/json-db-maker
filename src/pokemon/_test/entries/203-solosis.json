@@ -1,0 +1,25 @@
+{
+    "_id": 203,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 577,
+                "name": "Solosis",
+                "type": ["Psychic"]
+            },
+            {
+                "id": 578,
+                "name": "Duosion",
+                "type": ["Psychic"],
+				"how": "Level 32"
+            },
+            {
+                "id": 579,
+                "name": "Reuniclus",
+                "type": ["Psychic"],
+				"how": "Level 41"
+            }
+        ]
+    ]
+}

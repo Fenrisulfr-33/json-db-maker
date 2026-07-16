@@ -1,0 +1,25 @@
+{
+    "_id": 237,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 679,
+                "name": "Honedge",
+                "type": ["Steel", "Ghost"]
+            },
+            {
+                "id": 680,
+                "name": "Doublade",
+                "type": ["Steel", "Ghost"],
+				"how": "Level 35"
+            },
+            {
+                "id": 681,
+                "name": "Aegislash",
+                "type": ["Steel", "Ghost"],
+				"how": "Use Dusk Stone"
+            }
+        ]
+    ]
+}

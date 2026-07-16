@@ -1,0 +1,19 @@
+{
+    "_id": 332,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 969,
+                "name": "Glimmet",
+                "type": ["Rock", "Poison"]
+            },
+            {
+                "id": 970,
+                "name": "Glimmora",
+                "type": ["Rock", "Poison"],
+				"how": "Level 38"
+            }
+        ]
+    ]
+}

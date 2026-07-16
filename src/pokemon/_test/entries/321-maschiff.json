@@ -1,0 +1,19 @@
+{
+    "_id": 321,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 942,
+                "name": "Maschiff",
+                "type": ["Dark"]
+            },
+            {
+                "id": 943,
+                "name": "Mabosstiff",
+                "type": ["Dark"],
+				"how": "Level 30"
+            }
+        ]
+    ]
+}

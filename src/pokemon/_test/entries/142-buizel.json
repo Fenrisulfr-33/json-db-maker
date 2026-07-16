@@ -1,0 +1,19 @@
+{
+    "_id": 142,
+    "generation": 4,
+    "evolution": [
+        [
+            {
+                "id": 418,
+                "name": "Buizel",
+                "type": ["Water"]
+            },
+            {
+                "id": 419,
+                "name": "Floatzel",
+                "type": ["Water"],
+				"how": "Level 26"
+            }
+        ]
+    ]
+}

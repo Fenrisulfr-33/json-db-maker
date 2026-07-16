@@ -1,0 +1,19 @@
+{
+    "_id": 190,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 546,
+                "name": "Cottonee",
+                "type": ["Grass", "Fairy"]
+            },
+            {
+                "id": 547,
+                "name": "Whimsicott",
+                "type": ["Grass", "Fairy"],
+				"how": "Use Sun Stone"
+            }
+        ]
+    ]
+}

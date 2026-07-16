@@ -1,0 +1,25 @@
+{
+    "_id": 73,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 123,
+                "name": "Scyther",
+                "type": ["Bug", "Flying"]
+            },
+            {
+                "id": 212,
+                "name": "Scizor",
+                "type": ["Bug", "Steel"],
+				"how": "Trade holding Metal Coat"
+            },
+            {
+                "id": 900,
+                "name": "Kleavor",
+                "type": ["Bug", "Rock"],
+				"how": "Use Black Augurite"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 330,
+    "generation": 9,
+    "evolution": [
+        [
+            {
+                "id": 963,
+                "name": "Finizen",
+                "type": ["Water"]
+            },
+            {
+                "id": 964,
+                "name": "Palafin",
+                "type": ["Water"],
+				"how": "Level 38, while in multiplayer"
+            }
+        ]
+    ]
+}

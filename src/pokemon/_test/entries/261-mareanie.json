@@ -1,0 +1,19 @@
+{
+    "_id": 261,
+    "generation": 7,
+    "evolution": [
+        [
+            {
+                "id": 747,
+                "name": "Mareanie",
+                "type": ["Poison", "Water"]
+            },
+            {
+                "id": 748,
+                "name": "Toxapex",
+                "type": ["Poison", "Water"],
+				"how": "Level 38"
+            }
+        ]
+    ]
+}

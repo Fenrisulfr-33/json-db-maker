@@ -1,0 +1,25 @@
+{
+    "_id": 213,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 602,
+                "name": "Tynamo",
+                "type": ["Electric"]
+            },
+            {
+                "id": 603,
+                "name": "Eelektrik",
+                "type": ["Electric"],
+				"how": "Level 39"
+            },
+            {
+                "id": 604,
+                "name": "Eelektross",
+                "type": ["Electric"],
+				"how": "Use Thunder Stone"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 35,
+    "generation": 1,
+    "evolution": [
+        [
+            {
+                "id": 84,
+                "name": "Doduo",
+                "type": ["Normal", "Flying"]
+            },
+            {
+                "id": 85,
+                "name": "Dodrio",
+                "type": ["Normal", "Flying"],
+				"how": "Level 31"
+            }
+        ]
+    ]
+}

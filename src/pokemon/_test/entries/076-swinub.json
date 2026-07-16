@@ -1,0 +1,25 @@
+{
+    "_id": 76,
+    "generation": 2,
+    "evolution": [
+        [
+            {
+                "id": 220,
+                "name": "Swinub",
+                "type": ["Ice", "Ground"]
+            },
+            {
+                "id": 221,
+                "name": "Piloswine",
+                "type": ["Ice", "Ground"],
+				"how": "Level 33"
+            },
+            {
+                "id": 473,
+                "name": "Mamoswine",
+                "type": ["Ice", "Ground"],
+				"how": "Level up while knowing Ancient Power"
+            }
+        ]
+    ]
+}

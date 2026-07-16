@@ -1,0 +1,19 @@
+{
+    "_id": 234,
+    "generation": 6,
+    "evolution": [
+        [
+            {
+                "id": 672,
+                "name": "Skiddo",
+                "type": ["Grass"]
+            },
+            {
+                "id": 673,
+                "name": "Gogoat",
+                "type": ["Grass"],
+				"how": "Level 32"
+            }
+        ]
+    ]
+}

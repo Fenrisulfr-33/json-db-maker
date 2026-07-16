@@ -1,0 +1,19 @@
+{
+    "_id": 223,
+    "generation": 5,
+    "evolution": [
+        [
+            {
+                "id": 629,
+                "name": "Vullaby",
+                "type": ["Dark", "Flying"]
+            },
+            {
+                "id": 630,
+                "name": "Mandibuzz",
+                "type": ["Dark", "Flying"],
+				"how": "Level 54"
+            }
+        ]
+    ]
+}
