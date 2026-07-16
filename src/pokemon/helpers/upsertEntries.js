@@ -1,7 +1,8 @@
-require("dotenv").config();
+import dotenv from "dotenv";
+import upsertMany from "./upsertToMongo.js";
+import resolveMongoUri from "./resolveMongoUri.js";
 
-const upsertMany = require("./upsertToMongo");
-const resolveMongoUri = require("./resolveMongoUri");
+dotenv.config();
 
 /**
  * Upserts a list of entries into the given db/collection for the given environment.
@@ -16,4 +17,4 @@ async function upsertEntries({ environment = "dev", dbName, collectionName, entr
 	return upsertMany(uri, dbName, collectionName, entries);
 }
 
-module.exports = upsertEntries;
+export default upsertEntries;

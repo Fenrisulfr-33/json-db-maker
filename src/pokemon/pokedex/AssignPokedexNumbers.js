@@ -1,4 +1,4 @@
-const path = require('path');
+import readJson from '../../genericFunctions/files/readJson.js';
 
 // Configuration: maps file names to game identifiers
 const DEX_CONFIG = [
@@ -49,7 +49,7 @@ function assignPokemonPokedexNumbers(pokemon) {
 
 // Load and structure all pokedexes once
 const pokedexesByGame = DEX_CONFIG.flatMap(({ file, games }) => {
-  const dex = require(`./dexes/dexes_objects/${file}.json`);
+  const dex = readJson(`./dexes/dexes_objects/${file}.json`, import.meta.url);
   return games.map(game => ({ game, dex }));
 });
 
@@ -78,4 +78,4 @@ function createPokedexNumberMap(pokemon, existingNumbers = {}) {
 }
 
 
-module.exports = assignPokemonPokedexNumbers;
+export default assignPokemonPokedexNumbers;

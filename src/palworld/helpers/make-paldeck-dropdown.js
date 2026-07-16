@@ -1,5 +1,7 @@
-const paldeck = require("./2024-02-02-paldeck.json");
-const { saveDataJSON } = require('./helperfunctions');
+import readJson from "../../genericFunctions/files/readJson.js";
+import { saveDataJSON } from './helperfunctions.js';
+
+const paldeck = readJson("./2024-02-02-paldeck.json", import.meta.url);
 
 const palDropdownList = paldeck.map((pal) => {
   return {

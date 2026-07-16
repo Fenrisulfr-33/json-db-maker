@@ -1,5 +1,5 @@
-const fs = require("fs");
-const { join } = require("path");
+import fs from "fs";
+import { join } from "path";
 
 const reformatPalObjectForJoin = (pal) => {
   return {
@@ -118,7 +118,7 @@ const convertStringToLowercaseJoined = (string) => {
   return joinedString;
 };
 
-module.exports = {
+export {
   reformatPalObjectForJoin,
   reformatPalObjectForSplit,
   reformatPalBreedingObjToArray,

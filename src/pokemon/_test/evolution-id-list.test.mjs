@@ -1,4 +1,6 @@
-const data = require('./evolution-id-list.json');
+import readJson from '../../genericFunctions/files/readJson.js';
+
+const data = readJson('./evolution-id-list.json', import.meta.url);
 
 describe('evolution-id-list', () => {
     test('has exactly 1025 pokemon', () => {

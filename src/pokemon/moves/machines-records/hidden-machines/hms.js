@@ -78,7 +78,7 @@ const omegaRubyAlphaSapphireHMs = {
 	dive: 7,
 };
 
-module.exports = {
+export {
 	redBlueYellowHMs,
 	goldSilverCrystalHMs,
 	rubySapphireEmeraldHMs,

@@ -4,8 +4,8 @@
  * Helper functions for working with directories and files
  */
 
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 /**
  * Get all files in a directory
@@ -110,7 +110,7 @@ function getFileInfo(dirPath, options = {}) {
   });
 }
 
-module.exports = {
+export {
   getFilesInDirectory,
   forEachFile,
   mapFiles,

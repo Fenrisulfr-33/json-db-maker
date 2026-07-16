@@ -1,5 +1,9 @@
-const path = require("path");
-const loopThroughJsonFiles = require("./folderLoop");
+import path from "path";
+import { fileURLToPath } from "url";
+import loopThroughJsonFiles from "./folderLoop.js";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const MOVES_FOLDER = path.join(__dirname, "entries");
 const FILENAME_PATTERN = /^(\d+)-/;

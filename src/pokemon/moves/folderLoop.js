@@ -3,8 +3,8 @@
  * callback(jsonData, filename) for each one.
  */
 
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
 
 const loopThroughJsonFiles = (folderPath, callback) => {
 	if (!fs.existsSync(folderPath)) {
@@ -23,4 +23,4 @@ const loopThroughJsonFiles = (folderPath, callback) => {
 	});
 };
 
-module.exports = loopThroughJsonFiles;
+export default loopThroughJsonFiles;

@@ -1,6 +1,8 @@
-const breedingList = require("./palworld-breeding.json");
-const paldeck = require('./2024-02-02-paldeck.json');
-const { saveDataJSON } = require('./helperfunctions');
+import readJson from "../../genericFunctions/files/readJson.js";
+import { saveDataJSON } from './helperfunctions.js';
+
+const breedingList = readJson("./palworld-breeding.json", import.meta.url);
+const paldeck = readJson('./2024-02-02-paldeck.json', import.meta.url);
 
 const findPalInPaldeckByName = (paldex, findPalName) => {
   const foundPal = paldex.find((pal) => pal.name === findPalName);

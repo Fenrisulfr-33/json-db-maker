@@ -1198,4 +1198,4 @@ const frostRotom = {
     },
   },
 };
-module.exports = frostRotom;
+export default frostRotom;

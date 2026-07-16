@@ -1,13 +1,22 @@
-const pokemonPath = require("path").join(__dirname, "./pokemon-data/pokedex");
-const saveFile = require("./helperFunctions/saveFile");
-const addMovesToPokemon = require("./helperFunctions/addMovesToPokemon.js");
-const replaceWrongMoveNames = require("./helperFunctions/replaceWrongMoveNames.js");
-const assignPokemonPokedexNumbers = require("./helperFunctions/assignPokedexNumbers.js");
-const addGameDropDownToPokemon = require("./helperFunctions/addGameDropDownToPokemon.js");
-const addFormsTabToPokemon = require('./helperFunctions/addFormsTabToPokemon.js');
-// const addEvolutionObjectToPokemon = require('./helperFunctions/addEvolutionObjectToPokemon.js');
-// const assignEvolutionKeys = require('./helperFunctions/assignEvolutionKeys.js');
-const { returnPokemonModel, returnPokemonMovesModel } = require('./helperFunctions/returnObjectModels.js');
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+import { createRequire } from "module";
+import saveFile from "./helperFunctions/saveFile.js";
+import addMovesToPokemon from "./helperFunctions/addMovesToPokemon.js";
+import replaceWrongMoveNames from "./helperFunctions/replaceWrongMoveNames.js";
+import assignPokemonPokedexNumbers from "./helperFunctions/assignPokedexNumbers.js";
+import addGameDropDownToPokemon from "./helperFunctions/addGameDropDownToPokemon.js";
+import addFormsTabToPokemon from './helperFunctions/addFormsTabToPokemon.js';
+// import addEvolutionObjectToPokemon from './helperFunctions/addEvolutionObjectToPokemon.js';
+// import assignEvolutionKeys from './helperFunctions/assignEvolutionKeys.js';
+import { returnPokemonModel, returnPokemonMovesModel } from './helperFunctions/returnObjectModels.js';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const require = createRequire(import.meta.url);
+
+const pokemonPath = path.join(__dirname, "./pokemon-data/pokedex");
 
 /**
  * Read all files from a directory and process them
@@ -17,8 +26,6 @@ const { returnPokemonModel, returnPokemonMovesModel } = require('./helperFunctio
  */
 function FilesAsArrayList(directoryPath, processingFunction) {
     const files = [];
-    const fs = require("fs");
-    const path = require("path");
 
     fs.readdirSync(directoryPath).forEach(function (file) {
         const fullPath = path.join(directoryPath, file);
@@ -42,8 +49,6 @@ function FilesAsArrayList(directoryPath, processingFunction) {
  * @returns {object} Object with count of processed files and any errors
  */
 function UpdateFilesInPlace(directoryPath, processingFunction) {
-    const fs = require("fs");
-    const path = require("path");
     let processedCount = 0;
     const errors = [];
 
@@ -82,7 +87,7 @@ function UpdateFilesInPlace(directoryPath, processingFunction) {
 
 const errors = {};
 
-module.exports = { 
+export {
     FilesAsArrayList,
     UpdateFilesInPlace
 };

@@ -1,11 +1,12 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
+import axios from "axios";
+import cheerio from "cheerio";
 // const pokedex = require("../07-jsons/07-pokedex.json");
-const fs = require("fs");
+import fs from "fs";
 // const dex = require("../../data/scarlet_violet");
 // const newPokemonArray = []; // this will be the final array that gets converted to the new json object
+import readJson from "../../genericFunctions/files/readJson.js";
 
-const pokemonDatabaseURLNames = require("./pokemonDatabaseURLNames.json");
+const pokemonDatabaseURLNames = readJson("./pokemonDatabaseURLNames.json", import.meta.url);
 
 function isSame(str1, str2) {
 	return str1.toLowerCase() === str2.toLowerCase();
@@ -909,7 +910,7 @@ function printTitleAndData(title, data) {
 
 testFunction();
 
-module.exports = {
+export {
 	formatHeading,
 	parseAbilities,
 };

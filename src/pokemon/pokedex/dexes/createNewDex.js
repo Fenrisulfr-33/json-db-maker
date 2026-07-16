@@ -13,6 +13,13 @@
  * The new dex file will be created in the dexes_objects folder
  */
 
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const args = process.argv.slice(2);
 
 if (args.length !== 2) {
@@ -27,9 +34,6 @@ if (isNaN(args[1])) {
 
 const [dexName, sizeStr] = args;
 const size = parseInt(sizeStr, 10);
-
-const fs = require('fs');
-const path = require('path');
 
 const newDex = [];
 

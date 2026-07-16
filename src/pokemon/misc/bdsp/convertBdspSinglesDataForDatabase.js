@@ -1,6 +1,8 @@
-const singlesTrainerData = require("./bdspSinglesBattleTowerTrainers.json");
-const { pokedex } = require('../../../constants');
-const saveFile = require('../../helperFunctions/saveFile');
+import readJson from '../../../genericFunctions/files/readJson.js';
+import { pokedex } from '../../../constants.js';
+import saveFile from '../../helperFunctions/saveFile.js';
+
+const singlesTrainerData = readJson("./bdspSinglesBattleTowerTrainers.json", import.meta.url);
 
 function main() {
   const detailedSinglesTrainerData = singlesTrainerData.map((trainer) => {

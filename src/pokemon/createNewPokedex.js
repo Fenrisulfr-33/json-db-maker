@@ -1,18 +1,27 @@
-const pokemonPath = require("path").join(__dirname, "./pokemon-data/pokedex");
-const saveFile = require("./helperFunctions/saveFile");
-const addMovesToPokemon = require("./helperFunctions/addMovesToPokemon.js");
-const replaceWrongMoveNames = require("./helperFunctions/replaceWrongMoveNames.js");
-const assignPokemonPokedexNumbers = require("./helperFunctions/assignPokedexNumbers.js");
-const addGameDropDownToPokemon = require("./helperFunctions/addGameDropDownToPokemon.js");
-const addFormsTabToPokemon = require('./helperFunctions/addFormsTabToPokemon.js');
-// const addEvolutionObjectToPokemon = require('./helperFunctions/addEvolutionObjectToPokemon.js');
-// const assignEvolutionKeys = require('./helperFunctions/assignEvolutionKeys.js');
-const { returnPokemonModel, returnPokemonMovesModel } = require('./helperFunctions/returnObjectModels.js');
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+import { createRequire } from "module";
+import saveFile from "./helperFunctions/saveFile.js";
+import addMovesToPokemon from "./helperFunctions/addMovesToPokemon.js";
+import replaceWrongMoveNames from "./helperFunctions/replaceWrongMoveNames.js";
+import assignPokemonPokedexNumbers from "./helperFunctions/assignPokedexNumbers.js";
+import addGameDropDownToPokemon from "./helperFunctions/addGameDropDownToPokemon.js";
+import addFormsTabToPokemon from './helperFunctions/addFormsTabToPokemon.js';
+// import addEvolutionObjectToPokemon from './helperFunctions/addEvolutionObjectToPokemon.js';
+// import assignEvolutionKeys from './helperFunctions/assignEvolutionKeys.js';
+import { returnPokemonModel, returnPokemonMovesModel } from './helperFunctions/returnObjectModels.js';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const require = createRequire(import.meta.url);
+
+const pokemonPath = path.join(__dirname, "./pokemon-data/pokedex");
 
 const pokedexFinal = [];
 const errors = {};
 
-require("fs")
+fs
     .readdirSync(pokemonPath)
     .forEach(function (file) {
         const pokemon = require(`./pokemon-data/pokedex/${file}`);

@@ -8,11 +8,17 @@
  *   node updateNationalPokedex.js
  */
 
-const fs = require('fs');
-const path = require('path');
-const { forEachFile } = require('./fileUtils');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { forEachFile } from './fileUtils.js';
+import readJson from '../../genericFunctions/files/readJson.js';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const NATIONAL_DIR = path.join(__dirname, '../','pokedex', 'national');
-const sunMoonDex = require('../pokedex/dexes/dexes_objects/14-sun-moon-alola.json')
+const sunMoonDex = readJson('../pokedex/dexes/dexes_objects/14-sun-moon-alola.json', import.meta.url);
 
 function doesPokemonExistInSunMoon(pokemonId) {
     return sunMoonDex.find(p => p.pokemonId === pokemonId);

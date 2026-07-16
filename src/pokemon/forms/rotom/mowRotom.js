@@ -1198,4 +1198,4 @@ const mowRotom = {
     },
   },
 };
-module.exports = mowRotom;
+export default mowRotom;

@@ -1,6 +1,8 @@
-const { MongoClient } = require("mongodb");
-const paldeck = require("./2024-02-02-paldeck.json");
-const { PALWOLRD_URI } = require("./CONSTANTS");
+import { MongoClient } from "mongodb";
+import readJson from "../../genericFunctions/files/readJson.js";
+import { PALWOLRD_URI } from "./CONSTANTS.js";
+
+const paldeck = readJson("./2024-02-02-paldeck.json", import.meta.url);
 const client = new MongoClient(PALWOLRD_URI);
 
 const replaceInsertPalToDB = async () => {

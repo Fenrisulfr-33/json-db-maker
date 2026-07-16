@@ -1,6 +1,11 @@
-const path = require("path");
+import path from "path";
+import { fileURLToPath } from "url";
+import dotenv from "dotenv";
 
-require("dotenv").config({ path: path.resolve(__dirname, "../../../.env") });
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+dotenv.config({ path: path.resolve(__dirname, "../../../.env") });
 
 const VALID_ENVIRONMENTS = ["dev", "test", "prod"];
 
@@ -27,4 +32,4 @@ function resolveMongoUri(environment = "dev") {
 	return uri;
 }
 
-module.exports = resolveMongoUri;
+export default resolveMongoUri;

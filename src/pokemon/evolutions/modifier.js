@@ -10,7 +10,7 @@
  *   and the evolution ids need to be increased by one to fix the issue.
  */
 
-const saveFile = require("../genericFunctions/files/saveFile.js");
+import saveFile from "../genericFunctions/files/saveFile.js";
 
 // Loop through the entries folder
 

@@ -9,8 +9,9 @@
  *   node validate-ids.js path/to/entries
  */
 
-const fs = require("fs");
-const path = require("path");
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
 const FILENAME_PATTERN = /^(\d+)-/;
 
@@ -117,7 +118,7 @@ function printReport(results) {
 	return totalIssues;
 }
 
-if (require.main === module) {
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
 	const folder = process.argv[2];
 	if (!folder) {
 		console.log("Usage: node validate-ids.js path/to/entries");
@@ -129,4 +130,4 @@ if (require.main === module) {
 	process.exit(totalIssues === 0 ? 0 : 1);
 }
 
-module.exports = { validateFolder, printReport };
+export { validateFolder, printReport };

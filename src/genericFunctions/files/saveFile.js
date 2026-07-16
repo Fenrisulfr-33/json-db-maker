@@ -1,4 +1,4 @@
-const fs = require("fs");
+import fs from "fs";
 
 function saveFile(data, fileName) {
     const saveDataJson = JSON.stringify(data, null, 2);
@@ -13,4 +13,4 @@ function saveFile(data, fileName) {
     );
 }
 
-module.exports = saveFile;
+export default saveFile;

@@ -101,6 +101,6 @@ const swordShieldTRs = {
 	"bodypress": 99
 }
 
-module.exports = {
+export {
 	swordShieldTRs
 }

@@ -1220,4 +1220,4 @@ const washRotom = {
     },
   },
 };
-module.exports = washRotom;
+export default washRotom;

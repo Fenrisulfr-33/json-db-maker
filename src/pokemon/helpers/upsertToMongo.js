@@ -1,4 +1,4 @@
-const { MongoClient } = require("mongodb");
+import { MongoClient } from "mongodb";
 
 /**
  * Upserts (replace-or-insert) a list of documents into a Mongo collection,
@@ -45,4 +45,4 @@ async function upsertMany(uri, dbName, collectionName, documents) {
 	return { inserted, modified, unchanged };
 }
 
-module.exports = upsertMany;
+export default upsertMany;

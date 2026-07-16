@@ -4,9 +4,9 @@
  * @param {string} filePath - Full path to the JSON file (e.g., './pokemon-data/pokedex/pikachu.json')
  * @returns {object} { success: boolean, error?: string }
  */
+import fs from 'fs';
+
 function writePokemonToFile(pokemonObject, filePath) {
-    const fs = require('fs');
-    
     try {
         // Write formatted JSON with 2-space indentation
         fs.writeFileSync(filePath, JSON.stringify(pokemonObject, null, 2), 'utf8');

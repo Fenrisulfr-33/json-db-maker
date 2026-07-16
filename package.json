@@ -18,13 +18,15 @@
     "pretty": "^2.0.0"
   },
   "scripts": {
-    "test": "jest",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "start": "",
     "create-dex": "node src/pokemon/pokedex/dexes/createNewDex.js -- arg1 arg2",
     "upsert:abilities": "node src/pokemon/abilities/upsert.js",
     "upsert:moves": "node src/pokemon/moves/upsert.js",
     "upsert:pokemon": "node src/pokemon/pokedex/upsert.js",
-    "upsert:all": "npm run upsert:abilities && npm run upsert:moves && npm run upsert:pokemon"
+	"upsert:evolutions": "node src/pokemon/evolutions/upsert.js",
+    "upsert:all": "npm run upsert:abilities && npm run upsert:moves && npm run upsert:pokemon && npm run upsert:evolutions",
+    "evolutions:validate": "node src/pokemon/evolutions/validation.mjs"
   },
   "repository": {
     "type": "git",

@@ -1,8 +1,10 @@
-const fs = require("fs");
-const axios = require("axios");
-const cheerio = require("cheerio");
-const pokemonNames = require("./pokemondbURLNames.json");
-const gamesToScrape = require('./gamesToScrape');
+import fs from "fs";
+import axios from "axios";
+import cheerio from "cheerio";
+import readJson from "../../genericFunctions/files/readJson.js";
+import { gamesToScrape } from './gamesToScrape.js';
+
+const pokemonNames = readJson("./pokemondbURLNames.json", import.meta.url);
 
 // const gamesToScrape = [
 //   { tabName: '#tab-moves-21', gameName: 'scarlet-violet', generation: 9, startingPoint: 0, pokedexLength: 1025 },

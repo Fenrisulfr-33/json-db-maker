@@ -1220,4 +1220,4 @@ const heatRotom = {
     },
   },
 };
-module.exports = heatRotom;
+export default heatRotom;

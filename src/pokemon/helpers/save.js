@@ -1,4 +1,4 @@
-const fs = require("fs");
+import fs from "fs";
 
 const test = [{
     _id: 2
@@ -145,4 +145,4 @@ function logArray(data) {
     console.log(output);
 }
 
-module.exports = save;
+export default save;

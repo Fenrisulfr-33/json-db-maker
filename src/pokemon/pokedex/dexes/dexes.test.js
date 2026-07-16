@@ -5,8 +5,8 @@
  * against the actual lengths of dex files in dexes/dexes_objects/
  */
 
-const dexMap = require('../dexes/dexes_objects/00_dex_map');
-const DEXES_LENGTH = require('./dexes-length');
+import dexMap from '../dexes/dexes_objects/00_dex_map.js';
+import DEXES_LENGTH from './dexes-length.js';
 
 describe('Pokedex Length Validation', () => {
   

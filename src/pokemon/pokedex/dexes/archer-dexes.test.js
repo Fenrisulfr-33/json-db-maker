@@ -1,4 +1,6 @@
-const legendsZaDex = require('./dexes_objects/32-legends-za.json');
+import readJson from '../../../genericFunctions/files/readJson.js';
+
+const legendsZaDex = readJson('./dexes_objects/32-legends-za.json', import.meta.url);
 const legendsZaLength = 232;
 const legendsZAMegaLength = 0;
 

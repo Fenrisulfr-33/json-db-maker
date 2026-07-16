@@ -1,6 +1,8 @@
-const fs = require("fs");
-const paldeck = require("./2024-02-02-paldeck.json");
-const { convertStringToLowercaseJoined } = require("./helperfunctions");
+import fs from "fs";
+import readJson from "../../genericFunctions/files/readJson.js";
+import { convertStringToLowercaseJoined } from "./helperfunctions.js";
+
+const paldeck = readJson("./2024-02-02-paldeck.json", import.meta.url);
 
 const getAbilitiesFromPals = async (list, saveRoute) => {
   for (let i = 0; i < list.length; i++) {

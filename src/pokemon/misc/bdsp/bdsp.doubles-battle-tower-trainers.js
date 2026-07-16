@@ -402,4 +402,4 @@ const doubles = [
     'Yvette & Emilee (Idol & Pokémon Breeder)', // standard end
 ];
 
-module.exports = doubles;
+export default doubles;

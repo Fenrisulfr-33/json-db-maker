@@ -1,8 +1,13 @@
-require("dotenv").config();
+import { fileURLToPath } from "url";
+import path from "path";
+import fs from "fs";
+import dotenv from "dotenv";
+import upsertEntries from "../helpers/upsertEntries.js";
 
-const fs = require("fs");
-const path = require("path");
-const upsertEntries = require("../helpers/upsertEntries");
+dotenv.config();
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const ENTRIES_DIR = path.join(__dirname, "entries");
 
@@ -27,11 +32,11 @@ async function run() {
 		entries: formTabs });
 }
 
-if (require.main === module) {
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
 	run().catch((error) => {
 		console.error(error);
 		process.exit(1);
 	});
 }
 
-module.exports = run;
+export default run;

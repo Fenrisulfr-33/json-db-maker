@@ -962,7 +962,7 @@ const letGoPikachuEeveeTMs = {
 	megahorn: 60,
 };
 
-module.exports = {
+export {
 	redBlueYellowTMs,
 	goldSilverCrystalTMs,
 	rubySapphireEmeraldTMs,

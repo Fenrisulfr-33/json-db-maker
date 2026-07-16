@@ -1198,4 +1198,4 @@ const fanRotom = {
     },
   },
 };
-module.exports = fanRotom;
+export default fanRotom;
