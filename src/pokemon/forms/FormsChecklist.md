@@ -1,7 +1,15 @@
-
 # Pokemon DB Checklist
 
 This document is for management and assurances of data in these documents.
+
+### Unown forms ?????
+
+A - Z ! ?
+
+### Misc
+Castform - Normal/Sunny form/Rainy Form/ Snowy Form
+Deoxys - Normal Forme/Attack Forme/Defense Forme/Speed Forme
+Burmy and Wormadam - 
 
 ## Mega forms
 
@@ -130,3 +138,13 @@ This document is for management and assurances of data in these documents.
 | Hisuian Goodra        | -     | -         | -         |
 | Hisuian Avalugg       | -     | -         | -         |
 | Hisuian Decidueye     | -     | -         | -         |
+
+### Paldean forms
+
+## Hisuian forms
+
+| pokemon               | .json | formTab   | sv-moves  |
+| -                     | -     | -         | -         |
+| Paldean Tauros (Combat Breed)     | -     | -         | -         |
+| Paldean Tauros (Blaze Breed)     | -     | -         | -         |
+| Paldean Tauros (Aqua Breed)     | -     | -         | -         |
