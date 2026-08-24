@@ -1,12 +1,9 @@
 import axios from "axios";
 import cheerio from "cheerio";
-// const pokedex = require("../07-jsons/07-pokedex.json");
 import fs from "fs";
-// const dex = require("../../data/scarlet_violet");
-// const newPokemonArray = []; // this will be the final array that gets converted to the new json object
 import readJson from "../../genericFunctions/files/readJson.js";
 
-const pokemonDatabaseURLNames = readJson("./pokemonDatabaseURLNames.json", import.meta.url);
+const pokemonNames = readJson("./pokemonDatabaseURLNames.json", import.meta.url);
 
 function isSame(str1, str2) {
 	return str1.toLowerCase() === str2.toLowerCase();

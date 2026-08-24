@@ -1,5 +1,5 @@
 export const gamesToScrape = [
-  { tabName: '#tab-moves-22', gameName: 'legends-za', generation: 10, startingPoint: 0, pokedexLength: 1025 },
+  { tabName: '#tab-moves-22', gameName: 'legends-za', generation: 9, startingPoint: 0, pokedexLength: 1025 },
   // { tabName: '#tab-moves-21', gameName: 'scarlet-violet', generation: 9, startingPoint: 0, pokedexLength: 1025 },
   // { tabName: '#tab-moves-20', gameName: 'legends-arceus', generation: 8, startingPoint: 0, pokedexLength: 905 },
   // { tabName: '#tab-moves-19', gameName: 'brilliant-diamond-shining-pearl', generation: 0, startingPoint: 0, pokedexLength: 905 },

@@ -39,7 +39,12 @@
   },
   "homepage": "https://github.com/Fenrisulfr-33/js-json-file-converter-creator#readme",
   "imports": {
-    "#helpers/*": "./src/pokemon/helpers/*"
+    "#helpers/*": "./src/pokemon/helpers/*",
+	"#abilities/*": "./src/pokemon/abilities/*",
+	"#moves/*": "./src/pokemon/moves/*",
+	"#pokedex/*": "./src/pokemon/pokedex/*",
+	"#evolutions/*": "./src/pokemon/evolutions/*",
+	"#genericFunctions/*": "./src/genericFunctions/*"
   },
   "devDependencies": {
     "prettier": "3.9.5"

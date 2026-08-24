@@ -3,13 +3,12 @@ import path from "path";
 import fs from "fs";
 import dotenv from "dotenv";
 import upsertEntries from "../helpers/upsertEntries.js";
+import addMovesToPokemon from "../moves/addMovesToPokemon.js";
+import { POKEDEX_ENTRIES_DIR } from "#helpers/paths.js";
 
 dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const ENTRIES_DIR = path.join(__dirname, "entries");
 
 /**
  * Reads every pokemon JSON file in entries/ and parses it.
@@ -17,14 +16,14 @@ const ENTRIES_DIR = path.join(__dirname, "entries");
  */
 function loadPokemon() {
 	return fs
-		.readdirSync(ENTRIES_DIR)
+		.readdirSync(POKEDEX_ENTRIES_DIR)
 		.filter((file) => path.extname(file) === ".json")
-		.map((file) => JSON.parse(fs.readFileSync(path.join(ENTRIES_DIR, file), "utf8")));
+		.map((file) => JSON.parse(fs.readFileSync(path.join(POKEDEX_ENTRIES_DIR, file), "utf8")));
 }
 
 async function run() {
 	const pokemon = loadPokemon();
-	console.log(`Loaded ${pokemon.length} pokemon from ${ENTRIES_DIR}`);
+	console.log(`Loaded ${pokemon.length} pokemon from ${POKEDEX_ENTRIES_DIR}`);
 	await upsertEntries({ 
 		environment: process.env.MONGO_ENV, 
 		dbName: `pokemon-${process.env.MONGO_ENV}`, 

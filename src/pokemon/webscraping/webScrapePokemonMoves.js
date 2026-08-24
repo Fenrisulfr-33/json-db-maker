@@ -1,34 +1,15 @@
 import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 import axios from "axios";
 import cheerio from "cheerio";
 import readJson from "../../genericFunctions/files/readJson.js";
 import { gamesToScrape } from './gamesToScrape.js';
 
-const pokemonNames = readJson("./pokemondbURLNames.json", import.meta.url);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-// const gamesToScrape = [
-//   { tabName: '#tab-moves-21', gameName: 'scarlet-violet', generation: 9, startingPoint: 0, pokedexLength: 1025 },
-//   // { tabName: '#tab-moves-20', gameName: 'legends-arceus', generation: 8, startingPoint: 0, pokedexLength: 905 },
-//   // { tabName: '#tab-moves-19', gameName: 'brilliant-diamond-shining-pearl', generation: 0, startingPoint: 0, pokedexLength: 905 },
-//   // { tabName: '#tab-moves-18', gameName: 'sword-shield', generation: 8, startingPoint: 0, pokedexLength: 905 },
-//   // { tabName: '#tab-moves-17', gameName: 'lets-go-pikachu-eevee', generation: 7, startingPoint: 0, pokedexLength: 905 },
-//   // { tabName: '#tab-moves-16', gameName: 'ultra-sun-ultra-moon', generation: 7, startingPoint: 0, pokedexLength: 809 },
-//   // { tabName: '#tab-moves-15', gameName: 'sun-moon', generation: 0, startingPoint: 0, pokedexLength: 809 },
-//   // { tabName: '#tab-moves-14', gameName: 'omega-ruby-alpha-sapphire', generation: 6, startingPoint: 0, pokedexLength: 721 },
-//   // { tabName: '#tab-moves-13', gameName: 'x-y', generation: 6, startingPoint: 0, pokedexLength: 721 },
-//   // { tabName: '#tab-moves-12', gameName: 'black-2-white-2', generation: 5, startingPoint: 0, pokedexLength: 649 },
-//   // { tabName: '#tab-moves-11', gameName: 'black-white', generation: 5, startingPoint: 0, pokedexLength: 649 },
-//   // { tabName: '#tab-moves-10', gameName: 'heart-gold-soul-silver', generation: 4, startingPoint: 0, pokedexLength: 493 },
-//   // { tabName: '#tab-moves-9', gameName: 'platinum', generation: 4, startingPoint: 0, pokedexLength: 493 },
-//   // { tabName: '#tab-moves-8', gameName: 'diamond-pearl', generation: 4, startingPoint: 0, pokedexLength: 493 },
-//   // { tabName: '#tab-moves-7', gameName: 'emerald', generation: 3, startingPoint: 0, pokedexLength: 386 },
-//   // { tabName: '#tab-moves-6', gameName: 'fire-red-leaf-green', generation: 3, startingPoint: 0, pokedexLength: 386 },
-//   // { tabName: '#tab-moves-5', gameName: 'ruby-sapphire', generation: 3, startingPoint: 0, pokedexLength: 386 },
-//   // { tabName: '#tab-moves-4', gameName: 'crystal', generation: 2, startingPoint: 0, pokedexLength: 251 },
-//   // { tabName: '#tab-moves-3', gameName: 'gold-silver', generation: 2, startingPoint: 0, pokedexLength: 251 },
-//   // { tabName: '#tab-moves-2', gameName: 'yellow', generation: 1, startingPoint: 0, pokedexLength: 151 },
-//   // { tabName: '#tab-moves-1', gameName: 'red-blue', generation: 1, startingPoint: 0, pokedexLength: 151 },
-// ];
+const pokemonNames = readJson("./pokemonDatabaseURLNames.json", import.meta.url);
 
 const main = (games) => {
   games.forEach((game) => {
@@ -51,8 +32,11 @@ const scrapePokemonMoves = async (
   if (i > pokedexLength - 1) {
     console.log("Errors", errors);
     const saveData = JSON.stringify(pokemonMovesJSON, null, 2);
-    fs.writeFile(`./${gameName}-moves.json`, saveData, (error) => {
-      error ? console.error(error) : null;
+    fs.writeFile(path.join(__dirname, `${gameName}-moves.json`), saveData, (error) => {
+      if (error) {
+        console.error(error);
+        return;
+      }
       console.log("JSON data is saved.");
     });
   } else {
