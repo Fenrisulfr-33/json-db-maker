@@ -75,6 +75,7 @@ Calm down, I know you're excitied like I was
   - [x] Create a TemTem json converter from the free api and just mirror it for now then make a moves just like the pokemon one and have two dbs working in relation.
   - [x] Put the fetcher inside a different file and make it so it cant be used with any api not just this one. Get rid of repetitive code.
   - [ ] Go back and check everything down to lowercase so its easier to do matches and then just capatilize on front end. (potientally check what is better practice, lowercase no spaces, lowercase with '-', or camelcase)
+  
 
 ---
 
@@ -84,3 +85,5 @@ Calm down, I know you're excitied like I was
 
 ## To Do List
   TODO: add a `isMega` key on mega pokemon so instead of saving lists of megas you can use mongoDB to pull a list of mega by the key.
+  TODO: make the pokemon with abilites form on call not stored, or else it needs to be rebuilt everytime
+  

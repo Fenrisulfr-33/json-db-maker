@@ -3,10 +3,8 @@ import path from "path";
 import fs from "fs";
 import dotenv from "dotenv";
 import upsertEntries from "../helpers/upsertEntries.js";
-import addMovesToPokemon from "../moves/addMovesToPokemon.js";
-import { POKEDEX_ENTRIES_DIR } from "#helpers/paths.js";
-
-dotenv.config();
+import { createGameDropDown, addMovesToPokemon } from "./helpers.js";
+import assignPokemonPokedexNumbers from "./AssignPokedexNumbers.js";
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -22,8 +20,13 @@ function loadPokemon() {
 }
 
 async function run() {
-	const pokemon = loadPokemon();
-	console.log(`Loaded ${pokemon.length} pokemon from ${POKEDEX_ENTRIES_DIR}`);
+	const pokemon = loadPokemon().map((mon) => {
+		let updated = assignPokemonPokedexNumbers(mon);
+		updated.moves = addMovesToPokemon(updated._id, updated.moves);
+		updated.gameDropDown = createGameDropDown(updated.moves);
+		return updated;
+	});
+
 	await upsertEntries({ 
 		environment: process.env.MONGO_ENV, 
 		dbName: `pokemon-${process.env.MONGO_ENV}`, 
