@@ -11,18 +11,6 @@
         "german": "Bisasam",
         "french": "Bulbizarre"
     },
-    "pokedexNumber": {
-        "red-blue": 1,
-        "yellow": 1,
-        "gold-silver": 226,
-        "crystal": 226,
-        "firered-leafgreen": 1,
-        "heartgold-soulsilver": 231,
-        "x-y-central": 80,
-        "lets-go-pikachu-eevee": 1,
-        "isle-of-armor": 68,
-        "the-indigo-disk": 164
-    },
     "type": {
         "one": "Grass",
         "two": "Poison"
@@ -60,7 +48,10 @@
     "evs": {
         "spatk": 1
     },
-    "eggGroups": ["Monster", "Grass"],
+    "eggGroups": [
+        "Monster",
+        "Grass"
+    ],
     "species": "Seed Pokémon",
     "catchRate": 45,
     "baseFriendship": 50,

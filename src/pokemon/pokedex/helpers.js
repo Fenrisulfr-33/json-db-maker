@@ -1,32 +1,33 @@
-const redBlueMoves = require("../moves/games/red-blue-moves.json");
-// const red_blue_moves = require("../moves/games/red-blue-moves.json");
-const yellowMoves = require("../moves/games/yellow-moves.json");
-const goldSilverMoves = require('../moves/games/gold-silver-moves.json');
-const crystalMoves = require('../moves/games/crystal-moves.json');
-const rubySapphireMoves = require('../moves/games/ruby-sapphire-moves.json');
-const emeraldMoves = require('../moves/games/emerald-moves.json');
-const fireRedLeafGreenMoves = require('../moves/games/firered-leafgreen-moves.json');
-const diamondPearlMoves = require('../moves/games/diamond-pearl-moves.json');
-const platinumMoves = require('../moves/games/platinum-moves.json');
-const heartGoldSoulSilverMoves = require('../moves/games/heartgold-soulsilver-moves.json');
-const blackWhiteMoves = require('../moves/games/black-white-moves.json');
-const black2White2Moves = require('../moves/games/black-2-white-2-moves.json');
-const xyMoves = require('../moves/games/xy-moves.json');
+import redBlueMoves from "../moves/games/01-red-blue.json" with { type: "json" };
+import yellowMoves from "../moves/games/02-yellow.json" with { type: "json" };
+import goldSilverMoves from "../moves/games/03-gold-silver.json" with { type: "json" };
+import crystalMoves from "../moves/games/04-crystal.json" with { type: "json" };
+import rubySapphireMoves from "../moves/games/05-ruby-sapphire.json" with { type: "json" };
+import fireRedLeafGreenMoves from "../moves/games/06-fire-red-leaf-green.json" with { type: "json" };
+import emeraldMoves from "../moves/games/07-emerald.json" with { type: "json" };
+import diamondPearlMoves from "../moves/games/08-diamond-pearl.json" with { type: "json" };
+import platinumMoves from "../moves/games/09-platinum.json" with { type: "json" };
+import heartGoldSoulSilverMoves from "../moves/games/10-heart-gold-soul-silver.json" with { type: "json" };
+import blackWhiteMoves from "../moves/games/11-black-white.json" with { type: "json" };
+import black2White2Moves from "../moves/games/12-black-2-white-2.json" with { type: "json" };
+import xyMoves from "../moves/games/13-x-y.json" with { type: "json" };
 // TODO: add x & y form moves
-const omegaRubyAlphaSapphireMoves = require('../moves/games/omega-ruby-alpha-sapphire-moves.json');
+import omegaRubyAlphaSapphireMoves from "../moves/games/14-omega-ruby-alpha-sapphire.json" with { type: "json" };
 // TODO: add omega ruby & alpha sapphire form moves
-const sunMoonMoves = require('../moves/games/sun-moon-moves.json');
+import sunMoonMoves from "../moves/games/15-sun-moon.json" with { type: "json" };
 // TODO: add sun and moon form moves
-const ultraSunUltraMoonMoves = require('../moves/games/ultra-sun-ultra-moon-moves.json');
+import ultraSunUltraMoonMoves from "../moves/games/16-ultra-sun-ultra-moon.json" with { type: "json" };
 // TODO: add ultra sun & ultra moon form moves
-const letsGoPikachuEeveeMoves = require('../moves/games/lets-go-pikcahu-eevee-moves.json');
-const swordShieldMoves = require('../moves/games/sword-shield-moves.json');
+import letsGoPikachuEeveeMoves from "../moves/games/17-lets-go-pikachu-eevee.json" with { type: "json" };
+import swordShieldMoves from "../moves/games/18-sword-shield.json" with { type: "json" };
 // TODO: add sword & shield form moves
-const brilliantDiamondShiningPearlMoves = require('../moves/games/brilliant-diamond-shining-pearl-moves.json');
-const legendsArceusMoves = require('../moves/games/legends-arceus-moves.json');
-const scarletVioletMoves = require('../moves/games/scarlet-violet-moves.json');
-const scarletVioletFormsMoves = require('../moves/forms/scarlet-violet-moves.json');
-const concatScarletViolet = scarletVioletMoves.concat(scarletVioletFormsMoves);
+import brilliantDiamondShiningPearlMoves from "../moves/games/19-brilliant-diamond-shining-pearl.json" with { type: "json" };
+import legendsArceusMoves from "../moves/games/20-legends-arceus.json" with { type: "json" };
+import scarletVioletMoves from "../moves/games/21-scarlet-violet.json" with { type: "json" };
+// TODO: scarlet-violet form moves used to be merged in from moves/forms/scarlet-violet-moves.json,
+// which only exists under the legacy top-level /pokemon folder now, not under src/. Not merged in
+// until that data is migrated - see conversation with Claude on 2026-08-24.
+const concatScarletViolet = scarletVioletMoves;
 
 const games = [
     { key: 'scarlet-violet', title: 'Scarlet & Violet' },
@@ -114,4 +115,4 @@ function addPokedexNumbersToPokemon(pokemon) {
 	// its pokedex number to the pokemon object
 }
 
-module.exports = { createGameDropDown, addMovesToPokemon };
+export { createGameDropDown, addMovesToPokemon };

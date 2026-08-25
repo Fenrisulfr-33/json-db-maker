@@ -3,6 +3,7 @@ import path from "path";
 import fs from "fs";
 import dotenv from "dotenv";
 import upsertEntries from "../helpers/upsertEntries.js";
+import schema from "../schemas/move.json" with { type: "json" };
 
 dotenv.config();
 
@@ -25,7 +26,7 @@ function loadMoves() {
 async function run() {
 	const moves = loadMoves();
 	console.log(`Loaded ${moves.length} moves from ${ENTRIES_DIR}`);
-	await upsertEntries({ environment: process.env.MONGO_ENV, dbName: `pokemon-${process.env.MONGO_ENV}`, collectionName: "moves", entries: moves });
+	await upsertEntries({ environment: process.env.MONGO_ENV, dbName: `pokemon-${process.env.MONGO_ENV}`, collectionName: "moves", entries: moves, schema });
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

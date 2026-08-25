@@ -3,6 +3,7 @@ import path from "path";
 import fs from "fs";
 import dotenv from "dotenv";
 import upsertEntries from "../helpers/upsertEntries.js";
+import schema from "../schemas/ability.json" with { type: "json" };
 
 dotenv.config();
 
@@ -25,7 +26,7 @@ function loadAbilities() {
 async function run() {
 	const abilities = loadAbilities();
 	console.log(`Loaded ${abilities.length} abilities from ${ENTRIES_DIR}`);
-	await upsertEntries({ environment: process.env.MONGO_ENV, dbName: `pokemon-${process.env.MONGO_ENV}`, collectionName: "abilities", entries: abilities });
+	await upsertEntries({ environment: process.env.MONGO_ENV, dbName: `pokemon-${process.env.MONGO_ENV}`, collectionName: "abilities", entries: abilities, schema });
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {

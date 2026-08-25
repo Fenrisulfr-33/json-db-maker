@@ -1,63 +1,60 @@
 {
-  "_id": 1018,
-  "key": "archaludon",
-  "name": {
-    "english": "Archaludon"
-  },
-  "pokedexNumber": {
-    "the-indigo-disk": 162
-  },
-  "type": {
-    "one": "Steel",
-    "two": "Dragon"
-  },
-  "abilities": {
-    "one": {
-      "name": "Stamina",
-      "id": 192
+    "_id": 1018,
+    "key": "archaludon",
+    "name": {
+        "english": "Archaludon"
     },
-    "two": {
-      "name": "Sturdy",
-      "id": 5
+    "type": {
+        "one": "Steel",
+        "two": "Dragon"
     },
-    "hidden": {
-      "name": "Stalwart",
-      "id": 242
-    }
-  },
-  "baseStats": {
-    "hp": 90,
-    "atk": 105,
-    "def": 130,
-    "spatk": 125,
-    "spdef": 65,
-    "spd": 85,
-    "total": 600
-  },
-  "info": {
-    "height": "1.2 m (3′11″)",
-    "weight": "39.8 kg (87.7 lbs)"
-  },
-  "gender": {
-    "male": "",
-    "female": "100%",
-    "genderless": false
-  },
-  "evolution": null,
-  "generation": 9,
-  "evs": {
-    "def": 3
-  },
-  "eggGroups": [
-    "Dragon",
-    "Mineral"
-  ],
-  "species": "Alloy Pokémon",
-  "catchRate": 10,
-  "baseFriendship": 0,
-  "baseExp": 0,
-  "growthRate": "Medium Fast",
-  "eggCycles": 10,
-  "nameOrigin": {},
-  "pokedexEntries": {}
+    "abilities": {
+        "one": {
+            "name": "Stamina",
+            "id": 192
+        },
+        "two": {
+            "name": "Sturdy",
+            "id": 5
+        },
+        "hidden": {
+            "name": "Stalwart",
+            "id": 242
+        }
+    },
+    "baseStats": {
+        "hp": 90,
+        "atk": 105,
+        "def": 130,
+        "spatk": 125,
+        "spdef": 65,
+        "spd": 85,
+        "total": 600
+    },
+    "info": {
+        "height": "1.2 m (3′11″)",
+        "weight": "39.8 kg (87.7 lbs)"
+    },
+    "gender": {
+        "male": "",
+        "female": "100%",
+        "genderless": false
+    },
+    "evolution": null,
+    "generation": 9,
+    "evs": {
+        "def": 3
+    },
+    "eggGroups": [
+        "Dragon",
+        "Mineral"
+    ],
+    "species": "Alloy Pokémon",
+    "catchRate": 10,
+    "baseFriendship": 0,
+    "baseExp": 0,
+    "growthRate": "Medium Fast",
+    "eggCycles": 10,
+    "nameOrigin": {},
+    "pokedexEntries": {}
 }

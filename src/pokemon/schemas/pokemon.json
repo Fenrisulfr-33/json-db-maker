@@ -1,132 +1,225 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://pokemon-database.com/schemas/pokemon.json",
-  "title": "Pokemon",
-  "description": "Schema for Pokemon data validation",
-  "type": "object",
-  "required": ["_id", "key", "name", "type", "baseStats"],
-  "properties": {
-    "_id": {
-      "type": "integer",
-      "minimum": 1,
-      "maximum": 1025,
-      "description": "Unique Pokemon ID"
-    },
-    "key": {
-      "type": "string",
-      "pattern": "^[a-z0-9-]+$",
-      "description": "URL-safe key identifier"
-    },
-    "name": {
-      "type": "object",
-      "required": ["english"],
-      "properties": {
-        "english": { "type": "string", "minLength": 1 },
-        "spanish": { "type": "string" },
-        "italian": { "type": "string" },
-        "japanese": { "type": "string" },
-        "chinese": { "type": "string" },
-        "korean": { "type": "string" },
-        "german": { "type": "string" },
-        "french": { "type": "string" }
-      }
-    },
-    "pokedexNumber": {
-      "type": "object",
-      "patternProperties": {
-        "^[a-z-]+$": {
-          "type": "integer",
-          "minimum": 1
-        }
-      }
-    },
-    "type": {
-      "type": "object",
-      "required": ["one"],
-      "properties": {
-        "one": {
-          "type": "string",
-          "enum": ["Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"]
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "https://pokemon-database.com/schemas/pokemon.json",
+    "title": "Pokemon",
+    "description": "Schema for one entry in src/pokemon/pokedex/entries. `moves` and `gameDropDown` are added at upsert time (see pokedex/upsert.js and pokedex/helpers.js) and are not present in the source entry files, so both are optional here to cover the document at either stage.",
+    "type": "object",
+    "required": [
+        "_id",
+        "key",
+        "name",
+        "type",
+        "abilities",
+        "baseStats",
+        "info",
+        "gender",
+        "evolution",
+        "evs",
+        "eggGroups",
+        "species",
+        "catchRate",
+        "baseFriendship",
+        "growthRate",
+        "eggCycles",
+        "nameOrigin",
+        "pokedexEntries"
+    ],
+    "additionalProperties": false,
+    "definitions": {
+        "type": {
+            "type": "string",
+            "enum": ["Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"]
         },
-        "two": {
-          "type": "string",
-          "enum": ["Normal", "Fire", "Water", "Electric", "Grass", "Ice", "Fighting", "Poison", "Ground", "Flying", "Psychic", "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel", "Fairy"]
+        "abilityRef": {
+            "type": "object",
+            "required": ["name", "id"],
+            "additionalProperties": false,
+            "properties": {
+                "name": { "type": "string", "minLength": 1 },
+                "id": { "type": "integer", "minimum": 1, "description": "References abilities entry _id" }
+            }
         }
-      }
     },
-    "abilities": {
-      "type": "object",
-      "properties": {
-        "one": {
-          "type": "object",
-          "required": ["name", "id"],
-          "properties": {
-            "name": { "type": "string" },
-            "id": { "type": "integer", "minimum": 1 }
-          }
+    "properties": {
+        "_id": {
+            "type": "number",
+            "minimum": 1,
+            "description": "Pokedex id; alternate forms use a decimal suffix, e.g. 6.1 for Mega Charizard X (matches the id convention in evolutions/EVOLUTIONS.md)"
         },
-        "two": {
-          "type": "object",
-          "required": ["name", "id"],
-          "properties": {
-            "name": { "type": "string" },
-            "id": { "type": "integer", "minimum": 1 }
-          }
+        "key": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "URL-safe key identifier"
         },
-        "hidden": {
-          "type": "object",
-          "required": ["name", "id"],
-          "properties": {
-            "name": { "type": "string" },
-            "id": { "type": "integer", "minimum": 1 }
-          }
+        "name": {
+            "type": "object",
+            "required": ["english"],
+            "additionalProperties": false,
+            "properties": {
+                "english": { "type": "string", "minLength": 1 },
+                "spanish": { "type": "string" },
+                "italian": { "type": "string" },
+                "japanese": { "type": "string" },
+                "chinese": { "type": "string" },
+                "korean": { "type": "string" },
+                "german": { "type": "string" },
+                "french": { "type": "string" }
+            }
+        },
+        "pokedexNumber": {
+            "type": "object",
+            "description": "Per-game national/regional dex numbers. Not present in the source entry file - computed fresh at upsert time by pokedex/AssignPokedexNumbers.js from dexes/dexes_objects/*.json, so it isn't hand-maintained here.",
+            "additionalProperties": false,
+            "patternProperties": {
+                "^[a-z0-9-]+$": { "type": "integer", "minimum": 1 }
+            }
+        },
+        "type": {
+            "type": "object",
+            "required": ["one"],
+            "additionalProperties": false,
+            "properties": {
+                "one": { "$ref": "#/definitions/type" },
+                "two": { "$ref": "#/definitions/type" }
+            }
+        },
+        "abilities": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "one": { "$ref": "#/definitions/abilityRef" },
+                "two": { "$ref": "#/definitions/abilityRef" },
+                "hidden": { "$ref": "#/definitions/abilityRef" }
+            }
+        },
+        "baseStats": {
+            "type": "object",
+            "required": ["hp", "atk", "def", "spatk", "spdef", "spd", "total"],
+            "additionalProperties": false,
+            "properties": {
+                "hp": { "type": "integer", "minimum": 1, "maximum": 255 },
+                "atk": { "type": "integer", "minimum": 1, "maximum": 255 },
+                "def": { "type": "integer", "minimum": 1, "maximum": 255 },
+                "spatk": { "type": "integer", "minimum": 1, "maximum": 255 },
+                "spdef": { "type": "integer", "minimum": 1, "maximum": 255 },
+                "spd": { "type": "integer", "minimum": 1, "maximum": 255 },
+                "total": { "type": "integer", "minimum": 6, "maximum": 1530 }
+            }
+        },
+        "info": {
+            "type": "object",
+            "required": ["height", "weight"],
+            "additionalProperties": false,
+            "properties": {
+                "height": { "type": "string", "description": "Empty string for a small number of recently-added entries pending data collection" },
+                "weight": { "type": "string", "description": "Empty string for a small number of recently-added entries pending data collection" }
+            }
+        },
+        "gender": {
+            "type": "object",
+            "required": ["male", "female", "genderless"],
+            "additionalProperties": false,
+            "properties": {
+                "male": { "type": "string", "pattern": "^$|^\\d{1,3}(\\.\\d+)?%$" },
+                "female": { "type": "string", "pattern": "^$|^\\d{1,3}(\\.\\d+)?%$" },
+                "genderless": { "type": "boolean" }
+            }
+        },
+        "evolution": {
+            "type": ["number", "null"],
+            "description": "References the _id of this pokemon's chain in src/pokemon/evolutions/entries; null when not yet linked"
+        },
+        "evs": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "hp": { "type": "integer", "minimum": 0, "maximum": 3 },
+                "atk": { "type": "integer", "minimum": 0, "maximum": 3 },
+                "def": { "type": "integer", "minimum": 0, "maximum": 3 },
+                "spatk": { "type": "integer", "minimum": 0, "maximum": 3 },
+                "spdef": { "type": "integer", "minimum": 0, "maximum": 3 },
+                "spd": { "type": "integer", "minimum": 0, "maximum": 3 }
+            }
+        },
+        "eggGroups": {
+            "type": "array",
+            "description": "Empty or containing null for newer entries whose egg group data hasn't been filled in yet",
+            "items": {
+                "type": ["string", "null"],
+                "enum": ["Amorphous", "Bug", "Ditto", "Dragon", "Fairy", "Field", "Flying", "Grass", "Human-Like", "Mineral", "Monster", "Undiscovered", "Water 1", "Water 2", "Water 3", null]
+            }
+        },
+        "species": {
+            "type": "string",
+            "description": "e.g. \"Seed Pokémon\"; empty string for a small number of recently-added entries pending data collection"
+        },
+        "catchRate": {
+            "type": ["integer", "null"],
+            "minimum": 0,
+            "maximum": 255
+        },
+        "baseFriendship": {
+            "type": ["integer", "null"],
+            "minimum": 0,
+            "maximum": 255
+        },
+        "baseExp": {
+            "type": ["integer", "null"],
+            "minimum": 0,
+            "description": "Not yet populated for every entry"
+        },
+        "growthRate": {
+            "type": ["string", "null"],
+            "enum": ["Slow", "Medium Slow", "Medium Fast", "Fast", "Fluctuating", "Erratic", "", null]
+        },
+        "eggCycles": {
+            "type": ["integer", "null"],
+            "minimum": 0,
+            "description": "0 for a small number of recently-added entries pending data collection"
+        },
+        "generation": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 9,
+            "description": "Not yet populated for every entry"
+        },
+        "nameOrigin": {
+            "type": "object",
+            "description": "Free-form word-fragment -> meaning map, e.g. { \"bulb\": \"a type of plant\" }",
+            "additionalProperties": { "type": "string" }
+        },
+        "pokedexEntries": {
+            "type": "object",
+            "description": "Keyed by display name (base form and, for entries covering a regional form in the same file, the form's display name)",
+            "additionalProperties": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "required": ["game", "desc"],
+                    "additionalProperties": false,
+                    "properties": {
+                        "game": { "type": "string", "minLength": 1 },
+                        "desc": { "type": "string", "minLength": 1 }
+                    }
+                }
+            }
+        },
+        "moves": {
+            "type": "object",
+            "description": "Populated at upsert time by pokedex/helpers.js addMovesToPokemon; keyed by game slug"
+        },
+        "gameDropDown": {
+            "type": "array",
+            "description": "Populated at upsert time by pokedex/helpers.js createGameDropDown",
+            "items": {
+                "type": "object",
+                "required": ["key", "title"],
+                "additionalProperties": false,
+                "properties": {
+                    "key": { "type": "string" },
+                    "title": { "type": "string" }
+                }
+            }
         }
-      }
-    },
-    "baseStats": {
-      "type": "object",
-      "required": ["hp", "atk", "def", "spatk", "spdef", "spd", "total"],
-      "properties": {
-        "hp": { "type": "integer", "minimum": 1, "maximum": 255 },
-        "atk": { "type": "integer", "minimum": 1, "maximum": 255 },
-        "def": { "type": "integer", "minimum": 1, "maximum": 255 },
-        "spatk": { "type": "integer", "minimum": 1, "maximum": 255 },
-        "spdef": { "type": "integer", "minimum": 1, "maximum": 255 },
-        "spd": { "type": "integer", "minimum": 1, "maximum": 255 },
-        "total": { "type": "integer", "minimum": 6, "maximum": 1530 }
-      }
-    },
-    "info": {
-      "type": "object",
-      "properties": {
-        "species": { "type": "string" },
-        "height": { "type": "string" },
-        "weight": { "type": "string" },
-        "description": { "type": "string" }
-      }
-    },
-    "evolutions": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "method": { "type": "string" },
-          "level": { "type": "integer" },
-          "item": { "type": "string" },
-          "pokemon": { "type": "string" }
-        }
-      }
-    },
-    "forms": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "name": { "type": "string" },
-          "id": { "type": "integer" }
-        }
-      }
     }
-  },
-  "additionalProperties": true
 }

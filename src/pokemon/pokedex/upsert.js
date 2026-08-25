@@ -5,6 +5,7 @@ import dotenv from "dotenv";
 import upsertEntries from "../helpers/upsertEntries.js";
 import { createGameDropDown, addMovesToPokemon } from "./helpers.js";
 import assignPokemonPokedexNumbers from "./AssignPokedexNumbers.js";
+import schema from "../schemas/pokemon.json" with { type: "json" };
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -27,11 +28,12 @@ async function run() {
 		return updated;
 	});
 
-	await upsertEntries({ 
-		environment: process.env.MONGO_ENV, 
-		dbName: `pokemon-${process.env.MONGO_ENV}`, 
-		collectionName: "national-dex", 
-		entries: pokemon });
+	await upsertEntries({
+		environment: process.env.MONGO_ENV,
+		dbName: `pokemon-${process.env.MONGO_ENV}`,
+		collectionName: "national-dex",
+		entries: pokemon,
+		schema });
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
