@@ -7,6 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 ## [Unreleased]
 
+## - 2026-08-26
+### Added
+- New `learnsets` collection: `src/pokemon/moves/learnsets.js` pivots the 22 per-game move files (`moves/games/*.json`) into one document per Pokemon id, each holding every game's moveset keyed by game slug, instead of embedding movesets on the pokemon document itself. Wired into `moves/upsert.js` so `npm run upsert:moves` upserts both `moves` (definitions) and `learnsets` in one pass.
+- `src/genericFunctions/files/readJsonDir.js`: reusable "read every .json file in a directory and return the parsed array" function, replacing the same `readdirSync().filter().map(JSON.parse)` block that had been copy-pasted across 7 files (all five `upsert.js` scripts, both `validation.mjs` scripts, and the learnsets pivot).
+- `src/pokemon/constants/` folder as a single home for domain constants (`DEX_LENGTHS.js`, `MOVE_LEARN_METHODS.js`), replacing their previous scattered locations (`src/pokemon/` root and `src/pokemon/moves/`).
+- Centralized entry-directory constants in `helpers/paths.js` (`ABILITIES_ENTRIES_DIR`, `EVOLUTIONS_ENTRIES_DIR`, `FORM_TABS_ENTRIES_DIR`, alongside the existing pokedex/moves ones), so every upsert/validation script shares one source of truth instead of recomputing its entries path locally.
+- `formTabs/README.md` and `forms/README.md`: overview docs for what each folder holds and where they're headed - including a stated goal for `forms/` to eventually store only the differences between a form and its base Pokemon instead of full duplicates.
+- `src/pokemon/schemas/evolution.json`: evolutions schema relocated here to sit alongside `pokemon.json`/`move.json`/`ability.json` instead of living inside `evolutions/` itself.
+
+### Changed
+- `pokedex/upsert.js` no longer attaches a `moves` object or computes `gameDropDown` on the pokemon document - both now live in (or will be derived from) the `learnsets` collection instead.
+
+### Removed
+- Deleted dead/superseded files: `DEX_LENGTHS.js` and `MOVE_LEARN_METHODS.js` (moved into `constants/`), `LoadNationalDex.js`, `createNewPokedex.js`, `evolutions/modifier.js`, and `moves/addMovesToPokemon.js` (a second, independently-broken implementation of move-attachment, superseded by the `learnsets` collection).
+
+### Fixed
+- `pokedex/upsert.js` referenced `POKEDEX_ENTRIES_DIR`, a variable that was never imported or declared anywhere in the file - would have thrown `ReferenceError` the moment the script ran. Now sourced from `helpers/paths.js`.
+- `evolutions/upsert.js` imported `EVOLUTION_ENTRIES_DIR`, which doesn't exist in `helpers/paths.js` (the real export is `EVOLUTIONS_ENTRIES_DIR`) - threw immediately on load.
+- `evolutions/validation.mjs` imported its schema from `./schema.json`, which had moved to `src/pokemon/schemas/evolution.json` - threw "Cannot find module" on load.
+- `pokedex/upsert.js` called `createGameDropDown(updated.moves)`, but `moves` is no longer attached to the pokemon document - threw on the very first entry every time the script ran. Removed the call; rebuilding `gameDropDown` from `pokedexNumber` instead of `moves` is left as a TODO.
+- `constants/DEX_LENGTHS.js` referenced `POKEMON_DEX_RED_BLUE`, which was never declared (the real constant is named `RED_BLUE_YELLOW`) - threw `ReferenceError` on import, breaking `moves/games.test.js`.
+- `moves/games.test.js` imported `DEX_LENGTHS` from its old, now-deleted location, and separately imported Legends Z-A move data from a filename (`22-legends-za-moves.json`) that doesn't exist (the real file is `22-legends-za.json`). Both fixed; the suite passes again.
+
 ## - 2026-08-24
 ### Added
 - `pokedex:validate` script (`src/pokemon/pokedex/validation.mjs`), matching the existing `evolutions:validate` pattern.
@@ -32,10 +55,6 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 ### Known gaps (not fixed, intentionally left visible in the schema rather than faked)
 - ~20-25 recently-added entries (Paradox Pokemon, Kitakami/Blueberry DLC) are still missing `growthRate`, `species`, `height`, `eggCycles`, or `eggGroups`.
 - Scarlet/Violet form-specific moves aren't merged in - the source file only exists under the legacy top-level `/pokemon` folder, not under `src/`.
-
-## - 2026-01-15
-### Added
-- Initial stable release of the core software application.
 
 [unreleased]: https://github.com
 : https://github.com

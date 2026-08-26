@@ -1,7 +1,7 @@
 // const DEX_LENGTHS = require("../DEX_LENGTHS.js");
-import DEX_LENGTHS from "../DEX_LENGTHS.js";
+import DEX_LENGTHS from "../constants/DEX_LENGTHS.js";
 import redBlueMoves from "./games/01-red-blue.json" with { type: "json" };
-import legendsZaMoves from "./games/22-legends-za-moves.json" with { type: "json" };
+import legendsZaMoves from "./games/22-legends-za.json" with { type: "json" };
 
 describe("Games", () => {
 	test("Red & Blue moves matches the length of the dex", () => {

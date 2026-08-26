@@ -1,15 +1,10 @@
 import { fileURLToPath } from 'url';
 import path from 'path';
-import fs from 'fs';
 import validateEntries from '../../genericFunctions/schemaValidation.mjs';
 import schema from '../schemas/pokemon.json' with { type: 'json' };
+import readJsonDir from '../../genericFunctions/files/readJsonDir.js';
+import { POKEDEX_ENTRIES_DIR } from '../helpers/paths.js';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const entriesDir = path.join(__dirname, 'entries');
-
-const entries = fs
-	.readdirSync(entriesDir)
-	.filter((file) => path.extname(file) === '.json')
-	.map((file) => JSON.parse(fs.readFileSync(path.join(entriesDir, file), 'utf8')));
+const entries = readJsonDir(POKEDEX_ENTRIES_DIR);
 
 validateEntries(schema, entries);

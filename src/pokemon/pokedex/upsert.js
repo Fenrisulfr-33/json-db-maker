@@ -1,30 +1,22 @@
 import { fileURLToPath } from "url";
 import path from "path";
-import fs from "fs";
 import dotenv from "dotenv";
 import upsertEntries from "../helpers/upsertEntries.js";
-import { createGameDropDown, addMovesToPokemon } from "./helpers.js";
 import assignPokemonPokedexNumbers from "./AssignPokedexNumbers.js";
 import schema from "../schemas/pokemon.json" with { type: "json" };
-
-const __filename = fileURLToPath(import.meta.url);
+import readJsonDir from "#genericFunctions/files/readJsonDir.js";
+import { POKEDEX_ENTRIES_DIR } from "../helpers/paths.js";
 
 /**
  * Reads every pokemon JSON file in entries/ and parses it.
  * @returns {Array<Object>} pokemon documents
  */
-function loadPokemon() {
-	return fs
-		.readdirSync(POKEDEX_ENTRIES_DIR)
-		.filter((file) => path.extname(file) === ".json")
-		.map((file) => JSON.parse(fs.readFileSync(path.join(POKEDEX_ENTRIES_DIR, file), "utf8")));
-}
-
 async function run() {
-	const pokemon = loadPokemon().map((mon) => {
+	const pokemon = readJsonDir(POKEDEX_ENTRIES_DIR).map((mon) => {
 		let updated = assignPokemonPokedexNumbers(mon);
-		updated.moves = addMovesToPokemon(updated._id, updated.moves);
-		updated.gameDropDown = createGameDropDown(updated.moves);
+		// moves (and gameDropDown, which was derived from them) now live in the
+		// learnsets collection instead of on the pokemon document.
+		// TODO: rebuild gameDropDown from pokedexNumber instead of moves.
 		return updated;
 	});
 
