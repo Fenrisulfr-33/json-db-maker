@@ -11,10 +11,20 @@ function saveJsonFile(filePath, data) {
 	});
 }
 
+/**
+ * Removes url key from the API response data and keeps only the names
+ * @param {Array} data API response data containing name and language objects
+ * @returns {Array} Cleaned data containing only the names and languages
+ */
 function cleanData(data) {
 	return data.map(item => item.name);
 }
 
+/**
+ * 
+ * @param {Array} data 
+ * @returns {Array} Cleaned data containing only the names and languages
+ */
 function cleanName(data) {
 	return data.map(item => ({
 		language: item.language.name,
@@ -33,6 +43,43 @@ function cleanPokemonEntries(data){
 	return data.map(item => ({
 		entry_number: item.entry_number,
 		pokemon_species: item.pokemon_species.name
+	}));
+}
+
+function cleanEffectEntries(data) {
+	return data.map(item => ({
+		language: item.language.name,
+		effect: item.effect,
+		short_effect: item.short_effect
+	}));
+}
+
+function cleanEffectChangesEntries(data) {
+	return data.map(item => ({
+		language: item.language.name,
+		effect: item.effect,
+	}));
+}
+
+function cleanEffectChanges(data) {
+	return data.map(item => ({
+		game: item.version_group.name,
+		effect_entries: cleanEffectChangesEntries(item.effect_entries),
+	}));
+}
+
+function cleanPokemonData(data) {
+	return data.map(item => ({
+		is_hidden: item.is_hidden,
+		slot: item.slot,
+		pokemon: item.pokemon.name, // this is lowercase? key
+	}));
+}
+
+function cleanFlavorText(data) {
+	return data.map(item => ({
+		language: item.language.name,
+		flavor_text: item.flavor_text
 	}));
 }
 
@@ -69,4 +116,17 @@ function transformPokedexData(data) {
 	};
 }
 
-export { transformGenerationData, transformPokedexData, saveJsonFile };
+function transformAbilityData(data) {
+	return {
+		_id: data.id,
+		name: data.name, // key?
+		generation: data.generation.name,
+		names: cleanName(data.names),
+		effect_entries: cleanEffectEntries(data.effect_entries),
+		effect_changes: cleanEffectChanges(data.effect_changes),
+		// flavor_text_entries
+		pokemon: cleanPokemonData(data.pokemon)
+	}
+}
+
+export { transformGenerationData, transformPokedexData, transformAbilityData, saveJsonFile };

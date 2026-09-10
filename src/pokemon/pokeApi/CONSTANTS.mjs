@@ -28,6 +28,8 @@ const languageMap = {
 
 const amountOfPokedexes = 36; // 10 doesn't exist?
 
+const amountOfAbilities = 314; // as of the time of this build
+
 const pokedexes = [];
 
-export { generations, knownLanguages, languageMap, amountOfPokedexes, pokedexes };
+export { generations, knownLanguages, languageMap, amountOfPokedexes, amountOfAbilities, pokedexes };

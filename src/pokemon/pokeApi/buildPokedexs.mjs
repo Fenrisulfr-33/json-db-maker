@@ -20,14 +20,14 @@ async function buildPokedexes() {
 	const availableKeys = new Set();
 
 	// Go through each generation, fetch the data, modify, save
-	for (let i = 0; i < amountOfPokedexes; i++) {
+	for (let i = 1; i <= amountOfPokedexes; i++) {
 		// For some reason 10 is not a pokedex skip
-		if (i + 1 === 10) {
+		if (i === 10) {
 			continue;
 		}
 
-		const saveFile = `${saveFolder}/pokedex_${i + 1}.json`;
-		const data = await fetchData(endpoint + (i + 1));
+		const saveFile = `${saveFolder}/pokedex_${i}.json`;
+		const data = await fetchData(endpoint + i);
 		// Comment out once all keys acquired
 		for (const key of Object.keys(data)) {
 			availableKeys.add(key);
