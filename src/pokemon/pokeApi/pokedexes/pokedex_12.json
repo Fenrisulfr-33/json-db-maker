@@ -1,0 +1,667 @@
+{
+    "_id": 12,
+    "name": "kalos-central",
+    "is_main_series": true,
+    "descriptions": [
+        {
+            "language": "fr",
+            "description": ""
+        },
+        {
+            "language": "de",
+            "description": ""
+        },
+        {
+            "language": "es",
+            "description": ""
+        },
+        {
+            "language": "en",
+            "description": ""
+        },
+        {
+            "language": "es-419",
+            "description": ""
+        }
+    ],
+    "names": [
+        {
+            "language": "fr",
+            "name": "Kalos : Centre"
+        },
+        {
+            "language": "de",
+            "name": "Kalos-Zentral"
+        },
+        {
+            "language": "es",
+            "name": "Kalos Centro"
+        },
+        {
+            "language": "en",
+            "name": "Central Kalos"
+        },
+        {
+            "language": "es-419",
+            "name": "Kalos Centro"
+        }
+    ],
+    "pokemon_entries": [
+        {
+            "entry_number": 1,
+            "pokemon_species": "chespin"
+        },
+        {
+            "entry_number": 2,
+            "pokemon_species": "quilladin"
+        },
+        {
+            "entry_number": 3,
+            "pokemon_species": "chesnaught"
+        },
+        {
+            "entry_number": 4,
+            "pokemon_species": "fennekin"
+        },
+        {
+            "entry_number": 5,
+            "pokemon_species": "braixen"
+        },
+        {
+            "entry_number": 6,
+            "pokemon_species": "delphox"
+        },
+        {
+            "entry_number": 7,
+            "pokemon_species": "froakie"
+        },
+        {
+            "entry_number": 8,
+            "pokemon_species": "frogadier"
+        },
+        {
+            "entry_number": 9,
+            "pokemon_species": "greninja"
+        },
+        {
+            "entry_number": 10,
+            "pokemon_species": "bunnelby"
+        },
+        {
+            "entry_number": 11,
+            "pokemon_species": "diggersby"
+        },
+        {
+            "entry_number": 12,
+            "pokemon_species": "zigzagoon"
+        },
+        {
+            "entry_number": 13,
+            "pokemon_species": "linoone"
+        },
+        {
+            "entry_number": 14,
+            "pokemon_species": "fletchling"
+        },
+        {
+            "entry_number": 15,
+            "pokemon_species": "fletchinder"
+        },
+        {
+            "entry_number": 16,
+            "pokemon_species": "talonflame"
+        },
+        {
+            "entry_number": 17,
+            "pokemon_species": "pidgey"
+        },
+        {
+            "entry_number": 18,
+            "pokemon_species": "pidgeotto"
+        },
+        {
+            "entry_number": 19,
+            "pokemon_species": "pidgeot"
+        },
+        {
+            "entry_number": 20,
+            "pokemon_species": "scatterbug"
+        },
+        {
+            "entry_number": 21,
+            "pokemon_species": "spewpa"
+        },
+        {
+            "entry_number": 22,
+            "pokemon_species": "vivillon"
+        },
+        {
+            "entry_number": 23,
+            "pokemon_species": "caterpie"
+        },
+        {
+            "entry_number": 24,
+            "pokemon_species": "metapod"
+        },
+        {
+            "entry_number": 25,
+            "pokemon_species": "butterfree"
+        },
+        {
+            "entry_number": 26,
+            "pokemon_species": "weedle"
+        },
+        {
+            "entry_number": 27,
+            "pokemon_species": "kakuna"
+        },
+        {
+            "entry_number": 28,
+            "pokemon_species": "beedrill"
+        },
+        {
+            "entry_number": 29,
+            "pokemon_species": "pansage"
+        },
+        {
+            "entry_number": 30,
+            "pokemon_species": "simisage"
+        },
+        {
+            "entry_number": 31,
+            "pokemon_species": "pansear"
+        },
+        {
+            "entry_number": 32,
+            "pokemon_species": "simisear"
+        },
+        {
+            "entry_number": 33,
+            "pokemon_species": "panpour"
+        },
+        {
+            "entry_number": 34,
+            "pokemon_species": "simipour"
+        },
+        {
+            "entry_number": 35,
+            "pokemon_species": "pichu"
+        },
+        {
+            "entry_number": 36,
+            "pokemon_species": "pikachu"
+        },
+        {
+            "entry_number": 37,
+            "pokemon_species": "raichu"
+        },
+        {
+            "entry_number": 38,
+            "pokemon_species": "bidoof"
+        },
+        {
+            "entry_number": 39,
+            "pokemon_species": "bibarel"
+        },
+        {
+            "entry_number": 40,
+            "pokemon_species": "dunsparce"
+        },
+        {
+            "entry_number": 41,
+            "pokemon_species": "azurill"
+        },
+        {
+            "entry_number": 42,
+            "pokemon_species": "marill"
+        },
+        {
+            "entry_number": 43,
+            "pokemon_species": "azumarill"
+        },
+        {
+            "entry_number": 44,
+            "pokemon_species": "burmy"
+        },
+        {
+            "entry_number": 45,
+            "pokemon_species": "wormadam"
+        },
+        {
+            "entry_number": 46,
+            "pokemon_species": "mothim"
+        },
+        {
+            "entry_number": 47,
+            "pokemon_species": "surskit"
+        },
+        {
+            "entry_number": 48,
+            "pokemon_species": "masquerain"
+        },
+        {
+            "entry_number": 49,
+            "pokemon_species": "magikarp"
+        },
+        {
+            "entry_number": 50,
+            "pokemon_species": "gyarados"
+        },
+        {
+            "entry_number": 51,
+            "pokemon_species": "corphish"
+        },
+        {
+            "entry_number": 52,
+            "pokemon_species": "crawdaunt"
+        },
+        {
+            "entry_number": 53,
+            "pokemon_species": "goldeen"
+        },
+        {
+            "entry_number": 54,
+            "pokemon_species": "seaking"
+        },
+        {
+            "entry_number": 55,
+            "pokemon_species": "carvanha"
+        },
+        {
+            "entry_number": 56,
+            "pokemon_species": "sharpedo"
+        },
+        {
+            "entry_number": 57,
+            "pokemon_species": "litleo"
+        },
+        {
+            "entry_number": 58,
+            "pokemon_species": "pyroar"
+        },
+        {
+            "entry_number": 59,
+            "pokemon_species": "psyduck"
+        },
+        {
+            "entry_number": 60,
+            "pokemon_species": "golduck"
+        },
+        {
+            "entry_number": 61,
+            "pokemon_species": "farfetchd"
+        },
+        {
+            "entry_number": 62,
+            "pokemon_species": "riolu"
+        },
+        {
+            "entry_number": 63,
+            "pokemon_species": "lucario"
+        },
+        {
+            "entry_number": 64,
+            "pokemon_species": "ralts"
+        },
+        {
+            "entry_number": 65,
+            "pokemon_species": "kirlia"
+        },
+        {
+            "entry_number": 66,
+            "pokemon_species": "gardevoir"
+        },
+        {
+            "entry_number": 67,
+            "pokemon_species": "gallade"
+        },
+        {
+            "entry_number": 68,
+            "pokemon_species": "flabebe"
+        },
+        {
+            "entry_number": 69,
+            "pokemon_species": "floette"
+        },
+        {
+            "entry_number": 70,
+            "pokemon_species": "florges"
+        },
+        {
+            "entry_number": 71,
+            "pokemon_species": "budew"
+        },
+        {
+            "entry_number": 72,
+            "pokemon_species": "roselia"
+        },
+        {
+            "entry_number": 73,
+            "pokemon_species": "roserade"
+        },
+        {
+            "entry_number": 74,
+            "pokemon_species": "ledyba"
+        },
+        {
+            "entry_number": 75,
+            "pokemon_species": "ledian"
+        },
+        {
+            "entry_number": 76,
+            "pokemon_species": "combee"
+        },
+        {
+            "entry_number": 77,
+            "pokemon_species": "vespiquen"
+        },
+        {
+            "entry_number": 78,
+            "pokemon_species": "skitty"
+        },
+        {
+            "entry_number": 79,
+            "pokemon_species": "delcatty"
+        },
+        {
+            "entry_number": 80,
+            "pokemon_species": "bulbasaur"
+        },
+        {
+            "entry_number": 81,
+            "pokemon_species": "ivysaur"
+        },
+        {
+            "entry_number": 82,
+            "pokemon_species": "venusaur"
+        },
+        {
+            "entry_number": 83,
+            "pokemon_species": "charmander"
+        },
+        {
+            "entry_number": 84,
+            "pokemon_species": "charmeleon"
+        },
+        {
+            "entry_number": 85,
+            "pokemon_species": "charizard"
+        },
+        {
+            "entry_number": 86,
+            "pokemon_species": "squirtle"
+        },
+        {
+            "entry_number": 87,
+            "pokemon_species": "wartortle"
+        },
+        {
+            "entry_number": 88,
+            "pokemon_species": "blastoise"
+        },
+        {
+            "entry_number": 89,
+            "pokemon_species": "skiddo"
+        },
+        {
+            "entry_number": 90,
+            "pokemon_species": "gogoat"
+        },
+        {
+            "entry_number": 91,
+            "pokemon_species": "pancham"
+        },
+        {
+            "entry_number": 92,
+            "pokemon_species": "pangoro"
+        },
+        {
+            "entry_number": 93,
+            "pokemon_species": "furfrou"
+        },
+        {
+            "entry_number": 94,
+            "pokemon_species": "doduo"
+        },
+        {
+            "entry_number": 95,
+            "pokemon_species": "dodrio"
+        },
+        {
+            "entry_number": 96,
+            "pokemon_species": "plusle"
+        },
+        {
+            "entry_number": 97,
+            "pokemon_species": "minun"
+        },
+        {
+            "entry_number": 98,
+            "pokemon_species": "gulpin"
+        },
+        {
+            "entry_number": 99,
+            "pokemon_species": "swalot"
+        },
+        {
+            "entry_number": 100,
+            "pokemon_species": "scraggy"
+        },
+        {
+            "entry_number": 101,
+            "pokemon_species": "scrafty"
+        },
+        {
+            "entry_number": 102,
+            "pokemon_species": "abra"
+        },
+        {
+            "entry_number": 103,
+            "pokemon_species": "kadabra"
+        },
+        {
+            "entry_number": 104,
+            "pokemon_species": "alakazam"
+        },
+        {
+            "entry_number": 105,
+            "pokemon_species": "oddish"
+        },
+        {
+            "entry_number": 106,
+            "pokemon_species": "gloom"
+        },
+        {
+            "entry_number": 107,
+            "pokemon_species": "vileplume"
+        },
+        {
+            "entry_number": 108,
+            "pokemon_species": "bellossom"
+        },
+        {
+            "entry_number": 109,
+            "pokemon_species": "sentret"
+        },
+        {
+            "entry_number": 110,
+            "pokemon_species": "furret"
+        },
+        {
+            "entry_number": 111,
+            "pokemon_species": "nincada"
+        },
+        {
+            "entry_number": 112,
+            "pokemon_species": "ninjask"
+        },
+        {
+            "entry_number": 113,
+            "pokemon_species": "shedinja"
+        },
+        {
+            "entry_number": 114,
+            "pokemon_species": "espurr"
+        },
+        {
+            "entry_number": 115,
+            "pokemon_species": "meowstic"
+        },
+        {
+            "entry_number": 116,
+            "pokemon_species": "kecleon"
+        },
+        {
+            "entry_number": 117,
+            "pokemon_species": "honedge"
+        },
+        {
+            "entry_number": 118,
+            "pokemon_species": "doublade"
+        },
+        {
+            "entry_number": 119,
+            "pokemon_species": "aegislash"
+        },
+        {
+            "entry_number": 120,
+            "pokemon_species": "venipede"
+        },
+        {
+            "entry_number": 121,
+            "pokemon_species": "whirlipede"
+        },
+        {
+            "entry_number": 122,
+            "pokemon_species": "scolipede"
+        },
+        {
+            "entry_number": 123,
+            "pokemon_species": "audino"
+        },
+        {
+            "entry_number": 124,
+            "pokemon_species": "smeargle"
+        },
+        {
+            "entry_number": 125,
+            "pokemon_species": "croagunk"
+        },
+        {
+            "entry_number": 126,
+            "pokemon_species": "toxicroak"
+        },
+        {
+            "entry_number": 127,
+            "pokemon_species": "ducklett"
+        },
+        {
+            "entry_number": 128,
+            "pokemon_species": "swanna"
+        },
+        {
+            "entry_number": 129,
+            "pokemon_species": "spritzee"
+        },
+        {
+            "entry_number": 130,
+            "pokemon_species": "aromatisse"
+        },
+        {
+            "entry_number": 131,
+            "pokemon_species": "swirlix"
+        },
+        {
+            "entry_number": 132,
+            "pokemon_species": "slurpuff"
+        },
+        {
+            "entry_number": 133,
+            "pokemon_species": "volbeat"
+        },
+        {
+            "entry_number": 134,
+            "pokemon_species": "illumise"
+        },
+        {
+            "entry_number": 135,
+            "pokemon_species": "hoppip"
+        },
+        {
+            "entry_number": 136,
+            "pokemon_species": "skiploom"
+        },
+        {
+            "entry_number": 137,
+            "pokemon_species": "jumpluff"
+        },
+        {
+            "entry_number": 138,
+            "pokemon_species": "munchlax"
+        },
+        {
+            "entry_number": 139,
+            "pokemon_species": "snorlax"
+        },
+        {
+            "entry_number": 140,
+            "pokemon_species": "whismur"
+        },
+        {
+            "entry_number": 141,
+            "pokemon_species": "loudred"
+        },
+        {
+            "entry_number": 142,
+            "pokemon_species": "exploud"
+        },
+        {
+            "entry_number": 143,
+            "pokemon_species": "meditite"
+        },
+        {
+            "entry_number": 144,
+            "pokemon_species": "medicham"
+        },
+        {
+            "entry_number": 145,
+            "pokemon_species": "zubat"
+        },
+        {
+            "entry_number": 146,
+            "pokemon_species": "golbat"
+        },
+        {
+            "entry_number": 147,
+            "pokemon_species": "crobat"
+        },
+        {
+            "entry_number": 148,
+            "pokemon_species": "axew"
+        },
+        {
+            "entry_number": 149,
+            "pokemon_species": "fraxure"
+        },
+        {
+            "entry_number": 150,
+            "pokemon_species": "haxorus"
+        },
+        {
+            "entry_number": 151,
+            "pokemon_species": "diancie"
+        },
+        {
+            "entry_number": 152,
+            "pokemon_species": "hoopa"
+        },
+        {
+            "entry_number": 153,
+            "pokemon_species": "volcanion"
+        }
+    ],
+    "region": "kalos",
+    "version_groups": [
+        "x-y"
+    ]
+}
